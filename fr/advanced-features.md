@@ -1,6 +1,6 @@
 # Advanced Features
 
-The producer and hub set-up guides will walk you through the Open Food Network’s basic features for enterprise users. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+The [Basic Features](/basic-features.md) chapter steps through the fundamental features required to setup a profile or shop on OFN. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
 
 ## Your Profile
 
