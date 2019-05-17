@@ -69,7 +69,7 @@ To start stocking the products of a producer who is already on the OFN, you must
 * At a minimum, to stock a producer’s products in your store, you’ll need P-OC to add them to your order cycles.
 * If you wish to modify the producer’s price or stock level, you’ll need them to grant you P-I.
 * If you, or the producer want you to be able to manage \(add, edit, delete\) the producer’s products, you’ll need the producer to grant you P-P
-* If the producer is happy for you to have permission to edit their profile, they can also grant you P-OC.
+* If the producer is happy for you to have permission to edit their profile, they can also grant you P-Profile.
 
 _Do you distribute through buying groups? If so make sure to check out the E2E requirements for buying groups below._
 
@@ -93,12 +93,8 @@ Use the following examples to explore your options.
 
 #### 1\) I’m a producer and I stock my products through a hub. What E2Es do I need? What are my options?
 
-* Essential- For the hub to add your products to their shopfront, you’ll need to grant them P-OC. This allows the hub to stock your existing products.
-* Optional- In addition to P-OC, you might also want to give the hub permission to manage your products \(P-P\), to edit your profile \(P-Profile\) or to add to
-
-  [Inventory ](../products/inventory-tool.md)
-
-  \(P-I\).
+* Essential: For the hub to add your products to their shopfront, you’ll need to grant them P-OC. This allows the hub to stock your existing products.
+* Optional: In addition to P-OC, you might also want to give the hub permission to manage your products \(P-P\), to edit your profile \(P-Profile\) or to add to [Inventory](../products/inventory-tool.md) \(P-I\).
 
 #### 2\) A hub that I supply to distributes through buying groups, do I need to give them permission?
 
