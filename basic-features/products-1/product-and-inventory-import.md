@@ -24,7 +24,7 @@ If you need this functionality, please let [your local OFN](https://openfoodnetw
 In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .cvs files directly.   
+**Important note on CSV files**: Microsoft Excel does not open .csv files directly.   
 If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)   
 With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.   
 If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
