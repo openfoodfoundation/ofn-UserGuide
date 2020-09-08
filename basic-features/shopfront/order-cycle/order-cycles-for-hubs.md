@@ -115,7 +115,19 @@ Order cycles will display as green when they are active, yellow when scheduled f
 
 ## **‘Notify Producers’ Button**
 
-By using this button at the top of the page, all the producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  Delivery instructions \(if this field is completed in the incoming products section\) will be also sent in the email.
+By using this button at the top of the page, all the producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
+
+When the Notify Producers button is selected, an email will be sent to all Producers whose products have been ordered in the selected Order Cycle thus far. The email will include Delivery instructions \(if this field is completed in the incoming products section\) as well as the following product information:
+
+* SKUs \(if relevant\)
+* Name of Supplier
+* Product name 
+* Quantity ordered
+* Price per unit
+* Subtotal per product
+* Included Tax \(if relevant\) 
+
+
 
