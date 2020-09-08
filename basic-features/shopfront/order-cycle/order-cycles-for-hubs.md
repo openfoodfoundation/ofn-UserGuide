@@ -119,7 +119,7 @@ By using this button at the top of the page, all the producers linked to the ord
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
 
-When the Notify Producers button is selected, an email will be sent to all Producers whose products have been ordered in the selected Order Cycle thus far. The email will include Delivery instructions \(if this field is completed in the incoming products section\) as well as the following product information:
+When the Notify Producers button is selected there will be a confirmation prompt. Once confirmed, an email will be automatically sent to all relevant Producers. The email will include Delivery instructions \(if this field is completed in the incoming products section\) as well as the following product information:
 
 * SKUs \(if relevant\)
 * Name of Supplier
