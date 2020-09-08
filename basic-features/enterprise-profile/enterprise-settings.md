@@ -227,6 +227,10 @@ In order for a customer to have an OFN account they must have confirmed the emai
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
 {% endhint %}
 
+**Customer names in reports.** If you distribute products from other suppliers / producers, they will be able to run reports showing details of their products as sold through your Order Cycles. This option allows you to make the names of customers visible in these reports. Depending on the distribution model you have in place, this may be necessary for Producers to pack and distribute orders to the customers.
+
+
+
 ### Users
 
 **Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.

@@ -6,10 +6,10 @@ Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](.
 Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
 {% endhint %}
 
-You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
+You open your shop by creating an Order Cycle. When you create an order cycle you select when your shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
 
 **Why Order Cycles?**    
-Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\). 
+Some hubs may wish to have an online store which is perpetually open, and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\). 
 
 For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
 
@@ -88,7 +88,7 @@ For more flexibility, the same order cycle may have **multiple hub distributors*
 
 The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
 
-The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
+The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
 
 ![](../../../.gitbook/assets/multipleoc3%20%281%29.jpg)
 
@@ -115,7 +115,7 @@ Order cycles will display as green when they are active, yellow when scheduled f
 
 ## **‘Notify Producers’ Button**
 
-By using this button at the top of the page, all the producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  
+By using this button at the top of the page, all the Producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
 
@@ -129,5 +129,7 @@ When the Notify Producers button is selected there will be a confirmation prompt
 * Subtotal per product
 * Included Tax \(if relevant\) 
 
+## Producer / Supplier Reports
 
+If your Order Cycle includes products from linked Producers / Suppliers they will be able to log in to their OFN account and view reports about the Order Cycle. By default they will not be able to see any Customer Details in these reports. If you would like your suppliers to access Customer Names in their reports, you can adjust these settings in Shop Preferences in your [Enterprise Settings](../../enterprise-profile/enterprise-settings.md).
 
