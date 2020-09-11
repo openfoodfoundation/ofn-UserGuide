@@ -13,7 +13,7 @@ If you have opened an [Order Cycle](shopfront/order-cycle/), you will be able to
 
 ![Reports available to view and download](../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
-## Reports for Producers / Supplier 
+## Reports for Suppliers 
 
 If you have set [Permissions](enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) for a Hub to sell your products, and they have opened an [Order Cycle ](shopfront/order-cycle/order-cycles-for-hubs.md)with your products listed, you will be able to run reports to pack and process your orders. If you need to see Customer names in these reports, you can ask the Hub to make them visible in these reports. Hubs can make this change in their [Enterprise Settings](enterprise-profile/enterprise-settings.md).
 

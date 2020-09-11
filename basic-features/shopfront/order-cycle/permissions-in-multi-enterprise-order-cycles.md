@@ -61,7 +61,7 @@ A supplying enterprise can not alter the name nor dates of an order cycle.
 In the Reports section \(top horizontal blue menu\) an incoming supplying producer can view the orders they have received for the order cycle
 
 {% hint style="warning" %}
-An incoming supplying enterprise can not see the names of customers who bought their products if they are not also the order cycle coordinator. We hope in future updates of the platform to include this functionality.
+An incoming supplying enterprise does not automatically see the names of customers who bought their products if they are not also the order cycle coordinator. This setting can be changed by the order cycle coordinator \(enterprise that manages the order cycle\). If you need to see customer names to facilitate packing and fulfilment of orders, you can contact your order cycle coordinator and ask them to select the Customer Names in Reports checkbox in [Enterprise Settings](../../enterprise-profile/enterprise-settings.md) under Shop Preferences.
 {% endhint %}
 
 ### **Incoming**
