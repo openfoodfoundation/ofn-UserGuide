@@ -60,7 +60,7 @@ This is not a problem since orders can be modified \(by adding, modifying or del
 
 If a customer _**pays for their goods on their collection**_ or delivery, then the hub manager will have been able to modify the order before payment according to the actual weight and the products actually delivered. Hence in this instance there will be no need to reimburse or re-bill customer.
 
-If an order is _**paid online before delivery**_, then you must refund or invoice for the the difference between monies already received and that owing for the precise products to be delivered. Click here to see [how](../orders/refund-payments.md). 
+If an order is _**paid online before delivery**_, then you must refund or invoice for the the difference between monies already received and that owing for the precise products to be delivered. Click here to see [how](../orders/refunds-and-adjusting-payments.md). 
 
 {% hint style="danger" %}
 An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated. 

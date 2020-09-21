@@ -222,5 +222,5 @@ The Flexible Rate and Price Sack calculators, applied to payment method fees, ma
 
 ## Refunds
 
-Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found [here](../orders/refund-payments.md).
+Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found[ here.](../orders/refunds-and-adjusting-payments.md)
 

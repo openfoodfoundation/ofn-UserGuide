@@ -79,7 +79,7 @@ You can also access full information concerning an order by clicking on the orde
 
 This is what the order management page looks like:
 
-![](../../.gitbook/assets/editorder.jpg)
+![](../../.gitbook/assets/order1.jpg)
 
 #### **Adding and removing products from an order**
 
@@ -89,7 +89,7 @@ You can also change the quantity of each item ordered. Remember to click the **u
 
 **Additional options available under 'Actions'**
 
-![](../../.gitbook/assets/orderactions.jpg)
+![](../../.gitbook/assets/actions.jpg)
 
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
 * **Send Invoice**: This will automatically send the customer an invoice \(in .pdf format\) by email.
@@ -120,7 +120,7 @@ You may wish to use this functionality to:
 
 * grant a discount on an order if a product is damaged
 * deduct credit owed to the customer from their total balance
-* refund a customer \(for more information about Refunds visit [here](refund-payments.md).\)
+* refund a customer \(for more information about Refunds visit [here]().\)
 
 #### Record Partial Payment
 
@@ -132,7 +132,7 @@ To save time you can print multiple invoices at once \(rather than visiting each
 On the Listing Orders page check the box to the left of orders for which you would like to send an invoice. You can increase the number of orders per page from 15 to 100 and select all at once, if desired.  
 Then click 'Print Invoices' button to the top right of the table:
 
-![batch printing invoices](../../.gitbook/assets/batchprintinvoice.jpg)
+![](../../.gitbook/assets/batchprint1.jpg)
 
 A Loading page will pop up while the invoices are generated. On completion you will be able to view \(and download\) a file containing all the invoices for the orders selected:
 

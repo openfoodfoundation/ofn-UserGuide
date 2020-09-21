@@ -4,11 +4,11 @@ It is common for a producer's profile to be created by a hub, and then the hub w
 
 To add a new manager and eventually transfer ownership, here is the procedure to follow: 
 
-* On the admin dashboard, go to the Managers menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Managers\):
+* On the admin dashboard, go to the Users menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Users\):
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Managers", search for the email of the producer you would like to add as a manager.
+* Under "Mangers", search for the email of the producer you would like to add as a manager.
 
 **Case 1: The Producer in question already has a user account with OFN:**    
 Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.

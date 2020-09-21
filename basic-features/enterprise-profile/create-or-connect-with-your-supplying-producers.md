@@ -41,7 +41,7 @@ By default you can create up to **5 enterprise profiles** on the platform. This 
 
 You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
 
-![](../../.gitbook/assets/new-enterprise.png)
+![](../../.gitbook/assets/newenterpriseadd.jpg)
 
 This will take you to this page:
 

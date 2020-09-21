@@ -82,7 +82,7 @@ You can change your profile type \(package\) at any time in the future.  ****Fir
 
 and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option\(s\) from the drop down menus.  \(You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.\)
 
-![](../../.gitbook/assets/change-package.png)
+![](../../.gitbook/assets/enterprisetable.jpg)
 
 ## Next step
 

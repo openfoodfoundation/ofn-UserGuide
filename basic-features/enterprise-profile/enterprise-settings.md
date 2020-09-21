@@ -19,7 +19,7 @@ To save a change of profile type, do not forget to click on "save" at the bottom
 
 You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
 
-![](../../.gitbook/assets/esettingsmenu.jpg)
+![](../../.gitbook/assets/primarydetails.jpg)
 
 {% hint style="danger" %}
 To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
@@ -38,6 +38,8 @@ This short video gives a quick insight into the steps and options detailed below
 {% hint style="warning" %}
 Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
 {% endhint %}
+
+**Sells:** This relates to whether your enterprise is set up as a [profile](../../your-quick-start-on-ofn-given-who-you-are.md#profile) \(sells = none\), [shop](../../your-quick-start-on-ofn-given-who-you-are.md#shop) \(sells = own\) or [hub](../../your-quick-start-on-ofn-given-who-you-are.md#hub) \(sells = any\). You can easily switch between the different [enterprise packages](package-types.md) by changing this setting.
 
 **Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
 
@@ -226,6 +228,12 @@ In order for a customer to have an OFN account they must have confirmed the emai
 {% hint style="warning" %}
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
 {% endhint %}
+
+**Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' \(ie people without an OFN account\) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
+
+Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to remove products from their basket or cancel their order altogether while the shop is open.  They will not be able to add products to their original order- doing this will generate a 2nd order.  [Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer.
+
+**Subscriptions:** If you would like to offer to set up regular repeating orders for your customers then you can enable the [subscriptions](../subscriptions/) functionality here.
 
 **Customer names in reports.** If you distribute products from other suppliers / producers, they will be able to run reports showing details of their products as sold through your Order Cycles. This option allows you to make the names of customers visible in these reports. Depending on the distribution model you have in place, this may be necessary for Producers to pack and distribute orders to the customers.
 

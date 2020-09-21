@@ -16,7 +16,7 @@ At the bottom of the page change Subscriptions to 'enabled'
 * _Customers can change/cancel orders white order cycle is open:_ The customer can modify the quantities of products they request in their subscription and/or cancel the entire order.
 
 {% hint style="info" %}
-In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket and checkout. _Neither you nor they can not add new products to their subscription order once the order cycle is open._
+In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket and checkout. _**Neither you nor they can not add new products to their subscription order once the order cycle is open.**_
 {% endhint %}
 
 ## Shipping and Payment methods for Subscriptions

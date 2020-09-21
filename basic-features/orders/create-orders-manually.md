@@ -42,5 +42,24 @@ The final step is to add the customer’s payment method.  This is found from th
 
 ![](../../.gitbook/assets/manorder8.jpg)
 
+{% hint style="warning" %}
+Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.  
+ ![](../../.gitbook/assets/stripeextra.jpg)  
+{% endhint %}
+
+{% hint style="danger" %}
+You should NEVER write down a customer's card details.
+{% endhint %}
+
+{% hint style="success" %}
+Best practice is to complete the above form directly into a computer/tablet/mobile device while the customer reads out the numbers over the phone.
+{% endhint %}
+
+{% hint style="danger" %}
+You will not be able to opt for a [Payment Method](../shopfront/payment-methods.md) provided by **PayPal** for an order created manually.
+
+![](../../.gitbook/assets/paypalnewpayment.jpg) 
+{% endhint %}
+
 Clicking **update** will finalise this order and send an email confirmation to the customer.
 

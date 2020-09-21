@@ -6,7 +6,7 @@ You can either add products to your catalog one by one \(detailed below\) or by 
 
 Once logged into the Admin Dashboard, select on **Products** on the horizontal blue menu, and then click **+ New Product**.
 
-![](../../.gitbook/assets/add-new-product.png)
+![](../../.gitbook/assets/addnewproduct.jpg)
 
 This will take you to the New Product page.
 
