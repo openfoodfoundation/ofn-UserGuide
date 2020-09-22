@@ -57,7 +57,7 @@ For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional in
 
 {% tabs %}
 {% tab title="Paypal" %}
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
+To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
 2. Under your account name on the top right there is a drop down menu with 'Account Settings'
