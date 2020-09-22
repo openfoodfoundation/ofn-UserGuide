@@ -129,6 +129,14 @@ For advise on selling as a VAT registered enterprise please see this document:
 {% endtab %}
 {% endtabs %}
 
+**Terms and Conditions** \(pdf files only\) : Let your customers know any terms and conditions associated with purchasing from your business \(for example your refund policy\) by uploading a .pdf file here.
+
+![](../../.gitbook/assets/tandc.jpg)
+
+If you opt to add a file here, it will be available for the customer to open and read at checkout.
+
+![](../../.gitbook/assets/tandc-checkout.jpg)
+
 ### Images
 
 **Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 

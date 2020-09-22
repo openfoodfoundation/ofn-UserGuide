@@ -174,6 +174,10 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
   </tbody>
 </table>
 
+{% hint style="danger" %}
+Note: unit\_type in lb and oz are not supported for this feature at present.
+{% endhint %}
+
 #### Import Product Variants
 
 In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\).  As long as the product name is the same, the rows will be imported as variants.  The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.

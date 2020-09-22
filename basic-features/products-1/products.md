@@ -22,7 +22,7 @@ If you are a producer, this will be you. If you're a hub, remember you’ll only
 
 **Product name:** This is the title of the product when displayed on the shop front.
 
-**Units:** Choose the unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
+**Units:** Choose the unit the product is sold in? \(g, oz, lb, kg, L… or item \(bunch, bag, packet\)\)
 
 If you choose g and then enter 1000, the product will be displayed as 1kg for the buyer. Keep in mind that some units of measurement will impact on the operation of certain [enterprise fees](../shopfront/enterprise-fees.md). 
 
