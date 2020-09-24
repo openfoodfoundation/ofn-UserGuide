@@ -44,21 +44,28 @@ The page has filters which allow you to select which orders you want to view. Yo
 You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid' or 'Credit Owed'
 {% endhint %}
 
-**Customer email:**The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’[report](../reports.md).
+**Customer email:** The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’ [report](../reports.md).
 
-**Total:**The total value of the customer’s order
+**Total:** The total value of the customer’s order
 
-### **Changing the payment and shipping state of an order**
+### **Changing the Payment and Shipment state of an order**
 
-On the right hand side of the listing view you can update the payment/shipping state of an order.
+Next to each order in the Order list are two icons. Clicking on the edit icon \(a pencil and paper symbol\) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
 
-Click on the tick icon to indicate that payment has been received \(this records full payments only\).
+* Clicking on the tick icon will change the Payment State to **Paid**. 
+* Clicking on the road icon will change the Shipment state to **Shipped**
 
-![Update to Paid icon](../../.gitbook/assets/tick%20%281%29.png)
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-2.53.24-pm.png)
 
-Click on the road icon to indicate that the order has been shipped.
+#### Capturing a Payment
 
-![Update to Shipped icon](../../.gitbook/assets/shipped.png)
+Capturing a payment will mark it as received. This is helpful if customers do not pay when they order. When you receive cash or a bank transfer from the customer, you can then go in to the Order Listing and capture the payment. To quickly capture a payment as received, or mark that an order has been shipped, you can click on the tick or road icons to the right of the order in the Order List.  
+
+Note that this will capture the full amount of the order as paid. if you want to review the order details before capturing a payment, you can select the edit icon to the right of the Order you wish to review. In the Order Details screen, click on Payments to see the Balance owing and Payment Status for this order. From here you can click on the tick to capture the payment. Once captured, the Payment Status will change to Completed.
+
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-2.42.12-pm.png)
+
+  
 
 {% hint style="info" %}
 The payment and shipping status of an order can also be updated when editing the order \(see below\).
@@ -71,11 +78,7 @@ Another source of potential confusion to be aware of is when customers pay for a
 
 ### **Editing an order**
 
-To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel: 
-
-![](../../.gitbook/assets/edit-order.png)
-
-You can also access full information concerning an order by clicking on the order number \(fourth column of the table\).
+To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel an order.
 
 This is what the order management page looks like:
 
@@ -83,16 +86,17 @@ This is what the order management page looks like:
 
 #### **Adding and removing products from an order**
 
-You can add a product to the order by selecting the variant you require from a drop down list of those available \(at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear\).   
-To remove a product from an order click the rubbish bin icon on the right hand side of the product.   
-You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes \(this will also update enterprise, shipping and payment method fees accordingly, where appropriate\).
+You can add a product to the order by selecting the variant you require from a drop down list of those available \(at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear\).  To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes \(this will also update enterprise, shipping and payment method fees accordingly, where appropriate\).
 
 **Additional options available under 'Actions'**
 
-![](../../.gitbook/assets/actions.jpg)
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)
 
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
-* **Send Invoice**: This will automatically send the customer an invoice \(in .pdf format\) by email.
+* **Send Invoice**: This will automatically send the customer an invoice \(in .pdf format\) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment. 
+* **Print Invoice:** This will generate the invoice in the form of a pdf for printing.
+
+* Below is an example of the invoice that is generated:
 
 ![](../../.gitbook/assets/invoicenew.jpg)
 
@@ -101,8 +105,9 @@ Please check regional regulations regarding the information legally required to 
 We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
 {% endhint %}
 
-* Print Invoice: This will generate the invoice in the form of a pdf for printing.
-* Cancel Order: Cancel the order
+* **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
+
+#### \*\*\*\*
 
 #### **View customer details**
 
@@ -110,7 +115,7 @@ Customer information \(email, billing, shipping addresses and phone numbers\) ar
 
 ![](../../.gitbook/assets/ordermenu.jpg)
 
-#### **Modify an Order**
+#### **Modify an Order or Record Partial Payment**
 
 Click on 'Adjustments' in the right hand menu \(screen shot above\).  On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
 
@@ -120,11 +125,9 @@ You may wish to use this functionality to:
 
 * grant a discount on an order if a product is damaged
 * deduct credit owed to the customer from their total balance
-* refund a customer \(for more information about Refunds visit [here]().\)
-
-#### Record Partial Payment
-
-Visit the 'Payments' page from the right hand menu in screen shot above to record partial payments.
+* refund a customer 
+* record a partial payment
+* see [Refunding and Adjusting Payments](refunds-and-adjusting-payments.md) for more information about making adjustments to orders
 
 ### Batch Print Invoices
 
@@ -148,8 +151,7 @@ To print invoices only for those orders associated with a specific Shipping Meth
 
 ## Bulk order management
 
-We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. This page, on the other hand, details all the products that were purchased in your orders.   
-This functionality is useful for modifying multiple orders at once that may contain the same product \(quantity change, product out of stock etc\). The page looks like:
+We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. The Bulk Order Management page, on the other hand, details all the products that were purchased in your orders. This functionality is useful for modifying multiple orders at once that may contain the same product \(quantity change, product out of stock etc\). The page looks like:
 
 ![](../../.gitbook/assets/bom3.jpg)
 

@@ -19,7 +19,7 @@ On the OFN platform, refunds and additional payments can only be taken **automat
 Using the OFN Platform, you can either process a Total refund, or make an adjustment to the order to change the balance owing, and then process a Partial refund.
 
 {% hint style="warning" %}
- If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually mark the payment as received in OFN.
+ If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
 {% endhint %}
 
 ### Total Refund
@@ -27,7 +27,7 @@ Using the OFN Platform, you can either process a Total refund, or make an adjust
 To issue a refund, select the relevant payment method from the tabs below:
 
 {% hint style="warning" %}
-For all methods it is best practice to refund the payment to the customer and then mark the order as cancelled. 
+For all methods it is best practice to refund the payment to the customer before you mark the order as cancelled. 
 {% endhint %}
 
 {% tabs %}
@@ -59,7 +59,7 @@ Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking
 {% endtab %}
 
 {% tab title="Stripe" %}
-Order payment is collected automatically on creation \(except for subscriptions\) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Order payment is collected automatically on creation \(except for [subscriptions](../subscriptions/)\) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
 ![](https://lh6.googleusercontent.com/9_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
 
@@ -96,7 +96,7 @@ Once this has been done, you can [mark the order as cancelled](refunds-and-adjus
 
 #### Marking an order as cancelled
 
-Once you have issued a refund, you cancel an order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ \(top right hand blue button\)
+Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ \(top right hand blue button\)
 
 ![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk_iLVrBwt9metOp_RqXmSKL8dRCxFtj6VqTEDjx7z_NHERFNJPw-CdOlNGGmBYp)
 
