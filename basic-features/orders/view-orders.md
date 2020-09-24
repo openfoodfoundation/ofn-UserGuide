@@ -48,7 +48,7 @@ You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid
 
 **Total:** The total value of the customer’s order
 
-### **Changing the Payment and Shipment state of an order**
+### **Changing the Payment and Shipment state of an order** <a id="payment-and-shipment-state"></a>
 
 Next to each order in the Order list are two icons. Clicking on the edit icon \(a pencil and paper symbol\) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
 
