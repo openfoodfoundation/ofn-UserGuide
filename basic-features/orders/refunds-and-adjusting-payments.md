@@ -16,13 +16,19 @@ On the OFN platform, refunds and additional payments can only be taken **automat
 
 ## Refunds
 
-### Total Refund
+Using the OFN Platform, you can either process a Total refund, or make an adjustment to the order to change the balance owing, and then process a Partial refund.
 
-{% hint style="info" %}
-For all methods it is best practice to refund the payment to the customer and then mark the order as cancelled. 
+{% hint style="warning" %}
+ If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually mark the payment as received in OFN.
 {% endhint %}
 
-To issue the refund, select the relevant payment method from the tabs below:
+### Total Refund
+
+To issue a refund, select the relevant payment method from the tabs below:
+
+{% hint style="warning" %}
+For all methods it is best practice to refund the payment to the customer and then mark the order as cancelled. 
+{% endhint %}
 
 {% tabs %}
 {% tab title="Cash/BACS" %}
@@ -53,7 +59,7 @@ Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking
 {% endtab %}
 
 {% tab title="Stripe" %}
-For **non-subscription** orders payment is collected automatically on creation and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Order payment is collected automatically on creation \(except for subscriptions\) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
 ![](https://lh6.googleusercontent.com/9_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
 
@@ -68,7 +74,7 @@ This will automatically send the payment back to the credit or debit card used b
 Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
 {% endhint %}
 
-Follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
+Once you have issued a refund, follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled). It is important to process the refund BEFORE you cancel the order! 
 {% endtab %}
 
 {% tab title="PayPal" %}
@@ -90,7 +96,7 @@ Once this has been done, you can [mark the order as cancelled](refunds-and-adjus
 
 #### Marking an order as cancelled
 
-[Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ \(top right hand blue button\)
+Once you have issued a refund, you cancel an order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ \(top right hand blue button\)
 
 ![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk_iLVrBwt9metOp_RqXmSKL8dRCxFtj6VqTEDjx7z_NHERFNJPw-CdOlNGGmBYp)
 
@@ -104,9 +110,9 @@ Note you can not cancel an order which has been marked as ‘Shipped’
 
 ### Partial Refund
 
-There are two main ways to [edit an order](view-orders.md#editing-an-order):
+To issue a partial refund, you first need to edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can either remove an item, or make an adjustment \(eg. to fees\):
 
-1.**Remove an item** which is not in stock or change the quantity of associated with an item by going to[ Orders -&gt; edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon to the right of the item in question, as shown below:
+**1.Edit by Removing an item which is not in stock or changing the quantity of an item** by going to[ Orders -&gt; edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon to the right of the item in question, as shown below:
 
 ![](https://lh3.googleusercontent.com/j2D8s2OgT-b37OoQHBIitKnWXP6nQ4kDv-EoR4uuFAAjUyulllo0thorXy0UkABcLpXgmunQNeDzNk2buHsOv-B7qt7ZdpH2JNoBW-b5cHDQKn6d1zct_wiRuhTXOJ91gGPm1zYQ)
 
@@ -116,16 +122,18 @@ Select ‘Update and Recalculate Fees’ at the bottom of the page.
 If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
 {% endhint %}
 
-2. Add a new ‘**Adjustment**’ to the [order](view-orders.md#modify-an-order) by visiting **Orders -&gt; Edit -&gt; Adjustments** from the right hand menu.
+**2. Edit by Changing the Fees** in the [order](view-orders.md#modify-an-order) by visiting **Orders -&gt; Edit -&gt; Adjustments** from the right hand menu.
 
 ![](https://lh3.googleusercontent.com/qu1o7_GwVwvozkH-aSaxH7Pg9ZJ9mcd-jXM0VrNmUTGyMeOfKmdhf8WPa66FjVayQEryr1Bkv4Q_2UfVSlhSCDvvQcSaZ-ARj-gJG01cWPTRh4ktAMy1ofk4gyUiWQ4ZoK2OfkjB)
 
-This will bring up a list which includes a breakdown of enterprise fees for each item in the order as well as shipping and payment method fees.  
-Select **+New Adjustment** \(the top right hand button\)
+This will bring up a list of enterprise fees for each item in the order as well as shipping and payment method fees. You can adjust one of these fees by clicking on the ‘edit’ icon to the right of the item in question.  
+
+
+**3. Edit by adding a new Adjustment** to the ****[**order**](view-orders.md#modify-an-order) ****by visiting **Orders -&gt; Edit -&gt; Adjustments** from the right hand menu and selecting **+New Adjustment** \(the top right hand button\) to make a separate adjustment that is unrelated to fees.
 
 ![](https://lh4.googleusercontent.com/EthxGvVJ3p4skPNpKYy4ivNt3e6xe3pJb4qtgfe_3Z3ESM3WxnkRXrGaXvKZIbKnJoNJ5lI-kn8J_sEe1Lwn-3VOiiSYtQ2OUcVu7LlKSVrjgoFo9UWyeBitqKXRFB1_5ccyuQdB)
 
-Add the relevant details, remembering that for **a refund**, then the value needs to be a **negative number**. When finished, click ‘continue’.
+Add the relevant details, remembering that for **a refund**,  the value needs to be a **negative number**. When finished, click ‘continue’.
 
 ![](https://lh3.googleusercontent.com/RfvWyS1G6v7NVNIDGWTlpfK9hfZj7Vy5_Q6NxlEEyWYtAnebNEphT8XTCSPGvC2EaIGrxioqhcGfaBOIpgqjhjqtSiCwCMKcd4BLFV9M2YIWQ32XkpkAqz_fV-8GWI7CpkLteRpl)
 
@@ -133,11 +141,10 @@ Add the relevant details, remembering that for **a refund**, then the value need
 You can use ‘Adjustments’ to partially refund a customer for a substandard product.
 {% endhint %}
 
-Once the order has been amended to reflect the missing products then the order will appear with the payment state of ‘Credit Owing’.
+Once the order has been amended to reflect either the missing / adjusted products, the adjusted fees, or the new adjustment, the order will appear with the payment state of ‘Credit Owing’ for the amount they no longer need to pay.
 
-![](https://lh5.googleusercontent.com/aGvQJ0nE36Xu8FkoYCGjw2zRY98_mL3YynlMoaTgeH8fBUuNgbe4T4pT-cn4trgaMIU0Q2aYMnu-YbjJcsYoPoCk6R72x8fcBRkXadSIY74vgZHvjaXYojyk1DdKmusQH6pQynkl)
-
-To process a partial refund, choose the payment method from the following tabs
+**Process the Partial Refund**  
+To process a partial refund of the amount that is now owing on the order, see instructions by choosing the payment method from the following tabs:
 
 {% tabs %}
 {% tab title="Cash/BACS" %}
@@ -154,7 +161,7 @@ A **negative value** in the ‘Amount’ field means the refund is recorded.
 {% endtab %}
 
 {% tab title="Stripe" %}
-Using the OFN platform you can refund a customer who paid by Stripe automatically to their credit or debit card.
+Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
 
 1.Visit **Orders -&gt; Edit Order** and then select ‘Payments’ from the right hand menu
 
