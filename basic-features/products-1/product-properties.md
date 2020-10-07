@@ -2,6 +2,12 @@
 
 You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
 
+{% tabs %}
+{% tab title="Australia" %}
+
+{% endtab %}
+
+{% tab title="Canada" %}
 * Certified Organic/ Fair Trade / Biodynamic
 * Produced within 15 / 30 / 50 miles
 * RSPCA assured
@@ -15,6 +21,36 @@ You can apply product properties to your products, as a way of letting your cust
 * Vegetarian
 * Special Offer
 * Green Coffee Shop Scheme
+* Christmas
+* Certified Kosher
+* Certified Halal
+{% endtab %}
+
+{% tab title="UK" %}
+This is a list of product and enterprise properties available in the UK:
+
+* Certified Organic/ Fair Trade / Biodynamic
+* Produced within 15 / 30 / 50 miles
+* RSPCA assured
+* Grown in Polycultures
+* Gluten-free
+* Nut-free
+* Plastic-free
+* Dairy-free
+* Special Dietary Requirements
+* Vegan
+* Vegetarian
+* Special Offer
+* Green Coffee Shop Scheme
+* Certified Kosher
+* Certified Halal
+* Christmas
+{% endtab %}
+
+{% tab title="USA" %}
+
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 If you'd like to apply a property which is not listed above then please get in touch. We consider any new properties which might have widespread appeal.

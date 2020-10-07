@@ -89,11 +89,11 @@ These differ from country to country and they depend on local regulations and la
 {% endtab %}
 
 {% tab title="Canada" %}
-The 2 Business Number fields:  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.  
-Charges sales tax?:If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'  
-Display logo on invoices:  If you have uploaded a logo and you want it to display on your invoices,  select the box  
-Add customized tax at the end of invoices:   Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers.   
-Terms and Conditions:  see below
+**The 2 Business Number fields:**  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.  
+**Charges sales tax?:**If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'  
+**Display logo on invoices:**  If you have uploaded a logo and you want it to display on your invoices,  select the box  
+**Add customized tax at the end of invoices:**   Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers.   
+**Terms and Conditions:**  see below
 {% endtab %}
 
 {% tab title="Catalunya" %}
