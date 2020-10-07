@@ -8,22 +8,7 @@ You can apply product properties to your products, as a way of letting your cust
 {% endtab %}
 
 {% tab title="Canada" %}
-* Certified Organic/ Fair Trade / Biodynamic
-* Produced within 15 / 30 / 50 miles
-* RSPCA assured
-* Grown in Polycultures
-* Gluten-free
-* Nut-free
-* Plastic-free
-* Dairy-free
-* Special Dietary Requirements
-* Vegan
-* Vegetarian
-* Special Offer
-* Green Coffee Shop Scheme
-* Christmas
-* Certified Kosher
-* Certified Halal
+
 {% endtab %}
 
 {% tab title="UK" %}
