@@ -8,7 +8,22 @@ You can apply product properties to your products, as a way of letting your cust
 {% endtab %}
 
 {% tab title="Canada" %}
-
+* Organic - certified
+* Organic - not certified
+* Fair trade
+* Local - within 100 km
+* GMO free
+* Gluten free
+* Vegan
+* Ethically sourced
+* Biodegradable
+* No spray
+* Integrated pest management
+* Rainforest alliance certified
+* Fgh
+* Free-range
+* My Pick Verified local farmer
+* Coupon 
 {% endtab %}
 
 {% tab title="UK" %}
@@ -33,6 +48,10 @@ This is a list of product and enterprise properties available in the UK:
 {% endtab %}
 
 {% tab title="USA" %}
+
+{% endtab %}
+
+{% tab title="" %}
 
 {% endtab %}
 {% endtabs %}
