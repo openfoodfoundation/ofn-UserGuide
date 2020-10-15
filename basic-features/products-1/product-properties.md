@@ -48,7 +48,20 @@ This is a list of product and enterprise properties available in the UK:
 {% endtab %}
 
 {% tab title="USA" %}
-
+This is a list of product and enterprise properties available in the USA:
+Certified Organic
+Grass Fed and Finished
+Pasture Raised
+Biodynamic
+Certified Naturally Grown
+Chemical-Free
+Animal Welfare Approved
+Non-GMO Verified
+FSMA Compliant
+Plastic-free
+Certified Organic Ingredients
+Conventionally Grown
+Organically grown or raised, not certified
 {% endtab %}
 
 {% tab title="" %}
