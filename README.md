@@ -2,9 +2,9 @@
 
 | Versión de idioma | Enlace a la guía de usuarias |
 | :--- | :--- |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png)  | _You are reading the English version !_ |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png)  | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
+| ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | _You are reading the English version !_ |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 
 **Esta guía está diseñada para sacar el mayor provecho de la plataforma Open Food Network para soportar la operación de empresas alimentarias locales y «pequeñas cadenas alimenticias» en donde usted vive.**
 
@@ -16,7 +16,7 @@ Open Food Network es un proyecto global que soporta la organización operativa d
 
 Este vídeo corto le dará una breve introducción a cómo funciona Open Food Network, y qué podemos hacer para su negocio de alimentos o su organización.
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
+{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" caption="" %}
 
 ## ¿Cómo usar esta guía?
 
@@ -57,3 +57,4 @@ Open Food Network hace muchas cosas, pero ninguna herramienta puede adaptarse a 
 ## Retroalimentación
 
 ¿Alguna dificultad con esta guía de usuaria? ¿Hace falta información? ¿O tal vez usted quiera compartir algunas de las funcionalidades que le gustaría ver en el futuro? ¡Póngase en contacto con [su entidad OFN local](local-ofn-organizations-and-contacts.md) para cualquier retroalimentación!
+
