@@ -4,7 +4,7 @@ Es posible accesar a la plataforma Open Food Network en varios idiomas, y desde 
 
 Las entidades locales brindan un servicio «SAAS» \(Software as a service, de forma que no hay que instalar y ejecutar el código una misma\), pero siempre se pueden encontrar el código fuente [aquí](https://github.com/openfoodfoundation/openfoodnetwork#boards?repos=6257856), ya que esta liberado bajo la licencia AGPL 3.
 
-Por lo general, las entidades locales que brindan este servicio SAAS también brindan otros servicios para soportar de forma más general el desarrollo del sector alimenticio local, como entrenamiento, consultoría, programas de incubación, etc. ¡Póngase en contacto con ellas a través de su sitio web para más informaión! Vea [aquí](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Por lo general, las entidades locales que brindan este servicio SAAS también brindan otros servicios para soportar de forma más general el desarrollo del sector alimenticio local, como entrenamiento, consultoría, programas de incubación, etc. ¡Póngase en contacto con ellas a través de su sitio web para más información! Vea [aquí](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 
   
 ¿Quiere más información sobre qué es la Open Food Network? ¡[Revise nuestro sitio web global](https://www.openfoodnetwork.org/)!
