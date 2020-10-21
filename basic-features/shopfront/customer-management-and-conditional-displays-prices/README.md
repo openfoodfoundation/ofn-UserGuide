@@ -6,3 +6,5 @@ For some enterprises \(such as community food groups\) 'members' may be eligible
 
 '[**Tags and Tag rules**](tags-and-tag-rules.md)' are the mechanism on the OFN platform whereby differential pricing and other benefits can be imparted to specific customer groups, if desired.
 
+For step-by-step guides on how to implement tags and tag rules to provide specific functionalities view the [How To section here](../../../hub-management-tips/how-tos/).
+

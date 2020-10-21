@@ -7,7 +7,7 @@ Once customers have been grouped into categories with tags, you will be able to 
 * Making certain payment methods visible/invisible
 * Making order cycles visible/invisible
 
-Most often this feature is required by enterprises who have different shop setups for members/non-members or different groups of customers such as wholesale/retail customers.
+Most often this feature is required by enterprises who have different shop setups for members/non-members or different groups of customers such as wholesale/retail customers.  More examples can be found in our [How To](../../../hub-management-tips/how-tos/) section.
 
 ## How to set up a Tag rule
 
