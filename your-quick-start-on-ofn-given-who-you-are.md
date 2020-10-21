@@ -1,87 +1,89 @@
 ---
-description: Identify the classification of your food enterprise within the OFN platform.
+description: >-
+  Identiicar la clasificación de su empresa de alimentos dentro de la plataforma
+  Open Food Network.
 ---
 
-# Where does my business fit in OFN?
+# ¿Dónde calza mi negocio en Open Food Network?
 
-Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
+Dependiendo del tipo de empresa de alimentos que esté administrando, puede usar la plataforma Open Food Network de formas diferente you will use the Open Food Network platform differently.
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
+Clasificamos las empresas de alimentos de tres formas: [Perfiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Tiendas](your-quick-start-on-ofn-given-who-you-are.md#shop) o [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
-![](.gitbook/assets/l-flowchart%20%281%29.png)
+![](.gitbook/assets/index.svg)
 
-_The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub \(or vice versa\) as your business grows and/or needs change._
+_La flexibilidad del software de Open Food Network le permite cambiar de perfil a tienda a hub \(y vice versa\) conforme su negocio crezca y/o necesite cambios._
 
 ## Hub
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens,  Retail shops, Food Banks, Wholesale Distributors...
+Mercado de agricultoras, esquema de cajas de vegetales, grupos de minifundistas, grupos comunitarios de comida social, cooperativas alimenticias, hubs de alimentos, CSA, jardines de mercado o ciudad, tiendas minoristas, bancos de comida, distribuidoras al por mayor...
 {% endhint %}
 
-Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
+Los hubs pueden tener muchas formas, pero en esencia, una empresa se clasifica mejor como «Hub» en Open Food Network si quieren **vender productos hechos por otras**. Se pueden vender productos propios junto a productos de granjeras, pasteleras, cultivadoras... \(un «**Hub de productoras»**\) o actuar únicamente como distribuidora y vender una colección de comestibles hechos por empresas \(locales\) \(un «**Hub de no productoras**»\).
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
+Si prefiere vender sólo productos que **usted** hace, entonces la clasificación de «[tienda](your-quick-start-on-ofn-given-who-you-are.md#shop)» se ajusta mejor a sus necesidades.
 {% endhint %}
 
-#### OFN can help your hub thrive and prosper by:
+#### Open Food Network puede ayudar a que su hub prospere de las siguientes formas:
 
-1. Increasing your online visibility.
-2. Providing your customers with a virtual 'farmers' market' experience
-3. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-4. Being able to take orders periodically to fit in with seasonal supply, production rotas and more...
-5. Helping organise regular repeating orders such as veg box schemes.
-6. Helping to build strong working relationships with local producers and food enterprises who supply you with goods.
+1. Aumentando su visibilidad en línea.
+2. Brindándole a sus clientes una experiencia de «mercado de agricultoras» virtual.
+3. Organizando sus tareas administrativas con niveles de inventario, órdenes, finanzas, reportes de empaque, todo en un mismo lugar.
+4. Habilitando las órdenes periódicas para ajustare a la oferta de temporada, rotaciones de producción y más...
+5. Ayudando a organizar ordenes repetidas regulares, tales como esquemas de cajas de vegetales.
+6. Ayudando a construir fuertes relaciones de trabajo con productoras locales y empresas alimenticias que brindan bienes.
 
-_The Hub enterprise has the most flexibility of the three enterprise types in OFN and you may find it necessary to adjust your enterprise type to 'hub' in order to unlock some of the more complex features we can offer._
+_La empresa de Hub es la más flexible de los tres tipos de empresa en Open Food Network, y pueden encontrar necesario ajustar su tipo de empresa a «hub» para desbloquear algunas de las funcionalidades más complejas que ofrecemos._
 
-**Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+**Configurar un hub en Open Food Network** puede ser tan simple como seguir 5 pasos, sólo siga nuestra guía de inicio rápido [aquí](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Shop
+## Tienda
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Granjeras, pasteleras, cultivadoras, minifundistas individuales, empresas caseras, pequeñas agricultoras....
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell** _**only**_ **produce** that **you** make.
+Las tiendas pueden tener muchas formas, pero en esencia, una empresa se clasifica mejor como «Tienda» en Open Food Network si quieren **vender** _**sólo**_ **productos** que **ustedes** hacen.
 
 {% hint style="danger" %}
-If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
+Si quieren vender productos hechos por otras además de los propios es necesario registrarse como «[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)».
 {% endhint %}
 
-As a shop; as well as selling directly to customers through your shop front; you can also supply other OFN retailers \(Hubs\) with your produce.
+Como una tienda, además de vender de forma directa a clientes a través de su escaparate, también se puede brindar sus productos a otros minoristas de Open Food Network \(Hubs\).
 
 {% hint style="warning" %}
-If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
+Si prefiere no organizar ventas a clientes de forma directa, sino sólo brindar bienes a un hub de Open Food Network, entonces la clasificación de «[Perfil](your-quick-start-on-ofn-given-who-you-are.md#profile)» se ajusta mejor a sus necesidades.
 {% endhint %}
 
-#### OFN can help your shop thrive and prosper by:
+#### Open Food Network puede ayudar a que su hub prospere de las siguientes formas:
 
-1. Increasing your online visibility.
-2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-3. Being able to sell in a manner which suits your needs, whether it is periodic orders to fit in with a seasonal potato harvest or a weekly cycle which matches your baking production... it's up to you!
-4. Helping to build strong working relationships with local food distributors.
+1. Aumentando su visibilidad en línea.
+2. Organizando sus tareas administrativas con niveles de inventario, órdenes, finanzas, reportes de empaque, todo en un mismo lugar.
+3. Habilitando las ventas de una forma que se ajuste a sus necesidades, ya sea con órdenes periódicas que calcen con una cosecha de temporada de papas, o un ciclo semanal que calce con su producciones de pasteles... ¡usted decide!
+4. Ayudando a construir fuertes relaciones de trabajo con sus distribuidoras locales de comida.
 
-**Setting up on OFN** can be a simple 5-step process, just follow our quick starters guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
+**Configurar una tienda en Open Food Network** puede ser tan simple como seguir 5 pasos, sólo siga nuestra guía de inicio rápido [aquí](quick-start-guides/producer-shop-quick-setup-guide.md).
 
-## Profile
+## Perfil
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Granjeras, pasteleras, cosechadoras, minifundistas individuales, empresas caseras, pequeñas agricultoras...
 {% endhint %}
 
-The 'Profile' is the most basic enterprise classification on OFN and is ideal for micro enterprises or individuals who prefer to concentrate on growing, making, baking and/or producing food.
+El «Perfil» es la clasificación de empresa más básica y es ideal para micro empesas o individuos que prefieren concentrarse en cultivar, hacer, hornear y/o producir alimentos.
 
-An OFN profile is ideal for **increasing your online visibility** and gives you the opportunity to connect in a simple manner with local retailers \(hubs\) who can manage customer sales for you.
+Un perfil de Open Food Network es ideal para **aumentar su visibilidad en línea** y da la opoprtunidad de conectarse de forma simple con minoristas locales \(hubs\) que pueden administrar las ventas a clientes por usted.
 
 {% hint style="warning" %}
-If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' classification is better suited to your needs.
+Si prefiere organizar las ventas a clientes usted misma, entonces la clasificación de «[tienda](your-quick-start-on-ofn-given-who-you-are.md#shop)» o «[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)» se ajusta mejor a sus necesidades
 {% endhint %}
 
-#### OFN can help your food enterprise thrive and prosper by:
+#### Open Food Network puede ayudar a que su hub prospere de las siguientes formas:
 
-1. Increasing your online visibility.
-2. Helping to build strong working relationships with local food distributors and retailers \(OFN hubs\) to whom you supply goods.
+1. Aumentando su visibilidad en línea.
+2. Ayudándole a construir fuertes relaciones de trabajo con distribuidoras locales de alimentos y minoristas \(Open Food Network hubs\) a quienes les brinda bienes.
 
-**Setting up on OFN** can be a simple 4-step process; just follow our quick starters' guide [here](quick-start-guides/profile-only-quick-setup-guide.md).
+**Configurar un perfil en Open Food Network** puede ser tan simple como seguir 4 pasos, sólo siga nuestra guía de inicio rápido [aquí](quick-start-guides/profile-only-quick-setup-guide.md).
 
