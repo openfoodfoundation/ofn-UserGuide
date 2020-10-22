@@ -1,60 +1,59 @@
-# Customer FAQs
+# Preguntas frecuentes de clientes
 
-%accordion%What are the OFN's transparency features?%accordion%
+%accordion%¿Cuáles son las funcionalidades de transparencia de Open Food Network?%accordion%
 
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
+Las cadenas de suministro de tiendas de abarrotes tradicionales están envueltas en misterio, lo que hace difícil que clientes sepan de dónde viene su comida, cómo ha sido producida y dónde terminará su dinero. La transparencia es central para la Open Food Network, porque creemos que cadenas de suministro visibles son más saludables que aquellas ocultas. En la Open Food Network, las clientes siempre pueden ver de dónde viene su comida y qué proporción del precio va a las granjeras.
 
-In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
-
-%/accordion%
-
-%accordion%How does shopping on the OFN bring benefits to farmers, the environment and my local community?%accordion%
-
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+En una tienda en línea, el gráfico de pastel del precio muestra cómo se distribuye el precio entre la productora y otras participantes como el «hub» o la tienda minorista. También se pueden ver las propiedades del producto \(tales como un certificado orgánico, de pastoreo, etc\) para saber más sobre cómo ha sido producida la comida.
 
 %/accordion%
 
-%accordion%How is the OFN different to other online food delivery services?%accordion%
+%accordion%¿Cómo comprar en Open Food Network beneficia a granjeras, el ambiente y mi comunidad local?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
-
-%/accordion%
-
-### Placing orders
-
-%accordion%What are order cycles?%accordion%
-
-Some shops operate their ordering and delivery in ‘order cycles’, as opposed to shops which are perpetually open and process orders on a one-by-one basis. Order cycles are a way for enterprises to process orders in bulk, which makes their business more efficient, so they can pass on savings to you \(think how inefficient it would be for a farmer to harvest a lettuce each time an order is placed\).
-
-An order cycle starts with a period of time when the shop is open and accepts orders. Then it will close, and the shop will process \(harvest, pack and deliver\) all of the orders that were placed. This process will then repeat itself. A full order cycle might take 2 weeks \(e.g. the shop is open for 10 days, and then orders are harvested, packed and delivered in 4 days\). For customers, this can mean that you will place your order a few days to a week before your order is delivered. Once you get used to ordering in advance like this, and planning your shopping ahead, the system works well, and brings you the freshest goodies!
-
-If you see that a shop is closed, just return back when their next order cycle is open to start shopping with them.
+Open Food Network vuelve a las productoras visibles de nuevo, dándoles reconocimiento y un precio justo por su difícil trabajo. Un sistema alimenticio con comercio más directo entre granjeras y empresas de la comunidad local \(en lugar de corporaciones multinacionales\) mantiene el dinero de la comida en las manos de la comunidad y construye lazos y compresión. Comprar de forma local también trae beneficios para el ambiente a través de menos millas recorridas por la comida y consumo de acuerdo con la temporada.
 
 %/accordion%
 
-%accordion%How are orders delivered?%accordion%
+%accordion%¿Cómo se diferencia Open Food Network de otros servicios de entrega de comida en línea?%accordion%
 
-All online shops on the ONF are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
-
-%/accordion%
-
-%accordion%What are the payment options?%accordion%
-
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
+Open Food Network no tiene fines de lucro y está comprometida a construir un sistema alimenticio mejor y más justo. Algunas tiendas en línea aún se abastecen a través de cadenas de suministros convencionales que están envueltas en misterio. En Open Food Network siempre es posible ver de dónde viene la comida. Open Food Network también está contribuyendo a algo más grande. El código del software de Open Food Network es libre para que otras lo usen, entonces contribuye a mejorar los sistemas alimenticios de todo el mundo.
 
 %/accordion%
 
-%accordion%Can I see a record of my past orders?%accordion%
+### Haciendo ordenes
 
-You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
+%accordion%¿Qué son los ciclos de ordenes?%accordion%
 
-%/accordion%
+Algunas tiendas operan sus ordenes y entregas en «ciclos de ordenes», diferente a tiendas que están abiertas de forma perpetua y procesos de ordenes que son una por una. Los ciclos de ordenes son una forma para que las empresas procesen ordenes al por mayo, lo que hace su negocio más eficiente, de forma que puedan pasar los ahorros a las consumidoras \(piense en lo ineficiente que sería que una granjera coseche una lechuga cada vez que recibe una orden\).
 
-%accordion%What are buying groups and how can I join or establish one?%accordion%
+Un ciclo de ordenes empieza con un periodo de tiempo en el que la tienda está abierta y acepta órdenes. Luego cerrará, y la tienda procesará \(cosechará, empacará y entregará\) todas las ordenes recibidas. Este proceso luego se repite. Un ciclo de ordenes completo podría tomar 2 semanas \(por ejemplo, la tienda está abierta por 10 días, y luego las ordenes son cosechadas, empacadas y entregadas en 4 días\). Para clientes, esto puede significar que la orden se hace entre unos días y una semana antes de que la orden sea entregada. Una vez que las personas se acostumbran a ordenar así, con antelación, y planear sus compras, ¡el sistema funciona bien y entrega los productos más frescos!
 
-A buying group is a collective of customers, who place a bulk order through a shop, then receive and distribute the order amongst members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build  sense of community.
-
-If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
+Si la tienda está cerrada, sólo hay que regresar cuando el siguiente ciclo de órdenes esté abierto para empezar a comprarles.
 
 %/accordion%
 
+%accordion%¿Cómo se entregan las órdenes?%accordion%
+
+Todas las tiendas en línea en la Open Food Network so operadas de forma independiente y ofrecen distintos métodos de entrega. Algunas tiendas ofrecen métodos de entrega más convencionales como entrega hasta la casa, o por correo. Otras tendrán formas más creativas de llevar la comida de la granjera a la mesa, tales como acopio en una ubicación central \(como una escuela, un mercado de agricultoras o un lugar de trabajo\), recolección para una verdulería o carnicería de barrio o distribución a través de un grupo de compradoras \(grupo de consumidoras\).
+
+%/accordion%
+
+%accordion%¿Cuáles son las opciones de pago?%accordion%
+
+Todas las tiendas en línea en la Open Food Network son operadas de forma independiente y ofrecen distintos métodos de pago. Visite una tienda para ver cuáles son las opciones disponibles. La mayoría de tiendas usan una combinación de tarjeta de crédito, PayPal, pagos con pin, transferencias bancarias o efectivo.
+
+%/accordion%
+
+%accordion%¿Puedo ver un registro de mis ordenes anteriores?%accordion%
+
+Se pueden ver las órdenes anteriores iniciando sesión en la página de inicio, haciendo clic en el engrane en la esquina superior derecha y seleccionando Cuenta. Aquí se ve el resumen de las órdenes en cada tienda y es posible ver detalles de cada orden individual.
+
+%/accordion%
+
+%accordion%¿Qué son grupos de compradoras y cómo me puedo unir o establecer uno?%accordion%
+
+Un grupo de compradoras es un colectivo de clientes que hacen sus ordenes al por mayor, y luego reciben y distribuyen la orden entre las miembras. Esto puede ocurrir en el patio de alguien, o en un espacio comunitario local. Los grupos de compradoras por lo general no tienen fines de lucro y son manejados por sus miembras. Al ordenar al por mayor y tomar la tarea de empacar y distribuir las ordenes individuales, las miembras de un grupo de compradoras pueden acceder a buenos productos a precios más bajos. Unirse o establecer un grupo de compradoras con vecinas o un grupo comunitario puede ser una gran forma de obtener productos asequibles y también construir un sentido de comunidad.
+
+Si una tienda entrega a un grupo de compradoras, pregúnteles cómo se puede unir. O si quiere iniciar un nuevo grupo de compradoras, contacte una tienda para ver si pueden hacerlo, y hable con su comunidad para involucrar a otras.
+
+%/accordion%
