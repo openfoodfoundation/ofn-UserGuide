@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Benvenuto nella Guida per gli utenti di OFN](README.md)
-* [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
-* [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
-* [Quick Start Guides](quick-start-guides/README.md)
+* [Istanze locali di OFN e contatti](local-ofn-organizations-and-contacts.md)
+* [Quale profilo OFN si adatta alla mia attività?](your-quick-start-on-ofn-given-who-you-are.md)
+* [Guida veloce per iniziare](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Profile](quick-start-guides/profile-only-quick-setup-guide.md)

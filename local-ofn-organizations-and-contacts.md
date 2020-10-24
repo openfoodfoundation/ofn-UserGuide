@@ -1,27 +1,21 @@
-# Local OFN organisations and contacts
+# Istanze locali di OFN e contatti
 
-You can access the Open Food Network platform in various languages, and from various providers, depending on where you are located. 
+Puoi accedere alla piattaforma Open Food Network in diverse lingue, e da diversi fornitori, a seconda di dove sei.  
 
-The local entities provide you with a “Saas”’ service \(Software as a service, so you don’t have to deploy and run the code yourself\), but you can always find the source code [here](https://github.com/openfoodfoundation/openfoodnetwork#boards?repos=6257856), as it is an open source software released under the AGPL 3 licence.
+Le istanze locali forniscono un servizio "Saas" \("Software as a service" - Software come servizio, così non devi sviluppare e implementare il codice da solo\), ma puoi sempre trovare il codice sorgente [qui](https://github.com/openfoodfoundation/openfoodnetwork#boards?repos=6257856), poichè è un programma open source rilasciato con la licenza AGPL 3.
 
-Usually the local entities that provide this Saas service also provide other services to support more generally the development of the local food sector, like training, consulting, incubation programs, etc. Get in touch with them through their website to learn more about them !  See [here](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Di solito le istanze locali che forniscono questo servizio Saas forniscono anche altri servizi per supportare più in generale lo sviluppo del settore alimentare locale, come formazione, consulenze, programmi di incubazione di imprese, ecc. Contattale attraverso il loro sito web per saperne di più! Vedi  [qui](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 
   
-Want to learn more about what is the Open Food Network? [Check our global website](https://www.openfoodnetwork.org/)!
+Vuoi conoscere di più riguardo Open Food Network? [Visita il nostro sito globale](https://www.openfoodnetwork.org/)!
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Location</th>
-      <th style="text-align:left">
-        <p>Access to platform</p>
-        <p>provided by</p>
-      </th>
-      <th style="text-align:left">Link to the local access</th>
-      <th style="text-align:left">
-        <p>Languages provided</p>
-        <p>by the local platform</p>
-      </th>
+      <th style="text-align:left">Paese</th>
+      <th style="text-align:left">Accesso alla piattaforma fornito da</th>
+      <th style="text-align:left">Link al sito locale</th>
+      <th style="text-align:left">Lingue previste nel sito locale</th>
     </tr>
   </thead>
   <tbody>
@@ -81,7 +75,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Italy</td>
+      <td style="text-align:left">Italy**</td>
       <td style="text-align:left">OFN Italy</td>
       <td style="text-align:left"><a href="https://app.openfoodnetwork.it/">https://app.openfoodnetwork.it/</a>
       </td>
@@ -147,7 +141,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
   </tbody>
 </table>
 
-_\*Local platform is run by volunteers only and not regularly updated and maintained, there might be discrepancies between this user guide and the actual local platform._
+_\*La piattaforma locale è gestita solo da volontari e non è aggiornata regolarmente, ci potrebbero essere discrepanze tra questa guida e la piattaforma locale in uso._ 
 
-_\*\*Local provider is in the process of setting up the local platform and building the offer and support to local users._
+_\*\*Il fornitore locale sta impostando la piattaforma locale e costruendo l'offerta di supporto per gli utenti locali._ 
 
