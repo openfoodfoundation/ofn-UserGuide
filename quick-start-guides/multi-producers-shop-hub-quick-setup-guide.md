@@ -1,28 +1,28 @@
 ---
-description: Simple steps to start your OFN journey as a HUB
+description: Semplici passaggi per iniziare il tuo viaggio su OFN come HUB
 ---
 
 # Hub
 
-It's easy to get started on OFN, just follow the steps below:
+Iniziare ad usare OFN è semplice, basta attuare i seguenti passaggi:
 
 ![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  If you wish to sell goods that you make as well as those of others then choose the 'Producer' and then 'Hub' [package types](../basic-features/enterprise-profile/package-types.md); whereas, if you only want to sell good made by others then choose the 'Non-Producer' and 'Hub' package options. Complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your products.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
-3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
-4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
-5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
+1. [Registra il tuo profilo aziendale](../basic-features/register-and-create-your-profile.md).  Se hai intenzione di vendere sia i tuoi prodotti che quelli di altri produttori, allora scegli le[ opzioni](../basic-features/enterprise-profile/package-types.md) "Produttore" e poi "Hub"; se invece hai intenzione di vendere solo prodotti di altri produttori, scegli le opzioni "Non-Produttore" e poi "Hub" Completa le tue [impostazioni dell'azienda](../basic-features/enterprise-profile/enterprise-settings.md) con i dettagli richiesti.
+2. Inserisci i tuoi prodotti.  Se sei un 'Hub Produttore' allora [crea](../basic-features/products-1/products.md) \(o [importa](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) il listino dei tuoi prodotti. Sia per Hub 'Produttore' che 'Non-Produttore', contatta le aziende locali i cui prodotti vorresti vendere nel tuo Hub. Chiedi loro di impostare [permessi dell'Azienda](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) per collegare i vostri profili aziendali su OFN. 
+3. Imposta i [metodi di pagamento](../basic-features/shopfront/payment-methods.md) disponibili per i tuoi clienti \(in contanti alla consegna, bonifico, pagamento online con carta di credito, ecc.\) 
+4. Imposta i [metodi di spedizione](../basic-features/shopfront/shipping-methods.md) disponibili per i tuoi clienti \(ritiro in luogo ed orario definito; consegna a domicilio, ecc.\) 
+5. Imposta un [ciclo di richieste](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : così il tuo negozio aprirà alla data di inizio da te definita! Un ciclo di richieste è un periodo durante il quale i consumatori possono richiedere i prodotti che saranno consegnati o ritirati in un momento stabilito. Alcuni Hub hanno un ciclo di richieste settimanale. Alcuni hanno un ciclo di richieste sempre aperto.
 
-Congrats!  Your shop is now live!
+Congratulazioni! Il tuo Hub è ora attivo!
 
 {% hint style="info" %}
-To earn a little revenue to cover the cost of organising sales you may like to add an '[Enterprise Fee](../basic-features/shopfront/enterprise-fees.md)'- this mark-up is added to the selling price of products on your shopfront.
+Per applicare un piccolo ricarico al prezzo di vendita per coprire i costi organizzativi, puoi aggiungere una [Tariffa aziendale](../basic-features/shopfront/enterprise-fees.md)'- questo importo sarà sommato al prezzo di vendita dei prodotti nella tua vetrina. 
 {% endhint %}
 
-When you start receiving orders, you can manage them in the [orders](../basic-features/orders/) section.  
+Quando inizi a ricevere gentili richieste, puoi gestirle nella sezione [gentili richieste](../basic-features/orders/).  
 
-All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
+Tutti i dati di cui hai bisogno per preparare e consegnare i tuoi prodotti possono essere consultati nella sezione [report](../basic-features/reports.md).
 
 ## More advanced features you might need
 

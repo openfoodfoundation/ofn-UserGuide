@@ -1,89 +1,87 @@
 ---
-description: >-
-  Identifica la classificazione della tua attività all'interno della piattaforma
-  OFN.
+description: Identify the classification of your food enterprise within the OFN platform.
 ---
 
-# Quale profilo OFN si adatta alla mia attività?
+# Where does my business fit in OFN?
 
-Il tuo utilizzo della piattaforma Open Food Network dipende dal tipo di attività che svolgi.
+Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
 
-Ci sono tre diversi tipi di profili: [Profili](your-quick-start-on-ofn-given-who-you-are.md#profile), [Negozi](your-quick-start-on-ofn-given-who-you-are.md#shop) o [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub).
+We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
 ![](.gitbook/assets/l-flowchart%20%281%29.png)
 
-_La flessibilità di Open Food Network ti permette comunque di passare da profilo, a negozio, a hub \(o viceversa\) se la tua attività cresce e/o i tuoi bisogni cambiano._
+_The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub \(or vice versa\) as your business grows and/or needs change._
 
 ## Hub
 
 {% hint style="success" %}
-Mercato contadino, Gruppi d'offerta, Negozi collaborativi, Food Coop, Gruppi di Acquisto Solidali, CSA, Orti collaborativi, Rivendite, Distributori, Negozi di produttori, Botteghe... 
+Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens,  Retail shops, Food Banks, Wholesale Distributors...
 {% endhint %}
 
-Gli Hub possono assumere forme diverse, ma, in sostanza, la tua attività corrisponde ad un "Hub" se hai intenzione di **vendere anche prodotti di altri.** Puoi distribuire i tuoi prodotti insieme a quelli di altri produttori \(un '**Hub Produttore**'\) o agire come semplice distributore di prodotti di diversi produttori \(locali\) \(un **Hub Non-Produttore**'\).
+Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
 
 {% hint style="info" %}
-Se intendi vendere solo prodotti **tuoi** , allora il profilo '[negozio](your-quick-start-on-ofn-given-who-you-are.md#shop)' è quello che fa per te.
+If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
 {% endhint %}
 
-#### OFN può supportare il tuo hub:
+#### OFN can help your hub thrive and prosper by:
 
-1. Aumentando la tua visibilità online.
-2. Fornendo ai consumatori un'esperienza vituale di "mercato contadino"
-3. Rendendo più fluidi e funzionali i tuoi compiti amministrativi attraverso funzionalità di gestione stock, ordini, flussi di cassa, report di distribuzione, tutto nello stesso posto.  
-4. Permettendoti di ricevere ordini periodici che si adattano con la stagionalità della produzione e altro...
-5. Aiutandoti ad organizzare ordini ciclici regolari come abbonamenti a cassette miste. 
-6. Aiutandoti a costruire relazioni lavorative solide con i produttori locali che ti forniscono i prodotti. 
+1. Increasing your online visibility.
+2. Providing your customers with a virtual 'farmers' market' experience
+3. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
+4. Being able to take orders periodically to fit in with seasonal supply, production rotas and more...
+5. Helping organise regular repeating orders such as veg box schemes.
+6. Helping to build strong working relationships with local producers and food enterprises who supply you with goods.
 
-_Il profilo Hub è il più flessibile su OFN e potresti aver bisogno di passare il tuo profilo ad "Hub" per accedere ad alcune funzionalità complesse che offre la piattaforma._ 
+_The Hub enterprise has the most flexibility of the three enterprise types in OFN and you may find it necessary to adjust your enterprise type to 'hub' in order to unlock some of the more complex features we can offer._
 
-**Configurare il tuo profilo su OFN** è molto semplice, seguendo i 5 passaggi indicati nella nostra Guida veloce per iniziare, [qui](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+**Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Negozio
+## Shop
 
 {% hint style="success" %}
-Agricoltori, Allevatori, Trasformatori...
+Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
 {% endhint %}
 
-I Negozi possono assumere forme diverse, ma, in sostanza, la tua attività corrisponde ad un "Negozio" su OFN se hai intenzione di **vendere** _**solo**_ **i tuoi prodotti**.
+Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell** _**only**_ **produce** that **you** make.
 
 {% hint style="danger" %}
-Se hai intenzione di vendere anche prodotti altrui oltre ai tuoi, allora è necessario registrarti come '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
+If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
 {% endhint %}
 
-Come negozio, oltre a vendere direttamente i tuoi prodotti attraverso la tua vetrina, puoi anche fornire i tuoi prodotti ad altri distributori \(Hub\) di OFN.
+As a shop; as well as selling directly to customers through your shop front; you can also supply other OFN retailers \(Hubs\) with your produce.
 
 {% hint style="warning" %}
-Se non hai intenzione di organizzare autonomamente la vendita ai consumatori su OFN ma **solo** di fornire i tuoi prodotti ad un Hub di OFN, allora il semplice '[Profilo](your-quick-start-on-ofn-given-who-you-are.md#profile)' è ciò che fa per te.
+If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
 {% endhint %}
 
-#### OFN può supportare il tuo Negozio: 
+#### OFN can help your shop thrive and prosper by:
 
-1. Aumentando la tua visibilità online.
-2. Rendendo più fluidi e funzionali i tuoi compiti amministrativi attraverso funzionalità di gestione stock, ordini, flussi di cassa, report di distribuzione, tutto nello stesso posto. 
-3. Permettendoti di vendere in una modalità che si adatti ai tuoi bisogni, che sia un ordine periodico che corrisponde al tuo raccolto annuale o un ciclo settimanale che corrisponde ai tuoi ritmi di panificazione...dipende da te!
-4. Supportandoti nel creare relazioni solide con i distributori locali.
+1. Increasing your online visibility.
+2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
+3. Being able to sell in a manner which suits your needs, whether it is periodic orders to fit in with a seasonal potato harvest or a weekly cycle which matches your baking production... it's up to you!
+4. Helping to build strong working relationships with local food distributors.
 
-**Configurare il tuo profilo su OFN** è molto semplice, seguendo i 5 passaggi indicati nella nostra Guida veloce per iniziare, [qui](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+**Setting up on OFN** can be a simple 5-step process, just follow our quick starters guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
 
-## Profilo
+## Profile
 
 {% hint style="success" %}
-Agricoltori, Allevatori, Trasformatori...
+Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
 {% endhint %}
 
-Il semplice 'Profilo' è l'opzione base ed è ideale per le micro imprese o gli individui che preferiscono concentrarsi nella produzione del cibo affidandosi ad altri per la distribuzione. 
+The 'Profile' is the most basic enterprise classification on OFN and is ideal for micro enterprises or individuals who prefer to concentrate on growing, making, baking and/or producing food.
 
-Un Profilo OFN è ideale per **aumentare la tua visibilità online** e per relazionarti in modo semplice ai distributori locali \(Hub\) che possono distribuire i tuoi prodotti per conto tuo.
+An OFN profile is ideal for **increasing your online visibility** and gives you the opportunity to connect in a simple manner with local retailers \(hubs\) who can manage customer sales for you.
 
 {% hint style="warning" %}
-Se preferisce organizzare autonomamente la distribuzione dei tuoi prodotti, allora i profili '[Negozio](your-quick-start-on-ofn-given-who-you-are.md#shop)' o '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' si adattano meglio alle tue esigenze.
+If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' classification is better suited to your needs.
 {% endhint %}
 
-#### OFN può supportare la tua azienda:
+#### OFN can help your food enterprise thrive and prosper by:
 
-1. Aumentando la tua visibilità online.
-2. Aiutandoti a creare relazioni solide con i distributori locali \(Hub di OFN\) a cui fornisci i tuoi prodotti. 
+1. Increasing your online visibility.
+2. Helping to build strong working relationships with local food distributors and retailers \(OFN hubs\) to whom you supply goods.
 
-**Configurare il tuo profilo su OFN** è molto semplice, seguendo i 5 passaggi indicati nella nostra Guida veloce per iniziare, [qui](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+**Setting up on OFN** can be a simple 4-step process; just follow our quick starters' guide [here](quick-start-guides/profile-only-quick-setup-guide.md).
 
