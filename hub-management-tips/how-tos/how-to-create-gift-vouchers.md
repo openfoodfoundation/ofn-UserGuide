@@ -15,7 +15,7 @@ This would have the extra advantage for the gifter that the cost of the gift wou
 ## Process
 
 {% hint style="warning" %}
-
+This is a multi-step process
 {% endhint %}
 
 ### Step One
@@ -25,11 +25,11 @@ Remember:
 
 * To include instructions to the customer on how they can redeem their voucher later \(they will need to ask the recipient of the voucher to email your enterprise with their voucher ID number \(see [step 2](how-to-create-gift-vouchers.md#step-two)\) and email address \([step 5](how-to-create-gift-vouchers.md#step-five)\) with which they have set up an OFN account.\)
 
-![](../../.gitbook/assets/christmasvoucher1.jpg)
+![](../../.gitbook/assets/voucher1.jpg)
 
 * That [enterprise fees](../../basic-features/shopfront/enterprise-fees.md) are included in the price of the voucher.  The person who redeems the voucher will also have the enterprise fee added onto the products they purchase \(ie. fees will be collected twice\). The extra enterprise fee may be necessary to cover the added overheads of admin work, processing gift vouchers. Alternatively the product price can be adjusted so that the customer facing price \(product price + fee\) is the voucher’s value.
 
-![](https://lh6.googleusercontent.com/6W_K3CG897YE3PugeGzZsJ_d2Zm4YDggGjnrzqTQFEdxnYAKkVCRq49UEG7LK06NWg7ickJZabGh2-GRX20nk9tXl6G-3zj-QtzoA8gvLChp-rb_7nFwNPXXqMCOQCs7cWiFUNux)
+![](../../.gitbook/assets/voucher2.jpg)
 
 ### Step Two
 

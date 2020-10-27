@@ -81,7 +81,7 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Italy</td>
+      <td style="text-align:left">Italy**</td>
       <td style="text-align:left">OFN Italy</td>
       <td style="text-align:left"><a href="https://app.openfoodnetwork.it/">https://app.openfoodnetwork.it/</a>
       </td>

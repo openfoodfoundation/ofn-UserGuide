@@ -6,9 +6,9 @@ Bulk purchasing is a common practice for **buying groups**, who, by buying large
 
 For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
 
-When a product is allocated to group buy it will display differently in the shopfront \(see below\), with a double column Min/Max quantity visible:
+When a product is allocated to group buy it will display with the label 'Bulk' across the photo on your shop front. When a customer chooses to add the product to their basket, a pop-up screen will prompt them to enter minimum and maximum quantities as shown below:
 
-![](../../.gitbook/assets/group-buy%20%281%29.png)
+![](../../.gitbook/assets/bulkbuy.gif)
 
 Customer are asked to indicate:
 

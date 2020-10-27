@@ -65,5 +65,5 @@ Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterpri
 
 ![Admin view](https://lh5.googleusercontent.com/Wg3e_guD-P5zbZE1oa6OFb36YU-csR35WpZD9Hxn0cT3O05jXDDihtHH2EL9CIP7atYsXXK3va9gUSvyfNka_ovDGDtSG2uRqreA2nW4cp8IjCnL3eodEv12iZ5QkA2eRIGaCkzD)
 
-![Customer View](https://lh6.googleusercontent.com/tOi1s_yFL_PFr3ybw13nXlocnY_KKfq1EJ6ESmjjM6p4OGyNt0Iw0bEt26VczL3jhMqc7_nEYY9Izrl3EQT6Ocod7JIvdBeSnkDdKxsukKoPxOXK8tKrO2WRT4G2pvtGuwRBYtbG)
+![](../../.gitbook/assets/notices2.jpg)
 

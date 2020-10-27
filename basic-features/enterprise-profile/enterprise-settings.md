@@ -39,8 +39,6 @@ This short video gives a quick insight into the steps and options detailed below
 Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
 {% endhint %}
 
-**Sells:** This relates to whether your enterprise is set up as a [profile](../../your-quick-start-on-ofn-given-who-you-are.md#profile) \(sells = none\), [shop](../../your-quick-start-on-ofn-given-who-you-are.md#shop) \(sells = own\) or [hub](../../your-quick-start-on-ofn-given-who-you-are.md#hub) \(sells = any\). You can easily switch between the different [enterprise packages](package-types.md) by changing this setting.
-
 **Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
 
 **Permalink:** You can customise part of the web address which will host to your shop.
@@ -147,7 +145,7 @@ If you opt to add a file here, it will be available for the customer to open and
 
 ### Images
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 
+**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will appear warped.  All images inserted here will be resized to 100 x 100 pixels.
 
 **Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
@@ -211,15 +209,15 @@ Visible to Shop and Hub registered enterprises only.
 
 **Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
 
-![Shop front with Notices for single order cycle](../../.gitbook/assets/notices-singleoc.jpg)
+![Notices tab for shopfront with one order cycle open](../../.gitbook/assets/notices-one-oc.jpg)
 
-![Shop front with notices for multiple concurrent order cycles](../../.gitbook/assets/notices.jpg)
+![Notices tab for shopfront with concurrent order cycles](../../.gitbook/assets/noiticesmulitoc%20%282%29.jpg)
 
 The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
 
 If left blank the 'Notices' tab will not appear on your shop front.
 
-![](../../.gitbook/assets/notices-none.jpg)
+![](../../.gitbook/assets/nonoticestab.jpg)
 
 **Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
 
@@ -227,9 +225,9 @@ If left blank the 'Notices' tab will not appear on your shop front.
 TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
 {% endhint %}
 
-![Closed shopfront with customised message](../../.gitbook/assets/ordersclosednew1.jpg)
+![Closed Shopfront with customised message](../../.gitbook/assets/closedmessageyes.jpg)
 
-![Closed shopfront with default message](../../.gitbook/assets/orderscloseddefault.jpg)
+![Closed Shopfront with Default message](../../.gitbook/assets/closedmessageno.jpg)
 
 **Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 

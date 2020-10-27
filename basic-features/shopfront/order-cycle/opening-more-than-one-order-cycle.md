@@ -5,7 +5,7 @@ This feature is helpful when you want to have different ‘conditions’ in the 
 
 When the customer first lands on your shopfront page they will be requested to choose an order cycle before products are visible:
 
-![](../../../.gitbook/assets/multipleoc2.jpg)
+![](../../../.gitbook/assets/multioc.jpg)
 
 When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
 
@@ -27,5 +27,5 @@ This is setup in your [enterprise settings](../../enterprise-profile/enterprise-
 
 Customers can navigate between order cycles:
 
-![](../../../.gitbook/assets/multipleoc3.jpg)
+![](../../../.gitbook/assets/multioc2.jpg)
 

@@ -180,14 +180,16 @@ In the import process, variants are distinguished by the units \(such as salad s
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
-| Salad Bag |  | 3.50 | 500 | g |
-| Salad Bag |  | 5.50 | 750 | g |
-| Yoghurt | Banana | 4 | 500 | g |
-| Yoghurt | Strawberry | 4 | 500 | g |
+| Raspberries |  | 3.60 | 200 | g |
+| Raspberries |  | 4.80 | 300 | g |
+| Apples | Golden Delicious | 3.60 | 500 | g |
+| Apples | Pink Lady | 4.80 | 500 | g |
 
-The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading. In the case of the Salad Bag, the 'display\_name' field is blank, so the 'name' is used by default.
+The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading. 
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/samedisplayname%20%281%29.jpg)
+
+![](../../.gitbook/assets/differentdisplaynames.jpg)
 
 #### Unit type examples
 

@@ -22,6 +22,10 @@ If you are a producer, this will be you. If you're a hub, remember you’ll only
 
 **Product name:** This is the title of the product when displayed on the shop front.
 
+{% hint style="info" %}
+Products are listed on your shop front alphabetically by product name. This default ordering can be over ruled using the 'Shopfront Category Ordering' field in your [enterprise settings](../enterprise-profile/enterprise-settings.md#shop-preferences).
+{% endhint %}
+
 **Units:** Choose the unit the product is sold in? \(g, oz, lb, kg, L… or item \(bunch, bag, packet\)\)
 
 If you choose g and then enter 1000, the product will be displayed as 1kg for the buyer. Keep in mind that some units of measurement will impact on the operation of certain [enterprise fees](../shopfront/enterprise-fees.md). 
@@ -78,6 +82,10 @@ When you have finished creating a product, you are redirected to the "products" 
 
 ![](../../.gitbook/assets/productspage.jpg)
 
+This is how your products will display to your customers on the shop front:
+
+![](../../.gitbook/assets/productview.jpg)
+
 ## Listing Similar / variations of a Product 
 
 If you are listing a product which comes in a number of different options \(say different sizes or flavours, each of which may or may not have a different price\), it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.  Creating product variants is discussed fully on the [next page](product-variants.md).
@@ -90,11 +98,36 @@ If you would like to create a SIMILAR product then you can duplicate products by
 
 ![](../../.gitbook/assets/productspagecopy.jpg)
 
-## Refine product attributes 
+## Edit your products
 
-Using OFN you can add **properties or labels** to your products.  This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
+Once a product is created, the best place to quickly edit its attributes, such as quantity, price and stock level, is through the listing products page shown above.
+
+To edit images, product descriptions, categories and more you can select the edit symbol \(pen on paper icon\) to the right of the product in question in the table. This will bring up the following page:
+
+![](../../.gitbook/assets/editproduct.jpg)
+
+From the right hand menu, you might like to add
+
+* **Properties or labels** to your products.  This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
+* **Group Buy:** This enables you to manage and organise sales of products in bulk lots. Read more about this [here](group-buy-for-bulk-ordering.md).
+* **Search** terms described [below](products.md#search-keywords).
 
 For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
 
-Our **Group Buy** tool enables you to manage and organise sales of products in bulk lots. Find out more [here](group-buy-for-bulk-ordering.md).
+### Search keywords
+
+Customers can filter your products to identify what they wish to purchase based on their product category and product properties.  The filters are found to the right hand side of the shop page.
+
+![](../../.gitbook/assets/searchfilter.jpg)
+
+Some customers will use the Search box at the top left of the page to locate their produce.  The following fields are searched by this box:
+
+* Product name
+* Variant name
+* Producer name
+* Search keywords
+
+Keywords can be added by visiting **Edit Product -&gt; Search**.  Keywords entered into the top box \(in red below\) are reviewed by the platform if the customer uses the 'Search' field on your shop front.  Those entered into the second box \(in green below\) are searched by external search engines on the internet \(for example Google\)
+
+![](../../.gitbook/assets/searchedit.jpg)
 

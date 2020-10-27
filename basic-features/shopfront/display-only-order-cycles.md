@@ -12,7 +12,7 @@ To setup a display only order cycle:
 Your shop will now be in the ‘display only’ state.   
 Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range.
 
-![](../../.gitbook/assets/displayonlycust.jpg)
+![](../../.gitbook/assets/displayonly.jpg)
 
 {% hint style="warning" %}
 When you next open a live order cycle from which you wish to sell produce, you will need to change the Display state of at least one [payment method](payment-methods.md) to 'Checkout and Back Office' or 'Checkout only'.

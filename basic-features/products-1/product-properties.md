@@ -151,7 +151,7 @@ By clicking on the profile of a producer, Enterprise Properties appear on the po
 
 Customers can also filter products in a shop based on their properties:
 
-![Filter by properties on PC](../../.gitbook/assets/propertiesscreenlaptop.jpg)
+![](../../.gitbook/assets/searchfilter.jpg)
 
-![Filter by properties on smart phone](../../.gitbook/assets/propertiesscreenphone.jpg)
+![](../../.gitbook/assets/screenshot_20201027-152628.png)
 

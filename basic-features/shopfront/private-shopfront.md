@@ -42,7 +42,7 @@ You can also delete customers who you no longer want to be able to see your shop
 
 When visitors to your shop arrive at the shop, if they're not logged in yet, they'll see the message below.
 
-![](../../.gitbook/assets/privateshopfront.jpg)
+![](../../.gitbook/assets/privateshop.jpg)
 
 From here there's 2 pathways:
 

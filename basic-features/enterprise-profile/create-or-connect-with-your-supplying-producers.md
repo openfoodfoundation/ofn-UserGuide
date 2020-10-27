@@ -12,7 +12,7 @@ All producers supplying / selling products on the Open Food Network must have an
 
 An example of how this displays in the shopfront is shown below:
 
-![](../../.gitbook/assets/producernote.png)
+![](../../.gitbook/assets/producerhighlight.jpg)
 
 As a hub, before being able to add products to your shopfront, you have two options: 
 

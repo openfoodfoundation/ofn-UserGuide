@@ -8,7 +8,7 @@ For producers selling their own products directly, these costs are already prese
 
 One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
 
-![An enterprise fee in a shopfront](../../.gitbook/assets/enterprsie-fee-in-shopfront.png)
+![](../../.gitbook/assets/enterprisefee.jpg)
 
 Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
 

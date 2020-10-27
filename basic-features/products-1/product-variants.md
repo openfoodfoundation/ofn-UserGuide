@@ -2,7 +2,7 @@
 
 If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
 
-![Shop display for Corn Cobs sold with two variants.](../../.gitbook/assets/corncob-variants.png)
+![](../../.gitbook/assets/productvariant.jpg)
 
 ## How do I create a Product Variant? 
 
