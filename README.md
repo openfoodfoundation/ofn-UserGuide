@@ -14,49 +14,49 @@
 
 Open Food Network consente alle persone di costruire modi migliori e più giusti per procurarsi il cibo a livello locale e direttamente da agricoltori, allevatori e produttori. Ampie reti di piccoli produttori alimentari, distributori, rivenditori, hub alimentari, cooperative alimentari e gruppi di acquisto possono unirsi con l'aiuto di Open Food Network per trovare il modo migliore per accorciare la filiera alimentare. E nel processo aiuta a costruire comunità forti. 
 
-The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
+Open Food Network è un progetto globale che supporta l'organizzazione operativa di agricoltori, gruppi di consumatori, cooperative, ecc. nella distribuzione locale dei prodotti. Il programma che abbiamo costruito è open source e collaboriamo con persone fantastiche da tutto il mondo per continuare a migliorarlo. Forniamo anche supporto negli aspetti organizzativi per impostare e gestire un "hub". Contatta il  [tuo contatto locale di OFN](local-ofn-organizations-and-contacts.md) per saperne di più!
 
-This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
+questo breve video ti dà una breve introduzione, in inglese, sul funzionamento di Open Food Network e di come può essere utile per la tua attività. 
 
 {% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
-## How to use this guide?
+## Come usare questa guida?
 
-### &gt; Quick setup guides tailored to your enterprise
+### &gt; Guida di configurzione rapida su misura per la tua attività
 
-Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-ofn-given-who-you-are.md)! 
+Partendo da zero, apri un profilo online che si adatti perfettamente alle tue esigenze [in pochi semplici passaggi](your-quick-start-on-ofn-given-who-you-are.md)! 
 
 {% hint style="info" %}
-We recommend these guides to users starting out on the Open Food Network platform for the first time.
+Consigliamo questa guida a chi si avvicina alla piattaforma di Open Food Network per la prima volta. 
 {% endhint %}
 
-### &gt; Features to meet your needs
+### &gt; Funzionalità per soddisfare le tue esigenze
 
-Find a [detailed explanation of every feature our platform offers](basic-features/), so you can set up your Open Food Network enterprise to specifically meet your local needs.
+Ecco una [spiegazione dettagliata di ogni funzionalità della nostra piattaforma](basic-features/), per impostare il tuo profilo Open Food Network in modo da soddifare le tue esigenze specifiche. 
 
 {% hint style="info" %}
-We recommend these guides to users who would like to customise their Open Food Network enterprise specifically to meet the needs of their business or customers.
+Consigliamo questa guida a chi volesse configurare la propria attività su Open Food Network in modo personalizzato, per soddisfare specifiche esigenze. 
 {% endhint %}
 
 {% hint style="success" %}
-They are also a great resource for answering any questions you may have.
+E' anche una buona risorsa per rispondere ai dubbi che ti sono sorti utilizzando la piattaforma. 
 {% endhint %}
 
-### _&gt;_ Guidelines on complementary software you might like to use in combination with the Open Food Network
+### _&gt;_ Guida ai programmi complementari che potresti usare insieme a Open Food Network
 
-The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
+Open Food Network fa molte cose, ma nessuno degli strumenti si addice alle tue esigenze. Abbiamo preparato una lista di [alcune esigenze che necessitano di programmi complementari e di come impostarli ](complementary-tools-software/)per integrarli con la tua piattaforma Open Food Network locale.
 
-### &gt; Trouble shooting
+### &gt; Risoluzione dei problemi
 
-Still not finding what you need ? Check the [Trouble Shooting section](trouble-shooting.md) to see if others had the same questions as you!
+Non trovi ancora quello che cerchi? Controlla la [sezione di risoluzione dei problemi](trouble-shooting.md) per vedere se anche altri hanno i tuoi stessi dubbi!
 
-### &gt; Search
+### &gt; Cerca
 
-Looking for information on something specific? Use the search bar in the top left corner to find the information you need.
+Cerchi informazioni su un argomento specifico? Usa la barra di ricerca in alto a sinistra per trovare l'informazione che cerchi. 
 
 ![](.gitbook/assets/capture-du-2019-09-26-00-49-08.png)
 
 ## Feedback
 
-Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md) for any feedback!
+Hai qualche difficoltà con questa guida? Ti sembra che manchi qualche informazione? O vorresti condividere funzionalità che vorresti trovare in futuro? Contatta la  [tua entità locale OFN](local-ofn-organizations-and-contacts.md) per qualsiasi feedback.
 
