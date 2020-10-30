@@ -5,7 +5,7 @@
 * [Quale profilo OFN si adatta alla mia attività?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Guida rapida per iniziare](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
-  * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
+  * [Negozio](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Profile](quick-start-guides/profile-only-quick-setup-guide.md)
 * [Features](basic-features/README.md)
   * [Register and Create an Enterprise Account](basic-features/register-and-create-your-profile.md)

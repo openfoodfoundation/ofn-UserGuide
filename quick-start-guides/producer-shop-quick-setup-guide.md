@@ -1,37 +1,38 @@
 ---
-description: Simple steps to start your OFN journey as a SHOP
+description: Semplici passaggi per iniziare il tuo viaggio su OFN come NEGOZIO
 ---
 
-# Shop
+# Negozio
 
-It's easy to get started on OFN, just follow the steps below:
+Iniziare ad usare OFN è semplice, basta attuare i seguenti passaggi:
 
-![Five steps to opening your OFN shop.](../.gitbook/assets/set-up-in-5-steps-draft.png)
+![](../.gitbook/assets/quick-set-up-in-5-steps-draft_ita.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  Choose the 'Producer' and then 'Shop' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your [products](../basic-features/products-1/products.md).
-3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
-4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, ...\)
-5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-producers.md) : this will open your shop at the start date you defined!
+1. [Registra il tuo profilo aziendale](../basic-features/register-and-create-your-profile.md).  Scegli le hoose the 'Producer' and then 'Shop' [opzioni ](../basic-features/enterprise-profile/package-types.md)"Produttore" e poi "Negozio" e completa le tue [eimpostazioni dell'azienda](../basic-features/enterprise-profile/enterprise-settings.md) con i dettagli richiesti.
+2. Inserisci i tuoi [prodotti](../basic-features/products-1/products.md).
+3. Imposta i [metodi di pagamento](../basic-features/shopfront/payment-methods.md) disponibili per i tuoi clienti \(in contanti alla consegna, bonifico, pagamento online con carta di credito, ecc.\)
+4. Imposta i [metodi di spedizione](../basic-features/shopfront/shipping-methods.md) disponibili per i tuoi clienti \(ritiro in luogo ed orario definito; consegna a domicilio, ecc.\) 
+5. Imposta un [ciclo di richieste](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : così il tuo negozio aprirà alla data di inizio da te definita! Un ciclo di richieste è un periodo durante il quale i consumatori possono richiedere i prodotti che saranno consegnati o ritirati in un momento stabilito. Alcuni Hub hanno un ciclo di richieste settimanale. Alcuni hanno un ciclo di richieste sempre aperto.
 
-Congrats!  Your shop is now live!
+Congratulazioni!  Il tuo Negozio è ora attivo!
 
-When you start receiving orders, you can manage them in the[ orders](../basic-features/orders/) section.  
+Quando inizi a ricevere gentili richieste, puoi gestirle nella sezione [gentili richieste](../basic-features/orders/).  
 
-All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
+Tutti i dati di cui hai bisogno per preparare e consegnare i tuoi prodotti possono essere consultati nella sezione [report](../basic-features/reports.md).
 
-## More advanced features you might need
+## Funzionalità più avanzate che ti potrebbero servire
 
-* Your enterprise profile:
-  * On top of selling your products, you want to allow another seller using the OFN \(a local OFN hub\) to display your products in their shopfront? [Give them permission to sell your products](../basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md).
-* Your products: 
-  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free...\)
-  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
-  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
-  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
+* Il tuo profilo aziendale:
+  * puoi dare ad altri distributori locali \(Hub su OFN\) il [permesso](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/~/drafts/-MKd_GWgfVlIQ0N0w1PF/v/it/basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers/@merged) di vendere i tuoi prodotti nel loro negozio.
+  * Puoi [aggiungere gestori](../basic-features/enterprise-profile/transfer-ownership.md) al tuo negozio per condividere i compiti amministrativi!
+* I tuoi prodotti: 
+  * Puoi specificarne particolari caratteristiche [caratteristiche](../basic-features/products-1/product-properties.md) \(es. BIO, plastic free, ecc...\)
+  * Se un prodotto può essere venduto in diverse forme \(es. patate in confezioni da 500g, 1kg e 2 kg\), puoi semplificare il tuo listino aggiungendo [varianti](../basic-features/products-1/product-variants.md).
+  * Se vendi prodotti con peso e dunque prezzo variabile come carne o ortaggi di grossa taglia \(es. un pollo intero, una zucca, ecc.\), puoi imparare a gestirli [qui.](../basic-features/products-1/pricing-irregular-items-kg.md)
+  * Puoi [importare](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) il tuo listino completo se è in formato Excel.
 * Your shopfront:
-  * You can [restrict access](../basic-features/shopfront/private-shopfront.md) to your shop if want your shop to be only accessible to "members" or invited customer.   For example you may offer discounted produce to members of the community who have all contributed to your business, or if you wished to only sell to specific commercial customers.
-  * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
-  * If you would like to be visible on OFN only but not actually sell goods through the platform then you can setup a [display only shopfront](../basic-features/shopfront/display-only-order-cycles.md).
-  * You would like to [embed]() the OFN shop front in your website.
+  * Puoi [limitare l'accesso](../basic-features/shopfront/private-shopfront.md) al tuo negozio se vuoi che sia accessibile solo ai "soci" o ad utenti invitati. Per esempio potresti offrire prodotti scontati ai membri della comunità che hanno svolto lavoro volontario per te, oppure potresti voler vendere solo a determinati clienti commerciali.
+  * Puoi proporre prezzi differenziati, o mostrare prodotti differenziati, a specifici gruppi di utenti, utilizzando le funzioni di [raggruppamento utenti \(tramite "etichette"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) e [personalizzazione visualizzazione e prezzi](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
+  * Se vuoi solo essere visibile su OFN, senza vendere i tuoi prodotti attraverso la piattaforma, puoi impostare una [vetrina di sola visualizzazione](../basic-features/shopfront/display-only-order-cycles.md).
+  * Puoi incorporare il tuo Negozio OFN nel tuo sito web.
 
