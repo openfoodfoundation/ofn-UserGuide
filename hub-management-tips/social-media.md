@@ -26,6 +26,10 @@ This series of documents explains from beginner to expert how to get the best ou
 
 Watch [this video](https://youtu.be/2gdyHLiblFc) on how to improve your social media.
 
+{% embed url="https://youtu.be/2gdyHLiblFc" %}
+
+
+
 {% hint style="success" %}
 Periodic posts on one social media platform are better for building your audience \(or following\) than sporadic posts across multiple platforms.
 {% endhint %}
