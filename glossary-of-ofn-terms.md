@@ -1,4 +1,4 @@
-# Glossary of OFN Terms
+# Glosario de términos de Open Food Network
 
 * [Bulk Order Management](basic-features/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
   * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers

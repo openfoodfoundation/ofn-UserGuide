@@ -1,35 +1,35 @@
 ---
-description: Simple steps to get started as a OFN profile.
+description: 'Pasos sencillos para iniciar su camino en Open Food Network como un PERFIL,'
 ---
 
-# Profile
+# Perfil
 
-It's easy to get started on OFN, just follow the steps below:
+Es fácil iniciar en Open Food Network, sólo siga estos pasos:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Cuatro pasos para iniciar su camino en Open Food Network.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your [products](../basic-features/products-1/products.md).
-3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
-4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
+1. [Registre su empresa](../basic-features/register-and-create-your-profile.md).  Escoja los [tipos de paquete ](../basic-features/enterprise-profile/package-types.md)«Productora» y luego «Perfil» y complete la [configuración de su empresa](../basic-features/enterprise-profile/enterprise-settings.md) con los detalles de su negocio.
+2. Haga la lista de sus [productos](../basic-features/products-1/products.md).
+3. Contacte a los hubs de Open Food Network a través de los cuales quiere vender sus productos- esto puede ser tan sencillo como hablar con la administradora del hub al recoger sus compras, o enviarles un correo electrónico.
+4. Conéctese a través de Open Food Network con el hub donde quiere vender sus productos configurando los [permisos de empresa](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) apropiados.
 
-Congrats!  Your job is done!  
+¡Felicidades! Su trabajo está listo.
 
-The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
+El hub que gestiona sus ventas debería enviarle órdenes de forma periódica con base en los periodos de tiempo que acordaron. Las notificaciones de órdenes pueden ser automatizadas en el Hub para que le lleguen por correo electrónico
 
 {% hint style="info" %}
-If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.
+Si quiere usar Open Food Network sólo para estar visible en internet no es necesario que complete los pasos 2-4.
 {% endhint %}
 
 {% hint style="success" %}
-You can make your producer profile searchable by product category, even if you don't wish to actually sell goods by following these [steps](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
+Puede hacer que su perfil de productora aparezca en las búsquedas por categoría de productos, incluso si no quiere vender esos productos, siguiendo estos [pasos](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
 {% endhint %}
 
-## More advanced features you might need
+## Funcionalidades más avanzadas que podría necesitar
 
-* Your products: 
-  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free...\)
-  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
-  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
-  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
+* Sus productos:
+* Especificar [credenciales](../basic-features/products-1/product-properties.md) especiales que podrían tener \(eg. orgánico, libre de plásticos, etc...\)
+* Si tiene un producto que puede ser vendido en distintas formas \(eg. papas vendidas en cantidades de 500 g, 1 kg y 2 kg \), entonces puede simplificar sus listados agregando [variantes](../basic-features/products-1/product-variants.md).
+* Si vende cosas irregulares como carne o vegetales \(eg. un pollo entero, un ayote muy grande\) cuyo precio depende del tamaño, entonces puede leer [cómo hacerlo aquí.](../basic-features/products-1/pricing-irregular-items-kg.md)
+* Puede [importar](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) todos los listados de sus productos de una vez si los tiene en una hoja de cálculo de Excel.
 

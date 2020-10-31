@@ -5,8 +5,8 @@
 * [¿Dónde calza mi negocio en Open Food Network?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Guías de inicio rápido](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
-  * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
-  * [Profile](quick-start-guides/profile-only-quick-setup-guide.md)
+  * [Tienda](quick-start-guides/producer-shop-quick-setup-guide.md)
+  * [Perfil](quick-start-guides/profile-only-quick-setup-guide.md)
 * [Features](basic-features/README.md)
   * [Register and Create an Enterprise Account](basic-features/register-and-create-your-profile.md)
   * [Dashboard](basic-features/dashboard.md)
@@ -61,6 +61,6 @@
   * [Facebook tips](hub-management-tips/facebook-tips.md)
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
-* [Glossary of OFN Terms](glossary-of-ofn-terms.md)
+* [Glosario de términos de Open Food Network](glossary-of-ofn-terms.md)
 * [Feedback](feedback.md)
 
