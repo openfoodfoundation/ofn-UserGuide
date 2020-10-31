@@ -1,15 +1,15 @@
 ---
-description: Simple steps to start your OFN journey as a HUB
+description: Pasos sencillos para iniciar su camino en Open Food Network como un HUB
 ---
 
 # Hub
 
-It's easy to get started on OFN, just follow the steps below:
+Es fácil iniciar en Open Food Network, sólo siga estos pasos:
 
-![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
+![Cinco pasos para abrir su hub en Open Food Network.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  If you wish to sell goods that you make as well as those of others then choose the 'Producer' and then 'Hub' [package types](../basic-features/enterprise-profile/package-types.md); whereas, if you only want to sell good made by others then choose the 'Non-Producer' and 'Hub' package options. Complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your products.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
+1. [Registre su empresa](../basic-features/register-and-create-your-profile.md).  Si desea vender bienes que usted hace y también aquellos de otras personas, entonces escoja los [tipos de paquetes](../basic-features/enterprise-profile/package-types.md) «Productora» y luego «Hub». En cambio, si sólo desea vender bienes hechos por otras personas entonces escoja las opciones de paquetes «No productora» y «Hub». Complete la[ configuración de su empresa](../basic-features/enterprise-profile/enterprise-settings.md) con los detalles de su negocio.
+2. Agregue la lista de sus productos.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
 3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
 4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
 5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.

@@ -3,7 +3,7 @@
 * [Bienvenidas a la guía de usuarias de Open Food Network](README.md)
 * [Organizaciones locales de Open Food Network y contactos](local-ofn-organizations-and-contacts.md)
 * [¿Dónde calza mi negocio en Open Food Network?](your-quick-start-on-ofn-given-who-you-are.md)
-* [Quick Start Guides](quick-start-guides/README.md)
+* [Guías de inicio rápido](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Profile](quick-start-guides/profile-only-quick-setup-guide.md)
