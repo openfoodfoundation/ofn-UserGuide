@@ -17,7 +17,7 @@ Es fácil iniciar en Open Food Network, sólo siga estos pasos:
 ¡Felicidades! ¡Su tienda está funcionando!
 
 {% hint style="info" %}
-Para obtener un poco de ganancias que cubran el costo de organizar las ventas, usted podría querer agregar un «[Cargo a empresas](../basic-features/shopfront/enterprise-fees.md)»- este margen se agrega al precio de venta de los productos en la vitrina de su tienda.
+Para obtener un poco de ganancias que cubran el costo de organizar las ventas, usted podría querer agregar un «[Comisión a empresas](../basic-features/shopfront/enterprise-fees.md)»- este margen se agrega al precio de venta de los productos en la vitrina de su tienda.
 {% endhint %}
 
 Cuando empiece a recibir órdenes, puede gestionarlas en la sección de [órdenes](../basic-features/orders/).  

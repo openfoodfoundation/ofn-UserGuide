@@ -1,11 +1,11 @@
 # Glosario de términos de Open Food Network
 
-* [Bulk Order Management](basic-features/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
-  * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers
-  * Adjusting orders en-mass \(e.g. in the case of a crop failure/outbreak of illness\) preventing delivery of one or more items of produce.
-* [Enterprise Fee](basic-features/shopfront/enterprise-fees.md): A margin or commission added to the base price of an item to cover business overhead costs or to make the enterprise profitable.
-* [Enterprise Permission](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): A connection between suppliers and distributors on the platform. Without permission \(which needs to be granted by the supplier\), another enterprise can not edit your settings or list your products for sale.
-* [Group Buy](basic-features/products-1/group-buy-for-bulk-ordering.md): Organising sales to customers where the goods are bought by the distributing hub in bulk, or for which there is a minimum order before a supplier is happy to deliver goods to a collection point.
+* [Administración de orden en masa](basic-features/orders/view-orders.md#bulk-order-management): Esta facilidad le permite mannipular múltiples órdenes de una sola vez, en lugar de individualemente. Es útil para:
+  * Grupos de compradoras que tienen que llegar a un número mínimo de órdenes de un producto antes de que sea posible comprar los bienes para redistribuirlos a sus clientes
+  * Ajustar ordenes en masa \(e.g. en el caso de un fallo en la cosecha o el brote de una enfermedad\) que previene la entrega de uno o más artículos del producto.
+* [Comisión a empresa](basic-features/shopfront/enterprise-fees.md): Un margen o cargo agregado al precio base de un artículo para cubrir los costos de negocio o hacer a la empresa rentable.
+* [Permiso a empresa](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): Una conección entre proveedoras y distribuidoras en la plataforma. Sin permiso \(que debe ser dado por la proveedora\), otra empresa no puede editar su configuración o listar sus productos para la venta.
+* [Compra grupal](basic-features/products-1/group-buy-for-bulk-ordering.md): Organizar ventas para clientes en las que los bienes son comprados al por mayor por el hub que distribuye, o para las cuales hay una orden mínima antes de que la proveedora acceda a entregar los bienes a un punto de recolección.
 * [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub): A food retail outlet on OFN which sells items supplied by others.  A hub can also sell goods which it makes or grows \(a Producer Hub\).  Analogous businesses on the high street might be a shop which buys in stock for re-sale from lots of different producers \(e.g. they might buy bread from a baker, vegetables from the local wholesale market, meat from the local farm...\). 
 * [Inventory](basic-features/products-1/inventory-tool.md): A list of products which you wish to stock on your shop front.  By using the OFN inventory function a shopfront can change some of the product settings of produce from a third party supplier.
 * [Order Cycle](basic-features/shopfront/order-cycle/): A period during which shoppers/buyers can place an order for delivery or collection at a specific time.  The order cycle controls when your online shop front is open/closed and which products are available at any one time for a customer to purchase.
@@ -20,15 +20,15 @@
 * [Subscription](basic-features/subscriptions/): A regular automated repeating order of goods from a customer \(e.g. a veg box\)
 * [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Labels given to customers, order cycles, payment methods and/or shipping methods which can be used to customise buyers' shopping experiences.
 
-## Common Symbols Used on OFN 
+## Símbolos comunes usados en Open Food Network
 
-![Copy](.gitbook/assets/copy.jpg)
+![Copiar](.gitbook/assets/copy.jpg)
 
-![Edit](.gitbook/assets/edit.png)
+![Editar](.gitbook/assets/edit.png)
 
-![Delete](.gitbook/assets/trash.jpg)
+![Borrar](.gitbook/assets/trash.jpg)
 
-![Shipping/Delivery](.gitbook/assets/shipped%20%282%29.png)
+![Env&#xED;o/Entrega](.gitbook/assets/shipped%20%282%29.png)
 
 
 
