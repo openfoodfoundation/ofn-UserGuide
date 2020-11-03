@@ -1,10 +1,10 @@
-# Feedback
+# Comentarios
 
-Do you have an idea for how a feature could be improved?
+¿Tiene una idea de cómo mejorar una funcionalidad?
 
-Is there something you need help with that you can't find in the guide?
+¿Hay algo con lo que necesita ayuda que  no puede encontrar en esta guía?
 
-Please get in touch, we're here to help.
+Contáctenos, estamos aquí para ayudar.
 
-Email: hello@openfoodnetwork.org
+Correo electrónico: hello@openfoodnetwork.org
 

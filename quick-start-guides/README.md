@@ -1,16 +1,16 @@
 ---
-description: Simple steps to start your OFN journey
+description: Pasos sencillos para iniciar su camino en Open Food Network
 ---
 
-# Quick Start Guides
+# Guías de inicio rápido
 
-Getting started on the Open Food Network can be as easy as 1-5!
+¡Iniciar en Open Food Network puede ser tan fácil como 1-5!
 
-Follow the quick set up list for your enterprise:
+Siga la lista de configuración rápida para su empresa:
 
 * [Hub](multi-producers-shop-hub-quick-setup-guide.md)
-* [Shop](producer-shop-quick-setup-guide.md)
-* [Profile](profile-only-quick-setup-guide.md)
+* [Tienda](producer-shop-quick-setup-guide.md)
+* [Perfil](profile-only-quick-setup-guide.md)
 
-Not sure which enterprise you are?  Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
+¿No está seguro de cuál tipo de empresa es la suya? Revise esta [página](../your-quick-start-on-ofn-given-who-you-are.md).
 
