@@ -8,6 +8,7 @@
 | ![](.gitbook/assets/turkey.jpg)  | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/) |
 | ![](.gitbook/assets/brazil-flag-image-free-download.jpg)  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/) |
 | ![](.gitbook/assets/russia.jpg)  | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru/) |
+| español | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
 
 **This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
 

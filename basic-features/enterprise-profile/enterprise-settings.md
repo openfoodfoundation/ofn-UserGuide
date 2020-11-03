@@ -139,9 +139,9 @@ For advise on selling as a VAT registered enterprise please see this document:
 
 ![](../../.gitbook/assets/tandc.jpg)
 
-If you opt to add a file here, it will be available for the customer to open and read at checkout.
+If you opt to add a file here, the customer will be required to check the box to say that they have read and agree with your terms and conditions before they can submit their order.
 
-![](../../.gitbook/assets/tandc-checkout.jpg)
+![](../../.gitbook/assets/checkouttc.jpg)
 
 ### Images
 

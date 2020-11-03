@@ -4,7 +4,7 @@ A list of all customers who have placed an order with your enterprise can be vie
 
 You can also manually add a customer by the **+New Customer** button. 
 
-![](../../../.gitbook/assets/customer1%20%281%29.jpg)
+![](../../../.gitbook/assets/customer1%20%282%29.jpg)
 
 {% hint style="warning" %}
 Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.  
@@ -29,7 +29,7 @@ To add a tag, simply type its name in the 'Tags' column on the Customers page. A
 Careful when you are adding the same tag to multiple customers \(so that they belong to a common group\) to select the identical word \(tags are case sensitive\) from the drop down menu on offer.
 {% endhint %}
 
-![](../../../.gitbook/assets/tags1.jpg)
+![](../../../.gitbook/assets/customertags.jpg)
 
 Tags also appear in [reports](../../reports.md). You can use them during csv / excel exports to quickly filter data.
 

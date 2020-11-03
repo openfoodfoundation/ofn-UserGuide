@@ -220,3 +220,15 @@ Note collection of the extra monies by PayPal through the platform is, at presen
 If a payment method has an associated fee attached then the fee will be recorded by the system every time you collect extra money from the customer or issue them a refund.
 {% endhint %}
 
+## Keeping Track of Customer Payment Balances
+
+Monies owing \(credit\) or due \(debit\) for **individual orders** can be viewed on your [listing orders admin](view-orders.md) page.  
+
+{% hint style="warning" %}
+Remember that only payments for integrated payment methods \(PayPal and Stripe\) are automatically captured by the platform. If a customer pays your business by cash or BACS \(or similar\) you will need to [capture this payment](view-orders.md#capturing-a-payment) manually to keep your records up to date.
+{% endhint %}
+
+You may wish to allow your trusted customers to pay \(by BACS\) once a month for all their orders in that time period, or give those who have cash flow one week a bit of lee-way with their payments.  To keep track of individual **customer balances** with your business, visit your [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list.  The amount of credit/debit due is displayed to the right of each customer's entry.
+
+![](../../.gitbook/assets/customerbalance.jpg)
+

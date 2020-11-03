@@ -56,8 +56,18 @@ Use this field if you want to track your stock levels. As customers place orders
 
 **Image:** Upload a photo of this product.
 
+{% hint style="info" %}
+Product images will be displayed on the shopfront in **square \(1:1\) format**.  We recommend uploading photos with these dimensions.  Landscape and portrait photos will be cropped to square automatically.
+{% endhint %}
+
+![](../../.gitbook/assets/bread.jpg)
+
+{% hint style="warning" %}
+High resolution images are resized \(reduced in pixel dimension\) automatically when displayed in your product list dependent on the customer's device.
+{% endhint %}
+
 {% hint style="success" %}
-We recommend using good quality photos, in a square \(1:1\) format, and preferably a real photo of your products rather than the standard image of the web. This makes the product more attractive to the consumer. Always take your photographs in good light.
+We recommend using good quality photos, preferably a real photo of your products rather than the standard image of the web. This makes the product more attractive to the consumer. Always take your photographs in good light.
 
 If you use an image of the web, check that it is free of rights. 
 {% endhint %}
@@ -81,6 +91,10 @@ A short demonstration of the steps outlined above:
 When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
 
 ![](../../.gitbook/assets/productspage.jpg)
+
+{% hint style="success" %}
+Products listed in your admin panel can be sorted alphabetically by name \(click on 'NAME' in the table to implement this\).
+{% endhint %}
 
 This is how your products will display to your customers on the shop front:
 
