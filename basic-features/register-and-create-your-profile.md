@@ -1,60 +1,60 @@
-# Register and Create an Enterprise Account
+# Registrati e Crea un Profilo Aziendale
 
-### Create your user account
+### Crea il tuo profilo
 
-* From homepage, click on "Login" on the top right corner, then "Sign up" 
+* Dall'homepage, clicca su "Login" nell'angolo in alto a destra, poi su "Iscriviti" 
 
-![](../.gitbook/assets/loginsetup.jpg)
+![](../.gitbook/assets/iscriviti.png)
 
-* Enter your email address and choose a password.
-* You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
-* Login
-
-{% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
-{% endhint %}
-
-### Create your first "enterprise" account
-
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
-
-![](../.gitbook/assets/registerenterprise.jpg)
-
-![](../.gitbook/assets/welcome1.jpg)
-
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
-
-![](../.gitbook/assets/letsgetstarted.jpg)
-
-* Fill in your enterprise name and contact details.
+* Inserisci la tua email e scegli una password.
+* Riceverai una mail entro qualche minuto con un link di conferma. Cliccando sul link verrai indirizzato alla pagina di accesso.   
+* Accedi
 
 {% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
+Se non ricevi subito la mail di conferma, potrebbe essere finita nelle spam. 
 {% endhint %}
 
-* Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
+### Crea il tuo primo profilo "aziendale"
 
-![](../.gitbook/assets/laststep.jpg)
+* Una volta effettuato l'accesso, clicca sulla striscia grigia in basso "Interessato a vendere attraverso Open Food Network? **Registrati qui**."
 
-* Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
-* Fill in your enterprise description, add images, website/social media links, business details, etc.
-* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
+![](../.gitbook/assets/profilo-aziendale.png)
 
-![](../.gitbook/assets/newregister.jpg)
+![](../.gitbook/assets/profilo-aziendale-2.png)
 
-**Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
+* Spunta la casellla "Accetto i Termini di Servizio" e clicca si "Cominciamo!"
 
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
+![](../.gitbook/assets/iniziamo.png)
 
-![](../.gitbook/assets/newchoose.jpg)
+* Inserisci il nome dell'azienda ed i dettagli di contatto. 
 
-**After doing so, your enterprise will added to the OFN map!**  
+{% hint style="info" %}
+Il tuo indirizzo sarà utilizzato per aggiungere la tua attività sulla mappa di OFN aumentando così la tua visibilità. 
+{% endhint %}
 
-**A short clip of registering your enterprise on OFN:**
+* Scegli tra "Produttore" \(se coltivi/allevi/trasformi prdotti tu setesso\) o "Non Produttore" \(se distribuisci prodotti altrui\).
+
+![](../.gitbook/assets/ultimo-passaggio.png)
+
+* Clicca su "Crea profilo".  Riceverai una mail di conferma. Puoi fermarti qui e compilare più tardi le informazioni mancanti, o continuare e seguire i passaggi per completare il tuo profilo ora. 
+* Inserisci la descrizione della tua azienda, aggiungi immagini, sito e profili social, dettagli, ecc..
+* Quando avrai finito, sarai indirizzato al [Pannello di controllo per le aziende](enterprise-profile/).
+
+![](../.gitbook/assets/finito.png)
+
+**Hai ora creato la tua prima "azienda" e hai iniziato a compilare il tuo profilo, ma non hai finito!**
+
+**Il prossimo passo è** [**scegliere il "pacchetto OFN"**](enterprise-profile/package-types.md) **\(= tipo di profilo\) che meglio rappresenta la tua** [**attività**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
+
+![](../.gitbook/assets/seleziona-pacchetto.png)
+
+**Dopo questo passaggio, la tua azienda sarà inserita nella mappa di OFN!**
+
+**Un breve video per la registrazione di un'azienda \(in inglese\):**
 
 ![](../.gitbook/assets/registration.gif)
 
-### Access your Enterprise Administration Dashboard
+### Accedi al Pannello di controllo della tua azienda
 
-Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
+Una volta creata un'impresa, puoi gestire il tuo profilo usando il Pannello di controllo. Per accedervi, effettua il login e clicca su Profilo &gt; Amministrazione nell'angolo in alto a destra. Vedi [Pannello di controllo ](dashboard.md)per maggiori informazioni.
 

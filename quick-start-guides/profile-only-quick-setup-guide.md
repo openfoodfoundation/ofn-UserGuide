@@ -1,35 +1,35 @@
 ---
-description: Simple steps to get started as a OFN profile.
+description: Semplici passaggi per iniziare il tuo viaggio su OFN come PROFILO.
 ---
 
-# Profile
+# Profilo
 
-It's easy to get started on OFN, just follow the steps below:
+Iniziare ad usare OFN è semplice, basta attuare i seguenti passaggi:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![](../.gitbook/assets/quick-set-up-in-5-steps-profilo_ita.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your [products](../basic-features/products-1/products.md).
-3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
-4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
+1. [Registra il tuo profilo aziendale](../basic-features/register-and-create-your-profile.md).  Scegli le [opzioni ](../basic-features/enterprise-profile/package-types.md)"Produttore" e poi "Negozio" e completa le tue [impostazioni dell'azienda](../basic-features/enterprise-profile/enterprise-settings.md) con i dettagli richiesti.
+2. Inserisci i tuoi [prodotti](../basic-features/products-1/products.md).
+3. Contatta gli Hub di OFN attraverso cui vorresti vendere i tuoi prodotti - puoi mandare loro una mail o incontrarli fisicamente ad una loro distribuzione. 
+4. Collega il tuo profilo a quello degli Hub che hai selezionato impostando i [permessi aziendali](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) appropriati.
 
-Congrats!  Your job is done!  
+Congratulazioni! Il gioco è fatto!
 
-The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
+L'Hub che gestisce le tue vendite ti manderà periodicamente le sue gentili richieste in base alla tempistica concordata. Le notifiche per le gentili richieste possono essere automatizzate dall'Hub e arrivarti direttamente via mail alla chiusura dei cicli di richieste. 
 
 {% hint style="info" %}
-If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.
+Se vuoi usare OFN solo per essere visibile su internet, non hai bisogno di completare i passi 2-4 descritti qui sopra.
 {% endhint %}
 
 {% hint style="success" %}
-You can make your producer profile searchable by product category, even if you don't wish to actually sell goods by following these [steps](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
+Puoi fare in modo che il tuo profilo compaia ad una ricerca per categoria di prodotto, anche se non intendi vendere attraverso OFN, seguendo questi [passi](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
 {% endhint %}
 
-## More advanced features you might need
+## Funzionalità più avanzate che ti potrebbero servire
 
-* Your products: 
-  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free...\)
-  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
-  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
-  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
+* I tuoi prodotti: 
+  * Puoi specificarne particolari [caratteristiche](../basic-features/products-1/product-properties.md) \(es. BIO, plastic free, ecc...\)
+  * Se un prodotto può essere venduto in diverse forme \(es. patate in confezioni da 500g, 1kg e 2 kg\), puoi semplificare il tuo listino aggiungendo [varianti](../basic-features/products-1/product-variants.md).
+  * Se vendi prodotti con peso e dunque prezzo variabile come carne o ortaggi di grossa taglia \(es. un pollo intero, una zucca, ecc.\), puoi imparare a gestirli [qui.](../basic-features/products-1/pricing-irregular-items-kg.md)
+  * Puoi [importare](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) il tuo listino completo se è in formato Excel.
 

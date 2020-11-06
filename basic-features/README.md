@@ -1,28 +1,28 @@
 ---
 description: >-
-  In this section we explore all the features offered by the OFN software
-  platform.
+  In questa sezione esploriamo tutte le funzionalità offerte dalla piattaforma
+  OFN.
 ---
 
-# Features
+# Funzionalità
 
-You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/). 
+Puoi approfondire queste funzionalità in qualsiasi momento ma per chi è all'inizio consigliamo la nostra [guida rapida per iniziare](../quick-start-guides/). 
 
 {% hint style="info" %}
-To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).
+Per cercare la spiegazione di una funzionalità specifica, utilizza il campo "Cerca" \("Search"\), nell'angolo in alto a destra. 
 {% endhint %}
 
-In what follows, the features of OFN are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
+Nelle parti seguenti, le funzionalità di OFN sono spiegate in "ordine cronologico": le sezioni sono organizzate in base all'ordine in cui si incontrano impostando la propria attività:
 
-* [registration](register-and-create-your-profile.md)
-* [enterprise profile setup](enterprise-profile/)
-* [products](products-1/)
-* [shopfront](shopfront/)
-* [orders](orders/)
-* [subscriptions](subscriptions/)
-* [reports](reports.md)
-* [dashboard](dashboard.md)
-* [groups](groups/)
+* [registrazione](register-and-create-your-profile.md)
+* [Iimpostazione del profilo aziendale](enterprise-profile/)
+* [prodotti](products-1/)
+* [vetrina](shopfront/)
+* [gentili richieste](orders/)
+* [abbonamenti](subscriptions/)
+* [report](reports.md)
+* [pannello di controllo](dashboard.md)
+* [gruppi](groups/)
 
-and the content within each presented from basic usage to more advanced.
+ed il contenuto di ciascuna sezione è presentato a partire da un utilizzo base ad uno più avanzato.
 
