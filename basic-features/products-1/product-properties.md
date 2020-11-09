@@ -45,6 +45,7 @@ This is a list of product and enterprise properties available in the UK:
 * Certified Kosher
 * Certified Halal
 * Christmas
+* Imported
 {% endtab %}
 
 {% tab title="USA" %}
