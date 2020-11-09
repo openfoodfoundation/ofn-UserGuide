@@ -60,6 +60,7 @@
     * [Discounted/Free Delivery for Vulnerable Customers](hub-management-tips/how-tos/discounted-free-delivery-for-vulnerable-customers.md)
     * [Reward your volunteers](hub-management-tips/how-tos/reward-your-volunteers.md)
     * [Open your Shop on 'Preview'](hub-management-tips/how-tos/open-your-shop-on-preview.md)
+    * [Soft Close an Order Cycle](hub-management-tips/how-tos/soft-close-an-order-cycle.md)
     * [Cash/EFTs for trusted customers only](hub-management-tips/how-tos/cash-efts-for-trusted-customers-only.md)
     * [Running a Social Media Promotion](hub-management-tips/how-tos/running-a-social-media-promotion.md)
     * [How to Create Gift Vouchers](hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
