@@ -9,7 +9,7 @@ This list is not exhaustive and may not cover your specific scenario. Remember y
 * [Discounted/Free Delivery for vulnerable customers](discounted-free-delivery-for-vulnerable-customers.md)
 * [Reward your volunteers](reward-your-volunteers.md)
 * [Open your shop on 'preview'](open-your-shop-on-preview.md)
-* Soft close an order cycle
+* [Soft close an order cycle](soft-close-an-order-cycle.md)
 * [Cash/EFT for trusted customers only](cash-efts-for-trusted-customers-only.md)
 * [Running a social media promotion](running-a-social-media-promotion.md)
 * [How to Create Gift Vouchers](how-to-create-gift-vouchers.md).
