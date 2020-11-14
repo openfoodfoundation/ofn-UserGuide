@@ -1,36 +1,35 @@
-# Package / profile types
+# Pacchetti / tipi di profili
 
-After completing your [enterprise registration](../register-and-create-your-profile.md) you have an option to be taken directly to the [enterprise settings page](enterprise-settings.md).
+Dopo aver completato la [registrazione del tuo profilo](../register-and-create-your-profile.md) puoi accedere direttamente al [pannello di controllo](enterprise-settings.md).
 
-![](../../.gitbook/assets/newregister.jpg)
+![](../../.gitbook/assets/finito.png)
 
-From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
+Qui dovrai scegliere il profilo OFN che [meglio si adatta alla tua attività](../../your-quick-start-on-ofn-given-who-you-are.md). **Senza questo passaggio, il tuo profilo aziendale non sarà creato e quindi la tua azienda non sarà visibile sulla nostra mappa.**
 
-![](../../.gitbook/assets/newchoose.jpg)
+Open Food Network offre tre tipi di profili aziendali, che variano a seconda se sei o no un produttore e se intendi o no aprire una vetrina online per vendere tramite la piattaforma. La prima scelta che dovrai fare è se sei un produttore o no. A seconda di questa scelta iniziale, ti verranno proposte le seguenti opzioni. 
 
-Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profiles types vary a little bit depending on if you are are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors \(or "hubs" in the Open Food Network world :-\)\).
+![](../../.gitbook/assets/profilo-produttore-non-produttore.png)
 
-## For Producers
+## Per Produttori
 
-There are three types of profiles for producers:
+Puoi scegliere uno dei tre tipi di profili per i produttori:
 
-![](../../.gitbook/assets/prod_choosenew.jpg)
+![](../../.gitbook/assets/profili-produttore.png)
 
 {% tabs %}
-{% tab title="Producer Profile" %}
-With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network. 
+{% tab title="Profilo Produttore" %}
+Con questa opzione la tua azienda sarà visibile sulla mappa di OFN e sulla lista dei produttori. Puoi anche inserire e gestire un listino di prodotti, che potranno essere venduti attraverso la vetrina di altre aziende \(hub\) presenti su OFN. 
 
-As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
+Come "Profilo Produttore" non potrai gestire una tua personale vetrina su OFN, ma solo consentire ad altri hub di vendere i prodotti che metterai a listino. Per maggiori informazioni puoi consultare la guida rapida per questo tipo di profilo, [qui](../../quick-start-guides/).
 
 {% hint style="info" %}
-If you'd like to retail your products on an existing online sales platform and just use OFN to increase your visibility then the 'Producer Profile' package is for you!
-
-You can put the link to your online shop in your enterprise description.
+Se vuoi vendere i tuoi prodotti attraverso un'altra piattaforma e utilizzare OFN solo per aumentare la tua visibilità sul web, allora il "Profilo Produttore" è ciò che fa per te!   
+Puoi inserire il link al tuo negozio personale nella descrizione della tua azienda.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Producer shop" %}
-#### You would like to sell only your own products on OFN
+{% tab title="Negozio Produttore" %}
+#### Vorresti vendere su OFN SOLTANTO i tuoi prodottiYou would like to sell only your own products on OFN
 
 This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
 
