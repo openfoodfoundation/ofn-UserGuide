@@ -9,7 +9,7 @@
   * [Profilo](quick-start-guides/profile-only-quick-setup-guide.md)
 * [Funzionalità](basic-features/README.md)
   * [Registrati e Crea un Profilo Aziendale](basic-features/register-and-create-your-profile.md)
-  * [Dashboard](basic-features/dashboard.md)
+  * [Pannello di controllo](basic-features/dashboard.md)
   * [Enterprise profile](basic-features/enterprise-profile/README.md)
     * [Package / profile types](basic-features/enterprise-profile/package-types.md)
     * [Enterprise Settings](basic-features/enterprise-profile/enterprise-settings.md)

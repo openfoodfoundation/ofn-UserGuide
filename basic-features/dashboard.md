@@ -1,34 +1,18 @@
-# Dashboard
+# Pannello di controllo
 
-The Dashboard ****is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard. 
+Attraverso il Pannello di Controllo puoi modificare e gestire le impostazioni e le funzionalità del tuo profilo di Open Food Network. Se hai deciso di registrarti come [negozio](../your-quick-start-on-ofn-given-who-you-are.md#shop) o [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) qui puoi anche modificare i tuoi prodotti ed i tuoi cicli di richieste.
 
-Access your dashboard from the homepage by first logging in and then clicking on the Profile Icon in the top right hand corner, and selecting **Administration** from the drop-down menu.
+Accedi al tuo pannello di controllo dalla pagina principale: innanzitutto effettua l'accesso, poi clicca sull'icona del profilo nell'angolo in alto a destra e seleziona **Amministratione** dal menù a tendina.
 
-![](../.gitbook/assets/dash1.jpg)
+![](../.gitbook/assets/pannello-di-controllo.png)
 
-The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
+Le opzioni che visualizzerai sul tuo pannello di controllo dipendono dal tipo di profilo che hai scelto in fase di [registrazione](register-and-create-your-profile.md). Le immagini seguenti mostrano i pannelli di controllo per i dversi tipi di profilo.
 
-### Producers
+### Produttore - solo Profilo
 
-{% tabs %}
-{% tab title="Producer Profile Only" %}
-![](../.gitbook/assets/dashboard-profile-only.png)
-{% endtab %}
+![](../.gitbook/assets/pannello-di-controllo-solo-profilo.png)
 
-{% tab title="Producer Profile and Shop" %}
-![](../.gitbook/assets/dashboard-shop.png)
-{% endtab %}
-{% endtabs %}
+### Negozi e Hub
 
-### Hubs
-
-{% tabs %}
-{% tab title="Hub Profile Only" %}
-![](../.gitbook/assets/hub-dashboard-profile-only.png)
-{% endtab %}
-
-{% tab title="Hub Profile and Shop" %}
-![](../.gitbook/assets/hub-dashboard-shopfront.png)
-{% endtab %}
-{% endtabs %}
+![](../.gitbook/assets/pannello-di-controllo-hub.png)
 
