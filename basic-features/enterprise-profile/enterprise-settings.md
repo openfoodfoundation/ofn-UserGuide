@@ -78,10 +78,6 @@ These differ from country to country and they depend on local regulations and la
 
 {% endtab %}
 
-{% tab title="" %}
-
-{% endtab %}
-
 {% tab title="Belgium" %}
 
 {% endtab %}
