@@ -120,6 +120,10 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 
 ![](../../.gitbook/assets/edit-single-subscription-order.bin)
 
+{% hint style="warning" %}
+Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
+{% endhint %}
+
 ### Delete a subscription
 
 To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
@@ -153,10 +157,14 @@ You have set up a subscription for a customer. What happens now, each time an or
 * Your customer's order will be created immediately.  They will receive an email notifying them of this.
 * Stock levels of products ordered by the subscription will be deducted accordingly at this time.
 * An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned summarising how many subscription have been placed, and how many had issues \(e.g. insufficient stock\). 
-* If your enterprise is configured such that 'Orders can be changed/canceled while an order cycle is open' \(see [here](subscriptions-configuration.md#activate-subscriptions)\) then customers with a subscription generated order can edit or cancel.
+* If your enterprise is configured such that 'Orders can be changed/canceled while an order cycle is open' \(see [here](subscriptions-configuration.md#activate-subscriptions)\) then customers with a subscription generated order can remove products from their order or cancel it.
 
 {% hint style="info" %}
 Note, if you create a subscription while there's an open order cycle in the schedule, _an order will be immediately created_ for that subscriber.
+{% endhint %}
+
+{% hint style="warning" %}
+Customers are not able to add items to a subscription order once it has been generated, even if the 'Orders can be changed/canceled while an order cycle is open' button is enabled.  In doing so they will create a second order and taken to the checkout as normal.
 {% endhint %}
 
 ### **The Order Cycle Closes**

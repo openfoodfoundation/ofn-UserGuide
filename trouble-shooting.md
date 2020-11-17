@@ -56,6 +56,10 @@ You must seek their permission before you are able to retail the goods they make
 Change your [Enterprise Settings](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)-&gt; Shop Preferences-&gt; Change Orders? to 'Customers can change/cancel orders while order cycle is open'.  
 When the order cycle opens, the customer will be sent an automated email to say that their veg box order has been created. They then have until the order cycle closes to login to their OFN account, edit their order and add extra items from your shop front to their basket.
 
+{% hint style="info" %}
+The additional items will be processed as a separate order. The customer will be directed to the checkout to pay for these items. Payment for their subscription order will be taken at the end of the order cycle automatically.
+{% endhint %}
+
 **Scenario Two:** _The customer purchases a veg box through an external platform._  In this case, perhaps set up a [private shopfront](basic-features/shopfront/private-shopfront.md) which is only visible to customers registered to your external veg box scheme. Use external software or spreadsheets to match additional items brought through the OFN shop front to customers' veg boxes so that you only have to make deliveries once!
 
 ## There's been a crop failure and we have fewer tomatoes supplied than we need to meet everyone's order
@@ -74,5 +78,37 @@ Currently you are not able to issue refunds to customers who purchased goods by 
 If none of these steps help, or there is another problem that you would like advice with, then please contact your[ local OFN support team](local-ofn-organizations-and-contacts.md), who will do their best to get back to you with solutions and help as soon as they can.
 {% endhint %}
 
+## How can my customer's edit their orders after they have been placed?
 
+On occasion, a customer may place an order with your food enterprise and then change their mind or remember they forgot to add a few items.  There are a few scenarios:
+
+#### Allow the customer to edit their own orders
+
+In your Enterprise Settings, under the [Shop Preferences](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences) tab, you can enable 'Change Orders'
+
+![](.gitbook/assets/changeorders.jpg)
+
+This will mean customers can:
+
+* Remove items from their basket or cancel their order altogether.
+* Increase the quantity of products already in their basket, provided the order was not placed by the subscription system.
+
+{% hint style="warning" %}
+Customers will not be able to add additional products to their basket. On doing so they will be taken to the checkout again to pay for these items.  The two orders will appear in your reports one after another if sorted by customer name though, so they can be packed together \(if you wish\) when you are preparing for collection.
+{% endhint %}
+
+#### Edit orders on your customer's behalf only
+
+You can add a message to your [Shopfront Notices page](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences) asking customers to contact you by email or phone if they wish to adjust their orders.  Products can be added or removed from orders using the steps outlined [here](basic-features/orders/view-orders.md#editing-an-order).
+
+{% hint style="warning" %}
+Note that adding items to an order will invoke the need for [additional payments](basic-features/orders/refunds-and-adjusting-payments.md#collecting-additional-payments) to be collected.
+{% endhint %}
+
+#### The order was placed by a subscription.
+
+For information about editing an order placed by the subscription system see:
+
+* [here](basic-features/subscriptions/subscriptions-faqs.md#can-i-or-the-customer-edit-an-order-which-has-been-placed-by-subscription-system) for one off orders
+* [here](basic-features/subscriptions/subscriptions-faqs.md#what-if-i-change-the-subscription-while-its-open) for editing the base subscription order.
 

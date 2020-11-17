@@ -245,7 +245,11 @@ The 'Guest orders' setting is not applicable if you have opted for 'visible to r
 
 **Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' \(ie people without an OFN account\) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
 
-Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to remove products from their basket or cancel their order altogether while the shop is open.  They will not be able to add products to their original order- doing this will generate a 2nd order.  [Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer.
+Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to **remove products** from their basket **or cancel their order** altogether while the shop is open.  They will **not be able to add products** to their original order- doing this will generate a 2nd order.  
+
+{% hint style="danger" %}
+[Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer.
+{% endhint %}
 
 **Subscriptions:** If you would like to offer to set up regular repeating orders for your customers then you can enable the [subscriptions](../subscriptions/) functionality here.
 
