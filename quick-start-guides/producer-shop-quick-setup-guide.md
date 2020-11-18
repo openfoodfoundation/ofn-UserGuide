@@ -1,5 +1,5 @@
 ---
-description: 5 Simple steps to start your OFN journey as a SHOP
+description: Simple steps to start your OFN journey as a SHOP
 ---
 
 # Shop

@@ -1,5 +1,5 @@
 ---
-description: 4 Simple steps to get started as a OFN profile.
+description: Simple steps to get started as a OFN profile.
 ---
 
 # Profile
