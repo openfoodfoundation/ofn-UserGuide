@@ -31,7 +31,7 @@ First of all, you’ll need to contact [your local OFN team](https://openfoodnet
 Embedding your group page is as simple as inserting a line of code into your website. Below is an example of the HTML that you should insert into the page where you want to embed your OFN group page. You will need to replace ‘flavour-crusader’ with your shop’s unique OFN permalink. 
 
 ```text
-<iframe src="/groups/flavour-crusader?embedded_shopfront=true"style="width:100%;min-height:35em"></iframe>
+<iframe src="https://openfoodnetwork.org.au/groups/flavour-crusader?embedded_shopfront=true" style="width:100%;min-height:35em"></iframe>
 ```
 
 Once you’ve done this, you should see your OFN group page appear within your website at the location where you inserted the HTML.
