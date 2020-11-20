@@ -24,14 +24,14 @@ If you need this functionality, please let [your local OFN](https://openfoodnetw
 In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .csv files directly.   
-If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)   
-With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.   
+**Important note on CSV files**: Microsoft Excel does not open .csv files directly.  
+If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)  
+With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.  
 If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
 {% endhint %}
 
 {% hint style="danger" %}
-Not all fields can be captured and uploaded/updated using this tool.  Currently, [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
+Not all fields can be captured and uploaded/updated using this tool. Currently, [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
 
 We hope to include these in future developments.
 {% endhint %}
@@ -176,7 +176,7 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 #### Import Product Variants
 
-In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\).  As long as the product name is the same, the rows will be imported as variants.  The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
+In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\). As long as the product name is the same, the rows will be imported as variants. The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
@@ -185,7 +185,7 @@ In the import process, variants are distinguished by the units \(such as salad s
 | Apples | Golden Delicious | 3.60 | 500 | g |
 | Apples | Pink Lady | 4.80 | 500 | g |
 
-The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading. 
+The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading.
 
 ![](../../.gitbook/assets/samedisplayname%20%281%29.jpg)
 
@@ -197,24 +197,24 @@ Below are some examples to show how products with different units \(g, ml, kg an
 
 | producer | **name** | **category** | **price** | **units** | **unit\_type** | **variant\_unit\_name** |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| Sue's Salads | Salad Bag | Vegetables | 3.50 | 500 | g |   |
-| Henry Orchards | Fruit Juice | Drinks | 3.50 | 300 | ml |   |
-| Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |   |
-| Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |   | loaf |
+| Sue's Salads | Salad Bag | Vegetables | 3.50 | 500 | g |  |
+| Henry Orchards | Fruit Juice | Drinks | 3.50 | 300 | ml |  |
+| Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |  |
+| Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |  | loaf |
 
 ### Import the CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN. 
+Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
 
 1. Go to **Products** &gt;  **Product Import.**
 2. **Select import type:** Select Product List
 3. **Select a spreadsheet to upload:** Find the csv file you wish to upload.
 
-   Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unchecked. 
+   Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unchecked.
 
 4. Click **Upload**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. 
+You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
 
 {% hint style="success" %}
 It's good practice to check that the products uploaded/updated as you intended.
@@ -232,7 +232,7 @@ You can simultaneously upload new products and update existing products with a s
 
 ### Prepare the CSV file for import
 
-The process for updating product details is similar to [uploading new products](product-and-inventory-import.md#import-new-products). The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better. 
+The process for updating product details is similar to [uploading new products](product-and-inventory-import.md#import-new-products). The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better.
 
 The system requires seven fields to correctly identify the product you want to update. There are four fields which can be updated and four fields which cannot using this tool.
 
@@ -250,12 +250,12 @@ _^ if you try to update these fields you'll see an error message_
 
 _\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
 
-Once complete, the .csv can be [imported](product-and-inventory-import.md#import-the-csv) in the same manner as for new products. 
+Once complete, the .csv can be [imported](product-and-inventory-import.md#import-the-csv) in the same manner as for new products.
 
 {% hint style="info" %}
-**Set stock to zero for all exiting products not present in the file:**   
-If you select this tickbox the system will set the 'In Stock' value to zero for _all products already your product list_.   
-If a product was 'Unlimited' it will remain 'Unlimited'.   
+**Set stock to zero for all exiting products not present in the file:**  
+If you select this tickbox the system will set the 'In Stock' value to zero for _all products already your product list_.  
+If a product was 'Unlimited' it will remain 'Unlimited'.  
 The Products in this import will retain the stock level set in the .csv
 {% endhint %}
 
@@ -289,18 +289,16 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
 
 ### Import the CSV <a id="import-the-csv"></a>
 
-Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN. 
+Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN.
 
 1. Go to **Products** &gt;  **Product Import.**
 2. **Select import type:** Select Inventories
 3. **Select a spreadsheet to upload**
 4. Click **Upload**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. 
+You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
 
 {% hint style="success" %}
 It's good practice to check that the products uploaded/updated as you intended.
 {% endhint %}
-
-
 
