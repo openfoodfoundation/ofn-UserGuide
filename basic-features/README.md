@@ -1,21 +1,28 @@
 ---
 description: >-
-  In this section we explore all the features offered by the OFN software
-  platform.
+  En esta sección exploramos todas las características que ofrece la plataforma
+  de software OFN.
 ---
 
-# Features
+# Funcionalidades
 
-You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/). 
+Puede explorar estas funciones en cualquier momento, pero para aquellos que recién comienzan, recomendamos nuestras [guías de inicio rápido](../quick-start-guides/). 
 
 {% hint style="info" %}
-To find the explanation of a specific feature that you need, please use the 'Search' field \(top right hand corner\).
+Para encontrar la explicación de una función específica que necesite, utilice el campo 'Buscar' \(esquina superior derecha\).
 {% endhint %}
 
-In what follows, the features of OFN are explained in a "double chronological way" with the order of sections organised based on a logical order for setting up:
+A continuación, las características de OFN se explican de forma "cronológica doble" con el orden de las secciones organizadas en función de un orden lógico de configuración:
 
-* [registration](register-and-create-your-profile.md)
-* [enterprise profile setup](enterprise-profile/)
+* [registro](register-and-create-your-profile.md)
+* configuración del perfil de la organización
+* productos
+* tienda
+* pedidos
+* suscripciones
+* reportes
+* panel de administración
+* grupos
 * [products](products-1/)
 * [shopfront](shopfront/)
 * [orders](orders/)
@@ -24,5 +31,5 @@ In what follows, the features of OFN are explained in a "double chronological wa
 * [dashboard](dashboard.md)
 * [groups](groups/)
 
-and the content within each presented from basic usage to more advanced.
+y el contenido de cada uno se presenta desde el uso básico hasta el más avanzado.
 

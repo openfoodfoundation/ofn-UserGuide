@@ -7,7 +7,7 @@
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Tienda](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Perfil](quick-start-guides/profile-only-quick-setup-guide.md)
-* [Features](basic-features/README.md)
+* [Funcionalidades](basic-features/README.md)
   * [Register and Create an Enterprise Account](basic-features/register-and-create-your-profile.md)
   * [Dashboard](basic-features/dashboard.md)
   * [Enterprise profile](basic-features/enterprise-profile/README.md)
