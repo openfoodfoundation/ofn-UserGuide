@@ -10,7 +10,7 @@
 * [Funcionalidades](basic-features/README.md)
   * [Regístrese y cree una Cuenta de Organización](basic-features/register-and-create-your-profile.md)
   * [Panel de Administración](basic-features/dashboard.md)
-  * [Enterprise profile](basic-features/enterprise-profile/README.md)
+  * [Perfil de la Organización](basic-features/enterprise-profile/README.md)
     * [Package / profile types](basic-features/enterprise-profile/package-types.md)
     * [Enterprise Settings](basic-features/enterprise-profile/enterprise-settings.md)
     * [Create or connect with your supplying producers](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
