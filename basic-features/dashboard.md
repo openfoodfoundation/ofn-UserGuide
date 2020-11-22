@@ -1,14 +1,14 @@
-# Dashboard
+# Panel de Administración
 
-The Dashboard ****is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard. 
+El Panel de Administración es donde puede editar y administrar las características y configuraciones de su organización en la plataforma Open Food Network. Si ha optado por registrar su organización como [tienda o hub/nodo](../quick-start-guides/), también puede editar sus productos y ciclos de pedidos desde el Panel de Administración. 
 
-Access your dashboard from the homepage by first logging in and then clicking on the Profile Icon in the top right hand corner, and selecting **Administration** from the drop-down menu.
+Acceda a su panel de administración desde la página de inicio iniciando sesión primero y luego haciendo clic en el icono de perfil en la esquina superior derecha, y seleccionando **Administración** en el menú desplegable.
 
 ![](../.gitbook/assets/dash1.jpg)
 
-The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
+Las opciones que verá en su panel dependerán del tipo de organización que elija al [registrarse](register-and-create-your-profile.md). Las capturas de pantalla siguientes muestran la vista del panel de control para diferentes tipos de usuarios.
 
-### Producers
+### Productores
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}
@@ -20,7 +20,7 @@ The options you will see on your dashboard will depend on which enterprise type 
 {% endtab %}
 {% endtabs %}
 
-### Hubs
+### Hubs/Nodos
 
 {% tabs %}
 {% tab title="Hub Profile Only" %}
