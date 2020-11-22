@@ -1,76 +1,76 @@
 ---
 description: >-
-  Enterprise settings are where you can manage details relating to your profile
-  and/or shopfront.
+  La configuración de la organización es donde puede administrar los detalles
+  relacionados con su perfil y / o tienda
 ---
 
-# Enterprise Settings
+# Configuración Organización
 
-## Access your Enterprise Settings
+## Acceda a su Configuración de la Organización
 
-1. Once logged in, and accessing your admin dashboard, select "Enterprises" on the blue horizontal menu
-2. Select 'Settings' next to your enterprise
+1. Una vez que haya iniciado sesión y accediendo a su panel de administración, seleccione "Organizaciones" en el menú horizontal azul
+2. Seleccione 'Configuración' junto a su organización
 
 ![](../../.gitbook/assets/esettings.jpg)
 
 {% hint style="danger" %}
-To save a change of profile type, do not forget to click on "save" at the bottom of the window on the right.
+Para guardar un cambio de tipo de perfil, no olvide hacer clic en "guardar" en la parte inferior de la ventana de la derecha.
 {% endhint %}
 
-You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
+Luego accederá a un menú con múltiples opciones. Las opciones exactas disponibles varían según el tipo de organización. Este es un ejemplo para un Hub/Nodo: 
 
 ![](../../.gitbook/assets/esettingsmenu.jpg)
 
 {% hint style="danger" %}
-To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
+Para guardar sus cambios, debe hacer clic en "actualizar" en la parte inferior de la página. Se recomienda guardar cada página antes de cambiar de página.
 {% endhint %}
 
-This short video gives a quick insight into the steps and options detailed below:
+Este breve video brinda una visión rápida de los pasos y opciones que se detallan a continuación:
 
 ![](../../.gitbook/assets/enterprisesettings.gif)
 
-## Primary Details
+## Detalles Primarios
 
-**Name:** This is the name of your enterprise. It will be the title of your profile \(and shop\).
+**Nombre:** Este es el nombre de su organización. Será el título de su perfil \(y tienda\).
 
-**Primary Producer:** Select the producer box if you are a producer.
+**Productor Primario:** Seleccione la caja del productor si es productor.
 
 {% hint style="warning" %}
-Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
+Solo las organizaciones marcadas como Productores pueden agregar productos a OFN. [Los Hubs/Nodos que no son productores](package-types.md#para-no-productores-hubs-nodos) solo necesitan seleccionar esta opción si venden al por menor cajas mixtas que empaquetan y contienen artículos de varios productores.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
+**Visible en Buscar:** Si su perfil está listo para hacerse público, seleccione "visible" y su empresa aparecerá en el directorio y mapa de la OFN. Si aún está haciendo ajustes, seleccione "no visible" hasta que esté listo.
 
-**Permalink:** You can customise part of the web address which will host to your shop.
+**Permalink:** Puede personalizar parte de la dirección web que albergará su tienda.
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
+**Enlace a la tienda:** Esta es la dirección web de su tienda en la OFN \(si ha elegido un tipo de perfil con tienda\). Puede personalizar parte de la URL anterior. 
 
-**OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
+**ID OFN:** Este identificador permite reconocer sin ambigüedad su organización incluso si decide cambiar su nombre, por ejemplo, y simplifica el trabajo del equipo de soporte si es necesario. 
 
-### Address
+### Dirección
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+Esta información se utiliza para geolocalizar su organización en el mapa OFN. Su dirección exacta no se mostrará si solo está registrado como perfil de productor o no productor. Sin embargo, si está registrado como Tienda o Hub/Nodo, su dirección se mostrará en forma de texto en la pestaña de detalles de contacto de su tienda.
 
-### Contact
+### Contacto
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Nombre del Contacto:** Solicitamos un nombre de contacto para los registros de la OFN. Este nombre no se mostrará en su perfil, pero se incluirá en los correos electrónicos de confirmación del pedido si tiene una tienda.
 
-**Email, Phone & Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email, Teléfono y Sitio Web:** Estos puntos de contacto se incluirán en su perfil de OFN y en la tienda, como un medio para que otros se pongan en contacto con usted.
 
 ### Social
 
-**Facebook, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
+**Facebook, Instagram, LinkedIn, Twitter:** Los enlaces a estas páginas se crearán en su perfil y tienda.
 
-### About
+### Acerca
 
-**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Descripción corta:** Esto se mostrará cuando su perfil se vea en la lista. Debe tener entre 1 y 2 oraciones que describan brevemente lo que hace.
 
-**About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**Acerca de Nosotros:** Esta es una descripción más extensa de su organización. Se mostrará cuando su perfil se vea en su totalidad. Debe tener de media a una página.
 
-### Business Details
+### Detalles Comerciales
 
 {% hint style="warning" %}
-These differ from country to country and they depend on local regulations and laws.
+Estos difieren de un país a otro y dependen de las regulaciones y leyes locales.
 {% endhint %}
 
 {% tabs %}
@@ -78,19 +78,19 @@ These differ from country to country and they depend on local regulations and la
 
 {% endtab %}
 
-{% tab title="Belgium" %}
+{% tab title="Bélgica" %}
 
 {% endtab %}
 
-{% tab title="Canada" %}
+{% tab title="Canadá" %}
 
 {% endtab %}
 
-{% tab title="Catalunya" %}
+{% tab title="Cataluña" %}
 
 {% endtab %}
 
-{% tab title="France" %}
+{% tab title="Francia" %}
 **Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
 
 **N° intra-Community VAT:** This information will not be public. 
@@ -127,113 +127,113 @@ For advise on selling as a VAT registered enterprise please see this document:
 {% endtab %}
 {% endtabs %}
 
-### Images
+### Imágenes
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 
+**Imágen del logo:** Este será visible cuando su perfil se vea brevemente, como una ventana emergente. También se mostrará en su perfil. Esta imagen debe ser cuadrada \(es decir, 100 x 100\), o se recortará / deformará. 
 
-**Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+**Imágen Promo:** Esta imagen se mostrará horizontalmente en la parte superior de la página de su perfil. Debe tener un tamaño de 1200 x 260 píxeles.
 
-An example profile is shown below in its complete version \(from the map or shopfront pages\).
+A continuación se muestra un perfil de ejemplo en su versión completa \(del mapa o de las páginas de la tienda\).
 
 ![](../../.gitbook/assets/demohubimages1.jpg)
 
-And now in its condensed version \(from the producer listing page\).
+Y ahora en su versión condensada \(de la página de listado de productores\).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties 
+### Propiedades 
 
 {% hint style="warning" %}
-Visible to **Producers** only
+Visible para **Productores** únicamente
 {% endhint %}
 
-You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products. 
+Puede agregar propiedades \(como cría en libertad u orgánica certificada\) a su empresa. Estas propiedades se aplicarán automáticamente a **todos** sus productos.  
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md). 
+También puede especificar propiedades solo para productos particulares. Esto es útil si, por ejemplo, almacena alimentos orgánicos y ordinarios certificados. Puede encontrar más información sobre esto [aquí](../products-1/product-properties.md).  
 
-### Shipping Methods, Payment Methods & Enterprise Fees
+### Métodos de Envío, Métodos de Pago y Tasas Organizacionales
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only \(ie invisible for Producer/Non-Producer Profiles\)
+Visible solo para las tiendas o las empresas registradas de Hubs/Nodos \(es decir, invisible para los perfiles de productor / no productor\).
 {% endhint %}
 
-The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+Los [Métodos de Envío](../shopfront/shipping-methods.md), los [Métodos de Pago](../shopfront/payment-methods.md) y las [Tasas Organizacionales](../shopfront/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este manual del usuario.
 
 {% hint style="danger" %}
-At least one method of **payment** and **delivery** must be setup to be able to open your online shopfront.
+Se debe configurar al menos un método de **pago** y **entrega** para poder abrir su tienda en línea. 
 {% endhint %}
 
-### Inventory Settings
+### Configuración Inventario
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible solo para organizaciones registradas Tiendas y Hubs/nodos.
 {% endhint %}
 
-For most enterprises the recommended setting can be used.
+Para la mayoría de las organizaciones, se puede utilizar la configuración recomendada.
 
-Advanced users who need greater flexibility with product management should consult the [Inventory](../products-1/inventory-tool.md) page of this guide before changing the settings.
+Los usuarios avanzados que necesitan una mayor flexibilidad con la gestión de productos deben consultar la página [Inventario](../products-1/inventory-tool.md) de esta guía antes de cambiar la configuración.
 
-### Tag Rules
+### Reglas de Etiquetas
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible solo para organizaciones registradas Tiendas y Hubs/nodos.
 {% endhint %}
 
-Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
+Bajo este menú están todas las 'etiquetas' que se han asignado a los clientes de su organización.
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+Las 'etiquetas' son clasificaciones que se aplican a los clientes, productos y otras configuraciones para asignar acceso diferencial, precios u otros beneficios a grupos específicos. Son particularmente útiles si desea cobrar a los clientes leales o 'miembros' de su hub/nodo de alimentos precios preferenciales o permitirles pagar mediante BACS en lugar de PayPal / Stripe.
 
- For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+Para obtener más información, visite la sección ['gestión de clientes y exhibiciones / precios condicionales'](../shopfront/customer-management-and-conditional-displays-prices/).
 
-### Shop Preferences
+### Preferencias de la Tienda
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible solo para organizaciones registradas Tiendas y Hubs/nodos.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
+**Mensaje de la tienda:** este mensaje es opcional. Si se completa, el mensaje será visible en la pestaña "Bienvenidos" en la barra de menú superior. Su tienda \(y sus productos\) aparecerán en la pestaña 'Tienda'.
 
-![Shop front with Notices for single order cycle](../../.gitbook/assets/notices-singleoc.jpg)
+![Tienda con bienvenida para un ciclo de pedido &#xFA;nico](../../.gitbook/assets/notices-singleoc.jpg)
 
-![Shop front with notices for multiple concurrent order cycles](../../.gitbook/assets/notices.jpg)
+![Tienda con avisos para m&#xFA;ltiples ciclos de pedidos simult&#xE1;neos](../../.gitbook/assets/notices.jpg)
 
-The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
+El mensaje o "Bienvenida" de la Tienda es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo están estructurados sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o una oportunidad para promocionar especiales. Puede incluir enlaces a sitios web externos \(tal vez para mostrar dónde se cultivan sus productos\), redes sociales y más.
 
-If left blank the 'Notices' tab will not appear on your shop front.
+Si se deja en blanco, la pestaña 'Bienvenidos' no aparecerá en el frente de su tienda.
 
 ![](../../.gitbook/assets/notices-none.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
+**Mensaje de Tienda cerrada:** Este mensaje se mostrará en las pestañas "Bienvenidos" y "Tienda" cuando su tienda esté cerrada \(sin ciclo de pedido activo\). Es una oportunidad para decirles a los clientes cuándo abrirá la tienda y aceptará pedidos.
 
 {% hint style="success" %}
-TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
+SUGERENCIA: Copie y pegue su 'Mensaje de Tienda' en el Mensaje Cerrado de Tienda. Luego, puede informar a los clientes sobre cómo funciona su tienda, vincular a sitios web externos con más información sobre sus productos y ética, etc., así como informarles de cuándo se abrirá el próximo ciclo de pedidos.
 {% endhint %}
 
-![Closed shopfront with customised message](../../.gitbook/assets/ordersclosednew1.jpg)
+![Tienda cerrada con mensaje personalizado](../../.gitbook/assets/ordersclosednew1.jpg)
 
-![Closed shopfront with default message](../../.gitbook/assets/orderscloseddefault.jpg)
+![Tienda cerrada con mensaje por defecto](../../.gitbook/assets/orderscloseddefault.jpg)
 
-**Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Ordenar por Categorías la Tienda**: de forma predeterminada, los productos se ordenan alfabéticamente en su tienda. Puede elegir mostrar los productos en orden de categoría según su deseo. En este caso, los productos se mostrarán en orden de categoría y luego en orden alfabético dentro de su categoría. P.ej. es posible que desee que sus productos de carne y pescado aparezcan en la parte superior, y los encurtidos y conservas menos importantes aparezcan más abajo en la tienda.
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Clasifique por los ciclos de orden la Tienda**: Si su tienda tiene [más de un ciclo de pedido abierto](../shopfront/order-cycle/order-cycles-for-producers.md) al mismo tiempo, puede seleccionar el orden en el que aparecen en la tienda. Puede optar por ordenarlos por fecha de cierre \(cerrando antes el primero\) o por fecha de apertura \(abriendo antes primero\).
 
-**Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
+**¿Tienda visible públicamente?** Si selecciona "público", cualquier comprador podrá acceder a su tienda y realizar un pedido. Si selecciona "visible solo para clientes registrados", se pedirá a los compradores que accedan a su tienda que inicien sesión y solo los usuarios que estén en su lista de clientes tendrán acceso a su tienda. Obtenga más información sobre la [función de tienda privada](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**¿Pedidos de invitados?** Si selecciona "permitir el pago como invitado", los compradores no necesitarán iniciar sesión en la OFN para comprar con usted, por lo que no es necesario que se registren y tengan una cuenta de usuario. Si desea la seguridad adicional de saber que sus clientes deben tener una cuenta OFN para poder realizar un pedido, seleccione "requerir inicio de sesión para realizar el pedido".
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+Para que un cliente tenga una cuenta OFN debe haber confirmado el correo electrónico que se le envió al registrarse con nosotros. Por lo tanto, al seleccionar "requerir inicio de sesión para realizar el pedido", puede ayudar a limitar el número de pedidos realizados que posteriormente nunca se recopilan, ya que sabe que el correo electrónico de confirmación del pedido del cliente se enviará a una cuenta de correo electrónico activa.
 
 {% hint style="warning" %}
-The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
+La configuración 'Pedidos de invitado' no es aplicable si ha optado por 'visible solo para clientes registrados'. 
 {% endhint %}
 
-### Users
+### Usuarios
 
-**Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
+**Propietario:** Este es el correo electrónico del usuario principal responsable de esta organización. Tienen el poder de cambiar todos los aspectos del perfil. Solo el propietario puede cambiar al propietario, eligiendo entre la lista de administradores de la empresa. Este usuario tendrá una estrella junto a su nombre en el campo de administradores. 
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Notificaciones:** Este es el correo electrónico del usuario al que se dirigirá la correspondencia del sistema OFN, es decir, confirmaciones de pedidos, etc. Solo el propietario puede nombrar al usuario que recibirá las notificaciones, entre la lista de administradores de la empresa. Este usuario tendrá un símbolo de sobre junto a su nombre en el campo de los administradores. 
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Administradores:** Otros usuarios de OFN a los que se les ha otorgado permiso para administrar esta cuenta. ¿Quiere agregar un nuevo administrador? Puede buscar correos electrónicos existentes de usuarios que se han registrado para una cuenta OFN y agregarlos como administradores. Si no encuentra ningún usuario para el correo electrónico que está buscando, el usuario aún no existe en la OFN, debe invitarlo \(ver siguiente punto\).
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Invitar administrador:** Esto es para agregar un administrador que no está registrado con OFN. Cuando los agregue, se les enviará una confirmación por correo electrónico y cuando confirmen su correo electrónico, podrán establecer una contraseña e iniciar sesión para administrar esta empresa. 
 

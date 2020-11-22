@@ -12,7 +12,7 @@
   * [Panel de Administración](basic-features/dashboard.md)
   * [Perfil de la Organización](basic-features/enterprise-profile/README.md)
     * [Tipos de paquetes / perfiles](basic-features/enterprise-profile/package-types.md)
-    * [Enterprise Settings](basic-features/enterprise-profile/enterprise-settings.md)
+    * [Configuración Organización](basic-features/enterprise-profile/enterprise-settings.md)
     * [Create or connect with your supplying producers](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
     * [Making a producer profile searchable by product category](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
     * [Enterprise Permissions](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
