@@ -1,60 +1,62 @@
-# Register and Create an Enterprise Account
+# Regístrese y cree una Cuenta de Organización
 
-### Create your user account
+### Cree su cuenta de usuario
 
-* From homepage, click on "Login" on the top right corner, then "Sign up" 
+* Desde la página de inicio, haga clic en "Iniciar sesión" en la esquina superior derecha, luego "Registrarse" 
 
-![](../.gitbook/assets/loginsetup.jpg)
+![](../.gitbook/assets/registro.png)
 
-* Enter your email address and choose a password.
-* You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
-* Login
+* Ingrese su dirección de correo electrónico y elija una contraseña.
+* Recibirá un correo electrónico en los próximos minutos con un enlace de confirmación. Haga clic en él y será redirigido a la página de inicio de sesión.
+* Iniciar sesión
 
 {% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
+Si no recibe un correo electrónico de confirmación de nuestra parte de inmediato, es posible que haya ido a su casilla de correo no deseado.
 {% endhint %}
 
-### Create your first "enterprise" account
+### Cree su primera cuenta "organizacional"
 
+* Una vez que haya iniciado sesión, haga clic en el banner gris inferior "¿Está interesado en vender a través de Open Food Network? **Regístrese aquí**".
 * Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
 
-![](../.gitbook/assets/registerenterprise.jpg)
+![](../.gitbook/assets/venderregistro.png)
 
-![](../.gitbook/assets/welcome1.jpg)
+![](../.gitbook/assets/holainicioregorg.png)
 
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
+* Haga clic en el cuadro "Acepto las Condiciones de servicio anteriores" y seleccione "¡Empecemos!"
 
-![](../.gitbook/assets/letsgetstarted.jpg)
+![](../.gitbook/assets/empecemos.png)
 
-* Fill in your enterprise name and contact details.
+* Complete el nombre de su organización y los datos de contacto.
 
 {% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
+Su dirección se utilizará para agregar su negocio a nuestro mapa de organizaciones OFN y, por lo tanto, aumentar su visibilidad.
 {% endhint %}
 
-* Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
+* Elija entre 'Productor' \(usted mismo hace / hornea / cultiva productos\) o 'No productor' \(distribuye y vende alimentos hechos por otros\).
 
-![](../.gitbook/assets/laststep.jpg)
+![](../.gitbook/assets/ultimopasoregistro.png)
 
-* Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
-* Fill in your enterprise description, add images, website/social media links, business details, etc.
-* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
+* Haga clic en el botón "crear perfil".
+* Recibirás un correo electrónico confirmando que se creó el perfil. Puede detenerse aquí y completar la información que falta más tarde, o continuar y seguir los pasos para completar su perfil ahora.
+* Complete la descripción de su organización, agregue imágenes, enlaces a sitios web / redes sociales, detalles comerciales, etc.
+* Cuando haya terminado, será redirigido al [menú de perfil de empresa](enterprise-profile/).
 
 ![](../.gitbook/assets/newregister.jpg)
 
-**Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
+**Su primera "organización" ya está creada y ha comenzado a completar su perfil, ¡pero no está terminado!**
 
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
+**El siguiente paso es** [**elegir el paquete OFN**](enterprise-profile/) **\(= tipo de perfil\) que mejor represente su** [**modelo de negocio**](../quick-start-guides/)**.**   
 
 ![](../.gitbook/assets/newchoose.jpg)
 
-**After doing so, your enterprise will added to the OFN map!**  
+**¡Después de hacerlo, su organización se agregará al mapa OFN!**
 
-**A short clip of registering your enterprise on OFN:**
+**Un breve clip del registro de su organización en OFN:** 
 
 ![](../.gitbook/assets/registration.gif)
 
-### Access your Enterprise Administration Dashboard
+### Acceda al panel de administración de su organización
 
-Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
+Una vez que haya creado una organización, puede administrar su perfil usando el Panel de administración. Para acceder al Panel de Administración de su Organización, inicie sesión en Open Food Network y haga clic en "Perfil&gt; Administración" en la esquina superior derecha. Consulte [Panel de administración](dashboard.md) para obtener más información.
 
