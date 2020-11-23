@@ -43,6 +43,10 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
 
 ![](../../.gitbook/assets/payment-methods1.jpg)
 
+{% hint style="warning" %}
+Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled \(found in Enterprises -&gt; Settings -&gt; [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)\) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...\)
+{% endhint %}
+
 * **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
 
 By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
