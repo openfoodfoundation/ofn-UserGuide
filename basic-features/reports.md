@@ -1,167 +1,167 @@
-# Reportes
+# Reports
 
-Puede acceder a los reportes haciendo clic en **Reportes** en el menú horizontal azul.  
+You can access reports by clicking on **Reports** in the blue horizontal menu.  
 
 ![](../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
-Aquí encontrará una lista de las exportaciones de datos predefinidas que están disponibles para ver y descargar. Todos los reportes están disponibles para descargar como un archivo CSV seleccionando la casilla de verificación **Descargar como CSV** cuando especifica los filtros para cada informe.   
+Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report.   
 
 
-## Todos los Reportes
+## All Reports
 
-![Reportes disponibles para ver y descargar](../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
+![Reports available to view and download](../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
-## Algunos Reportes Útiles
+## Some Helpful Reports
 
-Si necesita administrar la disponibilidad de productos para cumplir con los pedidos, el reporte de [Totales de Proveedores del Ciclo de Pedido](reports.md#order-cycle-supplier-totals) ayudará a respaldar y administrar el proceso de pedido.
+If you need to manage availability of products to meet orders, the [**Order** **Cycle Supplier Totals**](reports.md#order-cycle-supplier-totals) report will help support and manage the ordering process.  
 
-Si empaca y procesa pedidos de forma individual o por lotes, el reporte [Totales de clientes del Ciclo de Pedido](reports.md#order-cycle-customer-totals) ayudará a guiar el proceso de empaque y entrega para los clientes.
+If you pack and process orders on an individual or batch basis, the [**Order Cycle Customer Totals**](reports.md#order-cycle-customer-totals) report will help to guide your packing and delivery process for customers. 
 
-Los informes [Lista de correo](reports.md#mailing-list-report) y [Direcciones](reports.md#addresses) son útiles para administrar los detalles de su cliente.
+The [**Mailing List**](reports.md#mailing-list-report) ****and [**Addresses**](reports.md#addresses) ****reports are helpful for managing your customer’s details. 
 
-El reporte de [Impuesto de Ventas](reports.md#sales-tax) es útil para las empresas que se ocupan de los informes de GST / IVA.
+The [**Sales Tax**](reports.md#sales-tax) ****report is useful for enterprises dealing with GST/VAT reporting. 
 
-El reporte [Al Por Mayor Co-op](reports.md#bulk-co-op-totals-by-suppliers-report) ayuda con la toma de decisiones de pedidos masivos.
+The [**Bulk Co-op**](reports.md#bulk-co-op-totals-by-suppliers-report) ****report helps with bulk ordering decision making.
 
-## Totales de Clientes del Ciclo de Pedido
+## Order Cycle Customer Totals
 
-Si cumple con los pedidos de forma individual o prepara pedidos individuales a granel cuando se cierra el ciclo de pedidos, el reporte Totales de Clientes del Ciclo de Pedido se puede utilizar para guiar el proceso de empaque y entrega para los clientes. El reporte se puede filtrar por ciclo de pedido o por un rango de fechas en particular. Si administra varias organizaciones, puede filtrar los reportes por organización.
+If you fulfill orders on a individual basis or prepare individual orders in bulk when your order cycle closes, the Order Cycle Customer Totals report can be used to guide your packing and delivery process for customers. The report can be filtered by order cycle or for a particular date range. If you manage multiple enterprises you can filter the reports by enterprise.
 
-El reporte incluye un artículo de línea para cada producto pedido por un cliente, incluido el **correo electrónico** del cliente y los detalles de **contacto**, el **método de envío** elegido, los **detalles del producto**, incluido el **costo** y las **tarifas** del artículo. También hay una línea de artículo que muestra un costo **Total** para cada cliente para el ciclo de pedido o rango de fechas especificado. Este reporte proporciona toda la información necesaria para empaquetar un pedido, contactar al cliente y organizar la entrega o recogida.
+The report includes a line item for each product ordered by a customer, including the customer's **email** and **contact** details, chosen **shipping method**, the **product details** including **item cost** and **fees.** There is also a line item showing a **Total** cost for each customer for the specified order cycle or date range. This report provides all the information required to pack an order, contact the customer and arrange for delivery or collection. 
 
-La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Clientes del Ciclo de Pedido. 
+The screenshot below shows some of the information contained in an Order Cycle Customer Totals report. 
 
 ![Order Cycles Customer Totals Report](../.gitbook/assets/order-cycle-customer-totals.png)
 
-## Totales de Proveedores del Ciclo de Pedido
+## Order Cycle Supplier Totals
 
-El reporte de Totales de Proveedores del Ciclo de Pedido proporciona un resumen del total de pedidos que deben cumplirse para un ciclo de pedido o rango de fechas en particular. Si distribuye productos de uno o más proveedores y necesita garantizar la disponibilidad de los productos para prepararlos para el embalaje y la entrega, el informe Totales de Proveedores del Ciclo de Pedido será útil.
+The Order Cycle Supplier Totals report provides a summary of total orders that need to be fulfilled for a particular order cycle or date range. If you distribute products from one or more suppliers and need to ensure availability of products to prepare for packing and delivery, the Order Cycle Supplier Totals report will be helpful. 
 
-En el reporte reporte de Totales de Proveedores del Ciclo de Pedido, los pedidos de productos se enumeran por proveedor, con una línea de artículo para cada **producto** o **variante**, la **cantidad** de pedidos para cada uno, los **costos unitarios y totales** y los detalles sobre el **transporte entrante**. Cuando se cierra el ciclo de su pedido, o cuando está listo para cumplir con un lote de pedidos, este informe le mostrará la cantidad de cada producto que necesitará en stock para cumplir con éxito todos los pedidos pendientes.
+In the Order Cycle Supplier Totals report, product orders are listed by supplier, with a line item for each **product** or **variant,** the **amount** of orders for each, the **unit** and **total** **costs** and details about **incoming transport**. When your order cycle closes, or when you're ready to fulfill a batch of orders, this report will shows you how much of each product you will need in stock to successfully fulfill all pending orders.
 
-La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Proveedores del Ciclo de Pedido. 
+The screenshot below shows some of the information contained in an Order Cycle Supplier Totals report. 
 
-![Reporte de Totales de Proveedores del Ciclo de Pedido](../.gitbook/assets/assets_-l9rgk4wewex_zxxizmw_-lm42xlqo4kply0-_ccm_-lm49bk3eqrejfqsm9wk_order-cycle-supplier-totals.png)
+![Order Cycle Supplier Totals Report](../.gitbook/assets/assets_-l9rgk4wewex_zxxizmw_-lm42xlqo4kply0-_ccm_-lm49bk3eqrejfqsm9wk_order-cycle-supplier-totals.png)
 
-## Reporte Lista de Correo
+## Mailing List Report
 
-El informe de la lista de correo muestra los nombres y direcciones de correo electrónico de los clientes que han realizado pedidos en su tienda. Este informe puede ayudarlo a comunicarse con los clientes que compraron artículos en su tienda. Por ejemplo, es posible que deba notificar a un cliente \(o conjunto de clientes\) si un producto que compraron no está disponible o si no puede \(digamos, debido a una enfermedad\) cumplir con el cronograma de entrega solicitado.
+The mailing list report shows the names and email addresses of customers who have placed orders in your shopfront. This report can help you contact customers who have purchased items from your shopfront.  For example, you may need to notify a customer \(or set of customers\) if a product they bought is not available or if you are unable \(say, due to illness\) make the delivery schedule they requested. 
 
-Puede filtrar el informe según el ciclo de pedido y, si administra varias organizaciones, puede especificar la tienda \(**distribuidor**\) a través del cual el cliente realizó pedidos o generar un reporte para cada **proveedor** de productos que se hayan pedido.
+You can filter the report according to order cycle, and if you manage multiple enterprises, you can specify the shopfront \(**distributor**\) that the customer placed orders through or produce a report for each **supplier** of products that have been ordered. 
 
-Vea a continuación un ejemplo del Reporte de Lista de Correo:
+See below for an example of the Mailing List Report:
 
-![Reporte Lista de Correo](../.gitbook/assets/mailing-list.png)
+![Mailing List Report](../.gitbook/assets/mailing-list.png)
 
-## Direcciones
+## Addresses
 
-El reporte de Direcciones incluye los datos de contacto del cliente, el Hub/Nodo y el método de envío, y se puede filtrar por Ciclo de Pedido, Tienda \(**Distribuidor**\) y **Proveedor**. ****
+The Addresses report includes Customer contact details, Hub and Shipping Method, and can be filtered by Order Cycle, Shopfront \(**Distributor**\) and **Supplier.** 
 
 ![Addresses Report](../.gitbook/assets/addresses.png)
 
-## Todos los Productos e Inventario \(disponible\)
+## All Products and Inventory \(in stock\)
 
-Los reportes Todos los Productos e Inventario \(disponible\) se pueden utilizar como base para una hoja de pedido de copias en papel. Enumera todos sus productos y sus precios, y se puede imprimir y utilizar para permitir que los clientes envíen pedidos manuales de su lista de productos existente.
+The All Products and Inventory \(in stock\) reports can be used as the basis for a paper copy ordering sheet. It lists all of your products and their prices and can be printed and used to allow customers to submit manual orders from your existing product list. 
 
-El reporte **Todos los Productos** enumera todos sus productos independientemente de las cantidades disponibles, por lo que incluirá los productos que actualmente se enumeran como no disponibles. El reporte **Inventario \(disponible\)** muestra solo los productos que tienen un valor positivo "disponible".
+The **All Products** report lists all of your products regardless of the in stock quantities, so it will include products that are currently listed as having zero stock. The **Inventory \(in stock\)** report shows only products which have a positive 'in stock' value.
 
-A continuación se muestra un ejemplo del Reporte Todos los Productos:
+Below is an example of the All Products Report:
 
 ![All Products Report](../.gitbook/assets/all-products.png)
 
-## Resumen de las Comisiones de la Organización
+## Enterprise Fee Summary
 
-Las organizaciones pueden configurar [Comisiones de la Organización](shopfront/enterprise-fees.md) para identificar y controlar la asignación de costos / precios para diferentes propósitos. Estas comisiones permiten la transparencia de precios para los clientes cuando visitan su tienda. El reporte Resumen de las Comisiones de la Organización se utiliza para resumir las cantidades de comisiones que se cobraron y a quién.
+Enterprises can set up [Enterprise Fees](shopfront/enterprise-fees.md) to identify and control allocation of costs / prices for different purposes. These fees enable price transparency to customers when they visit your shopfront. The Enterprise Fee Summary report is used to summarise the amounts of fees that were charged, and to whom. 
 
-El reporte se puede filtrar por Tienda \(**Hub/Nodo**\), **Productor** y **Ciclo de Pedido**, así como también por Nombres las Comisiones y Métodos de Envío y Pago.
+The report can be filtered by Shopfront \(**Hub**\), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
 
-![Reporte Resumen de las Comisiones de la Organizaci&#xF3;n](../.gitbook/assets/image%20%2824%29.png)
+![Enterprise Fee Summary Report](../.gitbook/assets/image%20%2824%29.png)
 
-**Ejemplo 1**: una tienda incluye una comisión de recaudación de fondos del 2% en cada pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para identificar los fondos totales recaudados dentro de un ciclo de pedido en particular. 
+**Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle. 
 
-**Ejemplo 2**: un Hub/Nodo cobra una comisión de transporte que pagan a un productor por recoger los productos de otros agricultores y llevarlos al Hub/Nodo. Esta tarifa se calcula como un porcentaje de cada producto en el ciclo de pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para calcular cuánto pagar al Productor por el transporte en cada Ciclo de Pedido. 
+**Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
 
-**Ejemplo 3:** un Hub/Nodo incluye una comisión para mostrar a los clientes la cantidad que pagan a Open Food Network por el uso de la plataforma. Esta comisión se calcula como un porcentaje de todos los pedidos realizados. La siguiente captura de pantalla es un ejemplo de este escenario: 
+**Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
 
-![Reporte Resumen de las Comisiones de la Organizaci&#xF3;n para un Comisi&#xF3;n espec&#xED;fica \(Comisi&#xF3;n Open Food Network\) ](../.gitbook/assets/image%20%282%29.png)
+![Enterprise Fee Summary Report for a specified Fee \(Open Food Network Fee\) ](../.gitbook/assets/image%20%282%29.png)
 
-## Reportes de Empaquetado
+## Packing Reports
 
-Algunas empresas usan sus correos electrónicos de confirmación de pedidos como hojas de empaque, o descargan y modifican el reporte Totales de Clientes del Ciclo de Pedido para satisfacer sus necesidades específicas. Los dos Reportes de Empaquetado ofrecen opciones adicionales para gestionar el proceso de empaque.
+Some enterprises use their order confirmation emails as packing sheets, or download and modify the Order Cycle Customer Totals report to suit their specific needs. The two Packing Reports offer additional options for managing the packing process.
 
-**Empaque por Cliente** 
+**Pack by Customer** 
 
-Este reporte enumera a cada cliente que realizó un pedido y muestra cada artículo pedido por el cliente, incluidas las cantidades de cada artículo. Es útil para las tiendas que empaquetan pedidos cliente por cliente.
+This report lists each customer who placed an order and shows each item ordered by the customer, including the quantities of each item. It’s useful for shops who pack orders customer by customer.
 
-**Empaque por Proveedor**
+**Pack by supplier**
 
-Este reporte enumera a cada proveedor y sus productos. Junto a cada producto está el nombre de los clientes que ordenaron el producto y la cantidad que pidieron. El informe es útil para las tiendas que empaquetan los pedidos según el proveedor.
+This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered. The report is useful for shops who pack orders according to supplier.
 
-## Impuesto de Venta
+## Sales Tax
 
-Este informe es útil para separar el componente de impuestos de Ventas, Entrega y comisiones.
+This report is useful to separate the tax component of Sales, Delivery and fees.
 
 ![Sales Tax Report](../.gitbook/assets/sales-tax-report.png)
 
-## Facturas Xero
+## Xero Invoices
 
-Este informe crea archivos CSV que se pueden importar al paquete de contabilidad "Xero" para generar facturas para los clientes. 
+This report creates CSV files which can be imported into the accounting package ‘Xero’ to generate invoices for customers.
 
-### Generando el reporte
+### Generating the report
 
-![Campos Reporte Xero](../.gitbook/assets/xero-report.png)
+![Xero Report Fields](../.gitbook/assets/xero-report.png)
 
-**Intervalo de fechas**: puede filtrar los pedidos por la fecha en que se realizó el pedido.
+**Date range:** You can filter orders by the date the order was placed.
 
-**Tipo de reporte**: puede seleccionar descargar un reporte "detallado", que incluye una línea de pedido para cada artículo que compró el cliente, incluidas las tarifas y los ajustes a su pedido.
+**Report type:** You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
 
-**Hub/Nodo y ciclo de pedido**: puede especificar en qué centro y ciclo de pedidos se realizaron los pedidos.
+**Hub and order cycle:** You can specify which Hub and Order Cycle, the orders were placed through.
 
-**Número de factura inicial**: para garantizar la compatibilidad con su sistema de numeración de facturas de Xero, introduzca el primer número de factura al que le gustaría que se asignaran nuevas facturas. Todas las facturas posteriores se numerarán a partir de este punto.
+**Initial invoice number:** To ensure compatibility with your Xero invoice numbering system, enter the first invoice number you would like new invoices to be allocated. All subsequent invoices will be numbered from this point.
 
-**Fecha de la factura**: puede seleccionar la fecha con la que desea que se marquen las facturas en Xero. Esto se puede editar una vez que tiene la factura en Xero, pero hacerlo aquí le permite fechar por lotes todas las facturas en un solo informe.
+**Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to batch date all the invoices in a single report. 
 
-**Fecha de vencimiento**: puede seleccionar la fecha de vencimiento que se marcará en las facturas de Xero. Nuevamente, esto es editable en Xero.
+**Due date:** You can select the due date to be marked on Xero invoices. Again this is editable in Xero.
 
-**Código de cuenta**: si coloca un código de cuenta de Xero aquí, todos los elementos de la factura se asignarán a esta cuenta. Esta editable en Xero.
+**Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it editable in Xero.
 
-**Descargar como CSV**: cuando esté listo para descargar el archivo para importar, marque la casilla y haga clic en **buscar**.
+**Download as CSV:** When you are ready to download the file for import check the box and click **search**.
 
-### Importar el reporte a Xero
+### Importing the report into Xero
 
-En Xero, vaya a **Cuentas**, **Ventas** y haga clic en Importar.
+In Xero go to **Accounts**, **Sales** and click Import.
 
-![Importaci&#xF3;n Xero](../.gitbook/assets/xero-import.png)
+![Xero Import](../.gitbook/assets/xero-import.png)
 
-A continuación, seleccionará su reporte OFN Xero descargado para cargarlo. Los ajustes que debe seleccionar se muestran a continuación.
+Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
-![Pasos Importaci&#xF3;n Xero](../.gitbook/assets/xero-import-steps.png)
+![Xero Import Steps](../.gitbook/assets/xero-import-steps.png)
 
-Si selecciona **Ignorar los detalles de la dirección de contacto**, se asegurará de que los datos de sus clientes de Xero no se modifiquen.
+Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered. 
 
-Si selecciona **Impuesto Exclusivo**, se asegurará de que los productos que haya configurado para incluir impuestos en Open Food Network incluirán impuestos, pero sus artículos libres de impuestos seguirán estando libres de impuestos.
+Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Open Food Network will include tax, but your tax free items will remain tax free.
 
-## Reporte Totales Al Por Mayor Co-op por Proveedores
+## Bulk Co-op Totals By Suppliers Report
 
-Este reporte les dice a los gerentes de tienda si han alcanzado su umbral de pedidos masivos y cuánto han excedido o no alcanzado esta cantidad. Tenga en cuenta que debe configurar tamaños a granel para sus productos antes de usar esta función; consulte la función [Compra grupal - para pedidos a granel](products-1/group-buy-for-bulk-ordering.md) para obtener instrucciones.
+This report tells shop managers whether they have reached their bulk ordering threshold, and by how much they have exceeded or fallen short of this amount. Note you need to setup bulk sizes for your products before using this feature, see the [Group Buy - For Bulk Ordering](products-1/group-buy-for-bulk-ordering.md) Feature for instructions.
 
-Este reporte mostrará la siguiente información:
+This report will show the following information:
 
-* ¿Los clientes pidieron un producto suficiente para justificar pedir el tamaño a granel al proveedor?
-* ¿Cuánto producto adicional están dispuestos a comprar los clientes para ayudar al grupo a alcanzar el umbral de tamaño a granel \(si la [Compra grupal](products-1/group-buy-for-bulk-ordering.md) está habilitada\)?
-* ¿Cuántos tamaños a granel se requieren para satisfacer la demanda de los clientes?
-* Si se pide el tamaño a granel, ¿cuánto stock quedará?
-* ¿Cuántos clientes se sentirán decepcionados si no se pide este producto?
+* Did customers order enough of a product to justify ordering the bulk size from the supplier?
+* How much extra product are customers willing to purchase to help the group reach the bulk size threshold \(if [Group Buy](products-1/group-buy-for-bulk-ordering.md#enabling-group-buy-for-a-product) is enabled\)
+* How many bulk sizes are required to meet customer demand?
+* If the bulk size is ordered, how much stock will be left over
+* How many customers will be disappointed if this product isn’t ordered?
 
-Consulte el ejemplo a continuación para ver una ilustración de cómo se puede utilizar el Reporte Totales Al Por Mayor Co-op por Proveedores:
+See the example below for an illustration of how the Bulk Co-op Totals by Supplier report can be used:
 
-Ejemplo 1: Cuando se ha alcanzado la cantidad de pedidos a granel:
+Example 1: Where the bulk ordering quantity has been reached:
 
 ![Radishes](../.gitbook/assets/radishess.png)
 
-Ejemplo 2: donde no se ha alcanzado la cantidad de pedido a granel:
+Example 2: where the bulk order quantity has not been reached:
 
 ![Bok Choy](../.gitbook/assets/bok-choy.png)
 
-* _Tenga en cuenta que el reporte 'Bulk Co-op Allocations’ tiene una función similar a este informe, pero muestra el pedido de cada cliente individualmente, en lugar del total acumulado de todos los clientes._ 
+* _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
 
