@@ -49,7 +49,7 @@
     * [Subscriptions- Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
-  * [Reports](basic-features/reports.md)
+  * [Reportes](basic-features/reports.md)
   * [Groups](basic-features/groups/README.md)
     * [Create and manage a Group page](basic-features/groups/group-page.md)
     * [Embed a Group Page in a Website](basic-features/groups/embed-a-group-page.md)
