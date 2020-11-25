@@ -21,6 +21,10 @@ Essentially this is a way for the customer to say _‘you have my permission to 
 
 In [Bulk Order Management](../orders/view-orders.md#bulk-order-management) you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
 
+{% hint style="danger" %}
+The group buy function can **not** be applied to products listed with units = **items**.
+{% endhint %}
+
 ## Enabling Group Buy for a product
 
 On the admin dashboard, go to '**Products**' on the blue horizontal menu.  Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
