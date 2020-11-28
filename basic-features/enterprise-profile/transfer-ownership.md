@@ -1,36 +1,44 @@
-# Change Profile Managers / Owners
+# Cambiar Perfil Administradores / Propietarios
 
-It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself. 
+Es común que el perfil de un productor sea creado por un hub/nodo, y luego el hub/nodo agregará al productor como administrador de ese perfil, o incluso transferirá la "propiedad" \(administrador principal\) del perfil al productor, cuando el productor acepta gestionar él mismo su perfil y catálogo de productos.
 
-To add a new manager and eventually transfer ownership, here is the procedure to follow: 
+Para agregar un nuevo administrador y eventualmente transferir la propiedad, este es el procedimiento a seguir:
 
-* On the admin dashboard, go to the Managers menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Managers\):
+* En el panel de administración, vaya al menú Administradores de la configuración de su organización \(Organizaciones&gt; Configuración&gt; Administradores\):
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Managers", search for the email of the producer you would like to add as a manager.
+* En "Administradores/Gestores", busque el correo electrónico del productor que le gustaría agregar como gerente.
 
-**Case 1: The Producer in question already has a user account with OFN:**    
-Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.
+\*\*\*\*
+
+**Caso 1: El Productor en cuestión ya tiene una cuenta de usuario con OFN**:
+
+Su correo electrónico ya estará registrado con nosotros y aparecerá cuando empiece a escribir. Seleccione y haga clic en 'Actualizar' \(botón rojo, abajo a la derecha\) para guardar.
 
 {% hint style="warning" %}
-Warning: you must search for the exact **full** email. We recommend searching our list of users by copying and pasting the **entire** email address.
+Advertencia: debe buscar el correo electrónico completo exacto. Recomendamos buscar en nuestra lista de usuarios copiando y pegando la dirección de correo electrónico **completa**.
 {% endhint %}
 
-**Case 2: The Producer in question does not yet have a user account with OFN:**  
-In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.   
-The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
+**Caso 2: El Productor en cuestión aún no tiene una cuenta de usuario con OFN**:
 
-Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification.  At this stage, as a hub manager you may wish to remove yourself from the list of managers. 
+En este caso, no puede encontrar su correo electrónico cuando escribe en el cuadro 'Agregar un usuario existente'. Luego debe hacer clic en "Agregar un usuario no registrado" justo debajo, al lado del campo 'Invitar al administrador'.
+
+El productor recibirá un correo electrónico nuestro para confirmar su registro. Al seguir las instrucciones detalladas en el correo electrónico, podrán completar la configuración de su cuenta OFN, incluida la adición de una contraseña.
+
+Una vez que el productor sea administrador del perfil empresarial que creó en su nombre, puede elegir nombrarlo administrador principal y / o contacto para recibir la notificación del pedido. En esta etapa, como administrador del centro, es posible que desee eliminarse de la lista de administradores.
+
+Una vez que el productor sea administrador del perfil de la organización que creó en su nombre, puede elegir nombrarlo administrador principal y / o contacto para recibir la notificación del pedido. En esta etapa, como administrador del hub/nodo, es posible que desee eliminarse de la lista de administradores. 
 
 {% hint style="warning" %}
-Do not forget to click 'Update' to save your changes!
+¡No olvide hacer clic en 'Actualizar' para guardar sus cambios!
 {% endhint %}
 
 {% hint style="info" %}
-By default, a user can not be a manager / owner of **more than 5 enterprises**.   
-If you receive a message stating that _the new user has reached their limit_, contact us and we will increase their business limit. 
+De forma predeterminada, un usuario no puede ser administrador / propietario de **más de 5 empresas**.
 
-This measure is intended to avoid the massive creation of profiles by robots, something that could blow our server and make the platform unavailable. It is a classic prevention measure.
+Si recibe un mensaje indicando que el _nuevo usuario ha alcanzado su límite_, contáctenos y aumentaremos su límite comercial.
+
+Con esta medida se pretende evitar la creación masiva de perfiles por parte de robots, algo que podría hacer volar nuestro servidor y hacer que la plataforma no esté disponible. Es una medida de prevención clásica.
 {% endhint %}
 
