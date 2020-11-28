@@ -15,7 +15,7 @@
     * [Configuración Organización](basic-features/enterprise-profile/enterprise-settings.md)
     * [Cree o conéctese con sus productores proveedores](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
     * [Hacer que un perfil de productor se pueda buscar por categoría de producto](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
-    * [Enterprise Permissions](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
+    * [Permisos de la Organización](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
     * [Change Profile Managers / Owners](basic-features/enterprise-profile/transfer-ownership.md)
   * [Products](basic-features/products-1/README.md)
     * [Add products](basic-features/products-1/products.md)
