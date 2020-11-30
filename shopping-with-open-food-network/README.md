@@ -2,7 +2,11 @@
 
 Welcome to the Open Food Network!  
 
-Scroll down to find the section you would like to read more about and follow the links:
+This short video takes you on a tour of an online farmer's market shopping experience.  The process of shopping from any store on the Open Food Network is very similar.
+
+After the video, follow the links to read in more detail about any of the subjects covered.
+
+{% embed url="https://youtu.be/sG5y6KBlBxQ" %}
 
 <table>
   <thead>
