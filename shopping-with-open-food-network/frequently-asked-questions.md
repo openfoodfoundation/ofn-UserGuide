@@ -48,6 +48,33 @@ If you have a query about a particular product you would like to buy the best th
 It is always worth asking!  There may well be other customers in your area who are also looking or would like to purchase the same product from the shop. If those who manage the local food enterprise are aware they can investigate finding a local, sustainable, high quality supplier for that item.
 {% endhint %}
 
+### I've forgotten my OFN account password.
+
+If you have forgotten your OFN account password choose 'Forgot password?' from the pop out window after you click on 'Login' \(top right hand side of the screen\).
+
+![](../.gitbook/assets/resetpassword.gif)
+
+This will send an email to the address which is linked to your OFN account. If you do not receive an email with a link to reset your password then please try these steps:
+
+* look in your spam or junk folder.
+* add 'openfoodnetwork.org' to your safe or trusted list for your email client.
+
+Much of the content on internet is spam.  Email clients employ filters to prevent these unwanted emails from reaching you. On occasion they also block emails you would like to receive, such as those from the Open Food Network.  If the steps above do not work then please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md). They will be able to help you.
+
+### How do I change the password for my OFN account?
+
+Once you have logged into your OFN account you can update or reset your password at any time by visiting '[Account Settings](your-ofn-account.md#account-settings)'.
+
+### I didn't receive an account/order confirmation email
+
+Much of the content on internet is spam.  Email clients employ filters to prevent these unwanted emails from reaching you. On occasion they also block emails you would like to receive, such as those from the Open Food Network.  
+
+If you have just signed up for an [OFN account](your-ofn-account.md#registering-for-an-account) \(and are awaiting your account confirmation email\) or have just [placed an order](shopping-and-placing-an-order.md#checkout) \(and are awaiting your order confirmation email\) then check your junk or spam folder to see if the email has been misdirected there.
+
+If you are unable to locate the email then please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md). They will be able to help you.
+
+One way in which to help prevent further emails from being blocked in the future is to add 'openfoodnetwork.org' to your 'safe' or 'trusted' list in your email client.
+
 ### **What does ‘Bulk’ mean?**
 
 Some products may have the label ‘Bulk’ in the top right of the photo. This means that the shop you are shopping with can only supply these products if a minimum threshold across all orders is met.  

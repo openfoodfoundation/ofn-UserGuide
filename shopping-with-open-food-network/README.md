@@ -69,9 +69,14 @@ After the video, follow the links to read in more detail about any of the subjec
         <p>-situations where you might need an account</p>
         <p>-how to <a href="your-ofn-account.md#credit-cards">manage your saved credit/card details</a>
         </p>
+        <p>-how to <a href="your-ofn-account.md#account-settings">change your password</a>
+        </p>
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/cow-3089278_1920.jpg" alt/>
+        <p>
+          <img src="../.gitbook/assets/cow-3089278_1920.jpg" alt/>
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
