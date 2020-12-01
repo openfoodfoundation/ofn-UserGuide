@@ -29,9 +29,9 @@ Puoi inserire il link al tuo negozio personale nella descrizione della tua azien
 {% endtab %}
 
 {% tab title="Negozio Produttore" %}
-#### Vorresti vendere su OFN SOLTANTO i tuoi prodottiYou would like to sell only your own products on OFN
+#### Vorresti vendere su OFN SOLTANTO i tuoi prodotti
 
-This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
+Questa opzione ti permette di mostrare nella tua vetrina solo i prodotti del tuo proprio listino. Il Negozio Produttore può anche This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
