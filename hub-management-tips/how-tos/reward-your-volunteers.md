@@ -31,9 +31,23 @@ Active: yes
 Provider: choose the most appropriate method for your business.  
 Fee Calculator: Flat Percent
 
-* After selecting Create, add ‘-5’ to the ‘Amount’ field of the ‘Fee Calculator’ Section.  \(Negative sign results in a discount\)
+* After selecting Create, add ‘-5’ \* to the ‘Amount’ field of the ‘Fee Calculator’ Section.  \(Negative sign results in a discount\)  \*-5 will result in a 5% discount if your enterprise does not use Enterprise Fees.
 
 ![](../../.gitbook/assets/pmcalc.jpg)
+
+{% hint style="danger" %}
+All **percentage fees** are calculated on a percentage of **product costs** only. 
+{% endhint %}
+
+{% hint style="warning" %}
+If your business adds a flat percent Enterprise Fee to all products then the amount you need to enter into the 'Flat Percent' field for this discount payment method is:
+
+ $$= (100 + Enterprise Fee)*Desired Discount/100$$ 
+
+eg. for a business with an enterprise fee of 20% who would like to offer a 5% discount to volunteers, the amount to enter in the flat percent of this payment method is:
+
+$$= -(100 + 20) *5/100 = -6$$ 
+{% endhint %}
 
 * Visit your **Enterprise -&gt; Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods)’ from the left hand menu.  Set up the following Tag rules:
 
