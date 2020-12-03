@@ -6,7 +6,7 @@ description: >-
 
 # ¿Dónde calza mi negocio en Open Food Network?
 
-Dependiendo del tipo de empresa de alimentos que esté administrando, puede usar la plataforma Open Food Network de formas diferente you will use the Open Food Network platform differently.
+Dependiendo del tipo de empresa de alimentos que esté administrando, puede usar la plataforma Open Food Network de formas diferentes.
 
 Clasificamos las empresas de alimentos de tres formas: [Perfiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Tiendas](your-quick-start-on-ofn-given-who-you-are.md#shop) o [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
