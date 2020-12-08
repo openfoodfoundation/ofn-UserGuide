@@ -1,98 +1,100 @@
-# Agregar productos
+# Add products
 
-Puede agregar productos a su catálogo uno por uno \(detallado a continuación\) o por [importación masiva](product-and-inventory-import.md), si tiene todos los detalles relevantes en un archivo .csv.
+You can either add products to your catalog one by one \(detailed below\) or by [bulk import](product-and-inventory-import.md), if you have all the relevant details in a .csv file.
 
-## Agregando productos
+## Adding products
 
-Una vez que haya iniciado sesión en el Panel de Administración, seleccione **Productos** en el menú azul horizontal y luego haga clic en **+Nuevo producto**.
+Once logged into the Admin Dashboard, select on **Products** on the horizontal blue menu, and then click **+ New Product**.
 
 ![](../../.gitbook/assets/add-new-product.png)
 
-Esto lo llevará a la página de Nuevo Producto.
+This will take you to the New Product page.
 
 ![](../../.gitbook/assets/new-product2.png)
 
-**Proveedor** 
+**Supplier** 
 
-Seleccione la organización que produce y suministra el producto.
-
-Si es un productor, este será ud. Si es un hub/nodo, recuerde que solo podrá agregar productos a los perfiles de productor que haya creado, o si se le ha otorgado permiso para administrar los productos de un perfil de productor. Vea [aquí](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) más información.
-
-**Nombre del producto**: este es el título del producto cuando se muestra en la tienda.
-
-**Unidades**: Elija la unidad en la que se vende el producto? \(g, kg, L ... o artículo \(manojo, bolsa, paquete\)\)
-
-Si elige g luego ingresa 1000, el producto se mostrará como 1 kg para el comprador. Tenga en cuenta que algunas unidades de medida afectarán el funcionamiento de determinadas [comisiones de la organización](../shopfront/enterprise-fees.md).
-
-Por ejemplo, una[ comisión fija](../shopfront/enterprise-fees.md) por peso solo se puede aplicar a productos con unidades de kg. En este caso, puede ingresar números de unidades no enteros, como 0.2 kg, y el producto se mostrará como 200 g, pero se registrará en kg en los informes y cuando se calculen los precios.
-
-**Valor**: Ingrese el valor de las unidades en las que se vende este producto \(por ejemplo, si se vende como 100 g, ingrese '100' aquí y elija 'g' para 'unidades'; o si se vende como racimos de flores, ingrese '1' aquí y 'unidades = artículos'.
-
-**Mostrar como**: este campo muestra automáticamente cómo se mostrarán los campos de unidades y valores, una vez que haya completado los campos de unidades y valores. \(es decir, unidades = kg, valor = 2, mostrar como = 2 kg\)
+Select the enterprise who produces and supplies the product.
 
 {% hint style="info" %}
-Nota: Si ha seleccionado "**artículos**" como su unidad, el campo **mostrar como** cambiará a "**nombre del artículo**". Complete esto con el tipo de artículo que es. \(es decir, frasco, botella o manojo\)
+If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) for more info.
 {% endhint %}
 
-**Categoría de producto**: seleccione la categoría más adecuada para este producto. La asignación de una categoría de producto facilita a los clientes la localización de los artículos que desean comprar; Los compradores pueden filtrar su lista de productos por categoría en su tienda. 
+**Product name:** This is the title of the product when displayed on the shop front.
 
-**Precio**: Ingrese el precio por el valor indicado arriba. Tenga en cuenta que este es el precio base que cobra el productor y la cantidad que recibirá por cada compra. Los márgenes y las comisiones \(para administración de distribución, etc.\) se agregan en [Comisiones de la Organización](../shopfront/enterprise-fees.md), [Comisiones de Envío](../shopfront/shipping-methods.md) y [Métodos de Pago](../shopfront/payment-methods.md).
+**Units:** Choose the unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
+
+If you choose g and then enter 1000, the product will be displayed as 1kg for the buyer. Keep in mind that some units of measurement will impact on the operation of certain [enterprise fees](../shopfront/enterprise-fees.md). 
+
+For example, a [fixed fee by weight](../shopfront/enterprise-fees.md#fee-calculators) can only be applied to products with units of **kg**. In this case, you can enter non-integer unit numbers, such as 0.2 kg, and the product will be displayed as 200 g but will be recorded in kg on the reports and when prices are calculated.
+
+**Value:** Enter the value of units that this product is sold in \(for example if it is sold as 100 g then enter '100' here and choose 'g' for 'units'; or if it is sold as bunches of flowers, enter '1' here and 'units= items'.
+
+**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
 
 {% hint style="info" %}
-Si su organización está registrada para impuestos o si selecciona que este producto tenga impuestos, el precio que ponga aquí **incluye los impuestos**. Si selecciona que este producto está libre de impuestos, el precio que ingrese será el precio libre de impuestos.
+Note: If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. \(i.e. jar, bottle, or bunch\)
 {% endhint %}
 
-**En Inventario**: indique la cantidad o cantidad de este producto que tiene disponible y listo para la venta.
+**Product category:** Select the most appropriate category for this product.  Assigning a product category makes it easier for customers to locate the items they wish to buy; shoppers can filter your product list by category on your shop front.
 
-Utilice este campo si desea realizar un seguimiento de sus niveles de existencias. A medida que los clientes realicen pedidos, el nivel de existencias se reducirá y, cuando la cantidad en existencia llegue a cero, el producto ya no estará visible en su tienda. Si no desea realizar un seguimiento del inventario de esta manera, haga clic en "a pedido".
+**Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer and the amount they will receive for each purchase. Mark-ups and fees \(for distribution admin etc\) are added in [Enterprise Fees](../shopfront/enterprise-fees.md), [Shipping Fees](../shopfront/shipping-methods.md#fee-calculators) and [Payment Methods](../shopfront/payment-methods.md#fee-calculators). 
 
-**Ilimitado**: Si selecciona esta casilla, indicará que este producto siempre está disponible. Esto evita que el software rastree los niveles de inventario de los productos y, en su lugar, siempre mostrará que el producto está en inventario.
+{% hint style="info" %}
+If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
+{% endhint %}
 
-**Imagen**: Suba una foto de este producto.
+**In Stock:** State how much/many of this product you have available and ready for sale.
+
+Use this field if you want to track your stock levels. As customers place orders, the stock level will reduce, and when the in stock amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
+
+**Unlimited:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+
+**Image:** Upload a photo of this product.
 
 {% hint style="success" %}
-Recomendamos utilizar fotos de buena calidad, en formato cuadrado \(1: 1\), y preferiblemente una foto real de sus productos en lugar de la imagen estándar de la web. Esto hace que el producto sea más atractivo para el consumidor. Siempre tome sus fotografías con buena luz.
+We recommend using good quality photos, in a square \(1:1\) format, and preferably a real photo of your products rather than the standard image of the web. This makes the product more attractive to the consumer. Always take your photographs in good light.
 
-Si utiliza una imagen de la web, compruebe que está libre de derechos. 
+If you use an image of the web, check that it is free of rights. 
 {% endhint %}
 
-**Categoría de impuestos**: seleccione la categoría de impuestos correspondiente de la lista desplegable. El impuesto \(IVA en Colombia\) depende de la naturaleza del producto y del país en el que lo vende.
+**Tax category:** Select the applicable tax category from the drop-down list. Tax \(VAT in the UK\) depends on the nature of the product and the country in which you are retailing in.
 
 {% hint style="danger" %}
-Los impuestos solo se cobrarán cuando las empresas hayan seleccionado 'cargos IVA = sí' en su configuración organizacional -&gt; Detalles de la Organización.
+Tax will only be collected when enterprises have selected 'charges VAT = yes' under their enterprise settings -&gt; Business Details.
 {% endhint %}
 
-**Descripción del producto**: Cuéntele a sus clientes un poco sobre este producto. Es posible que desee incluir una historia sobre la variedad de tomate específica, incluir hipervínculos a cualquier certificación que pueda tener, etc.
+**Product description:** Tell your customers a little bit about this product. You might like to include a story about the specific tomato variety, include hyperlinks to any certification it may have etc.
 
 {% hint style="info" %}
-No olvide hacer clic en el botón "crear" o "crear y agregar nuevo" en la parte inferior de la página una vez que se hayan ingresado todos los campos obligatorios \(los indicados con un asterisco rojo\). 
+Don't forget to click on the "create" or "create and add new" button at the bottom of the page once all mandatory fields have been entered \(those indicated by a red asterisk\). 
 {% endhint %}
 
-Una breve demostración de los pasos descritos anteriormente:
+A short demonstration of the steps outlined above:
 
 ![](../../.gitbook/assets/productsadd.gif)
 
-Cuando haya terminado de crear un producto, se le redirigirá a la página "productos" donde encontrará todos sus productos:
+When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
 
 ![](../../.gitbook/assets/productspage.jpg)
 
-## Listado Similar / variaciones de un producto 
+## Listing Similar / variations of a Product 
 
-Si está enumerando un producto que viene en varias opciones diferentes \(por ejemplo, diferentes tamaños o sabores, cada uno de los cuales puede tener o no un precio diferente\), es mejor crear una 'variante' para ese producto, en lugar de crear múltiples productos separados. La creación de variantes de productos se analiza en detalle en la [página siguiente](product-variants.md).
+If you are listing a product which comes in a number of different options \(say different sizes or flavours, each of which may or may not have a different price\), it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.  Creating product variants is discussed fully on the [next page](product-variants.md).
 
 {% hint style="success" %}
-Las variantes son útiles si, por ejemplo, vende limones individualmente, así como en 'paquetes' de 5. En lugar de tener dos listados de productos, las dos opciones pueden estar disponibles para el mismo producto.
+Variants are useful if, for example, you sell lemons singularly as well as in 'packs' of 5. Rather than have two product listings the two options can be available for the same product.
 {% endhint %}
 
-Si desea crear un producto SIMILAR, puede duplicar productos seleccionando el icono de doble página a la derecha de un artículo \(cuadro rojo\). Al seleccionar posteriormente el icono de lápiz y papel \(cuadro verde\), se puede editar el producto copiado y modificar los detalles del segundo elemento.
+If you would like to create a SIMILAR product then you can duplicate products by selecting the double page icon to the right of an item \(red box\). By subsequently selecting the pencil and paper icon \(green box\) the copied product can be edited and the details amended for the second item.
 
 ![](../../.gitbook/assets/productspagecopy.jpg)
 
-## Refine los atributos del producto
+## Refine product attributes 
 
-Con OFN puede agregar **propiedades o etiquetas** a sus productos. Esto permite a los clientes encontrar sus artículos cuando buscan criterios específicos \(por ejemplo, orgánicos certificados\) y destaca las cualidades específicas que pueden tener sus productos. Descubra más [aquí](product-properties.md).
+Using OFN you can add **properties or labels** to your products.  This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
 
-Para obtener sugerencias sobre cómo administrar las ventas de **productos "irregulares"**, como carne o verduras grandes, que se venden en unidades pero cuyo precio se calcula por peso, lea [aquí](pricing-irregular-items-kg.md).
+For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
 
-Nuestra herramienta Grupo de Compras le permite gestionar y organizar las ventas de productos en lotes. Descubra más [aquí](group-buy-for-bulk-ordering.md).
+Our **Group Buy** tool enables you to manage and organise sales of products in bulk lots. Find out more [here](group-buy-for-bulk-ordering.md).
 
