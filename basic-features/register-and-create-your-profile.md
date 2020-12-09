@@ -14,10 +14,9 @@
 Si no recibe un correo electrónico de confirmación de nuestra parte de inmediato, es posible que haya ido a su casilla de correo no deseado.
 {% endhint %}
 
-### Cree su primera cuenta "organizacional"
+### Cree su primera cuenta de "organización"
 
 * Una vez que haya iniciado sesión, haga clic en el banner gris inferior "¿Está interesado en vender a través de Open Food Network? **Regístrese aquí**".
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
 
 ![](../.gitbook/assets/venderregistro.png)
 

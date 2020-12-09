@@ -1,76 +1,77 @@
-# Pricing Meat & other 'complete' products of unknown weight
+# Precios de la Carne y otros productos 'completos' de peso desconocido
 
-Here we refer to products as _**'irregular'**_  if they are sold according to weight/volume but the exact quantity is not known until time of harvest/distribution.  
+Aquí nos referimos a los productos como "**irregulares**" si se venden de acuerdo con su peso / volumen pero la cantidad exacta no se conoce hasta el momento de la cosecha / distribución.
 
-For example joints of meat, slices of cheese, large vegetables.
+Por ejemplo, porciones de carne, lonchas de queso, verduras grandes.
 
-There are a number of different tools available on the OFN platform to help manage and organise these sales. 
+Hay varias herramientas diferentes disponibles en la plataforma OFN para ayudar a administrar y organizar estas ventas. 
 
-## Option One: Set an average weight / price and reimburse
+## Opción uno: establecer un peso / precio promedio y reembolsar
 
-You can charge the average price of the product, and then reimburse or charge the customer extra, if the actual weight deviates from the mean. 
+Puede cobrar el precio promedio del producto y luego reembolsar o cobrar al cliente un extra, si el peso real se desvía de la media.
 
-When you know the true weight of the products \(ie. when you are preparing orders for collection by customers\), log into "Bulk Order Management" \(Orders -&gt; Bulk Order Management\) and add the Weight / Volume column to the table.
+Cuando sepa el peso real de los productos \(es decir, cuando esté preparando pedidos para que los clientes los recojan\), inicie sesión en "Gestión de pedidos al por mayor" \(Pedidos -&gt; Gestión de pedidos al por mayor\) y agregue la columna Peso / Volumen a la tabla.
 
 ![](../../.gitbook/assets/bom1.jpg)
 
-You can then change the weight shown for each buyer for a given order and a given product. The price will be recalculated automatically according to the quantity entered.
+Luego, puede cambiar el peso que se muestra para cada comprador para un pedido determinado y un producto determinado. El precio se volverá a calcular automáticamente según la cantidad ingresada.
 
 {% hint style="info" %}
-Don't forget to resend an order confirmation email to the customer to notify them of the price difference and any monies they may subsequently owe.
+No olvide volver a enviar un correo electrónico de confirmación del pedido al cliente para notificarle la diferencia de precio y cualquier cantidad que pueda adeudar posteriormente.
 {% endhint %}
 
-## Option Two: Display price ranges 
+## Opción Dos: mostrar rangos de precios 
 
-Same logic as Option One, but simply instead of displaying an average price initially, indicate a price range. This solution has the advantage of clearly indicating to the buyer that the final price is likely to be modified. 
+La misma lógica que la Opción Uno, pero simplemente en lugar de mostrar un precio promedio inicialmente, indique un rango de precios. Esta solución tiene la ventaja de indicar claramente al comprador que es probable que se modifique el precio final.
 
-[Variants](product-variants.md) can also be utilised to create different ranges. 
+Las [variantes](product-variants.md) también se pueden utilizar para crear diferentes rangos.
 
-> **Example 1** \(single product and one variant\):   
-> Product = Chicken \(between 8 and 12 kg with price according to weight, £10 / kg\) 
+> **Ejemplo 1** \(producto único y una variante\):  
+> Producto = Pollo \(entre 8 y 12 kg con precio según peso, £ 10 / kg\)
 >
-> **Example 2** \(two variants for one product\):   
-> Product = Chicken \(£10 / kg\)  
-> Variant 1 = Small chicken \(between 8 and 12 kg, price according to actual weight\)  
-> Variant 2 = Large chicken \(between 13 and 20 kg, price according to actual weight\) ...
+> **Ejemplo 2** \(dos variantes para un producto\):  
+> Producto = Pollo \(£ 10 / kg\)  
+> Variante 1 = Pollo pequeño \(entre 8 y 12 kg, precio según peso real\)  
+> Variante 2 = Pollo grande \(entre 13 y 20 kg, precio según peso real\) ...
 
-## Option Three: Create variants with fixed prices 
+## Opción Tres: crear variantes con precios fijos 
 
-A slightly simpler version of Option Two is to create variants for your products based on weight ranges but charge a **fixed price** for all items that fall within the range.   
-For example if butternut squash costs £1/kg then you could list the variants with the following fixed prices:
+Una versión un poco más simple de la Opción Dos es crear variantes para sus productos en función de los rangos de peso, pero cobrar un **precio fijo** por todos los artículos que se encuentran dentro del rango.
 
-* Small \(0.7 - 0.9 kg\)           £0.80
-* Medium \(0.9 - 1.1 kg\)      £1.00
-* Large \(1.1 - 1.3 kg\)           £1.20
-* Extra Large \(1.3 - 1.5 kg\) £1.40
+Por ejemplo, si la calabaza cuesta $ 1000 / kg, entonces podría enumerar las variantes con los siguientes precios fijos:
 
-## Option Four: Create variants with known weights
+* Pequeño \(0,7 - 0,9 kg\) $8000
+* Mediano \(0,9 - 1,1 kg\) $1000
+* Grande \(1,1 - 1,3 kg\) $1200
+* Extra grande \(1,3 - 1,5 kg\) $1500
 
-If you know the weight of all your whole fish, for example, in advance you can use the variant functionality to directly display the precise price for each item. Example:
+## Opción Cuatro: crear variantes con pesos conocidos
+
+Si conoce el peso de todo su pescado, por ejemplo, de antemano puede utilizar la función de variante para mostrar directamente el precio exacto de cada artículo. Ejemplo:
 
 ![](../../.gitbook/assets/bom2.jpg)
 
-## Editing Orders 
+## Editar Pedidos 
 
-It may be difficult for meat producers to know in advance about product availability or prepare their packaging accordingly. \(Until slaughter the weight of a chicken or a leg of lamb maybe unknown.\)
+Puede ser difícil para los productores de carne conocer de antemano la disponibilidad del producto o preparar su empaque en consecuencia. \(Hasta el momento del sacrificio, tal vez se desconozca el peso de un pollo o una pierna de cordero\).
 
-This is not a problem since orders can be modified \(by adding, modifying or deleting products\) if necessary. For more information, see [Orders](../orders/). 
+Esto no es un problema ya que los pedidos se pueden modificar \(agregando, modificando o eliminando productos\) si es necesario. Para obtener más información, consulte [Pedidos](../orders/). 
 
-## Reimbursing or Charging customers the difference: How does it work? 
+## Reembolsar o cobrar a los clientes la diferencia: ¿Cómo funciona? 
 
-If a customer _**pays for their goods on their collection**_ or delivery, then the hub manager will have been able to modify the order before payment according to the actual weight and the products actually delivered. Hence in this instance there will be no need to reimburse or re-bill customer.
+Si un cliente **paga por sus productos en su recogida o entrega**, entonces el administrador del hub/nodo habrá podido modificar el pedido antes del pago de acuerdo con el peso real y los productos realmente entregados. Por lo tanto, en este caso, no será necesario reembolsar o volver a facturar al cliente.
 
-If an order is _**paid online before delivery**_, then you must refund or invoice for the the difference between monies already received and that owing for the precise products to be delivered. Click here to see [how](../orders/refund-payments.md). 
+Si un pedido se **paga en línea antes de la entrega**, debe reembolsar o facturar la diferencia entre el dinero ya recibido y el adeuda para que se entreguen los productos precisos. Haga clic [aquí para ver cómo](../orders/refund-payments.md).
 
 {% hint style="danger" %}
-An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated. 
+Una alternativa es utilizar un sistema de pago online para almacenar temporalmente el importe "pendiente" hasta que el pedido haya sido validado.
 
-_This feature is not yet implemented in Open Food Network. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._ 
+_Esta función aún no está implementada en Open Food Network. También estamos trabajando en la implementación automatizada de "créditos" que permiten a un hub/nodo reembolsar en forma de nota de crédito que el cliente podría utilizar como pago parcial de su próximo pedido._ 
 {% endhint %}
 
-## Inform the buyer about your pricing policy 
+## Informar al comprador sobre su política de precios
 
-You can notify your customers about your pricing policies for variable weight items \(such as meat\) in the [message box](../enterprise-profile/enterprise-settings.md#shop-preferences) displayed at the top of your shop front. This is found in the Enterprise Settings -&gt; Shop Preferences. 
+Puede notificar a sus clientes sobre sus políticas de precios para artículos de peso variable \(como carne\) en el [cuadro de mensaje](../enterprise-profile/enterprise-settings.md) que se muestra en la parte superior del frente de su tienda. Esto se encuentra en Configuración empresarial -&gt; Preferencias de la tienda.
 
-It might be useful to also add a reminder of these pricing policies in the description box of [Payment Methods](../shopfront/payment-methods.md).  For example, you may wish to add : "Remember that the final price may vary by 10% depending on weight if you have purchased non-divisible items such as meat or large vegetables.".
+También puede ser útil agregar un recordatorio de estas políticas de precios en el cuadro de descripción de [Métodos de Pago](../shopfront/payment-methods.md). Por ejemplo, es posible que desee agregar: "Recuerde que el precio final puede variar en un 10% dependiendo del peso si ha comprado artículos no divisibles como carne o verduras grandes".
 

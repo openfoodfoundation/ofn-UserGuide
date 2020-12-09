@@ -4,7 +4,7 @@ description: >-
   relacionados con su perfil y / o tienda
 ---
 
-# Configuración Organización
+# Configuración de la Organización
 
 ## Acceda a su Configuración de la Organización
 

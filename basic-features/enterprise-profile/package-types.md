@@ -65,12 +65,12 @@ Puede colocar el enlace a su tienda en línea en la descripción de su organizac
 {% endhint %}
 {% endtab %}
 
-{% tab title="Non-Producer Hub \(Multi-producer shop\)" %}
-#### You would like to create an online shop
+{% tab title="Hub/Nodo No-Productor Hub \(Tienda multi-productor\)" %}
+#### Le gustaría crear una tienda en línea
 
-This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
+Esta opción le permite administrar una tienda que vende productos fabricados por otros. Puede vender productos de cualquier Productor que le haya dado [permiso](enterprise-to-enterprise-permissions-e2es.md) para hacerlo.
 
- For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+  Para obtener más información sobre la guía de configuración rápida para este tipo de perfil, haga clic [aquí](../../#greater-than-guias-de-configuracion-rapida-hechas-para-su-empresa).
 {% endtab %}
 {% endtabs %}
 
