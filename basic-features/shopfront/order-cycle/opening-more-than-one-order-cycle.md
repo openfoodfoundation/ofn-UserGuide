@@ -27,5 +27,5 @@ This is setup in your [enterprise settings](../../enterprise-profile/enterprise-
 
 Customers can navigate between order cycles:
 
-![](../../../.gitbook/assets/multipleoc3.jpg)
+![](../../../.gitbook/assets/multipleoc3%20%281%29.jpg)
 

@@ -111,7 +111,7 @@ There's lots of flexibility in this arrangement and so feel free to experiment t
 
 Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
 
-![](../../.gitbook/assets/ordercycle1.jpg)
+![](../../.gitbook/assets/ordercycle1%20%282%29.jpg)
 
 {% hint style="warning" %}
 You must have at least one open or due to open order cycle to be able to create a new schedule.

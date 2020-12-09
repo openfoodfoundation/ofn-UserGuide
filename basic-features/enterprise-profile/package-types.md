@@ -58,9 +58,8 @@ Con questa opzione la tua azienda sarà visibile nella mappa di OFN e per le ric
 Per maggiori informazioni sulle impostazioni rapide per questo tipo di profilo, clicca [qui](../../quick-start-guides/).
 
 {% hint style="info" %}
-If you'd like to retail products made by a collection of producers on an existing online sales platform and just use OFN to increase your visibility then the 'Non-Producer Profile' package is for you!
-
-You can put the link to your online shop in your enterprise description.
+Se intendi utilizzare per la vendita del tuo listino di prodotti una piattaforma esterna e vuoi utilizzare OFN solo per avere maggiore visibilità, allora il pacchetto 'Profilo Non-Produttore' è quello che fa per te!   
+Puoi inserire il link al tuo negozio online nella descrizione della tua azienda. 
 {% endhint %}
 {% endtab %}
 
@@ -77,7 +76,7 @@ Questa opzione ti permette di gestire un negozio in cui puoi distribuire prodott
 
 Puoi cambiare il tuo tipo di profilo \(pacchetto\) in qualunque momento. Effettua l'accesso nel tuo account di amministrazione: 
 
-![](../../.gitbook/assets/access1%20%281%29.jpg)
+![](../../.gitbook/assets/access1%20%282%29%20%281%29.jpg)
 
 e seleziona [Azienda](enterprise-settings.md) dal menù in alto. Seleziona quindi le opzioni corrette dai menù a tendina. \(Per farlo devi essere il '[Proprietario](enterprise-settings.md#users)' dell'azienda.\)
 
