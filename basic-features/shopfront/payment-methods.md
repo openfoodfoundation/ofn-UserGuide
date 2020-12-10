@@ -196,6 +196,20 @@ Payment Method Fees DO NOT include tax \(VAT\)
 
 **Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
 
+{% hint style="danger" %}
+All **percentage fees** are calculated on a percentage of **product costs** only. 
+{% endhint %}
+
+{% hint style="warning" %}
+If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
+
+ $$= (100 + Enterprise Fee)*Desired Percent/100$$ 
+
+eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for payment, the amount to enter in the flat percent of this payment method is:
+
+$$= (100 + 20) *5/100 = 6$$ 
+{% endhint %}
+
 **Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 
 **Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached. 
@@ -215,6 +229,16 @@ Payment Method Fees DO NOT include tax \(VAT\)
 * ‘Minimum Amount’: Monetary value of the threshold between Normal Payment Method fee and Discounted Payment Method fee. 
 * 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
 * ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+
+{% hint style="danger" %}
+The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
+{% endhint %}
+
+{% hint style="warning" %}
+For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment \(Discount Amount = 0\) and, say, a £0.50 fee \(= Normal Amount\) to be a basket of £30 then the Minimum amount is
+
+$$= £30 /(100+20) = £25$$ 
+{% endhint %}
 
 ![](../../.gitbook/assets/paymentpc.jpg)
 

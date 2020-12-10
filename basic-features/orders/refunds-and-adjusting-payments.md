@@ -192,7 +192,7 @@ A negative value in the ‘Amount’ field means that a refund is recorded.
 If you opt to add a new payment with the payment method provider ‘Paypal’ this will not be possible:
 {% endhint %}
 
-![](../../.gitbook/assets/paypalnewpayment%20%281%29.jpg)
+![](../../.gitbook/assets/paypalnewpayment%20%281%29%20%281%29.jpg)
 {% endtab %}
 {% endtabs %}
 

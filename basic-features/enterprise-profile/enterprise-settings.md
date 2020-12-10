@@ -207,7 +207,7 @@ Visible to Shop and Hub registered enterprises only.
 
 ![Notices tab for shopfront with one order cycle open](../../.gitbook/assets/notices-one-oc.jpg)
 
-![Notices tab for shopfront with concurrent order cycles](../../.gitbook/assets/noiticesmulitoc%20%282%29.jpg)
+![Notices tab for shopfront with concurrent order cycles](../../.gitbook/assets/noiticesmulitoc%20%282%29%20%281%29.jpg)
 
 The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
 

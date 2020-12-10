@@ -25,7 +25,7 @@ You can create an order cycle, and view previous order cycles by clicking on **M
 
 Or from the horizontal menu at the top of the page.
 
-![](../../../.gitbook/assets/ordercycle1%20%282%29.jpg)
+![](../../../.gitbook/assets/ordercycle1%20%282%29%20%282%29.jpg)
 
 {% hint style="warning" %}
 You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
@@ -90,7 +90,7 @@ The **tags** column is where you can tag your order cycles to customise whether 
 
 The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
 
-![](../../../.gitbook/assets/multipleoc3%20%281%29.jpg)
+![](../../../.gitbook/assets/multipleoc3.jpg)
 
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 

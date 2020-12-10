@@ -78,7 +78,7 @@ This option allows you to manage a shop which retails products made by others. Y
 
 You can change your profile type \(package\) at any time in the future.  ****First log in to your OFN admin account:
 
-![](../../.gitbook/assets/access1%20%281%29.jpg)
+![](../../.gitbook/assets/access1%20%282%29%20%281%29.jpg)
 
 and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option\(s\) from the drop down menus.  \(You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.\)
 
