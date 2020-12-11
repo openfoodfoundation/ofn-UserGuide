@@ -249,10 +249,10 @@ _**Customers can change or cancel orders while an order cycle is open**_ is ONLY
 Opting for 'customers can change or cancel orders while an order cycle is open' with an **automated** [payment provider](../shopfront/payment-methods.md) \(Stripe/Paypal\) is **strongly advised against**.
 {% endhint %}
 
-Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to **remove products** from their basket **or cancel their order** altogether while the shop is open.  They will **not be able to add products** to their original order- doing this will generate a 2nd order.  
+Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to change the quantities of **products already in their basket** **or cancel their order** altogether while the shop is open.  They will **not be able to add new products** to their original order- doing this will generate a 2nd order.  
 
 {% hint style="danger" %}
-[Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer.
+[Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer, nor will additional funds be automatically collected.
 {% endhint %}
 
 **Subscriptions:** If you would like to offer to set up regular repeating orders for your customers then you can enable the [subscriptions](../subscriptions/) functionality here.
