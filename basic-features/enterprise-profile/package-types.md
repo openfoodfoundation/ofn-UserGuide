@@ -78,7 +78,7 @@ Esta opción le permite administrar una tienda que vende productos fabricados po
 
 Puede cambiar su tipo de perfil \(paquete\) en cualquier momento en el futuro. Primero inicie sesión en su cuenta de administrador OFN: 
 
-![](../../.gitbook/assets/access1%20%281%29.jpg)
+![](../../.gitbook/assets/access1%20%282%29%20%281%29.jpg)
 
 y luego visite el [menú Configuración organización](enterprise-settings.md). En la tabla, seleccione las opciones correctas de los menús desplegables. \(Deberá ser el 'propietario' de la empresa para hacer esto\).
 

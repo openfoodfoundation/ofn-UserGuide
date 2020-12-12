@@ -20,7 +20,7 @@ When logged into your admin dashboard you can access order cycles from this butt
 
 Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then click on **+New Order Cycle**
 
-![](../../../.gitbook/assets/ordercycle1%20%281%29.jpg)
+![](../../../.gitbook/assets/ordercycle1%20%282%29%20%281%29.jpg)
 
 {% hint style="info" %}
 Note you cannot create an order cycle until you have set up ****at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).

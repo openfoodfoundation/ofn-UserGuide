@@ -1,18 +1,18 @@
-# Products
+# Productos
 
-If your enterprise is a "producer" type \(you checked the corresponding box in your profile settings\), you can now [add products](products.md) and [related variants](product-variants.md) to your producer catalog. These products can be [added in bulk by importing a csv file ](product-and-inventory-import.md)\(excel file saved in csv format\).
+Si su empresa es del tipo "productor" \(marcó la casilla correspondiente en la configuración de su perfil\), ahora puede [agregar productos](products.md#adding-products) y [variantes relacionadas](product-variants.md#how-do-i-create-a-product-variant) a su catálogo de productores. Estos productos se pueden [agregar de forma masiva importando un archivo csv](product-and-inventory-import.md#import-new-products) \(archivo de Excel guardado en formato csv\).
 
 ![](../../.gitbook/assets/products1.jpg)
 
-The price entered for each product in the producer catalog is the full amount the producer will receive from a sale- hence a 'wholesale' price. Hubs \(distributors\) can add their fees for admin, transport and packing etc on top using fee options in [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) or [Enterprise Fees](../shopfront/enterprise-fees.md).
+El precio ingresado para cada producto en el catálogo del productor es la cantidad total que el productor recibirá de una venta, por lo tanto, un precio "mayorista". Los hubs/nodos \(distribuidores\) pueden agregar sus comisiones de administración, transporte y embalaje, etc., utilizando las opciones de comisiones en [Métodos de Envío, Métodos de Pago o Tarifas Organizacionales](../shopfront/shipping-methods.md).
 
 {% hint style="info" %}
-If you are a Hub managing a producer's enterprise profile on their behalf we recommend you do **not** incorporate your mark up into product prices, rather use the fee methods above.  This makes the product catalog more flexible for future changes.
+Si usted es un Hub/Nodo que administra el perfil de la organización de un productor en su nombre, le recomendamos que no incorpore su margen de beneficio en los precios de los productos, sino que utilice los métodos de comisiones anteriores. Esto hace que el catálogo de productos sea más flexible para futuros cambios.
 {% endhint %}
 
-If a hub wishes to change the price of a producer's products without using the Enterprise, Shipping or Payment Method Fees strategy then it is best to use our [Inventory](inventory-tool.md) feature.  By adding products to their shop inventory, hubs create a second catalog, independent of the product catalogs of their suppliers. Prices and stock levels in the Hub Inventory can be altered by the Hub without impacting on producers' 'master copies'. 
+Si un hub/nodo desea cambiar el precio de los productos de un productor sin utilizar la estrategia de comisiones de la organización, envío o método de pago, lo mejor es utilizar nuestra función de [Inventario](inventory-tool.md#modify-sku-prices-and-stock-levels-for-products-in-your-shopfront). Al agregar productos al inventario de su tienda, los hubs/nodos crean un segundo catálogo, independiente de los catálogos de productos de sus proveedores. El Hub/Nodo puede modificar los precios y los niveles de existencias en el Inventario del Hub sin afectar las 'copias maestras' de los productores.
 
-For [irregularly priced products](pricing-irregular-items-kg.md), such as a **whole chicken** with a price that varies from chicken to chicken depending on weight, there is an option to set a price 'per chicken' which can then be adjusted at the time of delivery to the specific piece of meat/vegetable.
+Para [productos de precio irregular](pricing-irregular-items-kg.md), como un **pollo entero** con un precio que varía de un pollo a otro según el peso, existe la opción de establecer un precio 'por pollo' que luego se puede ajustar en el momento de la entrega a la pieza específica de pollo. carne / verdura.
 
-The "[Bulk Buy Option](group-buy-for-bulk-ordering.md)" page details how Buying Groups can use OFN to organise and record bulk purchases.  For example, if a group buys rice in 25 kg bags then this function can help distribute the rice between customers based on a weight range they request on purchase. 
+La página "[Opción de compra al por mayor](group-buy-for-bulk-ordering.md)" detalla cómo los grupos de compra pueden usar OFN para organizar y registrar compras al por mayor. Por ejemplo, si un grupo compra arroz en sacos de 25 kg, esta función puede ayudar a distribuir el arroz entre los clientes según un rango de peso que soliciten al momento de la compra.
 

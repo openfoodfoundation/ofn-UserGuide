@@ -58,7 +58,7 @@ Click on the tick icon to indicate that payment has been received \(this records
 
 Click on the road icon to indicate that the order has been shipped.
 
-![Update to Shipped icon](../../.gitbook/assets/shipped.png)
+![Update to Shipped icon](../../.gitbook/assets/shipped%20%282%29.png)
 
 {% hint style="info" %}
 The payment and shipping status of an order can also be updated when editing the order \(see below\).
@@ -73,7 +73,7 @@ Another source of potential confusion to be aware of is when customers pay for a
 
 To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel: 
 
-![](../../.gitbook/assets/edit-order.png)
+![](../../.gitbook/assets/edit%20%281%29.png)
 
 You can also access full information concerning an order by clicking on the order number \(fourth column of the table\).
 

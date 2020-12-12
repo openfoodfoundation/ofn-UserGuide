@@ -32,7 +32,7 @@ Whilst your enterprise will be visible in a search of the OFN platform, your cus
 
 You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
 
-![](../../.gitbook/assets/customer1.jpg)
+![](../../.gitbook/assets/customer1%20%281%29.jpg)
 
 ![](../../.gitbook/assets/add-new-customer.png)
 

@@ -4,7 +4,7 @@ A list of all customers who have placed an order with your enterprise can be vie
 
 You can also manually add a customer by the **+New Customer** button. 
 
-![](../../../.gitbook/assets/customer1%20%281%29.jpg)
+![](../../../.gitbook/assets/customer1%20%281%29%20%281%29.jpg)
 
 {% hint style="warning" %}
 Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.  

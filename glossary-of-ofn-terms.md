@@ -28,7 +28,7 @@
 
 ![Borrar](.gitbook/assets/trash.jpg)
 
-![Env&#xED;o/Entrega](.gitbook/assets/shipped%20%282%29.png)
+![Env&#xED;o/Entrega](.gitbook/assets/shipped%20%282%29%20%282%29.png)
 
 
 
