@@ -1,155 +1,103 @@
 ---
-description: >-
-  Enterprise settings are where you can manage details relating to your profile
-  and/or shopfront.
+description: Qui puoi gestire le impostazioni relative al tuo profilo e/o alla tua vetrina.
 ---
 
-# Enterprise Settings
+# Impostazioni Azienda
 
-## Access your Enterprise Settings
+## Accedi alle tue Impostazioni Azienda
 
-1. Once logged in, and accessing your admin dashboard, select "Enterprises" on the blue horizontal menu
-2. Select 'Settings' next to your enterprise
+1. Dopo aver effettuato l'accesso ed essere entrato nel pannello di controllo "Amministrazione", seleziona "Aziende" nel menù orizzontale azzurro. 
+2. Seleziona "impostazioni" a lato del nome della tua azienda. 
 
-![](../../.gitbook/assets/esettings.jpg)
+![](../../.gitbook/assets/impostazioni-azienda-1.png)
 
 {% hint style="danger" %}
-To save a change of profile type, do not forget to click on "save" at the bottom of the window on the right.
+Per salvare un cambiamento nel tipo di profilo, non dimenticare di cliccare su "salva" in basso a destra.
 {% endhint %}
 
-You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
+Cliccando su "Impostazioni" accederai ad un menù con multiple opzioni. Le opzioni disponibili variano a seconda del tipo di profilo impostato. 
+
+Questo è un esempio per un Hub \(il più completo e complesso\):
 
 ![](../../.gitbook/assets/esettingsmenu.jpg)
 
 {% hint style="danger" %}
-To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
+Per salvare le tue modifiche, ricordati di cliccare su "Aggiorna" in fondo alla pagina. E' buona prassi salvare prima di cambiare pagina..
 {% endhint %}
 
-This short video gives a quick insight into the steps and options detailed below:
+Questo breve video \(in inglese\) riassume brevemente i passaggi e le opzioni descritte più sotto:
 
 ![](../../.gitbook/assets/enterprisesettings.gif)
 
-## Primary Details
+## Dettagli Principali
 
-**Name:** This is the name of your enterprise. It will be the title of your profile \(and shop\).
+**Nome:** Questo è il nome della tua azienda. Sarà il titolo del tuo profilo \(e negozio\). 
 
-**Primary Producer:** Select the producer box if you are a producer.
+**Produttore Primario?:** Seleziona la casella "PRODUTTORE" se lo sei. 
 
 {% hint style="warning" %}
-Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
+Solo le aziende caratterizzate come "PRODUTTORE" possono aggiungere prodotti su OFN. Gli [Hub Non-Produttori](package-types.md#for-non-producers-hubs) potrebbero dover selezionare questa opzione qualora propongano in vendita cassette miste assemblate da loro.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
+**Visibile nella ricerca:** Se il tuo profilo è pronto per essere pubblicato, seleziona "visibile", e la tua azienda comparirà negli elenchi e nella mappa di OFN. Se stai ancora apportando modifiche, puoi selezionare "non visibile" fino a quando non sarai pronto. 
 
-**Permalink:** You can customise part of the web address which will host to your shop.
+**Permalink:** Puoi modificare parte dell'indirizzo web che ospiterà il tuo negozio. 
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
+**Link alla tua vetrina:** Questo è l'indirizzo web del tuo negozio su OFN \(se hai scelto un tipo di profilo che prevede una vetrina\). Puoi modificare parte dell'URL al punto precedente. 
 
-**OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
+**OFN ID:** Questo codice rende possibile identificare univocamente la tua azienda anche se deciderai di cambiare il suo nome, e semplifica il lavoro del team di supporto se necessario. 
 
-### Address
+### Indirizzo
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+Questa informazione è utilizzata per geolocalizzare la tua azienda sulla mappa di OFN. Il tuo indirizzo esatto non sarà visibile se sei registrato come Solo Profilo, sia Produttore che Non-Produttore. Sei sei registrato come Negozio o Hub, il tuo indirizzo apparirà nel riquadro dei contatti della tua vetrina.
 
-### Contact
+### Contatti
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Nome:** Chiediamo un nome di contatto. Questo nome non verrà visualizzato sul tuo profilo, ma sarà incluso nelle e-mail di conferma delle gentili richieste se gestisci un negozio.
 
-**Email, Phone & Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Email, Telefono e Sito Web:** Questi dati saranno visibili sul tuo profilo e sulla tua vetrina OFN, permettendo agli utenti di contattarti direttamente. 
 
 ### Social
 
-**Facebook, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
+**Facebook, Instagram, LinkedIn, Twitter:** I link a queste pagine saranno inseriti sul tuo profilo e sulla tua vetrina. ****
 
 ### About
 
-**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Breve descrizione:** Questo testo sarà visibile nella versione "compatta" del tuo profilo nella lista dei produttori. Dovrebbe consistere in 1-2 frasi che descrivono brevemente ciò che fai.
 
-**About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**Chi siamo:** Questa è una descrizione più lunga della tua azienda. Sarà mostrata quando il tuo profilo è visualizzato in versione "completa". Dovrebbe essere lunga da mezza a una pagina.
 
-### Business Details
+### Dettagli aziendali
 
 {% hint style="warning" %}
-These differ from country to country and they depend on local regulations and laws.
+Questi dati cambiano a seconda della nazione e dipendono dalla normativa locale.
 {% endhint %}
 
-{% tabs %}
-{% tab title="Australia" %}
 
-{% endtab %}
 
-{% tab title="Belgium" %}
+### Immagini
 
-{% endtab %}
+**Logo:** Questo sarà visibile quando il tuo profilo sarà visualizzato in versione "compatta", come una finestra pop up. Comparirà anche nel tuo profilo completo. Questa immagine deve essere quadrata \(es. 100x100\), o sarà ritagliata / deformata. ****
 
-{% tab title="Canada" %}
+**Immagine Promo:** Questa immagine comparirà orizzontalmente in cima alla tua pagina di profilo. Dovrebbe essere di dimensione 1200 x 260 pixel.
 
-{% endtab %}
-
-{% tab title="Catalunya" %}
-
-{% endtab %}
-
-{% tab title="France" %}
-**Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
-
-**N° intra-Community VAT:** This information will not be public. 
-
-**In VAT scheme?** If you are within the VAT scheme, select "yes".
-
-**Display the logo on the invoice:** You can choose to display or not the logo of your enterprise on the invoices issued from the platform.
-
-**Add a specific mention at the bottom of the invoices:** You can add a specific mention that you would have the obligation or the wish to add on your invoices.
-{% endtab %}
-
-{% tab title="UK" %}
-**Company Number:** For businesses registered at Companies House this is your unique identifying number.
-
-**Charity Number:** If your enterprise is a registered charity
-
-**Charges VAT:** VAT registered businesses should select this option so that VAT is managed appropriately on invoices and reports.
-
-For advise on selling as a VAT registered enterprise please see this document:
-
-{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" caption="Selling as VAT registered enterprise" %}
-
-**Display Logo on Invoices:** if desired.
-
-**Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
-{% endtab %}
-
-{% tab title="USA" %}
-**ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
-
-**ACN:** this will not be displayed publicly.
-
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
-{% endtab %}
-{% endtabs %}
-
-### Images
-
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 
-
-**Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
-
-An example profile is shown below in its complete version \(from the map or shopfront pages\).
+Qui sotto puoi vedere un esempio di profilo in visualizzazione completa \(dalla mappa o dalla lista dei negozi\).
 
 ![](../../.gitbook/assets/demohubimages1.jpg)
 
-And now in its condensed version \(from the producer listing page\).
+Mentre qui nella sua versione "compatta" \(dalla pagina con l'elenco dei produttori\).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties 
+### Proprietà 
 
 {% hint style="warning" %}
-Visible to **Producers** only
+Visibili solo per i **Produttori**
 {% endhint %}
 
-You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products. 
+Puoi aggiungere proprietà \(ad esempio BIO o VEGAN\) alla tua azienda. Queste proprietà saranno automaticamente applicate a **tutti** i tuoi prodotti. 
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md). 
+Puoi anche specificare proprietà per i singoli prodotti. [Qui](../products-1/product-properties.md) per maggiori informazioni. 
 
 ### Shipping Methods, Payment Methods & Enterprise Fees
 
