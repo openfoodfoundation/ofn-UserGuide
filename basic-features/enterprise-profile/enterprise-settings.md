@@ -12,7 +12,7 @@ description: Qui puoi gestire le impostazioni relative al tuo profilo e/o alla t
 ![](../../.gitbook/assets/impostazioni-azienda-1.png)
 
 {% hint style="danger" %}
-Per salvare un cambiamento nel tipo di profilo, non dimenticare di cliccare su "salva" in basso a destra.
+Per salvare una modifica nel tipo di profilo, non dimenticare di cliccare su "salva" in basso a destra.
 {% endhint %}
 
 Cliccando su "Impostazioni" accederai ad un menù con multiple opzioni. Le opzioni disponibili variano a seconda del tipo di profilo impostato. 
@@ -97,71 +97,67 @@ Visibili solo per i **Produttori**
 
 Puoi aggiungere proprietà \(ad esempio BIO o VEGAN\) alla tua azienda. Queste proprietà saranno automaticamente applicate a **tutti** i tuoi prodotti. 
 
-Puoi anche specificare proprietà per i singoli prodotti. [Qui](../products-1/product-properties.md) per maggiori informazioni. 
+Puoi anche specificare proprietà per i singoli prodotti. [Qui](../products-1/product-properties.md) per maggiori informazioni a riguardo. 
 
-### Shipping Methods, Payment Methods & Enterprise Fees
+### Metodi di Spedizione, Metodi di Pagamento e Tariffe Aziendali
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only \(ie invisible for Producer/Non-Producer Profiles\)
+Visibili per i Negozi e Hub \(non visibili per Semplici Profili, sia Produttori che Non-Produttori\)
 {% endhint %}
 
-The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+[Metodi di Spedizione](../shopfront/shipping-methods.md), [Metodi di Pagamento](../shopfront/payment-methods.md) e [Tariffe Aziendali](../shopfront/enterprise-fees.md) sono trattate in dettaglio nei prossimi capitoli di questa guida.
 
 {% hint style="danger" %}
-At least one method of **payment** and **delivery** must be setup to be able to open your online shopfront.
+Devi impostare almeno un metodo di **pagamento** ed un metodo di **spedizione** per poter aprire il tuo negozio online. 
 {% endhint %}
 
-### Inventory Settings
+### Impostazioni Inventario
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visibili solo per Negozi e Hub. 
 {% endhint %}
 
-For most enterprises the recommended setting can be used.
+Per la maggiorparte delle aziende si possono usare le impostazioni predefinite. .
 
-Advanced users who need greater flexibility with product management should consult the [Inventory](../products-1/inventory-tool.md) page of this guide before changing the settings.
+Gli utenti avanzati che hanno bisogno di maggiore flessibilità con la gestione dei prodotti sono invitati a consultare la pagina [Inventario](../products-1/inventory-tool.md) di questa guida prima di cambiare le impostazioni.
 
-### Tag Rules
+### Regole Tag \(Etichette\)
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visibile solo per Negozi e Hub.  
 {% endhint %}
 
-Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
+In questo menù ci sono tutti i "tag" \(etichette\) che sono stati assegnati ai clienti della tua azienda. 
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+I 'Tag' sono etichette che puoi applicare aclienti, prodotti o altre impostazioni per assegnare diversi livelli di accesso, differenziazioni di prezzo o altri benefici rivolti a gruppi specifici. Sono particolarmente utili se vuoi riservare prezzi speciali ai clienti più attivi, o ai membri del tuo gruppo, o dare la possibilità solo ad un gruppo di utenti di utilizzare un determinato metodo di pagamento o di spedizione. 
 
- For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+Per maggiori informazioni, visita la ['sezione gestione clienti e visualizzazioni/prezzi personalizzati](../shopfront/customer-management-and-conditional-displays-prices/)
 
-### Shop Preferences
+### Preferenze Negozio
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visibile solo per Negozi e Hub.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
+**Messaggio Vetrina**: Questo messaggio è facoltativo. Se inserito, il messaggio sarà visibile nella scheda "Note" sulla barra del menu in alto. Il tuo negozio \(con i relativi prodotti\) sarà invece visibile nella scheda "Negozio"
 
 ![Shop front with Notices for single order cycle](../../.gitbook/assets/notices-singleoc.jpg)
 
 ![Shop front with notices for multiple concurrent order cycles](../../.gitbook/assets/notices.jpg)
 
-The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
+Il messaggio vetrina, o "nota" è un'opportunità per fornire al cliente informazioni base circa il funzionamento del tuo negozio. Ad esempio, potresti spiegare come sono strutturati i tuoi cicli di richieste, o eventuali esigenze di associarsi prima di acquistare. Può anche essere un saluto amichevole, o uno spazio di promozione. Puoi includere link a siti esterni.
 
-If left blank the 'Notices' tab will not appear on your shop front.
+Se lasciato in bianco, la scheda "Note" non apparirà nella tua vetrina.If left blank the 'Notices' tab will not appear on your shop front.
 
 ![](../../.gitbook/assets/notices-none.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
-
-{% hint style="success" %}
-TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
-{% endhint %}
+**Messaggio Chiusura Vetrina**: Questo messaggio sarà visualizzato nella scheda "Note" \(se attivata\) E nella scheda "Negozio", quando il tuo negozio è chiuso \(non ci sono cicli di richieste attivi\). Puoi indicare quando riaprirà il negozio. 
 
 ![Closed shopfront with customised message](../../.gitbook/assets/ordersclosednew1.jpg)
 
 ![Closed shopfront with default message](../../.gitbook/assets/orderscloseddefault.jpg)
 
-**Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Ordine Categorie in vetrina**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 
 **Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 
