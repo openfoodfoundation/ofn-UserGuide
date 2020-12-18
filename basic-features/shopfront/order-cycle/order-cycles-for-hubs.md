@@ -92,6 +92,10 @@ The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells 
 
 ![](../../../.gitbook/assets/multipleoc3.jpg)
 
+{% hint style="info" %}
+If operate with a continuously open shop front \(ie. you set your order cycle close date for more than 3 months in advance\) then the text blue 'Ready For' box on your shop front will read 'Orders are currently open'
+{% endhint %}
+
 The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
 
 ![](../../../.gitbook/assets/readyfor2.jpg)
