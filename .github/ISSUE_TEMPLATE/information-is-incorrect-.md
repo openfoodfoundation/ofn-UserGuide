@@ -7,18 +7,32 @@ assignees: lbwright22
 
 ---
 
+## Admin Only: Language Checklist for when this Update is Complete
+- [ ] English
+- [ ] French
+- [ ] Catalan
+- [ ] Italian
+- [ ] Russian
+- [ ] Turkish
+- [ ] Spanish
+- [ ] Portuguese
+
+----------------------------------------------------------------------------------------------------------------
+## Tell us what you would like to see
+
+
 **Which language version of the User Guide are you viewing?**
-English, French, Catalan, Italian, Russian, Turkish, Spanish, Portuguese...
+
 
 **Description**
 Brief description of what is wrong in the current version of the User Guide. 
 
 **What is the nature of the error?**
--Information (text) inaccurate
--Screen shot inaccurate/out of date
--Broken hyperlink
--Spelling mistake
--Other
+- [ ] Information (text) inaccurate
+- [ ] Screen shot inaccurate/out of date
+- [ ] Broken hyperlink
+- [ ] Spelling mistake
+- [ ] Other
 
 **URL of the page/section on which you have found inaccurate information**
 Please provide a link to the page/section (subsection if possible) in the user guide on which you have found the error.
