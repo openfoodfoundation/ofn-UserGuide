@@ -80,7 +80,7 @@ Details of the card saved as ‘default’ will be automatically entered at chec
 
 If you have a [regular, automated order ](regular-automated-orders.md)\(subscription\) with a shop on the platform which you would like to pay for by card \(credit or debit\) then **you will need to add a card** here, **and tick the ‘Allow charges’ box** next to the shop’s name.
 
-![](https://lh6.googleusercontent.com/12DpOgvpt9s-fUwFRVit8o1EBo-51KPRUX9RwBIGMUeXp4a3_zvgIhNSta2gr7ppbKp-hP3JOmWX9CpkFVOZ7fXonvsaYo8D1g17j1NIA4HRyNK7x1a6nxC7XO4tZ6uVq3yXXRr_)
+![](../.gitbook/assets/newcard2%20%281%29.gif)
 
 ### **Transactions**
 

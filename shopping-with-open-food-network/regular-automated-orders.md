@@ -31,10 +31,14 @@ You will need to register for an [OFN account](your-ofn-account.md) and have an 
 
 If you would like to pay for your subscription order by card then it is necessary to add and save a card to your [OFN account](your-ofn-account.md#credit-cards) and tick the box to ‘Allow Charges?’ to the shop you would like the subscription with:
 
-![](https://lh6.googleusercontent.com/zn4EFPA5Kcm4ZuuBio9RD12Q3DzW_jGbZVM28Q2emCHMuAywPHnaA6f8hF6m6hOtiFnziIJR5Tw6NvP29wjgEoORYpQs4i0rNyeImfPIrfyVfnWQWYvPr1rmiPXfvF-kTGFJyn9Y)
+![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="warning" %}
 If you have **more than one card saved** in your account then it is the one with the ‘**default**’ box checked which will be debited when payment for your subscription order is requested.
+{% endhint %}
+
+{% hint style="warning" %}
+If you **change your default card** then it will be necessary to re-check the 'Allow Charges to Default Card' box under' Authorised Shops to for payments for any subscriptions you have with those shops to be processed.
 {% endhint %}
 
 ## **What to expect**
@@ -64,6 +68,28 @@ When orders close for that week/fortnight/month, you will be sent a second email
 ### **I pay by card for my subscription. When will the payment be taken?**
 
 The shop you purchase from on the OFN platform opens and closes periodically in what we call ‘order cycles’.  You will be sent an email to say your subscription order has been placed when the order cycle corresponding to your subscription opens \(ie weekly, fortnightly, monthly\).  Payment will be taken when the order cycle closes.
+
+### I have received an email stating that the payment for my subscription order failed. What should I do?
+
+From time to time, if you pay for your subscription by card, you may receive the following email. Don't worry! 
+
+![](../.gitbook/assets/cardemail.jpg)
+
+#### What to do next:
+
+* Get [in touch](the-people-and-businesses-who-make-grow-your-food.md#contact) with the business with whom you have a subscription and they will be able to let you know how to pay for this particular week's/month's order. 
+* Before your next order, [log into your OFN account](your-ofn-account.md#whats-in-your-account) and visit the 'Credit Cards' tab.  In the UK you can follow this link: [https://openfoodnetwork.org.uk/account\#/cards](https://openfoodnetwork.org.uk/account#/cards)
+* Check that the 'Allow Charges to Default Card' box is checked next to the business with whom you have a subscription.
+
+![](../.gitbook/assets/authorisecard.jpg)
+
+{% hint style="info" %}
+You will be asked to periodically re-visit this page and re-check this box.  This is an extra security measure brought in by European banks called Strong Card Authentication \(SCA\). You can read more [here](https://en.wikipedia.org/wiki/Strong_customer_authentication).
+{% endhint %}
+
+* Check that your card registered as 'Default' is in date.  Add a new card if necessary.
+
+![](../.gitbook/assets/newcard.gif)
 
 ### **Can I top up my order by adding extra products?**
 
