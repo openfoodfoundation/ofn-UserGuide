@@ -58,7 +58,7 @@ Click on the tick icon to indicate that payment has been received \(this records
 
 Click on the road icon to indicate that the order has been shipped.
 
-![Update to Shipped icon](../../.gitbook/assets/shipped%20%282%29.png)
+![Update to Shipped icon](../../.gitbook/assets/shipped%20%282%29%20%282%29.png)
 
 {% hint style="info" %}
 The payment and shipping status of an order can also be updated when editing the order \(see below\).

@@ -19,7 +19,7 @@ This page describes how shops can setup unique subscriptions for individual cust
 
 Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
 
-![](../../.gitbook/assets/sub1%20%281%29.jpg)
+![](../../.gitbook/assets/sub1%20%281%29%20%281%29.jpg)
 
 Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription.  
 
@@ -98,7 +98,7 @@ To make changes to the whole subscription \(ie all orders placed from now on for
 
 Select the enterprise with which the customer has a subscription from the drop-down menu.  
 
-![](../../.gitbook/assets/sub1%20%281%29%20%281%29.jpg)
+![](../../.gitbook/assets/sub1%20%281%29%20%281%29%20%281%29.jpg)
 
 A table listing all your customers' subscriptions will be then visible.   Select the Edit \(pen and paper\) icon to the right of the customer: 
 
