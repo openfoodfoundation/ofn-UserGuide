@@ -14,3 +14,5 @@ Follow the quick set up list for your enterprise:
 
 Not sure which enterprise you are?  Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
 
+For advice on setting up a Digital Farmer's Market read [here](digital-farmers-markets.md).
+

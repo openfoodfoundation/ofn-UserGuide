@@ -12,6 +12,10 @@ We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-g
 
 _The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub \(or vice versa\) as your business grows and/or needs change._
 
+{% hint style="info" %}
+**Farmer's Markets** can either set up on the platform as a [Group](basic-features/groups/) of individually managed [shop](your-quick-start-on-ofn-given-who-you-are.md#shop) fronts or as a centrally managed [hub](your-quick-start-on-ofn-given-who-you-are.md#hub).  Read more [here](quick-start-guides/digital-farmers-markets.md).
+{% endhint %}
+
 ## Hub
 
 {% hint style="success" %}
