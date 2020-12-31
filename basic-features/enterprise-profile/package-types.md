@@ -76,7 +76,7 @@ Questa opzione ti permette di gestire un negozio in cui puoi distribuire prodott
 
 Puoi cambiare il tuo tipo di profilo \(pacchetto\) in qualunque momento. Effettua l'accesso nel tuo account di amministrazione: 
 
-![](../../.gitbook/assets/access1%20%282%29%20%281%29.jpg)
+![](../../.gitbook/assets/access1%20%282%29%20%282%29%20%281%29.jpg)
 
 e seleziona [Azienda](enterprise-settings.md) dal menù in alto. Seleziona quindi le opzioni corrette dai menù a tendina. \(Per farlo devi essere il '[Proprietario](enterprise-settings.md#users)' dell'azienda.\)
 
