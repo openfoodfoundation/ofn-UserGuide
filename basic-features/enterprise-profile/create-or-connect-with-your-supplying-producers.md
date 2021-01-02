@@ -1,40 +1,40 @@
-# Create or connect with your supplying producers
+# Crea o connettiti con i tuoi fornitori
 
 {% hint style="success" %}
- This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
+ Questa pagina è rilevanto solo per chi è registrato come **Hub Produttore o Hub non-Produttore**
 {% endhint %}
 
-For such Hub enterprises, connecting with existing OFN producers or creating accounts for your producers is a necessary precursor to adding your product range to your shop.
+Per un Hub, è necessario collegarsi a produttori esistenti su OFN o creare profili per i produttori non registrati, per poter aggiungere i loro listini alla tua vetrina.
 
 {% hint style="info" %}
-All producers supplying / selling products on the Open Food Network must have an enterprise account on the platform. The products are entered in the producer's catalog and then "displayed" \(with potentially different prices and stocks\) on the shopfront of the producer and/or shopfronts of other distributors to whom the producer has given [permission](enterprise-to-enterprise-permissions-e2es.md). This is an important feature on the OFN, as it enables customers to trace the origin of products.
+Tutti i produttori devono avere un profilo per poter vendere / fornire i propri prodotti sulla piattaforma OFN. I prodotti devono essere inseriti nel catalogo del produttore e poi possono essere "visualizzati" \(con la possibilità di modificare prezzi e disponibilità\) nella vetrina del produttore e/o nelle vetrine di altri distributori a cui il produttore ha dato il [permesso](enterprise-to-enterprise-permissions-e2es.md). Questa è una caratteristica importante su OFN, dal momento che permette ai consumatori di tracciare l'origine dei prodotti. 
 {% endhint %}
 
-An example of how this displays in the shopfront is shown below:
+Qui sotto un esempio di come questo viene visualizzato nella vetrina:
 
 ![](../../.gitbook/assets/producernote.png)
 
-As a hub, before being able to add products to your shopfront, you have two options: 
+Come Hub, prima di poter aggiungere prodotti alla tua vetrina, hai due opzioni: 
 
-1. Create OFN profiles for the producers who supply you \(if they don't already have a profile\)
-2. Request [permission](enterprise-to-enterprise-permissions-e2es.md) to sell the products of existing OFN-registered producers.
+1. Creare profili OFN per i produttori da cui ti vuoi rifornire \(se non hanno già un profilo\)
+2. Richiedere il [permesso](enterprise-to-enterprise-permissions-e2es.md) di vendere i prodotti dei produttori già registrati su OFN. .
 
-If you are not sure if your supplier already has an OFN profile then you can find out by going to the main 'Producers' menu and searching.
+Se non sei sicuro che il tuo fornitore abbia già un profilo su OFN, puoi scoprirlo cercandolo nel menù "Produttori"
 
-![](../../.gitbook/assets/searchproducer.jpg)
+![](../../.gitbook/assets/produttori.png)
 
-## Supplier does NOT have an OFN profile.
+## Fornitori che NON hanno un profilo OFN
 
-If a supplier does not have an OFN profile you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products, with their prices and on hand quantities, and then list them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred](transfer-ownership.md). If the producer wants to manage their profile and catalog but is happy with you being the owner of their profile, you can [invite them as managers](enterprise-settings.md#users).
+Se un fornitore non ha un profilo su OFN, puoi chiedergli di crearne uno o puoi crearne uno per suo conto. In questo caso, sarai il "proprietario" di questo profilo e avrai la possibilità di aggiungere i prodotti di questa azienda, con i loro prezzi e le quantità disponibili, e di mostrarli nel tuo negozio. Il nuovo produttore sarà visibile sul tuo pannello di controllo quando ti colleghi con il profilo del tuo hub. Se il produttore volesse successivamente gestire il proprio profilo, la proprietà di un profilo [può essere trasferita facilmente](transfer-ownership.md). Se il produttore vuole gestire il proprio listino, ma preferisce che sia tu ad essere il "proprietario" del profilo, puoi [invitarlo come referente](enterprise-settings.md#users).
 
-### Things to consider before creating a producer profile:
+### Considerazioni prima di creare un profilo produttore:
 
-Before creating a profile for your suppliers you should contact them and let them know that you are creating an account and enterprise for them on the OFN. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that hubs own and manage their profiles for them.
+Prima di creare un profilo per un tuo fornitore, dovresti contattarlo e fargli sapere che intendi creare un profilo azienda su OFN. I produttori potrebbero voler essere coinvolti nel processo ed eventualmente volersi assumere responsabilità nella gestione del proprio profilo, del proprio listino, ecc. Ma solitamente i produttori preferiscono che siano gli hub a gestire i propri profili per loro. 
 
-Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
+Assicurati di chiedere al produttore quali informazioni vogliono condividere nel loro profilo. Spesso potrai utilizzare testi ed immagini presenti nei loro siti o profili social, ma è sempre necessario chiedere il permesso prima di utilizzare i loro contenuti. Una volta che hai disponibili tutte le informazioni, creare un profilo ti richiederà non più di 10 minuti. 
 
 {% hint style="info" %}
-By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your local OFN entity](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Di default puoi creare fino a **5 profili azienda** sulla piattaforma. Questo è un modo per prevenire le spam, ma una volta che sappiamo che non sei un robot, ti daremo il permesso di creare tutti i profili di cui hai bisogno. Se hai bisogno di crearne di più,  [contatta la tua istanza locale di OFN](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 {% endhint %}
 
 ### Creating a producer profile:
