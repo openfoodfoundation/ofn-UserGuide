@@ -37,9 +37,9 @@ Assicurati di chiedere al produttore quali informazioni vogliono condividere nel
 Di default puoi creare fino a **5 profili azienda** sulla piattaforma. Questo è un modo per prevenire le spam, ma una volta che sappiamo che non sei un robot, ti daremo il permesso di creare tutti i profili di cui hai bisogno. Se hai bisogno di crearne di più,  [contatta la tua istanza locale di OFN](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 {% endhint %}
 
-### Creating a producer profile:
+### Creare un profilo produttore:
 
-You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
+Puoi creare un nuovo profilo produttore cliccando su **Aziende** nel menù orizzontale blu e poi cliccando su **+ Nuova Azienda**. Ricorda che "azienda" è un termine generico, usato per qualsiasi tipo di profilo, produttore o hub, su OFN.
 
 ![](../../.gitbook/assets/new-enterprise.png)
 
