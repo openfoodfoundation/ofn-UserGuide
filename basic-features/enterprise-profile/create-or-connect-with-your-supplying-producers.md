@@ -1,7 +1,7 @@
 # Crea i profili dei tuoi fornitori o connettiti con loro
 
 {% hint style="success" %}
- Questa pagina è rilevanto solo per chi è registrato come **Hub Produttore o Hub non-Produttore**
+ Questa pagina è rilevante solo per chi è registrato come **Hub Produttore o Hub non-Produttore**
 {% endhint %}
 
 Per un Hub, è necessario collegarsi a produttori esistenti su OFN o creare profili per i produttori non registrati, per poter aggiungere i loro listini alla tua vetrina.
@@ -43,29 +43,29 @@ Puoi creare un nuovo profilo produttore cliccando su **Aziende** nel menù orizz
 
 ![](../../.gitbook/assets/new-enterprise.png)
 
-This will take you to this page:
+Ti si aprirà la pagina seguente:
 
 ![](../../.gitbook/assets/newenterprise.jpg)
 
-A few things to note:
+Alcune osservazioni:
 
-**Name:** Enter the name of the producer farm/enterprise. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to [Supplier has a pre-existing OFN profile](create-or-connect-with-your-supplying-producers.md#supplyingproducer).
+**Nome:** Inserisci il nome dell'azienda o del produttore. Se ti compare un messaggio di errore che ti segnala che il nome è già utilizzato, significa che esiste già un profilo per questo produttore. In questo caso passa a [Fornitore che ha già un profilo su OFN](create-or-connect-with-your-supplying-producers.md#supplyingproducer).
 
-**Primary Producer:** Select this box, as you are adding an enterprise which makes/grows food which you will retail for them on your hub shop front.
+**Produttore Primario?:** Seleziona questo riquadro, dal momento che stai aggiungendo un'azienda che produce i prodotti che vuoi vendere attraverso il tuo hub.
 
-**Email and Phone:** This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
+**Email e Telefono:** Queste informazioni saranno visibili sul profilo. Se il produttore non vuole essere contattato dagli utenti di OFN, allora inserisci i contatti del tuo hub in questo campo.
 
-Then you can access the the same [enterprise setting page](enterprise-settings.md) as described before. Some recommendations :
+Avrai quindi accesso alla stessa pagina [Impostazioni Azienda](enterprise-settings.md) descritta precedentemente. Alcuni suggerimenti:
 
-**Visible in Search:** You should discuss with the producer whether or not they wish to be visible on the OFN. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
+**Visibile nella ricerca?:** Dovresti chiedere al produttore se desidera o meno essere visibile su OFN. Se preferisce non essere visibile, il suo nome e profilo saranno comunque mostrati accanto ai suoi prodotti nel tuo negozio, ma non compariranno nella mappa o nella lista produttori. 
 
-**About Us:** Remember the OFN is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of details about your producers and what makes them unique.
+**Descrizione:** Ricorda che alla base di OFN c'è la trasparenza nella filiera alimentare. E' dunque buona norma inserire quanti più dettagli possibile relativi ai produttori. 
 
-**Images:** We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
+**Immagini:** Ti consigliamo caldamente di inserire un'immagine e un logo per ciascun profilo. Queste immagini migliorano l'esperienza online dei consumatori, oltre a dare maggiore credibilità alle aziende. ****
 
-## Supplier has a pre-existing OFN profile <a id="supplyingproducer"></a>
+## Fornitore che ha già un profilo su OFN <a id="supplyingproducer"></a>
 
-If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. 
+Se un fornitore ha già un profilo su OFN, If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. 
 
 Keep in mind that they may be registered as a Producer Profile but have their products and enterprise managed by another Hub. OFN can accommodate two \(or more\) hubs stocking the same producer’s products on their separate shop fronts, through the [inventory](../products-1/inventory-tool.md) feature for instance. If hubs **work together and notify each other** of any changes they make to producer enterprises which they manage, but that supply multiple hubs, then distribution problems can be avoided.
 
