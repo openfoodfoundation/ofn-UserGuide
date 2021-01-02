@@ -1,4 +1,4 @@
-# Crea o connettiti con i tuoi fornitori
+# Crea i profili dei tuoi fornitori o connettiti con loro
 
 {% hint style="success" %}
  Questa pagina è rilevanto solo per chi è registrato come **Hub Produttore o Hub non-Produttore**
