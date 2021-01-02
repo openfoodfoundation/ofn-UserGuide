@@ -157,31 +157,31 @@ Se lasciato in bianco, la scheda "Note" non apparirà nella tua vetrina.If left 
 
 ![Closed shopfront with default message](../../.gitbook/assets/orderscloseddefault.jpg)
 
-**Ordine Categorie in vetrina**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Ordine Categorie in vetrina**: Di default, i prodotti del tuo shop sono visualizzati in ordine alfabetico. Puoi scegliere di ordinare i prodotti per categoria, se lo desideri. In questo caso i prodotti saranno ordinati per categoria e, nella categoria, in ordine alfabetico. Per esempio potresti voler mostrare una categoria per prima e lasciare in fondo la categoria di prodotti meno importanti per te. 
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Ordina cicli di richiesta per:** Se il tuo negozio ha [più cicli di richieste aperti contemporaneamente](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) puoi scegliere l'ordine in cui appariranno sulla tua vetrina: per "data apertura" \(i primi ad aprire per primi\) o per "data chiusura" \(i primi a chiudere per primi\).
 
-**Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
+**Vetrina visibile pubblicamente?** Se selezioni "pubblica", qualunque utente potrà accedere al tuo negozio e fare la propria gentile richiesta. Se selezioni "visibile solo agli utenti registrati", agli utenti che arrivano al tuo negozio verrà chiesto di effettuare l'accesso e solo gli utenti presenti nella tua lista clienti podranno visualizzare ii prodotti. Scopri di più sull'[impostazione negozio privato](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**Gentili richieste Ospiti** Se selezioni "Permetti acquisto come ospite", gli utenti non avranno bisogno di accedere al proprio profilo OFN per acquistare i prodotti, dunque non dovranno necessariamente registrarsi ed avere un profilo utente. Se vuoi avere la sicurezza aggiuntiva di sapere che i tuoi consumatori debbano avere un account su OFN per acquistare i prodotti, allora seleziona "RICHIEDI LOGIN PER ORDINARE". 
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+Per avere un account su OFN, un consumatore deve aver confermato la mail arrivata al momento della registrazione. Dunque, selezionare "Richiedi login per ordinare" potrebbe aiutare a limitare il numero di ordini vani: per lo meno la mail di conferma della richiesta sarà inviata ad un indirizzo mail attivo.
 
 {% hint style="warning" %}
-The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
+L'opzione "Permetti acquisto come ospite" non è applicabile se hai optato per "visibile solo agli utenti registrati".
 {% endhint %}
 
-**Customer names in reports.** If you distribute products from other suppliers / producers, they will be able to run reports showing details of their products as sold through your Order Cycles. This option allows you to make the names of customers visible in these reports. Depending on the distribution model you have in place, this may be necessary for Producers to pack and distribute orders to the customers.
+**Nomi clienti nei Report.** Se distribuisci prodotti di altri produttori, darai loro la possibilità di avere i report con i dettagli dei loro prodotti così come sono venduti tramite i tuoi Cicli di Richieste. Questa opzione ti permette di rendere visibili i nomi dei clienti in questi report. A seconda di come organizzi la tua distribuzione, potrebbe essere necessario se ai produttori richiedi di confezionare le gentili richieste per i consumatori.
 
 
 
-### Users
+### Utenti
 
-**Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
+**Proprietario:** Questa è la mail dell'utente principale referente per questa azienda. Ha la possibilità di modificare ogni aspetto del profilo. Solo il proprietario può scegliere il proprietario, tra gli utenti nella lista dei referenti dell'azienda. Questi indirizzi avranno una stella di fianco al nome nella lista dei referenti.
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Notifiche:** Questo è l'indirizzo mail a cui saranno inviate le notifiche di sistema di OFN \(es. conferme d'ordine\) Solo il proprietario può stabilire chi riceverà tali notifiche, tra gli indirizzi dei referenti. Queso utente avrà il sibolo di una busta vicino al proprio nome nel campo "referenti".
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Referenti:** Altri utenti di OFN a cui è stato dato il permesso di gestire questo profilo. Vuoi aggiungere un nuovo referente? Puoi cercare le mail di utenti già registrati e aggiungerli come referenti. Se non trovi nessun utente con la mail che stai cercando, significa che l'utente non è registrato su OFN: occorrerà invitarlo \(vedi punto successivo\)
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Invita referente:** Questo permette di aggiungere un referente che non è registrato su OFN. Quando aggiungi un indirizzo, verrà inviata una mail di conferma e, una volta confermata la mail, l'utente potrà impostare una password ed accedere alla gestione di questa azienda.
 
