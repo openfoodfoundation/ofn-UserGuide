@@ -1,24 +1,24 @@
-# Making a producer profile searchable by product category
+# Rendere un profilo produttore ricercabile per categoria di prodotto
 
-When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\). 
+Quando i consumatori navigano su Open Food Network, possono cercare i produttori per nome o località. Possono anche filtrare i profili produttori a seconda dei tipi di prodotto che hanno a disposizione \(vedi sotto\). 
 
-![](../../.gitbook/assets/filter-by-product.png)
+![](../../.gitbook/assets/filtro-produttori.png)
 
-Producers with online shops on the OFN have products in the system, which get picked up by the search filter tool. However, producers who don’t have an OFN shop \(just a profile\) won’t be searchable in this way, unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
+Il sistema considera i dati dei prodotti caricati dai produttori che hanno un negozio online su OFN per filtrarli per categoria. Dunque, i produttori che non hanno un profilo "Azienda" ma solo un semplice profilo non saranno ricercabili a meno che non aggiungano prodotti fittizi nel sistema. Aggiungendo un prodotto fittizio per ogni categoria di prodotto sotto cui vuoi che il tuo profilo sia ricercabile, apparirai quando i consumatori cercheranno produttori con prodotti di quella categoria. 
 
-Here’s how to do this…
+Ecco come fare...
 
-Click **Products** in the horizontal blue menu, and then click **+ New Product** to add your dummy products.
+Clicca **Prodotti** nel menu blu orizzontale, poi clicca su  **+ Nuovo Prodotto** per aggiungere i tuoi prodotti fittizi.
 
-![](../../.gitbook/assets/access-new-product.png)
+![](../../.gitbook/assets/nuovo-prodotto.png)
 
-Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category** that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
+Dal momento che non hai una vetrina su OFN, questo prodotto non sarà visibile da nessuna parte. Quindi puoi inserire nome, prezzo ed unità a caso. L'importante è selezionare la **Categoria Prodotto** corretta, che corrispnde alla tua produzione. Clicca poi su "crea" in basso a sinistra. Qui sotto un esempio di un prodotto fittizio della categoria "Frutta". Questo profilo produttore comparirà ora se un consumatore cercherà produttori di frutta.
 
-![](../../.gitbook/assets/dummy-meat-product.png)
+![](../../.gitbook/assets/categoria-prodotto.png)
 
-Their summary profile will also indicate that they sell meat products \(below\).
+La categoria "Frutta" comparirà anche nella scheda del profilo. 
 
-![](../../.gitbook/assets/meat.png)
+![](../../.gitbook/assets/categoria-in-profilo.png)
 
 
 
