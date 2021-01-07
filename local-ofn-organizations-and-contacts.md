@@ -72,9 +72,8 @@ Want to learn more about what is the Open Food Network? [Check our global websit
     </tr>
     <tr>
       <td style="text-align:left">France</td>
-      <td style="text-align:left">Open Food France</td>
-      <td style="text-align:left"><a href="https://www.openfoodfrance.org/">https://www.openfoodfrance.org/</a>
-      </td>
+      <td style="text-align:left">CoopCircuits</td>
+      <td style="text-align:left">coopcircuits.fr/</td>
       <td style="text-align:left">
         <p>French</p>
         <p>Italian</p>
