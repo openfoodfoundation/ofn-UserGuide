@@ -15,7 +15,7 @@
     * [Impostazioni Azienda](basic-features/enterprise-profile/enterprise-settings.md)
     * [Crea i profili dei tuoi fornitori o connettiti con loro](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
     * [Rendere un profilo produttore ricercabile per categoria di prodotto](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
-    * [Enterprise Permissions](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
+    * [Permessi Aziende](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
     * [Change Profile Managers / Owners](basic-features/enterprise-profile/transfer-ownership.md)
   * [Products](basic-features/products-1/README.md)
     * [Add products](basic-features/products-1/products.md)

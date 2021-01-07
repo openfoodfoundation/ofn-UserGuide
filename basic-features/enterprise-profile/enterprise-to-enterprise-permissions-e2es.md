@@ -1,8 +1,8 @@
-# Enterprise Permissions
+# Permessi Aziende
 
-## Enterprise Permissions 
+## Permessi Aziende
 
-Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
+In OFN i Permessi regolano le relazioni tra le aziende che hanno un profilo: fornitori e distributori. E' necessario impostare queste regole prima che un'azienda \(con un Profilo Produttore - Semplice profilo, Negozio o Hub\) possa diventare fornitrice di un'altra \(Profilo Hub\). A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
 
 To access your enterprise permissions:
 
