@@ -2,113 +2,113 @@
 
 ## Permessi Aziende
 
-In OFN i Permessi regolano le relazioni tra le aziende che hanno un profilo: fornitori e distributori. E' necessario impostare queste regole prima che un'azienda \(con un Profilo Produttore - Semplice profilo, Negozio o Hub\) possa diventare fornitrice di un'altra \(Profilo Hub\). A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them. 
+In OFN i Permessi regolano le relazioni tra le aziende che hanno un profilo: fornitori e distributori. E' necessario impostare queste regole prima che un'azienda \(con un Profilo Produttore - Semplice profilo, Negozio o Hub\) possa diventare fornitrice di un'altra \(Profilo Hub\). Un permesso è assegnato da un'azienda ad un'altra per accedere o modificare un profilo o i relativi prodotti. Questa pagina spiega i diversi tipi di "permessi" e come fare ad assegnarli. 
 
-To access your enterprise permissions:
+Per accedere ai permessi della tua azienda: 
 
 ![](../../.gitbook/assets/permissions.gif)
 
-Lastly, we explore this topic from the point of view of:
+Infine, questo argomento può essere considerato da due punti di vista: 
 
-* [a Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(the distributor\)
-* [a producer profile or shop](enterprise-to-enterprise-permissions-e2es.md#producers-perspective) \(the supplier\)
+* [un Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(il distributore\)
+* [un Produttore](enterprise-to-enterprise-permissions-e2es.md#producers-perspective) \(il fornitore\)
 
-## The Four Permissions
+## I quattro Permessi
 
-There are 4 different types of Enterprise permissions. They can combine in different ways to give companies more or less rights according to their profiles.
+Ci sono 4 diversi tipi di Permessi aziendali, che si possono combinare in vari modi per dare alle aziende più o meno diritti.
 
 ![](../../.gitbook/assets/e2emenu2.jpg)
 
-**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an OFN Hub\) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
+**Permesso di aggiungere prodotti ai cicli di richieste**: il fornitore \(produttore\) permette al distributore \(Hub\) di aggiungere i propri prodotti ai suoi cicli di richieste. Quindi i prodotti del fornitore potranno essere visualizzati nella vetrina del distributore.
 
-**Permission to manage products**: the supplier authorises another OFN registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog. 
+**Permesso di gestire i prodotti**: il fornitore autorizza un'altra azienda registrata su OFN \(tipicamente un Hub\) a creare, modificare ed eliminare i prodotti direttamente sul proprio catalogo aziendale.
 
 {% hint style="danger" %}
-This can potentially impact all hubs which the producer supplies with goods through OFN.
+Questo può avere conseguenze su tutti gli hub che il produttore rifornisce attraverso OFN. 
 {% endhint %}
 
-> _For example, if Farmer Jo supplies potatoes to Hubs A and B but grants Hub A permission to manage its products then if Hub A changes the price of the potatoes then this price change \(under standard settings\) will be reflected on the shop fronts of both hubs A and B._
+> _Per esempio, se il contadino Giovanni fornisce la propra frutta all'Hub A e B, ma assegna ad A il permesso di gestire i propri prodotti, allora se l'Hub A modifica il prezzo della frutta di Giovanni, questo prezzo cambierà anche nella vetrina dell'Hub B \(a meno di impostazioni di inventario personalizzate\)._
 
-**Permission to edit profile:** one company allows another to modify details in their [Enterprise Profile](./) \(contact details, address, description, ...\).
+**Permesso di modificare il profilo:** un'azienda permette ad un'altra di modificare i dettagli del proprio  [Profilo Aziendale](./) \(contatti, indirizzo, descrizione...\)
 
-**Permission to add products to inventory**: the supplier \(producer\) authorises the distributor \(hub\) to add its products to the shop catalog \(or '[Inventory](../products-1/inventory-tool.md)'\) of the hub.
+**Permesso di aggiungere prodotti all'inventario**: il fornitore \(produttore\) autorizza il distributore \(hub\) ad aggiungere i propri prodotti al suo [Inventario](../products-1/inventory-tool.md).
 
 {% hint style="info" %}
-If a producer supplies more than one hub with goods, then to allow each of these hubs to manage pricing and stock levels of their products independently we recommend adding this permission between the two enterprises and for the Hubs to change their [Inventory settings](enterprise-settings.md#inventory-settings).
+Se un produttore rifornisce più hub con i propri prodotti, suggeriamo che utilizzi quest'ultimo permesso, per consentire a ciascun hub di gestire i prezzi e le disponibilità dei prodotti autonomamente,dal proprio inventario. Gli Hub dovranno modificare le proprie [Impostazioni inventario](enterprise-settings.md#inventory-settings).
 {% endhint %}
 
-## Granting and Managing Permissions
+## Garantire e gestire Permessi
 
-To modify, add or delete permissions, go to the admin dashboard and then to  'Enterprises' on the blue menu and 'Permissions' on the green sub-menu. 
+Per modificare, aggiungere o eliminare permessi, accedi al pannello di controllo e poi clicca su "Aziende" nel menu blu e su "Permessi nel sottomenù verde.
 
 ![](../../.gitbook/assets/e2emenu.jpg)
 
-To give permission:
+Per assegnare permessi:
 
-* Select your enterprise from the drop down menu in the first column \(you are a producer who supplies others\)
-* Select the name of the enterprise \(hub\) you wish to supply from the the second column.
-* Tick the permissions you wish to grant the distributor of your goods \(hub\) or to grant multiple permissions select 'everything'.
-* Click on 'Create'.
+* Seleziona la tua azienda dalla prima tendina a sinistra \(sei un produttore che rifornisce altri soggetti\) 
+* Seleziona il nome dell'azienda \(hub\) che intendi rifornire dalla tendina di destra.
+* Seleziona i permessi che indendi assegnare all'hub che stai autorizzando. Per garantirgli tutti i permessi, puoi selezionare "tutti". 
+* Clicca su "Crea". 
 
- Note that you can delete or change these permissions at any time.
-
-{% hint style="warning" %}
-Only users listed as [Managers](enterprise-settings.md#users) of an enterprise can change its permissions.
-{% endhint %}
-
-If you need another enterprise to give you permissions, you need to contact them by email or phone. There is no online feature to do this.
-
-## Automatically Generated Permissions
-
-When a user is the main manager of several enterprises on the platform, [the four permissions](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions) are created automatically between each enterprise. This is not the case when enterprises are managed by different users.
-
-## Hub perspective
-
-The following common scenarios demonstrate enterprise-enterprise permissions you may need to set up for your hub.
-
-> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
-
-The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
-
-> **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
-
-You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.  
-
-If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_ 
-
-If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions.  Should this occur then you will be able to edit their profile and manage their products.
-
-> **My Hub distributes through buying groups. Which permissions will the buying group need with my hub and my producers?**
+ Nota che puoi eliminare o modificare questi permessi in qualsiasi momento. 
 
 {% hint style="warning" %}
-This is an example of where the hub managing \(co-ordinating\) an order cycle differs from the enterprise from which customers collect their purchases.
-
-_If Hub A manages \(co-ordinates\) an order cycle for a buying group \(Hub B\) then the order cycle will be displayed on Hub B's OFN shopfront._
+Solo gli utenti presenti nella lista dei [Referenti](enterprise-settings.md#users) di un'azienda possono modificare i suoi permessi. 
 {% endhint %}
 
-The buying group \(Hub B above\) will need to grant the order cycle co-ordinator \(Hub A above\) permission to add to order cycle \(and ideally permission to add to inventory\).
+Se hai bisogni che un'altra azienda ti dia i permessi, contattala direttamente. Non c'è una funzionalità per farlo da sistema. 
 
-Producers who supply Hub A with products that are to also be sold by the buying group \(Hub B\) must grant both Hubs A and B permission to add to order cycle \(and ideally permission to add to inventory\).
+## Permessi generati automaticamente
 
-## Producer's perspective
+Quando un utente è il referente principale di varie aziende sulla piattaforma, [i 4 permessi ](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)sono generati automaticamente tra le aziende che gestisce. Questo non avviene se le aziende sono gestite da utenti diversi.
 
-When a producer wants to start selling their products through other enterprises \(hubs or buying groups\) the must establish the appropriate enterprise-to-enterprise permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile \(see [top of page](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)\).
+## La prospettiva dell'Hub
 
-These examples explore some common scenarios.
+Gli scenari seguenti mostrano i permessi azienda-azienda di cui potresti aver bisogno per il tuo hub.
 
-> **I am a producer and would like a local OFN hub to stock and sell my products.**
+> **Ho** [**creato i Profili Produttore di ciascuno dei miei fornitori.** ](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**Quali permessi ho bisogno di impostare prima di poter vendere i loro prodotti nel mio negozio?**
 
-**Essential:** For the hub to add your products to their shopfront, you’ll need to grant them _'permission to add to order cycle'_.
+Il sistema è configurato in modo da _assegnare automaticamente i permessi corretti_ agli hub che creano i profili dei propri fornitori. Non avrai dunque bisogno di ulteriori impostazioni. 
 
-**Optional:** You might also want to give the hub permission to manage your products, to edit your profile or to add to Inventory.
+> **I miei** [**fornitori hanno già un profilo registrato su OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. Vorrei aggiungere i loro prodotti al mio negozio.**
 
-> **A hub that I supply distributes through buying groups.**
+Devi contattare i tuoi fornitori di persona. I loro contatti \(numero di telefono, mail e indirizzo\) sono indicati nel loro profilo OFN.  
 
-In order for your products to be distributed by the buying groups you will have to add a minimum of permission 'to add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
+Se vuoi solo **mostrare i loro prodotti** nella tua vetrina e non intendi aiutarli a gestire il resto del loro profilo OFN, allora richiedi loro di assegnarti i permessi di _**aggiungere al ciclo di richieste**_ e di _**aggiungere all'inventario**_.  _****_
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would like to** _**also**_ **manage stock levels and prices of my products.**
+Se il fornitore volesse che tu, in quanto gestore di un hub, lo aiutassi ad organizzare il suo profilo OFN, potrebbe concederti tutti e 4 i permessi. Allora saresti abilitato anche a modificare il loro profilo e i loro prodotti.
 
-This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
+> **Il mio Hub distribuisce attraverso altri gruppi di acquisto \(negozi o hub\). Di quali permessi avrà bisogno ciascun gruppo sa parte del mio hub e dei miei fornitori?**
 
-This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
+{% hint style="warning" %}
+Questo è un esempio per i casi in cui l'Hub che coordina un ciclo d'ordine differisce dall'azienda dove i consumatori recuperano la proria spesa. 
+
+_Se l'Hub A coordina un ciclo d'ordine a cui partecipa anche l'Hub B , allora il ciclo d'ordine sarà visibile nella vetrina dell'Hub B ._
+{% endhint %}
+
+L'Hub B dovrà concedere all'Hub A, coordinatore del ciclo di richieste, il permesso di _aggiungere al ciclo di richieste_ \(e, idealmente, anche quello di _aggiungere all'inventario_\).
+
+I Produttori che forniscono all'Hub A prodotti che devono poter essere venduti anche tramite l'Hub B devono concedere sia all'Hub A che all'Hub B il permesso  di _aggiungere al ciclo di richieste_ \(e, idealmente, anche quello di _aggiungere all'inventario_\).
+
+## La prospettiva del produttore
+
+Quando un produttore vuole iniziare a vendere i propri prodotti tramite altre aziende \(hub o negozi\) deve impostare i corretti permessi azienda-azienda. Ci sono diversi livelli di permessi che un produttore può concedere, a seconda di quanto potere vuole dare al referente dell'hub nella gestione dei propri prodotti e del proprio profilo\(vedi [qui in alto](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)\).
+
+Questi esempi mostrano alcuni scenari comuni.
+
+> **Sono un produttore vorrei che un Hub potesse immagazzinare e vendere i miei prodotti.**
+
+**Fondamentale:** Per permettere ad un Hub di aggiungere i tuoi prodotti alla sua vetrina, devi concedergli il permesso di _aggiungere al ciclo di richieste_. 
+
+**Opzionale:** Potresti anche dare all'hub i permessi di _gestire i tuoi prodotti_, _modificare il tuo profilo_ o _aggiungere all'inventario_. 
+
+> **Un hub che rifornisco distribuisce attraverso altri hub.**
+
+Dovrai concedere almeno il permesso di _aggiungere al ciclo di richieste_ a tutti gli hub coinvolti nella distribuzione, sia all'hub che rifornisci direttamente, sia agli altri hub attraveso cui avviene nei fatti la distribuzione.
+
+> **Sono un Produttore con profilo Negozio, rifornisco un Hub, ma allo stesso tempo vendo i miei prodotti attraverso il mio proprio Negozio su OFN. L'Hub vorrebbe gestire le disponibilità e i prezzi dei miei prodotti. Anche io vorrei gestire le disponibilità ed i prezzi dei miei prodotti.**
+
+Questo caso può essere risolto garantendo all'hub il permesso di _aggiungere all'inventario_ e quello di _aggiungere al ciclo di richieste_. 
+
+Questo permette all'hub di creare un proprio inventario con i tuoi prodotti, impostando autonomamente disponibilità e prezzi, che saranno mostrati nella vetrina dell'HUb. La tua vetrina continuerà così a mostrare invece le disponibilità e i prezzi che imposti tu nel tuo profilo. 
 
