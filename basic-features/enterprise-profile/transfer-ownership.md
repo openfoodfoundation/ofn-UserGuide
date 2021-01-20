@@ -1,36 +1,36 @@
-# Change Profile Managers / Owners
+# Cambia referenti/proprietari del profilo
 
-It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself. 
+È abbastanza usuale che il profilo di un produttore venga creato da un hub, quindi l'hub aggiungerà il produttore come "**referente"** di quel profilo, oppure potrà impostarlo come "**proprietario**" \(gestore principale\) del profilo, quando il produttore è disponibile a gestire autonomamente il proprio profilo e catalogo prodotti. In questo caso se qualcuno dell'hub vuole poter operare per conto del proprietario basta che inserisca la sua mail utente nel campo "Referenti". 
 
-To add a new manager and eventually transfer ownership, here is the procedure to follow: 
+Per aggiungere un nuovo gestore ed eventualmente trasferire la proprietà, ecco la procedura da seguire:
 
-* On the admin dashboard, go to the Managers menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Managers\):
+* Dal Pannello di controllo dell'amministratore, vai al menu delle impostazioni aziendali \(Impresa&gt; Impostazioni&gt; Utenti\):
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Managers", search for the email of the producer you would like to add as a manager.
+* In "Referenti", seleziona l'email del produttore che desideri aggiungere come referente.
 
-**Case 1: The Producer in question already has a user account with OFN:**    
-Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.
+**Caso 1: il produttore in questione ha già un account utente con OFN:** La sua email sarà già registrata e quindi apparirà non appena inizi a digitare. Seleziona e fai clic su "Aggiorna" \(pulsante rosso, in basso a destra\) per salvare.
 
 {% hint style="warning" %}
-Warning: you must search for the exact **full** email. We recommend searching our list of users by copying and pasting the **entire** email address.
+Attenzione: devi cercare l'email esatta completa. Ti consigliamo di cercare nell'elenco degli utenti copiando e incollando l'intero indirizzo email.
 {% endhint %}
 
 **Case 2: The Producer in question does not yet have a user account with OFN:**  
 In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.   
 The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
 
-Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification.  At this stage, as a hub manager you may wish to remove yourself from the list of managers. 
+**Caso 2: il produttore in questione non dispone ancora di un account utente con OFN:** In questo caso, non riesci a trovare la sua email quando digiti nella casella "Aggiungi un utente esistente". È quindi necessario fare clic su "Aggiungi un utente non registrato" appena sotto, accanto al campo "Invita Referente". Il produttore riceverà quindi un'e-mail dalla piattaforma per confermare la registrazione. Seguendo le istruzioni dettagliate nell'e-mail, potrà completare la configurazione del proprio account OFN, inclusa l'aggiunta di una password.
+
+Una volta che il produttore è un **Referente** del profilo aziendale che hai creato per lui, puoi scegliere di nominarlo il Proprietario e/o il contatto che riceve la notifica dell'ordine. In questa fase, come gestore hub potresti voler rimuovere te stesso dall'elenco dei referenti.
 
 {% hint style="warning" %}
-Do not forget to click 'Update' to save your changes!
+Non dimenticare di fare clic su "Aggiorna" per salvare le modifiche!
 {% endhint %}
 
 {% hint style="info" %}
-By default, a user can not be a manager / owner of **more than 5 enterprises**.   
-If you receive a message stating that _the new user has reached their limit_, contact us and we will increase their business limit. 
+Per impostazione predefinita, un utente non può essere un proprietario di più di 5 imprese. Se ricevi un messaggio in cui si afferma che il nuovo utente ha raggiunto il limite, contattaci e aumenteremo il limite di attività. 
 
-This measure is intended to avoid the massive creation of profiles by robots, something that could blow our server and make the platform unavailable. It is a classic prevention measure.
+Questa misura ha lo scopo di evitare la massiccia creazione di profili da parte dei robot, cosa che potrebbe far saltare in aria il nostro server e rendere la piattaforma non disponibile. È una classica misura di prevenzione.
 {% endhint %}
 
