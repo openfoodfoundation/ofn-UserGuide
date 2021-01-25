@@ -128,6 +128,10 @@ From the right hand menu, you might like to add
 
 For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
 
+{% hint style="danger" %}
+**Do not edit** the **Permalink** field.  This connects your product internally to an entry in the OFN database.  Editing can corrupt the product entry.
+{% endhint %}
+
 ### Search keywords
 
 Customers can filter your products to identify what they wish to purchase based on their product category and product properties.  The filters are found to the right hand side of the shop page.
