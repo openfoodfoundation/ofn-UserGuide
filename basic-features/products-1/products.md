@@ -141,7 +141,9 @@ Some customers will use the Search box at the top left of the page to locate the
 * Producer name
 * Search keywords
 
-Keywords can be added by visiting **Edit Product -&gt; Search**.  Keywords entered into the top box \(in red below\) are reviewed by the platform if the customer uses the 'Search' field on your shop front.  Those entered into the second box \(in green below\) are searched by external search engines on the internet \(for example Google\)
+Keywords can be added by visiting **Edit Product -&gt; Search**.  Keywords entered into the top box \(in red below\) are reviewed by the platform if the customer uses the 'Search' field on your shop front.  Those entered into the second box \(in green below\) are searched by external search engines on the internet \(for example Google\). 
 
 ![](../../.gitbook/assets/searchedit.jpg)
+
+The 'Notes' section is not an active field. It is a handy box for you to 'make a note' of a seasonal search term which may be very effective/ineffective one year, so that you don't forget.
 
