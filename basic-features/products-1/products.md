@@ -2,22 +2,22 @@
 
 Puoi aggiungere i prodotti al tuo catalogo uno ad uno \(descritto di seguito\) o tramite importazione in blocco, se hai tutti i dati inseriti in un file .csv.
 
-## Adding products
+## Inserimento prodotti
 
-Once logged into the Admin Dashboard, select on **Products** on the horizontal blue menu, and then click **+ New Product**.
+Una volta fatto l'accesso al Pannello di Controllo , seleziona la voce **Prodotti** dal menù orizzontale e quindi **+ Nuovo prodotto**
 
 ![](../../.gitbook/assets/add-new-product.png)
 
-This will take you to the New Product page.
+Questo ti porterà nella sezione NUOVO PRODOTTO.
 
 ![](../../.gitbook/assets/new-product2.png)
 
-**Supplier** 
+**Fornitore**
 
-Select the enterprise who produces and supplies the product.
+Selezione dal menù a discesa l'azienda che produce e fornisce il prodotto.
 
 {% hint style="info" %}
-If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) for more info.
+Se sei un produttore, seleziona la tua azienda. Se sei un hub, ricorda che potrai aggiungere prodotti solo ai profili di produttore che hai creato tu o, se ti è stata concessa l'autorizzazione, a gestire i prodotti di un profilo produttore. Vedi [qui](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/~/drafts/-MS3uKdhrm1QRYN11cIU/v/it/basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers) per maggiori informazioni.
 {% endhint %}
 
 **Product name:** This is the title of the product when displayed on the shop front.
