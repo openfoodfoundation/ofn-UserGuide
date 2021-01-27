@@ -1,6 +1,6 @@
-# Add products
+# Aggiungi prodotti
 
-You can either add products to your catalog one by one \(detailed below\) or by [bulk import](product-and-inventory-import.md), if you have all the relevant details in a .csv file.
+Puoi aggiungere i prodotti al tuo catalogo uno ad uno \(descritto di seguito\) o tramite importazione in blocco, se hai tutti i dati inseriti in un file .csv.
 
 ## Adding products
 

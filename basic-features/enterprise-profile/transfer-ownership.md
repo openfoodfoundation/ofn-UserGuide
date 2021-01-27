@@ -1,6 +1,6 @@
 # Cambia referenti/proprietari del profilo
 
-È abbastanza usuale che il profilo di un produttore venga creato da un hub, quindi l'hub aggiungerà il produttore come "**referente"** di quel profilo, oppure potrà impostarlo come "**proprietario**" \(gestore principale\) del profilo, quando il produttore è disponibile a gestire autonomamente il proprio profilo e catalogo prodotti. In questo caso se qualcuno dell'hub vuole poter operare per conto del proprietario basta che inserisca la sua mail utente nel campo "Referenti". 
+È abbastanza usuale che il profilo di un produttore venga creato da un hub, quindi l'hub potrà aggiungere il produttore come "**Referente"** di quel profilo, oppure potrà impostarlo come "**proprietario**" \(gestore principale\) del profilo, quando il produttore è disponibile a gestire autonomamente il proprio profilo e catalogo prodotti. In questo caso se qualcuno dell'hub vuole poter operare per conto del proprietario basta che inserisca la sua mail di utente registrato nel campo "**Referenti**". 
 
 Per aggiungere un nuovo gestore ed eventualmente trasferire la proprietà, ecco la procedura da seguire:
 
