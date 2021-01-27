@@ -18,8 +18,7 @@ When you have opened your shop front with an active [Order Cycle](order-cycle/),
 
 ![](../../.gitbook/assets/shopping2.gif)
 
-To add products to their basket, customers on a laptop or PC/Mac will be able to either toggle the quantity up and down via the arrows to the right hand side of the quantity box or type in a value using the keyboard.  
-On mobile and tablet quantities are added by selecting the quantity box and entering a value by the pop up keyboard.
+To add products to their basket, customers can click on 'Add' and then toggle the quantity of the item in their basket using the '+' and '-' keys.
 
 {% hint style="info" %}
 Customers can view the items they have added to their basket by the drop down menu which appears when clicking on the basket in the top right corner.

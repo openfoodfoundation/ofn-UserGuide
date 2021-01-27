@@ -31,11 +31,6 @@ If you want to inactivate a shipping method for a while but might want to offer 
 * **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
 * **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
 * **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
-
-{% hint style="danger" %}
-Under 'Categories' tick all boxes which apply to your food enterprise ie. if you sell products listed with a shipping category of 'frozen' then in order for the customer to be able to successfully checkout their shopping, the 'frozen' category will need to be checked in their desired shipping method.
-{% endhint %}
-
 * **Zones:** Select the appropriate zone \(this is to enable correct tax calculations\).
 
 By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. 
