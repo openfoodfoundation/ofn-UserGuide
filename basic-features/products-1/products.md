@@ -20,7 +20,7 @@ Selezione dal menù a discesa l'azienda che produce e fornisce il prodotto.
 Se sei un produttore, seleziona la tua azienda. Se sei un hub, ricorda che potrai aggiungere prodotti solo ai profili di produttore che hai creato tu o, se ti è stata concessa l'autorizzazione, a gestire i prodotti di un profilo produttore. Vedi [qui](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/~/drafts/-MS3uKdhrm1QRYN11cIU/v/it/basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers) per maggiori informazioni.
 {% endhint %}
 
-**Product name:** This is the title of the product when displayed on the shop front.
+**Nome prodotto:** Questo è il nome prodotto che appare nel catalogo prodotti del negozio.
 
 **Units:** Choose the unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
 
