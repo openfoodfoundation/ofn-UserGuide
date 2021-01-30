@@ -1,6 +1,6 @@
 # Group Buy - for bulk ordering
 
-The **Group Buy** function is designed for enterprises who purchase some of their incoming stock in bulk quantities and resell them in smaller units \(for example, purchasing a 25 kg bag of rice and retailing to customers per kg\).
+El **Group Buy** function is designed for enterprises who purchase some of their incoming stock in bulk quantities and resell them in smaller units \(for example, purchasing a 25 kg bag of rice and retailing to customers per kg\).
 
 Bulk purchasing is a common practice for **buying groups**, who, by buying large volumes, can benefit from wholesale prices in the same way as conventional distributors.  By dong so, members to access food much cheaper than they might be able to from high street retailers. 
 
