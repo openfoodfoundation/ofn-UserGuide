@@ -19,8 +19,6 @@ Se solicita al cliente que indique:
 Básicamente, esta es una forma de que el cliente diga _"tiene mi permiso para aumentar mi pedido hasta este punto, si eso significa que, como grupo, podemos lograr la cantidad de pedido al por mayor"_.
 {% endhint %}
 
-
-
 En [Gestión de Pedidos al Por Mayor](../orders/view-orders.md#bulk-order-management), puede ver las cantidades totales mínimas y máximas de pedido del producto de todos sus clientes. Luego, puede aumentar los pedidos de los clientes, dentro de su rango aceptable, para lograr la cantidad a al por mayor, o si la cantidad máxima de pedido es insuficiente, puede eliminar todos los pedidos de este producto.
 
 ## Habilitando la Compra Grupal para un producto 
