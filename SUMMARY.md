@@ -23,7 +23,7 @@
     * [Propiedades del producto](basic-features/products-1/product-properties.md)
     * [Precios de la Carne y otros productos 'completos' de peso desconocido](basic-features/products-1/pricing-irregular-items-kg.md)
     * [Inventario](basic-features/products-1/inventory-tool.md)
-    * [Group Buy - for bulk ordering](basic-features/products-1/group-buy-for-bulk-ordering.md)
+    * [Compra Grupal: para pedidos al por mayor](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Product and Inventory import](basic-features/products-1/product-and-inventory-import.md)
   * [Shopfront](basic-features/shopfront/README.md)
     * [Shipping Methods](basic-features/shopfront/shipping-methods.md)
