@@ -1,30 +1,30 @@
-# Shipping Methods
+# Metodi di Spedizione
 
 {% hint style="warning" %}
- You **must** create at least one shipping method before you can open your shop.
+ Devi creare almeno un metodo di spedizione prima di poter aprire il tuo negozio. 
 {% endhint %}
 
-Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
+Qui sotto trovi un breve tutorial \(in inglese\):
 
 ![](../../.gitbook/assets/shippingmethod.gif)
 
-## Setting up a shipping method
+## Impostare un metodo di spedizione
 
-* Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
-* Click **Create new shipping method +** . You will be directed to a page like this:
+* Puoi accedere alla pagina "Metodi di Spedizione" cliccando su **Aziende** nel menù azzurro orizzontale e poi su **Impostazioni**, accanto al nome della tua azienda. La voce "**Metodi di Spedizione**" si trova nel menù laterale a sinistra.
+* Clicca su **Crea un nuovo metodo di spedizione**. Sarai indirizzato ad una pagina come questa:
 
 ![](../../.gitbook/assets/shippingmethods.jpg)
 
-* Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
-* **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
+* Controlla il riquadro a destra "HUB". Puoi selezionare le aziende \(anche più di una, se occorre\) a cui applicare il metodo di spedizione che stai creando. 
+* **Nome**: Scegli un nome per il metodo. Questo nome sarà visibile nella schermata dedicata nel processo d'ordine e nelle mail di conferma che verranno inviate ai tuoi clienti. Esempio:
 
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
-* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\).
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Descrizione:** Aggiungi ulteriori dettagli, come l'indirizzo completo del punto di ritiro. Questi dettagli saranno mostrati in un riquadro grigio di fianco al nome, quando selezionato.
+* **Visualizza:** Puoi scegliere tra "Solo Back Office" o "Entrabi Checkout e back office"
 
 {% hint style="info" %}
-If you want to inactivate a shipping method for a while but might want to offer it again in the future \(perhaps a summer only collection point that you don't want to be available to customers in the winter\) then change it to 'Back Office Only'.
+Se vuoi disattivare un metodo di spedizione temporaneamente, ma hai intenzione di riattivarlo in seguito \(ad esempio un punto di ritiro estivo, non attivo in inverno\) allora puoi selezionare "Solo Back Office".
 {% endhint %}
 
 * **Category:** Is this method a delivery or pick-up?

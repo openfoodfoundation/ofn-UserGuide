@@ -26,7 +26,7 @@
     * [Group Buy - for bulk ordering](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Product and Inventory import](basic-features/products-1/product-and-inventory-import.md)
   * [Vetrina](basic-features/shopfront/README.md)
-    * [Shipping Methods](basic-features/shopfront/shipping-methods.md)
+    * [Metodi di Spedizione](basic-features/shopfront/shipping-methods.md)
     * [Payment Methods](basic-features/shopfront/payment-methods.md)
     * [Enterprise Fees](basic-features/shopfront/enterprise-fees.md)
     * [Order cycles](basic-features/shopfront/order-cycle/README.md)
