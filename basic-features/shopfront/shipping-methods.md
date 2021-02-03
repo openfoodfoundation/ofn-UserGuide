@@ -27,46 +27,45 @@ Qui sotto trovi un breve tutorial \(in inglese\):
 Se vuoi disattivare un metodo di spedizione temporaneamente, ma hai intenzione di riattivarlo in seguito \(ad esempio un punto di ritiro estivo, non attivo in inverno\) allora puoi selezionare "Solo Back Office".
 {% endhint %}
 
-* **Category:** Is this method a delivery or pick-up?
-* **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
-* **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
-* **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
-* **Zones:** Select the appropriate zone \(this is to enable correct tax calculations\).
+* **Categoria:** si tratta di consegna o ritiro?
+* **Tag:** inserisci qui le tue etichette se intendi differenziare i metodi di spedizione tra consumatori. Le tag possono esserti utili ad esempio se intendi offrire consegne gratuite ad un determinato tipo di utenti, o se vuoi proporre la consegna a domicilio solo a coloro che  sono registrati con un indirizzo nelle vicinanze o altro. Approfondisci [qui](customer-management-and-conditional-displays-prices/).
+* **Calcolatore:** Seleziona la modalità con cui la tariffa verrà applicata al tuo metodo di spedizione. Una tariffa di spedizione può anche essere uguale a 0. Leggi sotto per maggiori dettagli. 
+* **Categorie:** Le condizioni di trasporto \(refrigerato, surgelati, default\) associate con questo metodo di spedizione. 
+* **Zone:** Seleziona la zona appropriata \(questo permetterà il calcolo corretto delle imposte\).
 
-By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. 
+Cliccando su Crea, il metodo di spedizione verrà creato e compariranno nuovi campi, per aggiungere i dettagli delle tariffe. Questi campi dipendono da quale calcolatore di tariffa hai selezionato nella schermata precedente. 
 
 {% hint style="info" %}
-If you change the calculator type for a shipping method, you must **save first** before you can edit the calculator settings.
+Se modifichi il calcolatore di tarifa, devi **salvare prima** di poter modificare le impostazioni di dettaglio collegate. 
 {% endhint %}
 
 ## Fee Calculators
 
 ![](../../.gitbook/assets/shippingcalc.jpg)
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not contribute to the overall fee a customer is charged for shipping\)
+**Peso \(per kg\)** – questa tariffa è applicata ai prodotti in base ai kg. Questa tariffa sarà applicata solo ai prodotti che hanno il p rezzo al kg, non ai prodotti venduti a pezzo \(es. un prodotto venduto al mazzo non contribuirà alla tariffa totale che il cliene pagherà per la spedizione\)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount spent in the order.
+**Percentuale fissa** – Questa tariffa è calcolata come una percentuale sul totale della gentile richiesta.
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Tariffa fissa \(per gentile richiesta\) -** Questa tariffa è applicata indistintamente a tutte le gentili richieste, indipendentemente dalla loro dimensione.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached. 
+**Tariffa flessibile** **\(per numero articoli\)**– Questa tariffa è particolarmente utile se vuoi incoraggiare i consumatori a fare gentili richieste corpose: il costo di spedizione può essere ridotto a zero quando viene raggiunto il numero predefinito di articoli richiesti.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* "Costo primo articolo": la tariffa applicata al primo articolo della gentile richiesta.
+* "Costo articolo aggiuntivo": la tariffa applicata agli articoli successivi al primo.
+* ‘Max articoli’: il numero massimo di articoli a cui la tariffa verrà applicata. Per gli articoli successivi a questo numero, non verrà applicata alcuna tariffa.
 
 ![](../../.gitbook/assets/shippingfeeflex.jpg)
 
-> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3.   
-> A customer who purchases 5 items, will be charged £4 shipping \(£2 for the first item, £1 for items two and three, and £0 for items four and five\).
+> Per esempio: se "Costo primo articolo"= 2€, "Costo articolo aggiuntivo" = 1 € e "Max articoli"= 3, un consumatore che acquista 5 articoli, pagherà una tariffa di 4€ \(2€ per il primo articolo, 1€ per il secondo e il terzo articolo e 0€ per il quarto e il quinto\).
 
-**Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated shipping cost charged to a customer who, for example, buys rice by kg\).
+**Tariffa fissa \(per pezzo\)** – Questa tariffa fissa viene applicata a tutti gli articoli venduti al pezzo \(Non è applicata ai prodotti venduti a peso o a volume. Non ci sarà dunque nessuna maggiorazione per i consumatori che acquisteranno, ad esempio, un kg di arance\). 
 
-**Price Sack** – This is a flexible shipping fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Tariffa flessibile \(per importo totale\)** – Questa è una tariffa di spedizione flessibile, calcolata sull'importo monetario totale, invece che sul numero di articoli acquistati \(Tariffa flessibile per numero articoli descritta sopra\)
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal shipping fee and Discounted shipping fee. 
-* 'Normal Amount': Shipping fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Shipping fee applied to sales above the threshold stated in 'Minimum Amount'.
+* "Importo minimo": Minimum Amount’: Valore monetario della soglia tra la tariffa di spedizione normale e la tariffa di spedizione scontata. 
+* 'Tariffa Normale": Tariffa di spedizione applicata per importi inferiori al valore indicato in "Importo minimo".
+* ‘Tariffa Scontata": Tariffa di spedizione applicata ad importi superiori al valore indicato come "Importo minimo".
 
 ![](../../.gitbook/assets/shippingfeepc.jpg)
 
