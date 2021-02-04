@@ -1,7 +1,7 @@
 # Thermally printed receipts
 
 {% hint style="danger" %}
-This functionality is currently only available to OFN users in France. Contact your local OFN to for more details, or to request use of this feature.
+This functionality is currently only available to OFN users in France. Contact your local OFN for more details, or to request use of this feature.
 {% endhint %}
 
 ## Printer
