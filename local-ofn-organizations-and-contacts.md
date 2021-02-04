@@ -133,5 +133,5 @@ Por lo general, las entidades locales que brindan este servicio SAAS también br
 
 _\*Plataforma local manejada por voluntarias únicamente y no mantenida ni actualizada de forma regular. Podrían haber diferencias entre esta guía de usuarias y la plataforma local._
 
-_\*\*La proveedora local está en procceso de configurar la plataforma local y construir la oferta y el soporte a usuarias locales.al users._
+_\*\*La proveedora local está en proceso de configurar la plataforma local y construir la oferta y el soporte a usuarias locales.al users._
 
