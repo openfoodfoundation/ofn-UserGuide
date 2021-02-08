@@ -80,6 +80,16 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Germany</td>
+      <td style="text-align:left">Open Food Network DE</td>
+      <td style="text-align:left"><a href="https://www.openfoodnetwork.de">https://www.openfoodnetwork.de</a>
+      </td>
+      <td style="text-align:left">
+        <p>German</p>
+        <p>English</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Italy**</td>
       <td style="text-align:left">OFN Italy</td>
       <td style="text-align:left"><a href="https://app.openfoodnetwork.it/">https://app.openfoodnetwork.it/</a>
