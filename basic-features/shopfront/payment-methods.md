@@ -1,17 +1,17 @@
-# Payment Methods
+# Metodi di Pagamento
 
 {% hint style="danger" %}
-You **must** create at least one payment method before you can open your shop.
+**Devi** creare almeno un metodo di pagamento prima di poter aprire il tuo negozio. 
 {% endhint %}
 
-Before you read on, you might like to look at a quick demonstration of how to set up your first payment method:
+Prima di proseguire con la lettura, puoi dare un'occhiata a questa breve presentazione di come impostare il tuo primo metodo di pagamento:
 
 ![](../../.gitbook/assets/paymentmethod.gif)
 
-## Setting up a Payment Method
+## Impostare un Metodo di Pagamento
 
-* Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
-* Click **Create new payment method +** . You will be directed to a page like this:
+* Puoi accedere alla pagina "Metodi di Pagamento", cliccando su **Aziende** nel menù azzurro orizzontale e poi su **Impostazioni** vicino al nome della tua azienda. La voce **Metodi di Pagamento** si trova nel menù laterale a sinistra. 
+* Clicca su **Crea un nuovo metodo di pagamento +**. Sarai indirizzato ad una pagina come questa:
 
 ![](../../.gitbook/assets/paymentmethods2.jpg)
 
