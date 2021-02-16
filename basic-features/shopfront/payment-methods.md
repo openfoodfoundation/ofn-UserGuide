@@ -15,49 +15,48 @@ Prima di proseguire con la lettura, puoi dare un'occhiata a questa breve present
 
 ![](../../.gitbook/assets/paymentmethods2.jpg)
 
-* Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
-* **Name:** Choose a name for this payment method. \(eg 'Pay with credit card using Paypal'\). This name is displayed at checkout and on customers' order confirmation emails.
+* Seleziona la tua azienda nel riquadro a destra "Hub". Questo indica a quali aziende verrà applicato il metodo di pagamento che stai per creare. Puoi selezionare più di un'azienda.
+* **Nome:** Scegli un nome per questo metodo di pagamento \(es. "Pagamento in contanti" o "Bonifico", ecc.\) Questo nome sarà visualizzato nella pagina di conferma della gentile richiesta e nella mail che riceveranno i clienti. 
 
 ![](../../.gitbook/assets/paymentmethod2.jpg)
 
-* **Description:** provide further details about the payment method. For example, for a bank transfer, you would enter the bank account details in this box into which you would like a customer to make the BACS payment. This description is displayed at checkout and in order confirmation emails.
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Descrizione:** inserisci maggiori dettagli circa il metodo di pagamento. Per esempio, per un pagamento via bonifico, inserisci i dati bancari per effettuarlo. La descrizione sarà visibile in un riquadro grigio che appare quando viene selezionato il metodo di pagamento nella pagina di conferma della gentile richiesta, oltre che nella mail di conferma che riceveranno i clienti.
+* **Visualizza:** puoi optare per "solo Backoffice" o "Entrambi Checkout e Backoffice"
 
 {% hint style="info" %}
-If you want to inactivate a payment method for a while but might want to offer it again in the future \(perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection\) then change it to 'Back Office Only'.
+Se vuoi disattivare temporaneamente un metodo di pagamento ma potresti volerlo riattivare in seguito \(ad esempio se per il COVID dovessi temporaneamente non permettere il pagamento in contanti\) allora cambialo in "Solo Backoffice". 
 {% endhint %}
 
 {% hint style="warning" %}
-Changing all your enterprise's payment methods to 'Back Office Only' will result in a [Display Only Shopfront](display-only-order-cycles.md) for active order cycles.
+Se scegli "Solo Backoffice" per tutti i tuoi metodi di pagamento, otterrai una [Vetrina di sola visualizzazione](display-only-order-cycles.md) per i cicli di richiesta attivi.
 {% endhint %}
 
-* **Active:** Select whether this payment method is currently visible and available, or not.
-* **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
-* **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:
+* **Attivo:** Scegli se il metodo di pagamento sarà visibile e disponibile o no. 
+* **Tag:** Usa le regole di tag se vuoi rendere un determinato metodo di pagamento disponibile/non disponibile per determinati consumatori \(per esempio potresti voler permettere solo ai rivenditori di pagare con bonifico bancario e ai consumatori al dettaglio permettere solo il pagamento con carta di credito o PayPal\). Per maggiori informazioni, leggi [qui](customer-management-and-conditional-displays-prices/).
+* **Provider**: Seleziona l'opzione adatta al metodo di pagamento che stai creando. Al momento ci sono 5 opzioni: 
   * MasterCard Internet Gateway Service \(MIGS\) 
   * PayPal Express 
-  * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
   * Stripe
   * Stripe SCA
-  * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
+  * Contanti o altri metodi di pagamento per cui non è richiesta una validazione automatica \(Contanti, bonifico, ecc.\)  
 
 ![](../../.gitbook/assets/payment-methods1.jpg)
 
-* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
+* **Calcolatore:** Seleziona come desideri applicare eventuali tariffe legate al metodo di pagamento. Nota che le tariffe possono essere impostate a zero. Leggi qui sotto per maggiori informazioni sulle  [Tariffe dei metodi di pagamento](payment-methods.md#fee-calculators). 
 
-By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
+Cliccando su "Crea", il metodo di pagamento verrà creato e saranno disponibili nuovi campi per definire le tariffe collegate. Questi campi dipendono dal "Calcolatore" selezionato in precedenza.  
 
 {% hint style="info" %}
-If you change the Payment Method fee 'Calculator' field you must first save your changes \(Update\) for the new associated fields to become visible.
+Se modifichi il campo "Calcolatore", per poter visualizzare i nuovi campi collegati, dovrai prima salvare le tue modifiche \(Aggiorna"\)
 {% endhint %}
 
-## Integrated Payment Providers
+## Provider di Pagamenti Integrati con OFN
 
-For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional instructions are below.
+Qui sotto trovi ulteriori informazioni per i pagamenti con Paypal, MasterCard, Stripe.
 
 {% tabs %}
 {% tab title="Paypal" %}
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
+Per impostare un metodo di pagamentoTo setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
 2. Under your account name on the top right there is a drop down menu with 'Account Settings'
