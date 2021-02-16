@@ -56,44 +56,44 @@ Qui sotto trovi ulteriori informazioni per i pagamenti con Paypal, MasterCard, S
 
 {% tabs %}
 {% tab title="Paypal" %}
-Per impostare un metodo di pagamentoTo setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
+Per impostare un metodo di pagamento, è necessario che tu abbia un account business o commerciale su PayPal. Puoi crearne uno [qui](https://www.paypal.com/au/webapps/mpp/merchant). Una volta creato, puoi impostare l'"accesso API" dentro PayPal, che abiliterà OFN a collegare i consumatori direttamente con il tuo account su PayPal. 
 
-1. Login to your PayPal Account
-2. Under your account name on the top right there is a drop down menu with 'Account Settings'
+1. Accedi al tuo account PayPal
+2. Sotto al nome del tuo account in alto a destra c'è un menù a tendina con "Impostazioni Account"
 
 ![](../../.gitbook/assets/paypalmay1.jpg)
 
-3. Select 'Update' from API Access
+3. Seleziona "Aggiorna" in "Accesso API"
 
 ![](../../.gitbook/assets/paypalmay2.jpg)
 
-4. Select 'Manage API credentials' from the custom checkout experience option.
+4. Seleziona "Gestisci credenziali API" dalla pagina di personalizzazione dell'esperienza del Checkout. 
 
 ![](../../.gitbook/assets/paypalmay3.jpg)
 
-From here you will be able to access your API username, password and signature.
+Da qui potrai accedere a username, password e firma delle tue API.
 
 ![](../../.gitbook/assets/paypalmay4.jpg)
 
-**In OFN,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
+**In OFN,** assicurati di aver effettuato l'accesso come Profilo Azienda. Vai su un Azienda e crea un Metodo di Pagamento. Seleziona PayPal ed inserisci i dettagli dal sito di PayPal. 
 
-**Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
+**Server:** Cambia il campo "Server" in "live".
 
-**Login:**Type the API Username.
+**Accedi:** Digita lo username API.
 
-**Password:**Type the API Password.
+**Password:** Digita la password API.
 
-**Signature:**Type the API Signature in this field.
+**Firma:** Digita la firma API. 
 
 ![](../../.gitbook/assets/paypal3.jpg)
 
-**Solution:** Solution determines whether or not a user needs a PayPal account to check out.
+**Soluzione:** Determina se un consumatore ha bisogno o no di un account PayPal per effettuare il checkout. 
 
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account \(with credit card\).
+Digita “Mark” se vuoi che i consumatori abbiano un account PayPal, o "Sole" se possono effettuare il checkout senza avere un account su PayPal \(con carta di credito\).
 
-**Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
+**Landing Page:** Puoi selezionare quale pagina mostrare ai consumatori quando verranno ridiretti su PayPal.
 
-Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
+Digita "login" per indirizzare i consumatori alla pagina di accesso \(se hai selezionato "Mark" precedentemente\). O dicita "Billing" per mostrare ai consumatori il modulo dove inserire i dati della propria carta di credito ed eventualmente registrare un account su PayPal \(se hai selezionato "Sole" precedentemente\).
 {% endtab %}
 
 {% tab title="MIGS" %}
@@ -177,23 +177,23 @@ For Pin Payments you only require your API key. You need to set up an account wi
 {% endtab %}
 {% endtabs %}
 
-## Payment Method Fees
+## Tariffe per i Metodi di Pagamento
 
 ![](../../.gitbook/assets/fee-calculators.png)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
+Puoi inserire una tariffa per i metodi di pagamento. Solitamente è utilizzato per attribuire ai consumatori l'eventuale ricarico richiesto dal portale di pagamento. Ad esempio puoi caricaricare sul consumatore che sceglie PayPal come metodo di pagamento la commissione richiesta da PayPal.
 
 {% hint style="danger" %}
-Payment Method Fees DO NOT include tax \(VAT\)
+Le tariffe per i Metodi di Pagamento NON includono imposte \(IVA\)
 {% endhint %}
 
-### Fee Calculators
+### Calcolatore Tariffe
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Percentuale fissa:** Questa tariffa è calcolata come percentuale sull'importo totale della gentile richiesta. ****
 
-**Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Tarriffa fissa \(per gentile richiesta\):** Questa tariffa è applicata indistintamente a tutte le gentili richieste, indipendentemente dalla dimensione dell'importo. ****
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached. 
+**Tariffa Flessibile:** Questo tipo di tariffa è particolarmente utile se intendi incoraggiare i consumatori a fare gentili richieste sostanziose: ad esempio il costo del pagamento può essere ridotta a zero quando viene raggiunto un numero minimo di articoli richiesti. 
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
