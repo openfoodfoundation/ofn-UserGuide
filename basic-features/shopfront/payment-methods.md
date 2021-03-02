@@ -191,35 +191,35 @@ Le tariffe per i Metodi di Pagamento NON includono imposte \(IVA\)
 
 **Percentuale fissa:** Questa tariffa è calcolata come percentuale sull'importo totale della gentile richiesta. ****
 
-**Tarriffa fissa \(per gentile richiesta\):** Questa tariffa è applicata indistintamente a tutte le gentili richieste, indipendentemente dalla dimensione dell'importo. ****
+**Tariffa fissa \(per gentile richiesta\):** Questa tariffa è applicata indistintamente a tutte le gentili richieste, indipendentemente dalla dimensione dell'importo. ****
 
 **Tariffa Flessibile:** Questo tipo di tariffa è particolarmente utile se intendi incoraggiare i consumatori a fare gentili richieste sostanziose: ad esempio il costo del pagamento può essere ridotta a zero quando viene raggiunto un numero minimo di articoli richiesti. 
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* Costo Primo Articolo: la tariffa applicata al primo articolo richiesto.
+* Costo Articoli successivi: la tariffa applicata agli articoli successivi al primo. 
+* ‘Max Articoli’: In numero massimo di articoli a cui verrà applicata la tariffa. Gli articoli acquistati oltre questo numero non saranno considerati nel calcolo della tariffa. 
 
 ![](../../.gitbook/assets/paymentflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> Per esempio: Se il "Costo Primo Articolo" è impostato a 0,20€, il "Costo Articoli Aggiuntivi" a 0,10€ e il "Max Articoli" è 3, un consumatore che acquista 5 articoli pagherà una tariffa di 0,40€ \(0,20€ per il primo articolo, 0,10€ per il secondo, 0,10€ per il terzo e 0€ per i due articoli successivi\).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated payment method fee charged to a customer who, for example, buys rice by kg.\)
+**Tariffa Fissa \(per articolo\):** Questa tariffa viene applicata a tutti gli articoli elencati al "pezzo". Non viene applicata agli articoli venduti a peso o a volume. Dunque un consumatore che acquisti solo prodotti al kg non pagherà alcuna triffa. 
 
-**Price Sack:** This is a flexible payment fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Tariffa flessibile \(per importo totale\):** Questa tariffa si applica all'_importo monetario totale_ invece che al numero di articoli acquistati \(Tariffa Flessibile qui sopra\) 
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Payment Method fee and Discounted Payment Method fee. 
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* ‘Importo Minimo’: Valore monetario soglia tra la "Tariffa Normale" e la "Tariffa Scontata". 
+* 'Tariffa Normale': Tariffa applicata per importi minori dell'"Importo Minimo". 
+* ‘Tariffa Scontata": Tariffa applicata per importi maggiori dell'"Importo Minimo". 
 
 ![](../../.gitbook/assets/paymentpc.jpg)
 
 {% hint style="info" %}
-Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once. 
+I portali di pagamento generalmente applicano alle imprese un importo fisso per transazione più una piccola percentuale dell'importo totale. Dunque le tariffe dovute da Hub o Negozi i cui clienti effettuano molti piccoli acquisti saranno maggiori rispetto a quelle applicate a Hub o Negozi i cui clienti facciano un unico acquisto con lo stesso importo totale. 
 
-The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
+Le tariffe flessibili applicate ai metodi di pagamento possono essere utili a stimolare acquisti più sostanziosi, per controbilanciare questo squilibrio.
 {% endhint %}
 
-## Refunds
+## Rimborsi
 
-Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found [here](../orders/refund-payments.md).
+Gestire eventuali rimborsi dipende dal metodo di pagamento utilizzato in origine dal consumatore per pagare la propria gentile richiesta. [Qui](../orders/refund-payments.md) maggiori dettagli.
 
