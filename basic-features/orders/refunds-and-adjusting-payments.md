@@ -26,10 +26,6 @@ Using the OFN Platform, you can either process a Total refund, or make an adjust
 
 To issue a refund, select the relevant payment method from the tabs below:
 
-{% hint style="warning" %}
-For all methods it is best practice to refund the payment to the customer before you mark the order as cancelled. 
-{% endhint %}
-
 {% tabs %}
 {% tab title="Cash/BACS" %}
 For non-automated payment methods \(such as cash on collection or BACS\), there are two scenarios:
@@ -74,7 +70,7 @@ This will automatically send the payment back to the credit or debit card used b
 Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
 {% endhint %}
 
-Once you have issued a refund, follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled). It is important to process the refund BEFORE you cancel the order! 
+Once you have issued a refund, follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled). 
 {% endtab %}
 
 {% tab title="PayPal" %}
