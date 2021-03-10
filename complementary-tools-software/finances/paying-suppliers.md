@@ -6,7 +6,7 @@ This page describes a couple of ways that users can pay their suppliers.
 
 ## **Working out how much you owe your suppliers**
 
-You can use [Reports ](../../basic-features/reports.md)to get a breakdown of the value of goods sold from each supplier. The [Order Cycle Supplier Totals](../../basic-features/reports.md#order-cycle-supplier-totals) report gives the total value of goods sold from each supplier. Alternatively you can download the Order Cycle Customer Totals report and create some pivot tables to extract the data you need.
+You can use [Reports ](../../basic-features/reports/)to get a breakdown of the value of goods sold from each supplier. The [Order Cycle Supplier Totals](../../basic-features/reports/#order-cycle-supplier-totals) report gives the total value of goods sold from each supplier. Alternatively you can download the Order Cycle Customer Totals report and create some pivot tables to extract the data you need.
 
 ## **Paying suppliers**
 

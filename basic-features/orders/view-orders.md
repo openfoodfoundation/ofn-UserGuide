@@ -44,7 +44,7 @@ The page has filters which allow you to select which orders you want to view. Yo
 You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid' or 'Credit Owed'
 {% endhint %}
 
-**Customer email:** The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’ [report](../reports.md).
+**Customer email:** The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’ [report](../reports/).
 
 **Total:** The total value of the customer’s order
 

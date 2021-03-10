@@ -20,7 +20,7 @@ In what follows, the features of OFN are explained in a "double chronological wa
 * [shopfront](shopfront/)
 * [orders](orders/)
 * [subscriptions](subscriptions/)
-* [reports](reports.md)
+* [reports](reports/)
 * [dashboard](dashboard.md)
 * [groups](groups/)
 

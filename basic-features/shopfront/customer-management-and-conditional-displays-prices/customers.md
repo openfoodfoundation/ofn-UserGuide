@@ -31,5 +31,5 @@ Careful when you are adding the same tag to multiple customers \(so that they be
 
 ![](../../../.gitbook/assets/customertags.jpg)
 
-Tags also appear in [reports](../../reports.md). You can use them during csv / excel exports to quickly filter data.
+Tags also appear in [reports](../../reports/). You can use them during csv / excel exports to quickly filter data.
 

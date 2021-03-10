@@ -49,6 +49,9 @@ This is a list of product and enterprise properties available in the UK:
 {% endtab %}
 
 {% tab title="USA" %}
+
+
+* AB
 * Certified Organic 
 * Grass Fed and Finished
 * Pasture Raised 
@@ -63,6 +66,21 @@ This is a list of product and enterprise properties available in the UK:
 * Conventionally Grown 
 * Organically grown or raised, not certified 
 * Hand crafted
+{% endtab %}
+
+{% tab title="FRANCE" %}
+* AB
+* EU bio
+* Demeter
+* Raisonné
+* Elevé sous la mère
+* Bio cohérence
+* Nature & Progrès
+* Paysans de nature
+* Autre bio
+* MSV
+* Conversion
+* Tinda
 {% endtab %}
 
 {% tab title="" %}

@@ -18,7 +18,7 @@ Congrats!  Your shop is now live!
 
 When you start receiving orders, you can manage them in the[ orders](../basic-features/orders/) section.  
 
-All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports.md) section.
+All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports/) section.
 
 ## More advanced features you might need
 
