@@ -16,13 +16,9 @@ Per aggiungere un nuovo gestore ed eventualmente trasferire la proprietà, ecco 
 Attenzione: devi cercare l'email esatta completa. Ti consigliamo di cercare nell'elenco degli utenti copiando e incollando l'intero indirizzo email.
 {% endhint %}
 
-**Case 2: The Producer in question does not yet have a user account with OFN:**  
-In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.   
-The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
-
 **Caso 2: il produttore in questione non dispone ancora di un account utente con OFN:** In questo caso, non riesci a trovare la sua email quando digiti nella casella "Aggiungi un utente esistente". È quindi necessario fare clic su "Aggiungi un utente non registrato" appena sotto, accanto al campo "Invita Referente". Il produttore riceverà quindi un'e-mail dalla piattaforma per confermare la registrazione. Seguendo le istruzioni dettagliate nell'e-mail, potrà completare la configurazione del proprio account OFN, inclusa l'aggiunta di una password.
 
-Una volta che il produttore è un **Referente** del profilo aziendale che hai creato per lui, puoi scegliere di nominarlo il Proprietario e/o il contatto che riceve la notifica dell'ordine. In questa fase, come gestore hub potresti voler rimuovere te stesso dall'elenco dei referenti.
+Una volta che il produttore è un **Referente** del profilo aziendale che hai creato per lui, puoi scegliere di nominarlo Proprietario e/o il contatto che riceve la notifica dell'ordine. In questa fase, come gestore hub potresti voler rimuovere te stesso dall'elenco dei referenti.
 
 {% hint style="warning" %}
 Non dimenticare di fare clic su "Aggiorna" per salvare le modifiche!
