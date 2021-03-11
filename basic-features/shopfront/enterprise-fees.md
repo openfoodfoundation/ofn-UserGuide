@@ -1,49 +1,48 @@
-# Enterprise Fees
+# Tariffe dell'Azienda
 
-Enterprise fees are useful for producers and hubs who are working together: it allows costs associate with admin, packing, transport, sales and fundraising to be allocated to different parties.
+Le Tariffe aziendali sono utili per i produttori e gli hub che lavorano insieme: permette di collegare a soggetti differenti i costi di gestione di ciascuna fase \(amministrazione, confezionamento, trasporto, vendita, quote associative o di autofinanziamento\).
 
-For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs \(storage of products prior to distribution, salaries of people who manage and coordinate sales...\)
+Per esempio, un hub potrebbe decidere di applicare una tariffa del 10% su tutti i prodotti che vende, per coprire i propri costi amministrativi \(immagazzinamento dei prodotti, salari di chi si occupa delle vendite, ecc.\)   
+Per i produttori che si occupano autonomamente della vendita dei propri prodotti, questi costi sono già inclusi nel prezzo dei prodotti e dunque applicare queste tariffe potrebbe non essere necessario. 
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
-
-One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+Uno dei vantaggi di OFN per il consumatore è la trasparenza sul prezzo. Chi acquista può vedere la composizione del prezzo di ciascun prodotto. Questa informazione è visualizzabile cliccando nel grafico a torta accanto al prezzo di ciascun prodotto in vetrina: 
 
 ![An enterprise fee in a shopfront](../../.gitbook/assets/enterprsie-fee-in-shopfront.png)
 
-Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
+Prima di proseguire, puoi dare un'occhiata a questa rapida dimostrazione su come impostare la tua prima tariffa aziendale: 
 
 ![](../../.gitbook/assets/enterprisefeefirst.gif)
 
-## Setting up an Enterprise Fee
+## Impostare una Tariffa dell'Azienda
 
-* Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create one now**  \(or **Manage Enterprise Fees** if you have already set one up and would like to edit it\). You will be directed to a page like this:
+* Vai alla pagina Tariffe dell'Azienda, cliccando su **Aziende** nel menù blu orizzontale e poi su **Impostazioni** accanto al nome della tua azienda. La pagina delle **Tariffe dell'Azienda** si trova quindi nel menù a sinistra. 
+* Clicca su **Creane una ora -&gt;** \(o **Gestisci Tariffe dell'Azienda**, se ne hai già creata una e intendi modificarla\). Sarai re-diretto ad una pagina come questa:  
 
 ![](../../.gitbook/assets/enterprisefeecreate.jpg)
 
-**Enterprise:** In the first column, select the enterprise to which the fee applies.
+**Azienda:** Nella prima colonna, seleziona l'azienda a cui applicare la tariffa. 
 
-**Fee Type:** Select the service that this fee applied to.  The options are Packing Fee,  Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Tipo Tariffa:** Seleziona il servizio a cui è collegata la tariffa. Le opzioni sono: Tariffa imballaggio, Tariffa trasporto, Contributo amministrativo, Commissione di vendita o Contributo Raccolta Fondi. .
 
-**Name:** Choose a name for this fee.
+**Nome:** Scegli un nome per questa tariffa. ****
 
-**Tax Category:** Select the appropriate tax rate.  In most cases the VAT rate for the enterprise fee will be inherited from the product.  If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.
+**Categoria d'imposta:** Seleziona la categoria appropriata. Nella maggiorparte dei casi l'IVA della tariffa sarà ereditata dal prodotto. Se la tariffa è associata ad un servizio aggiunto al prodotto, la tariffa potrebbe essere soggetta ad un IVA differente. \[If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.\]
 
-**Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Calcolatore:** La tariffa può essere calcolata in diversi modi. Seleziona il tipo di calcolatore adatto. ****
 
-Click Update, to create the enterprise fee. 
+Clicca su **Aggiorna** per creare la tariffa.
 
 {% hint style="info" %}
-You will only be able to specify rates or values \(in the 'calculator values' column after the Enterprise Fee has been created.
+Potrai specificare le percentuali o i valori della calcolatrice \(nella colonna "Valori della calcolatrice"\) solo dopo aver creato la Tariffa dell'Azienda. 
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpg)
 
-## Fee Calculators
+## Calcolatori della Tariffa
 
-![](../../.gitbook/assets/enterprisefee3.jpg)
+![](../../.gitbook/assets/tariffe-dellazienda.png)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
+**Percentuale fissa** – This fee is charged as a percentage of the total amount charged in the order.
 
 **Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.\)
 

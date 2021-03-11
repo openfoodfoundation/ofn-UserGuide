@@ -28,7 +28,7 @@
   * [Vetrina](basic-features/shopfront/README.md)
     * [Metodi di Spedizione](basic-features/shopfront/shipping-methods.md)
     * [Metodi di Pagamento](basic-features/shopfront/payment-methods.md)
-    * [Enterprise Fees](basic-features/shopfront/enterprise-fees.md)
+    * [Tariffe dell'Azienda](basic-features/shopfront/enterprise-fees.md)
     * [Order cycles](basic-features/shopfront/order-cycle/README.md)
       * [Order Cycles \(for Hubs\)](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)
       * [Order Cycles \(for Shops\)](basic-features/shopfront/order-cycle/order-cycles-for-producers.md)
