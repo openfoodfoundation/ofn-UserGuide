@@ -1,127 +1,133 @@
 ---
 description: >-
-  This page explains how both producers can to import product details and
-  distributors can set up their hub inventory in bulk.
+  Esta página explica cómo los productores pueden importar detalles del producto
+  y los distribuidores pueden configurar el inventario del hub/nodo de forma
+  masiva
 ---
 
-# Product and Inventory import
+# Importación de Productos e Inventarios
 
-The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
+La herramienta de importación de productos e inventario le permite cargar un archivo .csv para agregar y actualizar sus existencias. Esto puede ser mucho más rápido y eficiente que agregar o actualizar productos uno por uno. Para los productores que ya actualizan un catálogo de sus productos en una hoja de cálculo de Excel con regularidad, ¡esto puede ahorrar mucho tiempo!
 
-The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
+La herramienta de importación de productos e inventario se puede encontrar haciendo clic en Productos en el menú azul horizontal e **Importación de productos** en el menú verde.
 
-There's four main ways you can use the tool:
+Hay cuatro formas principales de utilizar la herramienta:
 
-1. Import new [products](./)
-2. Update existing product details
-3. Import products to a new shop/hub [inventory](inventory-tool.md) 
-4. Update products in a shop/hub inventory
+1. Importar nuevos [productos](./)
+2. Actualizar los detalles del producto existente
+3. Importar productos a un nuevo [inventario](inventory-tool.md) de tienda / hub\(nodo\)
+4. Actualizar productos en un inventario de tienda / hub\(nodo\)
 
 {% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
+Si necesita esta funcionalidad, infórmeselo a [su OFN local](https://openfoodnetwork.org/ofn-local/). Agradecemos sus comentarios.
 {% endhint %}
 
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+En todos los casos, el proceso implica descargar una plantilla csv, completar los campos y luego cargar su archivo csv nuevamente en OFN.
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .cvs files directly.   
-If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)   
-With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.   
-If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+**Nota importante sobre archivos CSV**: Microsoft Excel no abre archivos .cvs directamente.
+
+Si puede, le sugerimos que descargue la suite Libre Office gratuita [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)
+
+Con Libre Office Calc, podrá abrir y editar CSV fácilmente y guardarlos en el formato de codificación correcto UTF-8.
+
+Si no puede usar Libre Office, para abrir un archivo CSV en Microsoft Excel, debe seguir los siguientes pasos: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
 {% endhint %}
 
 {% hint style="danger" %}
-Not all fields can be captured and uploaded/updated using this tool.  Currently, [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
+No todos los campos se pueden capturar y cargar / actualizar con esta herramienta. Actualmente, las [Imágenes](products.md), [Propiedades](product-properties.md) y la [Configuración de Compra Grupal](group-buy-for-bulk-ordering.md) deben cargarse manualmente para cada producto.
 
-We hope to include these in future developments.
+Esperamos incluirlos en desarrollos futuros.
 {% endhint %}
 
-## Import New Products
+## Importar Nuevos Productos
 
-Use these instructions if you want to add new products to a producer's profile.
+Utilice estas instrucciones si desea agregar nuevos productos al perfil de un productor. 
 
 {% hint style="success" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+Puede cargar nuevos productos y actualizar productos existentes simultáneamente con una sola carga de CSV. Las instrucciones de esta guía están separadas para mayor claridad, pero puede combinar nuevos productos y actualizaciones en la misma hoja de cálculo.
 {% endhint %}
 
-### Prepare the CSV file for import
+### Prepare el archivo CSV para importar
 
-Firstly, download the **Product List Template CSV** file from the **Product Import** page and open it with Libre Office \(Excel or equivalent\).
+En primer lugar, descargue el archivo CSV **Plantilla de Lista de Productos** de la página de **Importación de Productos** y ábralo con Libre Office \(Excel o equivalente\).
 
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+Verá que la plantilla proporciona todos los encabezados de columna necesarios para importar correctamente un producto. Cada fila es para un nuevo producto o variante. A continuación se muestra una descripción de cómo completar cada columna.
 
 {% hint style="danger" %}
-Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
+Tenga en cuenta que todos los campos distinguen entre mayúsculas y minúsculas. P.ej. debe usar mL no ml, o Lácteos no lácteos.
 {% endhint %}
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Column Title</th>
-      <th style="text-align:left">Required?</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Example</th>
+      <th style="text-align:left">T&#xED;tulo de la Columna</th>
+      <th style="text-align:left">&#xBF;Requirido?</th>
+      <th style="text-align:left">Descripci&#xF3;n</th>
+      <th style="text-align:left">Ejemplo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">producer</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">This is the name of the producer profile that this product will be assigned
-        to</td>
+      <td style="text-align:left">Este es el nombre del perfil de productor al que se asignar&#xE1; este
+        producto</td>
       <td style="text-align:left">Four Mile Farm</td>
     </tr>
     <tr>
       <td style="text-align:left">sku</td>
       <td style="text-align:left">N</td>
-      <td style="text-align:left">The SKU code for this product</td>
+      <td style="text-align:left">El c&#xF3;digo SKU de este producto</td>
       <td style="text-align:left">AD001265</td>
     </tr>
     <tr>
       <td style="text-align:left">name</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">This is the name of the product</td>
+      <td style="text-align:left">Este es el nombre del producto</td>
       <td style="text-align:left">Yoghurt</td>
     </tr>
     <tr>
       <td style="text-align:left">display name</td>
       <td style="text-align:left">N</td>
-      <td style="text-align:left">This field applies if you are creating variants (see instructions below).
-        If you&apos;re not creating a variant leave this field blank.</td>
+      <td style="text-align:left">Este campo se aplica si est&#xE1; creando variantes (consulte las instrucciones
+        a continuaci&#xF3;n). Si no est&#xE1; creando una variante, deje este campo
+        en blanco</td>
       <td style="text-align:left">Rasberry Yoghurt</td>
     </tr>
     <tr>
       <td style="text-align:left">category</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">Which category does this product sit in? The categories available are
-        listed on the Product Import page</td>
-      <td style="text-align:left">Dairy</td>
+      <td style="text-align:left">&#xBF;A qu&#xE9; categor&#xED;a pertenece este producto? Las categor&#xED;as
+        disponibles se enumeran en la p&#xE1;gina de importaci&#xF3;n de productos</td>
+      <td
+      style="text-align:left">L&#xE1;cteos</td>
     </tr>
     <tr>
       <td style="text-align:left">units</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">The weight, volume or quantity value</td>
+      <td style="text-align:left">El peso, el volumen o el valor de la cantidad</td>
       <td style="text-align:left">500</td>
     </tr>
     <tr>
       <td style="text-align:left">unit_type</td>
       <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">What unit is it sold in (g, kg, T, mL, L)? If sold as an item (e.g. bunch)
-        leave blank</td>
+      <td style="text-align:left">&#xBF;En qu&#xE9; unidad se vende (g, kg, T, mL, L)? Si se vende como
+        un art&#xED;culo (p. Ej., Manojo) d&#xE9;jelo en blanco</td>
       <td style="text-align:left">g</td>
     </tr>
     <tr>
       <td style="text-align:left">variant_unit_name</td>
       <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">If the product is sold as an item (e.g loaf, bunch, pumpkin) write the
-        item type here</td>
-      <td style="text-align:left">Bunch</td>
+      <td style="text-align:left">Si el producto se vende como un art&#xED;culo (por ejemplo, pan, manojo,
+        calabaza) escriba el tipo de art&#xED;culo aqu&#xED;</td>
+      <td style="text-align:left">Manojo</td>
     </tr>
     <tr>
       <td style="text-align:left">price</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">The price of the product. If the item carries tax, this must be the tax
-        inclusive price.</td>
+      <td style="text-align:left">El precio del producto. Si el art&#xED;culo tiene impuestos, este debe
+        ser el precio con impuestos incluidos.</td>
       <td style="text-align:left">3.70</td>
     </tr>
     <tr>
@@ -130,46 +136,48 @@ Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy 
         <p>(in_stock)</p>
       </td>
       <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">If you have limited stock for the product type the stock level here. If
-        you have infinite stock available (you can always source it) enter 0 and
-        use the unlimited column</td>
+      <td style="text-align:left">Si tiene inventario limitado para el tipo de producto, indique el nivel
+        de inventario aqu&#xED;. Si tiene existencias infinitas disponibles (siempre
+        puede obtenerlas) ingrese 0 y use la columna ilimitada</td>
       <td style="text-align:left">40</td>
     </tr>
     <tr>
       <td style="text-align:left">available_on</td>
       <td style="text-align:left">N</td>
-      <td style="text-align:left">Leave blank</td>
+      <td style="text-align:left">Dejar en blanco</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">On_demand (unlimited)</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">If you have infinite stock available for this product, type 1, if you&apos;re
-        using on_hand leave blank. If you enter a number in in_stock <em>and</em> 1
-        in unlimited, the product will be unlimited.</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left">Si tiene existencias infinitas disponibles para este producto, escriba
+        1, si est&#xE1; usando on_hand d&#xE9;jelo en blanco. Si ingresa un n&#xFA;mero
+        en in_stock <em>y</em> 1 en ilimitado, el producto ser&#xE1; ilimitado</td>
+      <td
+      style="text-align:left">1</td>
     </tr>
     <tr>
       <td style="text-align:left">shipping_category</td>
       <td style="text-align:left">Y</td>
-      <td style="text-align:left">Which shipping category does this product sit in? The shipping categories
-        available are listed on the Product Import page</td>
+      <td style="text-align:left">&#xBF;En qu&#xE9; categor&#xED;a de env&#xED;o se incluye este producto?
+        Las categor&#xED;as de env&#xED;o disponibles se enumeran en la p&#xE1;gina
+        Importaci&#xF3;n de productos</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">tax_category</td>
       <td style="text-align:left">N</td>
-      <td style="text-align:left">If the price of your product includes tax type GST, if not leave blank</td>
-      <td
-      style="text-align:left">GST</td>
+      <td style="text-align:left">Si el precio de su producto incluye el tipo de impuesto IVA, si no, d&#xE9;jelo
+        en blanco</td>
+      <td style="text-align:left">IVA</td>
     </tr>
     <tr>
       <td style="text-align:left">description</td>
       <td style="text-align:left">N</td>
-      <td style="text-align:left">You can create a description, but you cannot update one. Please make sure
-        that the text you wrote matches the current description in case of an update.</td>
-      <td
-      style="text-align:left">This Yoghurt is made from local raspberries</td>
+      <td style="text-align:left">Puede crear una descripci&#xF3;n, pero no puede actualizarla. Aseg&#xFA;rese
+        de que el texto que escribi&#xF3; coincida con la descripci&#xF3;n actual
+        en caso de una actualizaci&#xF3;n</td>
+      <td style="text-align:left">Este yogur est&#xE1; elaborado con frambuesas locales</td>
     </tr>
   </tbody>
 </table>
