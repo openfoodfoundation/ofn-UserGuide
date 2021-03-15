@@ -182,18 +182,18 @@ Tenga en cuenta que todos los campos distinguen entre mayúsculas y minúsculas.
   </tbody>
 </table>
 
-#### Import Product Variants
+#### Importar Variantes de Producto
 
-In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\).  As long as the product name is the same, the rows will be imported as variants.  The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
+En el proceso de importación, las variantes se distinguen por las unidades \(como la ensalada que se vende en bolsas de 500 gy 750 g\) o los campos display\_name \(como un yogur que se vende en varios sabores\). Siempre que el nombre del producto sea el mismo, las filas se importarán como variantes. El siguiente ejemplo muestra una ensalada que viene en variantes de 500 g y 750 g, y un yogur que viene en varios sabores.
 
 | name | display\_name | price | units | unit\_type |
 | :--- | :--- | :--- | :--- | :--- |
-| Salad Bag |  | 3.50 | 500 | g |
-| Salad Bag |  | 5.50 | 750 | g |
-| Yoghurt | Banana | 4 | 500 | g |
-| Yoghurt | Strawberry | 4 | 500 | g |
+| Bolsa de Ensalada |  | 3.50 | 500 | g |
+| Bolsa de Ensalada |  | 5.50 | 750 | g |
+| Yoghurt | Banano | 4 | 500 | g |
+| Yoghurt | Fresa | 4 | 500 | g |
 
-The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading. In the case of the Salad Bag, the 'display\_name' field is blank, so the 'name' is used by default.
+La siguiente imagen muestra cómo se mostrarán estos productos en la tienda. Tenga en cuenta que el campo 'nombre' se convierte en el encabezado principal y el campo 'display\_name' se convierte en el encabezado secundario. En el caso de la Bolsa de Ensalada, el campo 'display\_name' está en blanco, por lo que el 'nombre' se usa por defecto.
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
