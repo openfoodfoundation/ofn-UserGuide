@@ -197,9 +197,9 @@ La siguiente imagen muestra cómo se mostrarán estos productos en la tienda. Te
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-#### Unit type examples
+#### Ejemplos de tipos de unidades
 
-Below are some examples to show how products with different units \(g, ml, kg and items\) should be uploaded.
+A continuación se muestran algunos ejemplos para mostrar cómo se deben cargar productos con diferentes unidades \(g, ml, kg y artículos\).
 
 | producer | **name** | **category** | **price** | **units** | **unit\_type** | **variant\_unit\_name** |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
@@ -208,25 +208,25 @@ Below are some examples to show how products with different units \(g, ml, kg an
 | Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |   |
 | Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |   | loaf |
 
-### Import the CSV
+### Importar el CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN. 
+Una vez que haya completado la **Plantilla CSV de la Lista de Productos**, estará listo para cargarlo en OFN.
 
-1. Go to **Products** &gt;  **Product Import.**
-2. **Select import type:** Select Product List
-3. **Select a spreadsheet to upload:** Find the csv file you wish to upload.
+1. Vaya a **Productos** &gt;  **Importación.**
+2. **Seleccione tipo de importación:** Seleccione Lista de  Productos
+3. **Seleccione la hoja de cálculo para cargar:** Encuentre el archivo csv que desea cargar.
 
-   Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unchecked. 
+   Debido a que está cargando nuevos productos, puede dejar sin marcar la casilla de verificación "_Establecer stock en cero para todos los productos existentes que no están presentes en el archivo"_. 
 
-4. Click **Upload**.
+4. Haga click en  **Subir**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. 
+Se le mostrará un resumen de su carga, incluidos los errores. También se le dirá cuántos productos está creando y cuántos está actualizando. Si está satisfecho con los resultados de la carga, haga clic en **guardar**.
 
 {% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
+Es una buena práctica comprobar que los productos se hayan subido o actualizado según lo previsto.
 {% endhint %}
 
-You can then upload another spreadsheet or go to the products page to view your new products.
+Luego puede cargar otra hoja de cálculo o ir a la página de productos para ver sus nuevos productos.
 
 ## Update Existing Product Details
 
