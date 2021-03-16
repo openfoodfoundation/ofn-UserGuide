@@ -228,19 +228,19 @@ Es una buena práctica comprobar que los productos se hayan subido o actualizado
 
 Luego puede cargar otra hoja de cálculo o ir a la página de productos para ver sus nuevos productos.
 
-## Update Existing Product Details
+## Actualizar los Detalles de Producto Existente
 
-The instructions below relate to updating the details of an existing product. This tool is intended as a quick way to update product prices and stock levels.
+Las instrucciones a continuación se relacionan con la actualización de los detalles de un producto existente. Esta herramienta está pensada como una forma rápida de actualizar los precios de los productos y los niveles de existencias.
 
 {% hint style="info" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+Puede cargar nuevos productos y actualizar productos existentes simultáneamente con una sola carga de CSV. Las instrucciones de esta guía están separadas para mayor claridad, pero puede combinar nuevos productos y actualizaciones en la misma hoja de cálculo.
 {% endhint %}
 
-### Prepare the CSV file for import
+### Prepare el archivo CSV para importar
 
-The process for updating product details is similar to [uploading new products](product-and-inventory-import.md#import-new-products). The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better. 
+El proceso para actualizar los detalles del producto es similar a [cargar nuevos productos](product-and-inventory-import.md#importar-nuevos-productos). El primer paso es descargar la **Plantilla de Lista de Productos** y completar los nombres de los productos y los nombres de los proveedores. Si tiene esta hoja de cálculo a mano de una carga anterior, aún mejor. 
 
-The system requires seven fields to correctly identify the product you want to update. There are four fields which can be updated and four fields which cannot using this tool.
+El sistema requiere siete campos para identificar correctamente el producto que desea actualizar. Hay cuatro campos que pueden actualizarse y cuatro campos que no pueden usar esta herramienta.
 
 | Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
 | :--- | :--- | :--- |
@@ -252,17 +252,19 @@ The system requires seven fields to correctly identify the product you want to u
 | ^variant\_unit\_name \(if applicable\) |  |  |
 | \*display\_name |  |  |
 
-_^ if you try to update these fields you'll see an error message_
+_^ si intenta actualizar estos campos, verá un mensaje de error._
 
-_\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
+_\* Si intenta actualizar estos campos, creará nuevos productos o variantes, en lugar de actualizar un producto existente._
 
-Once complete, the .csv can be [imported](product-and-inventory-import.md#import-the-csv) in the same manner as for new products. 
+Una vez completado, el .csv se puede  [importar](product-and-inventory-import.md#import-the-csv) de la misma manera que para los productos nuevos. 
 
 {% hint style="info" %}
-**Set stock to zero for all exiting products not present in the file:**   
-If you select this tickbox the system will set the 'In Stock' value to zero for _all products already your product list_.   
-If a product was 'Unlimited' it will remain 'Unlimited'.   
-The Products in this import will retain the stock level set in the .csv
+**Establezca el inventario en cero para todos los productos existentes que no estén presentes en el archivo:**   
+Si selecciona esta casilla de verificación, el sistema establecerá el valor 'En stock' en cero para _todos los productos que ya están en su lista de productos_.
+
+Si un producto era 'Ilimitado', seguirá siendo 'Ilimitado'.
+
+Los productos de esta importación conservarán el nivel de stock establecido en el archivo csv
 {% endhint %}
 
 ## Import New Inventory or update your inventory
