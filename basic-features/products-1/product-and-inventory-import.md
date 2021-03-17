@@ -127,7 +127,7 @@ Tenga en cuenta que todos los campos distinguen entre mayúsculas y minúsculas.
       <td style="text-align:left">price</td>
       <td style="text-align:left">Y</td>
       <td style="text-align:left">El precio del producto. Si el art&#xED;culo tiene impuestos, este debe
-        ser el precio con impuestos incluidos.</td>
+        ser el precio con impuestos incluidos</td>
       <td style="text-align:left">3.70</td>
     </tr>
     <tr>
@@ -267,47 +267,47 @@ Si un producto era 'Ilimitado', seguirá siendo 'Ilimitado'.
 Los productos de esta importación conservarán el nivel de stock establecido en el archivo csv
 {% endhint %}
 
-## Import New Inventory or update your inventory
+## Importar nuevo Inventario o actualizar su inventario
 
-Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
+Utilice estas instrucciones si desea agregar o actualizar nuevos productos a su [inventario](inventory-tool.md).
 
-### Prepare the CSV file for import
+### Prepare el archivo CSV para importar
 
-Firstly, download the **Inventory Template CSV** file from the **Product Import** page.
+En primer lugar, descargue el archivo **CSV de Plantilla de Inventario** de la página de **Importación de Productos**. 
 
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+Verá que la plantilla proporciona todos los encabezados de columna necesarios para importar correctamente un producto. Cada fila es para un nuevo producto o variante. A continuación se muestra una descripción de cómo completar cada columna.
 
 {% hint style="info" %}
-Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
+Tenga en cuenta que todos los campos distinguen entre mayúsculas y minúsculas. P.ej. debe usar mL no ml, o Lácteos no lácteos.
 {% endhint %}
 
 | Column Title | Required? | Description | Example |
 | :--- | :--- | :--- | :--- |
-| producer | Y | This is the name of the producer profile that this inventory item will be assigned to | Four Mile Farm |
-| distributor | Y | This is the name of the hub profile the inventory item will be assigned to | Demo Hub |
-| name | Y | This is the name of the product | Yoghurt |
-| display name | N | This field applies if you are creating variants \(see instructions below\). If you're not creating a variant leave this field blank. | Rasberry Yoghurt |
-| variant\_unit\_name | Y | If the product is sold as an item \(e.g loaf, bunch, pumpkin\) write the item type here | Bunch |
-| units | Y | The weight, volume or quantity value | 500 |
-| unit\_type | Y | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
-| price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
-| On\_Hand  \(in\_stock\) | Y | Please check the rules for unlimited below | leave blank as unlimited is set to 1 |
-| On\_demand \(unlimited\) | Y | If blank - Read as "Use producer stock settings", so "in\_stock" should be blank.   If you set it to "1" - Read as unlimited of "Yes", so "in\_stock" should be blank.     If you set it to "0" - Read as unlimited of "No", so "in\_stock" is required. | 1 |
-| sku | N | The SKU code for this product | AD001265 |
+| producer | Y | Este es el nombre del perfil de productor al que se asignará este producto | Four Mile Farm |
+| distributor | Y | Este es el nombre del perfil del hub/nodo al que se asignará el artículo de inventario | Demo Hub |
+| name | Y | Este es el nombre del producto | Yoghurt |
+| display name | N | Este campo se aplica si está creando variantes \(consulte las instrucciones a continuación\). Si no está creando una variante, deje este campo en blanco | Rasberry Yoghurt |
+| variant\_unit\_name | Y | Si el producto se vende como un artículo \(por ejemplo, pan, manojo, calabaza\) escriba el tipo de artículo aquí | Bunch |
+| units | Y | El peso, el volumen o el valor de la cantidad | 500 |
+| unit\_type | Y | ¿En qué unidad se vende \(g, kg, T, mL, L\)? Si se vende como un artículo \(p. Ej., Manojo\) déjelo en blanco | g |
+| price | Y | El precio del producto. Si el artículo tiene impuestos, este debe ser el precio con impuestos incluidos | 3.70 |
+| On\_Hand  \(in\_stock\) | Y | Consulte las reglas para ilimitado a continuación | dejar en blanco ya que ilimitado se establece en 1 |
+| On\_demand \(unlimited\) | Y | Si está en blanco: lea como "Usar configuración de stock del productor", por lo que "in\_stock" debe estar en blanco. Si lo establece en "1" - Leer como ilimitado de "Sí", por lo que "in\_stock" debe estar en blanco. Si lo establece en "0" - Leer como ilimitado de "No", por lo que se requiere "in\_stock" | 1 |
+| sku | N | El código SKU de este producto | AD001265 |
 
-### Import the CSV <a id="import-the-csv"></a>
+### Importe el archivo CSV <a id="import-the-csv"></a>
 
-Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN. 
+Una vez que haya completado el **CSV de la Plantilla de Inventario**, estará listo para cargarlo en OFN.  
 
-1. Go to **Products** &gt;  **Product Import.**
-2. **Select import type:** Select Inventories
-3. **Select a spreadsheet to upload**
-4. Click **Upload**.
+1. Vaya a **Productos**&gt; **Importación de Productos**.
+2. **Seleccione el tipo de importación**: Seleccione Inventarios
+3. **Seleccione una hoja de cálculo para cargar**
+4. Haga click en **Subir**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**. 
+Se le mostrará un resumen de su carga, incluidos los errores. También se le dirá cuántos productos está creando y cuántos está actualizando. Si está satisfecho con los resultados de la carga, haga clic en **guardar**. 
 
 {% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
+Es una buena práctica comprobar que los productos se hayan subido o actualizado según lo previsto.
 {% endhint %}
 
 
