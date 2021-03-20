@@ -42,33 +42,33 @@ Potrai specificare le percentuali o i valori della calcolatrice \(nella colonna 
 
 ![](../../.gitbook/assets/tariffe-dellazienda.png)
 
-**Percentuale fissa** – This fee is charged as a percentage of the total amount charged in the order.
+**Percentuale fissa** – Questa tariffa è calcolata come una percentuale fissa dell'importo totale della gentile richiesta. 
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.\)
+**Peso \(per kg\)** – Questa tariffa è applicata ai prodotti in base al peso \(kg\). La tariffa verrà applicata _solo ai prodotti il cui prezzo è indicato al kg_, non ai prodotti venduti al pezzo \(ad esempio, se il prezzemolo viene venduto "al mazzo", selezionando questa opzione al prezzemolo non verrà applicata alcuna tariffa\). 
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Tariffa fissa \(per gentile richiesta\)** – Questa tariffa è applicata come una tariffa standard, uguale per ogni gentile richiesta, indipendentemente dal suo importo. 
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached. 
+**Tariffa flessibile \(per numero articoli\)** – Questa tariffa è particolarmente utile se vuoi incoraggiare i consumatori a fare gentili richieste sostanziose: la tariffa può essere ridotta o eliminata al raggiungimento di un numero minimo definito di articoli richiesti. 
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* ‘Costo Primo Articolo’: La tariffa applicata per il primo articolo nella gentile richiesta. 
+* ‘Costo Articoli Aggiuntivi’: La tariffa applicata per gli articoli successivi al primo. 
+* ‘Massimo Articoli’: Il numero massimo di articoli a cui la tariffa verrà applicata. Agli articoli acquistati oltre questo numero non verrà applicata alcuna tariffa. 
 
 ![](../../.gitbook/assets/enterprisefeeflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> Per esempio: si il "Costo Primo Articolo" = 0,20€, "Costo Articoli Aggiuntivi" = 0,10€ e "Massimo Articoli"= 3, un consumatore che acquista 5 articoli pagherà una tariffa aziendale di 0,40€ \(0,20€ per il primo articolo, 0,10€ per il secondo ed il terzo, 0€ per il quarto e il quinto\).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.\)
+**Tariffa fissa \(per articolo\):** Questa è una tariffa costante, applicata ai prodotti venduti al pezzo \(Non si applica ai prodotti venduti a peso o a volume. Non verrà applicata dunque alcuna tariffa ai consumatori che acquistano, ad esempio, frutta al kg\).
 
-**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Tariffa flessibile \(per importo totale\):** Questa è una tariffa aziendale flessibile, calcolata in base all'importo totale della gentile richiesta, piuttosto che al numero di articoli acquistati \(Tariffa Flessibile descritta precedentemente\) 
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee. 
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* ‘Importo minimo’: Valore monetario soglia tra la Tariffa Normale" e la "Tariffa Scontata". 
+* 'Tariffa Normale': Tariffa applicata per importi totali inferiori all' "Importo Minimo" impostato. 
+* ‘Tariffa Scontata’: Tariffa applicata per importi totali superiori all' "Importo Minimo" impostato. 
 
 ![](../../.gitbook/assets/enterprisefeepc.jpg)
 
 {% hint style="warning" %}
-Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
+Ora che hai creato le Tariffe della tua azienda, ricorda che queste non verranno applicate nel tuo negozio **a meno che non siano aggiunte ad un ciclo di richieste**. Per maggiori dettagli, vedi le pagine relative ai cicli di richiesta per i [produttori](order-cycle/order-cycles-for-producers.md) o per gli [hub](order-cycle/order-cycles-for-hubs.md).
 {% endhint %}
 
