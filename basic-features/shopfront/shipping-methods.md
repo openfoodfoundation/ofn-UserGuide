@@ -94,7 +94,7 @@ The **Minimum Amount** is the _**total cost of the products**_ in a customer's b
 {% hint style="warning" %}
 For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between free delivery \(Discount Amount = 0\) and, say, £5 delivery \(= Normal Amount\) to be a basket of £30 then the Minimum amount is
 
-$$= £30 /(100+20) = £25$$ 
+$$= £30 * 100 /(100+20) = £25$$ 
 {% endhint %}
 
 ![](../../.gitbook/assets/shippingfeepc.jpg)
