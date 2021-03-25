@@ -4,7 +4,7 @@ description: Simple steps to start your OFN journey
 
 # Quick Start Guides
 
-Getting started on the Open Food Network can be as easy as 1-5! hello
+Getting started on the Open Food Network can be as easy as 1-5!
 
 Follow the quick set up list for your enterprise:
 
