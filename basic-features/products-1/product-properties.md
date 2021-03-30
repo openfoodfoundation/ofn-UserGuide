@@ -14,7 +14,8 @@ This is a list of product and enterprise properties available in Australia:
 * Biodynamic - Certified
 * Organic - conv
 * Fair Trade
-* MSC Prganic - Non certified
+* MSC
+* Organic - Non certified
 * org-C
 * Organic
 * Australian Certified Organic
