@@ -4,7 +4,33 @@ You can apply product properties to your products, as a way of letting your cust
 
 {% tabs %}
 {% tab title="Australia" %}
+This is a list of product and enterprise properties available in Australia:
 
+* Free Range
+* Organic - Certified
+* Chem-Free
+* Certified Naturally Farmed
+* Grass Fed
+* Biodynamic - Certified
+* Organic - conv
+* Fair Trade
+* MSC Prganic - Non certified
+* org-C
+* Organic
+* Australian Certified Organic
+* Biodynamic - In Conversion
+* Pasture Raised
+* Nitrate Free
+* No Artificial Colours or Flavours
+* Preservative Free
+* Plastic Free
+* Raw
+* Vegan
+* Vegetarian
+* Gluten Free
+* Nut Free
+* Refined Sugar Free
+* Dairy Free
 {% endtab %}
 
 {% tab title="Canada" %}
