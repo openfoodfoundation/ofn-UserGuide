@@ -60,7 +60,7 @@ If you need another enterprise to give you permissions, you need to contact them
 
 ## Automatically Generated Permissions
 
-When a user is the main manager of several enterprises on the platform, [the four permissions](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions) are created automatically between each enterprise. This is not the case when enterprises are managed by different users.
+When a user is the main manager \(owner\) of several enterprises on the platform, [permissions](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions) are created automatically between each enterprise. This is not the case when enterprises are managed by different users.
 
 ## Hub perspective
 
