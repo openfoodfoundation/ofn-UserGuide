@@ -48,11 +48,11 @@ Note: If you have selected ‘**items**’ as your unit, the **display as** fiel
 If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
 {% endhint %}
 
-**In Stock:** State how much/many of this product you have available and ready for sale.
+**On hand:** State how much/many of this product you have available and ready for sale.
 
 Use this field if you want to track your stock levels. As customers place orders, the stock level will reduce, and when the in stock amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
 
-**Unlimited:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+**On demand:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
 
 **Image:** Upload a photo of this product.
 
