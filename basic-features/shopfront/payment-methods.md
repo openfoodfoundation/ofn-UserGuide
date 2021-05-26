@@ -37,7 +37,7 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
   * MasterCard Internet Gateway Service \(MIGS\) 
   * PayPal Express 
   * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
-  * Stripe
+  * ~~Stripe/ Stripe Connect~~ \(This payment has been deprecated and will be removed. Use Stripe SCA\)
   * Stripe SCA
   * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
 
