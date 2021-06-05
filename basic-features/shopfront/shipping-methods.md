@@ -1,65 +1,66 @@
-# Métodos de Envío
+# Shipping Methods
 
 {% hint style="warning" %}
- **Debe** crear por lo menos un método de envío antes de poder abrir su tienda.
+ You **must** create at least one shipping method before you can open your shop.
 {% endhint %}
 
-Antes de seguir leyendo, es posible que desee ver una demostración rápida de cómo configurar su primer método de envío:
+Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
 
 ![](../../.gitbook/assets/shippingmethod.gif)
 
-## Configurar un método de envío
+## Setting up a shipping method
 
-* Vaya a la página Métodos de envío haciendo clic en **Organizaciones** en el menú horizontal azul y luego haga clic en **Configuración** junto a su organización. La página de **Métodos de Envío** se encuentra en el menú del lado izquierdo.
-* Haga clic en **Crear nuevo método de envío +**. Será dirigido a una página como esta: 
+* Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
+* Click **Create new shipping method +** . You will be directed to a page like this:
 
 ![](../../.gitbook/assets/newshipping.jpg)
 
-* Marque la casilla junto a su organización en el lado derecho de la página debajo de 'Hubs/Nodos'. Esto indica que el método de envío que está a punto de crear se aplicará a esa organización. Puede seleccionar varias empresas, si lo desea. 
-* **Nombre**: Elija un nombre para el método. Este nombre se mostrará al cliente durante su proceso de compra y en los correos de confirmación de pedido. Ejemplo: 
+* Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
+* **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
 
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
-* **Descripción:** Agregue detalles adicionales, como la dirección precisa del punto de recolección. Estos detalles serán visibles para los clientes en gris junto al nombre \(vea la captura de pantalla anterior\).
-* **Categoría:** ¿Este método es una entrega o una recogida? 
-* **Etiquetas:** ingrese etiquetas aquí si desea diferenciar entre clientes. Las etiquetas pueden ser útiles si desea ofrecer envío gratuito a un subconjunto de clientes o solo ofrecer entrega a aquellos que tienen una dirección registrada cercana. Lee mas [aquí](customer-management-and-conditional-displays-prices/).
-* **Calculadora:** Seleccione la forma en que se agregarán las tarifas de envío a este método de envío. Tenga en cuenta que la tarifa de envío puede ser cero. Consulte a continuación para obtener más detalles.
-* **Categorías:** Condiciones de transporte \(refrigeración, congelado, por defecto\) asociadas con este método de envío. 
-* **Zonas:** Seleccione la zona apropiada \(esto es para habilitar la calculadora de impuestos correcta\).
+* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\).
+* **Category:** Is this method a delivery or pick-up?
+* **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
+* **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
+* **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
+* **Zones:** Select the appropriate zone \(this is to enable correct tax calculations\).
 
-Al hacer clic en **Crear**, se creará el método de envío y, a continuación, se le proporcionarán nuevos campos para agregar detalles de los cargos del método de envío. Los campos presentados dependerán de la calculadora de tarifas de envío que haya seleccionado.
+By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. 
 
 {% hint style="info" %}
-Si cambia el tipo de calculadora para un método de envío, **primero debe guardar** antes de poder editar la configuración de la calculadora.
+If you change the calculator type for a shipping method, you must **save first** before you can edit the calculator settings.
 {% endhint %}
 
-## Calculadora de Comisiones
+## Fee Calculators
 
 ![](../../.gitbook/assets/shippingcalc.jpg)
 
-**Peso \(por kg\)** – Esta tasa se aplica a los productos por kg. La tarifa _solo se aplicará a los productos cuyo precio sea por kg_, no a los productos enumerados como artículos \(por ejemplo, un producto enumerado como "1 manojo de perejil" no contribuirá a la tarifa general que se le cobra al cliente por el envío\)
+**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not contribute to the overall fee a customer is charged for shipping\)
 
-**Porcentaje Fijo** – Esta tarifa se cobra como un porcentaje del monto total gastado en el pedido.
+**Flat Percent** – This fee is charged as a percentage of the total amount spent in the order.
 
-**Tasa Fija \(por pedido\)** – Esta tarifa se aplica como tarifa estándar a todos los pedidos, independientemente del tamaño del pedido.
+**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Tasa Flexible** – Esta calculadora de tarifas es especialmente útil si desea alentar a los clientes a realizar pedidos grandes: el costo de envío puede reducirse o reducirse a cero cuando se alcanza un número mínimo de artículos. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached. 
 
-* "Costo del Primer Artículo": la tarifa que se cobra por el primer artículo del pedido.
-* "Costo de Artículo Adicional": la tarifa que se cobra por artículos más allá del primer artículo.
-* "Máximo de Artículos": el número máximo de artículos a los que se aplicará la tarifa. A los artículos comprados que superen esta cantidad no se les cobrará la tarifa. 
+* ‘First Item Cost’: The fee charged for the first item in the order.
+* ‘Additional Item Cost’: The fee charged for items beyond the first item.
+* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
 
 ![](../../.gitbook/assets/shippingfeeflex.jpg)
 
-> Por ejemplo: si la tarifa de envío para el 'Costo del primer artículo' es $2000, 'Costo adicional del artículo' = $1000 y 'Max artículos' = 3. A un cliente que compre 5 artículos se le cobrarán $ 4000 de envío \($2000 por el primer artículo, $1000 por los artículos dos y tres y $0  por los artículos cuatro y cinco\).
+> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3.   
+> A customer who purchases 5 items, will be charged £4 shipping \(£2 for the first item, £1 for items two and three, and £0 for items four and five\).
 
-**Tarifa Fija \(por ítem\)** – Esta tarifa es una tarifa constante que se aplica a los productos enumerados como "artículos". \(No se aplica a los productos vendidos por peso o volumen. Por lo tanto, no se cobrará ningún costo de envío asociado a un cliente que, por ejemplo, compra arroz por kg\).
+**Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated shipping cost charged to a customer who, for example, buys rice by kg\).
 
-**Precio Saco** – Este es un método flexible tarifa de envío cobrado por la _venta total en pesos_, en lugar de número de artículos comprados \(Tarifa Flexible arriba\).
+**Price Sack** – This is a flexible shipping fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
 
-* "Cantidad Mínima": valor Monetario del umbral entre la tarifa de envío normal y la tarifa de envío con Descuento.
-* 'Importe Normal': tarifa de envío aplicada a las ventas por debajo del umbral indicado en 'Importe Mínimo'. 
-* "Importe de Descuento": tarifa de envío que se aplica a las ventas por encima del umbral indicado en "Importe Mínimo".
+* ‘Minimum Amount’: Monetary value of the threshold between Normal shipping fee and Discounted shipping fee. 
+* 'Normal Amount': Shipping fee applied to sales below the threshold stated in 'Minimum Amount'.
+* ‘Discount Amount’: Shipping fee applied to sales above the threshold stated in 'Minimum Amount'.
 
 ![](../../.gitbook/assets/shippingfeepc.jpg)
 

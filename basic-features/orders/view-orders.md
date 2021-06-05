@@ -1,52 +1,52 @@
-# View Orders
+# Ver Pedidos
 
-Within the admin interface there are two places where orders can be viewed and modified \(if necessary\):  the [Orders](view-orders.md#listing-orders) page itself, and the [Bulk Order Management](view-orders.md#bulk-order-management) page.   
-The features of both these two pages are discussed below.
+Dentro de la interfaz de administración hay dos lugares donde los pedidos se pueden ver y modificar \(si es necesario\):  la página de [Pedidos](view-orders.md#listing-orders), y  la página de [Gestión de Pedidos en Bloque](view-orders.md#bulk-order-management).   
+Las características de estás dos páginas se muestran a continuación.
 
-## Listing orders
+## Listado de pedidos
 
-The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](create-orders-manually.md).
+La página de pedido de lista muestra una vista de lista de todos los pedidos realizados a través de su \(s\) tienda \(s\). Desde aquí puede acceder a los detalles de pedidos individuales, editar pedidos y realizar un seguimiento del estado de su pago y envío. Para obtener detalles sobre cómo crear un nuevo pedido manualmente para su cliente, consulte  [aquí](create-orders-manually.md).
 
-The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
+La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Puede filtrar por fecha, estado o correo electrónico y nombre del cliente. 
 
 ![](../../.gitbook/assets/listingorders1new.jpg)
 
-**Distributor:** This is the enterprise through who's shop the order was placed.
+**Distribuidor:** Esta es la organización de la tienda a través de la cual se realizó el pedido.
 
-**Completed at:** This is the date that the order was placed.
+**Completado en:** Esta es la fecha en que se realizó el pedido.
 
-**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol with with word 'Note' to the left of it will show if the customer included a comment with their order at checkout. Hover you mouse above the exclamation mark to view the comment.
+**Número:** Este es un número de pedido asignado arbitrariamente. Un símbolo de exclamación con la palabra 'Nota' a la izquierda mostrará si el cliente incluyó un comentario con su pedido al finalizar la compra. Coloque el mouse sobre el signo de exclamación para ver el comentario.
 
-**State:**
+**Estado:**
 
-* Complete- the customer has finished checkout
-* Cancelled- if admin edits the order and chooses to ‘cancel it’
-* Cart- The customer is in the process of shopping, but hasn’t checked out
+* Completo: el cliente ha finalizado el pago
+* Cancelado: si el administrador edita el pedido y elige "cancelarlo"
+* Carrito: el cliente está en proceso de compra, pero no ha realizado la compra.
 
-**Payment State:**
+**Estado del Pago:**
 
-* Balance Due- if it’s cash, or bank transfer or eftpos \(ie all non automated payments\), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'Paid'.
+* Balance Due \(Saldo adeudado\)- Si es en efectivo, transferencia bancaria o eftpos \(es decir, todos los pagos no automatizados\), entonces el pedido será 'saldo adeudado' de forma predeterminada, hasta que los miembros administradores de la organización distribuidora **marquen manualmente que se ha recibido el pago**, en el cual punto, el estado de pago cambiará a "paid \(Pagado\)".
 
 ![](../../.gitbook/assets/balancedue.jpg)
 
-* Paid- For automated payments \(PayPal, Stripe, PIN for instance\), the payment portal will automatically mark an order as 'paid' when it has been processed.  Non-automated payments \(cash, bank transfer etc\) will also be marked as 'paid' when manually updated. 
-* Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+* Paid \(Pagado\)-   Para pagos automatizados \(PayPal, Stripe, PIN, por ejemplo\), el portal de pagos marcará automáticamente un pedido como 'pagado' cuando se haya procesado.  Los pagos no automatizados \(efectivo, transferencia bancaria, etc.\) también se marcarán como 'pagados' cuando se actualicen manualmente.
+* Credit Owed \(Crédito adeudado\)- Si alguien pagó su pedido, pero luego usted edita su pedido y elimina un artículo, el costo de ese artículo se convierte en "crédito adeudado".
 
 ![](../../.gitbook/assets/creditowed.jpg)
 
-**Shipment state:**
+**Estado del Envío:**
 
-* Pending- When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready- When payment has been received \(paid, or credit owed status\) the shipping state becomes ‘ready’.
-* Shipped- After delivery or collection, an order can be manually updated by shop/hub management \(edit order\) so that the shipment state becomes 'Shipped'.
+* Pendiente- Cuando el estado de pago es "balance due/saldo adeudado", el estado de envío estará pendiente, lo que significa que hasta que no se reciba el pago, el envío no debe comenzar. 
+* Listo- Cuando se ha recibido el pago \(estado pagado o crédito adeudado\), el estado de envío pasa a estar "listo". 
+* Enviado- Después de la entrega o recogida, un pedido se puede actualizar manualmente mediante la gestión de la tienda / centro \(editar pedido\) para que el estado del envío sea "Enviado".
 
 {% hint style="warning" %}
-You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid' or 'Credit Owed'
+SOLO puede actualizar manualmente un pedido a 'Enviado' si el estado de pago es 'Paid/Pagado' o 'Credit Owed/Crédito adeudado' 
 {% endhint %}
 
-**Customer email:**The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’[report](../reports.md).
+**Email del cliente:** El correo electrónico de contacto del cliente. Se puede descargar una lista completa de correos electrónicos de clientes en el [reporte](../reports.md) "lista de correo".
 
-**Total:**The total value of the customer’s order
+**Total:** El valor total del pedido del cliente.
 
 ### **Changing the payment and shipping state of an order**
 
