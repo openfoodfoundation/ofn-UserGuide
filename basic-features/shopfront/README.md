@@ -1,16 +1,16 @@
-# Shopfront
+# Tienda
 
-To open your online shop on Open Food Network and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub.  Read more about the different Enterprise profiles[ here](../../your-quick-start-on-ofn-given-who-you-are.md) and [here](../enterprise-profile/).
+Para abrir su tienda en línea en Open Food Network y comenzar a vender, su organización debe estar registrada como Tienda Productor o Hub/Nodo Productor / No-Productor. Leer más sobre los diferentes perfiles de organización[ aquí](../../your-quick-start-on-ofn-given-who-you-are.md) y [aquí](../enterprise-profile/).
 
-The next essential steps are to set up [Shipping](shipping-methods.md) and [Payment](payment-methods.md) Methods for your enterprise.  At this stage we also suggest creating [Enterprise Fees](enterprise-fees.md) \(a mark up added to the price each product charged by the supplying producer to cover admin and distribution costs\).
+Los próximos pasos esenciales para configurar son [Envío](shipping-methods.md) y Métodos de [Pago](payment-methods.md) de su organización.  En esta etapa también sugerimos crear las [Comisiones de la Organización](enterprise-fees.md) \(un margen añadido al precio de cada producto cobrado por el productor proveedor para cubrir los costos de administración y distribución\).
 
-Opening and closing times of shop fronts on OFN, as well as the option to sub-select products for different dates and times of collection, are controlled by [Order Cycles](order-cycle/).
+Los horarios de apertura y cierre de las tiendas en OFN, así como la opción de sub-seleccionar productos para diferentes fechas y horas de recolección, están controlados por el [Ciclo de Pedidos](order-cycle/).
 
-Shop fronts on OFN are highly flexible. Read more if you are interested in:
+Las tiendas en OFN son muy flexibles. Lea más si está interesado en: 
 
-* [Providing different products and services to different customer groups](customer-management-and-conditional-displays-prices/).
-* Would like only registered members to be able to place orders \([Private Shop](private-shopfront.md)\)
-* Would like a 'dummy' [display only](display-only-order-cycles.md) shop front
+* [Proporcionando diferentes productos y servicios a diferentes grupos de clientes.](customer-management-and-conditional-displays-prices/)
+* Me gustaría que solo los miembros registrados pudieran realizar pedidos \([Tienda Privada](private-shopfront.md)\).
+* Me gustaría una pantalla 'ficticia' solo en el frente de la tienda [solo en el frente de la tienda](display-only-order-cycles.md).
 
 
 
