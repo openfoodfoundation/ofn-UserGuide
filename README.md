@@ -1,7 +1,9 @@
 # Willkommen im OFN Benutzerhandbuch
 
+
+
 | Sprache | Link zum Benutzerhandbuch |
-| :---: | :--- |
+| :--- | :--- |
 | ![](.gitbook/assets/flagge-deutschland.jpg)  | _Sie lesen die deutsche Version!_ |
 | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | [Access the English version of the OFN User Guide](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
@@ -9,7 +11,7 @@
 | ![](.gitbook/assets/turkey.jpg)  | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/) |
 | ![](.gitbook/assets/brazil-flag-image-free-download.jpg)  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/) |
 | ![](.gitbook/assets/russia.jpg)  | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru/) |
-| español | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
+| ![](.gitbook/assets/flagge-spanien.jpg)  | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
 
 **This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
 
