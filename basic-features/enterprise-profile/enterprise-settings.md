@@ -75,7 +75,15 @@ These differ from country to country and they depend on local regulations and la
 
 {% tabs %}
 {% tab title="Australia" %}
+**ABN:** Australian Business Number
 
+**ACN:** Australian Company Number
+
+**Charges GST:** If you wish to charge customers the Goods and Services Tax \(GST\)
+
+**Display Logo on Invoices:** if desired.
+
+**Add Customised Text at the end of Invoices:** such as payment details
 {% endtab %}
 
 {% tab title="Belgium" %}
@@ -130,6 +138,8 @@ For advise on selling as a VAT registered enterprise please see this document:
 **Charge GST?**– If you wish to charge GST for your products select ‘yes’.
 {% endtab %}
 {% endtabs %}
+
+
 
 **Terms and Conditions** \(pdf files only\) : Let your customers know any terms and conditions associated with purchasing from your business \(for example your refund policy\) by uploading a .pdf file here.
 
