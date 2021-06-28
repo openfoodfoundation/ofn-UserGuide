@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Willkommen im OFN Benutzerhandbuch](README.md)
+* [Benutzerhandbuch Open Food Network \(OFN\)](README.md)
 * [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
 * [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)

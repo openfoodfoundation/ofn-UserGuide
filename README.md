@@ -1,29 +1,30 @@
-# Willkommen im OFN Benutzerhandbuch
+---
+description: Herzlich Willkommen!
+---
+
+# Benutzerhandbuch Open Food Network \(OFN\)
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht vollständig ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
 {% endhint %}
 
-| Sprache | Link zum Benutzerhandbuch |
-| :--- | :--- |
-| ![](.gitbook/assets/flagge-deutschland.jpg)  | _Sie lesen die deutsche Version!_ |
-| ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | [Access the English version of the OFN User Guide](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png)  | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
-| ![](.gitbook/assets/turkey.jpg)  | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/) |
-| ![](.gitbook/assets/brazil-flag-image-free-download.jpg)  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/) |
-| ![](.gitbook/assets/russia.jpg)  | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru/) |
-| ![](.gitbook/assets/flagge-spanien.jpg)  | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
+{% hint style="info" %}
+![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92)_Dies ist die deutsche Version des Benutzerhandbuchs zum Open Food Network \(OFN\)!_
+{% endhint %}
 
-**This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
+| ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | ![](.gitbook/assets/flagge-spanien.jpg) | ![](.gitbook/assets/brazil-flag-image-free-download.jpg) | ![](.gitbook/assets/russia.jpg) | ![](.gitbook/assets/turkey.jpg) | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [English](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master) | [Français](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) | [Español](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) | [Português](https://guia.openfoodbrasil.com.br/) | [Russian](https://guide.openfoodnetwork.ru/) | [Türkçe](https://kilavuz.acikgida.com/) | [Catalan](https://guia.katuma.org/) |
 
-## An overview
+**Dieses Benutzerhandbuch hilft Ihnen alle Möglichkeiten der Open Food Network Plattform auszuschöpfen und so den Betrieb von regionalen Lebensmittelunternehmen zu ermöglichen und kurze Produktions- und Lieferketten zu realisieren - überall.**
 
-The Open Food Network enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Open Food Network to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
+## Einführung
 
-The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
+Das Open Food Network ermöglicht es, Lebensmittel regional und direkt von Erzeugern, Landwirten und Produzenten zu beziehen. Darüber hinaus können sich weitreichende Netzwerke von kleinen Lebensmittelproduzenten, Distributoren, Einzelhändlern, Food Hubs, Kooperativen und Einkaufsgemeinschaften bilden, um kurze Produktions- und Lieferketten zu schaffen.
 
-This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
+Das Open Food Network ist ein globales Projekt, das die organisatorischen Abläufe von Produzenten und Verbrauchern \(z.B. in Kooperativen\) beim Handel regionaler Lebensmittel unterstützt. Die von uns entwickelte Software ist Open Source und wir arbeiten mit großartigen Menschen aus der ganzen Welt zusammen, um sie ständig zu verbessern! Wir unterstützen auch die Planungen zum Aufbau und Betrieb verschiedenster Vermarktungsmodelle, z.B. eines Food Hubs oder eines online Wochenmarkts. Bitte kontaktieren Sie gerne Ihren[ OFN Ansprechpartner vor Ort](local-ofn-organizations-and-contacts.md), um mehr zu erfahren!
+
+Das folgende Video gibt Ihnen eine kurze Einführung in die Funktionsweise des Open Food Network und zeigt Ihnen, was wir für Ihr Lebensmittelunternehmen oder Ihre Organisation tun können.
 
 {% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
