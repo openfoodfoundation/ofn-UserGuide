@@ -1,7 +1,5 @@
 # Welcome to the OFN User Guide
 
-
-
 | Language version | Link to the user guide |
 | :--- | :--- |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png)  | _You are reading the English version !_ |
