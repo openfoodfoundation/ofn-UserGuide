@@ -1,4 +1,8 @@
-# Local OFN organisations and contacts
+# OFN Organisation und Kontakt vor Ort
+
+{% hint style="danger" %}
+![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+{% endhint %}
 
 You can access the Open Food Network platform in various languages, and from various providers, depending on where you are located. 
 
@@ -68,7 +72,10 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       <td style="text-align:left">OFN Costa Rica</td>
       <td style="text-align:left"><a href="https://www.laferia.cr/">https://www.laferia.cr/</a>
       </td>
-      <td style="text-align:left">Spanish English</td>
+      <td style="text-align:left">
+        <p>Spanish</p>
+        <p>English</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">France</td>
@@ -128,7 +135,8 @@ Want to learn more about what is the Open Food Network? [Check our global websit
       </td>
       <td style="text-align:left">
         <p>Castellano</p>
-        <p>Catalan Portuguese Italian</p>
+        <p>Catalan Portuguese</p>
+        <p>Italian</p>
       </td>
     </tr>
     <tr>
