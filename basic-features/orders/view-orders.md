@@ -88,6 +88,23 @@ This is what the order management page looks like:
 
 You can add a product to the order by selecting the variant you require from a drop down list of those available \(at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear\).  To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes \(this will also update enterprise, shipping and payment method fees accordingly, where appropriate\).
 
+**Changing the Shipping Method**
+
+A customer may contact you and ask to have their groceries delivered rather than collect. You can edit the shipping method assigned to the order by selecting the edit symbol to the right of the shipping method:
+
+![](../../.gitbook/assets/editshipping2.jpg)
+
+You then have access to all available shipping methods. Select the one your customer wishes to change to.  
+
+![](../../.gitbook/assets/editshipping1.jpg)
+
+**Perform Associated Adjustment:** 
+
+* **YES:** this will update the shipping cost according to the change in method
+* **NO:** this will keep the cost of shipping the same as the method chosen by the customer at checkout.
+
+To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
+
 **Additional options available under 'Actions'**
 
 ![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)

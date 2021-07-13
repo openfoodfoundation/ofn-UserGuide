@@ -20,7 +20,7 @@ Before you read on, you might like to have look at a quick demonstration of how 
 
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
-* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\).
+* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\) and in their order confirmation email.
 * **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
 
 {% hint style="info" %}
@@ -30,6 +30,7 @@ If you want to inactivate a shipping method for a while but might want to offer 
 * **Category:** Is this method a delivery or pick-up?
 * **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
 * **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
+* **Tax Category:** This enables you to set the tax associated with your shipping method/collection fee independently to that assigned to tax-eligible products owned by your enterprise.  The options are: none, full rate, zero rated, reduced rate or shipping.
 * **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
 
 {% hint style="danger" %}

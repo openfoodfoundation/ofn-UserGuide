@@ -11,7 +11,7 @@ A step-by-step guide to shopping locally including:
 
 Sometimes you may find when you land on the Shop page of the business you wish to buy from it looks like this:
 
-![](https://lh6.googleusercontent.com/CQUxUpMnkf-7IAkNJ8Tb1g4xdtFAbi4aEmgg8tAgWZz-TnXrLuu6zIaEIcCWsee0UmrTRoUeBjQMffG72lWaMyRl11T04XYmHn0Dn7JmjYOOnIw5fhCPA0slHGEy01NaAGSMQn2_)
+![](../.gitbook/assets/chooseoc.jpg)
 
 In the drop down red box there will be a number of options. Some shops will run separate order lists for food versus plants, others will have an order list for collection this week/month and then maybe another list for collection in a few weeks time.  In the run up to Christmas you may find your shop allows you to place an order for collection in December as well as the option to buy for collection the current week.
 
@@ -89,7 +89,11 @@ Underneath the name of a product there will be the name of the **producer**- the
 
 **Next to each price is a pie chart**. This will inform you of how the money you pay as a customer for the product will be redistributed between the person who made the item and the shop who is selling it \(admin fee\), how much accounts for the cost of packaging or transport and how much will be reinvested in a community project \(fundraising fee\).
 
-![](../.gitbook/assets/funraisingef.jpg)
+![](../.gitbook/assets/feebreakdown.jpg)
+
+Under the price will be the **unit cost** of the product. This enables you to compare the price of products independently of packaging sizes and weights.
+
+![](../.gitbook/assets/productweightunit-price2.jpg)
 
 
 

@@ -19,7 +19,7 @@ To save a change of profile type, do not forget to click on "save" at the bottom
 
 You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
 
-![](../../.gitbook/assets/primarydetails.jpg)
+![](../../.gitbook/assets/enterprise_settings.jpg)
 
 {% hint style="danger" %}
 To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
@@ -49,7 +49,11 @@ Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs
 
 ### Address
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+This information is used to geolocate your enterprise the OFN map.  You can opt to manually enter the coordinates of your address if the location automatically calculated is incorrect.  This is useful for very rural locations.
+
+![](../../.gitbook/assets/address.jpg)
+
+Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
 
 ### Contact
 
@@ -215,15 +219,15 @@ Visible to Shop and Hub registered enterprises only.
 
 **Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
 
-![Notices tab for shopfront with one order cycle open](../../.gitbook/assets/notices-one-oc.jpg)
+![](../../.gitbook/assets/noticesoneoc.jpg)
 
-![Notices tab for shopfront with concurrent order cycles](../../.gitbook/assets/noiticesmulitoc%20%282%29%20%281%29.jpg)
+![](../../.gitbook/assets/noticestwooc.jpg)
 
 The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
 
 If left blank the 'Notices' tab will not appear on your shop front.
 
-![](../../.gitbook/assets/nonoticestab.jpg)
+![](../../.gitbook/assets/nonotices.jpg)
 
 **Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
 

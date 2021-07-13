@@ -14,7 +14,7 @@ Click **Products** in the horizontal blue menu, and then click **+ New Product**
 
 Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category** that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
 
-![](../../.gitbook/assets/dummy-meat-product.png)
+![](../../.gitbook/assets/dummyproduct.jpg)
 
 Their summary profile will also indicate that they sell meat products \(below\).
 

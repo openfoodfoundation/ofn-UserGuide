@@ -197,7 +197,7 @@ By clicking on the profile of a producer, Enterprise Properties appear on the po
 
 Customers can also filter products in a shop based on their properties:
 
-![](../../.gitbook/assets/searchfilter.jpg)
+![](../../.gitbook/assets/searchfilter%20%281%29.jpg)
 
 ![](../../.gitbook/assets/screenshot_20201027-152628.png)
 

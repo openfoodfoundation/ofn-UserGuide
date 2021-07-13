@@ -10,7 +10,7 @@ Once logged into the Admin Dashboard, select on **Products** on the horizontal b
 
 This will take you to the New Product page.
 
-![](../../.gitbook/assets/new-product2.png)
+![](../../.gitbook/assets/newproduct.jpg)
 
 **Supplier** 
 
@@ -48,6 +48,8 @@ Note: If you have selected ‘**items**’ as your unit, the **display as** fiel
 If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
 {% endhint %}
 
+**Unit Price:** This will be automatically calculated for you from the unit and price supplied.  If the units are in weight or volume then the unit price will be cost per kg/L etc. If the units are in 'items' then the unit price will be cost per item.
+
 **On hand:** State how much/many of this product you have available and ready for sale.
 
 Use this field if you want to track your stock levels. As customers place orders, the stock level will reduce, and when the in stock amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
@@ -60,7 +62,9 @@ Use this field if you want to track your stock levels. As customers place orders
 Product images will be displayed on the shopfront in **square \(1:1\) format**.  We recommend uploading photos with these dimensions.  Landscape and portrait photos will be cropped to square automatically.
 {% endhint %}
 
-![](../../.gitbook/assets/bread.jpg)
+![Product with units of weight](../../.gitbook/assets/productweightunit-price.jpg)
+
+![Product with units of &apos;items&apos; \(pie\)](../../.gitbook/assets/productitemunit-price.jpg)
 
 {% hint style="warning" %}
 High resolution images are resized \(reduced in pixel dimension\) automatically when displayed in your product list dependent on the customer's device.
@@ -98,7 +102,7 @@ Products listed in your admin panel can be sorted alphabetically by name \(click
 
 This is how your products will display to your customers on the shop front:
 
-![](../../.gitbook/assets/productview.jpg)
+![](../../.gitbook/assets/productbreakdown.jpg)
 
 ## Listing Similar / variations of a Product 
 
@@ -136,7 +140,7 @@ For tips on how to manage sales of **"irregular" products** such as meat or larg
 
 Customers can filter your products to identify what they wish to purchase based on their product category and product properties.  The filters are found to the right hand side of the shop page.
 
-![](../../.gitbook/assets/searchfilter.jpg)
+![](../../.gitbook/assets/searchfilter%20%281%29.jpg)
 
 Some customers will use the Search box at the top left of the page to locate their produce.  The following fields are searched by this box:
 

@@ -46,9 +46,9 @@ For example if butternut squash costs £1/kg then you could list the variants wi
 
 ## Option Four: Create variants with known weights
 
-If you know the weight of all your whole fish, for example, in advance you can use the variant functionality to directly display the precise price for each item. Example:
+If you know the weight of all your steaks, for example, in advance you can use the variant functionality to directly display the precise price for each item. Example:
 
-![](../../.gitbook/assets/bom2.jpg)
+![](../../.gitbook/assets/knownweight.jpg)
 
 ## Editing Orders 
 
