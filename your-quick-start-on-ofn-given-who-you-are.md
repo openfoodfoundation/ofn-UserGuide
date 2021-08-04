@@ -1,23 +1,23 @@
 ---
-description: Identify the classification of your food enterprise within the OFN platform.
+description: Wählen Sie den richtigen Auftritt Ihres Unternehmens im Open Food Network.
 ---
 
-# Where does my business fit in OFN?
+# Wie passt mein Unternehmen ins OFN?
 
 {% hint style="danger" %}
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
 {% endhint %}
 
-Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
+Abhängig von Ihrem Geschäftsmodell können Sie das Open Food Network ganz unterschiedlich für sich nutzen. 
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
+Wir unterscheiden drei Arten von Unternehmen: [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile), [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) und [Läden](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
-![](.gitbook/assets/l-flowchart%20%281%29.png)
+![](.gitbook/assets/aus-wordpress-1-column-image-1080-x-540%20%281%29.png)
 
-_The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub \(or vice versa\) as your business grows and/or needs change._
+_Die Flexibilität des Open Food Network erlaubt es Ihnen jederzeit zwischen Profil, Produzentenladen und Laden zu wechseln und sich so Ihren wachsenden oder sich ändernden Bedürfnissen anzupassen._
 
 {% hint style="info" %}
-**Farmer's Markets** can either set up on the platform as a [Group](basic-features/groups/) of individually managed [shop](your-quick-start-on-ofn-given-who-you-are.md#shop) fronts or as a centrally managed [hub](your-quick-start-on-ofn-given-who-you-are.md#hub).  Read more [here](quick-start-guides/digital-farmers-markets.md).
+**Bauernmärkte** können die Plattform entweder als eine [Gruppe](basic-features/groups/) unabhängig geführter [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) oder als ein zentral organisierter [Laden](your-quick-start-on-ofn-given-who-you-are.md#hub) nutzen. Mehr dazu lesen Sie[ hier](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
 ## Hub

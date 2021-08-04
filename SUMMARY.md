@@ -2,7 +2,7 @@
 
 * [Benutzerhandbuch Open Food Network \(OFN\)](README.md)
 * [OFN vor Ort: Organisationen und Websites](local-ofn-organizations-and-contacts.md)
-* [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
+* [Wie passt mein Unternehmen ins OFN?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Shop](quick-start-guides/producer-shop-quick-setup-guide.md)
