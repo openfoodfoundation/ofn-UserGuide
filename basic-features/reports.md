@@ -1,21 +1,20 @@
-# Reports
+# Report
 
-You can access reports by clicking on **Reports** in the blue horizontal menu.  
+Puoi accedere ai report cliccando su **Report** nel menù blu orizzontale. 
 
 ![](../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
-Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report.   
+Qui troverai una lista predefinita di report che permettono di visualizzare o scaricare dati in forme standard. Tutti i report possono essere scaricati in formato CSV inserendo la spunta su **Scarica come csv** nella schermata di ciascun report, dove è anche possibile filtrare i dati.  
 
+## Tutti i Report
 
-## All Reports
-
-If you have opened an [Order Cycle](shopfront/order-cycle/), you will be able to run reports to help with managing, packing and processing your orders, and meet your financial reporting needs.
+Se hai aperto un [Ciclo di Richieste](shopfront/order-cycle/), potrai accedere a report che renderanno più agevoli le tue operazioni di gestione, confezionamento e smistamento delle richieste e faciliteranno la tua fiscalità.  
 
 ![Reports available to view and download](../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
-## Reports for Suppliers 
+## Report per i fornitori 
 
-If you have set [Permissions](enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) for a Hub to sell your products, and they have opened an [Order Cycle ](shopfront/order-cycle/order-cycles-for-hubs.md)with your products listed, you will be able to run reports to pack and process your orders. If you need to see Customer names in these reports, you can ask the Hub to make them visible in these reports. Hubs can make this change in their [Enterprise Settings](enterprise-profile/enterprise-settings.md).
+Se hai fornito ad un Hub i [Permessi](enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) di vendere i tuoi prodottifor a Hub to sell your products, and they have opened an [Order Cycle ](shopfront/order-cycle/order-cycles-for-hubs.md)with your products listed, you will be able to run reports to pack and process your orders. If you need to see Customer names in these reports, you can ask the Hub to make them visible in these reports. Hubs can make this change in their [Enterprise Settings](enterprise-profile/enterprise-settings.md).
 
 ## Some Helpful Reports
 
