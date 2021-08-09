@@ -1,53 +1,53 @@
-# Order Cycles \(for Hubs\)
+# Cicli di richieste \(per Hub\)
 
 {% hint style="warning" %}
-Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'. 
+Leggi qui se il tuo profilo è un profilo '[Hub, sia produttore che non produttore](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'. 
 
-Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
+Visita questa [pagina](order-cycles-for-producers.md), se sei invece registrato come '[Negozio Produttore](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' e vuoi impostare un ciclo di richieste per il tuo negozio.
 {% endhint %}
 
-You open your shop by creating an Order Cycle. When you create an order cycle you select when your shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
+Per aprire il tuo negozio devi creare un Ciclo di Richieste. Quando crei un ciclo di richieste, selezioni un periodo di apertura del tuo negozio \(da quando a quando\), quali prodotti vuoi mostrare nella tua vetrina e quali tariffe intendi applicare.
 
-**Why Order Cycles?**    
-Some hubs may wish to have an online store which is perpetually open, and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\). 
+**Perchè Cicli di Richieste?**    
+Alcuni hub potrebbero volere il proprio negozio online sempre aperto e soddisfare le richieste una alla volta, via via che le ricevono. Ma molti hub preferiscono invece lavorare con un sistema di richieste periodiche, che permette loro di affrontare con maggior efficienza le attività di produzione, confezionamente e distribuzione \(riducendo così i costi associati\). 
 
-For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
+Per esempio, un ciclo di richieste può essere aperto per due settimane. Una volta raccolte tutte le richieste, queste possono essere preparate e consegnate nello stesso momento, il mercoledì successivo alla chiusura. Dopo aver consegnato i prodotti, l'hub può riaprire un nuovo ciclo di richieste, e così via. 
 
-A quick demonstration of setting up a new order cycle:
+Una rapida presentazione di come impostare un nuovo ciclo di richieste:
 
 ![](../../../.gitbook/assets/ordercyclehub.gif)
 
-## Viewing Order Cycles
+## Visualizzare i Cicli di Richieste
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your [dashboard](../../dashboard.md).
+Puoi creare un ciclo di richieste e vedere i cicli di richieste esistenti cliccando su **Gestisci Cicli di Richieste** da tuo [pannello di controllo](../../dashboard.md).
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
-Or from the horizontal menu at the top of the page.
+O dal menu orizzontale in alto \(**Cicli di richieste**\)
 
 ![](../../../.gitbook/assets/ordercycle1%20%282%29%20%282%29%20%282%29.jpg)
 
 {% hint style="warning" %}
-You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
+NB Per poter pubblicare un ciclo di richieste, dovrai aver prima impostato per la tua azienda almeno un [metodo di pagamento](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/~/drafts/-M_UynsQV5vzExOcrhs9/v/it/basic-features/shopfront/payment-methods) ed almeno un [metodo di spedizione](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/~/drafts/-M_UynsQV5vzExOcrhs9/v/it/basic-features/shopfront/shipping-methods).
 {% endhint %}
 
-## Create a New Order Cycle
+## Creare un nuovo Ciclo di Richieste
 
-The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle have permission to modify and manage **all** aspects of the sales cycle.   
-Other enterprises involved in an order cycle \(as suppliers or distributors only\) will have restricted access.   
-For more information on cross-enterprise management in the context of order cycles, [click here](permissions-in-multi-enterprise-order-cycles.md).
+Il primo passo è selezionare un coordinatore per il tuo ciclo di richieste. Solo il coordinatore ha il permesso di modificare **tutti** gli aspetti del ciclo.  
+Le altre imprese coinvolte \(come fornitori o distributori\), avranno un accesso parziale.    
+Per maggiori informazioni sulle possibilità di controllo incrociato dei cicli di richieste, [clicca qui](permissions-in-multi-enterprise-order-cycles.md).
 
 ![](../../../.gitbook/assets/ordercycle2.jpg)
 
-Once the order cycle coordinator has been chosen, the process of setting up is divided into three steps:
+Una volta scelto il coordinatore del ciclo di richieste, il processo di impostazione si divide in tre passaggi: 
 
-### 1\) General Settings
+### 1\) Impostazioni generali
 
 ![](../../../.gitbook/assets/ordercycle3%20%281%29.jpg)
 
-**Name \(**_**required**_**\):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Nome \(**_**obbligatorio**_**\):** Dai al ciclo di richieste un nome che sia significativo per te. Ti suggeriamo di seguire una regola di nominazione, per poi riuscire a trovare agevolmente il ciclo di richieste ad una ricerca futura. Ti suggeriamo inoltre di inserire il nome del tuo hub nel nome del ciclo di richieste, di modo da permettere un agevole supporto da parte di OFN in caso di necessità. Es. NomeCoordinatore\_settimana12\_2021.
 
-**Orders Open at:** This is the date and time at when your OFN store will be open, visible and start to accept orders from customers.
+**Richieste aperte dal:** Questa è la data e l'orario a partire da cui il tuo negozio OFN sarà aperto, visibile e pronto ad accettare richieste dai consumatori. 
 
 **Orders Close:** This is the date \(and time\) when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
 
