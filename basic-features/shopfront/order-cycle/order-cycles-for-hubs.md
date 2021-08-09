@@ -47,79 +47,79 @@ Una volta scelto il coordinatore del ciclo di richieste, il processo di impostaz
 
 **Nome \(**_**obbligatorio**_**\):** Dai al ciclo di richieste un nome che sia significativo per te. Ti suggeriamo di seguire una regola di nominazione, per poi riuscire a trovare agevolmente il ciclo di richieste ad una ricerca futura. Ti suggeriamo inoltre di inserire il nome del tuo hub nel nome del ciclo di richieste, di modo da permettere un agevole supporto da parte di OFN in caso di necessità. Es. NomeCoordinatore\_settimana12\_2021.
 
-**Richieste aperte dal:** Questa è la data e l'orario a partire da cui il tuo negozio OFN sarà aperto, visibile e pronto ad accettare richieste dai consumatori. 
+**Richieste aperte dal:** Questa è la data e l'orario a partire da cui il tuo negozio OFN sarà aperto, visibile e pronto a ricevere richieste dai consumatori. 
 
-**Orders Close:** This is the date \(and time\) when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Richieste chiudono il:** Questa è la data \(e l'orario\) in cui il tuo negozio OFN chiuderà e smetterà di accettare gentili richieste. Se desideri avere un negozio sempre aperto, seleziona una data di chiusura lontana nel futuro. 
 
-**Schedules:** Leave blank unless using [Subscriptions](../../subscriptions/).
+**Programma:** Lascia vuoto se non usi [Abbonamenti](../../subscriptions/).
 
-**Add Coordinator Fee:** As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](../enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
+**Aggiungi un ricarico per il coordinamento:** Come hub, è probabile che il coordinatore sia tu. Qui puoi applicare una tariffa aziendale a tua scelta tra quelle che avrai creato precedentemente nelle impostazioni delle [Tariffe aziendali](../enterprise-fees.md). La tariffa verrà applicata secondo il calcolatore lì impostato. 
 
-### 2\) Incoming Products
+### 2\) Prodotti in entrata
 
 ![](../../../.gitbook/assets/ordercycle4.jpg)
 
-On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section\).   
-After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** 
+In questa pagina puoi selezionare i produttori, ed i loro prodotti, che parteciperanno al tuo ciclo di richieste. Nel menù a tendina puoi visualizzare tutti i produttori che ti hanno dato il permesso di aggiungere i loro prodotti ai tuoi cicli di richieste \(vedi la sezione [Permessi Aziende](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)\).   
+Dopo aver selezionato un fornitore ed aver cliccato su **Aggiungi fornitore**, potrai visualizzare tutti i prodotti associati a quel produttore. Seleziona i prodotti aggiungere al tuo negozio, o clicca su **seleziona tutti.** 
 
 {% hint style="info" %}
-Products which are out of stock \(ie their 'in stock' value is zero\) are included in this list.  If added to an order cycle they will not appear on our shop front.  It is always good to double check stock levels. 
+I prodotti che risultano non disponibili \(il valore nel loro campo "disponibilità" è zero\) sono inclusi in questa lista. Se aggiunti ad un ciclo di richieste non compariranno nella vetrina del tuo negozio. E' sempre consigliabile un doppio controllo sulle disponibilità dei prodotti.  
 {% endhint %}
 
-The **Receival Details** field is optional.  Information added to this field will automatically added to any email sent to producers at the end of an order cycle \(after clicking 'Notify Producers'\).  It might be a good idea to include an exact delivery address for produce prior to distribution to customers here.
+Il campo **Dettagli ricevimento** è facoltativo. Le informazioni aggiunte a questo campo saranno aggiunte automaticamente alle mail inviate ai produttori alla chiusura del ciclo di richieste \(cliccando "Notifica Produttori"\). Potrebbe essere una buona idea inserire qui un indirizzo esatto di consegna dei prodotti per i fornitori. 
 
-The **Add Fee** button in this section, at the end of each producer's entry in the table, allows you to add different [enterprise fees](../enterprise-fees.md) to different suppliers. For example, transporting flour or heavy goods to customers may be more expensive for a hub than salad.  Hence, a hub can, in a transparent manner, add a slightly higher enterprise fee to all goods supplied by the flour miller than the salad farmer.
+Il pulsante **Aggiungi tariffa**, nella tabella, alla destra della riga di ogni produttore, ti permette di applicare diverse [tariffe aziendali](../enterprise-fees.md) a diversi produttori. Per esempio, trasportare prodotti più pesanti può essere più costoso per un hub, che potrebbe decidere di applicare una tariffa maggiore ad un produttore di farina rispetto ad un produttore di insalata.
 
-Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+Seleziona il nome dell'azienda nella prima tendina, poi seleziona il nome della tariffa aziendale nella seconda. Nell'esempio qui sotto, la tariffa "OrderAdmin" è stata applicare al "Produttore di frutta". 
 
-![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/enterprise-fee.png)
+![Applicare una tariffa aziendale in entrata al fornitore](../../../.gitbook/assets/enterprise-fee.png)
 
 {% hint style="warning" %}
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](../enterprise-fees.md) was created.
+Questa tariffa sarà applicata a tutti i prodotti del "Produttore di frutta" e sarà calcolata secondo le impostazioni inserite nella sezione [Tariffe aziendali](../enterprise-fees.md).
 {% endhint %}
 
-### 3\) Outgoing Products
+### 3\) Prodotti in uscita
 
-Here you can select one or more hub-distributors.  All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.  
-In a **simple model**, only one hub is listed as the sole distributor for the order cycle. Select the hub, and check the box 'Select all' to add all incoming products to the shop front.   
-For more flexibility, the same order cycle may have **multiple hub distributors**.  In this case you may wish to select a different subset of the available incoming products for each distributor, and/or, add different delivery dates for each.
+Qui puoi selezionare uno o più hub-distributori. Ogni hub scelto come distributore per questo ciclo di richieste avrà un negozio aperto per la durata del ciclo.   
+In un **modello semplice**, ci sarà un solo hub per un ciclo di richieste. Seleziona l'hub e metti la spunta su "Seleziona tutti" per aggiungere tutti i prodotti alla tua vetrina.    
+Per maggiore flessibilità, lo stesso ciclo di richieste può avere **più di un hub come distributore**. In questo caso potresti voler selezionare un diverso listino di prodotti a seconda dell'hub, oppure impostare diversi orari di consegna per ciascuno. 
 
 ![](../../../.gitbook/assets/oc3.jpg)
 
-The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
+Nella colonna **tag** puoi taggare i tuoi cicli di richieste per renderli visibili/invisibili a certi consumatori. Vedi la sezione [tag e regole di tag](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) per maggiori informazioni.
 
-The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
+Il campo "**pronto per \(es. data/ora\)" \(obbligatorio\)**: Questo campo comunica ai consumatori quando i loro prodotti saranno pronti per la consegna o il ritiro. Se il tuo ciclo di richieste è impostato per essere costantemente aperto e soddisfare le richieste individuali e non di gruppo, dovresti inserire una dicitura tipo "Due giorni dopo la ricezione della richiesta". L'esempio qui sotto mostra come un consumatore possa scegliere tra diversi cicli di richieste quello con la data di consegna che preferisce. 
 
 ![](../../../.gitbook/assets/multipleoc3.jpg)
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+Questa indicazione è visibile anche nella sezione Informazioni di consegna nella pagina di conferma richiesta \(vedi sotto\) ed è inclusa nella mail di conferma della gentile richiesta. 
 
 ![](../../../.gitbook/assets/readyfor2.jpg)
 
-The **Pick-Up Instructions** message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+Il testo inserito nel campo **Istruzioni per la consegna** sarà incluso nella mail di conferma richiesta, sotto alle informazioni relative al metodo di consegna che hanno scelto \(vedi sotto\). Questo testo sarà visibile solo ai clienti che effettuano gentili richieste, quindi puoi inserire qui dati più sensibili come indirizzi, numeri di telefono, ecc. Vedi sotto per un esempio della mail di conferma richiesta.
 
 ![collection details message](../../../.gitbook/assets/collection-details.png)
 
-**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.  For simple models \(with one hub distributor, who also is the coordinator of the order cycle\) adding a fee at this stage is the same as adding a 'Coordinator Fee' \(it will apply to all products\).  
-For complex models, the coordinator may wish to add different fees to all products sold though each distributor.  The best place to implement this functionality is here.
+**Aggiungi tariffa:** Ancora, una tariffa aziendale precedentemente creata può essere qui assegnata a questo distributore. Per i modelli semplici \(con un solo hub distributore che corrisponde al coordinatore del ciclo\), aggiugere una tariffa in questo campo è uguale ad aggiungere una "tariffa Coordinamento": sarà applicata a tutti i prodotti.   
+Per modelli complessi, il coordinatore potrebbe voler applicare tariffe diverse a seconda dell'hub distributore. Il posto migliore per inserire tariffe differenziate è qui. 
 
-### Open the shopfront
+### Aprire il negozio
 
-Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later. 
+Clicca su **Salva** per programmare un ciclo di richieste. Se la data di apertura è già passata, il tuo negozio sarà aperto immediatamente! Se non sei ancora pronto per aprire il tuo negozio, inserisci date future, che potrai modificare in seguito.
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+Per cicli di richieste periodici, ripetitivi, puoi copiare un ciclo esistente e modificare le date, per rendere il processo più rapido. Vedi sotto: 
 
 ![](../../../.gitbook/assets/occpy.jpg)
 
-Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+I cicli di richieste avranno un fondo verde quando sono attivi, giallo quando sono programmati per una data futura, grigio quando hanno chiuso. Non sono visualizzati in questa lista i cicli di richieste che sono chiusi da più di un mese. Per visualizzare tutti i tuoi cicli di richieste passati, clicca su "mostra di più" in cima alla lista. 
 
-## **‘Notify Producers’ Button**
+## **Pulsante "Notifica produttori"**
 
-By using this button at the top of the page, all the Producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  
+Cliccando su questo pulsante in cima alla pagina, tutti i produttori collegati al ciclo di richieste riceveranno una mail contenente la lista dei prodotti richiesti fino a quel momento in quello specifico ciclo. 
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
 
-When the Notify Producers button is selected there will be a confirmation prompt. Once confirmed, an email will be automatically sent to all relevant Producers. The email will include Delivery instructions \(if this field is completed in the incoming products section\) as well as the following product information:
+Cliccando sul bottone, comparirà una finestra di conferma. Una volta confermato, la mail verrà inviata. Questa mail contiene le istruzioni di consegna \(qualora il campo facoltativo nella sezione "prodotti in entrata" sia stato compilato\) e le seguenti informazioni riguardanti i prodotti: 
 
 * SKUs \(if relevant\)
 * Name of Supplier
