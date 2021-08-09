@@ -121,15 +121,15 @@ Cliccando su questo pulsante in cima alla pagina, tutti i produttori collegati a
 
 Cliccando sul bottone, comparirà una finestra di conferma. Una volta confermato, la mail verrà inviata. Questa mail contiene le istruzioni di consegna \(qualora il campo facoltativo nella sezione "prodotti in entrata" sia stato compilato\) e le seguenti informazioni riguardanti i prodotti: 
 
-* SKUs \(if relevant\)
-* Name of Supplier
-* Product name 
-* Quantity ordered
-* Price per unit
-* Subtotal per product
-* Included Tax \(if relevant\) 
+* Codici univoci \(se rilevanti\)
+* Nome del Fornitore
+* Nome del prodotto 
+* Quantità richieste
+* Prezzo unitario
+* Subtotale per prodotto
+* Tasse incluse \(se rilevante\) 
 
-## Producer / Supplier Reports
+## Report per produttori / fornitori
 
-If your Order Cycle includes products from linked Producers / Suppliers they will be able to log in to their OFN account and view reports about the Order Cycle. By default they will not be able to see any Customer Details in these reports. If you would like your suppliers to access Customer Names in their reports, you can adjust these settings in Shop Preferences in your [Enterprise Settings](../../enterprise-profile/enterprise-settings.md).
+Se il tuo Ciclo di richieste include prodotti di Produttori / Fornitori che hanno un profilo su OFN, questi Produttori potranno accedere al proprio account OFN e visualizzare i report relativi al Ciclo di Richieste. Di default non potranno visualizzare nessun dettagli sui consumatori in questi report. Se desideri che i tuoi fornitori possano visualizzare i nomi dei clienti nei propri report, puoi impostare questa funzionalità nella sezione "preferenze di acquisto" nel [Pannello di controllo della tua azienda](../../enterprise-profile/enterprise-settings.md).
 
