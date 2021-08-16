@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenue sur le Guide utilisateur Open Food Network](README.md)
-* [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
+* [Organisations et contacts locaux d'Open Food Network](local-ofn-organizations-and-contacts.md)
 * [Where does my business fit in OFN?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)

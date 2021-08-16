@@ -1,9 +1,9 @@
-# Bienvenue sur le Guide utilisateur Open Food Network
+# Welcome to the OFN User Guide
 
 | Language version | Link to the user guide |
 | :--- | :--- |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png)  | [Access English version of the OFN  User Guide](https://guide.openfoodnetwork.org/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | _Vous êtes actuellement sur la version française du guide!_ |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png)  | _You are reading the English version !_ |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
 | ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png)  | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
 | ![](.gitbook/assets/turkey.jpg)  | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/) |
 | ![](.gitbook/assets/brazil-flag-image-free-download.jpg)  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/) |
@@ -11,53 +11,55 @@
 | ![](.gitbook/assets/flagge-spanien.jpg)  | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
 | ![](.gitbook/assets/flagge-deutschland.jpg) | [Lesen Sie hier die deutsche Version des OFN Benutzerhandbuchs](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/deutsch/) |
 
- ****Ce guide a pour objet de vous accompagner dans l'utilisation des plateformes reposant sur le **logiciel Open Food Network** et **opérant en Français**. 
+**This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
 
-## Dans les grandes lignes
+## An overview
 
-L'Open Food Network permet aux populations locales de mettre en place des moyens plus efficaces et plus équitables pour s'approvisionner en nourriture localement et directement auprès des cultivateurs, des agriculteurs et des producteurs. De vastes réseaux de petits producteurs, distributeurs, détaillants, plateformes alimentaires, coopératives alimentaires et groupes d'achat peuvent se réunir avec l'aide de l'Open Food Network pour trouver la meilleure façon de raccourcir la chaîne d'approvisionnement alimentaire. Ce faisant, ils contribuent à la création de communautés fortes. 
+The Open Food Network enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Open Food Network to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
 
-L'Open Food Network est un projet mondial qui soutient l'organisation opérationnelle des agriculteurs, des groupes de consommateurs, des coopératives, etc. dans la distribution des aliments locaux. Le logiciel que nous construisons est open source, et nous collaborons avec des personnes extraordinaires du monde entier pour continuer à l'améliorer ! Nous fournissons également un soutien pour les aspects organisationnels de la mise en place et du fonctionnement d'un centre alimentaire. Veuillez contacter votre instance OFN locale pour en savoir plus sur nous ! 
+The Open Food Network is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local OFN contact](local-ofn-organizations-and-contacts.md) to learn more about us!
 
-Cette courte vidéo vous donnera une brève introduction sur le fonctionnement de l'Open Food Network et sur ce que nous pouvons faire pour votre entreprise ou organisation alimentaire.
+This short video will give you a brief introduction to how the Open Food Network works, and what we can do for your food business, or organisation.
 
 {% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
-## Comment utiliser ce guide?
+## How to use this guide?
 
-### &gt; Guides de configuration rapide adaptés à votre entreprise
+### &gt; Quick setup guides tailored to your enterprise
 
-Tout depuis le début, avec les informations nécessaires pour ouvrir votre boutique [en quelques étapes](your-quick-start-on-ofn-given-who-you-are.md)! 
+Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-ofn-given-who-you-are.md)! 
 
 {% hint style="info" %}
-Ces guides sont faits pour les utilisateurs souhaitant ouvrir leur toute première boutique.
+We recommend these guides to users starting out on the Open Food Network platform for the first time.
 {% endhint %}
 
-### &gt; Toutes nos fonctionnalités 
+### &gt; Features to meet your needs
 
-Vous trouverez ici [une description détaillée de toutes les fonctionnalités que nous proposons](basic-features/), Pour que votre boutique Open Food Network soit parfaitement adaptée à votre communauté.
+Find a [detailed explanation of every feature our platform offers](basic-features/), so you can set up your Open Food Network enterprise to specifically meet your local needs.
 
 {% hint style="info" %}
-Ces guides sont faits pour les utilisateurs souhaitant optimiser leur boutique Open Food Network face aux attentes de leur communauté et clientèle.
+We recommend these guides to users who would like to customise their Open Food Network enterprise specifically to meet the needs of their business or customers.
 {% endhint %}
 
 {% hint style="success" %}
-Ils sont aussi utiles pour répondre à toutes les questions que vous auriez!
+They are also a great resource for answering any questions you may have.
 {% endhint %}
 
-### _&gt;_ Directives sur les logiciels complémentaires que vous pourriez vouloir utiliser en combinaison avec Open Food Network
+### _&gt;_ Guidelines on complementary software you might like to use in combination with the Open Food Network
 
-Open Food Network fait beaucoup de choses, mais aucun outil ne peut répondre à tous les besoins. Nous avons listé [quelques besoins pour lesquels vous pourriez avoir besoin de logiciels complémentaires, et comment vous pouvez les configurer](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/complementary-tools-software) pour qu'ils complémentent votre plateforme locale Open Food Network.
+The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
 
-### &gt; FAQ
+### &gt; Trouble shooting
 
-Encore des questions? Faites un tour sur la page FAQ pour voir si quelqu'un d'autre a posé la même question que vous!
+Still not finding what you need ? Check the [Trouble Shooting section](trouble-shooting.md) to see if others had the same questions as you!
 
-### &gt; Recherche
+### &gt; Search
 
-Si vous cherchez quelque chose en particulier, la barre de recherche en haut à droite vous sera utile.
+Looking for information on something specific? Use the search bar in the top left corner to find the information you need.
+
+![](.gitbook/assets/capture-du-2019-09-26-00-49-08.png)
 
 ## Feedback
 
-Des difficultés avec ce guide de l'utilisateur ? Des informations manquantes ? Ou peut-être voulez-vous partager certaines fonctionnalités que vous aimeriez voir à l'avenir ? N'hésitez pas à contacter votre instance OFN locale pour tout commentaire !
+Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md) for any feedback!
 
