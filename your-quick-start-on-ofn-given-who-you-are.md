@@ -1,10 +1,10 @@
 ---
-description: Voici comment classifier votre entreprise dans le cadre de la plateforme OFN.
+description: Identify the classification of your food enterprise within the OFN platform.
 ---
 
-# Comment mon entreprise s'inscrit-elle dans Open Food Network?
+# Where does my business fit in OFN?
 
-Votre utilisation d'Open Food Network dépend du type d'entreprise que vous possédez.
+Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
 
 We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
