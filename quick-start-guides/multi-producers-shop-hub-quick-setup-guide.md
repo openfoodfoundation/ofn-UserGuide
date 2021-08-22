@@ -1,43 +1,41 @@
 ---
-description: Toutes les étapes pour commencer votre utilisation d'OFN en tant que Hub
+description: Simple steps to start your OFN journey as a HUB
 ---
 
 # Hub
 
-Pour commencer à utiliser OFN, suivez ces étapes:
+It's easy to get started on OFN, just follow the steps below:
 
 ![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
-1. Enregistrez votre entreprise Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules "Producteur" et "Hub". Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules "Non-producteur" et "Hub". Complétez les paramètres de votre entreprise avec les détails de votre activité.
-2. Répertoriez vos produits.  Si vous êtes un "Hub de producteurs", créez \(ou importez\) des listes de produits pour les produits que vous fabriquez vous-même. Pour les hubs "producteurs" et "non producteurs", contactez les entreprises OFN locales qui souhaitent que leurs produits soient affichés sur votre boutique. Demandez-leur de créer des autorisations d'entreprise pour connecter leur établissement au vôtre via OFN.
-3. Mettez en place un choix de modes de paiement à la disposition de vos clients \(contre remboursement, paiement en ligne par carte de crédit, etc.\)
-4. Mettez en place un choix d'options de transport disponibles pour vos clients \(service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...\)
-5. Créez un cycle de commande : votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
+1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  If you wish to sell goods that you make as well as those of others then choose the 'Producer' and then 'Hub' [package types](../basic-features/enterprise-profile/package-types.md); whereas, if you only want to sell good made by others then choose the 'Non-Producer' and 'Hub' package options. Complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
+2. List your products.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
+3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
+4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
+5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
 
-Félicitations! Vous avez maintenant votre propre Hub sur OFN!
+Congrats!  Your shop is now live!
 
 {% hint style="info" %}
-Pour gagner un peu d'argent afin de couvrir le coût de l'organisation des ventes, vous pouvez ajouter une "commission d'entreprise" - cette majoration est ajoutée au prix de vente des produits sur votre vitrine.
+To earn a little revenue to cover the cost of organising sales you may like to add an '[Enterprise Fee](../basic-features/shopfront/enterprise-fees.md)'- this mark-up is added to the selling price of products on your shopfront.
 {% endhint %}
 
-Quand vous commencerez à recevoir des commandes, vous pourrez les gérer dans la section correspondante. 
+When you start receiving orders, you can manage them in the [orders](../basic-features/orders/) section.  
 
-Toutes les données nécessaires pour préparer et expédier les commandes sont répertoriées dans la section Rapports.
+All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports/) section.
 
+## More advanced features you might need
 
-
-## Fonctionnalités avancées
-
-* Votre profile d'entreprise:
-  * En tant que Hub de Producteurs, vous pouvez donner l'autorisation à d'autres hubs de vendre vos produits sur leur boutique en plus de votre propre boutique.
-* Vous pouvez ajouter des gestionnaires de hub afin qu'une seule personne n'ait pas à s'occuper de toute l'administration !
-* Vos produits \(pour les Hubs de producteurs uniquement:
-  * Précisez les qualifications spéciales qu'ils peuvent avoir \(biologique, sans plastique, etc.\).
-  * Si vous avez un produit qui peut être vendu en différentes unités \(par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg\), vous pouvez simplifier vos listes en ajoutant des variantes.
-  * Si vous vendez des articles irréguliers comme de la viande ou des légumes \(par exemple, un poulet entier, un gros potiron\) dont le prix est déterminé par le poids, vous pouvez apprendre à le faire ici.
-  * Vous pouvez importer toutes vos listes de produits en une seule fois si elles se trouvent dans une feuille de calcul Excel.
-* Votre boutique:
-  * Vous pouvez restreindre l'accès à votre boutique si vous souhaitez qu'elle ne soit accessible qu'aux "membres" ou aux clients invités. Par exemple, vous pouvez offrir des produits à prix réduit aux membres de la communauté qui ont tous contribué à votre entreprise, ou vendre uniquement à des clients commerciaux spécifiques.
-  * Vous pouvez proposer des prix différents, ou afficher des produits différents, à des groupes spécifiques de clients en utilisant le regroupement de clients \(en utilisant des "tags"\) et des affichages et tarifications personnalisés.
-  * Si vous souhaitez être visible sur OFN mais ne pas vendre de marchandises sur la plateforme, vous pouvez créer une vitrine de présentation uniquement.
+* Your enterprise profile:
+  * As a **Producer Hub** you can give other local hubs [permission ](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)to sell your products on their shopfront as well as your own.
+  * You may wish to [add hub managers](../basic-features/enterprise-profile/transfer-ownership.md) so that no one person has to do all the admin!
+* Your products \(**Producer Hub** only\): 
+  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free, etc...\)
+  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
+  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
+  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
+* Your shopfront:
+  * You can [restrict access](../basic-features/shopfront/private-shopfront.md) to your shop if want your shop to be only accessible to "members" or invited customers.   For example you may offer discounted produce to members of the community who have all contributed to your business, or if you wished to only sell to specific commercial customers.
+  * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
+  * If you would like to be visible on OFN only but not actually sell goods through the platform then you can setup a [display only shopfront](../basic-features/shopfront/display-only-order-cycles.md).
 

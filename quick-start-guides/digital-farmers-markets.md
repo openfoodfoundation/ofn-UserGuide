@@ -1,8 +1,8 @@
 ---
-description: How to set up a Farmer's Market online
+description: Comment créer votre marché fermier digital
 ---
 
-# Digital Farmer's Markets
+# Marchés Fermiers Digitaux
 
 Farmers’ Markets have the option to setup as a [group](../basic-features/groups/) of individually managed [shops](../your-quick-start-on-ofn-given-who-you-are.md#shop) \(Option 1\) or centrally managed as a [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) \(Option 2\).
 

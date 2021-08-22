@@ -1,5 +1,5 @@
 ---
-description: Toutes les étapes pour commencer votre utilisation d'OFN en tant que Hub
+description: Toutes les étapes pour commencer votre utilisation d'OFN en tant que Boutique
 ---
 
 # Boutique
@@ -13,7 +13,7 @@ Pour commencer à utiliser OFN, suivez ces étapes:
 1. Enregistrez votre entreprise Choisissez les formules "Producteur" et "Boutique" et complétez vos paramètres d'entreprise avec les détails de votre boutique.
 2. Répertoriez vos produits. 
 3. Mettez en place un choix de modes de paiement à la disposition de vos clients \(contre remboursement, paiement en ligne par carte de crédit, etc.\)
-4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, ...\)
+4. Mettez en place un choix d'options de transport disponibles pour vos clients \(service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...\)
 5. Créez un cycle de commande : votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
 
 Félicitations! Vous avez maintenant votre propre Hub sur OFN!
