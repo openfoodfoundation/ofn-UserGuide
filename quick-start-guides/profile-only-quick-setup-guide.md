@@ -1,34 +1,35 @@
 ---
-description: Toutes les étapes pour commencer votre utilisation d'OFN en tant que profil.
+description: Simple steps to get started as a OFN profile.
 ---
 
-# Profil
+# Profile
 
-Pour commencer à utiliser OFN, suivez ces étapes:
+It's easy to get started on OFN, just follow the steps below:
 
 ![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
-1. Enregistrez votre entreprise Choisissez les formules "Producteur" et "Profil" et complétez vos paramètres d'entreprise avec les détails de votre boutique.
-2. Répertoriez vos produits. 
-3. entrez en contact avec les Hubs OFN par l'intermédiaire desquels vous souhaitez vendre vos produits - cela peut être aussi simple que de parler au responsable du centre lorsque vous récupérez vos achats, ou de leur envoyer un e-mail.
+1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
+2. List your [products](../basic-features/products-1/products.md).
+3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
+4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
 
-Félicitations, c'est fait!
+Congrats!  Your job is done!  
 
-Le Hub qui gère vos ventes devrait vous envoyer périodiquement les commandes périodiquement selon les délais convenus. Les notifications de commande peuvent être automatisées par le Hub pour vous être envoyées par email.
+The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
 
 {% hint style="info" %}
-Si vous souhaitez utiliser OFN uniquement pour être visible sur Internet, il n'est pas nécessaire de suivre les étapes 2 à 4 ci-dessus.
+If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.
 {% endhint %}
 
 {% hint style="success" %}
-Vous pouvez rendre votre profil de producteur consultable par catégorie de produits, même si vous ne souhaitez pas vendre de marchandises, en suivant ces étapes.
+You can make your producer profile searchable by product category, even if you don't wish to actually sell goods by following these [steps](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
 {% endhint %}
 
-## Fonctionnalités avancées
+## More advanced features you might need
 
-* Vos produits \(pour les Hubs de producteurs uniquement:
-  * Précisez les qualifications spéciales qu'ils peuvent avoir \(biologique, sans plastique, etc.\).
-  * Si vous avez un produit qui peut être vendu en différentes unités \(par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg\), vous pouvez simplifier vos listes en ajoutant des variantes.
-  * Si vous vendez des articles irréguliers comme de la viande ou des légumes \(par exemple, un poulet entier, un gros potiron\) dont le prix est déterminé par le poids, vous pouvez apprendre à le faire ici.
-  * Vous pouvez importer toutes vos listes de produits en une seule fois si elles se trouvent dans une feuille de calcul Excel.
+* Your products: 
+  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free...\)
+  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
+  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
+  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
 
