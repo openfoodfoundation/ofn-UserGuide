@@ -1,14 +1,14 @@
-# Tableau de Bord
+# Dashboard
 
-Le tableau de bord est l'endroit où vous pouvez modifier et gérer les caractéristiques et les paramètres de votre entreprise sur la plateforme Open Food Network. Si vous avez enregistré votre entreprise en tant que boutique ou hub, vous pouvez également modifier vos produits et vos cycles de commande à partir du tableau de bord.
+The Dashboard ****is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard. 
 
-Accédez à votre tableau de bord depuis la page d'accueil en vous connectant, puis en cliquant sur l'icône de profil en haut à droite, et en sélectionnant **Administration** dans le menu déroulant.
+Access your dashboard from the homepage by first logging in and then clicking on the Profile Icon in the top right hand corner, and selecting **Administration** from the drop-down menu.
 
 ![](../.gitbook/assets/dash1.jpg)
 
-Les options que vous verrez sur votre tableau de bord dépendent du type d'entreprise que vous avez choisi lors de l'inscription. Les captures d'écran ci-dessous montrent la vue du tableau de bord pour différents types d'utilisateurs.
+The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
 
-### Producteurs
+### Producers
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}

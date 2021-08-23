@@ -1,13 +1,13 @@
-# Enterprise profile
+# Profil de l'entreprise
 
-Once you have [created your Enterprise account](../register-and-create-your-profile.md#create-your-first-enterprise-account), you must log in to your Administration [Dashboard](../dashboard.md) to continue setting up your Enterprise profile. 
+Une fois que vous avez créé votre compte Entreprise, vous devez vous connecter à votre tableau de bord d'administration pour continuer à configurer votre profil Entreprise. 
 
-First you will be asked to [choose the OFN package](package-types.md) \(or type of profile\) which best represents your [business model](../../your-quick-start-on-ofn-given-who-you-are.md). 
+Il vous sera d'abord demandé de choisir le pack OFN \(ou type de profil\) qui représente le mieux votre modèle d'entreprise. 
 
-In this section we detail the different menus that you can complete to refine your enterprise profile and, by doing so, access business-specific features that you may need.
+Dans cette section, nous détaillons les différents menus que vous pouvez compléter pour affiner votre profil d'entreprise et, ce faisant, accéder aux fonctionnalités spécifiques à votre entreprise dont vous pouvez avoir besoin.
 
 {% hint style="info" %}
-It is important to complete the whole process otherwise your enterprise might not appear on the map, or appear with a partially filled in profile, which can affect your image.
+Il est important de mener à bien l'ensemble du processus, sinon votre entreprise risque de ne pas apparaître sur la carte, ou d'apparaître avec un profil partiellement rempli, ce qui peut nuire à votre image.
 {% endhint %}
 
 

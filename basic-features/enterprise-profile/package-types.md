@@ -1,82 +1,82 @@
-# Package / profile types
+# Types de Profils/Packs
 
-After completing your [enterprise registration](../register-and-create-your-profile.md) you have an option to be taken directly to the [enterprise settings page](enterprise-settings.md).
+Après avoir terminé l'enregistrement de votre entreprise, vous pouvez accéder directement à la page des paramètres de l'entreprise.
 
 ![](../../.gitbook/assets/newregister.jpg)
 
-From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
+À partir de là, vous devrez choisir le profil OFN qui correspond le mieux à votre modèle d'entreprise. **Sans cette étape, votre compte d'entreprise ne sera pas créé et, par conséquent, votre entreprise restera invisible sur notre carte**.
 
 ![](../../.gitbook/assets/newchoose.jpg)
 
-Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profiles types vary a little bit depending on if you are are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors \(or "hubs" in the Open Food Network world :-\)\).
+Open Food Network propose trois types de profils d'entreprise qui diffèrent en fonction de si vous êtes un producteur ou non, et si vous souhaitez ou non ouvrir une boutique en ligne pour vendre sur Open Food Network. C'est pourquoi nous les décrivons ci-dessous en deux sections principales : les profils pour les producteurs et ensuite les profils pour les distributeurs \(ou "Hubs" dans le monde d'Open Food Network :-\)\).
 
-## For Producers
+## Pour les Producteurs
 
-There are three types of profiles for producers:
+Il y a trois types de profils pour producteurs:
 
 ![](../../.gitbook/assets/prod_choosenew.jpg)
 
 {% tabs %}
-{% tab title="Producer Profile" %}
-With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network. 
+{% tab title="Profil Producteur" %}
+Avec cette option, non seulement votre entreprise sera visible sur la carte OFN et pour les clients qui recherchent notre plateforme, mais vous pourrez aussi gérer un catalogue de produits. Vos produits peuvent être distribués et vendus par d'autres entreprises qui font partie du réseau OFN. 
 
-As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
+En tant que "profil de producteur", vous ne serez pas en mesure de gérer votre propre façade de magasin en ligne. Pour plus d'informations sur le guide de configuration rapide pour ce type de profil, cliquez ici.
 
 {% hint style="info" %}
-If you'd like to retail your products on an existing online sales platform and just use OFN to increase your visibility then the 'Producer Profile' package is for you!
+Si vous souhaitez vendre vos produits sur une plateforme de vente en ligne existante et utiliser OFN pour accroître votre visibilité, le pack "Profil de producteur" est fait pour vous ! 
 
-You can put the link to your online shop in your enterprise description.
+Vous pouvez mettre le lien vers votre boutique en ligne dans la description de votre entreprise.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Producer shop" %}
-#### You would like to sell only your own products on OFN
+{% tab title="Boutique de Producteur" %}
+#### Vous souhaitez vendre uniquement vos propres produits sur OFN
 
-This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
+Cette option vous permet de gérer une vitrine qui vend uniquement les produits de votre propre catalogue. Notez que les "Boutiques de Producteurs" peuvent réaliser des ventes via leur propre vitrine et/ou agir en tant que fournisseur d'autres vitrines \(hubs\). 
 
-For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Pour plus d'informations sur le guide de configuration rapide de ce type de profil, cliquez ici.
 {% endtab %}
 
-{% tab title="Producer Hub \(multi-producer shop\)" %}
-#### You would like to sell your products as well as those of other producers / suppliers 
+{% tab title="Hub de Producteurs \(boutique multi-producteurs\)" %}
+#### Vous souhaitez vendre vos propres produits ainsi que ceux d'autres producteurs
 
-This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
+Cette option vous permet de gérer une boutique qui vend à la fois des produits fabriqués par vous-même et des produits fabriqués par d'autres producteurs locaux. Vous pouvez vendre au détail les produits de tout producteur qui vous a autorisé à le faire. 
 
- For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Pour plus d'informations sur le guide de configuration rapide de ce type de profil, cliquez ici.
 {% endtab %}
 {% endtabs %}
 
-## For Non-Producers \(Hubs\)
+## Pour les Non-Producteurs \(Hubs\)
 
-Two types of profiles are available to non-producers \(distributors / hubs\):
+Deux types de profils sont disponibles pour les non-producteurs \(distributeurs / hubs\) :
 
 ![](../../.gitbook/assets/nonprod_new.jpg)
 
 {% tabs %}
-{% tab title="Non-Producer Profile" %}
-With this option your enterprise will be visible on the OFN map and to customers searching our platform. 
+{% tab title="Profil Non-Producteur" %}
+Avec cette option, votre entreprise sera visible sur la carte de l'OFN et pour les clients qui effectuent des recherches sur notre plateforme. 
 
-For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Pour plus d'informations sur le guide de configuration rapide de ce type de profil, cliquez ici.
 
 {% hint style="info" %}
-If you'd like to retail products made by a collection of producers on an existing online sales platform and just use OFN to increase your visibility then the 'Non-Producer Profile' package is for you!
+Si vous souhaitez vendre des produits fabriqués par un ensemble de producteurs sur une plate-forme de vente en ligne existante et utiliser OFN pour accroître votre visibilité, le forfait "Profil de non-producteur" est fait pour vous ! 
 
-You can put the link to your online shop in your enterprise description.
+Vous pouvez mettre le lien vers votre boutique en ligne dans la description de votre entreprise.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Non-Producer Hub \(Multi-producer shop\)" %}
-#### You would like to create an online shop
+{% tab title="Hub Non-Producteur \(boutique multi-producteurs\)" %}
+#### Vous souhaitez créer une boutique en ligne
 
-This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
+Cette option vous permet de gérer une boutique qui vend des produits fabriqués par d'autres. Vous pouvez vendre au détail les produits de tout producteur qui vous a autorisé à le faire. 
 
- For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+Pour plus d'informations sur le guide de configuration rapide de ce type de profil, cliquez ici.
 {% endtab %}
 {% endtabs %}
 
-## Changing your profile type
+## Changer votre type de profil
 
-You can change your profile type \(package\) at any time in the future.  ****First log in to your OFN admin account:
+Vous pouvez changer votre type de profil \(pack\) à tout moment dans le futur. Connectez-vous d'abord à votre compte admin OFN :
 
 ![](../../.gitbook/assets/access1%20%282%29%20%282%29%20%281%29.jpg)
 
@@ -84,7 +84,7 @@ and then visit your [Enterprise Settings menu](enterprise-settings.md). From the
 
 ![](../../.gitbook/assets/enterprisetable.jpg)
 
-## Next step
+## Etape suivante
 
-Once you have chosen the correct profile type for your food business you can complete any missing information and further refine your setup under the [Enterprise Settings](enterprise-settings.md) menu. 
+Une fois que vous avez choisi le type de profil approprié pour votre entreprise alimentaire, vous pouvez compléter les informations manquantes et affiner votre configuration dans Paramètres de l'entreprise.
 

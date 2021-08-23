@@ -1,147 +1,113 @@
 ---
 description: >-
-  Enterprise settings are where you can manage details relating to your profile
-  and/or shopfront.
+  Les paramètres d'entreprise vous permettent de gérer les détails relatifs à
+  votre profil et/ou à votre vitrine.
 ---
 
-# Enterprise Settings
+# Paramètres de l'Entreprise
 
-## Access your Enterprise Settings
+## Accédez aux paramètres de votre entreprise
 
-1. Once logged in, and accessing your admin dashboard, select "Enterprises" on the blue horizontal menu
-2. Select 'Settings' next to your enterprise
+1. Une fois connecté, et en accédant à votre tableau de bord d'administration, sélectionnez "Entreprises" sur le menu horizontal bleu.
+2. Sélectionnez "Paramètres" à côté de votre entreprise.
 
 ![](../../.gitbook/assets/esettings.jpg)
 
 {% hint style="danger" %}
-To save a change of profile type, do not forget to click on "save" at the bottom of the window on the right.
+Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "sauvegarder" en bas de la fenêtre de droite.
 {% endhint %}
 
-You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
+Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour un Hub :
 
 ![](../../.gitbook/assets/enterprise_settings.jpg)
 
 {% hint style="danger" %}
-To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
+Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page. Nous recommandons d'enregistrer chaque page avant de la modifier.
 {% endhint %}
 
-This short video gives a quick insight into the steps and options detailed below:
+Cette vidéo donne un aperçu rapide des étapes et des options détaillées ci-dessous :
 
 ![](../../.gitbook/assets/enterprisesettings.gif)
 
-## Primary Details
+## Détails essentiels
 
-**Name:** This is the name of your enterprise. It will be the title of your profile \(and shop\).
+**Nom** : Il s'agit du nom de votre entreprise. Il sera le titre de votre profil \(et de votre boutique\). 
 
-**Primary Producer:** Select the producer box if you are a producer.
+**Producteur principal** : Cochez la case producteur si vous êtes un producteur.
 
 {% hint style="warning" %}
-Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
+Seules les entreprises marquées comme Producteurs peuvent ajouter des produits à OFN. Les plateformes non productrices ne doivent sélectionner cette option que si elles vendent au détail des boîtes mixtes qu'elles emballent et qui contiennent des articles provenant de plusieurs producteurs.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
+**Visible dans la recherche** : Si votre profil est prêt à être publié, sélectionnez "visible" et votre entreprise apparaîtra dans l'annuaire et la carte de l'OFN. Si vous êtes encore en train de faire des ajustements, sélectionnez "non visible", jusqu'à ce que vous soyez prêt. 
 
-**Permalink:** You can customise part of the web address which will host to your shop.
+**Lien permanent** : Vous pouvez personnaliser une partie de l'adresse web qui hébergera votre boutique. 
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
+**Lien vers la vitrine de la boutique** : Il s'agit de l'adresse Web de votre boutique sur l'OFN \(si vous avez choisi un type de profil avec vitrine\). Vous pouvez personnaliser une partie de l'URL ci-dessus. 
 
-**OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
+**Identifiant OFN** : Cet identifiant permet de reconnaître sans ambiguïté votre entreprise même si vous décidez de changer son nom par exemple, et simplifie le travail de l'équipe de support si nécessaire.
 
-### Address
+### Adresse
 
-This information is used to geolocate your enterprise the OFN map.  You can opt to manually enter the coordinates of your address if the location automatically calculated is incorrect.  This is useful for very rural locations.
+Ces informations sont utilisées pour géolocaliser votre entreprise sur la carte OFN. Vous pouvez choisir d'entrer manuellement les coordonnées de votre adresse si l'emplacement calculé automatiquement est incorrect. Ceci est utile pour les endroits très ruraux.
 
 ![](../../.gitbook/assets/address.jpg)
 
-Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+Votre adresse exacte n'apparaîtra pas si vous êtes uniquement enregistré en tant que profil de producteur ou de non-producteur. En revanche, si vous êtes enregistré en tant que boutique ou hub, votre adresse apparaîtra sous forme de texte dans l'onglet "Coordonnées" de votre vitrine.
 
 ### Contact
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Nom de contact** : Nous demandons un nom de contact pour les dossiers de l'OFN. Ce nom ne sera pas affiché sur votre profil, mais sera inclus dans les courriels de confirmation de commande si vous gérez une boutique. 
 
-**Email, Phone & Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Courriel, téléphone et site Web** : Ces points de contact seront indiqués sur votre profil OFN et sur votre vitrine, afin de vous contacter.
 
-### Social
+### Réseaux Sociaux
 
-**Facebook, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
+**Facebook, Instagram, LinkedIn, Twitter :** Des liens vers ces pages seront créés sur votre profil et votre vitrine.
 
-### About
+### A Propos
 
-**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Description** : Elle s'affiche lorsque votre profil est consulté dans la liste. Elle doit comporter une ou deux phrases décrivant brièvement ce que vous faites. 
 
-**About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**À propos de nous** : Il s'agit d'une description plus longue de votre entreprise. Elle s'affichera lorsque votre profil sera consulté dans son intégralité. Elle doit faire entre une demi-page et une page.
 
-### Business Details
+### Détails de l'entreprise
 
 {% hint style="warning" %}
-These differ from country to country and they depend on local regulations and laws.
+Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois locales.
 {% endhint %}
 
 {% tabs %}
-{% tab title="Australia" %}
-**ABN:** Australian Business Number
-
-**ACN:** Australian Company Number
-
-**Charges GST:** If you wish to charge customers the Goods and Services Tax \(GST\)
-
-**Display Logo on Invoices:** if desired.
-
-**Add Customised Text at the end of Invoices:** such as payment details
-{% endtab %}
-
 {% tab title="Belgium" %}
 
 {% endtab %}
 
 {% tab title="Canada" %}
-**The 2 Business Number fields:**  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.  
-**Charges sales tax?:**If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'  
-**Display logo on invoices:**  If you have uploaded a logo and you want it to display on your invoices,  select the box  
-**Add customized tax at the end of invoices:**   Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers.   
-**Terms and Conditions:**  see below
-{% endtab %}
+**Les deux champs Numéro d'entreprise** : Il s'agit de numéros d'entreprise de différents types. Si vous avez l'intention d'imprimer des factures, vous devez en indiquer le contenu ici. Il peut s'agir de n'importe quoi : le numéro d'enregistrement de votre entreprise, un numéro de téléphone, etc. Il apparaîtra sur les factures imprimées et envoyées par courrier électronique. Si vous n'avez pas l'intention d'imprimer ou d'envoyer des factures, vous n'avez pas besoin de remplir ce champs. 
 
-{% tab title="Catalunya" %}
+**Taxe de vente** : Si l'un des produits que vous vendez est soumis à une taxe de vente dans votre province, vous devez sélectionner "oui". Sinon, sélectionnez "non". 
 
+**Afficher le logo sur les factures** : Si vous avez téléchargé un logo et que vous souhaitez qu'il apparaisse sur vos factures, cochez la case. 
+
+**Ajouter un message à la fin des factures** : Ce que vous écrivez ici apparaîtra à la fin de vos factures. Il peut s'agir d'un message de remerciement ou d'un autre message adressé aux clients. 
+
+**Conditions générales** : voir ci-dessous
 {% endtab %}
 
 {% tab title="France" %}
-**Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
+**Siret** : Cette information ne sera pas publique. Elle est importante pour les commerçants lorsqu'ils veulent émettre des factures à partir de la plateforme. 
 
-**N° intra-Community VAT:** This information will not be public. 
+**N° TVA intracommunautaire** : Cette information ne sera pas publique. 
 
-**In VAT scheme?** If you are within the VAT scheme, select "yes".
+**Dans le système de TVA ?** : Si vous êtes dans le système de TVA, sélectionnez "oui".
 
-**Display the logo on the invoice:** You can choose to display or not the logo of your enterprise on the invoices issued from the platform.
+ **Afficher le logo sur la facture** : Vous pouvez choisir d'afficher ou non le logo de votre entreprise sur les factures émises depuis la plateforme. 
 
-**Add a specific mention at the bottom of the invoices:** You can add a specific mention that you would have the obligation or the wish to add on your invoices.
-{% endtab %}
-
-{% tab title="UK" %}
-**Company Number:** For businesses registered at Companies House this is your unique identifying number.
-
-**Charity Number:** If your enterprise is a registered charity
-
-**Charges VAT:** VAT registered businesses should select this option so that VAT is managed appropriately on invoices and reports.
-
-For advise on selling as a VAT registered enterprise please see this document:
-
-{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" caption="Selling as VAT registered enterprise" %}
-
-**Display Logo on Invoices:** if desired.
-
-**Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
-{% endtab %}
-
-{% tab title="USA" %}
-**ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
-
-**ACN:** this will not be displayed publicly.
-
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
+**Ajouter une mention en bas des factures** : Vous pouvez ajouter une mention spécifique que vous auriez l'obligation ou le souhait d'ajouter sur vos factures.
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
