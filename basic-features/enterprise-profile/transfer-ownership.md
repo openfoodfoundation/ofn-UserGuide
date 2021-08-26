@@ -1,36 +1,36 @@
-# Change Profile Managers / Owners
+# Modifier les Gestionnaires / Propriétaires de Profils
 
-It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself. 
+Il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute le producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" \(gestionnaire principal\) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits. 
 
-To add a new manager and eventually transfer ownership, here is the procedure to follow: 
+Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriété, voici la procédure à suivre :
 
-* On the admin dashboard, go to the Users menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Users\):
+* Sur le tableau de bord d'administration, allez dans le menu Utilisateurs de vos paramètres d'entreprise \(Entreprise &gt; Paramètres &gt; Utilisateurs\) :
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Mangers", search for the email of the producer you would like to add as a manager.
+* Dans " Gestionnaires ", recherchez l'adresse électronique du producteur que vous souhaitez ajouter en tant que gestionnaire.
 
-**Case 1: The Producer in question already has a user account with OFN:**    
-Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.
+**Cas 1 : Le producteur en question possède déjà un compte utilisateur auprès d'OFN :**
+
+Son adresse électronique sera déjà enregistrée chez nous et elle apparaîtra donc lorsque vous commencerez à taper. Sélectionnez et cliquez sur Mettre à jour \(bouton rouge, en bas à droite\) pour enregistrer.
 
 {% hint style="warning" %}
-Warning: you must search for the exact **full** email. We recommend searching our list of users by copying and pasting the **entire** email address.
+Attention : vous devez rechercher l'email **complet exact**. Nous vous recommandons de rechercher notre liste d'utilisateurs en copiant et collant l'adresse e-mail **complète**.
 {% endhint %}
 
-**Case 2: The Producer in question does not yet have a user account with OFN:**  
-In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.   
-The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
+**Cas 2 : Le producteur en question n'a pas encore de compte utilisateur avec OFN** : 
 
-Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification.  At this stage, as a hub manager you may wish to remove yourself from the list of managers. 
+Dans ce cas, vous ne pouvez pas trouver son adresse électronique lorsque vous tapez dans la case "Ajouter un utilisateur existant". Vous devez alors cliquer sur "Ajouter un utilisateur non enregistré" juste en dessous, à côté du champ " Inviter un gestionnaire ". Le producteur recevra alors un e-mail de notre part pour confirmer son inscription. En suivant les instructions détaillées dans l'e-mail, il pourra terminer la configuration de son compte OFN, y compris l'ajout d'un mot de passe. 
+
+Une fois que le producteur est un gestionnaire du profil d'entreprise que vous avez créé en son nom, vous pouvez choisir de le nommer gestionnaire principal et/ou contact pour recevoir les notifications de commande. À ce stade, en tant que gestionnaire principal, vous pouvez vous retirer de la liste des gestionnaires.
 
 {% hint style="warning" %}
-Do not forget to click 'Update' to save your changes!
+N'oubliez pas de cliquer sur " Mettre à jour " pour enregistrer vos modifications !
 {% endhint %}
 
 {% hint style="info" %}
-By default, a user can not be a manager / owner of **more than 5 enterprises**.   
-If you receive a message stating that _the new user has reached their limit_, contact us and we will increase their business limit. 
+Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous augmenterons sa limite d'entreprise. 
 
-This measure is intended to avoid the massive creation of profiles by robots, something that could blow our server and make the platform unavailable. It is a classic prevention measure.
+Cette mesure est destinée à éviter la création massive de profils par des robots, ce qui pourrait faire sauter notre serveur et rendre la plateforme indisponible. Il s'agit d'une mesure de prévention classique.
 {% endhint %}
 

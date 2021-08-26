@@ -13,7 +13,7 @@ Nous allons aborder ce sujet des points de vue suivants:
 * [un Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(le distributeur\)
 * un profil de producteur ou une boutique \(le fournisseur\)
 
-## Les quatre autorisations 
+## Les Quatre Autorisations 
 
 Il existe 4 types différents d'autorisations d'entreprise. On peut les configurer de différentes manières pour donner aux entreprises plus ou moins de droits en fonction de leurs profils.
 
