@@ -78,7 +78,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 {% endhint %}
 
 {% tabs %}
-{% tab title="Belgium" %}
+{% tab title="Belgique" %}
 **Numéro d'entreprise** :  Tout indépendant doit disposer d’un numéro d’entreprise. Celui-ci a pour but de permettre aux instances publiques, mais aussi à vos fournisseurs et à vos clients d’identifier votre entreprise.
 
 **Numéro de TVA** : Si vous n’êtes pas soumis à la TVA, la simple mention de votre numéro d’entreprise ci-dessus suffit.   
