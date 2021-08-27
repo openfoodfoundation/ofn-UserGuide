@@ -79,7 +79,15 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 {% tabs %}
 {% tab title="Belgium" %}
+**Numéro d'entreprise** :  Tout indépendant doit disposer d’un numéro d’entreprise. Celui-ci a pour but de permettre aux instances publiques, mais aussi à vos fournisseurs et à vos clients d’identifier votre entreprise.
 
+**Numéro de TVA** : Si vous n’êtes pas soumis à la TVA, la simple mention de votre numéro d’entreprise ci-dessus suffit.   
+  
+**Soumis à la TVA ?** : Si vous êtes sous le régime de la TVA, sélectionnez "oui". L’assujettissement à la TVA est requis dès lors que votre entreprise fournit \(régulièrement\) des biens ou des services, tels que décrits par le code de la TVA.
+
+**Afficher le logo sur la facture** : Vous pouvez choisir d'afficher ou non le logo de votre entreprise sur les factures émises depuis la plateforme. 
+
+**Ajouter une mention spécifique en bas des factures** : Vous pouvez ajouter une mention spécifique dont vous auriez l'obligation ou le souhait d'ajouter sur vos factures.
 {% endtab %}
 
 {% tab title="Canada" %}
@@ -109,145 +117,143 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 
 
-
-
-**Terms and Conditions** \(pdf files only\) : Let your customers know any terms and conditions associated with purchasing from your business \(for example your refund policy\) by uploading a .pdf file here.
+**Conditions générales** \(fichiers pdf uniquement\) : informez vos clients des conditions générales associées aux achats effectués auprès de votre entreprise \(par exemple, votre politique de remboursement\) en téléchargeant un fichier .pdf ici.
 
 ![](../../.gitbook/assets/tandc.jpg)
 
-If you opt to add a file here, the customer will be required to check the box to say that they have read and agree with your terms and conditions before they can submit their order.
+Si vous choisissez d'ajouter un fichier ici, le client devra cocher la case indiquant qu'il a lu et accepté vos conditions générales avant de pouvoir soumettre sa commande.
 
 ![](../../.gitbook/assets/checkouttc.jpg)
 
-### Images
+### Photos
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will appear warped.  All images inserted here will be resized to 100 x 100 pixels.
+**Photo du logo** : Elle sera visible lorsque votre profil est consulté en bref, sous la forme d'une fenêtre pop-up. Elle apparaîtra également sur votre profil. Cette image doit être carrée \(c'est-à-dire 100 x 100\), sinon elle apparaîtra déformée. Toutes les images insérées ici seront redimensionnées à 100 x 100 pixels. 
 
-**Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+**Photo de promotion** : Cette image sera placée horizontalement en haut de votre page de profil. Sa taille doit être de 1200 x 260 pixels. 
 
-An example profile is shown below in its complete version \(from the map or shopfront pages\).
+Un exemple de profil est présenté ci-dessous dans sa version complète \(à partir des pages de carte ou de vitrine\).
 
 ![](../../.gitbook/assets/demohubimages1.jpg)
 
-And now in its condensed version \(from the producer listing page\).
+Et maintenant dans sa version condensée \(de la page de liste des producteurs\).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties 
+### Propriétés
 
 {% hint style="warning" %}
-Visible to **Producers** only
+Visible uniquement pour les **Producteurs**
 {% endhint %}
 
-You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products. 
+Vous pouvez ajouter des propriétés \(telles que "élevé en plein air" ou "certifié biologique"\) à votre entreprise. Ces propriétés seront ensuite automatiquement appliquées à tous vos produits. 
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md). 
+Vous pouvez aussi spécifier des propriétés pour des produits en particulier, si vous stockez à la fois des produits biologiques certifiés et des produits d'épicerie ordinaires par exemple. Vous trouverez plus d'informations à ce sujet ici.
 
-### Shipping Methods, Payment Methods & Enterprise Fees
+### Modes d'expédition, modes de paiement et frais d'entreprise
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only \(ie invisible for Producer/Non-Producer Profiles\)
+Visible uniquement pour les entreprises enregistrées comme boutiques ou Hubs \(non visible pour les profils producteurs/non-producteurs\).
 {% endhint %}
 
-The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+Les modes d'expédition, les modes de paiement et les frais d'entreprise sont traités plus en détail dans les chapitres suivants de ce manuel.
 
 {% hint style="danger" %}
-At least one method of **payment** and **delivery** must be setup to be able to open your online shopfront.
+Au moins un mode de paiement et de livraison doit être configuré pour pouvoir ouvrir votre vitrine.
 {% endhint %}
 
-### Inventory Settings
+### Paramètres d'inventaire
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-For most enterprises the recommended setting can be used.
+Pour la plupart des entreprises, les paramètres recommandés peuvent être utilisés. 
 
-Advanced users who need greater flexibility with product management should consult the [Inventory](../products-1/inventory-tool.md) page of this guide before changing the settings.
+Les utilisateurs avancés qui ont besoin d'une plus grande souplesse dans la gestion des produits doivent consulter la page Inventaire de ce guide avant de modifier les paramètres.
 
-### Tag Rules
+### Règles des étiquettes
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
+Dans ce menu se trouvent toutes les "étiquettes" qui ont été attribuées aux clients de votre entreprise. 
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+Les "étiquettes" sont des labels que vous appliquez aux clients, aux produits et à d'autres paramètres pour attribuer un accès différentiel, des prix ou d'autres avantages à des groupes spécifiques. Elles sont particulièrement utiles si vous souhaitez faire payer des clients fidèles ou des "membres" de votre centre alimentaire à des prix préférentiels ou leur permettre de payer par BACS plutôt que par PayPal/Stripe. 
 
- For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+Pour plus d'informations, consultez la section "Gestion des clients et affichage/prix conditionnels".
 
-### Shop Preferences
+### Préférences de Vitrine
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
+**Message de la vitrine** : Ce message est facultatif. S'il est rempli, le message sera visible sous l'onglet "Avis" de la barre de menu supérieure. Votre boutique \(et ses produits\) apparaîtra sous l'onglet "Boutique".
 
 ![](../../.gitbook/assets/noticesoneoc.jpg)
 
 ![](../../.gitbook/assets/noticestwooc.jpg)
 
-The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
+Le message de vitrine ou "Avis" est l'occasion de fournir au client des informations de base sur le fonctionnement de votre magasin. Par exemple, vous pouvez expliquer la structure de vos cycles de commande ou les conditions d'adhésion. Il peut également s'agir d'un message d'accueil amical ou d'une occasion de promouvoir des offres spéciales. Vous pouvez inclure des liens vers des sites Web externes \(peut-être pour montrer où vos produits sont cultivés\), vers des médias sociaux, etc.
 
-If left blank the 'Notices' tab will not appear on your shop front.
+S'il est laissé vide, l'onglet "Avis" n'apparaîtra pas sur la façade de votre boutique.
 
 ![](../../.gitbook/assets/nonotices.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
+**Message de fermeture de la vitrine** : Ce message s'affiche sous les onglets "Avis" et "Boutique" lorsque votre vitrine est fermée \(pas de cycle de commande actif\). C'est l'occasion d'indiquer aux clients quand la boutique sera à nouveau ouverte et acceptera des commandes.
 
 {% hint style="success" %}
-TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
+Astuce : Copiez-collez votre message de vitrine dans le Message de fermeture de la vitrine. Vous pouvez ainsi informer les clients sur le fonctionnement de votre boutique, créer des liens vers des sites Web externes contenant plus d'informations sur vos produits et votre mission, etc. et les informer de la date d'ouverture du prochain cycle de commande.
 {% endhint %}
 
 ![Closed Shopfront with customised message](../../.gitbook/assets/closedmessageyes.jpg)
 
 ![Closed Shopfront with Default message](../../.gitbook/assets/closedmessageno.jpg)
 
-**Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Commande par catégorie dans la boutique** : Par défaut, les produits sont classés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par ordre de catégorie selon votre souhait. Dans ce cas, les produits seront affichés par ordre de catégorie, puis par ordre alphabétique au sein de leur catégorie. Par exemple, vous pouvez souhaiter que vos produits de viande et de poisson apparaissent en haut de la page, tandis que vos conserves et cornichons, moins importants, apparaissent plus bas dans la vitrine. 
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Trier les cycles d'ordre sur la vitrine par** : Si votre vitrine a plus d'un cycle de commande ouvert en même temps, vous pouvez sélectionner l'ordre dans lequel ils apparaissent sur la vitrine. Vous pouvez choisir de les trier par date de clôture \(clôture en premier\) ou par date d'ouverture \(ouverture en premier\). 
 
-**Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
+**Vitrine visible par le public ?** Si vous sélectionnez "public", tout client pourra accéder à votre vitrine et passer une commande. Si vous sélectionnez "visible uniquement pour les clients enregistrés", les acheteurs qui se visitent votre boutique seront invités à se connecter et seuls les utilisateurs figurant dans votre liste de clients auront accès à votre boutique. En savoir plus sur la fonction de boutique privée. 
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**Commandes d'invités ?** Si vous sélectionnez l'option "Autoriser les commandes d'invités", les acheteurs n'auront pas besoin de se connecter à l'OFN pour effectuer des achats sur votre site, ils n'auront donc pas besoin de s'inscrire et d'avoir un compte utilisateur. 
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+Si vous souhaitez bénéficier d'une sécurité supplémentaire en sachant que vos clients doivent disposer d'un compte OFN pour pouvoir passer une commande, sélectionnez "Nécessite une connexion pour commander". Pour qu'un client dispose d'un compte OFN, il doit avoir confirmé l'e-mail qui lui a été envoyé lors de son inscription sur notre site. Ainsi, en sélectionnant "Requérir une connexion pour commander", cela peut aider à limiter le nombre de commandes passées qui ne sont jamais collectées par la suite, car vous savez que l'e-mail de confirmation de commande du client sera envoyé à un compte e-mail actif.
 
 {% hint style="warning" %}
-The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
+Le paramètre "Commandes d'invités" n'est pas applicable si vous avez opté pour "visible uniquement par les clients enregistrés".
 {% endhint %}
 
-**Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' \(ie people without an OFN account\) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
+**Modification des commandes** : Nous recommandons le paramètre par défaut "Les commandes passées ne peuvent pas être modifiées ou annulées", surtout si vous autorisez les "clients invités" \(c'est-à-dire les personnes sans compte OFN\) à passer des commandes. Cela vous permet, en tant que gestionnaire de boutique ou de centre, de garder une trace des paiements reçus et des remboursements effectués. Si un client souhaite modifier sa commande, vous pouvez le faire vous-même, en utilisant la fonctionnalité "Modifier la commande".
 
 {% hint style="success" %}
-_**Customers can change or cancel orders while an order cycle is open**_ is ONLY suitable if you use the **'cash/EFT/...**' [payment method](../shopfront/payment-methods.md) provider.  
+_**Les clients peuvent modifier ou annuler des commandes pendant qu'un cycle de commande est ouvert**_ ne convient que si vous utilisez le fournisseur de méthodes de paiement **"cash/EFT/..."**.
 {% endhint %}
 
 {% hint style="danger" %}
-Opting for 'customers can change or cancel orders while an order cycle is open' with an **automated** [payment provider](../shopfront/payment-methods.md) \(Stripe/Paypal\) is **strongly advised against**.
+Il est **fortement déconseillé** d'opter pour l'option "les clients peuvent modifier ou annuler des commandes pendant qu'un cycle de commande est ouvert" avec un fournisseur de paiement **automatisé** \(Stripe/Paypal\).
 {% endhint %}
 
-Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to change the quantities of **products already in their basket** **or cancel their order** altogether while the shop is open.  They will **not be able to add new products** to their original order- doing this will generate a 2nd order.  
+En choisissant l'option "Les clients peuvent modifier ou annuler des commandes pendant que le cycle de commande est ouvert", les clients peuvent modifier les quantités **des produits déjà dans leur panier ou annuler leur commande** pendant que la boutique est ouverte. Ils ne pourront pas **ajouter de nouveaux produits** à leur commande initiale, une deuxième commande serait alors créée.
 
 {% hint style="danger" %}
-[Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer, nor will additional funds be automatically collected.
+Les remboursements ne seront pas automatiquement émis au client, et des frais supplémentaires ne seront pas automatiquement collectés.
 {% endhint %}
 
-**Subscriptions:** If you would like to offer to set up regular repeating orders for your customers then you can enable the [subscriptions](../subscriptions/) functionality here.
+**Abonnements** : Si vous souhaitez proposer à vos clients de mettre en place des commandes régulières et répétitives, vous pouvez activer la fonctionnalité d'abonnements ici. 
 
-**Customer names in reports.** If you distribute products from other suppliers / producers, they will be able to run reports showing details of their products as sold through your Order Cycles. This option allows you to make the names of customers visible in these reports. Depending on the distribution model you have in place, this may be necessary for Producers to pack and distribute orders to the customers.
+**Noms des clients dans les rapports** : Si vous distribuez des produits provenant d'autres fournisseurs ou producteurs, ceux-ci seront en mesure de générer des rapports détaillant leurs produits vendus par le biais de vos cycles de commande. Cette option vous permet de rendre les noms des clients visibles dans ces rapports. Selon le modèle de distribution que vous avez mis en place, cela peut être nécessaire pour que les producteurs emballent et distribuent les commandes aux clients.
 
 
 
-### Users
+### Utilisateurs
 
-**Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
+**Propriétaire** : Il s'agit de l'adresse électronique de l'utilisateur principal responsable de cette entreprise. Il a le pouvoir de modifier tous les aspects du profil. Seul le propriétaire peut changer le propriétaire, en choisissant parmi la liste des gestionnaires de l'entreprise. Cet utilisateur aura une étoile à côté de son nom dans le champ des gestionnaires. 
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Notifications** : Il s'agit de l'adresse électronique de l'utilisateur à qui la correspondance du système OFN sera adressée, c'est-à-dire les confirmations de commande, etc. Seul le propriétaire peut désigner l'utilisateur qui recevra les notifications, parmi la liste des gestionnaires de l'entreprise. Cet utilisateur aura un symbole d'enveloppe à côté de son nom dans le champ des gestionnaires. 
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Gestionnaires** : Les autres utilisateurs d'OFN qui ont reçu l'autorisation de gérer ce compte. Vous voulez ajouter un nouveau gestionnaire ? Vous pouvez rechercher les e-mails existants des utilisateurs qui se sont inscrits pour un compte OFN et les ajouter en tant que gestionnaires. Si vous ne trouvez pas d'utilisateur pour l'email que vous recherchez, l'utilisateur n'existe pas encore sur l'OFN, vous devez l'inviter \(voir point suivant\). 
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Inviter un gestionnaire** : Il s'agit d'ajouter un gestionnaire qui n'est pas enregistré dans l'OFN. Lorsque vous l'ajoutez, il recevra un e-mail de confirmation et lorsqu'il confirmera son e-mail, il pourra définir un mot de passe et se connecter pour gérer cette entreprise.
 
