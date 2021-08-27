@@ -1,4 +1,4 @@
-# Add products
+# Ajouter des produits
 
 You can either add products to your catalog one by one \(detailed below\) or by [bulk import](product-and-inventory-import.md), if you have all the relevant details in a .csv file.
 
