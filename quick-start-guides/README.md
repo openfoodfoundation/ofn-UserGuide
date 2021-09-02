@@ -2,17 +2,17 @@
 description: Simple steps to start your OFN journey
 ---
 
-# Guides de mise en route rapide
+# Quick Start Guides
 
-Commencer à utiliser Open Food Network, c'est facile!
+Getting started on the Open Food Network can be as easy as 1-5!
 
-Choisissez le guide en fonction de la catégorie qui vous correspond:
+Follow the quick set up list for your enterprise:
 
 * [Hub](multi-producers-shop-hub-quick-setup-guide.md)
-* Boutique
+* [Shop](producer-shop-quick-setup-guide.md)
 * [Profile](profile-only-quick-setup-guide.md)
 
-Incertain·e de la catégorie à laquelle vous appartenez? Renseignez-vous sur cette [page](../your-quick-start-on-ofn-given-who-you-are.md).
+Not sure which enterprise you are?  Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
 
-Pour en savoir plus sur comment créer votre propre marché fermier digital, cliquez [here](digital-farmers-markets.md).
+For advice on setting up a Digital Farmer's Market read [here](digital-farmers-markets.md).
 
