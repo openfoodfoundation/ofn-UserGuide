@@ -33,15 +33,13 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
 
 * **Active:** Select whether this payment method is currently visible and available, or not.
 * **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
-* **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:
-  * MasterCard Internet Gateway Service \(MIGS\) 
+* **Payment providers**: Select the option which is relevant to the payment method you are creating. There are three options:
   * PayPal Express 
-  * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
   * ~~Stripe/ Stripe Connect~~ \(This payment has been deprecated and will be removed. Use Stripe SCA\)
   * Stripe SCA
   * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
 
-![](../../.gitbook/assets/payment-methods1.jpg)
+![](../../.gitbook/assets/untitled-design-1-.png)
 
 {% hint style="warning" %}
 Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled \(found in Enterprises -&gt; Settings -&gt; [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)\) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...\)
