@@ -67,7 +67,7 @@ Your exact address won't show if you are only registered as a Producer or Non-Pr
 
 ### About
 
-**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Short description:** This will be displayed when your profile is viewed in the producer's list. It should be under 1-2 sentences which briefly describe what you do.
 
 **About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
 
