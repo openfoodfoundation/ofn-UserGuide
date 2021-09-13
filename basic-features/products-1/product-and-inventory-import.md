@@ -6,257 +6,148 @@ description: >-
 
 # Product and Inventory import
 
-The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
+L'outil d'importation de produits et de stocks vous permet de télécharger un fichier .csv pour ajouter et mettre à jour votre stock. Cela peut être beaucoup plus rapide et efficace que d'ajouter ou de mettre à jour les produits un par un. 
 
-The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
+Pour les producteurs qui mettent déjà régulièrement à jour un catalogue de leurs produits dans une feuille de calcul Excel, cela peut faire gagner beaucoup de temps ! Vous trouverez l'**outil d'importation de produits et de stocks** en cliquant sur **Produits** dans le menu bleu horizontal, et sur Importation de produits dans le menu vert. 
 
-There's four main ways you can use the tool:
+Vous pouvez utiliser l'outil de quatre manières :
 
-1. Import new [products](./)
-2. Update existing product details
-3. Import products to a new shop/hub [inventory](inventory-tool.md) 
-4. Update products in a shop/hub inventory
+1. Importer de nouveaux produits 
+2. Mettre à jour les détails des produits existants 
+3. Importer des produits dans un nouvel inventaire de magasin ou de hub 
+4. Mettre à jour les produits d'un inventaire de boutique ou de hub
 
 {% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
+Si vous avez besoin de cette fonctionnalité, veuillez en informer votre OFN local. Vos commentaires sont les bienvenus.
 {% endhint %}
 
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+Dans tous les cas, le processus consiste à télécharger un modèle csv, à remplir les champs et à télécharger à nouveau votre fichier csv dans OFN.
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .csv files directly.  
-If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)  
-With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.  
-If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+**Remarque importante sur les fichiers CSV** : Microsoft Excel n'ouvre pas directement les fichiers .csv. Si vous le pouvez, nous vous suggérons de télécharger la version gratuite de Libre Office [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/). Avec Libre Office Calc, vous pourrez ouvrir et éditer des CSV très facilement et les enregistrer dans le bon format d'encodage UTF-8. 
+
+Si vous ne pouvez pas utiliser Libre Office, alors pour ouvrir un fichier CSV dans Microsoft Excel, vous devez suivre les étapes suivantes : [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)  
 {% endhint %}
 
 {% hint style="danger" %}
-Not all fields can be captured and uploaded/updated using this tool. Currently, [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
+Tous les champs ne peuvent pas être capturés et téléchargés/mises à jour à l'aide de cet outil. Actuellement, les images, les propriétés et les paramètres d'achat groupé doivent être téléchargés manuellement pour chaque produit.
 
-We hope to include these in future developments.
+Nous espérons les inclure dans les développements futurs.
 {% endhint %}
 
-## Import New Products
+## Importer de Nouveaux Produits
 
-Use these instructions if you want to add new products to a producer's profile.
+Utilisez ces instructions si vous souhaitez ajouter de nouveaux produits au profil d'un producteur.
 
 {% hint style="success" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+Vous pouvez simultanément télécharger de nouveaux produits et mettre à jour des produits existants avec un seul téléchargement CSV. Les instructions de ce guide sont séparées pour plus de clarté, mais vous pouvez combiner les nouveaux produits et les mises à jour dans la même feuille de calcul.
 {% endhint %}
 
-### Prepare the CSV file for import
+### Préparer le fichier CSV à être importé
 
-Firstly, download the **Product List Template CSV** file from the **Product Import** page and open it with Libre Office \(Excel or equivalent\).
+Tout d'abord, téléchargez le **fichier CSV modèle de liste de produits** depuis la page d'**importation de produits** et ouvrez-le avec Libre Office \(Excel ou équivalent\). 
 
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+Vous verrez que le modèle donne tous les intitulés de colonne nécessaires pour réussir l'importation d'un produit. Chaque ligne correspond à un nouveau produit ou à une nouvelle variante. Vous trouverez ci-dessous une description de la manière de remplir chaque colonne.
 
 {% hint style="danger" %}
-Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
+Notez que tous les champs sont sensibles à la casse. Par exemple, vous devez utiliser mL et non ml, ou Légumes et non légumes.
 {% endhint %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Column Title</th>
-      <th style="text-align:left">Required?</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Example</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">producer</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">This is the name of the producer profile that this product will be assigned
-        to</td>
-      <td style="text-align:left">Four Mile Farm</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">sku</td>
-      <td style="text-align:left">N</td>
-      <td style="text-align:left">The SKU code for this product</td>
-      <td style="text-align:left">AD001265</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">name</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">This is the name of the product</td>
-      <td style="text-align:left">Yoghurt</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">display name</td>
-      <td style="text-align:left">N</td>
-      <td style="text-align:left">This field applies if you are creating variants (see instructions below).
-        If you&apos;re not creating a variant leave this field blank.</td>
-      <td style="text-align:left">Rasberry Yoghurt</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">category</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">Which category does this product sit in? The categories available are
-        listed on the Product Import page</td>
-      <td style="text-align:left">Dairy</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">units</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">The weight, volume or quantity value</td>
-      <td style="text-align:left">500</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">unit_type</td>
-      <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">What unit is it sold in (g, kg, T, mL, L)? If sold as an item (e.g. bunch)
-        leave blank</td>
-      <td style="text-align:left">g</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">variant_unit_name</td>
-      <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">If the product is sold as an item (e.g loaf, bunch, pumpkin) write the
-        item type here</td>
-      <td style="text-align:left">Bunch</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">price</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">The price of the product. If the item carries tax, this must be the tax
-        inclusive price.</td>
-      <td style="text-align:left">3.70</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>On_Hand</p>
-        <p>(in_stock)</p>
-      </td>
-      <td style="text-align:left">Maybe</td>
-      <td style="text-align:left">If you have limited stock for the product type the stock level here. If
-        you have infinite stock available (you can always source it) enter 0 and
-        use the unlimited column</td>
-      <td style="text-align:left">40</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">available_on</td>
-      <td style="text-align:left">N</td>
-      <td style="text-align:left">Leave blank</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">On_demand (unlimited)</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">If you have infinite stock available for this product, type 1, if you&apos;re
-        using on_hand leave blank. If you enter a number in in_stock <em>and</em> 1
-        in unlimited, the product will be unlimited.</td>
-      <td style="text-align:left">1</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">shipping_category</td>
-      <td style="text-align:left">Y</td>
-      <td style="text-align:left">Which shipping category does this product sit in? The shipping categories
-        available are listed on the Product Import page</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">tax_category</td>
-      <td style="text-align:left">N</td>
-      <td style="text-align:left">If the price of your product includes tax type GST, if not leave blank</td>
-      <td
-      style="text-align:left">GST</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">description</td>
-      <td style="text-align:left">N</td>
-      <td style="text-align:left">You can create a description, but you cannot update one. Please make sure
-        that the text you wrote matches the current description in case of an update.</td>
-      <td
-      style="text-align:left">This Yoghurt is made from local raspberries</td>
-    </tr>
-  </tbody>
-</table>
+| Colonne | Requis? | Description | Exemple |
+| :--- | :--- | :--- | :--- |
+| producteur | Oui | Le nom du profil du producteur auquel ce produit sera attribué. | Ferme de la Montagne |
+| N° de produit | Non | Le numéro associé à ce produit | AD001265 |
+| nom | Oui | Le nom du produit | Yaourt |
+| nom d'affichage | Non | Ce champ s'applique si vous créez des variantes \(voir les instructions ci-dessous\). Si vous ne créez pas de variante, laissez ce champ vide. | Yaourt aux Framboises |
+| catégorie | Oui | Dans quelle catégorie se trouve ce produit ? Les catégories disponibles sont énumérées sur la page d'importation des produits. | Produits Laitiers |
+| unités | Oui | la valeur du poids / la quantité / le nombre d'unité | 500 |
+| type d'unité | Peut-être | Dans quelle unité le produit est-il vendu? | g |
+| unité de variante | Peut-être | Si le produit se vend par article, indiquez le nom de l'article ici | Pot |
+| prix | Oui | Le prix du produit. Si le produit est soumis à des taxes, indiquez le prix incluant celles-ci | 3.70 |
+| niveau de stock | Peut-être | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) enter 0 and use the unlimited column | 40 |
+| disponible | Non | Laissez ce champs libre |  |
+| à la demande | Oui | Si vous avez du stock illimité pour ce produit, indiquez 1. | 1 |
+| catégorie d'expédition | Oui | Dans quelle catégorie d'expédition se trouve ce produit ? Les catégories d'expédition disponibles sont répertoriées sur la page Importation de produit |  |
+| catégorie de taxe | Non | Si le prix de votre produit inclut la taxe, tapez GST, sinon laissez le champ vide. | GST |
+| description | Non | Vous pouvez créer une description, mais vous ne pouvez pas la mettre à jour. Veuillez vous assurer que le texte que vous avez écrit correspond à la description actuelle en cas de mise à jour. | Ce yaourt contient des framboises de la région |
 
-#### Import Product Variants
+#### Importer des Variantes de Produits
 
-In the import process, variants are distinguished by the units \(such as salad sold as 500 g and 750 g bags\) or display\_name fields \(such as a yoghurt sold in multiple flavours\). As long as the product name is the same, the rows will be imported as variants. The example below shows a salad that comes in 500g and 750g variants, and a yoghurt that comes in multiple flavours.
+Dans le processus d'importation, les variantes se distinguent par les unités \(comme la salade vendue en sacs de 500 g et 750 g\) ou le champ nom \(comme un yaourt vendu en plusieurs saveurs\). Tant que le nom du produit est le même, les lignes seront importées en tant que variantes. L'exemple ci-dessous montre une salade qui existe en variantes de 500 g et 750 g, et un yaourt qui existe en plusieurs saveurs.
 
-| name | display\_name | price | units | unit\_type |
+| nom | nom d'affichage | prix | unités | type d'unité |
 | :--- | :--- | :--- | :--- | :--- |
-| Raspberries |  | 3.60 | 200 | g |
-| Raspberries |  | 4.80 | 300 | g |
-| Apples | Golden Delicious | 3.60 | 500 | g |
-| Apples | Pink Lady | 4.80 | 500 | g |
+| Framboises |  | 3.60 | 200 | g |
+| Framboises |  | 4.80 | 300 | g |
+| Pommes | Golden Delicious | 3.60 | 500 | g |
+| Pommes | Pink Lady | 4.80 | 500 | g |
 
-The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading.
+L'image ci-dessous montre comment ces produits seront affichés dans la boutique. Notez que le champ "name" devient le titre principal et que le champ "nom d'affichage" devient le titre secondaire.
 
 ![](../../.gitbook/assets/samedisplayname%20%281%29.jpg)
 
 ![](../../.gitbook/assets/differentdisplaynames.jpg)
 
-#### Unit type examples
+#### Exemples de types d'unité
 
-Below are some examples to show how products with different units \(g, ml, kg and items\) should be uploaded.
+Vous trouverez ci-dessous quelques exemples montrant comment présenter des produits avec différentes unités \(g, ml, kg et articles\).
 
-| producer | **name** | **category** | **price** | **units** | **unit\_type** | **variant\_unit\_name** |
+| producteur | **nom** | **catégorie** | **prix** | **unités** | type d'unité | **nom de variante** |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| Sue's Salads | Salad Bag | Vegetables | 3.50 | 500 | g |  |
-| Henry Orchards | Fruit Juice | Drinks | 3.50 | 300 | ml |  |
-| Fernwell Produce | Potatoes | Vegetables | 9.50 | 5 | kg |  |
-| Tom's Bakery | Wholemeal Bread | Baked goods | 3.00 | 1 |  | loaf |
+| Les salades de Suzanne | Salade | Légumes | 3.50 | 500 | g |  |
+| Le Verger d'Henri | Jus de fruits | Boissons | 3.50 | 300 | ml |  |
+| Bélanger Primeurs | Pommes de terre | Légumes | 9.50 | 5 | kg |  |
+| la Boulangerie de Tom | Pain complet | Boulangerie | 3.00 | 1 |  | miche |
 
-### Import the CSV
+### Importer le fichier CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
+Une fois que vous avez rempli le modèle de **liste de produits CSV**, vous êtes prêt à le télécharger dans OFN.
 
-1. Go to **Products** &gt;  **Product Import.**
-2. **Select import type:** Select Product List
-3. **Select a spreadsheet to upload:** Find the csv file you wish to upload.
+1. Allez dans **Produits** &gt; **Importation de produits**. 
+2. Sélectionnez le type d'importation : Sélectionnez **Liste de produits** 
+3. Sélectionnez une feuille de calcul à télécharger : Trouvez le fichier csv que vous souhaitez télécharger. Comme vous téléchargez de nouveaux produits, vous pouvez ne pas cocher la case "Remettre le stock à zéro pour tous les produits existants non présents dans le fichier". 
+4. Cliquez sur **Télécharger**.
 
-   Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unchecked.
-
-4. Click **Upload**.
-
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
+Vous verrez un résumé de votre téléchargement, y compris les éventuelles erreurs. Vous serez également informé du nombre de produits que vous créez et de ceux que vous mettez à jour. Si vous êtes satisfait des résultats du téléchargement, cliquez sur **Enregistrer**.
 
 {% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
+C'est une bonne habitude de vérifier que les produits ont été téléchargés/mises à jour comme vous le souhaitiez.
 {% endhint %}
 
-You can then upload another spreadsheet or go to the products page to view your new products.
+Vous pouvez ensuite télécharger une autre feuille de calcul ou aller à la page des produits pour voir vos nouveaux produits.
 
-## Update Existing Product Details
+## Mettre à jour les Détails d'un Produit Existant
 
-The instructions below relate to updating the details of an existing product. This tool is intended as a quick way to update product prices and stock levels.
+Les instructions ci-dessous concernent la mise à jour des détails d'un produit existant. Cet outil est conçu comme un moyen rapide de mettre à jour les prix et les niveaux de stock des produits.
 
 {% hint style="info" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+Vous pouvez simultanément télécharger de nouveaux produits et mettre à jour des produits existants avec un seul téléchargement CSV. Les instructions de ce guide sont séparées pour plus de clarté, mais vous pouvez combiner les nouveaux produits et les mises à jour dans la même feuille de calcul.
 {% endhint %}
 
-### Prepare the CSV file for import
+### Préparer le fichier CSV à être importé
 
-The process for updating product details is similar to [uploading new products](product-and-inventory-import.md#import-new-products). The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better.
+Le processus de mise à jour des détails d'un produit est similaire à celui du téléchargement de nouveaux produits. La première étape consiste à télécharger le **modèle de liste de produits** et à remplir les noms des produits et des fournisseurs. Si vous disposez de cette feuille de calcul provenant d'un précédent téléchargement, c'est encore mieux. 
 
-The system requires seven fields to correctly identify the product you want to update. There are four fields which can be updated and four fields which cannot using this tool.
+Le système requiert sept champs pour identifier correctement le produit que vous souhaitez mettre à jour. Quatre champs peuvent être mis à jour et quatre ne le peuvent pas à l'aide de cet outil.
 
-| Required fields \(you can't update\) | Fields you can update | Fields that won't update and aren't required |
+| Champs requis \(non modifiables\) | Champs modifiables | Champs non requis et non modifiables |
 | :--- | :--- | :--- |
-| \*producer | sku | ^variant\_unit\_name |
-| \*name | price | ^tax\_category |
-| ^category | in\_stock | ^shipping\_category |
-| \*units | unlimited | ^description |
-| ^unit\_type \(if applicable\) |  |  |
-| ^variant\_unit\_name \(if applicable\) |  |  |
-| \*display\_name |  |  |
+| \*producteur | N° de produit | ^nom d'unité des variantes |
+| \*nom | prix | ^catégorie de taxe |
+| ^catégorie | en stock | ^catégorie d'expédition |
+| \*unités | illimité | ^description |
+| ^type d'unité \(si applicable\) |  |  |
+| ^nom d'unité de variantes \(si applicable\) |  |  |
+| \*nom d'affichage |  |  |
 
-_^ if you try to update these fields you'll see an error message_
+_^ si vous essayez de mettre à jour ces champs, vous verrez un message d'erreur_
 
-_\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
+_\*Si vous essayez de mettre à jour ces champs, vous allez créer de nouveaux produits ou de nouvelles variantes, plutôt que de mettre à jour un produit existant._
 
-Once complete, the .csv can be [imported](product-and-inventory-import.md#import-the-csv) in the same manner as for new products.
+Une fois terminé, le fichier .csv peut être importé de la même manière que pour les nouveaux produits.
 
 {% hint style="info" %}
-**Set stock to zero for all exiting products not present in the file:**  
-If you select this tickbox the system will set the 'In Stock' value to zero for _all products already your product list_.  
-If a product was 'Unlimited' it will remain 'Unlimited'.  
-The Products in this import will retain the stock level set in the .csv
+**Mettre le stock à zéro pour tous les produits existants non présents dans le fichier** : Si vous cochez cette case, le système mettra la valeur "En stock" à zéro pour tous les produits déjà dans votre liste de produits. Si un produit était "illimité", il restera "illimité". Les produits de cette importation conserveront le niveau de stock défini dans le fichier .csv.
 {% endhint %}
 
 ## Import New Inventory or update your inventory
