@@ -4,7 +4,7 @@ description: >-
   distributors can set up their hub inventory in bulk.
 ---
 
-# Product and Inventory import
+# Importer des Produits dans l'Inventaire
 
 L'outil d'importation de produits et de stocks vous permet de télécharger un fichier .csv pour ajouter et mettre à jour votre stock. Cela peut être beaucoup plus rapide et efficace que d'ajouter ou de mettre à jour les produits un par un. 
 
