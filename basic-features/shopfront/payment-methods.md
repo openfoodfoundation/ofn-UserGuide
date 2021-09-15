@@ -1,94 +1,92 @@
-# Payment Methods
+# Modes de Paiement
 
 {% hint style="danger" %}
-You **must** create at least one payment method before you can open your shop.
+Il vous faut créer **au moins un** mode de paiement avant de pouvoir ouvrir votre boutique.
 {% endhint %}
 
-Before you read on, you might like to look at a quick demonstration of how to set up your first payment method:
+Avant de poursuivre votre lecture, nous vous proposons une démonstration rapide de la manière de configurer votre premier mode de paiement :
 
 ![](../../.gitbook/assets/paymentmethod.gif)
 
-## Setting up a Payment Method
+## Configurer un Mode de Paiement
 
-* Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
-* Click **Create new payment method +** . You will be directed to a page like this:
+* Accédez à la page des modes de paiement en cliquant sur **Entreprises** dans le menu horizontal bleu, puis cliquez sur **Paramètres** à côté de votre entreprise. La page des modes de paiement se trouve dans le menu de gauche. 
+* Cliquez sur **Créer un nouveau mode de paiement +** . Vous serez dirigé vers une page comme celle-ci :
 
 ![](../../.gitbook/assets/paymentmethods2.jpg)
 
-* Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
-* **Name:** Choose a name for this payment method. \(eg 'Pay with credit card using Paypal'\). This name is displayed at checkout and on customers' order confirmation emails.
+* Cochez votre entreprise, dans la case située à droite de la page intitulée "Hubs". Cela indique à quelle entreprise s'appliquera le mode de paiement que vous êtes sur le point de créer. Vous pouvez sélectionner plusieurs entreprises. 
+* **Nom** : Choisissez un nom pour ce mode de paiement. \(par exemple, "Payer par carte de crédit"\). Ce nom sera affiché à la caisse et sur les e-mails de confirmation de commande des clients.
 
 ![](../../.gitbook/assets/paymentmethod2.jpg)
 
-* **Description:** provide further details about the payment method. For example, for a bank transfer, you would enter the bank account details in this box into which you would like a customer to make the BACS payment. This description is displayed at checkout and in order confirmation emails.
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Description** : fournissez des détails supplémentaires sur le mode de paiement. Par exemple, pour un virement bancaire, vous indiquerez dans ce champ les coordonnées du compte bancaire sur lequel vous souhaitez que le client effectue le paiement BACS. Cette description est affichée à la caisse et dans les e-mails de confirmation de commande. 
+* **Affichage** : Choisissez entre "visible par l'administration uniquement" et "visible par l'acheteur sur la boutique".
 
 {% hint style="info" %}
-If you want to inactivate a payment method for a while but might want to offer it again in the future \(perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection\) then change it to 'Back Office Only'.
+Si vous souhaitez désactiver un mode de paiement pendant un certain temps, mais que vous souhaitez le proposer à nouveau à l'avenir \(peut-être en raison d'une épidémie de COVID, vous devez temporairement cesser de proposer des encaissements\), changez-le en "visible par l'administration uniquement".
 {% endhint %}
 
 {% hint style="warning" %}
-Changing all your enterprise's payment methods to 'Back Office Only' will result in a [Display Only Shopfront](display-only-order-cycles.md) for active order cycles.
+Si vous changez tous les modes de paiement de votre entreprise en "visible par l'administration uniquement", vous obtiendrez une vitrine à affichage unique pour les cycles de commande actifs.
 {% endhint %}
 
-* **Active:** Select whether this payment method is currently visible and available, or not.
-* **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
-* **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:
-  * MasterCard Internet Gateway Service \(MIGS\) 
+* **Actif** : Indiquez si ce mode de paiement est actuellement visible et disponible, ou non. 
+* **Étiquettes** : Utilisez des étiquettes si vous souhaitez rendre certains modes de paiement disponibles ou non pour des clients spécifiques \(par exemple, vous pouvez autoriser uniquement les clients en gros à payer par BACS mais "obliger" les clients nationaux à payer par carte de crédit ou PayPal\). Pour plus d'informations, lisez ici. 
+* **Fournisseurs de paiement** : Sélectionnez l'option correspondant au mode de paiement que vous créez. Il existe cinq options :
+* * MasterCard Internet Gateway Service \(MIGS\) 
   * PayPal Express 
-  * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
-  * ~~Stripe/ Stripe Connect~~ \(This payment has been deprecated and will be removed. Use Stripe SCA\)
   * Stripe SCA
-  * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
+  * Espèces, chèques ou virements bancaires. Ces paiements ne passent pas par un portail de paiement en ligne et n'impliquent pas de validation automatique.
 
 ![](../../.gitbook/assets/payment-methods1.jpg)
 
 {% hint style="warning" %}
-Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled \(found in Enterprises -&gt; Settings -&gt; [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)\) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...\)
+N'oubliez pas ! Si votre entreprise a activé l'option "_**Les clients peuvent modifier ou annuler des commandes pendant qu'un cycle de commande est ouvert**_" \(dans Entreprises -&gt; Paramètres -&gt; Préférences de la boutique\), le seul fournisseur de paiement recommandé compatible avec cette fonctionnalité est "Espèces, TEF, ...".\)
 {% endhint %}
 
-* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
+* **Calculatrice** : Sélectionnez comment vous souhaitez que les frais associés au mode de paiement s'appliquent à une commande. Notez que les frais liés au mode de paiement peuvent être fixés à zéro. Voir ci-dessous pour plus d'informations sur les frais de mode de paiement.
 
-By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
+En cliquant sur **Créer**, le mode de paiement sera créé et vous disposerez de nouveaux champs pour définir les frais du mode de paiement. Ces champs visibles dépendent de la "calculatrice" que vous avez sélectionnée.
 
 {% hint style="info" %}
-If you change the Payment Method fee 'Calculator' field you must first save your changes \(Update\) for the new associated fields to become visible.
+Si vous modifiez le champ "Calculatrice" du mode de paiement, vous devez d'abord enregistrer vos modifications \(Mettre à jour\) pour que les nouveaux champs associés deviennent visibles.
 {% endhint %}
 
-## Integrated Payment Providers
+## Prestataires de paiement intégrés
 
-For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional instructions are below.
+Voici les instructions pour configurer les modes de paiement tierces Paypal, Mastercard \(MIGS\) et Strip
 
 {% tabs %}
 {% tab title="Paypal" %}
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
+Pour configurer un mode de paiement PayPal, vous avez besoin d'un compte professionnel ou marchand PayPal. Vous pouvez en créer un ici. Une fois que vous l'avez, vous pouvez configurer un "accès API" dans PayPal, ce qui permettra à OFN de connecter les clients directement à votre compte PayPal.
 
-1. Login to your PayPal Account
-2. Under your account name on the top right there is a drop down menu with 'Account Settings'
+1. Connectez-vous à votre compte PayPal.
+2. Sous le nom de votre compte, en haut à droite, se trouve un menu déroulant intitulé "Paramètres du compte".
 
 ![](../../.gitbook/assets/paypalmay1.jpg)
 
-3. Select 'Update' from API Access
+3. Sélectionnez " Mettre à jour " dans Accès API
 
 ![](../../.gitbook/assets/paypalmay2.jpg)
 
-4. Select 'Manage API credentials' from the custom checkout experience option.
+4. Sélectionnez "Gérer les informations d'identification de l'API" dans l'option de paiement personnalisé.
 
 ![](../../.gitbook/assets/paypalmay3.jpg)
 
-From here you will be able to access your API username, password and signature.
+De là, vous pourrez accéder à votre nom d'utilisateur, votre mot de passe et votre signature de l'API.
 
 ![](../../.gitbook/assets/paypalmay4.jpg)
 
-**In OFN,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
+Dans OFN, assurez-vous que vous êtes connecté en tant qu'utilisateur de l'entreprise. Allez dans une entreprise et créez une méthode de paiement. Sélectionnez PayPal et remplissez les détails à partir du site PayPal. 
 
-**Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
+**Serveur** : Remplacez le champ " serveur " par " en ligne " - ce champ est sensible à la casse. 
 
-**Login:**Type the API Username.
+**Identifiant** : saisissez le nom d'utilisateur de l'API. 
 
-**Password:**Type the API Password.
+**Mot de passe** : saisissez le mot de passe de l'API. 
 
-**Signature:**Type the API Signature in this field.
+**Signature** : saisissez la signature de l'API dans ce champ.
 
 ![](../../.gitbook/assets/paypal3.jpg)
 
@@ -168,87 +166,75 @@ If you need to take additional payment from a customer because they have further
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 {% endtab %}
-
-{% tab title="Pin Payments" %}
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member \([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup)\)
-
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
-
-![](../../.gitbook/assets/api-keys.png)
-
-![](../../.gitbook/assets/api-2.png)
-
-**Server:**Type ‘live’ – this is case sensitive.
-{% endtab %}
 {% endtabs %}
 
-## Payment Method Fees
+## Les Frais des Modes de Paiement
 
 ![](../../.gitbook/assets/fee-calculators.png)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
+Vous pouvez associer des frais aux méthodes de paiement. Le plus souvent, cela sert à répercuter les frais d'un portail de paiement sur le client. Par exemple, vous pouvez faire payer le client pour le service de paiement par PayPal afin de couvrir les frais facturés par PayPal.
 
 {% hint style="danger" %}
-Payment Method Fees DO NOT include tax \(VAT\)
+Les frais du mode de paiement ne comprennent pas la taxe \(TVA\).
 {% endhint %}
 
-### Fee Calculators
+### Calculateur de frais
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** : Ces frais sont facturés en pourcentage du montant total de la commande.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only. 
+Tous les **frais en pourcentage** sont calculés sur un pourcentage du **coût des produits** uniquement.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
+Si votre entreprise ajoute un pourcentage net de frais d'entreprise à tous les produits, alors pour obtenir le **montant** du "pourcentage net", le pourcentage souhaité du panier d'un client est le suivant:
 
- $$= (100 + Enterprise Fee)*Desired Percent/100$$ 
+ $$= (100 + Frais)*Pourcentage/100$$ 
 
-eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for payment, the amount to enter in the flat percent of this payment method is:
+Par exemple, pour une entreprise dont les frais d'entreprise sont de 20 % et qui souhaite facturer des frais de 5 % du panier total d'un client pour le paiement, le montant à saisir dans le pourcentage fixe de ce mode de paiement est le suivant :
 
 $$= (100 + 20) *5/100 = 6$$ 
 {% endhint %}
 
-**Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**frais fixe :** Ces frais sont appliqués comme un montant standard à toutes les commandes, quelle que soit la taille de la commande.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached. 
+**frais flexible** – Ce calculateur de frais est particulièrement utile si vous souhaitez encourager les clients à passer des commandes importantes : le coût du paiement peut être réduit ou nul lorsque le nombre seuil d'articles a été atteint.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* Coût du premier article : Les frais facturés pour le premier article de la commande. 
+* Coût de l'article supplémentaire : Les frais facturés pour les articles au-delà du premier article. 
+* Maximum d'articles : Le nombre maximum d'articles sur lesquels les frais seront appliqués. Les articles achetés au-delà de ce nombre ne seront pas facturés.
 
 ![](../../.gitbook/assets/paymentflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> Par exemple : si le "Coût du premier article" est fixé à 0,20 €, le "Coût de l'article supplémentaire" à 0,10 € et le " Maximum d'articles " à 3, un client qui achète 5 articles se verra facturer 0,40 € de frais de paiement \(0,20 € pour le premier article, 0,10 € pour les articles deux et trois, et 0,00 € pour les articles quatre et cinq\).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated payment method fee charged to a customer who, for example, buys rice by kg.\)
+**Frais fixe \(par article\)** : un frais constant, appliqué aux produits listés comme "articles". \(Il ne s'applique pas aux produits vendus au poids ou au volume. Par conséquent, aucun frais de mode de paiement associé ne sera facturé à un client qui, par exemple, achète du riz au kilo\). 
 
-**Price Sack:** This is a flexible payment fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Montant variable selon total commande** : Il s'agit d'un mode de paiement flexible facturé en fonction du montant total de la vente, plutôt que du nombre d'articles achetés \(tarif flexible ci-dessus\).
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Payment Method fee and Discounted Payment Method fee. 
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* Montant minimum : Valeur monétaire du seuil entre les frais du mode de paiement normal et les frais du mode de paiement réduit. 
+* Montant normal : Frais de mode de paiement appliqués aux ventes inférieures au seuil indiqué dans "Montant minimum". 
+* Montant de la remise : Frais de mode de paiement appliqués aux ventes supérieures au seuil indiqué dans "Montant minimum".
 
 {% hint style="danger" %}
-The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
+Le **montant minimum** correspond au _coût total des produits_ contenus dans le panier d'un client et ne comprend pas les frais d'entreprise.
 {% endhint %}
 
 {% hint style="warning" %}
-For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment \(Discount Amount = 0\) and, say, a £0.50 fee \(= Normal Amount\) to be a basket of £30 then the Minimum amount is
+Par exemple, si une entreprise ajoute des frais d'entreprise de 20 % à tous ses produits et qu'elle souhaite définir le seuil entre l'absence de frais de paiement \(Montant de la remise = 0\) et, par exemple, des frais de 0,50 € \(= Montant normal\) pour un panier de 30 €, le Montant minimum est le suivant
 
-$$= £30 * 100 /(100+20) = £25$$ 
+$$= 30 * 100 /(100+20) = 25€$$ 
 {% endhint %}
 
 ![](../../.gitbook/assets/paymentpc.jpg)
 
 {% hint style="info" %}
-Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once. 
+Les portails de paiement facturent souvent aux entreprises un montant fixe par transaction plus un petit % du coût total. Ainsi, les frais encourus par un Hub ou une boutique pour les clients qui achètent le même montant total en plusieurs petites ventes seront plus élevés que si le client faisait tous ses achats en une seule fois. 
 
-The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
+Les calculateurs de taux flexible et de sac de prix, appliqués aux frais de méthode de paiement, peuvent s'avérer utiles pour compenser cela.
 {% endhint %}
 
-## Refunds
+## Remboursements
 
-Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found[ here.](../orders/refunds-and-adjusting-payments.md)
+L'émission et la gestion des remboursements dépendent de la manière dont le client a payé sa commande à l'origine. Vous trouverez plus de détails ici.
 

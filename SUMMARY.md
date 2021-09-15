@@ -28,7 +28,7 @@
     * [Importer des Produits dans l'Inventaire](basic-features/products-1/product-and-inventory-import.md)
   * [Vitrine](basic-features/shopfront/README.md)
     * [Méthodes d'Expédition](basic-features/shopfront/shipping-methods.md)
-    * [Payment Methods](basic-features/shopfront/payment-methods.md)
+    * [Modes de Paiement](basic-features/shopfront/payment-methods.md)
     * [Enterprise Fees](basic-features/shopfront/enterprise-fees.md)
     * [Order cycles](basic-features/shopfront/order-cycle/README.md)
       * [Order Cycles \(for Hubs\)](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)

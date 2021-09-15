@@ -21,15 +21,15 @@ Avant de poursuivre votre lecture, nous vous proposons une démonstration rapide
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
 * **Description** : Ajoutez des détails supplémentaires, tels que l'adresse précise du point de collecte. Ces détails seront visibles par les clients en gris à côté du nom \(voir la capture d'écran ci-dessus\) et dans leur e-mail de confirmation de commande. 
-* **Affichage** : Choisissez entre "Back Office uniquement" et "Caisse et Back Office".
+* **Affichage** : Choisissez entre "visible par l'administration uniquement" et "visible par l'acheteur sur la boutique".
 
 {% hint style="info" %}
-Si vous souhaitez désactiver une méthode d'expédition pendant un certain temps, mais que vous souhaitez la proposer à nouveau à l'avenir \(peut-être un point de collecte réservé à l'été et que vous ne souhaitez pas mettre à la disposition des clients en hiver\), changez-la en "Back Office Only".
+Si vous souhaitez désactiver une méthode d'expédition pendant un certain temps, mais que vous souhaitez la proposer à nouveau à l'avenir \(peut-être un point de collecte réservé à l'été et que vous ne souhaitez pas mettre à la disposition des clients en hiver\), changez-la en "visible par l'administration uniquement".
 {% endhint %}
 
 * **Catégorie de méthode** : Cette méthode est-elle une livraison ou un point de retrait ? 
 * **Étiquettes** : entrez des étiquettes ici si vous souhaitez différencier les clients. Les étiquettes peuvent être utiles si vous souhaitez offrir la livraison gratuite à une catégorie de clients ou offrir la livraison uniquement à ceux qui ont une adresse enregistrée à proximité. Plus d'informations ici. 
-* **Calculatrice** : Sélectionnez la manière dont les frais d'expédition seront ajoutés à cette méthode d'expédition. Notez que les frais d'expédition peuvent être nuls. Voir ci-dessous pour plus de détails. 
+* **Calculateur** : Sélectionnez la manière dont les frais d'expédition seront ajoutés à cette méthode d'expédition. Notez que les frais d'expédition peuvent être nuls. Voir ci-dessous pour plus de détails. 
 * **Catégorie de taxe** : Cette option vous permet de définir la taxe associée à votre méthode d'expédition/frais de collecte indépendamment de celle affectée aux produits taxables détenus par votre entreprise. Les options sont les suivantes : aucune, taux plein, taux zéro, taux réduit ou frais d'expédition. 
 * **Catégories de transport** : Les conditions de transport \(réfrigération, congélation, par défaut\) associées à cette méthode d'expédition.
 
@@ -42,10 +42,10 @@ Cochez toutes les cases qui s'appliquent à votre entreprise alimentaire. Par ex
 En cliquant sur **Créer**, la méthode d'expédition sera créée, et de nouveaux champs vous seront proposés pour ajouter des détails sur les frais de la méthode d'expédition. Les champs présentés dépendent du calculateur de frais d'expédition que vous avez sélectionné.
 
 {% hint style="info" %}
-Si vous modifiez le type de calculatrice pour une méthode d'expédition, vous devez d'abord **enregistrer** avant de pouvoir modifier les paramètres de la calculatrice.
+Si vous modifiez le type de calculateur pour une méthode d'expédition, vous devez d'abord **enregistrer** avant de pouvoir modifier les paramètres du calculateur.
 {% endhint %}
 
-## Calculatrices de Frais
+## Calculateurs de Frais
 
 ![](../../.gitbook/assets/shippingcalc.jpg)
 
