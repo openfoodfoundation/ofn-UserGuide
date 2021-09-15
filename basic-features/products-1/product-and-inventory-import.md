@@ -56,18 +56,18 @@ Notez que tous les champs sont sensibles à la casse. Par exemple, vous devez ut
 | Colonne | Requis? | Description | Exemple |
 | :--- | :--- | :--- | :--- |
 | producteur | Oui | Le nom du profil du producteur auquel ce produit sera attribué. | Ferme de la Montagne |
-| N° de produit | Non | Le numéro associé à ce produit | AD001265 |
-| nom | Oui | Le nom du produit | Yaourt |
+| N° de produit | Non | Le numéro associé à ce produit. | AD001265 |
+| nom | Oui | Le nom du produit. | Yaourt |
 | nom d'affichage | Non | Ce champ s'applique si vous créez des variantes \(voir les instructions ci-dessous\). Si vous ne créez pas de variante, laissez ce champ vide. | Yaourt aux Framboises |
 | catégorie | Oui | Dans quelle catégorie se trouve ce produit ? Les catégories disponibles sont énumérées sur la page d'importation des produits. | Produits Laitiers |
-| unités | Oui | la valeur du poids / la quantité / le nombre d'unité | 500 |
+| unités | Oui | la valeur du poids / la quantité / le nombre d'unité. | 500 |
 | type d'unité | Peut-être | Dans quelle unité le produit est-il vendu? | g |
-| unité de variante | Peut-être | Si le produit se vend par article, indiquez le nom de l'article ici | Pot |
-| prix | Oui | Le prix du produit. Si le produit est soumis à des taxes, indiquez le prix incluant celles-ci | 3.70 |
-| niveau de stock | Peut-être | If you have limited stock for the product type the stock level here. If you have infinite stock available \(you can always source it\) enter 0 and use the unlimited column | 40 |
-| disponible | Non | Laissez ce champs libre |  |
-| à la demande | Oui | Si vous avez du stock illimité pour ce produit, indiquez 1. | 1 |
-| catégorie d'expédition | Oui | Dans quelle catégorie d'expédition se trouve ce produit ? Les catégories d'expédition disponibles sont répertoriées sur la page Importation de produit |  |
+| unité de variante | Peut-être | Si le produit se vend par article, indiquez le nom de l'article ici. | Pot |
+| prix | Oui | Le prix du produit. Si le produit est soumis à des taxes, indiquez le prix incluant celles-ci. | 3.70 |
+| niveau de stock | Peut-être | Si votre stock pour ce produit est limité, indiquez celu-ci ici. Sinon, utilisez le champs " illimité ". | 40 |
+| en stock | Non | Laissez ce champs libre |  |
+| illimité | Oui | Si vous avez du stock illimité pour ce produit, indiquez 1. | 1 |
+| catégorie d'expédition | Oui | Dans quelle catégorie d'expédition se trouve ce produit ? Les catégories d'expédition disponibles sont répertoriées sur la page Importation de produit. |  |
 | catégorie de taxe | Non | Si le prix de votre produit inclut la taxe, tapez GST, sinon laissez le champ vide. | GST |
 | description | Non | Vous pouvez créer une description, mais vous ne pouvez pas la mettre à jour. Veuillez vous assurer que le texte que vous avez écrit correspond à la description actuelle en cas de mise à jour. | Ce yaourt contient des framboises de la région |
 
@@ -150,46 +150,46 @@ Une fois terminé, le fichier .csv peut être importé de la même manière que 
 **Mettre le stock à zéro pour tous les produits existants non présents dans le fichier** : Si vous cochez cette case, le système mettra la valeur "En stock" à zéro pour tous les produits déjà dans votre liste de produits. Si un produit était "illimité", il restera "illimité". Les produits de cette importation conserveront le niveau de stock défini dans le fichier .csv.
 {% endhint %}
 
-## Import New Inventory or update your inventory
+## Importer ou Mettre à Jour les Produits de votre Inventaire
 
-Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
+Voici les instructions pour ajouter ou mettre à jour des produits dans 
 
-### Prepare the CSV file for import
+### Préparer le fichier CSV à être importé
 
-Firstly, download the **Inventory Template CSV** file from the **Product Import** page.
+Tout d'abord, téléchargez le **modèle d'inventaire en fichier CSV** à partir de la page d'**importation de produits**. 
 
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+Vous verrez que le modèle donne tous les en-têtes de colonne nécessaires pour réussir à importer un produit. Chaque ligne correspond à un nouveau produit ou à une nouvelle variante. Vous trouverez ci-dessous une description de la manière de remplir chaque colonne.
 
-{% hint style="info" %}
-Note that all fields are case sensitive. E.g. you must use mL not ml , or Dairy not dairy.
+{% hint style="danger" %}
+Notez que tous les champs sont sensibles à la casse. Par exemple, vous devez utiliser mL et non ml, ou Légumes et non légumes.
 {% endhint %}
 
-| Column Title | Required? | Description | Example |
+| Colonne | Requis? | Description | Exemple |
 | :--- | :--- | :--- | :--- |
-| producer | Y | This is the name of the producer profile that this inventory item will be assigned to | Four Mile Farm |
-| distributor | Y | This is the name of the hub profile the inventory item will be assigned to | Demo Hub |
-| name | Y | This is the name of the product | Yoghurt |
-| display name | N | This field applies if you are creating variants \(see instructions below\). If you're not creating a variant leave this field blank. | Rasberry Yoghurt |
-| variant\_unit\_name | Y | If the product is sold as an item \(e.g loaf, bunch, pumpkin\) write the item type here | Bunch |
-| units | Y | The weight, volume or quantity value | 500 |
-| unit\_type | Y | What unit is it sold in \(g, kg, T, mL, L\)? If sold as an item \(e.g. bunch\) leave blank | g |
-| price | Y | The price of the product. If the item carries tax, this must be the tax inclusive price. | 3.70 |
-| On\_Hand  \(in\_stock\) | Y | Please check the rules for unlimited below | leave blank as unlimited is set to 1 |
-| On\_demand \(unlimited\) | Y | If blank - Read as "Use producer stock settings", so "in\_stock" should be blank.   If you set it to "1" - Read as unlimited of "Yes", so "in\_stock" should be blank.     If you set it to "0" - Read as unlimited of "No", so "in\_stock" is required. | 1 |
-| sku | N | The SKU code for this product | AD001265 |
+| producteur | Oui | Le nom du profil du producteur auquel sera attribué ce produit. | Ferme du Moulin |
+| distributeur | Oui | Le nom du hub auquel ce produit est assigné. | Compagnie Exemple |
+| nom | Oui | Le nom du produit. | Yaourt |
+| nom d'affichage | Non | Ce champs est util pour distinguer les variantes. Si le produit n'a pas de variantes, laissez ce champs libre. | Yaourt aux Framboises |
+| nom d'unité de variante | Oui | Si le produit se vend en tant qu'article défini, indiquez le ici. | grappe |
+| unités | Oui | Le poids, le volume, la quantité. | 500 |
+| type d'unité | Oui | Dans quelle unité le produit est-il vendu? Si le produit se vend en tant qu'article défini, laissez ce champs libre. | g |
+| prix | Oui | Le prix du produit. Si le produit est soumis à des taxes, indiquez le prix incluant celles-ci. | 3.70 |
+| en stock | Oui | Si vous avez du stock limité, indiquez 1 s'il vous reste du stock et 0 s'il ne vous en reste pas. |  |
+| illimité | Oui | Si vous avez du stock illimité pour ce produit, indiquez 1 et laissez le champs " en stock " libre. | 1 |
+| N° de produit | Non | Le numéro associé à ce produit. | AD001265 |
 
-### Import the CSV <a id="import-the-csv"></a>
+### Importer le fichier CSV <a id="import-the-csv"></a>
 
-Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN.
+Une fois complété, vous pouvez importer le **fichier CSV d'inventaire** à la plateforme OFN.
 
-1. Go to **Products** &gt;  **Product Import.**
-2. **Select import type:** Select Inventories
-3. **Select a spreadsheet to upload**
-4. Click **Upload**.
+1. Allez dans **Produits** &gt; **Importation de produits**. 
+2. Sélectionnez le **type d'importation** : Sélectionnez Inventaires 
+3. Sélectionnez une **feuille de calcul à télécharger** 
+4. Cliquez sur **Télécharger**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
+Vous verrez un résumé de votre téléchargement, y compris les éventuelles erreurs. Vous serez également informé du nombre de produits que vous créez et de ceux que vous mettez à jour. Si vous êtes satisfait des résultats du téléchargement, cliquez sur **Enregistrer**.
 
 {% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
+C'est une bonne habitude de vérifier que les produits ont été téléchargés / mis à jour comme vous l'aviez prévu.
 {% endhint %}
 
