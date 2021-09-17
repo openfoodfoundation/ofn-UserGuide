@@ -1,75 +1,75 @@
-# Enterprise Fees
+# Frais d'entreprises
 
-Enterprise fees are useful for producers and hubs who are working together: it allows costs associate with admin, packing, transport, sales and fundraising to be allocated to different parties.
+Les frais d'entreprise sont utiles pour les producteurs et les plateformes qui travaillent ensemble : ils permettent de répartir les coûts associés à l'administration, à l'emballage, au transport, aux ventes et à la collecte de fonds entre les différentes parties. 
 
-For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs \(storage of products prior to distribution, salaries of people who manage and coordinate sales...\)
+Par exemple, un hub peut choisir d'ajouter des frais d'entreprise de 10% à tous les produits qu'il vend, pour couvrir ses coûts administratifs \(stockage des produits avant leur distribution, salaires des personnes qui gèrent et coordonnent les ventes...\). 
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
+Pour les producteurs qui vendent directement leurs propres produits, ces coûts sont déjà présents dans le prix du produit, donc l'application de frais d'entreprise ne devrait pas être nécessaire. 
 
-One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+L'un des nombreux avantages pour les clients d'OFN est la transparence des prix. Les acheteurs peuvent voir le pourcentage du prix d'un article affecté à l'administration, à l'emballage, etc. Cette information est affichée en cliquant sur le graphique circulaire situé à côté du prix d'un produit sur la devanture de la boutique :
 
 ![](../../.gitbook/assets/feebreakdown.jpg)
 
-Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
+Avant de continuer, voici une démonstration rapide de la mise en place de votre premier frais d'entreprise :
 
 ![](../../.gitbook/assets/enterprisefeefirst.gif)
 
-## Setting up an Enterprise Fee
+## Configurer un frais d'entreprise
 
-* Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create one now**  \(or **Manage Enterprise Fees** if you have already set one up and would like to edit it\). You will be directed to a page like this:
+* Accédez à la page des frais d'entreprise en cliquant sur **Entreprises** dans le menu horizontal bleu, puis cliquez sur **Paramètres** à côté de votre entreprise. La page **Frais d'entreprise** se trouve dans le menu de gauche. 
+* Cliquez sur **Créer maintenant** \(ou sur **Gérer les frais d'entreprise** si vous en avez déjà créé un et que vous souhaitez le modifier\). Vous serez dirigé vers une page comme celle-ci :
 
 ![](../../.gitbook/assets/enterprisefeecreate.jpg)
 
-**Enterprise:** In the first column, select the enterprise to which the fee applies.
+**Entreprise** : Dans la première colonne, sélectionnez l'entreprise à laquelle les frais s'appliquent. 
 
-**Fee Type:** Select the service that this fee applied to.  The options are Packing Fee,  Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Type de frais** : Sélectionnez le service auquel ces frais s'appliquent. Les options sont les suivantes : frais d'emballage, frais de transport, frais d'administration, frais de vente ou frais de collecte de fonds. 
 
-**Name:** Choose a name for this fee.
+**Nom** : Choisissez un nom pour ces frais. 
 
-**Tax Category:** Select the appropriate tax rate.  In most cases the VAT rate for the enterprise fee will be inherited from the product.  If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.
+**Catégorie de taxe** : Sélectionnez le taux de taxe approprié. Dans la plupart des cas, le taux de TVA pour les frais d'entreprise sera hérité du produit. Si les frais d'entreprise sont associés à un service ajouté au produit, les frais peuvent être soumis à la TVA mais pas le produit lui-même. Dans ce cas, choisissez entre "taux zéro", "taux plein" et "taux réduit" de TVA à appliquer aux frais d'entreprise. 
 
-**Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Calculateur** : Les frais peuvent être calculés de plusieurs façons. Sélectionnez le calculateur qui convient le mieux. 
 
-Click Update, to create the enterprise fee. 
+Cliquez sur Mettre à jour, pour créer la redevance d'entreprise.
 
 {% hint style="info" %}
-You will only be able to specify rates or values \(in the 'calculator values' column after the Enterprise Fee has been created.
+Vous ne pourrez spécifier des taux ou des valeurs \(dans la colonne "valeurs de calcul"\) qu'après la création de l'honoraire d'entreprise.
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpg)
 
-## Fee Calculators
+## Calculateurs de frais
 
 ![](../../.gitbook/assets/enterprisefee3.jpg)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
+**Pourcentage net** - Ces frais sont facturés en pourcentage du montant total de la commande. 
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.\)
+**Poids \(par kg\)** - ces frais sont appliqués aux produits sur une base par kg. Ces frais ne seront appliqués _qu'aux produits dont le prix est calculé par kg_, et non aux produits répertoriés comme articles \(par exemple, un produit répertorié comme "1 botte de persil" ne sera pas associé à des frais d'entreprise avec cette option\). 
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Montant fixe \(par commande\)** - Ces frais sont appliqués comme frais standard à toutes les commandes, quelle que soit la taille de la commande. 
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached. 
+**Montant flexible** - Ce calculateur de frais est particulièrement utile si vous souhaitez encourager les clients à passer des commandes importantes : l'entreprise peut être réduite ou nulle lorsque le nombre seuil d'articles a été atteint.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* Coût du premier article : Les frais facturés pour le premier article de la commande. 
+* Coût article supplémentaire : Les frais facturés pour les articles au-delà du premier article. 
+* Maximum d'articles : Le nombre maximum d'articles sur lesquels les frais seront appliqués. Les articles achetés au-delà de ce nombre ne seront pas facturés.
 
 ![](../../.gitbook/assets/enterprisefeeflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> Par exemple : si le "Coût du premier article" est fixé à 0,20 €, le " Coût article supplémentaire " à 0,10 € et le " Maximum d'articles " à 3, un client qui achète 5 articles se verra facturer 0,40 € de frais d'entreprise \(0,20 € pour le premier article, 0,10 € pour les articles deux et trois, et 0,00 € pour les articles quatre et cinq\).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.\)
+**Montant fixe par article** : Ce tarif est un tarif constant, appliqué aux produits répertoriés comme "articles". \(Elle n'est pas appliquée aux produits vendus au poids ou au volume. Il n'y aura donc pas de frais d'entreprise associés facturés à un client qui, par exemple, achète du riz au kg\). 
 
-**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Montant variable selon la commande** : Il s'agit d'une méthode flexible de redevance d'entreprise facturée en fonction du montant total de la vente, plutôt que du nombre d'articles achetés \(tarif flexible ci-dessus\).
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee. 
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* Montant minimum : Valeur monétaire du seuil entre la redevance d'entreprise normale et la redevance d'entreprise réduite. 
+* Montant normal : Frais de mode de paiement appliqués aux ventes inférieures au seuil indiqué dans "Montant minimum". 
+* Montant réduit : Frais de mode de paiement appliqués aux ventes supérieures au seuil indiqué dans "Montant minimum".
 
 ![](../../.gitbook/assets/enterprisefeepc.jpg)
 
 {% hint style="warning" %}
-Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
+Maintenant que vous avez créé vos frais d'entreprise, n'oubliez pas qu'**ils ne sont applicables dans votre boutique que s'ils sont ajoutés à un cycle de commande**. Pour plus de détails, consultez les pages relatives aux cycles de commande des producteurs ou des hubs.
 {% endhint %}
 

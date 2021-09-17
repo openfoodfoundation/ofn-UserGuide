@@ -90,79 +90,77 @@ Dans OFN, assurez-vous que vous êtes connecté en tant qu'utilisateur de l'entr
 
 ![](../../.gitbook/assets/paypal3.jpg)
 
-**Solution:** Solution determines whether or not a user needs a PayPal account to check out.
+**Solution** : Solution détermine si un utilisateur a besoin ou non d'un compte PayPal pour passer à la caisse. 
 
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account \(with credit card\).
+Tapez "Marque" si vous voulez que les utilisateurs aient un compte Paypal, ou " Sole " s'ils peuvent passer à la caisse sans compte Paypal \(avec une carte de crédit\). 
 
-**Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
+**Page d'atterrissage** : Vous pouvez sélectionner la page à afficher aux clients une fois qu'ils sont redirigés vers PayPal. 
 
-Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
+Tapez "Connexion" pour diriger le client vers le formulaire de connexion à PayPal \(si vous avez sélectionné "Marque" ci-dessus\). Ou tapez "Facturation" pour afficher aux clients un formulaire où ils peuvent saisir les données de leur carte de crédit et éventuellement ouvrir un compte PayPal \(si vous avez sélectionné "Sole" ci-dessus\).
 {% endtab %}
 
 {% tab title="MIGS" %}
  MasterCard Internet Gateway Service \(MIGS\)
 
-Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
+La configuration de ce service doit être effectuée par votre banque.
 {% endtab %}
 
 {% tab title="Stripe" %}
-[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+Stripe est une plateforme de paiement en ligne similaire à Paypal. Elle vous permettra d'accepter les paiements par carte de crédit de vos clients. Stripe est une plateforme mondiale, mais n'est disponible que sur certaines instances OFN. Contactez votre équipe OFN locale pour savoir si elle est disponible sur votre OFN.
 
-#### Why use Stripe?
+**Pourquoi utiliser Stripe ?** 
 
-Stripe is simple to setup for shop owners and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
+Stripe est simple à configurer pour les propriétaires de boutiques et son prix est raisonnable. Les frais facturés par Stripe varient selon les pays. 
 
-Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
+Stripe est également facile à utiliser pour les clients. Contrairement à Paypal, lorsque le client passe à la caisse, il n'a pas besoin de se connecter à Paypal pour passer sa commande, il lui suffit d'entrer les détails de sa carte et de terminer sa commande. 
 
-Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../subscriptions/)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe est la méthode de paiement recommandée pour les boutiques qui souhaitent utiliser les abonnements sur OFN, car Stripe permet aux clients d'autoriser une boutique à facturer automatiquement leur carte de crédit pour les commandes d'abonnement. Cette possibilité n'est pas offerte par les plateformes de paiement Paypal, Pin ou MIGS.
 
-#### Setup
+#### Configuration
 
-**Connect with Stripe**
+**Connexion avec Stripe** 
 
-Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
+Avant de pouvoir configurer un mode de paiement utilisant Stripe, vous devez vous connecter à Stripe. Pour ce faire, cliquez sur le bouton "Connecter avec Stripe".
 
 ![](../../.gitbook/assets/connect-with-stripe.png)
 
-You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
+Vous serez dirigé vers un formulaire pour remplir vos coordonnées. Si vous avez déjà un compte Stripe, vous pouvez vous connecter, sinon, remplissez le formulaire pour créer un compte Stripe. 
 
-The information you’ll be asked for includes: country, a description of your business, your Business address and ABN, your personal details and your bank account \(where received payments will be deposited\).
+Les informations qui vous seront demandées sont les suivantes : le pays, une description de votre activité, l'adresse et le numéro d'immatriculation de votre entreprise, vos coordonnées personnelles et votre compte bancaire \(où les paiements reçus seront déposés\).
 
-**Create a New Payment Method**
+**Créer un nouveau mode de paiement** 
 
-Once you’ve connected with Stripe, you can then create a payment method which will work with your connected account.
+Une fois que vous vous êtes connecté à Stripe, vous pouvez créer un mode de paiement qui fonctionnera avec votre compte connecté. 
 
-Treat the **Name**, **Description**, **Active** and **Tags** fields as you would with any payment method.
+Remplissez les champs **Nom**, **Description**, **Actif** et **Balises** comme vous le feriez avec n'importe quel mode de paiement. 
 
-**Provider:** Select Stripe.
+**Opérateur** : Sélectionnez Stripe. 
 
-Once you select Stripe, ‘Provider Settings’ will be shown.
+Une fois que vous avez sélectionné Stripe, "Paramètres du fournisseur" s'affiche. 
 
-**Stripe Account Owner:**
+**Propriétaire du compte Stripe** : Sélectionnez l'entreprise qui a un compte Stripe connecté. 
 
-Select the enterprise that has a Stripe account connected.
-
-If you select an enterprise that is not Connected to Stripe \(see above\) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
+Si vous sélectionnez une entreprise qui n'est pas connectée à Stripe \(voir ci-dessus\), vous obtiendrez l'erreur suivante. Cliquez sur "Connectez-vous" ou retournez à l'onglet Méthodes de paiement pour vous connecter à Stripe. Voir les instructions ci-dessus.
 
 ![](../../.gitbook/assets/stripe-connect.png)
 
-#### Stripe Payments for Customers
+**Paiements Stripe pour les clients** 
 
-When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account \(if they are logged in\).
+Lorsque les clients passent à la caisse dans une boutique et paient avec un mode de paiement Stripe, ils ont la possibilité de cocher une case autorisant le stockage des détails de leur carte de crédit dans leur compte \(s'ils sont connectés\). 
 
-Customer can also save a credit card in their Account, or delete saved ones.
+Le client peut également enregistrer une carte de crédit dans son compte, ou supprimer celles qui ont été enregistrées.
 
 ![](../../.gitbook/assets/add-card.png)
 
-When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
+Lors de son prochain achat dans une boutique OFN proposant Stripe comme méthode de paiement, le client pourra choisir parmi ses cartes de crédit enregistrées.
 
-**Viewing and redeeming your payments via Stripe**
+**Consulter et encaisser vos paiements via Stripe** 
 
-When a customer pays for their order with Stripe, the funds \(minus Stripe's fees\) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
+Lorsqu'un client paie sa commande avec Stripe, les fonds \(moins les frais de Stripe\) sont versés sur votre compte Stripe. En fonction de vos paramètres dans Stripe, les fonds seront transférés automatiquement et périodiquement sur le compte bancaire de votre choix.
 
-**Taking further payment**
+**Accepter un paiement supplémentaire** 
 
-If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+Si vous devez demander un paiement supplémentaire à un client parce qu'il a un solde à payer, vous pouvez créer une facture dans Stripe. Le client recevra un e-mail lui demandant de payer par carte de crédit/débit. Ceci ne sera pas communiqué à OFN, vous devrez donc marquer le paiement manuellement.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 {% endtab %}
