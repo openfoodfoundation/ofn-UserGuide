@@ -1,12 +1,12 @@
-# Cycles de commande
+# Order cycles
 
-Les boutiques en ligne peuvent être ouvertes et fermées en créant des "cycles de commande" sur la plateforme Open Food. 
+Online stores can be opened and closed by creating 'order cycles' on the Open Food Network platform.
 
-L'adresse web OFN de votre boutique n'affichera votre liste de produits à acheter que lorsqu'un cycle de commande est ouvert. 
+The OFN web address for your shop will only display your list of products for purchase when an order cycle is open. 
 
-Le format de la mise en place d'un cycle de commande pour un "hub" \(magasin à producteurs multiples\) diffère légèrement de celui d'un "shop" \(magasin à producteur unique\). 
+The format of setting up an [order cycle for a 'hub'](order-cycles-for-hubs.md) \(multi producer shop\) differs slightly from that for [a 'shop'](order-cycles-for-producers.md) \(single producer shop\). 
 
-Il est possible de proposer plusieurs cycles de commande simultanément, par exemple pour permettre un achat à livrer dans 1, 2 ou 3 semaines.
+It's possible to offer [multiple order cycles](opening-more-than-one-order-cycle.md) simultaneously, for example to allow a purchase for delivery in 1, 2 or 3 weeks.
 
 
 
