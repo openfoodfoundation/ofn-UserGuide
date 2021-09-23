@@ -1,9 +1,9 @@
-# Hub management tips
+# Conseils pour la Gestion de Hubs
 
-The OFN team recognise that there is a huge number of aspects to running a food enterprise, using the OFN platform efficiently being one of them.  Hence, in this section, as well as a series of platform-based [How to's](how-tos/) we aim to build a set of resources \(including around [marketing](marketing-tips.md) and [social media](social-media.md)\) for you to turn to for advice.
+L'équipe d'OFN reconnaît qu'il y a un grand nombre d'aspects à gérer une entreprise alimentaire, l'utilisation efficace de la plateforme OFN étant l'un d'entre eux. C'est pourquoi, dans cette section, en plus d'une série d'astuces basées sur la plateforme, nous avons établi un ensemble de ressources \(notamment sur le marketing et les médias sociaux\) vers lesquelles vous pouvez vous tourner pour obtenir des conseils.
 
 {% hint style="info" %}
-This section is under development. Please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md) to let them know areas where you would like to have more support.
+Cette section est en cours de développement. Veuillez contacter votre équipe d'assistance OFN locale pour lui faire part des domaines dans lesquels vous souhaiteriez bénéficier de plus d'assistance.
 {% endhint %}
 
 

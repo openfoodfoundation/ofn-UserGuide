@@ -1,31 +1,32 @@
-# Cycles de commande \(pour les Boutiques\)
+# Order Cycles \(for Shops\)
 
 {% hint style="warning" %}
-Lisez cette page si vous êtes inscrit en tant que boutique de producteur et que vous souhaitez ouvrir votre propre boutique. 
+Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop) and wish to open your own store.
 
-Consultez cette page si vous souhaitez ouvrir une boutique multiproducteur \(hub\).
+Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)\).
 {% endhint %}
 
-Dans Open Food Network, les cycles de commande sont l'occasion pour les gestionnaires d'ouvrir leur boutique. Cela implique de sélectionner les produits en stock, les frais à appliquer et les dates d'ouverture et de fermeture de la boutique
+In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
 
-**Pourquoi utiliser les cycles de commande**  
-De nombreux producteurs, qui vendent des produits en petites quantités, peuvent trouver utile d'avoir un cycle de commande perpétuellement ouvert, et d'exécuter les commandes individuellement, au fur et à mesure qu'elles sont passées. D'autres producteurs, qui vendent de grandes quantités de produits à de multiples clients, trouvent utile d'établir des cycles de commande périodiques, qui sont exécutés collectivement à la fin d'une période. Par exemple, un agriculteur peut avoir un cycle de commande ouvert \(acceptant les commandes\) pendant deux semaines. À la fin de ce cycle de commande, toutes les commandes sont emballées, triées et distribuées en même temps. Une fois que ce lot de commandes a été rempli, un nouveau cycle de commande est ouvert. En structurant les cycles de commande de cette manière, on peut rendre plus efficaces les tâches d'emballage et de distribution des commandes.
+**Why use Order Cycles?**  
+Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed.   
+Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open \(accepting orders\) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
 
-## Où trouver les cycles de commande
+## Access Order Cycles
 
-Lorsque vous êtes connecté à votre tableau de bord d'administration, vous pouvez accéder aux cycles de commande à partir de ce bouton :
+When logged into your admin dashboard you can access order cycles from this button:
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
-Ou "Cycles de commande" dans le menu horizontal bleu en haut de la page. Cliquez ensuite sur **+Nouveau cycle de commande**
+Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then click on **+New Order Cycle**
 
 ![](../../../.gitbook/assets/ordercycle1%20%282%29%20%282%29%20%281%29.jpg)
 
 {% hint style="info" %}
-Notez que vous ne pouvez pas créer un cycle de commande tant que vous n'avez pas configuré au moins un mode d'expédition et un mode de paiement.
+Note you cannot create an order cycle until you have set up ****at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
 {% endhint %}
 
-Vous allez ensuite être redirigé vers un nouvel écran :
+You will now be redirected to a new screen:
 
 ![](../../../.gitbook/assets/ordercyclep1.jpg)
 
@@ -40,47 +41,36 @@ Vous allez ensuite être redirigé vers un nouvel écran :
 
 **Ready for \(ie Date/Time\) \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. 
 
-**Nom \(obligatoire\)** : Choisissez un nom pour ce cycle de commande. Ce nom ne sera visible que par vous, vous pouvez donc le nommer de la manière qui vous semble la plus appropriée. Nous vous recommandons de suivre un protocole de dénomination cohérent, par exemple Hub\_Semaine27\_2014. 
-
-**Ouverture des commandes** : Il s'agit de la date à laquelle votre magasin OFN sera ouvert et commencera à accepter des commandes. 
-
-**Fermeture des commandes** : Il s'agit de la date à laquelle votre magasin OFN fermera et cessera d'accepter des commandes. Si vous avez l'intention d'avoir un cycle de commande ouvert en permanence, sélectionnez une date de clôture bien éloignée dans le temps. 
-
-**Calendriers** : laissez le champ vide, sauf si vous mettez en place des abonnements. 
-
-**Prêt pour \(date/heure\) \(obligatoire\)** : Ce champ indique au client quand sa commande sera prête pour l'enlèvement ou la livraison.
-
 {% hint style="info" %}
-Si votre cycle de commande est constamment ouvert, plutôt que périodique, utilisez cette case pour entrer quelque chose comme "Deux jours après la commande".
+If your order cycle is constantly open, rather than periodic, then use this box to enter something like 'Two days after ordering'
 {% endhint %}
 
 {% hint style="info" %}
-Si vous avez des cycles de commande spécifiques à un produit ou à un lieu qui se déroulent simultanément, vous pouvez "modifier" ce champ de texte en ajoutant des informations supplémentaires, par exemple "Viande pour mardi".
+If you have product or location specific order cycles running concurrently you may like to 'hack' this text field by adding extra information eg. 'Meat for Tues'
 {% endhint %}
 
-**Instructions au client** : Ce message sera inclus dans l'e-mail de confirmation de commande du client, sous le message correspondant à la méthode d'expédition choisie \(voir ci-dessous\). Cette note est conçue pour n'être visible que par les clients. Vous pouvez donc inclure des informations plus sensibles, comme des adresses ou des numéros de téléphone, etc. 
+**Customer Instructions:** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. 
 
-**Produits** : Vous devez sélectionner les produits qui seront visibles dans votre boutique en ligne pendant ce cycle de commande
+**Products:** You must select the products which will be visible in your online store during this order cycle. 
 
 {% hint style="info" %}
-N'oubliez pas que si vous ajoutez de nouveaux produits après qu'un cycle de commande est en cours, vous devrez les sélectionner ici, sinon ils n'apparaîtront pas en ligne !
+Remember, if you add new products after an order cycle is underway, you will need to select them here else they won't appear online!
 {% endhint %}
 
-**Ajouter des frais de coordination** : Il est possible d'ajouter une taxe de coordination. Ici, vous pouvez appliquer une taxe d'entreprise qui a été créée pour votre entreprise.
+**Add Coordinator Fee:** There is the option of adding a coordinator fee. Here you can apply an [enterprise fee](../enterprise-fees.md) that has been created for your enterprise. 
 
-## Ouvrir votre vitrine
+## Open the shopfront
 
-Cliquez sur Créer pour sauvegarder ce cycle de commande.
+Click Create to save this order cycle.
 
 {% hint style="warning" %}
-Si la date d'ouverture de votre cycle de commande est déjà dépassée, votre boutique sera en ligne immédiatement. 
-
-Si vous n'êtes pas tout à fait prêt à ouvrir votre boutique, fixez la date d'ouverture à un moment ultérieur.
+If the opening date of your order cycle has already lapsed then your shop front will be live immediately!  
+If you are not quite ready to open the shop, set the 'Opens At' date to a time in the future.
 {% endhint %}
 
-Pour les cycles de commande périodiques et répétitifs, vous pouvez copier un cycle de commande existant et en modifier les dates, afin de rendre le processus plus rapide. Sélectionnez l'icône avec deux feuilles de papier à droite du tableau, comme indiqué ci-dessous :
+For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
 
 ![](../../../.gitbook/assets/occpy%20%281%29.jpg)
 
-Les cycles de commande s'affichent en vert lorsqu'ils sont actifs, en jaune lorsqu'ils sont programmés pour une date ultérieure et en gris lorsqu'ils sont fermés. Si un cycle de commande a été fermé il y a plus d'un mois, il n'apparaîtra plus dans cette liste. Pour afficher tous vos cycles de commande passés, cliquez sur Afficher **30 jours supplémentaires** ou Afficher **90 jours supplémentaires** au bas de la liste.
+Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
 

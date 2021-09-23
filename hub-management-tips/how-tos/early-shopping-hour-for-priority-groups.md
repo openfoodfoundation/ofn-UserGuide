@@ -1,32 +1,32 @@
-# Early Shopping 'Hour' for Priority Groups
+# Horaires d'achat spéciaux pour les groupes prioritaires
 
 ## Introduction
 
-The outbreak of COVID-19 in March 2020 saw a wave of panic buying by consumers prior to \(or in the early days of\) national 'lockdowns'.  This left vulnerable groups and key workers short of food.
+L'épidémie de COVID-19 en mars 2020 a donné lieu à une vague d'achats de panique par les consommateurs avant \(ou dans les premiers jours\) des "lockdowns" nationaux. Les groupes vulnérables et les travailleurs clés se sont retrouvés à court de nourriture. 
 
-Below is a step-by-step guide to enable selected customers \(you may choose as a business for this to just be people you know to be over 80 years or perhaps include key workers as well\) to shop before others and hence get the first choice of products \(should they run out later in your order cycle\).
+Vous trouverez ci-dessous un guide étape par étape permettant à des clients sélectionnés \(vous pouvez choisir, en tant qu'entreprise, de ne prendre en compte que les personnes âgées de plus de 80 ans ou d'inclure également les travailleurs clés\) de faire leurs achats avant les autres et d'obtenir ainsi le premier choix de produits \(s'ils venaient à manquer plus tard dans votre cycle de commande\). 
 
-The process uses the Customer Management feature which is described in[ full here](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
+Ce processus utilise la fonction de gestion des clients qui est décrite en détail ici.
 
 {% hint style="warning" %}
-Your enterprise will need to be registered as a [Hub](../../your-quick-start-on-ofn-given-who-you-are.md#hub) on the OFN platform to add tags to Order Cycles, as described below.
+Votre entreprise devra être enregistrée en tant que Hub sur la plateforme OFN pour ajouter des étiquettes aux cycles de commande, comme décrit ci-dessous.
 {% endhint %}
 
-## Process
+## Processus
 
-* Set up a policy as a business on which group\(s\) you would like to offer this service to.
-* Keep a record of the customer’s name and the email address linked to their OFN account.
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) [page](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
-* Use the ‘Quick Search’ box to identify if the person has shopped with you before. 
+* Établissez une politique en tant qu'entreprise sur le\(s\) groupe\(s\) auquel\(s\) vous souhaitez offrir ce service. 
+* Conservez une trace du nom du client et de l'adresse e-mail liée à son compte OFN. 
+* Connectez-vous à votre compte OFN professionnel et visitez la page Clients. 
+* Utilisez la case "Recherche rapide" pour déterminer si la personne a déjà fait des achats chez vous.
 
 ![](https://lh6.googleusercontent.com/DcRo1W18G7l7JKxuhHybJB4gIEzZWQIX-3kynCMX79RwtrKFpMR8b6SYI4uyoQjGOOlmrV1rv7oIbsYS55UkfeH1yfu4SJntTnO1vMPmwuTMljBhkX_kRhYLiI5fKzKjxYBR_uCO)
 
-* If their email address doesn’t appear then click **+ New Customer** and add their address.
-* In the ‘tags’ column type in ‘priority’ for that customer.
+* Si son adresse électronique n'apparaît pas, cliquez sur **+ Nouveau client** et ajoutez son adresse. 
+* Dans la colonne Étiquettes, tapez "priorité" pour ce client.
 
 ![](https://lh6.googleusercontent.com/VFTwYU6Ow2KWM0ob7Nckswqd3avBblRUSPR27JTDbpjGi8_H5wxCfeWzhGgm5dhuJg-y9rdfGVcVMLIGYgQm6QGuPdGhGWXa-53PXaPFXHP3dYy4EMjgkW023aXkQdBiJOYZxJB7)
 
-* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order_cycles) page.  Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) as you normally would: opening and closing time being those you would like to offer to all customers.
+* Visitez votre page Cycles de commande. Configurez votre prochain cycle de commande comme vous le feriez normalement : les heures d'ouverture et de fermeture étant celles que vous souhaitez offrir à tous les clients.
 
 ![General Settings for your &apos;Regular Order Cycle&apos;](https://lh3.googleusercontent.com/jhi3BrlJJ7-Z3zfc_VHW6M5h2Sldi1u2EhlsoBFu8IJRacq9M6P3ZPEi3Kem780jXD_smQ_tZZiodWmws-dWL1VrWS9tHrdB6G4NZZ4Chnmr-Okb9K58t6TcA4sMgOpD00u5ROFw)
 
@@ -36,26 +36,25 @@ Your enterprise will need to be registered as a [Hub](../../your-quick-start-on-
 
 ![General Settings for your &apos;Early Order Cycle&apos;](https://lh6.googleusercontent.com/57HzSN9rk3Bw6Hg4Oo6R4qf-NeC9cKRiPKxm5aD8VQkaDJ5xNAXM7CMHTc9-3KsmZ9r4TMUhHFZw3qSfJ1RsVqpHN0bQm0DLyXKTSPcz27mYahCd7xcoNyxrj4dhfSlFyji1-4J0)
 
-On page 3 of the ‘Early’ order cycle add ‘priority’ into the tags section:
+À la page 3 du cycle de commande " anticipé ", ajoutez " priorité " dans la section étiquettes :
 
 ![](https://lh6.googleusercontent.com/CZi2Nx92QTL8RKL_ZXhnpoAPmirgfAHN-wL3jSnMCNdWxn9PCeu-tzVwj03kcvjp8YYt5-y0ijpyXAkfsWAwKuEGNOWKxCVuLFLtTZ41Vg3s2z9ljo9KcLPTIma5upHeWHUzbmZp)
 
-* Visit your **Enterprise -&gt; Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:
+* Rendez-vous sur la page **Enterprise -&gt; Paramètres** et sélectionnez "Règles d'étiquetage" dans le menu de gauche. Configurez les règles d'étiquetage suivantes :
 
-Default: Order Cycles tagged ‘priority’ are not visible.  
-For Customers tagged ‘priority’, Order Cycles tagged ‘priority’ are visible.
+Par défaut, les cycles de commande étiquetés "prioritaires" ne sont pas visibles. Pour les clients marqués 'priorité', les cycles de commande marqués 'priorité' sont visibles.
 
 ![](https://lh4.googleusercontent.com/e497XI88RMtx_CFBOq8mbKxktOlZo7uhYcf6Cb9_Pzrs6ZhaetjwRuFtrXIfMVN1C6_mCG3DaP6Djhmok9j0Ux__zscrPiU2fe4sOuDQjcmbqf2utdMPwpeftmTLiuPzSDpLDK7g)
 
-**Bingo!  Your shop front will be open early for a subset of your customers only.**  
+**Bingo ! La devanture de votre magasin sera ouverte tôt pour une partie de vos clients seulement.** 
 
 {% hint style="warning" %}
-Remember that you will need to notify your suppliers about orders generated in both order cycles each week 
+n'oubliez pas que vous devrez notifier à vos fournisseurs les commandes générées dans les deux cycles de commande chaque semaine
 {% endhint %}
 
-## **You might also like to: Add a message to your customers on your shop Notice page.**
+## Vous pourriez aussi souhaiter : Ajouter un message à vos clients sur la page d'avis de votre boutique.
 
-Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)’ \(found from **Enterprises -&gt; Settings -&gt; Shop Preferences**\) to invite new elderly/vulnerable/keyworker customers to contact you so they can be prioritised.
+N'oubliez pas de modifier votre "message de vitrine" \(disponible dans **Entreprises -&gt; Paramètres -&gt; Préférences** de la boutique\) pour inviter les nouveaux clients âgés/vulnérables/travailleurs à vous contacter afin qu'ils soient prioritaires.
 
 ![Admin View](https://lh5.googleusercontent.com/Wg3e_guD-P5zbZE1oa6OFb36YU-csR35WpZD9Hxn0cT3O05jXDDihtHH2EL9CIP7atYsXXK3va9gUSvyfNka_ovDGDtSG2uRqreA2nW4cp8IjCnL3eodEv12iZ5QkA2eRIGaCkzD)
 
