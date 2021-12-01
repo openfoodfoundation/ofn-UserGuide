@@ -119,18 +119,18 @@ Select ‘Update and Recalculate Fees’ at the bottom of the page.
 If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
 {% endhint %}
 
-**2. Edit by Changing the Fees **in the [order](view-orders.md#modify-an-order) by visiting **Orders -> Edit -> Adjustments** from the right hand menu.
+**2. Edit by Changing the Fees** in the [order](view-orders.md#modify-an-order) by visiting **Orders -> Edit -> Adjustments** from the right hand menu.
 
 ![](https://lh3.googleusercontent.com/qu1o7\_GwVwvozkH-aSaxH7Pg9ZJ9mcd-jXM0VrNmUTGyMeOfKmdhf8WPa66FjVayQEryr1Bkv4Q\_2UfVSlhSCDvvQcSaZ-ARj-gJG01cWPTRh4ktAMy1ofk4gyUiWQ4ZoK2OfkjB)
 
 This will bring up a list of enterprise fees for each item in the order as well as shipping and payment method fees. You can adjust one of these fees by clicking on the ‘edit’ icon to the right of the item in question.\
 
 
-**3. Edit by adding a new Adjustment **to the** **[**order**](view-orders.md#modify-an-order)** **by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+New Adjustment** (the top right hand button) to make a separate adjustment that is unrelated to fees.
+**3. Edit by adding a new Adjustment** to the **** [**order**](view-orders.md#modify-an-order) **** by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+New Adjustment** (the top right hand button) to make a separate adjustment that is unrelated to fees.
 
 ![](https://lh4.googleusercontent.com/EthxGvVJ3p4skPNpKYy4ivNt3e6xe3pJb4qtgfe\_3Z3ESM3WxnkRXrGaXvKZIbKnJoNJ5lI-kn8J\_sEe1Lwn-3VOiiSYtQ2OUcVu7LlKSVrjgoFo9UWyeBitqKXRFB1\_5ccyuQdB)
 
-Add the relevant details, remembering that for **a refund**,  the value needs to be a** negative number**. When finished, click ‘continue’.
+Add the relevant details, remembering that for **a refund**,  the value needs to be a **negative number**. When finished, click ‘continue’.
 
 ![](https://lh3.googleusercontent.com/RfvWyS1G6v7NVNIDGWTlpfK9hfZj7Vy5\_Q6NxlEEyWYtAnebNEphT8XTCSPGvC2EaIGrxioqhcGfaBOIpgqjhjqtSiCwCMKcd4BLFV9M2YIWQ32XkpkAqz\_fV-8GWI7CpkLteRpl)
 
@@ -146,11 +146,11 @@ To process a partial refund of the amount that is now owing on the order, see in
 {% tabs %}
 {% tab title="Cash/BACS" %}
 1. Arrange for the refund to be made to the customer independently of the platform. &#x20;
-2. Record this action by** Orders -> Edit **and select ‘Payments’ from the right hand menu
+2. Record this action by **Orders -> Edit** and select ‘Payments’ from the right hand menu
 
 ![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC\_8lRzME6B9VGjJ2dB78rpPMeoIT\_KBKpzA9GMncfpCXPc)
 
-Select** +New Payment**
+Select **+New Payment**
 
 ![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5\_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c\_F2AhbHNJY0BsABUPMm6603\_ut7gqIpg)
 
@@ -160,11 +160,11 @@ A **negative value** in the ‘Amount’ field means the refund is recorded.&#x2
 {% tab title="Stripe" %}
 Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
 
-1.Visit **Orders -> Edit Order **and then select ‘Payments’ from the right hand menu
+1.Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu
 
 ![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB\_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
 
-2.By clicking on the tick next to the payment, any credit owed to the customer will be automatically refunded.** **
+2.By clicking on the tick next to the payment, any credit owed to the customer will be automatically refunded. ****&#x20;
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 
@@ -178,7 +178,7 @@ Note that Stripe payments can take 3-5 working days to appear on a customer’s 
 {% endtab %}
 
 {% tab title="PayPal" %}
-**You can not issue a partial refund to a customer who paid by PayPal automatically via the OFN platform at present.  **
+**You can not issue a partial refund to a customer who paid by PayPal automatically via the OFN platform at present.** &#x20;
 
 1. You will need to log into your business [PayPal account](https://www.paypal.com/uk/home) and refund the customer the correct amount through their interface.
 2. To record this action you will need to set up a new [Payment Method](../shopfront/payment-methods.md) as follows:\

@@ -19,7 +19,7 @@ To save a change of profile type, do not forget to click on "save" at the bottom
 
 You will then access a menu with multiple options. The exact options available varies between Enterprise type. This is example is for a Hub:
 
-![](../../.gitbook/assets/enterprise_settings.jpg)
+![](../../.gitbook/assets/enterprise\_settings.jpg)
 
 {% hint style="danger" %}
 To save your changes, you must click "update" at the bottom of the page. It is recommended to save each page before changing pages.
@@ -31,7 +31,7 @@ This short video gives a quick insight into the steps and options detailed below
 
 ## Primary Details
 
-**Name:** This is the name of your enterprise. It will be the title of your profile \(and shop\).
+**Name:** This is the name of your enterprise. It will be the title of your profile (and shop).
 
 **Primary Producer:** Select the producer box if you are a producer.
 
@@ -43,7 +43,7 @@ Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs
 
 **Permalink:** You can customise part of the web address which will host to your shop.
 
-**Link to Shop Front:** This is the web address of your shop on the OFN \(if you've chosen a profile type with shopfront\). You can customise part of the URL above.
+**Link to Shop Front:** This is the web address of your shop on the OFN (if you've chosen a profile type with shopfront). You can customise part of the URL above.
 
 **OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
 
@@ -83,7 +83,7 @@ These differ from country to country and they depend on local regulations and la
 
 **ACN:** Australian Company Number
 
-**Charges GST:** If you wish to charge customers the Goods and Services Tax \(GST\)
+**Charges GST:** If you wish to charge customers the Goods and Services Tax (GST)
 
 **Display Logo on Invoices:** if desired.
 
@@ -95,11 +95,13 @@ These differ from country to country and they depend on local regulations and la
 {% endtab %}
 
 {% tab title="Canada" %}
-**The 2 Business Number fields:**  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.  
-**Charges sales tax?:**If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'  
-**Display logo on invoices:**  If you have uploaded a logo and you want it to display on your invoices,  select the box  
-**Add customized tax at the end of invoices:**   Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers.   
-**Terms and Conditions:**  see below
+**The 2 Business Number fields:**  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.\
+**Charges sales tax?:**If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'\
+**Display logo on invoices:**  If you have uploaded a logo and you want it to display on your invoices,  select the box\
+**Add customized tax at the end of invoices:**  Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers. \
+**Terms and Conditions:** see below
+
+
 {% endtab %}
 
 {% tab title="Catalunya" %}
@@ -109,7 +111,7 @@ These differ from country to country and they depend on local regulations and la
 {% tab title="France" %}
 **Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
 
-**N° intra-Community VAT:** This information will not be public. 
+**N° intra-Community VAT:** This information will not be public.&#x20;
 
 **In VAT scheme?** If you are within the VAT scheme, select "yes".
 
@@ -127,11 +129,13 @@ These differ from country to country and they depend on local regulations and la
 
 For advise on selling as a VAT registered enterprise please see this document:
 
-{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" caption="Selling as VAT registered enterprise" %}
+{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" %}
+Selling as VAT registered enterprise
+{% endfile %}
 
 **Display Logo on Invoices:** if desired.
 
-**Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
+**Add Customised Text at the end of Invoices:** such as payment details (if payments are accepted by BACS) or terms and conditions.
 {% endtab %}
 
 {% tab title="USA" %}
@@ -145,7 +149,7 @@ For advise on selling as a VAT registered enterprise please see this document:
 
 
 
-**Terms and Conditions** \(pdf files only\) : Let your customers know any terms and conditions associated with purchasing from your business \(for example your refund policy\) by uploading a .pdf file here.
+**Terms and Conditions** (pdf files only) : Let your customers know any terms and conditions associated with purchasing from your business (for example your refund policy) by uploading a .pdf file here.
 
 ![](../../.gitbook/assets/tandc.jpg)
 
@@ -155,32 +159,32 @@ If you opt to add a file here, the customer will be required to check the box to
 
 ### Images
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will appear warped.  All images inserted here will be resized to 100 x 100 pixels.
+**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square (i.e. 100 x 100), or it will appear warped.  All images inserted here will be resized to 100 x 100 pixels.
 
 **Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
 
-An example profile is shown below in its complete version \(from the map or shopfront pages\).
+An example profile is shown below in its complete version (from the map or shopfront pages).
 
 ![](../../.gitbook/assets/demohubimages1.jpg)
 
-And now in its condensed version \(from the producer listing page\).
+And now in its condensed version (from the producer listing page).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties 
+### Properties&#x20;
 
 {% hint style="warning" %}
 Visible to **Producers** only
 {% endhint %}
 
-You can add properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to **all** of your products. 
+You can add properties (such as free range or certified organic) to your enterprise. These properties will then be automatically applied to **all** of your products.&#x20;
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md). 
+You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md).&#x20;
 
 ### Shipping Methods, Payment Methods & Enterprise Fees
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only \(ie invisible for Producer/Non-Producer Profiles\)
+Visible to Shops or Hubs registered enterprises only (ie invisible for Producer/Non-Producer Profiles)
 {% endhint %}
 
 The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
@@ -209,7 +213,7 @@ Under this menu are all the 'tags' which have been assigned to the customers of 
 
 'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
 
- For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+&#x20;For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
 
 ### Shop Preferences
 
@@ -217,19 +221,19 @@ Under this menu are all the 'tags' which have been assigned to the customers of 
 Visible to Shop and Hub registered enterprises only.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop \(and it's products\) will appear under the 'Shop' tab.
+**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop (and it's products) will appear under the 'Shop' tab.
 
 ![](../../.gitbook/assets/noticesoneoc.jpg)
 
 ![](../../.gitbook/assets/noticestwooc.jpg)
 
-The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites \(perhaps to showcase where your products are grown\), social media and more.
+The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites (perhaps to showcase where your products are grown), social media and more.
 
 If left blank the 'Notices' tab will not appear on your shop front.
 
 ![](../../.gitbook/assets/nonotices.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers when the shop will next be open and accepting orders.
+**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed (no active order cycle). It’s a chance to tell customers when the shop will next be open and accepting orders.
 
 {% hint style="success" %}
 TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
@@ -241,11 +245,11 @@ TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. 
 
 **Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date (closing soonest first) or by opening date (opening soonest first).
 
 **Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order". 
+**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order".&#x20;
 
 In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
 
@@ -253,17 +257,17 @@ In order for a customer to have an OFN account they must have confirmed the emai
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
 {% endhint %}
 
-**Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' \(ie people without an OFN account\) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
+**Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' (ie people without an OFN account) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
 
 {% hint style="success" %}
-_**Customers can change or cancel orders while an order cycle is open**_ is ONLY suitable if you use the **'cash/EFT/...**' [payment method](../shopfront/payment-methods.md) provider.  
+_**Customers can change or cancel orders while an order cycle is open**_ is ONLY suitable if you use the **'cash/EFT/...**' [payment method](../shopfront/payment-methods.md) provider. &#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-Opting for 'customers can change or cancel orders while an order cycle is open' with an **automated** [payment provider](../shopfront/payment-methods.md) \(Stripe/Paypal\) is **strongly advised against**.
+Opting for 'customers can change or cancel orders while an order cycle is open' with an **automated** [payment provider](../shopfront/payment-methods.md) (Stripe/Paypal) is **strongly advised against**.
 {% endhint %}
 
-Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to change the quantities of **products already in their basket** **or cancel their order** altogether while the shop is open.  They will **not be able to add new products** to their original order- doing this will generate a 2nd order.  
+Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to change the quantities of **products already in their basket** **or cancel their order** altogether while the shop is open.  They will **not be able to add new products** to their original order- doing this will generate a 2nd order. &#x20;
 
 {% hint style="danger" %}
 [Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer, nor will additional funds be automatically collected.
@@ -281,7 +285,6 @@ Opting for 'Customers can change or cancel orders while an order cycle is open' 
 
 **Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them (see next point).
 
 **Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
-

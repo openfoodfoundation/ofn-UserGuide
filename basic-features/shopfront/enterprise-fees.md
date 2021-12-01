@@ -2,9 +2,9 @@
 
 Enterprise fees are useful for producers and hubs who are working together: it allows costs associate with admin, packing, transport, sales and fundraising to be allocated to different parties.
 
-For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs \(storage of products prior to distribution, salaries of people who manage and coordinate sales...\)
+For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs (storage of products prior to distribution, salaries of people who manage and coordinate sales...)
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
+For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary.&#x20;
 
 One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
 
@@ -17,7 +17,7 @@ Before you move on you might like to have a look at a quick demonstration of set
 ## Setting up an Enterprise Fee
 
 * Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create one now**  \(or **Manage Enterprise Fees** if you have already set one up and would like to edit it\). You will be directed to a page like this:
+* Click **Create one now**  (or **Manage Enterprise Fees** if you have already set one up and would like to edit it). You will be directed to a page like this:
 
 ![](../../.gitbook/assets/enterprisefeecreate.jpg)
 
@@ -31,10 +31,10 @@ Before you move on you might like to have a look at a quick demonstration of set
 
 **Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
 
-Click Update, to create the enterprise fee. 
+Click Update, to create the enterprise fee.&#x20;
 
 {% hint style="info" %}
-You will only be able to specify rates or values \(in the 'calculator values' column after the Enterprise Fee has been created.
+You will only be able to specify rates or values (in the 'calculator values' column after the Enterprise Fee has been created.
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpg)
@@ -45,11 +45,11 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 
 **Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.\)
+**Weight (per kg)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items (e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.)
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate (per order)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached.&#x20;
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
@@ -57,19 +57,18 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 
 ![](../../.gitbook/assets/enterprisefeeflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.\)
+**Flat Rate (per item):** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.)
 
-**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Price Sack:** This is a flexible shipping fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a shipping discount. If the shopper spends less than the ‘minimal amount’ you can set what shipping fee they pay.
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee. 
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* 'Minimal Amount': If the order total is below this amount, no discount is applied. If the order is above this amount, the discount will be applied at checkout.
+* 'Normal Amount': This will be the shipping fee applied to sales below the 'Minimal Amount'.
+* ‘Discount Amount’: This will be the shipping fee applied to orders above the 'Minimal Amount'. You can set this to 0 for free shipping or use a minus symbol to make it a discount amount, eg. -5 for $5 cheaper.
 
-![](../../.gitbook/assets/enterprisefeepc.jpg)
+![](<../../.gitbook/assets/Price Sack Image (1).png>)
 
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
 {% endhint %}
-

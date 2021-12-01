@@ -50,7 +50,8 @@ This is a list of product and enterprise properties available in Australia:
 * Fgh
 * Free-range
 * My Pick Verified local farmer
-* Coupon 
+* Coupon\
+
 {% endtab %}
 
 {% tab title="UK" %}
@@ -79,19 +80,19 @@ This is a list of product and enterprise properties available in the UK:
 
 
 * AB
-* Certified Organic 
+* Certified Organic&#x20;
 * Grass Fed and Finished
-* Pasture Raised 
+* Pasture Raised&#x20;
 * Biodynamic
-* Certified Naturally Grown 
+* Certified Naturally Grown&#x20;
 * Chemical-Free
-* Animal Welfare Approved 
-* Non-GMO 
-* Verified FSMA Compliant 
-* Plastic-free 
-* Certified Organic Ingredients 
-* Conventionally Grown 
-* Organically grown or raised, not certified 
+* Animal Welfare Approved&#x20;
+* Non-GMO&#x20;
+* Verified FSMA Compliant&#x20;
+* Plastic-free&#x20;
+* Certified Organic Ingredients&#x20;
+* Conventionally Grown&#x20;
+* Organically grown or raised, not certified&#x20;
 * Hand crafted
 {% endtab %}
 
@@ -121,15 +122,15 @@ If you'd like to apply a property which is not listed above then please get in t
 
 There are two ways to assign properties to your products:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties”** section below\).
+1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property (unless it’s manually removed, which is covered in the **“Inherited Properties”** section below).
 
 2\) You can assign properties to particular products, on an individual basis.
 
 ## Assigning a property to an enterprise
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).  
+When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise (instructions below). &#x20;
 
-You can access enterprise properties in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md): in your Admin dashboard go to Enterprises -&gt; Settings -&gt; Properties
+You can access enterprise properties in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md): in your Admin dashboard go to Enterprises -> Settings -> Properties
 
 ![](../../.gitbook/assets/properties1.jpg)
 
@@ -153,9 +154,9 @@ Don't forget to save your changes by clicking 'Update' in the red box, bottom ri
 
 ## Assigning a property to a product
 
-To assign a property to a single product, rather than an enterprise’s entire product range, click on **Products** in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
+To assign a property to a single product, rather than an enterprise’s entire product range, click on **Products** in the horizontal blue banner, and then edit an existing product (you cannot apply a product property when you are first creating a product).
 
-To edit a product, click on the edit icon \(pencil and paper\) on the right hand side of the table.
+To edit a product, click on the edit icon (pencil and paper) on the right hand side of the table.
 
 ![](../../.gitbook/assets/property-to-product.png)
 
@@ -179,14 +180,14 @@ Remember to click **update** when you are finished.
 
 As discussed [above](product-properties.md#assigning-a-property-to-an-enterprise), when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, it is possible to override this automatic inheritance.
 
-When editing a product’s properties you will see a checkbox titled **“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.** By default, when an enterprise has a property, this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
+When editing a product’s properties you will see a checkbox titled **“Inherit properties from (Enterprise Name)(Unless Overridden Above)”.** By default, when an enterprise has a property, this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
 
 ![](../../.gitbook/assets/properties3.jpg)
 
 {% hint style="warning" %}
-If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level. 
+If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level.&#x20;
 
-This is useful if you would like to modify only the description of a label on selected products. \(For example, if all your products are 'Certified Organic', but two products have a different certificate number to the rest then you can add the main certificate number to the enterprise property description and the other number to the two products which are different using these product property descriptions.\)
+This is useful if you would like to modify only the description of a label on selected products. (For example, if all your products are 'Certified Organic', but two products have a different certificate number to the rest then you can add the main certificate number to the enterprise property description and the other number to the two products which are different using these product property descriptions.)
 {% endhint %}
 
 ## View Product Properties in online shop
@@ -197,7 +198,6 @@ By clicking on the profile of a producer, Enterprise Properties appear on the po
 
 Customers can also filter products in a shop based on their properties:
 
-![](../../.gitbook/assets/searchfilter%20%281%29.jpg)
+![](<../../.gitbook/assets/searchfilter (1).jpg>)
 
-![](../../.gitbook/assets/screenshot_20201027-152628.png)
-
+![](../../.gitbook/assets/screenshot\_20201027-152628.png)
