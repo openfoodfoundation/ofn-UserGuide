@@ -1,31 +1,30 @@
-# Opening more than one order cycle
+# Aprire più di un ciclo di richieste
 
-It is possible to have more than one order cycle open at the same time. This has the effect of creating two \(or more\) open shopfronts, which the customer can choose between from the one website address \(URL\).   
-This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products \(wholesale or retail\), different enterprise fees \(such a non-member mark-ups\) or different order cycle opening and closing dates \(for different deliver runs\).
+E' possibile avere più cicli di richieste aperti contemporaneamente. L'effetto sarà avere due (o più) negozi aperti allo stesso indirizzo (URL), tra cui l'utente potrà scegliere autonomamente.  \
+Questa funzionalità è utile quando vuoi avere diverse "condizioni" nei diversi negozi, come diversi prodotti (al dettaglio o all'ingrosso), diverse tariffe aziendali (es. sconti per i membri) o diverse date di apertura o chiusura dei cicli di richieste (per diversi giri di consegna).
 
-When the customer first lands on your shopfront page they will be requested to choose an order cycle before products are visible:
+Quando un consumatore approda sulla pagina del tuo negozio, per prima cosa gli verrà chiesto di scegliere un ciclo di richieste, prima di poter visualizzare i prodotti:
 
 ![](../../../.gitbook/assets/multipleoc2.jpg)
 
-When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
+Quando il consumatore sceglie il ciclo di richieste, il negozio mostrerà le informazioni specifiche del ciclo selezionato: prodotti, tariffe e date di apertura e chiusura.&#x20;
 
 {% hint style="danger" %}
-**It is not possible to offer different** [**shipping**](../shipping-methods.md) **or** [**payment**](../payment-methods.md) **methods to different order cycles**; all order cycles will have all of your shipping/payment methods available.  Instead of setting up concurrent order cycles, use [tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) to offer differential rates for specific  customers. 
+**Non è possibile proporre diversi metodi** [**di consegna**](../shipping-methods.md) **o** [**di pagamento**](../payment-methods.md) **in diversi cicli di richieste;** per tutti i tuoi cicli di richieste saranno visualizzati tutti i tuoi metodi di consegna/pagamento disponibili. Invece di impostare diversi cicli di richieste, puoi utilizzare le[ etichette](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) per offrire metodi differenziati a seconda dei consumatori.&#x20;
 {% endhint %}
 
 {% hint style="success" %}
-[Tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) can also be used to make order cycles visible or invisible to specific customers. For example, if you tag your wholesale customers as 'pro', then you can make an order cycle with wholesale pricing visible only to 'pro'. 
+Le [etichette](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) possono essere utilizzate anche per rendere determinati cicli di richieste visibili o invisibili a specifici consumatori. Ad esempio, se etichetti i tuoi clienti "all'ingrosso" come "pro", potrai poi mostrare un ciclo di richieste con prezzi all'ingrosso solo ai consumatori "pro". &#x20;
 {% endhint %}
 
-## **Ordering your order cycles**
+## **Ordinare i tuoi cicli di richieste**
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date \(closing soonest first\) or by opening date \(opened earliest first\). 
+Puoi scegliere in che ordine visualizzare i tuoi cicli di richieste nel menu a tendina: per data di chiusura (prima la chiusura più prossima) o per data di apertura (prima l'apertura più prossima).&#x20;
 
-This is setup in your [enterprise settings](../../enterprise-profile/enterprise-settings.md) -&gt; Shop Preferences -&gt; Sort Order Cycles On Shopfront By
+Questo è da impostare nelle tue [impostazioni azienda](../../enterprise-profile/enterprise-settings.md) --> Preferenze di Acquisto --> Ordina Cicli di richieste in Vetrina per&#x20;
 
 ![](../../../.gitbook/assets/ordercyclesort.jpg)
 
-Customers can navigate between order cycles:
+I consumatori possono navigare tra i cicli di richieste:
 
-![](../../../.gitbook/assets/multipleoc3%20%281%29.jpg)
-
+![](<../../../.gitbook/assets/multipleoc3 (1).jpg>)
