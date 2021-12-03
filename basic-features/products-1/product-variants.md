@@ -1,41 +1,42 @@
-# Varianti di Prodotti
+# Product variants
 
-Se nel tuo listino ci sono due o più prodotti molto simili tra loro, che variano solo per prezzo, dimensione, o gusto, è consigliabile creare una "variante" per quel prodotto, piuttosto che creare più prodotti diversi. Questo renderà il listino più chiaro per i consumatori ed eviterà confusione nel tuo negozio.&#x20;
+If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
 
 ![Shop display for Corn Cobs sold with two variants.](../../.gitbook/assets/corncob-variants.png)
 
-## Come creare una Variante?
+## How do I create a Product Variant? 
 
-Prima di tutto, è necessario creare un prodotto, che sarà automaticamente anche la prima variante di questo prodotto. Per maggiori dettagli sull'aggiunta di prodotti, clicca [qui](products.md). &#x20;
+First of all, it is necessary to create a product, which will automatically be also the first variant of this product. For more details on adding simple products, click [here](products.md). 
 
-Nel tuo pannello di controllo, vai alla pagina "Prodotti", dove troverai la lista dei prodotti delle aziende produttrici che gestisci. Per visualizzare **tutte le varianti** associate ai tuoi prodotti, clicca su "Espandi tutto" in rosso nell'angolo in alto a sinistra della tabella.
+In your admin dashboard, go to the products page where you will find the list of products for companies of "producer" nature that you manage. To see **all the variants** associated with your products, click on "Expand All" in red at the top left of the table.
 
 ![](../../.gitbook/assets/variants1.jpg)
 
-Per vedere solo le varianti di uno specifico prodotto, clicca su ">", a sinistra della prima colonna della tabella, alla riga corrispondente al prodotto. Se desideri creare una nuova variante per questo prodotto, clicca sul piccolo "+" che compare proprio sotto, come si vede in questo esempio.&#x20;
+To see see the variants of a specific product only, click on the angle "&gt;" to the left of the first column of the table. If you wish to create a new variant for this product, click on the small plus "+" which is displayed just below as shown above.
 
-Sarà quindi aggiunta una nuova riga che ti permetterà di immettere rapidamente le informazioni relative a questa seconda variante:&#x20;
+This will add a new line allowing you to quickly enter information about the second variant:
 
 ![](../../.gitbook/assets/variants2.jpg)
 
-La prima riga corrisponde al "prodotto madre", che sarà offerto alla vendita in diverse varianti. Quindi alcune informazioni di prodotto saranno applicate a tutte le sue varianti: l'unità di misura, il nome dell'unità se il prodotto è venduto al pezzo, le proprietà, le condizioni di trasporto, ecc.
+The first line corresponds to the 'parent product' which will be offered for sale to customers in the form of several variants. Some product-level information will therefore apply to all variants, such as the unit of measure, the name of the unit if the product is sold individually, the properties, the conditions of transport, etc. 
 
-La seconda e terza riga sono qui le 2 varianti del prodotto. Ogni variante si distingue dalle altre per almeno un elemento, che spesso può essere l'unità (ad esempio 500g o 100g) e, di conseguenza, il prezzo. Differenze nella natura del prodotto (ad esempio il gusto) possono essere dettagliati cambiando il nome di ciascuna variante (ad esempio la variante uno si chiama "formaggio di capra alle erbe" e la variante due "formaggio di capra all'aglio").&#x20;
+The 2nd and 3rd lines are here the 2 variants of the product. Each variant is distinguished from the others by at least one differentiating element, such as the unit \(eg. packaging per 500g instead of 100g for the first variant\) and, very often, the associated price.  Slight variations in the nature of a product \(eg. flavour\) can be detailed by changing the name of each variant \(eg. variant one has name = 'goats cheese- herbs' and variant two has name=  'goats cheese- garlic'\). 
 
 {% hint style="info" %}
-Per evitare errori nella lettura dei report, ti consigliamo vivamente di nominare sempre in modo diverso ciascuna variante.&#x20;
+To avoid errors when reading reports, we strongly recommend that you always name each variant differently.
 {% endhint %}
 
 {% hint style="danger" %}
-Al momento, le disponibilità possono essere impostate solo al **livello della variante**.&#x20;
+At the moment, stock levels can only be defined **at the level of the variant.**
 
-Sappiamo che questo può essere un problema se hai una disponibilità limitata di un determinato prodotto e desideri venderlo sia in grandi quantità sia singolarmente. (Ad esempio se hai 50 kg di pomodoro e desideri venderli sia al kg che in cassette da 4 kg, dovrai gestire le tue disponibilità manualmente tra le due varianti, ad esempio impostando 10 cassette disponibili e 10 kg disponibili).
+We know this might be a problem if you have a fixed amount of an item but wish to retail in bulk quantities as well as singularly. \(eg if you have only 5 kg of tomatoes in total but wish to sell as variants of  100 g and 1 kg you will have to manage your stock levels between the two variants manually.\)
 {% endhint %}
 
 {% hint style="success" %}
-Non c'è un numero massimo di varianti per un prodotto. Puoi aggiungerne quante te ne servono.
+There is no maximum number of variants for a product. You can add as many as you need.
 {% endhint %}
 
 {% hint style="info" %}
-Quando hai finito, clicca sempre su "salva modifiche" nel pulsante rosso in basso a destra.&#x20;
+When you are finished always select 'save changes' in the red box at the bottom right of the screen.
 {% endhint %}
+
