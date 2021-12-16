@@ -35,7 +35,7 @@ Se i tuoi fornitori hanno aggiunto nuovi prodotti dall'ultima volta che hai visi
 
 Finchè non avrai aggiunto questi prodotti a tuo inventario, rimarranno nella categoria '**Nuovi Prodotti**' e non saranno visibili quando crei un nuovo ciclo di richieste. Cliccando su '**Rivedi adesso**' sarai ridiretto alla lista dei nuovi prodotti. &#x20;
 
-## Revsione Nuovi Prodotti
+## Revisione Nuovi Prodotti
 
 I nuovi prodotti possono essere **Aggiunti** al tuo inventario oppure **Nascosti**. Se c'è un prodotto nella lista per il quale desideri sovrascrivere informazioni, dovrai **aggiungerlo** alla lista del tuo inventario. Se c'è un prodotto che non vuoi vendere nel tuo negozio, o che non vuoi immagazzinare nel prossimo futuro, puoi decidere di **nasconderlo** (vedi sotto la sezione **Prodotti Nascosti**).&#x20;
 
@@ -77,52 +77,52 @@ Puoi ripassare i campi 'disponibile' e 'a richiesta' [qui](products.md#adding-pr
 Non è possibile modificare il nome, le proprietà, la descrizione o l'immagine di un prodotto.
 {% endhint %}
 
-### Permetti Reset Disponibilità?
+### Permetti Reset del magazzino?
 
-The **enable stock level reset** column allows you to reset the 'In Stock' amount to a default value, **** for example at the start of each new order cycle. The **default amount** is the number entered in this column next to the check box. The checkbox allows you to select only those items that you want to reset at any give time.&#x20;
+La colonna **Abilitare il reset del magazzino?** ti permette di riportare il valore delle disponibilità ad un livello prestabilito, per esempio all'inizio di ogni nuovo ciclo di richieste.  La **quantità prestabilita** è il numero inserito nella colonna a destra della casella selezionabile. Puoi selezionare con la spunta solo gli articoli che desideri reimpostare in un momento dato.&#x20;
 
-To reset the default stock for these products, click 'Actions' at the top left of the inventory table and then 'Reset stock levels to defaults'. Only products for which the enable stock reset box has been checked will be affected by this action.&#x20;
+Per resettare il livello di disponibilità di questi prodotti, clicca su 'Azioni' nel pulsante in alto a sinistra della tabella dell'inventario, e poi 'Resetta le quantità disponibili alla quantità predefinita'. Solo i prodotti con la spunta nella casella 'abilitare reset magazzino?' subiranno l'effetto di questa azione.&#x20;
 
 ![](../../.gitbook/assets/inventorystockreset.jpg)
 
-> In this example the default stock level of baked beans is 5. There are currently 2 left in stock. If the user, at the beginning of an order cycle wishes to reset to 5 then they must click on 'Reset stock levels to defaults' under 'Actions'
+> In questo esempio, la disponibilità predefinita del prodotto è 5. Al momento ce ne sono 2 in giacenza. Se, all'inizio di un nuovo ciclo di richieste o in un altro momento a tua discrezione, desideri riportare la disponibilità a 5, allora clicca su 'Azioni'>'Resetta le quantità disponibili alla quantità predefinita'.
 
 {% hint style="info" %}
-This is a useful feature for hubs who may receive deliveries of specific products once a month or on a regular schedule.&#x20;
+Questa funzionalità è utile a quegli hub che ricevono consegne di prodotti specifici con cadenza regolare.&#x20;
 {% endhint %}
 
-### Inherit?
+### Eredita?
 
-If you have not changed any of the values in the Inventory table for a product, the check box "inherit?" will be, by default, checked. This means that the information entered by the producer and visible in grey will be displayed on your shopfront.
+Se non hai modificato nessuna impostazione della tabella, la casella di controllo "Eredita?" avrà la spunta di default. Questo significa che le informazioni inserite dal produttore e visualizzate su fondo grigio saranno visibili nella tua vetrina.&#x20;
 
 ![](../../.gitbook/assets/inventoryinherit.jpg)
 
-By modifying one or more of the fields, this check box will be automatically de-selected. To reset values (price, stock, SKU etc) to the producer's master copy values, you can re-select this box at any time.
+Modificando uno o più campi, la spunta da questa casella sarà tolta automaticamente. Per resettare i valori (prezzo, disponibilità, codice ID, ecc.) al valore originale impostato dal produttore, puoi ri-slezionare questa casella in qualsiasi momento.&#x20;
 
-### Hide
+### Nascondi
 
-As in the **New Products** list, you can also **hide** products from your **Inventory List**. Clicking on the hide button will move the product to your **Hidden Products** list. If you have your inventory profile set up as '**New products must be added to my inventory before they can be added to my shopfront'** (see [here](inventory-tool.md#profile-settings-for-the-inventory)) then the product you just hid will no longer be available for selection in your hub's order cycle and thus will not be visible on your shopfront.
+Come nella lista dei **Nuovi Prodotti**, puoi **nascondere** prodotti anche nella **Lista Inventario**. Cliccando sul pulsante nascondi, sposterai il prodotto nella tua lista di **Prodotti Nascosti**. Se nelle tue impostazioni di Inventario, hai selezionato l'opzione "**I nuovi prodotti devono essere aggiunti al mio inventario prima di poter essere inseriti nella mia vetrina"** (vedi [qui](inventory-tool.md#profile-settings-for-the-inventory)), allora il prodotto che hai nascosto non sarà più selezionabile nel tuo ciclo di richieste e quindi non sarà visibile nella tua vetrina.&#x20;
 
-## Hidden Products
+## Prodotti nascosti
 
-This is a list of all the products you have chosen to hide:
+Questa è una lista di tutti i prodotti che hai deciso di nascondere: :
 
 ![](../../.gitbook/assets/hidden-products.png)
 
-When viewing your list of hidden products you can choose to make them visible once more by clicking the '**Add**' button to the right of the item.
+Accedendo alla lista dei prodotti nascosti, puoi scegliere di riportarli visibili cliccando il pulsante '**Aggiungi**' nella colonna a destra.&#x20;
 
 ![](../../.gitbook/assets/inventoryhidden.jpg)
 
-## Inventory and Order Cycles
+## Inventario e Cicli di Richieste
 
-When setting up order cycles you can on a case by case basis choose between selecting from all available products or only those which are in your shop/hub inventory.&#x20;
+Ogni volta che imposti un ciclo di richieste puoi scegliere di selezionare tutti i prodotti disponibili o solo quelli che sono nell'inventario del tuo negozio/hub. &#x20;
 
-This is controlled by visiting 'Advanced Settings' (top right of order cycle page):
+Puoi farlo accedendo alle 'Impostazioni avanzate', in alto a destra nella pagina del ciclo di richieste:&#x20;
 
-![](../../.gitbook/assets/advanced-oc-settings.png)
 
-This option has the same effect as changing our enterprise [profile settings for your inventory](inventory-tool.md#profile-settings-for-the-inventory), but unlike the latter it applies only to the order cycle in question.
+
+Questa opzione ha lo stesso effetto della modifica delle [impostazioni dell'inventario del tuo profilo](inventory-tool.md#profile-settings-for-the-inventory), ma, a differenza di questa, si applica solo al ciclo di richieste selezionato.&#x20;
 
 {% hint style="danger" %}
-After making any changes always remember to click 'Update' or 'Save' before moving on!
+Dopo qualsiasi modifica, ricordati sempre di cliccare su 'Aggiorna' o 'Salva' prima di procedere!
 {% endhint %}
