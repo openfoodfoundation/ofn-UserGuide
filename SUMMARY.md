@@ -39,7 +39,7 @@
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)
     * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
     * [Metodi di Spedizione](basic-features/shopfront/shipping-methods.md)
-  * [Orders](basic-features/orders/README.md)
+  * [Gentili Richieste](basic-features/orders/README.md)
     * [View Orders](basic-features/orders/view-orders.md)
     * [Create orders manually](basic-features/orders/create-orders-manually.md)
     * [Rimborsi ed Aggiustamenti nei Pagamenti](basic-features/orders/refund-payments.md)

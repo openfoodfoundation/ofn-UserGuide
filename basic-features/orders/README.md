@@ -1,9 +1,8 @@
-# Orders
+# Gentili Richieste
 
-Once your shop is online \(ie you have an active [Order Cycle](../shopfront/order-cycle/)\) , customers are able to place orders. This section explains how to: 
+Una volta che il tuo negozio sarà online (ovvero avrai un [Ciclo di Richieste](../shopfront/order-cycle/) attivo), i tuoi clienti potranno inserire le loro gentili richieste. Questa sezione spiega come:&#x20;
 
-* [manage and modify orders](view-orders.md)
-* [create orders manually for customers](create-orders-manually.md)
-* [adjust payments](refund-payments.md) \(refunds etc\)
-* print [receipts](thermally-printed-receipts.md).
-
+* [Gestire e modificare le gentili richieste](view-orders.md)
+* [Creare gentili richieste manualmente](create-orders-manually.md)
+* [Correggere pagamenti](refund-payments.md) (rimborsi ecc.)
+* Stampare [ricevute](thermally-printed-receipts.md).
