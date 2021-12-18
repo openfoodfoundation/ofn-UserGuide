@@ -1,77 +1,76 @@
-# Refunds and Adjusting Payments
+# Rimborsi ed Aggiustamenti nei Pagamenti
 
-Occasionally, you may have to adjust the amount a customer pays for their order. Common scenarios include:
+Occasionalmente, ti può capitare di dover aggiustare l'importo pagato da un cliente per la sua gentile richiesta. Alcuni scenari comuni sono:&#x20;
 
-* Orders containing products with variable weights which are unknown at time of ordering \(such as [meat or large vegetables](../products-1/pricing-irregular-items-kg.md), sold priced by weight but as complete items\)
-* A product ordered was not delivered by the producer.
-* A customer contacts you to add extra items to their basket.
-* One \(or more\) of the items ordered is not of the expected quality and you wish to compensate the customer.
+* Richieste contenenti prodotti con peso variabile non noto al momento della richiesta (come [carne o grandi ortaggi](../products-1/pricing-irregular-items-kg.md), con prezzo al kg ma venduti al pezzo intero)&#x20;
+* Prodotto richiesto non consegnato dal produttore.&#x20;
+* Richiesta da parte del cliente di aggiunte di prodotti dopo l'avvenuto pagamento.&#x20;
+* Uno o più prodotti di qualità inferiore alle aspettative per cui desideri procedere ad un rimborso.&#x20;
 
- There are two main cases:
+&#x20;Generalmente si possono verificare due casi:
 
-* The customer is due to _**pay for their produce on collection**_ and so no payment has been made in advance. In this case, you can adjust the customer's order, resend their order confirmation email, and the monies exchanged on the day of collection reflect the updated amount due.
-* The _**order was paid for at the time it was placed**_ \(Stripe, PayPal, or bank transfer\). In this case there are three options:
-  1. The balance is in CREDIT \(you owe the customer money\) and you wish to refund them.
-  2. The balance is in CREDIT and you wish the customer to be able to use this credit on future purchases.
-  3. The balance is in DEBT \(the customer owes you money\) 
+* Al cliente è richiesto il **pagamento alla consegna** e dunque non si effettuano pagamenti in anticipo. In questo caso, puoi correggere la gentile richiesta, reinviare la mail di conferma e  richiedere il pagamento corretto il giorno della consegna.
+* Il **pagamento avviene al momento della conferma della richiesta** (Stripe, PayPal..). In questo caso ci sono tre opzioni:&#x20;
+  1. Il saldo è in CREDITO (tu devi un importo al cliente) e desideri rimborsarlo.&#x20;
+  2. Il saldo è in CREDITO e desideri che il cliente possa utilizzare il suo credito per i suoi acquisti futuri.&#x20;
+  3. Il saldo è in DEBITO (il cliente ti deve un importo)&#x20;
 
-## How to refund a Payment
+## Come rimborsare un Pagamento
 
-### Refunding a Stripe Payment
+### Rimborsare un pagamento Stripe
 
-_If the customer made the payment for their order to your business Stripe account, then you will be able to issue a full or partial refund from the OFN admin interface._
+_Se il cliente ha effettuato il pagamento sul tuo account business di Stripe, puoi ettuare un rimborso parziale o totale dall'interfaccia amministrativa di OFN._&#x20;
 
-Make sure the order you wish to refund is marked as 'PAID':
+Assicurati che la richiesta che desideri rimborsare sia contrassegnata come 'PAGATA':&#x20;
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](<../../.gitbook/assets/image (17).png>)
 
-Adjust the order as necessary \(read [here](view-orders.md#editing-an-order) for how to edit an order or read more about [bulk order management](view-orders.md#bulk-order-management) for managing scenarios such as [product shortage](view-orders.md#example-1-you-have-a-stock-shortage-and-must-reduce-customer-order-quantities-for-a-certain-product) or [irregularly priced meat items](../products-1/pricing-irregular-items-kg.md).\)
+Correggi la richiesta come da necessità (leggi [qui](view-orders.md#editing-an-order) per come modificare una gentile richiesta, oppure approfondisci la [gestione tabellare delle richieste](view-orders.md#bulk-order-management) per i casi di [mancanza di prodotti](view-orders.md#example-1-you-have-a-stock-shortage-and-must-reduce-customer-order-quantities-for-a-certain-product) o di [prodotti dal prezzo indefinito nel momento della richiesta](../products-1/pricing-irregular-items-kg.md)).
 
-You will then see the that there is CREDIT on the modified order.  Select the 'tick' to the right of the order to issue a refund via Stripe:
+Ti comparirà quindi un CREDITO nella richiesta modificata. Clicca sulla spunta a destra per effettuare il rimborso via Stripe:&#x20;
 
 ![](../../.gitbook/assets/capture-du-2019-02-27-20-04-19.png)
 
-The refund will be recorded on your business' Stripe account:
+Il rimborso sarà registrato sul tuo account business di Stripe:&#x20;
 
 ![](../../.gitbook/assets/stripecredit.png)
 
 {% hint style="info" %}
-Refunds take 5-10 days to appear on a customer's statement.
+I rimborsi impiegano dai 5 ai 10 giorni per apparire nell'account del cliente.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-The fees charged by Stripe \(1.4% - 2.9% + 20p per transaction\) are not refunded to your business. They are charged based on the amount originally paid.   
-It might, therefore, be more advantageous to offer the customer credit against their next \(or future\) order rather than issue a refund.
+Le tariffe applicate da Stripe (1.4% - 2.9% + 0,20€ per transaction) non ti vengono rimborsate: sono calcolate in base all'importo originariamente pagato. \
+Potrebbe dunque essere più vantaggioso offrire al cliente un credito per le sue future gentili richieste piuttosto che effettuare un rimborso.&#x20;
 {% endhint %}
 
-If an order has been totally cancelled you can issue a full refund \(if the customer paid by Stripe\) by [Edit order](view-orders.md#editing-an-order) -&gt; Payments and then selecting the 'cross' to the right hand side of the table:
+Se una richiesta è stata completamente cancellata, puoi effettuare un rimborso totale (se il cliente ha pagato via Stripe): [Modifica la richiesta](view-orders.md#editing-an-order) --> Pagamenti. Seleziona la croce a destra della tabella:&#x20;
 
 ![](../../.gitbook/assets/stripefullrefund.png)
 
-### Refunding a PayPal payment
+### Rimborsare un pagamento PayPal
 
-Automated partial or full refunds to customers who paid for their orders by PayPal are not supported on the OFN platform at the moment. You will need to visit your business PayPal account and issue a refund through their platform.  
-This is a functionality we hope to add in the future.
+Rimborsi parziali o totali automatici per pagamenti via PayPal non sono al momento supportati da OFN. Dovrai accedere al tuo account business di PayPal ed effettuare il rimborso da lì. \
+Questa è una funzionalità che speriamo di sviluppare in futuro.&#x20;
 
-### Refunding a Bank Transfer Payment
+### Rimborsare un Pagamento via bonifico
 
-_A customer pays for their purchases by bank transfer or any other non-automated method \(ie any method except Stripe or PayPal\) and you recorded their payment.  At a later date, it is necessary to_ [_edit their order_](view-orders.md#editing-an-order) _\(an item is not available or was supplied faulty\). After making this adjustment the over-payment made by the customer displays as credit against their order._  
-To issue a refund by BACS you will need to do so through your business bank account.
+_Un cliente ha pagato per i propri acquisti con un bonifico o qualsiasi altro metodo non automatizzato (qualsiasi altro metodo eccetto Stripe o PayPal) ed hai già registrato il pagamento. Successivamente è necessario modificare la sua gentile richiesta (un prodotto non è disponibile o è danneggiato). Dopo aver modificato la richiesta, la differenza tra l'importo pagato e l'importo dovuto viene visualizzata come CREDITO nella sua richiesta._\
+__Per effettuare un rimborso, dovrai farlo attraverso la tua banca. __&#x20;
 
-## How to issue a customer Credit against their next order
+## Come considerare un CREDITO per le gentili richieste future
 
-An alternative to issuing a refund might be to manually deduct the customer's credit from their next order.
-
-{% hint style="info" %}
-Currently, as Shop or Hub manager, you would need to manually adjust the customers balance to take account of their credit.  In the future we would like to automate this process.  Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if it is something which would be useful for your enterprise.
-{% endhint %}
-
-## How to bill a customer for additional funds
-
-For example, a customer might ask to you add an additional item to an order they have already paid for, or, you might find after receipt of meat \([or other complete items priced by weight](../products-1/pricing-irregular-items-kg.md)\) that the total invoice is increased slightly.  
-Any additional funds paid must be recorded manually. The customer will not be able to pay the excess by Stripe or PayPal through the OFN platform.
+Un'alternativa al rimborso potrebbe essere sottrarre manualmente il credito dalla prossima gentile richiesta del cliente.&#x20;
 
 {% hint style="info" %}
-If a customer wishes to add an item they forgot originally to their basket but pays by Stripe or PayPal then it might be simpler to ask them to create another order, rather than editing their existing order.
+Attualmente, come gestore di un Negozio o di un Hub, occorre correggere manualmente il saldo di un consumatore per prendere in considerazione il suo credito precedente. In fuuro vorremmo automatizzare questo processo. Per favore  se credi possa essere una funzionalità utile per la tua azienda.&#x20;
 {% endhint %}
 
+## Come aggiungere importi al conto
+
+Per esempio, un cliente ti chiede di aggiungere un prodotto ad una sua gentile richiesta già pagata, oppure un [prodotto venduto al pezzo ma pagato al peso](../products-1/pricing-irregular-items-kg.md) potrebbe essere risultato più grande della media prevista e dunque l'importo dovuto risulta maggiore dell'importo già pagato. \
+Ogni importo aggiuntivo va registrato manualmente. Il cliente non potrà pagare importi aggiuntivi via Stripe o PayPal attraverso OFN.
+
+{% hint style="info" %}
+Se un cliente vuole aggiungere un articolo alla sua gentile richiesta già pagata via Stripe o PayPal, potrebbe essere più semplice chiedergli di creare una nuova richiesta, piuttosto che modificare quella già presente.&#x20;
+{% endhint %}
