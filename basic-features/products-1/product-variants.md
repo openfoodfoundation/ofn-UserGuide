@@ -1,42 +1,42 @@
-# Product variants
+# Variantes de Produits
 
-If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
+Si vous créez plusieurs produits très similaires, variant seulement par leur taille, leur unité, ou le "goût" par exemple, nous vous conseillons de créer des "variantes" de ce produit au lieu de les créer en tant que produits différents. Ceci rendra votre boutique plus simple et claire pour les clients.
 
-![](../../.gitbook/assets/productweightunit-price.jpg)
+![](<../../.gitbook/assets/productweightunit price.jpg>)
 
-## How do I create a Product Variant? 
+## Comment Créer une Variante de Produit?
 
-First of all, it is necessary to create a product, which will automatically be also the first variant of this product. For more details on adding simple products, click [here](products.md). 
+Il est tout d'abord nécessaire de créer un produit, qui deviendra aussi la "première variante" de ce produit. Pour plus de détails sur comment créer un produit, cliquez ici.
 
-In your admin dashboard, go to the products page where you will find the list of products for companies of "producer" nature that you manage. To see **all the variants** associated with your products, click on "Expand All" in red at the top left of the table.
+Dans votre tableau de bord administratif, rendez-vous sur la page Produits. Cliquez sur ~~"Voir Plus"~~ pour voir tous les produits **ainsi que leur variantes.**
 
 ![](../../.gitbook/assets/variants1.jpg)
 
-To see see the variants of a specific product only, click on the angle "&gt;" to the left of the first column of the table. If you wish to create a new variant for this product, click on the small plus "+" which is displayed just below as shown above.
+Pour voir les variantes d'un produit en particulier, cliquez sur ">" à gauche du tableau. Pour créer une nouvelle variante pour ce produit, cliquez sur le petit "+" comme affiché ci-dessous.
 
-This will add a new line allowing you to quickly enter information about the second variant:
+Cela ajoutera une nouvelle ligne, vous permettant de compléter rapidement les informations à propos de cette nouvelle variante:
 
 ![](../../.gitbook/assets/variants2.jpg)
 
-The first line corresponds to the 'parent product' which will be offered for sale to customers in the form of several variants. Some product-level information will therefore apply to all variants, such as the unit of measure, the name of the unit if the product is sold individually, the properties, the conditions of transport, etc. 
+La première ligne correspond au "~~produit parent~~", qui sera affiché aux clients avec ses variantes. Certaines informations seront communes à toutes les variantes comme l'unité, les conditions de transports etc.
 
-The 2nd and 3rd lines are here the 2 variants of the product. Each variant is distinguished from the others by at least one differentiating element, such as the unit \(eg. packaging per 500g instead of 100g for the first variant\) and, very often, the associated price.  Slight variations in the nature of a product \(eg. flavour\) can be detailed by changing the name of each variant \(eg. variant one has name = 'goats cheese- herbs' and variant two has name=  'goats cheese- garlic'\). 
+Les deuxième et troisième lignes dans cet exemple sont les deux variantes du produit. Chaque variante se distingue des autres dans au moins une catégorie. Il est conseillé d'indiquer la spécificité de la variante dans le nome de celle-ci; par exemple, la première variante peut être nommée "saucisson sec au poivre" et la deuxième peut être nommée "saucisson sec aux noix".
 
 {% hint style="info" %}
-To avoid errors when reading reports, we strongly recommend that you always name each variant differently.
+Pour éviter la confusion dans les rapports, nous vous conseillons de donner un nom distinct à chaque variante.
 {% endhint %}
 
 {% hint style="danger" %}
-At the moment, stock levels can only be defined **at the level of the variant.**
+Actuellement, il est uniquement possible de définir les niveaux de stock **au niveau des variantes**.
 
-We know this might be a problem if you have a fixed amount of an item but wish to retail in bulk quantities as well as singularly. \(eg if you have only 5 kg of tomatoes in total but wish to sell as variants of  100 g and 1 kg you will have to manage your stock levels between the two variants manually.\)
+Ceci peut être un problème si la différence entre deux variantes est seulement la quantité d'un même produit (ex: si vous vendez des tomates par 100g et 1kg et qu'il vous reste 5kg, vous devrez gérer le stock des deux variantes indépendamment).
 {% endhint %}
 
 {% hint style="success" %}
-There is no maximum number of variants for a product. You can add as many as you need.
+Il n'y a pas de nombre maximum de variantes pour un même produit. Vous pouvez en créer autant que vous voulez.
 {% endhint %}
 
 {% hint style="info" %}
-When you are finished always select 'save changes' in the red box at the bottom right of the screen.
+Lorsque vous avez terminé, n'oubliez pas de cliquer sur " sauvegarder les changements" en bas à droite.
 {% endhint %}
 

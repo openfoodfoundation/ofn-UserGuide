@@ -1,60 +1,28 @@
-# Register and Create an Enterprise Account
+# L'inscription et la configuration du profil d'entreprise
 
-### Create your user account
+### Création de votre compte utilisateur
 
-* From homepage, click on "Login" on the top right corner, then "Sign up" 
+* Depuis la page d'accueil, cliquez en haut à droite sur "Se connecter" puis sur "Inscription".
+* Renseignez votre adresse email et choisissez un mot de passe
+* Vous recevrez dans les minutes qui suivent un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
+* Connectez-vous.
 
-![](../.gitbook/assets/loginsetup.jpg)
+![](<../.gitbook/assets/image (51).png>)
 
-* Enter your email address and choose a password.
-* You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page.  
-* Login
+### Création de votre première "entreprise"
 
-{% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
-{% endhint %}
+* Une fois connecté(e), cliquez sur la bannière grise indiquant "vous souhaitez proposer vos produits sur la plateforme ? Cliquez ici"
+* Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons!.
 
-### Create your first "enterprise" account
+![](<../.gitbook/assets/image (58).png>)
 
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
+* Renseignez le nom de votre entreprise et vos coordonnées. Cela permettra notamment d'afficher votre entreprise sur la carte, améliorant votre visibilité.
+* Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'êtes pas producteur.&#x20;
 
-![](../.gitbook/assets/registerenterprise.jpg)
+![](<../.gitbook/assets/image (45).png>)
 
-![](../.gitbook/assets/welcome1.jpg)
+* Cliquez sur "créer votre profil". Vous allez ensuite recevoir un email vous confirmant la création de votre profil. Vous pouvez vous arrêter là et compléter les informations manquantes un autre jour ou continuer selon les écrans proposés pour avancer dans le remplissage de votre profil entreprise.
+* Complétez la description de votre entreprise, ajoutez des images, des liens web...
+* Une fois terminé, vous êtes renvoyé(e) vers la page d'accueil.
 
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
-
-![](../.gitbook/assets/letsgetstarted.jpg)
-
-* Fill in your enterprise name and contact details.
-
-{% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
-{% endhint %}
-
-* Choose between 'Producer' \(you make/bake/grow products yourself\) or 'Non Producer' \(you distribute and sell food made by others\).
-
-![](../.gitbook/assets/laststep.jpg)
-
-* Click the ‘create profile’ button.  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now. 
-* Fill in your enterprise description, add images, website/social media links, business details, etc.
-* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
-
-![](../.gitbook/assets/newregister.jpg)
-
-**Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
-
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.**  
-
-![](../.gitbook/assets/newchoose.jpg)
-
-**After doing so, your enterprise will added to the OFN map!**  
-
-**A short clip of registering your enterprise on OFN:**
-
-![](../.gitbook/assets/registration.gif)
-
-### Access your Enterprise Administration Dashboard
-
-Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile &gt; Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
-
+**Votre première "entreprise" est désormais créée et vous avez commencé à renseigner votre profil.**

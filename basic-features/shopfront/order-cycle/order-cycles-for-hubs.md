@@ -1,139 +1,136 @@
-# Order Cycles \(for Hubs\)
+# Cycles de commande (pour les Hubs)
 
 {% hint style="warning" %}
-Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'. 
+Lisez la suite si vous avez sélectionné le profil d'entreprise " Hub producteur ou non producteur ".&#x20;
 
-Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
+Visitez cette page si vous vous êtes inscrit en tant que " boutique de producteur " et que vous souhaitez configurer un cycle de commande pour votre vitrine.
 {% endhint %}
 
-You open your shop by creating an Order Cycle. When you create an order cycle you select when your shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.
+Vous ouvrez votre boutique en créant un cycle de commande. Lorsque vous créez un cycle de commande, vous choisissez quand votre boutique est ouverte, quels produits seront mis en ligne et quels frais vous appliquerez.
 
-**Why Order Cycles?**    
-Some hubs may wish to have an online store which is perpetually open, and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient \(and reducing associated overhead costs\). 
+**Pourquoi des cycles de commande ?**
 
-For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
+Certains hubs peuvent souhaiter avoir une boutique en ligne ouverte en permanence, et remplir les commandes une par une, au fur et à mesure qu'elles sont reçues. Cependant, de nombreux hubs fonctionnent selon un système de commande périodique, qui leur permet de traiter les commandes en vrac, ce qui rend leurs activités de production, d'emballage et de distribution plus efficaces (et réduit les frais généraux associés).&#x20;
 
-A quick demonstration of setting up a new order cycle:
+Par exemple, un cycle de commande peut être ouvert pendant deux semaines. À la fin de la quinzaine, toutes les commandes seront emballées et livrées à la même heure le mercredi suivant. Une fois que ce lot de commandes aura été livré, un nouveau cycle de commande pourra être rouvert.&#x20;
+
+Démonstration rapide de la mise en place d'un nouveau cycle de commande :
 
 ![](../../../.gitbook/assets/ordercyclehub.gif)
 
-## Viewing Order Cycles
+## Visualiser les cycles de commande
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles** on your [dashboard](../../dashboard.md).
+Vous pouvez créer un cycle de commande et consulter les cycles de commande précédents en cliquant sur **Gérer les cycles de commande** dans votre tableau de bord.
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
-Or from the horizontal menu at the top of the page.
+Ou à partir du menu horizontal en haut de la page.
 
-![](../../../.gitbook/assets/ordercycle1%20%282%29%20%282%29%20%282%29.jpg)
+![](<../../../.gitbook/assets/ordercycle1 (2).jpg>)
 
 {% hint style="warning" %}
-You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
+Vous ne pourrez pas publier un cycle de commande en direct tant que vous n'aurez pas configuré au moins une méthode de paiement et d'expédition pour votre entreprise.
 {% endhint %}
 
-## Create a New Order Cycle
+## Créer un nouveau cycle de commande
 
-The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle have permission to modify and manage **all** aspects of the sales cycle.   
-Other enterprises involved in an order cycle \(as suppliers or distributors only\) will have restricted access.   
-For more information on cross-enterprise management in the context of order cycles, [click here](permissions-in-multi-enterprise-order-cycles.md).
+La première étape consiste à sélectionner un coordinateur pour votre cycle de commande. Seule l'entreprise qui coordonne un cycle de commande a le droit de modifier et de gérer **tous** les aspects du cycle de vente. Les autres entreprises impliquées dans un cycle de commande (en tant que fournisseurs ou distributeurs uniquement) auront un accès restreint.&#x20;
+
+Pour plus d'informations sur la gestion inter-entreprises dans le contexte des cycles de commande, cliquez ici.
 
 ![](../../../.gitbook/assets/ordercycle2.jpg)
 
-Once the order cycle coordinator has been chosen, the process of setting up is divided into three steps:
+Une fois que le coordinateur du cycle de commande a été choisi, le processus de mise en place est divisé en trois étapes :
 
-### 1\) General Settings
+### 1) Paramètres généraux
 
-![](../../../.gitbook/assets/ordercycle3%20%281%29.jpg)
+![](../../../.gitbook/assets/ordercycle3.jpg)
 
-**Name \(**_**required**_**\):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Nom (**_**obligatoire**_**)** : Donnez au cycle de commande un nom qui a du sens pour vous. Nous vous recommandons de suivre un protocole de dénomination cohérent, par exemple FoodHub\_Week27\_2014. Nous vous recommandons également d'inclure le nom de votre hub dans le nom du cycle de commande, afin que le service d'assistance OFN puisse identifier vos cycles de commande si vous avez besoin d'aide.&#x20;
 
-**Orders Open at:** This is the date and time at when your OFN store will be open, visible and start to accept orders from customers.
+**Ouverture des commandes** : Il s'agit de la date et de l'heure à laquelle votre magasin OFN sera ouvert, visible et commencera à accepter les commandes des clients.&#x20;
 
-**Orders Close:** This is the date \(and time\) when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Fermeture des commandes** : Il s'agit de la date (et de l'heure) à laquelle votre boutique OFN fermera et cessera d'accepter des commandes. Si vous avez l'intention d'avoir un cycle de commande ouvert en permanence, sélectionnez une date de fermeture bien éloignée dans le temps.&#x20;
 
-**Schedules:** Leave blank unless using [Subscriptions](../../subscriptions/).
+**Programmation** : Laissez vide, sauf si proposez des abonnements.&#x20;
 
-**Add Coordinator Fee:** As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](../enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
+**Ajouter les frais du coordinateur** : En tant que hub, le coordinateur est très probablement vous-même. Vous pouvez appliquer ici vos frais d'entreprise, qui font office de majoration. Les frais seront calculés en fonction du calculateur sélectionné dans Frais d'entreprise. Vous ne pouvez appliquer des frais d'entreprise que s'ils ont déjà été créés.
 
-### 2\) Incoming Products
+### 2) Produits entrants
 
 ![](../../../.gitbook/assets/ordercycle4.jpg)
 
-On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section\).   
-After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.** 
+Sur cette page, vous pouvez sélectionner les producteurs, et leurs produits, qui seront disponibles dans ce cycle de commande. Dans le menu déroulant, vous verrez tous les producteurs qui vous ont donné l'autorisation d'ajouter leurs produits à votre cycle de commande (voir la section **Autorisations d'entreprise**). Après avoir sélectionné un fournisseur et cliqué sur Ajouter un fournisseur, tous les produits associés à ce fournisseur seront visibles. Cochez les produits que vous souhaitez ajouter au magasin, ou cliquez sur Sélectionner tout.
 
 {% hint style="info" %}
-Products which are out of stock \(ie their 'in stock' value is zero\) are included in this list.  If added to an order cycle they will not appear on our shop front.  It is always good to double check stock levels. 
+Les produits qui sont en rupture de stock (c'est-à-dire que leur valeur "en stock" est nulle) sont inclus dans cette liste. S'ils sont ajoutés à un cycle de commande, ils n'apparaîtront pas sur votre vitrine. Il est toujours bon de vérifier les niveaux de stock.
 {% endhint %}
 
-The **Receival Details** field is optional.  Information added to this field will automatically added to any email sent to producers at the end of an order cycle \(after clicking 'Notify Producers'\).  It might be a good idea to include an exact delivery address for produce prior to distribution to customers here.
+Le champ "**Détails de réception**" est facultatif. Les informations ajoutées dans ce champ seront automatiquement ajoutées à tout courriel envoyé aux producteurs à la fin d'un cycle de commande (après avoir cliqué sur "Notifier les producteurs"). Il peut être judicieux d'indiquer ici l'adresse exacte de livraison des produits avant leur distribution aux clients.&#x20;
 
-The **Add Fee** button in this section, at the end of each producer's entry in the table, allows you to add different [enterprise fees](../enterprise-fees.md) to different suppliers. For example, transporting flour or heavy goods to customers may be more expensive for a hub than salad.  Hence, a hub can, in a transparent manner, add a slightly higher enterprise fee to all goods supplied by the flour miller than the salad farmer.
+Le bouton "**Ajouter des frais**" de cette section, situé à la fin de l'entrée de chaque producteur dans le tableau, vous permet d'ajouter différents frais d'entreprise à différents fournisseurs. Par exemple, le transport de farine ou de produits lourds vers les clients peut être plus coûteux pour un hub que pour une salade. Par conséquent, un hub peut, de manière transparente, ajouter des frais d'entreprise légèrement plus élevés à toutes les marchandises fournies par le meunier que par le producteur de salades.&#x20;
 
-Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+Sélectionnez le nom de l'entreprise dans la première case déroulante, puis cliquez sur le nom de la redevance d'entreprise dans la deuxième case déroulante. Dans l'exemple ci-dessous, un frais d'entreprise nommé OrderAdmin est appliqué au producteur de fruits.
 
-![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/enterprise-fee.png)
+![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/Enterprise-Fee.png)
 
 {% hint style="warning" %}
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](../enterprise-fees.md) was created.
+Ces frais seront appliqués à tous les produits du producteur de fruits qui sont achetés. Les frais sont calculés selon le calculateur de frais qui a été sélectionné lors de la création des frais d'entreprise.
 {% endhint %}
 
-### 3\) Outgoing Products
+### 3) Produits sortants
 
-Here you can select one or more hub-distributors.  All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.  
-In a **simple model**, only one hub is listed as the sole distributor for the order cycle. Select the hub, and check the box 'Select all' to add all incoming products to the shop front.   
-For more flexibility, the same order cycle may have **multiple hub distributors**.  In this case you may wish to select a different subset of the available incoming products for each distributor, and/or, add different delivery dates for each.
+Ici, vous pouvez sélectionner un ou plusieurs hub-distributeurs. Tous les hubs choisis pour être distributeur dans ce cycle de commande auront une façade ouverte pour la durée du cycle de commande. Dans un **modèle simple**, un seul hub est listé comme distributeur unique pour le cycle de commande. Sélectionnez le hub, et cochez la case "Sélectionner tout" pour ajouter tous les produits entrants à la vitrine. Pour plus de flexibilité, le même cycle de commande peut avoir **plusieurs distributeurs**. Dans ce cas, vous pouvez sélectionner un sous-ensemble différent de produits entrants disponibles pour chaque distributeur, et/ou ajouter des dates de livraison différentes pour chacun d'entre eux.
 
 ![](../../../.gitbook/assets/oc3.jpg)
 
-The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
+La colonne des **balises** vous permet de marquer vos cycles de commande afin de personnaliser leur visibilité ou leur invisibilité pour certains clients. Voir balises et règles de balisage pour plus d'informations.&#x20;
 
-The **‘ready for \(ie Date/Time\)’ \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
+La case "**prêt pour (date/heure)**" (obligatoire) : Ce champ indique au client quand sa commande sera prête pour l'enlèvement ou la livraison. Si votre cycle de commande est perpétuel et que vous exécutez les commandes au cas par cas plutôt qu'en vrac, vous devez indiquer quelque chose comme "Deux jours après réception de la commande". L'exemple ci-dessous montre comment un client peut basculer entre différents cycles de commande pour sélectionner la date qui lui convient le mieux.
 
-![](../../../.gitbook/assets/multipleoc3.jpg)
+![](<../../../.gitbook/assets/multipleoc3 (1).jpg>)
 
 {% hint style="info" %}
-If operate with a continuously open shop front \(ie. you set your order cycle close date for more than 3 months in advance\) then the text blue 'Ready For' box on your shop front will read 'Orders are currently open'
+Si vous opérez avec une vitrine ouverte en continu (c'est-à-dire que vous avez fixé la date de clôture de votre cycle de commande plus de 3 mois à l'avance), la case bleue "Prêt pour" sur votre vitrine indiquera "Les commandes sont actuellement ouvertes".
 {% endhint %}
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+La note est également affichée à la caisse, lorsque le client sélectionne son mode d'expédition (voir ci-dessous) et est incluse dans l'e-mail de confirmation de la commande.
 
 ![](../../../.gitbook/assets/readyfor2.jpg)
 
-The **Pick-Up Instructions** message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+Le message d'**instructions de collecte** sera inclus dans l'e-mail de confirmation de commande du client, sous le message correspondant au mode d'expédition choisi (voir ci-dessous). Cette note est conçue pour n'être visible que par les clients. Vous pouvez donc y inclure des informations plus sensibles, comme des adresses ou des numéros de téléphone, etc. Vous trouverez ci-dessous un exemple d'e-mail de confirmation de commande.
 
-![collection details message](../../../.gitbook/assets/collection-details.png)
+![collection details message](../../../.gitbook/assets/Collection-details.png)
 
-**Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.  For simple models \(with one hub distributor, who also is the coordinator of the order cycle\) adding a fee at this stage is the same as adding a 'Coordinator Fee' \(it will apply to all products\).  
-For complex models, the coordinator may wish to add different fees to all products sold though each distributor.  The best place to implement this functionality is here.
+**Ajouter des frais** : Là encore, des frais d'entreprise précédemment créés peuvent être attribués à ce distributeur. Pour les modèles simples (avec un distributeur central, qui est également le coordinateur du cycle de commande), l'ajout d'une commission à ce stade revient à ajouter une "commission de coordinateur" (elle s'appliquera à tous les produits). Pour les modèles complexes, le coordinateur peut souhaiter ajouter des frais différents pour tous les produits vendus par chaque distributeur. Le meilleur endroit pour implémenter cette fonctionnalité est ici.
 
-### Open the shopfront
+### Ouvrir la vitrine
 
-Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later. 
+Cliquez sur **Enregistrer** pour programmer le cycle de commande. Si la date d'ouverture est déjà passée, votre boutique est instantanément ouverte ! Si vous n'êtes pas prêt à ouvrir tout de suite, saisissez des dates dans le futur, que vous pourrez modifier ultérieurement.&#x20;
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+Pour les cycles de commande périodiques et répétitifs, vous pouvez copier un cycle de commande existant et en modifier les dates, afin d'accélérer le processus. Voir ci-dessous.
 
 ![](../../../.gitbook/assets/occpy.jpg)
 
-Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Les cycles de commande s'affichent en vert lorsqu'ils sont actifs, en jaune lorsqu'ils sont programmés pour une date ultérieure et en gris lorsqu'ils sont fermés. Lorsqu'un cycle de commande a été clôturé il y a plus d'un mois, il ne s'affiche plus dans cette liste. Pour afficher tous vos cycles de commande passés, cliquez sur "Afficher plus" en haut de la liste.
 
-## **‘Notify Producers’ Button**
+## Le Bouton 'Notifier les Producteurs'
 
-By using this button at the top of the page, all the Producers linked to the order cycle will receive an email containing a list of the products ordered for that particular order cycle thus far.  
+En utilisant ce bouton en haut de la page, tous les producteurs liés au cycle de commande recevront un courriel contenant une liste des produits commandés jusqu'à présent pour ce cycle de commande particulier.
 
 ![](../../../.gitbook/assets/notifyproducers.jpg)
 
-When the Notify Producers button is selected there will be a confirmation prompt. Once confirmed, an email will be automatically sent to all relevant Producers. The email will include Delivery instructions \(if this field is completed in the incoming products section\) as well as the following product information:
+Lorsque le bouton " Notifier les producteurs " est sélectionné, une demande de confirmation apparaît. Une fois confirmé, un courriel sera automatiquement envoyé à tous les producteurs concernés. Cet e-mail comprendra les instructions de livraison (si ce champ est rempli dans la section des produits entrants) ainsi que les informations suivantes sur le produit :
 
-* SKUs \(if relevant\)
-* Name of Supplier
-* Product name 
-* Quantity ordered
-* Price per unit
-* Subtotal per product
-* Included Tax \(if relevant\) 
+* Numéros de produits (si applicable)&#x20;
+* Nom du fournisseur&#x20;
+* Nom du produit&#x20;
+* Quantité commandée&#x20;
+* Prix par unité&#x20;
+* Sous-total par produit&#x20;
+* Taxe incluse ( si applicable)\
 
-## Producer / Supplier Reports
 
-If your Order Cycle includes products from linked Producers / Suppliers they will be able to log in to their OFN account and view [reports](../../reports/) about the Order Cycle. By default they will not be able to see any Customer Details in these reports. If you would like your suppliers to access Customer Names in their reports, you can adjust these settings in Shop Preferences in your [Enterprise Settings](../../enterprise-profile/enterprise-settings.md).
+## Rapports de Producteurs/Fournisseurs
 
+Si votre cycle de commande comprend des produits provenant de producteurs/fournisseurs liés, ceux-ci pourront se connecter à leur compte OFN et consulter des rapports sur le cycle de commande. Par défaut, ils ne seront pas en mesure de voir les détails des clients dans ces rapports. Si vous souhaitez que vos fournisseurs aient accès aux noms des clients dans leurs rapports, vous pouvez ajuster ces paramètres dans les préférences de la boutique dans vos paramètres d'entreprise.

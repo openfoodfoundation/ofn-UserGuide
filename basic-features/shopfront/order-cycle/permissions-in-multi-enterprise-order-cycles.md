@@ -1,103 +1,98 @@
-# Permissions in multi-enterprise order cycles
+# Les cycles de commande multi-entreprise
 
-This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
+Cette page explique les différents droits dont dispose chaque entreprise dans le cadre de cycles de commande complexes impliquant plusieurs entreprises. Soit :
 
-* the producer \([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\) who supplies the order cycle only,
-* a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
-* or a hub which [coordinates](permissions-in-multi-enterprise-order-cycles.md#the-coordinator) the order cycle \(and may or may not also supply or distribute goods\).
+* le producteur (profil ou boutique) qui fournit uniquement le cycle de commande
+* un hub qui distribue les marchandises uniquement
+* un hub qui coordonne le cycle de commande (et peut ou non également fournir ou distribuer des biens)
 
-For more details about simple order cycles involving a single producer selling their own stock only \([producer shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)\), see [here](order-cycles-for-producers.md).
+Pour plus de détails sur les cycles de commande simples impliquant un seul producteur vendant uniquement son propre stock (boutique de producteur), voir ici.
 
-_**The coordinator has the highest degree of control over an order cycle. Other enterprises can view the order cycles they are involved in, but only edit settings which affect them.**_
+_**Le coordinateur a le plus haut degré de contrôle sur un cycle de commande. Les autres entreprises peuvent visualiser les cycles de commande dans lesquels elles sont impliquées, mais uniquement modifier les paramètres qui les concernent.**_
 
-## The Coordinator
-
-{% hint style="info" %}
-**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
-{% endhint %}
-
-{% hint style="warning" %}
-Once an order cycle has been created it is not possible to change the coordinator.
-{% endhint %}
-
-The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
-
-* Create the order cycles
-* Set and edit the name of the order cycle as well as the opening and closing dates.
-* Apply enterprise fees to all products \(coordinator fee\), to products supplied by producers \(in the [incoming](permissions-in-multi-enterprise-order-cycles.md#incoming) section\), and/or to products distributed by hubs \(in the [outgoing](permissions-in-multi-enterprise-order-cycles.md#outgoing) section\).
-
-### **Incoming**
-
-* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise \(registered as a [Producer](../../enterprise-profile/package-types.md#for-producers) with OFN\) must have granted the coordinating hub [permission to add their products to an order cycle](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions).
-* The coordinator can select all or a subset of products from their suppliers that they wish include in the order cycle.
-* The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each supplier. For example, they may wish to charge a supplying butcher a higher rate \(to cover the extra cost of refrigerated transport\) than a baker.
-
-  \*\*\*\*
-
-### **Outgoing**
-
-The coordinator can choose which enterprises the products listed in an order cycle are distributed through \(including themselves\).
-
-To do this each potential distributor must be:
-
-1. Registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).
-2. Have granted the coordinating hub [permission to add products](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions) to an order cycle.
-3. Have at least one active [shipping](../shipping-methods.md) and [payment](../payment-methods.md) method. 
+## Le Coordinateur
 
 {% hint style="info" %}
-If a potential distributing enterprise appears in the list of possible options in the outgoing section of the order cycle but can not be selected then it is probable that they haven't set up shipping and/or payment methods yet.
+La **fonctionnalité complète du cycle de commande** ne peut être obtenue que si une entreprise est enregistrée en tant que Hub. Pour changer votre type d'entreprise, voir ici.
 {% endhint %}
-
-The coordinator can choose from the complete list of incoming products, which will be displayed on each distributing Hub's shopfront.  _**The supplier \(producer profile or shop\) must have set up an**_ [_**enterprise permission**_](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) _**of 'add to order cycle' between themselves and the specific distributing hub \(as well as the coordinator\)**_.
-
-The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each distributing hub if desired. This might be advantageous if one hub is further away from the coordinator than another, and hence would have a higher transport overhead associated with it.
-
-## Supplying \(Incoming\) Enterprises
-
-The supplier \([producer](../../enterprise-profile/package-types.md#for-producers)\) can view all the order cycles they’re involved with by visiting the order cycle summary page \(from the top horizontal blue menu\), even if they haven't created the order cycles themselves.   
-By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle.  They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.  
-A supplying enterprise can not alter the name nor dates of an order cycle.
-
-In the Reports section \(top horizontal blue menu\) an incoming supplying producer can view the orders they have received for the order cycle
 
 {% hint style="warning" %}
-An incoming supplying enterprise does not automatically see the names of customers who bought their products if they are not also the order cycle coordinator. This setting can be changed by the order cycle coordinator \(enterprise that manages the order cycle\). If you need to see customer names to facilitate packing and fulfilment of orders, you can contact your order cycle coordinator and ask them to select the Customer Names in Reports checkbox in [Enterprise Settings](../../enterprise-profile/enterprise-settings.md) under Shop Preferences.
+Une fois qu'un cycle de commande a été créé, il n'est pas possible de modifier le coordinateur.
 {% endhint %}
 
-### **Incoming**
+Le  coordinateur d'un cycle de commande peut
 
-* A supplier can view, add and remove _**their**_ products from the 'Incoming Products' section of an order cycle.
-* A supplier can add/remove enterprise fees which are applied to _**their**_ products in the 'Incoming Products' section of the order cycle.  This might be useful for producers who supply several hubs, some of which are much further away from them than others. They may wish to add an extra levy to more distant hubs to cove transport costs.
+* Créer les cycles de commande.&#x20;
+* Définir et modifier le nom du cycle de commande ainsi que les dates d'ouverture et de fermeture.&#x20;
+* Appliquer les taxes d'entreprise à tous les produits (taxe de coordination), aux produits fournis par les producteurs (dans la section entrante), et/ou aux produits distribués par les hubs (dans la section sortante).
 
-### **Outgoing**
+### **Approvisionnement**
 
-The degree of influence a supplier has over their products in the 'Outgoing Products' section of an order cycle depends on the specific enterprise permissions they granted the distributing hub and vice versa.
+* Le coordinateur peut ajouter des entreprises en tant que fournisseurs. Toutefois, pour ce faire, l'entreprise fournisseur (enregistrée comme producteur auprès de l'OFN) doit avoir accordé au centre de coordination l'autorisation d'ajouter ses produits à un cycle de commande.&#x20;
+* Le coordinateur peut sélectionner tous les produits ou un sous-ensemble de produits de ses fournisseurs qu'il souhaite inclure dans le cycle de commande.&#x20;
+* Le coordinateur peut appliquer des frais d'entreprise différentiels à chaque fournisseur. Par exemple, il peut souhaiter facturer un boucher fournisseur à un tarif plus élevé (pour couvrir le coût supplémentaire du transport réfrigéré) qu'un boulanger.
 
-* If the distributing hub granted the supplying producer \(profile, shop or hub\) the right to 'add to \[the hub's\] order cycle' then the supplier can view, add and remove products from the list in the 'Outgoing Products' section of the order cycle.
-* If the distributing hub did not grant the supplying producer \(profile, shop or hub\) the right to 'add to \[the hub's\] order cycle' then the supplier can view but NOT add and remove products from the list in the 'Outgoing Products' section of the order cycle.
-* A supplier is never able to change the pickup/delivery details, or the enterprise fees applied to the distributor.
+### **Distribution**
 
-## Distributing \(Outgoing\) Enterprise
+Le coordinateur peut choisir les entreprises par lesquelles les produits listés dans un cycle de commande sont distribués (y compris sa propre entreprise).&#x20;
 
-A distributor can view Order Cycles they’re involved with in their Order Cycle summary page, even if they did not create them themselves \(ie. they are not the order cycle coordinator\).   
-By clicking on an order cycle, the outgoing distributing enterprise can see the details of an order cycle which relate to them only.  \(For example, if they are not the sole distributor of the order cycle they will not be able to see who the other distributing enterprises are nor the products they will offer on their shop front.\)  
-The outgoing distributing hub can view and edit details of their distribution- delivery dates and methods, and enterprise fees for distribution- but no the name nor period of the order cycle itself.
+Pour ce faire, chaque distributeur potentiel doit :
 
-In the 'Reports' menu, a order cycle distributor can view the orders which have been placed \(along with customer names\) to aid delivery/dispatch of goods.
+1. Être enregistré en tant que hub.&#x20;
+2. Avoir accordé au hub coordinateur la permission d'ajouter des produits à un cycle de commande.&#x20;
+3. Avoir au moins une méthode d'expédition et de paiement active.
 
-### **Incoming**
+{% hint style="info" %}
+Si une entreprise de distribution potentielle apparaît parmi les options possibles dans la partie sortante du cycle de commande mais ne peut être sélectionnée, elle n'a probablement pas encore configuré les méthodes d'expédition et/ou de paiement.
+{% endhint %}
 
-A distributor can _**view**_ the incoming products of supplier who have granted them the enterprise permission 'add to order cycle' but they can not edit stock levels/availability nor apply/remove producer specific enterprise fees.
+Le coordinateur peut choisir parmi la liste complète des produits entrants, qui sera affichée sur la vitrine de chaque plateforme de distribution. _**Le fournisseur (profil de producteur ou magasin) doit avoir mis en place une autorisation d'entreprise de "cycle d'ajout à la commande" entre lui et le centre de distribution spécifique (ainsi que le coordinateur).**_
+
+Le coordinateur peut, s'il le souhaite, appliquer des frais d'entreprise différentiels à chaque centre de distribution. Cela peut être avantageux si un concentrateur est plus éloigné du coordinateur qu'un autre, et donc si les frais de transport qui lui sont associés sont plus élevés.
+
+## Entreprises de fournisseurs&#x20;
+
+Le fournisseur (producteur) peut voir tous les cycles de commande auxquels il participe en visitant la page de résumé du cycle de commande (à partir du menu bleu horizontal supérieur), même s'il n'a pas créé les cycles de commande lui-même. En cliquant sur le cycle de commande, un producteur entrant ne peut voir que ses détails, et non les produits ou les détails des autres personnes impliquées dans le cycle de commande. Il peut modifier les éléments qui le concernent : par exemple, il peut supprimer un produit en rupture de stock d'un cycle de commande. Une entreprise de fournisseur ne peut pas modifier le nom ni les dates d'un cycle de commande.&#x20;
+
+Dans la section Rapports (menu bleu horizontal supérieur), un producteur fournisseur entrant peut visualiser les commandes qu'il a reçues pour le cycle de commande.
 
 {% hint style="warning" %}
-At present, only the coordinator of an order cycle can add extra suppliers \(producers\) to it.
+Une entreprise de fournisseur ne voit pas automatiquement les noms des clients qui ont acheté ses produits si elle n'est pas également le coordinateur du cycle de commande. Ce paramètre peut être modifié par le coordinateur du cycle de commande (entreprise qui gère le cycle de commande). Si vous avez besoin de voir les noms des clients pour faciliter l'emballage et l'exécution des commandes, vous pouvez contacter votre coordinateur du cycle de commande et lui demander de cocher la case Noms des clients dans les rapports dans les paramètres de l'entreprise sous Préférences de la boutique.
 {% endhint %}
 
-### **Outgoing**
+### **Approvisionnement**
 
-The degree of influence the distributing hub has over the products in the 'outgoing products' section of an order cycle, depends on the enterprise permissions between them and the supplying producer.
+* Un fournisseur peut visualiser, ajouter et supprimer **ses** produits dans la section "Produits entrants" d'un cycle de commande.&#x20;
+* Un fournisseur peut ajouter/supprimer les frais d'entreprise qui sont appliqués à **ses** produits dans la section "Produits entrants" du cycle de commande. Cela peut être utile pour les producteurs qui fournissent plusieurs hubs, dont certains sont beaucoup plus éloignés d'eux que d'autres. Ils peuvent souhaiter ajouter un prélèvement supplémentaire aux hubs plus éloignés pour couvrir les coûts de transport.
 
-* The distributing hub can add/remove products from its outgoing exchange. This only applies to product from producers who been added to the order cycle by the coordinator, and have granted the distributor the enterprise permission 'add to order cycle'.
-* Can change the pickup/delivery details
-* Can add/remove their enterprise fee
+### **Distribution**
 
+Le degré d'influence d'un fournisseur sur ses produits dans la section "Produits sortants" d'un cycle de commande dépend des autorisations d'entreprise spécifiques qu'il a accordées au centre de distribution et vice versa.
+
+* Si le hub de distribution a accordé au producteur fournisseur (profil, magasin ou hub) le droit d'"ajouter au cycle de commande \[du hub]", le fournisseur peut visualiser, ajouter et supprimer des produits de la liste dans la section "Produits sortants" du cycle de commande.&#x20;
+* Si le hub de distribution n'a pas accordé au producteur fournisseur (profil, magasin ou hub) le droit d'"ajouter au cycle de commande \[du hub]", alors le fournisseur peut voir mais PAS ajouter et supprimer des produits de la liste dans la section "Produits sortants" du cycle de commande.&#x20;
+* Un fournisseur n'est jamais en mesure de modifier les détails de l'enlèvement et de la livraison, ni les frais d'entreprise appliqués au distributeur.
+
+## Entreprises de distributeurs
+
+Un distributeur peut voir les cycles de commande auxquels il participe dans sa page de résumé des cycles de commande, même s'il ne les a pas créés lui-même (c'est-à-dire s'il n'est pas le coordinateur du cycle de commande). En cliquant sur un cycle de commande, l'entreprise distributrice sortante peut voir les détails d'un cycle de commande qui ne concernent qu'elle. (Par exemple, si elle n'est pas l'unique distributeur du cycle de commande, elle ne pourra pas voir qui sont les autres entreprises distributrices ni les produits qu'elles proposeront sur leur façade de magasin). Le centre de distribution sortant peut voir et modifier les détails de sa distribution - dates et méthodes de livraison, et frais d'entreprise pour la distribution - mais pas le nom ni la période du cycle de commande lui-même.&#x20;
+
+Dans le menu "Rapports", un distributeur de cycle de commande peut voir les commandes qui ont été passées (avec les noms des clients) pour faciliter la livraison/l'expédition des marchandises.
+
+### **Approvisionnement**&#x20;
+
+Un distributeur peut _**voir**_ les produits entrants des fournisseurs qui lui ont accordé l'autorisation d'entreprise "ajouter au cycle de commande" mais il ne peut pas modifier les niveaux de stock/disponibilité ni appliquer/supprimer les frais d'entreprise spécifiques aux producteurs.
+
+{% hint style="warning" %}
+Actuellement, seul le coordinateur d'un cycle de commande peut y ajouter des fournisseurs (producteurs) supplémentaires.
+{% endhint %}
+
+### **Distribution**
+
+Le degré d'influence du centre de distribution sur les produits de la section "produits sortants" d'un cycle de commande dépend des permissions d'entreprise entre lui et le producteur fournisseur.
+
+Le centre de distribution peut
+
+* Ajouter/supprimer des produits de son échange sortant. Cela s'applique uniquement aux produits des producteurs qui ont été ajoutés au cycle de commande par le coordinateur et qui ont accordé au distributeur l'autorisation d'entreprise "ajouter au cycle de commande".&#x20;
+* Modifier les détails de l'enlèvement et de la livraison&#x20;
+* Ajouter/supprimer leurs frais d'entreprise

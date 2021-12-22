@@ -1,26 +1,25 @@
-# Shopfront
+# Boutique
 
-To open your online shop on Open Food Network and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub.  Read more about the different Enterprise profiles[ here](../../your-quick-start-on-ofn-given-who-you-are.md) and [here](../enterprise-profile/).
+Pour ouvrir votre boutique sur Open Food Network et commencer à vendre, votre entreprise doit être enregistrée en tant que boutique de producteur ou Hub de producteur/non-producteur. Pour en savoir plus sur les différents profils d'entreprise, cliquez ici et ici.&#x20;
 
-The next essential steps are to set up [Shipping](shipping-methods.md) and [Payment](payment-methods.md) Methods for your enterprise.  At this stage we also suggest creating [Enterprise Fees](enterprise-fees.md) \(a mark up added to the price each product charged by the supplying producer to cover admin and distribution costs\).
+Les prochaines étapes essentielles consistent à configurer les méthodes d'expédition et de paiement pour votre entreprise. À ce stade, nous vous suggérons également de créer des frais d'entreprise (une majoration ajoutée au prix de chaque produit facturé par le producteur fournisseur pour couvrir les frais administratifs et de distribution).&#x20;
 
-Opening and closing times of shop fronts on OFN, as well as the option to sub-select products for different dates and times of collection, are controlled by [Order Cycles](order-cycle/).
+Les heures d'ouverture et de fermeture des vitrines sur OFN, ainsi que la possibilité de sous-sélectionner des produits pour différentes dates et heures de collecte, sont contrôlées par les cycles de commande.&#x20;
 
-Shop fronts on OFN are highly flexible. Read more if you are interested in:
+Les vitrines sur OFN sont très flexibles. En savoir plus si vous :
 
-* [Providing different products and services to different customer groups](customer-management-and-conditional-displays-prices/).
-* Would like only registered members to be able to place orders \([Private Shop](private-shopfront.md)\)
-* Would like a 'dummy' [display only](display-only-order-cycles.md) shop front
+* Souhaitez fournir différents produits et services à différents groupes de clients.&#x20;
+* Souhaitez que seuls les membres enregistrés puissent passer des commandes (boutique privée).&#x20;
+* Souhaitez une devanture de magasin "factice" avec affichage uniquement.
 
-### Customer View
+### Du point de vue des clients:
 
-When you have opened your shop front with an active [Order Cycle](order-cycle/), customers can view your products listed, search using the top left hand 'Search Box' and/or filter products by their [categories](../products-1/) or [properties](../products-1/product-properties.md):
+Lorsque vous avez ouvert votre boutique avec un cycle de commande actif, les clients peuvent voir la liste de vos produits, effectuer une recherche à l'aide de la "boîte de recherche" située en haut à gauche et/ou filtrer les produits par catégories ou propriétés :
 
 ![](../../.gitbook/assets/shopping2.gif)
 
-To add products to their basket, customers can click on 'Add' and then toggle the quantity of the item in their basket using the '+' and '-' keys.
+Pour ajouter des produits à leur panier, les clients peuvent cliquer sur "Ajouter", puis modifier la quantité de l'article dans leur panier à l'aide des touches "+" et "-".
 
 {% hint style="info" %}
-Customers can view the items they have added to their basket by the drop down menu which appears when clicking on the basket in the top right corner.
+Les clients peuvent visualiser les articles qu'ils ont ajoutés à leur panier grâce au menu déroulant qui apparaît lorsqu'on clique sur le panier dans le coin en haut à droite.
 {% endhint %}
-

@@ -1,34 +1,27 @@
-# Dashboard
+# Tableau de Bord
 
-The Dashboard ****is where you can edit and manage your enterprise's features & settings on the Open Food Network platform. If you have chosen to register your enterprise as a [shop](../your-quick-start-on-ofn-given-who-you-are.md#shop) or [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) then you can also edit your products and order cycles from the Dashboard. 
+Le tableau de bord sert à accéder rapidement aux fonctionnalités cœur du pilotage de votre activité sur la plateforme. Vous pouvez accéder en un clic aux paramètres de votre / vos entreprises, à la liste de vos produits ou à vos cycles de vente.&#x20;
 
-Access your dashboard from the homepage by first logging in and then clicking on the Profile Icon in the top right hand corner, and selecting **Administration** from the drop-down menu.
+Pour y accéder, connectez-vous et accédez à l'interface d'administration via **Profil > Administration**.&#x20;
 
-![](../.gitbook/assets/dash1.jpg)
+![](<../.gitbook/assets/image (60).png>)
 
-The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
-
-### Producers
+Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilisation.
 
 {% tabs %}
-{% tab title="Producer Profile Only" %}
-![](../.gitbook/assets/dashboard-profile-only.png)
+{% tab title="Producteur : profil et/ou fournisseur de hubs" %}
+![](<../.gitbook/assets/image (39).png>)
 {% endtab %}
 
-{% tab title="Producer Profile and Shop" %}
-![](../.gitbook/assets/dashboard-shop.png)
+{% tab title="Hub : profil" %}
+![](<../.gitbook/assets/image (50).png>)
+{% endtab %}
+
+{% tab title="Boutique producteur ou hub" %}
+![](<../.gitbook/assets/image (44).png>)
 {% endtab %}
 {% endtabs %}
 
-### Hubs
+Si votre compte utilisateur gère plusieurs entreprises, vous verrez aussi la liste de vos entreprises pour y accéder rapidement :&#x20;
 
-{% tabs %}
-{% tab title="Hub Profile Only" %}
-![](../.gitbook/assets/hub-dashboard-profile-only.png)
-{% endtab %}
-
-{% tab title="Hub Profile and Shop" %}
-![](../.gitbook/assets/hub-dashboard-shopfront.png)
-{% endtab %}
-{% endtabs %}
-
+![](<../.gitbook/assets/image (59).png>)
