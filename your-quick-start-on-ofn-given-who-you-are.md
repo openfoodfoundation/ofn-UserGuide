@@ -8,7 +8,7 @@ Votre utilisation d'Open Food Network dépend du type d'entreprise que vous poss
 
 Nous classifions les entreprises sur OFN en trois catégories: Hub, Boutique et Profil.
 
-![](<.gitbook/assets/L flowchart (2).png>)
+![](<.gitbook/assets/Aus Wordpress 1 column image 1080 x 540 (1).jpg>)
 
 _La flexibilité du logiciel Open Food Network vous permet de passer de Profil, à Boutique, à Hub (ou vice versa) à mesure que votre entreprise se développe et/ou que vos besoins évoluent._
 
