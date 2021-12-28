@@ -6,7 +6,7 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 Pour commencer à utiliser OFN, suivez ces étapes:
 
-![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft.jpg>)
+![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1).jpg>)
 
 1. Enregistrez votre entreprise\
    Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules "Producteur" et "Hub". Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules "Non-producteur" et "Hub". Complétez les paramètres de votre entreprise avec les détails de votre activité.
