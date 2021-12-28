@@ -6,7 +6,7 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 Pour commencer à utiliser OFN, suivez ces étapes:
 
-![Four steps to start your OFN journey.](<../.gitbook/assets/Quick Set up in 5 steps profile.png>)
+![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1).jpg>)
 
 1. Enregistrez votre entreprise\
    Choisissez les formules "Producteur" et "Profil" et complétez vos paramètres d'entreprise avec les détails de votre boutique.
