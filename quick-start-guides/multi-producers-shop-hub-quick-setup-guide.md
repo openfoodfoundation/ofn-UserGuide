@@ -6,6 +6,8 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 Pour commencer à utiliser OFN, suivez ces étapes:
 
+![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft.jpg>)
+
 ![Five steps to opening your OFN hub.](<../.gitbook/assets/Set up in 5 steps draft.png>)
 
 1. Enregistrez votre entreprise\
