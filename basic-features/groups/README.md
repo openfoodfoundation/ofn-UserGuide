@@ -1,8 +1,8 @@
-# Groups
+# Groupes
 
-A group is a subset of enterprises on the Open Food Network platform. A group page acts as a sub-directory within the OFN. You can create a group, specify the details of your group and select the enterprises which are part of it. These details will appear on your public group page. 
+Un groupe est un "sous-ensemble" d'entreprises (producteurs et distributeurs) figurant sur la carte d'Open Food Network. Une page groupe agit comme un sous-répertoire dédié au sein d'Open Food Network. \
+Vous pouvez créer une page groupe en spécifiant les détails de votre groupe et sélectionner les entreprises qui en font partie.  Toutes ces infrmations apparaîtront sur vorte page groupe dédiée.&#x20;
 
-Enterprises within a group usually share some feature or characteristic in common. It could be a set of enterprises associated with a certification body, a regional producer group, producers in a farmers market network or a complex multi-hub network with several distributors and many producers. 
+Un groupe peut être par exemple un réseau de producteurs sur un territoire, un réseau de producteurs certifiés, l'écosystème d'un hub complexe avec plusieurs distributeurs et de nombreux producteurs, etc.
 
-In this section you can find out how to [create and manage a group page](group-page.md), and how to [embed your OFN group page in your website](embed-a-group-page.md).
-
+Vous trouverez dans cette section comment créer et gérer une page groupe, et comment intégrer la page groupe d'Open Food Network dans votre site web.&#x20;
