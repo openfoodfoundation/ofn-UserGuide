@@ -34,7 +34,7 @@
       * [Aprire più di un ciclo di richieste](basic-features/shopfront/order-cycle/opening-more-than-one-order-cycle.md)
       * [Permissions in multi-enterprise order cycles](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)
     * [Gestione Clienti e visualizzazioni o prezzi condizionali](basic-features/shopfront/customer-management-and-conditional-displays-prices/README.md)
-      * [Customer Management](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
+      * [Gestione Clienti](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
       * [Tags and Tag Rules](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)
     * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
