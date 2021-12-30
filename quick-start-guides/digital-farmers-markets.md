@@ -6,7 +6,7 @@ description: Comment créer votre marché fermier digital
 
 Les marchés fermiers peuvent s'installer en tant que groupe de boutiques gérés individuellement (option 1) ou être gérés de manière centralisée en tant que Hub (option 2).
 
-![](<../.gitbook/assets/OFNCAN Digital Farmers Market options graphic.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-12-30 à 15.05.24.png>)
 
 ### Option 1
 
