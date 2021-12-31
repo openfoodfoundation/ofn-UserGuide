@@ -5,4 +5,4 @@ Vous pouvez créer une page groupe en spécifiant les détails de votre groupe e
 
 Un groupe peut être par exemple un réseau de producteurs sur un territoire, un réseau de producteurs certifiés, l'écosystème d'un hub complexe avec plusieurs distributeurs et de nombreux producteurs, etc.
 
-Vous trouverez dans cette section comment créer et gérer une page groupe, et comment intégrer la page groupe d'Open Food Network dans votre site web.&#x20;
+Vous trouverez dans cette section comment créer et gérer une page groupe (lien), et comment intégrer la page groupe d'Open Food Network dans votre site web (lien).&#x20;
