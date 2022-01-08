@@ -10,11 +10,11 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :&#x20;
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (75).png>)
 
 Puis cliquez sur "Nouveau cycle de vente" :&#x20;
 
-![](<../../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (86).png>)
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)
@@ -26,7 +26,7 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes
 
 ### 1. Informations générales
 
-![](<../../../.gitbook/assets/image (54).png>)
+![](<../../../.gitbook/assets/image (55).png>)
 
 **Nom :** Choisissez un nom pour le cycle de vente. Il sera visible uniquement de vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir une dénomination type _Semaine26\_2018._
 
@@ -79,6 +79,6 @@ Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsq
 Depuis un cycle de vente, il vous est possible de notifier à tout moment les producteurs des commandes en cours. \
 Cliquez sur le bouton "modifier" du cycle de vente de votre choix depuis la liste des cycles de vente puis sélectionnez "Notifier les producteurs"
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (88).png>)
 
 En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).

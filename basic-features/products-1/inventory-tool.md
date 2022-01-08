@@ -8,7 +8,7 @@ La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifie
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 Vous avez deux options :&#x20;
 

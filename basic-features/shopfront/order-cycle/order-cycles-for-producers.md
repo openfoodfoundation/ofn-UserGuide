@@ -1,85 +1,44 @@
-# Cycles de commande (pour les Boutiques)
+# Cycle de vente géré par un producteur
 
-{% hint style="warning" %}
-Lisez cette page si vous êtes inscrit en tant que boutique de producteur et que vous souhaitez ouvrir votre propre boutique.&#x20;
+_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](broken-reference)_._
 
-Consultez cette page si vous souhaitez ouvrir une boutique multiproducteur (hub).
-{% endhint %}
+En créant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits pouvant être achetés ainsi que les marges et commissions ajoutées sur les prix de base des produits pour couvrir les frais liés à la distribution (ex: vos frais de transport).
 
-Dans Open Food Network, les cycles de commande sont l'occasion pour les gestionnaires d'ouvrir leur boutique. Cela implique de sélectionner les produits en stock, les frais à appliquer et les dates d'ouverture et de fermeture de la boutique
+**Pourquoi gérer par cycle de vente ?** Certains producteurs / fournisseurs préfèrent avoir une ouverture en continu et répondre à chaque commande au fil de l'eau. D'autres fonctionnent par périodes de commande correspondant à un jour de livraison/retrait donné. Par exemple, les ventes seront ouvertes pendant deux semaines (un cycle de vente de deux semaines) : à la fin de ces deux semaines, toutes les commandes seront emballées et livrées/réceptionnées en même temps le mercredi suivant. Une fois que ce lot de commandes a été réceptionné, un nouveau cycle de vente redémarre. Cela permet d'optimiser la préparation des commande et le transport, réduisant aussi les frais associés grâce à une logique de massification.
 
-**Pourquoi utiliser les cycles de commande**\
-De nombreux producteurs, qui vendent des produits en petites quantités, peuvent trouver utile d'avoir un cycle de commande perpétuellement ouvert, et d'exécuter les commandes individuellement, au fur et à mesure qu'elles sont passées. D'autres producteurs, qui vendent de grandes quantités de produits à de multiples clients, trouvent utile d'établir des cycles de commande périodiques, qui sont exécutés collectivement à la fin d'une période. Par exemple, un agriculteur peut avoir un cycle de commande ouvert (acceptant les commandes) pendant deux semaines. À la fin de ce cycle de commande, toutes les commandes sont emballées, triées et distribuées en même temps. Une fois que ce lot de commandes a été rempli, un nouveau cycle de commande est ouvert. En structurant les cycles de commande de cette manière, on peut rendre plus efficaces les tâches d'emballage et de distribution des commandes.
+### 1. Créer un nouveau cycle de vente
 
-## Où trouver les cycles de commande
+Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-Lorsque vous êtes connecté à votre tableau de bord d'administration, vous pouvez accéder aux cycles de commande à partir de ce bouton :
+![](<../../../.gitbook/assets/image (42).png>)
 
-![](../../../.gitbook/assets/ordercycledash.jpg)
-
-Ou "Cycles de commande" dans le menu horizontal bleu en haut de la page. Cliquez ensuite sur **+Nouveau cycle de commande**
-
-![](<../../../.gitbook/assets/ordercycle1 (2) (2).jpg>)
+Puis cliquez sur "Nouveau cycle de vente".
 
 {% hint style="info" %}
-Notez que vous ne pouvez pas créer un cycle de commande tant que vous n'avez pas configuré au moins un mode d'expédition et un mode de paiement.
+**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)
 {% endhint %}
 
-Vous allez ensuite être redirigé vers un nouvel écran :
+Vous êtes alors redirigé vers l'écran suivant :&#x20;
 
-![](../../../.gitbook/assets/ordercyclep1.jpg)
+![](<../../../.gitbook/assets/image (63).png>)
 
-****\
-**Name (**_**required**_**):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+**Commandes jusqu'au :** La date à laquelle votre boutique arrêtera d'accepter des commandes pour ce cycle de vente. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Prêt pour :** La date à laquelle cette commande sera disponible (ou livrée) pour les acheteurs. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_. Certains hubs "hackent" un peu ce fonctionnement et saisissent ici la nature de la commande concernée par ce cycle de vente, par exemple (Commande viande pour 23 juillet).
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Précisions pour l'acheteur :** Les indications précisées ici seront incluses dans l'email de confirmation de commande envoyé au client, juste en-dessous de la méthode de livraison. Ils seront les seuls à obtenir cette information donc vous pouvez y inclure des informations comme des adresses ou numéros de téléphone.
 
-**Schedules:** leave blank unless implementing [Subscriptions](../../subscriptions/).
-
-**Ready for (ie Date/Time) (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery.&#x20;
-
-**Nom (obligatoire)** : Choisissez un nom pour ce cycle de commande. Ce nom ne sera visible que par vous, vous pouvez donc le nommer de la manière qui vous semble la plus appropriée. Nous vous recommandons de suivre un protocole de dénomination cohérent, par exemple Hub\_Semaine27\_2014.&#x20;
-
-**Ouverture des commandes** : Il s'agit de la date à laquelle votre magasin OFN sera ouvert et commencera à accepter des commandes.&#x20;
-
-**Fermeture des commandes** : Il s'agit de la date à laquelle votre magasin OFN fermera et cessera d'accepter des commandes. Si vous avez l'intention d'avoir un cycle de commande ouvert en permanence, sélectionnez une date de clôture bien éloignée dans le temps.&#x20;
-
-**Calendriers** : laissez le champ vide, sauf si vous mettez en place des abonnements.&#x20;
-
-**Prêt pour (date/heure) (obligatoire)** : Ce champ indique au client quand sa commande sera prête pour l'enlèvement ou la livraison.
+**Produits :** Choisissez ici les produits de votre catalogue que vous souhaitez mettre à la vente dans ce cycle de vente.&#x20;
 
 {% hint style="info" %}
-Si votre cycle de commande est constamment ouvert, plutôt que périodique, utilisez cette case pour entrer quelque chose comme "Deux jours après la commande".
+Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
 {% endhint %}
 
-{% hint style="info" %}
-Si vous avez des cycles de commande spécifiques à un produit ou à un lieu qui se déroulent simultanément, vous pouvez "modifier" ce champ de texte en ajoutant des informations supplémentaires, par exemple "Viande pour mardi".
-{% endhint %}
+**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies (voir page [Marges et commissions](broken-reference)).
 
-**Instructions au client** : Ce message sera inclus dans l'e-mail de confirmation de commande du client, sous le message correspondant à la méthode d'expédition choisie (voir ci-dessous). Cette note est conçue pour n'être visible que par les clients. Vous pouvez donc inclure des informations plus sensibles, comme des adresses ou des numéros de téléphone, etc.&#x20;
+### 2. Ouvrir la boutique
 
-**Produits** : Vous devez sélectionner les produits qui seront visibles dans votre boutique en ligne pendant ce cycle de commande
+Cliquez sur "créer" pour créer le cycle de vente. Si la date d'ouverture est déjà passée, votre boutique est instantanément ouverte ! Si vous n'êtes pas prêt à ouvrir tout de suite, indiquez des dates dans le passé ou le futur, que vous pourrez changer ensuite.
 
-{% hint style="info" %}
-N'oubliez pas que si vous ajoutez de nouveaux produits après qu'un cycle de commande est en cours, vous devrez les sélectionner ici, sinon ils n'apparaîtront pas en ligne !
-{% endhint %}
+Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite (bouton orange sur la capture, attention il n'est pas orange sur la plateforme) :&#x20;
 
-**Ajouter des frais de coordination** : Il est possible d'ajouter une taxe de coordination. Ici, vous pouvez appliquer une taxe d'entreprise qui a été créée pour votre entreprise.
-
-## Ouvrir votre vitrine
-
-Cliquez sur Créer pour sauvegarder ce cycle de commande.
-
-{% hint style="warning" %}
-Si la date d'ouverture de votre cycle de commande est déjà dépassée, votre boutique sera en ligne immédiatement.&#x20;
-
-Si vous n'êtes pas tout à fait prêt à ouvrir votre boutique, fixez la date d'ouverture à un moment ultérieur.
-{% endhint %}
-
-Pour les cycles de commande périodiques et répétitifs, vous pouvez copier un cycle de commande existant et en modifier les dates, afin de rendre le processus plus rapide. Sélectionnez l'icône avec deux feuilles de papier à droite du tableau, comme indiqué ci-dessous :
-
-![](<../../../.gitbook/assets/occpy (1).jpg>)
-
-Les cycles de commande s'affichent en vert lorsqu'ils sont actifs, en jaune lorsqu'ils sont programmés pour une date ultérieure et en gris lorsqu'ils sont fermés. Si un cycle de commande a été fermé il y a plus d'un mois, il n'apparaîtra plus dans cette liste. Pour afficher tous vos cycles de commande passés, cliquez sur Afficher **30 jours supplémentaires** ou Afficher **90 jours supplémentaires** au bas de la liste.
