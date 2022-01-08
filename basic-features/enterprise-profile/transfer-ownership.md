@@ -9,7 +9,7 @@ Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriét
 
 * Dans " Gestionnaires ", recherchez l'adresse électronique du producteur que vous souhaitez ajouter en tant que gestionnaire.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)
 
 **Cas 1 : Le producteur en question possède déjà un compte utilisateur auprès d'OFN :**
 
