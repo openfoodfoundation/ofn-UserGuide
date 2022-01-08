@@ -4,7 +4,7 @@ description: >-
   distributors can set up their hub inventory in bulk.
 ---
 
-# Importer des Produits
+# Importer des produits
 
 
 
@@ -78,7 +78,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 
 Pour rappel exemple d'affichage pour l'acheteur d'un produit avec 3 variantes :
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 ### Exemple d'unités <a href="#variants-1" id="variants-1"></a>
 

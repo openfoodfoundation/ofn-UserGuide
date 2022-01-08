@@ -19,7 +19,7 @@ Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "
 
 Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour un Hub :&#x20;
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 {% hint style="danger" %}
 Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page. Nous recommandons d'enregistrer chaque page avant de la modifier.
@@ -182,7 +182,7 @@ Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 
 C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !
 
-![](<../../.gitbook/assets/image (62) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1).png>)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
 

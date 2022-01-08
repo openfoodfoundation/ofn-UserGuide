@@ -1,58 +1,44 @@
-# Modes de Paiement
+# Méthodes de paiement
 
 {% hint style="danger" %}
-Il vous faut créer **au moins un** mode de paiement avant de pouvoir ouvrir votre boutique.
+La définition d'au moins une méthode de paiement est obligatoire avant l'ouverture d'une boutique !
 {% endhint %}
 
-Avant de poursuivre votre lecture, nous vous proposons une démonstration rapide de la manière de configurer votre premier mode de paiement :
+## Définir une méthode de paiement
 
-![](../../.gitbook/assets/paymentmethod.gif)
+**1) Allez sur la page méthodes de paiement**
 
-## Configurer un Mode de Paiement
+En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de paiement** dans le menu vertical de gauche :&#x20;
 
-* Accédez à la page des modes de paiement en cliquant sur **Entreprises** dans le menu horizontal bleu, puis cliquez sur **Paramètres** à côté de votre entreprise. La page des modes de paiement se trouve dans le menu de gauche.&#x20;
-* Cliquez sur **Créer un nouveau mode de paiement +** . Vous serez dirigé vers une page comme celle-ci :
+![](<../../.gitbook/assets/image (50).png>)
 
-![](../../.gitbook/assets/paymentmethods2.jpg)
+**2)** Cliquez sur "**En créer une maintenant**".&#x20;
 
-* Cochez votre entreprise, dans la case située à droite de la page intitulée "Hubs". Cela indique à quelle entreprise s'appliquera le mode de paiement que vous êtes sur le point de créer. Vous pouvez sélectionner plusieurs entreprises.&#x20;
-* **Nom** : Choisissez un nom pour ce mode de paiement. (par exemple, "Payer par carte de crédit"). Ce nom sera affiché à la caisse et sur les e-mails de confirmation de commande des clients.
+**3)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](../../.gitbook/assets/paymentmethod2.jpg)
+![](<../../.gitbook/assets/image (74).png>)
 
-* **Description** : fournissez des détails supplémentaires sur le mode de paiement. Par exemple, pour un virement bancaire, vous indiquerez dans ce champ les coordonnées du compte bancaire sur lequel vous souhaitez que le client effectue le paiement BACS. Cette description est affichée à la caisse et dans les e-mails de confirmation de commande.&#x20;
-* **Affichage** : Choisissez entre "visible par l'administration uniquement" et "visible par l'acheteur sur la boutique".
+**4)** **Nom :** Choisissez un nom pour cette méthode de paiement. (par exemple : "Payez par carte de crédit via Paypal"). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-{% hint style="info" %}
-Si vous souhaitez désactiver un mode de paiement pendant un certain temps, mais que vous souhaitez le proposer à nouveau à l'avenir (peut-être en raison d'une épidémie de COVID, vous devez temporairement cesser de proposer des encaissements), changez-le en "visible par l'administration uniquement".
-{% endhint %}
+**5) Description :** ajoutez les détails associés la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
-{% hint style="warning" %}
-Si vous changez tous les modes de paiement de votre entreprise en "visible par l'administration uniquement", vous obtiendrez une vitrine à affichage unique pour les cycles de commande actifs.
-{% endhint %}
+Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 
-* **Actif** : Indiquez si ce mode de paiement est actuellement visible et disponible, ou non.&#x20;
-* **Étiquettes** : Utilisez des étiquettes si vous souhaitez rendre certains modes de paiement disponibles ou non pour des clients spécifiques (par exemple, vous pouvez autoriser uniquement les clients en gros à payer par BACS mais "obliger" les clients nationaux à payer par carte de crédit ou PayPal). Pour plus d'informations, lisez ici.&#x20;
-* **Fournisseurs de paiement** : Sélectionnez l'option correspondant au mode de paiement que vous créez. Il existe cinq options :
-*
-  * MasterCard Internet Gateway Service (MIGS)&#x20;
-  * PayPal Express&#x20;
-  * Stripe SCA
-  * Espèces, chèques ou virements bancaires. Ces paiements ne passent pas par un portail de paiement en ligne et n'impliquent pas de validation automatique.
+![](<../../.gitbook/assets/image (52).png>)
 
-![](<../../.gitbook/assets/payment methods1.jpg>)
+&#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
-{% hint style="warning" %}
-N'oubliez pas ! Si votre entreprise a activé l'option "_**Les clients peuvent modifier ou annuler des commandes pendant qu'un cycle de commande est ouvert**_" (dans Entreprises -> Paramètres -> Préférences de la boutique), le seul fournisseur de paiement recommandé compatible avec cette fonctionnalité est "Espèces, TEF, ...".)
-{% endhint %}
+**7) Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs (voir le détail de la fonctionnalité [ici](broken-reference)).
 
-* **Calculatrice** : Sélectionnez comment vous souhaitez que les frais associés au mode de paiement s'appliquent à une commande. Notez que les frais liés au mode de paiement peuvent être fixés à zéro. Voir ci-dessous pour plus d'informations sur les frais de mode de paiement.
+**8)** **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :
 
-En cliquant sur **Créer**, le mode de paiement sera créé et vous disposerez de nouveaux champs pour définir les frais du mode de paiement. Ces champs visibles dépendent de la "calculatrice" que vous avez sélectionnée.
+* Espèces / chèques / virements / autres (il s'agit de liquide ou chèque ou virement bancaires ou tout autre option ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique)
+* PayPal Express
+* Stripe
 
-{% hint style="info" %}
-Si vous modifiez le champ "Calculatrice" du mode de paiement, vous devez d'abord enregistrer vos modifications (Mettre à jour) pour que les nouveaux champs associés deviennent visibles.
-{% endhint %}
+**9) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes#le-calculateur).
+
+En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez de nouveaux champs pour définir les frais associés au calculateur choisi. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changez la sélection de calculateur, il faut d'abord sauvegarder votre modification (mettre à jour) et ensuite les champs associés apparaissent.&#x20;
 
 ## Prestataires de paiement intégrés
 

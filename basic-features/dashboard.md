@@ -14,7 +14,7 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 {% endtab %}
 
 {% tab title="Hub : profil" %}
-![](<../.gitbook/assets/image (50) (1).png>)
+![](<../.gitbook/assets/image (50) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Boutique producteur ou hub" %}

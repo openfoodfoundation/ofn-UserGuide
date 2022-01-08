@@ -10,11 +10,11 @@ Voici comment procéder...&#x20;
 
 Cliquez sur **Produits** dans le menu bleu horizontal, puis cliquez sur **+ Nouveau produit** pour ajouter vos produits factices.
 
-![](<../../.gitbook/assets/image (63) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1).png>)
 
 Comme vous n'avez pas de vitrine OFN, ce produit ne sera visible nulle part. Par conséquent, vous pouvez l'appeler comme vous le souhaitez et définir le prix et les unités comme bon vous semble. L'important est de sélectionner la **catégorie de produit** correcte dans laquelle vous souhaitez être trouvé. Vous trouverez ci-dessous un exemple de produit de viande fictif. Le profil de ce producteur apparaîtra désormais si un client recherche des producteurs de viande.
 
-![](<../../.gitbook/assets/image (64) (1).png>)
+![](<../../.gitbook/assets/image (64) (1) (1).png>)
 
 Leur résumé de profil indiquera également qu'ils vendent de la viande (ci-dessous).
 

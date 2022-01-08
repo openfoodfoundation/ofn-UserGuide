@@ -73,7 +73,7 @@ N'oubliez pas de bien cliquer sur le bouton "créer" ou "créer et ajouter nouve
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où vous retrouvez tous vos produits :&#x20;
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 ## Créer un produit similaire / une déclinaison du produit
 
@@ -101,7 +101,7 @@ Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et
 
 L'acheteur peut filtrer les produits par catégorie de produit depuis la vue boutique (à droite de la vue produit). Il peut également effectuer une recherche par mot clés depuis l'encart "rechercher..." (en haut de la vue produit).
 
-![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (64) (1).png>)
 
 Les champs suivants peuvent être recherchés depuis l'encart "rechercher.."\
 \- Nom du produit\

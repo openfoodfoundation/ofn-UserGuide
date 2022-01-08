@@ -2,7 +2,7 @@
 
 Ces permissions doivent être octroyées pour qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise puisse distribuer les produits d'une autre. Un "droit" est accordé par une entreprise à une autre concernant l'accès / la modification des produits et du profil.
 
-![](<../../.gitbook/assets/image (61) (1).png>)
+![](<../../.gitbook/assets/image (61) (1) (1).png>)
 
 
 
@@ -15,7 +15,7 @@ Ensuite deux paragraphes vont plus loin en présentant les permissions depuis de
 
 Il existe 4 différentes permissions. Elles peuvent se combiner de différentes manières afin de donner aux entreprises plus ou moins de droits suivant leurs profils.&#x20;
 
-![](<../../.gitbook/assets/image (40) (1).png>)
+![](<../../.gitbook/assets/image (40) (1) (1).png>)
 
 * **Permission de vendre les produits (= ajouter au cycle de vente) :** le fournisseur autorise le hub à ajouter ses produits à ses cycles de vente, donc à la vendre.
 * **Permission d'ajouter les produits au catalogue boutique :** le fournisseur autorise le hub à ajouter ses produits au catalogue boutique du hub. Le hub pourra alors modifier les prix et stock des produits _uniquement pour sa boutique à lui_, cela n'affectera pas le catalogue du fournisseur.
