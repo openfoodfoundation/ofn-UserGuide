@@ -21,7 +21,7 @@ Dans le menu de [gestion des commandes par lot](broken-reference), les quantité
 
 Sur l'interface d'administration, allez dans le menu Produits, cliquez sur Modifier pour un produit donné, puis rendez-vous sur le sous-menu vertical "options d'achat par lot" :
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (58).png>)
 
 Sélectionnez "oui". La quantité totale du lot est le nombre exact d'unités que la commande collective doit atteindre si le produit est vendu à la pièce, ou le poids total **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 

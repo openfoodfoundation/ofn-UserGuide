@@ -1,25 +1,9 @@
 # Boutique
 
-Pour ouvrir votre boutique sur Open Food Network et commencer à vendre, votre entreprise doit être enregistrée en tant que boutique de producteur ou Hub de producteur/non-producteur. Pour en savoir plus sur les différents profils d'entreprise, cliquez ici et ici.&#x20;
+Pour activer votre boutique en ligne sur Open Food Network et commencer à vendre, vous devez déjà vous assurer que le [type de profil](broken-reference) choisi vous ouvre cette fonctionnalité (boutique ou hub producteur, ou boutique hub).
 
-Les prochaines étapes essentielles consistent à configurer les méthodes d'expédition et de paiement pour votre entreprise. À ce stade, nous vous suggérons également de créer des frais d'entreprise (une majoration ajoutée au prix de chaque produit facturé par le producteur fournisseur pour couvrir les frais administratifs et de distribution).&#x20;
+Ensuite, vous devez paramétrer pour votre entreprise les [méthodes de livraison](broken-reference) et de [paiement](broken-reference), et éventuellement les [marges et commissions](broken-reference) que vous souhaitez imputer sur le prix d'origine des produits distribués.
 
-Les heures d'ouverture et de fermeture des vitrines sur OFN, ainsi que la possibilité de sous-sélectionner des produits pour différentes dates et heures de collecte, sont contrôlées par les cycles de commande.&#x20;
+Vous pourrez ensuite créer votre ou vos [cycles de vente](broken-reference), ce qui conditionnera l'ouverture de votre boutique en ligne aux commandes.
 
-Les vitrines sur OFN sont très flexibles. En savoir plus si vous :
-
-* Souhaitez fournir différents produits et services à différents groupes de clients.&#x20;
-* Souhaitez que seuls les membres enregistrés puissent passer des commandes (boutique privée).&#x20;
-* Souhaitez une devanture de magasin "factice" avec affichage uniquement.
-
-### Du point de vue des clients:
-
-Lorsque vous avez ouvert votre boutique avec un cycle de commande actif, les clients peuvent voir la liste de vos produits, effectuer une recherche à l'aide de la "boîte de recherche" située en haut à gauche et/ou filtrer les produits par catégories ou propriétés :
-
-![](../../.gitbook/assets/shopping2.gif)
-
-Pour ajouter des produits à leur panier, les clients peuvent cliquer sur "Ajouter", puis modifier la quantité de l'article dans leur panier à l'aide des touches "+" et "-".
-
-{% hint style="info" %}
-Les clients peuvent visualiser les articles qu'ils ont ajoutés à leur panier grâce au menu déroulant qui apparaît lorsqu'on clique sur le panier dans le coin en haut à droite.
-{% endhint %}
+Vous pourrez gérer des [affichages et tarifs différenciés](broken-reference) selon vos catégories d'acheteurs, réserver l'accès de votre boutique à des membres invités ([boutique privée](broken-reference)), ou encore, afficher une [boutique vitrine](broken-reference) sans autoriser la commande en ligne.

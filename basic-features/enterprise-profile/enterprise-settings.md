@@ -111,7 +111,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 **CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici :&#x20;
 
-![](<../../.gitbook/assets/image (54) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1).png>)
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
@@ -126,7 +126,7 @@ Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la
 
 Un exemple de profil en version condensée (depuis la page "producteurs") :&#x20;
 
-![](<../../.gitbook/assets/image (38) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1).png>)
 
 Et en version complète (depuis la carte, ou les pages boutiques):
 
@@ -190,7 +190,7 @@ C'est l'endroit idéal pour communiquer des informations importantes comme des c
 
 **Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1).png>)
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](broken-reference) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 

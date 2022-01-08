@@ -1,100 +1,63 @@
-# Méthodes d'Expédition
+# Méthodes de livraison
 
 {% hint style="warning" %}
-Il vous faut créer **au moins une** méthode d'expédition avant de pouvoir ouvrir votre boutique.
+La définition d'au moins une méthode de livraison est obligatoire avant l'ouverture d'une boutique !
 {% endhint %}
 
-Avant de poursuivre votre lecture, nous vous proposons une démonstration rapide de la manière de configurer votre première méthode d'expédition :
+## Définir une méthode de livraison
 
-![](../../.gitbook/assets/shippingmethod.gif)
+**1)** **Allez sur la page méthodes de livraison**
 
-## Configurer une méthode d'expédition
+En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de livraison** dans le menu vertical de gauche :
 
-* Accédez à la page Méthodes d'expédition en cliquant sur **Entreprises** dans le menu horizontal bleu, puis cliquez sur **Paramètres** à côté de votre entreprise. La page **Méthodes d'expédition** se trouve dans le menu sur le côté gauche.&#x20;
-* Cliquez sur **Créer une nouvelle méthode d'expédition +** . Vous serez dirigé vers une page comme celle-ci :
+![](<../../.gitbook/assets/image (73).png>)
 
-![](../../.gitbook/assets/shippingmethods.jpg)
+**2)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :&#x20;
 
-* Cochez la case située à côté de votre entreprise sur le côté droit de la page, sous "Hubs". Cela indique que la méthode d'expédition que vous êtes sur le point de créer s'appliquera à cette entreprise. Vous pouvez sélectionner plusieurs entreprises, si vous le souhaitez.&#x20;
-* **Nom** : Choisissez un nom pour la méthode. Ce nom sera affiché au client pendant le processus d'achat et dans les courriers électroniques de confirmation de la commande. Exemple :
+![](<../../.gitbook/assets/image (51).png>)
 
-![](<../../.gitbook/assets/shippinginfo (1).jpg>)
+**3)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-* **Description** : Ajoutez des détails supplémentaires, tels que l'adresse précise du point de collecte. Ces détails seront visibles par les clients en gris à côté du nom (voir la capture d'écran ci-dessus) et dans leur e-mail de confirmation de commande.&#x20;
-* **Affichage** : Choisissez entre "visible par l'administration uniquement" et "visible par l'acheteur sur la boutique".
+**4) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :&#x20;
 
-{% hint style="info" %}
-Si vous souhaitez désactiver une méthode d'expédition pendant un certain temps, mais que vous souhaitez la proposer à nouveau à l'avenir (peut-être un point de collecte réservé à l'été et que vous ne souhaitez pas mettre à la disposition des clients en hiver), changez-la en "visible par l'administration uniquement".
-{% endhint %}
+![](<../../.gitbook/assets/image (59).png>)
 
-* **Catégorie de méthode** : Cette méthode est-elle une livraison ou un point de retrait ?&#x20;
-* **Étiquettes** : entrez des étiquettes ici si vous souhaitez différencier les clients. Les étiquettes peuvent être utiles si vous souhaitez offrir la livraison gratuite à une catégorie de clients ou offrir la livraison uniquement à ceux qui ont une adresse enregistrée à proximité. Plus d'informations ici.&#x20;
-* **Calculateur** : Sélectionnez la manière dont les frais d'expédition seront ajoutés à cette méthode d'expédition. Notez que les frais d'expédition peuvent être nuls. Voir ci-dessous pour plus de détails.&#x20;
-* **Catégorie de taxe** : Cette option vous permet de définir la taxe associée à votre méthode d'expédition/frais de collecte indépendamment de celle affectée aux produits taxables détenus par votre entreprise. Les options sont les suivantes : aucune, taux plein, taux zéro, taux réduit ou frais d'expédition.&#x20;
-* **Catégories de transport** : Les conditions de transport (réfrigération, congélation, par défaut) associées à cette méthode d'expédition.
+**5) Description :** Ici vous pouvez ajouter des détails supplémentaires, comme l'adress précise du lieu de retrait par exemple. Ces détails seront visibles pour les clients en gris à côté du nom (cf. capture ci-dessus).
 
-{% hint style="danger" %}
-Cochez toutes les cases qui s'appliquent à votre entreprise alimentaire. Par exemple, si vous vendez des produits dont la catégorie d'expédition est "congelé", pour que le client puisse régler ses achats, la catégorie "congelé" devra être cochée dans le mode d'expédition souhaité.
-{% endhint %}
+**6) Catégorie :** Est-ce une livraison (à l'adresse de l'acheteur) ou un retrait (l'acheteur doit se déplacer pour aller retirer sa commande quelque part) ?
 
-* **Zones** : Sélectionnez la zone appropriée (pour permettre un calcul correct des taxes).
+**7) Calculateur :** Sélectionnez comment les frais de livraisons vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](broken-reference).
 
-En cliquant sur **Créer**, la méthode d'expédition sera créée, et de nouveaux champs vous seront proposés pour ajouter des détails sur les frais de la méthode d'expédition. Les champs présentés dépendent du calculateur de frais d'expédition que vous avez sélectionné.
+**8) Conditions de transport :** Quelles conditions spécifiques de transport sont associées à cette méthode de livraison ?
 
-{% hint style="info" %}
-Si vous modifiez le type de calculateur pour une méthode d'expédition, vous devez d'abord **enregistrer** avant de pouvoir modifier les paramètres du calculateur.
-{% endhint %}
+**9) Zone :** Sélectionnez la zone appropriée (généralement EU\_VAT).
 
-## Calculateurs de Frais
 
-![](../../.gitbook/assets/shippingcalc.jpg)
 
-**Pourcentage net** - Ces frais sont facturés en pourcentage du montant total de la commande.
+## Le calculateur
 
-{% hint style="danger" %}
-Tous les **frais en pourcentage** sont calculés sur un pourcentage du **coût des produits** uniquement.
-{% endhint %}
+![](<../../.gitbook/assets/image (54).png>)
 
-{% hint style="warning" %}
-Si votre entreprise ajoute un pourcentage fixe de frais d'entreprise à tous les produits, alors pour obtenir le **montant** du "pourcentage net", le pourcentage souhaité du panier d'un client est le suivant :&#x20;
+**Poids (au kg)** – Cette marge/commission correspond à un montant fixe par kg commandé. Elle _s'applique uniquement à la somme des produits vendus par kg_. Elle ne s'appliquera donc pas aux produits vendus à la pièce par exemple.
 
-&#x20;$$= (100 + Frais)*Pourcentage/100$$&#x20;
+**Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
-Par exemple, pour une entreprise dont les frais d'entreprise sont de 20 % et qui souhaite facturer des frais d'expédition correspondant à 5 % du panier total d'un client, le montant à saisir dans le pourcentage fixe de ce mode d'expédition est le suivant :
+**Montant fixe par commande** – La marge/commission correspond à un montant fixe pris pour l'ensemble de la commande, quelle que soit sa taille ou le nombre d'articles commandés.
 
-$$= (100 + 20) *5/100 = 6$$&#x20;
-{% endhint %}
+**Montant variable selon nb article** – La marge/commission correspond à un montant donné par commande, mais qui varie selon le nombre d'articles commandés. Il peut s'agir par exemple d'une remise promotionnelle pour des achats en grosses quantités, "si l'acheteur commande plus de X articles les frais de gestion passent de Y à Z euros".
 
-**Poids (par kg)** - ces frais sont appliqués aux produits sur une base par kg. _Ces frais ne seront appliqués qu'aux produits dont le prix est calculé par kg_, et non aux produits répertoriés comme articles (par exemple, un produit répertorié comme "1 botte de persil" ne contribuera pas au montant total des frais d'expédition facturés au client).&#x20;
+* ‘Coût du premier produit’ : Le montant de commission pris au premier article commandé
+* ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
+* 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-**Montant fixe par commande** - Ce tarif est appliqué comme tarif standard à toutes les commandes, quelle que soit leur taille.&#x20;
+![](<../../.gitbook/assets/image (71).png>)
 
-**Montant fixe par article** - Ces frais sont constants et s'appliquent aux produits répertoriés comme "articles". (Il ne s'applique pas aux produits vendus au poids ou au volume. Par conséquent, aucun frais d'expédition ne sera facturé à un client qui, par exemple, achète du riz au kilo).&#x20;
+Exemple : Si la commission prise pour le premier article est de 2€, celle de l'article supplémentaire 1 € et le nombre maximum d'article est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le 2ème et 3ème et aucune commission pour les articles 4 et 5.
 
-**Montant variable selon le nombre d'articles** - Ce calculateur de frais est particulièrement utile si vous souhaitez encourager les clients à passer des commandes importantes : le coût de l'expédition peut être réduit ou nul lorsque le seuil du nombre d'articles a été atteint.
+**Montant fixe par article** – Cette commission est un montant fixe qui s'applique pour chaque article commandé, mais uniquement aux articles vendus à la pièce (et non ceux vendus au poids/volume).
 
-* Coût du premier article : Les frais facturés pour le premier article de la commande.&#x20;
-* Coût d'article supplémentaire : Les frais facturés pour les articles au-delà du premier article.&#x20;
-* Articles maximum : Le nombre maximum d'articles sur lesquels les frais seront appliqués. Les articles achetés au-delà de ce nombre ne seront pas facturés.
+**Montant variable selon total commande** – Cette marge/commission est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
 
-![](../../.gitbook/assets/shippingfeeflex.jpg)
-
-> Par exemple : Si les frais d'expédition pour le "Coût du premier article" sont de 2 €, le "Coût de l'article supplémentaire" = 1 € et le "Nombre maximal d'articles" = 3: Un client qui achète 5 articles se verra facturer 4 € de frais de port (2 € pour le premier article, 1 € pour les articles deux et trois, et 0 € pour les articles quatre et cinq).
-
-**Montant variable selon la commande** - Il s'agit d'une méthode de frais d'expédition flexible facturée en fonction du montant total de la vente, plutôt que du nombre d'articles achetés (tarif flexible ci-dessus).
-
-* Montant minimum : Valeur monétaire du seuil entre les frais d'expédition normaux et les frais d'expédition réduits.&#x20;
-* Montant normal : Frais d'expédition appliqués aux ventes inférieures au seuil indiqué dans "Montant minimum".&#x20;
-* Frais réduit : Frais de port appliqués aux ventes supérieures au seuil indiqué dans 'Montant minimum'.
-
-{% hint style="danger" %}
-Le **montant minimum** correspond au _**coût total des produits**_ contenus dans le panier d'un client et ne comprend pas les frais d'entreprise.
-{% endhint %}
-
-{% hint style="warning" %}
-Par exemple, si une entreprise ajoute des frais d'entreprise de 20 % à tous les produits et qu'elle souhaite fixer le seuil entre la livraison gratuite (montant de la remise = 0) et, par exemple, la livraison à 5 € (= montant normal) à un panier de 30 €, le montant minimum est le suivant
-
-$$= 30 * 100 /(100+20) = 25 €$$&#x20;
-{% endhint %}
-
-![](../../.gitbook/assets/shippingfeepc.jpg)
+* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, l'acheteur devra payer le ‘Montant normal'.
+* ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
+* 'Devise' : La monnaie utilisée (généralement "EUR").

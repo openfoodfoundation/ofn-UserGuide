@@ -60,7 +60,7 @@ Cette méthode permet d'assigner le label à tous les produits de l'entreprise. 
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (38) (1).png>)
 
 {% hint style="warning" %}
 Les propriétés s'appliquent uniquement aux profils, boutiques et hubs de producteurs. Cette option ne sera pas disponible pour les hubs non producteurs.
@@ -88,7 +88,7 @@ Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 

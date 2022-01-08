@@ -12,7 +12,7 @@ Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue
 
 Vous serez redirigé vers la page suivante :
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 &#x20;**Fournisseurs :** Sélectionnez le fournisseur à l'origine du produit.
 
