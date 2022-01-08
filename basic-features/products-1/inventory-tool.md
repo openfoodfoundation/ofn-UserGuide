@@ -23,7 +23,7 @@ Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **C
 
 Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
 En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 

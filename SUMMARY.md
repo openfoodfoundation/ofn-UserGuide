@@ -24,7 +24,7 @@
     * [Fixation des prix de viande et autres produits au poids irrégulier](basic-features/products-1/pricing-irregular-items-kg.md)
     * [Catalogue boutique](basic-features/products-1/inventory-tool.md)
     * [Option d'achat par lot](basic-features/products-1/group-buy-for-bulk-ordering.md)
-    * [Importer des Produits dans l'Inventaire](basic-features/products-1/product-and-inventory-import.md)
+    * [Importer des Produits](basic-features/products-1/product-and-inventory-import.md)
   * [Boutique](basic-features/shopfront/README.md)
     * [Méthodes d'Expédition](basic-features/shopfront/shipping-methods.md)
     * [Modes de Paiement](basic-features/shopfront/payment-methods.md)
