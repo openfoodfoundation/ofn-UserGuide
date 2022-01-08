@@ -18,10 +18,10 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 {% endtab %}
 
 {% tab title="Boutique producteur ou hub" %}
-![](<../.gitbook/assets/image (44) (1).png>)
+![](<../.gitbook/assets/image (44) (1) (1).png>)
 {% endtab %}
 {% endtabs %}
 
 Si votre compte utilisateur gère plusieurs entreprises, vous verrez aussi la liste de vos entreprises pour y accéder rapidement :&#x20;
 
-![](<../.gitbook/assets/image (59) (1) (1).png>)
+![](<../.gitbook/assets/image (59) (1) (1) (1).png>)

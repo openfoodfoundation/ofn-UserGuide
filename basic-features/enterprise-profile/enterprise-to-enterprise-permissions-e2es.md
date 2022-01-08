@@ -2,7 +2,7 @@
 
 Ces permissions doivent être octroyées pour qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise puisse distribuer les produits d'une autre. Un "droit" est accordé par une entreprise à une autre concernant l'accès / la modification des produits et du profil.
 
-![](<../../.gitbook/assets/image (61) (1) (1).png>)
+![](<../../.gitbook/assets/image (61) (1) (1) (1).png>)
 
 
 

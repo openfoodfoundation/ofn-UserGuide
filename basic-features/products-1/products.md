@@ -87,7 +87,7 @@ Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le
 \
 
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)
 
 ## Affiner les attributs des produits
 

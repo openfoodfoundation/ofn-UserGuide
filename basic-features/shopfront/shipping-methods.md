@@ -14,13 +14,13 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **2)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :&#x20;
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 
 **3)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
 **4) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :&#x20;
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (61) (1).png>)
 
 **5) Description :** Ici vous pouvez ajouter des détails supplémentaires, comme l'adress précise du lieu de retrait par exemple. Ces détails seront visibles pour les clients en gris à côté du nom (cf. capture ci-dessus).
 

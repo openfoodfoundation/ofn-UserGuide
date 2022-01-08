@@ -51,23 +51,23 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 1. Connectez-vous à votre compte Paypal
 2. Rendez-vous sur account settings:
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 3\. Cliquez sur "mettre à jour" l'accès API:
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (72).png>)
 
 4\. Sélectionnez "Manage API credentials":
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (66).png>)
 
 De là vous pouvez accéder au username de l'API, le mot de passe et la signature :&#x20;
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 5\. Sur Open Food Network, assurez-vous d'être connecté en tant que gestionnaire de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement (voir ci-dessus). Sélectionnez Paypal et intégrer les informations :&#x20;
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 **Les champs suivants sont à renseigner, les autres peuvent rester vides :**
 
@@ -93,7 +93,7 @@ Si vous souhaitez utiliser la fonctionnalité d'[abonnement](broken-reference), 
 
 Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton (menu Entreprises > Gérer > Méthodes de paiements) :&#x20;
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (65).png>)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
@@ -105,7 +105,7 @@ Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué
 
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 #### Le paiement via Stripe pour les acheteurs
 
