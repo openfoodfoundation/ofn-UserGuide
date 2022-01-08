@@ -19,7 +19,7 @@
     * [Modifier les Gestionnaires](basic-features/enterprise-profile/transfer-ownership.md)
   * [Produits](basic-features/products-1/README.md)
     * [Ajouter des produits](basic-features/products-1/products.md)
-    * [Variantes de Produits](basic-features/products-1/product-variants.md)
+    * [Les variantes](basic-features/products-1/product-variants.md)
     * [Les Propriétés de Produits](basic-features/products-1/product-properties.md)
     * [Fixation des Prix de Viande et autres produits " entiers " de poids inconnu](basic-features/products-1/pricing-irregular-items-kg.md)
     * [L'Outil Inventaire](basic-features/products-1/inventory-tool.md)

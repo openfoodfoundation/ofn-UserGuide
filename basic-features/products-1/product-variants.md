@@ -1,26 +1,29 @@
-# Variantes de Produits
+# Les variantes
 
-Si vous créez plusieurs produits très similaires, variant seulement par leur taille, leur unité, ou le "goût" par exemple, nous vous conseillons de créer des "variantes" de ce produit au lieu de les créer en tant que produits différents. Ceci rendra votre boutique plus simple et claire pour les clients.
+Si vous créez deux produits similaires dont seul le prix ou la taille ou un parfum / ingrédient varie, le mieux est de créer deux "variantes" d'un même produit plutôt qu'un deuxième produit distinct. Ce sera plus clair pour le client final et surtout plus lisible sur la boutique en ligne.
+
+Exemple d'affichage boutique d'un produit avec 3 variantes :
 
 ![](<../../.gitbook/assets/productweightunit price.jpg>)
 
-## Comment Créer une Variante de Produit?
+## Comment créer une variante d'un produit?
 
-Il est tout d'abord nécessaire de créer un produit, qui deviendra aussi la "première variante" de ce produit. Pour plus de détails sur comment créer un produit, cliquez ici.
+Tout d'abord, il est nécessaire de créer un produit, qui sera automatiquement aussi la première variante de ce produit. Pour plus de détails concernant l'ajout simple de produits, [cliquez ici](broken-reference).
 
-Dans votre tableau de bord administratif, rendez-vous sur la page Produits. Cliquez sur ~~"Voir Plus"~~ pour voir tous les produits **ainsi que leur variantes.**
+Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous retrouvez la liste des produits pour les entreprises de nature "producteur" que vous gérez. Pour voir toutes les variantes associées à l'ensemble de vos produits, cliquez sur "Tout afficher" en rouge à gauche de la première ligne du tableau. Vous pouvez aussi, pour voir les variantes d'un produit spécifique, cliquez sur l'angle ">" à gauche de la première colonne du tableau.Si vous souhaitez créer une nouvelle variante pour ce produit, cliquez sur le petit plus "+" qui s'affiche juste en-dessous comme sur cet écran :&#x20;
 
-![](../../.gitbook/assets/variants1.jpg)
+![](<../../.gitbook/assets/image (39).png>)
 
-Pour voir les variantes d'un produit en particulier, cliquez sur ">" à gauche du tableau. Pour créer une nouvelle variante pour ce produit, cliquez sur le petit "+" comme affiché ci-dessous.
+Cela ajoutera une nouvelle ligne vous permettant de saisir rapidement les informations concernant la seconde variante : \
 
-Cela ajoutera une nouvelle ligne, vous permettant de compléter rapidement les informations à propos de cette nouvelle variante:
 
-![](../../.gitbook/assets/variants2.jpg)
+![](<../../.gitbook/assets/image (67).png>)
 
-La première ligne correspond au "~~produit parent~~", qui sera affiché aux clients avec ses variantes. Certaines informations seront communes à toutes les variantes comme l'unité, les conditions de transports etc.
 
-Les deuxième et troisième lignes dans cet exemple sont les deux variantes du produit. Chaque variante se distingue des autres dans au moins une catégorie. Il est conseillé d'indiquer la spécificité de la variante dans le nome de celle-ci; par exemple, la première variante peut être nommée "saucisson sec au poivre" et la deuxième peut être nommée "saucisson sec aux noix".
+
+La première ligne correspond au "produit parent" qui va se décliner sous la forme de plusieurs variantes. Certaines informations attachées au niveau du produit s'appliqueront donc à toutes les variantes, comme l'unité de mesure, le nom de l'unité si le produit est vendu à la pièce, les propriétés, les conditions de transport, etc.
+
+Les 2ème et 3ème lignes sont donc ici les 2 variantes du produit.  Chaque variante se distingue des autres par au moins un élément différenciant, comme l'unité (conditionnement par 500g au lieu de 100g pour la première variante) et prix associé bien souvent, ou une légère variation sur la nature du produit qui sera précisée dans le nom de la variante (ex: fromage de chèvre - herbes / fromage de chèvre - poivre).
 
 {% hint style="info" %}
 Pour éviter la confusion dans les rapports, nous vous conseillons de donner un nom distinct à chaque variante.
@@ -37,6 +40,6 @@ Il n'y a pas de nombre maximum de variantes pour un même produit. Vous pouvez e
 {% endhint %}
 
 {% hint style="info" %}
-Lorsque vous avez terminé, n'oubliez pas de cliquer sur " sauvegarder les changements" en bas à droite.
+Lorsque vous avez terminé, n'oubliez pas de cliquer sur "sauvegarder" en bas à droite.
 {% endhint %}
 
