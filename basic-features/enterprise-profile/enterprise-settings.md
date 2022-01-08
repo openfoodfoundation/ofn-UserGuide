@@ -19,7 +19,7 @@ Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "
 
 Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour un Hub :&#x20;
 
-![](<../../.gitbook/assets/image (56) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page. Nous recommandons d'enregistrer chaque page avant de la modifier.

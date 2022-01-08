@@ -73,7 +73,7 @@ N'oubliez pas de bien cliquer sur le bouton "créer" ou "créer et ajouter nouve
 
 Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où vous retrouvez tous vos produits :&#x20;
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 ## Créer un produit similaire / une déclinaison du produit
 

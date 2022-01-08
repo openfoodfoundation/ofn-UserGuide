@@ -16,7 +16,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **3)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 **4)** **Nom :** Choisissez un nom pour cette méthode de paiement. (par exemple : "Payez par carte de crédit via Paypal"). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 
@@ -55,7 +55,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 3\. Cliquez sur "mettre à jour" l'accès API:
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (67).png>)
 
 4\. Sélectionnez "Manage API credentials":
 
@@ -63,7 +63,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 De là vous pouvez accéder au username de l'API, le mot de passe et la signature :&#x20;
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
 5\. Sur Open Food Network, assurez-vous d'être connecté en tant que gestionnaire de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement (voir ci-dessus). Sélectionnez Paypal et intégrer les informations :&#x20;
 
@@ -105,7 +105,7 @@ Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué
 
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 #### Le paiement via Stripe pour les acheteurs
 
@@ -113,7 +113,7 @@ Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour 
 
 ## Frais associés aux méthodes de paiements
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 Vous pouvez associer des frais aux méthodes de paiement.
 

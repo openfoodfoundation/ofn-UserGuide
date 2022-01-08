@@ -2,7 +2,7 @@
 
 Lorsque les clients se rendent sur le réseau Open Food Network, ils peuvent rechercher des producteurs par nom ou par lieu. Ils peuvent également filtrer les profils des producteurs en fonction des types de produits qu'ils proposent (voir ci-dessous).
 
-![](<../../.gitbook/assets/image (57) (1) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1) (1).png>)
 
 Les producteurs disposant d'un magasin en ligne sur l'OFN ont des produits dans le système, qui sont détectés par l'outil de filtrage de recherche. Cependant, les producteurs qui n'ont pas de magasin OFN (juste un profil) ne pourront pas être recherchés de cette manière, à moins qu'ils n'ajoutent quelques produits factices dans le système. En ajoutant un produit factice pour chaque catégorie de produits dans laquelle vous souhaitez être consultable, vous apparaîtrez lorsque les clients rechercheront vos produits.&#x20;
 

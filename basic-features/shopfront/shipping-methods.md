@@ -10,7 +10,7 @@ La définition d'au moins une méthode de livraison est obligatoire avant l'ouve
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de livraison** dans le menu vertical de gauche :
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 
 **2)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :&#x20;
 

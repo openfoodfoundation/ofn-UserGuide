@@ -80,7 +80,7 @@ La liste des produits que vous avez décidé de masquer se trouve ici :&#x20;
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 ## Catalogue boutique et cycle de vente
 
