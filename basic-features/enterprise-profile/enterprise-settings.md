@@ -111,11 +111,11 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 **CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici :&#x20;
 
-![](<../../.gitbook/assets/image (54) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
-![](<../../.gitbook/assets/image (65) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1).png>)
 
 ### Images
 
@@ -182,15 +182,15 @@ Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 
 C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !
 
-![](<../../.gitbook/assets/image (62) (1) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
 
-![](<../../.gitbook/assets/image (66) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1).png>)
 
 **Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
 
-![](<../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](broken-reference) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 

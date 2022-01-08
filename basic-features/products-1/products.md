@@ -8,11 +8,11 @@ Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) 
 
 Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "Import produits en lot" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](<../../.gitbook/assets/image (72).png>)
+![](<../../.gitbook/assets/image (72) (1).png>)
 
 Vous serez redirigé vers la page suivante :
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1).png>)
 
 &#x20;**Fournisseurs :** Sélectionnez le fournisseur à l'origine du produit.
 
@@ -101,7 +101,7 @@ Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et
 
 L'acheteur peut filtrer les produits par catégorie de produit depuis la vue boutique (à droite de la vue produit). Il peut également effectuer une recherche par mot clés depuis l'encart "rechercher..." (en haut de la vue produit).
 
-![](<../../.gitbook/assets/image (64) (1).png>)
+![](<../../.gitbook/assets/image (64) (1) (1).png>)
 
 Les champs suivants peuvent être recherchés depuis l'encart "rechercher.."\
 \- Nom du produit\
@@ -113,4 +113,4 @@ Vous pouvez définir des **mots clés de recherche** en vous rendant dans **prod
 \
 
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)

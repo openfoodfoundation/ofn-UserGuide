@@ -4,7 +4,7 @@ Le tableau de bord sert à accéder rapidement aux fonctionnalités cœur du pil
 
 Pour y accéder, connectez-vous et accédez à l'interface d'administration via **Profil > Administration**.&#x20;
 
-![](<../.gitbook/assets/image (60) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilisation.
 
@@ -14,7 +14,7 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 {% endtab %}
 
 {% tab title="Hub : profil" %}
-![](<../.gitbook/assets/image (50) (1) (1).png>)
+![](<../.gitbook/assets/image (50) (1) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Boutique producteur ou hub" %}

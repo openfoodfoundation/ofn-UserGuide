@@ -38,7 +38,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
 Deux type de profils sont proposés pour les non-producteurs (distributeurs / hubs) :&#x20;
 
-![](<../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
 
 *   **Profil simple**&#x20;
 
