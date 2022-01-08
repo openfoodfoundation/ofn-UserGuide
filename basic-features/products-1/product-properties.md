@@ -123,6 +123,6 @@ En cliquant sur le profil d'un producteur, les labels entreprises s'affichent su
 Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés : \
 
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (57) (1).png>)
 
 Les acheteurs peuvent également filtrer les produits d'une boutique en fonction des labels.
