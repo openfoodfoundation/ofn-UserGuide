@@ -56,7 +56,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
 Vous pouvez toujours changer de profil (package) par la suite. Vous avez deux options : soit vous utilisez le bouton ‘**Modifier le package** sur le [Tableau de Bord](broken-reference). Ou via le menu "Entreprises" en modifiant les colonnes dédiées comme sur la capture ci-dessous :&#x20;
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)
 
 ## Prochaine étape
 

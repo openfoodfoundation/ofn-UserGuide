@@ -88,7 +88,7 @@ Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 
