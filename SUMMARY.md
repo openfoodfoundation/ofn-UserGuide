@@ -32,7 +32,7 @@
     * [Cycles de vente](basic-features/shopfront/order-cycle/README.md)
       * [Cycle de vente géré par un hub](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)
       * [Cycle de vente géré par un producteur](basic-features/shopfront/order-cycle/order-cycles-for-producers.md)
-      * [Ouvrir plus d'un cycle de commande](basic-features/shopfront/order-cycle/opening-more-than-one-order-cycle.md)
+      * [Ouvrir des cycles de vente simultanés](basic-features/shopfront/order-cycle/opening-more-than-one-order-cycle.md)
       * [Les cycles de commande multi-entreprise](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)
     * [Customer management and conditional displays/prices](basic-features/shopfront/customer-management-and-conditional-displays-prices/README.md)
       * [Customer Management](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)

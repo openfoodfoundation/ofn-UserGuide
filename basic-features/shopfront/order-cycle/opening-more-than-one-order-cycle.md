@@ -1,29 +1,25 @@
-# Ouvrir plus d'un cycle de commande
+# Ouvrir des cycles de vente simultanés
 
-Il est possible d'avoir plus d'un cycle de commande ouvert en même temps. Cela a pour effet de créer deux (ou plusieurs) vitrines ouvertes, entre lesquelles le client peut choisir à partir d'une seule adresse web (URL). Cette fonction est utile lorsque vous souhaitez appliquer des "conditions" différentes dans les deux vitrines, par exemple des produits différents (vente en gros ou au détail), des frais d'entreprise différents (tels que des majorations pour les non-membres) ou des dates différentes d'ouverture et de clôture du cycle de commande (pour des livraisons différentes).&#x20;
+Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet d'avoir plusieurs boutiques ouvertes accessible via le même url (adresse internet) : l'acheteur peut naviguer de l'une à l'autre. Cette fonctionnalité est intéressante si vous souhaitez avoir des conditions différentes entre les deux boutiques (produits différents, prix différents ou des dates de commande et retrait différentes).&#x20;
 
-Lorsque le client arrive sur la page de votre vitrine, il est invité à choisir un cycle de commande avant que les produits ne soient visibles :
+Exemple ci-dessous avec des boutiques par date de livraison :&#x20;
 
-![](../../../.gitbook/assets/chooseoc.jpg)
+![](<../../../.gitbook/assets/image (72).png>)
 
-Lorsque le client sélectionne un cycle de commande, la vitrine se charge avec les produits spécifiques, les frais et les dates d'ouverture et de fermeture de ce cycle de commande.
+A la sélection du cycle de vente par l'acheteur, il verra s'afficher la liste des produits et les conditions correspondant au cycle de vente sélectionné.&#x20;
 
-{% hint style="danger" %}
-**Il n'est pas possible d'offrir des méthodes d'expédition ou de paiement différentes à des cycles de commande différents** ; tous les cycles de commande auront toutes vos méthodes d'expédition/de paiement disponibles. Au lieu de configurer des cycles de commande simultanés, utilisez des étiquettes pour proposer des tarifs différenciés à des clients spécifiques.
+{% hint style="info" %}
+**Attention : les méthodes de livraison et paiement ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce aux [tags](broken-reference).
 {% endhint %}
 
-{% hint style="success" %}
-Les étiquettes peuvent également être utilisées pour rendre les cycles de commande visibles ou invisibles pour des clients spécifiques. Par exemple, si vous marquez vos clients grossistes comme "pro", vous pouvez rendre un cycle de commande avec des prix de gros visible uniquement pour "pro".
+{% hint style="info" %}
+**Les** [**tags**](broken-reference) **vous permettent aussi de rendre visible ou invisible un cycle de vente à certains acheteurs.** Par exemple, vous pouvez définir un groupe d'acheteurs "pro" et choisir de ne rendre visible que pour ce groupe d'acheteur le cycle de vente "pro" comportant des volumes et prix adaptés aux professionnels.
 {% endhint %}
 
-## **Organisez vos cycles de commande**
+## **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 
-Vous pouvez choisir si vous voulez que vos cycles de commande soient répertoriés dans le menu déroulant par date de fermeture (fermeture en premier) ou par date d'ouverture (ouverture en premier).&#x20;
+Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par date d'ouverture.&#x20;
 
-Cette option est définie dans vos paramètres d'entreprise -> Préférences de la boutique -> Trier les cycles de commande sur la vitrine par
+Il suffit de vous rendre dans le menu Entreprises > Gérer > Préférences boutique :&#x20;
 
-![](../../../.gitbook/assets/ordercyclesort.jpg)
-
-Les clients peuvent naviguer entre les cycles de commande :
-
-![](../../../.gitbook/assets/chooseoc2.jpg)
+![](<../../../.gitbook/assets/image (86).png>)

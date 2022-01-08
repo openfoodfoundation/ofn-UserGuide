@@ -11,7 +11,7 @@ description: >-
 1. Une fois connecté, et en accédant à votre tableau de bord d'administration, sélectionnez "Entreprises" sur le menu horizontal bleu.
 2. Sélectionnez "Paramètres" à côté de votre entreprise.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 {% hint style="danger" %}
 Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "sauvegarder" en bas de la fenêtre de droite.

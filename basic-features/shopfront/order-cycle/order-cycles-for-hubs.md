@@ -10,11 +10,11 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :&#x20;
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 Puis cliquez sur "Nouveau cycle de vente" :&#x20;
 
-![](<../../../.gitbook/assets/image (86).png>)
+![](<../../../.gitbook/assets/image (91).png>)
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)
@@ -26,7 +26,7 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes
 
 ### 1. Informations générales
 
-![](<../../../.gitbook/assets/image (55).png>)
+![](<../../../.gitbook/assets/image (56).png>)
 
 **Nom :** Choisissez un nom pour le cycle de vente. Il sera visible uniquement de vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez choisir une dénomination type _Semaine26\_2018._
 
@@ -54,7 +54,7 @@ Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calc
 
 Vous pouvez ici sélectionner un ou plusieurs hubs-distributeurs, pour lesquels donc leurs boutiques respectives seront ouvertes à la commande pour ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul hub--distributeur. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs-distributeurs dans la partie produits sortants, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub et de paramétrer des dates de livraison différentes.
 
-![](<../../../.gitbook/assets/image (49).png>)
+![](<../../../.gitbook/assets/image (50).png>)
 
 Les **tags** vous permettent de taguer le cycle de vente pour qu'il ne soit visible que de certains acheteurs (voir page [Affichages relatifs aux catégories d'acheteurs (tags)](broken-reference)).
 
@@ -79,6 +79,6 @@ Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsq
 Depuis un cycle de vente, il vous est possible de notifier à tout moment les producteurs des commandes en cours. \
 Cliquez sur le bouton "modifier" du cycle de vente de votre choix depuis la liste des cycles de vente puis sélectionnez "Notifier les producteurs"
 
-![](<../../../.gitbook/assets/image (88).png>)
+![](<../../../.gitbook/assets/image (93).png>)
 
 En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).

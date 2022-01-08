@@ -5,7 +5,7 @@ Pour les producteurs vendant leurs propres produits en direct, ces coûts sont d
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la **constitution du prix** d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (61).png>)
 
 
 
@@ -15,11 +15,11 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la **consti
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (83).png>)
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :&#x20;
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 
@@ -33,11 +33,11 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 ## Le calculateur
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 **Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
@@ -51,7 +51,7 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (60).png>)
 
 
 
