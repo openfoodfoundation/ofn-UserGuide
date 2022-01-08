@@ -1,8 +1,29 @@
-# Les Propriétés de Produits
+# Propriétés / labels
 
-Vous pouvez appliquer des propriétés à vos produits, afin de permettre à vos clients d'en savoir plus sur la façon dont vos produits sont fabriqués et sur leurs caractéristiques. Les propriétés de produit actuelles qui peuvent être appliquées sont les suivantes:
+Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur final sur les méthodes de production ainsi que les labels obtenus pour le produit. Actuellement les propriétés suivantes peuvent être ajoutées :
 
 {% tabs %}
+{% tab title="France" %}
+
+
+* AB
+* EU bio
+* Demeter
+* Raisonné
+* Elevé sous la mère
+* Bio cohérence
+* Nature & Progrès
+* Paysans de nature
+* Autre bio
+* MSV
+* Conversion
+* Tinda
+{% endtab %}
+
+{% tab title="Belgique" %}
+
+{% endtab %}
+
 {% tab title="Canada" %}
 * Local - dans un rayon de 100 km&#x20;
 * Sans OGM&#x20;
@@ -21,45 +42,25 @@ Vous pouvez appliquer des propriétés à vos produits, afin de permettre à vos
 \
 
 {% endtab %}
-
-{% tab title="France" %}
-* AB
-* EU bio
-* Demeter
-* Raisonné
-* Elevé sous la mère
-* Bio cohérence
-* Nature & Progrès
-* Paysans de nature
-* Autre bio
-* MSV
-* Conversion
-* Tinda
-{% endtab %}
-
-{% tab title="Belgique" %}
-
-{% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
 Si vous souhaitez proposer une propriété qui ne figure pas dans la liste ci-dessus, n'hésitez pas à nous contacter. Nous prenons en considération toute nouvelle propriété qui pourrait avoir un attrait général.
 {% endhint %}
 
-Il y a deux moyens d’attribuer des propriétés à vos produits:
+Il y a deux manières d'assigner un label à produit :
 
-1\) Vous pouvez attribuer une propriété à une entreprise, afin que tous ses produits portent cette propriété (sauf si elle est supprimée manuellement, ce qui est abordé dans la section "**Propriétés Héritées**").
+1\) Vous pouvez l'assigner à une entreprise, ainsi tous les produits de l'entreprise auront les labels et propriétés sélectionnées.
 
-2\) Vous pouvez attribuer des propriétés à des produits particuliers, de manière individuelle.
+2\) Vous pouvez l'assigner à un ou plusieurs produits en particulier.
 
-## Attribuer une Propriété à une Entreprise
+## 1) Assigner un label à une entreprise
 
-Lorsque vous attribuez une propriété à une entreprise, tous les produits appartenant à cette entreprise porteront, par défaut, cette propriété. Par exemple, si tous vos produits sont "certifiés biologiques", vous pouvez attribuer cette propriété à votre entreprise, ce qui vous évitera d'avoir à l'appliquer manuellement à chaque produit. Si une propriété ne s'applique qu'à quelques-uns de vos produits, il est préférable de l'attribuer aux produits individuellement plutôt qu'à l'entreprise (instructions ci-dessous).
+Cette méthode permet d'assigner le label à tous les produits de l'entreprise. Si vous ne souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seuls deux ou trois produits de votre catalogue ne sont pas concernés par le label, utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Case à cocher ](broken-reference)hériter des proriétés.
 
-\
-Vous pouvez accéder aux propriétés d'entreprise dans vos paramètres d'entreprise : dans votre tableau de bord d'administration, allez dans Entreprises -> Paramètres -> Propriétés.
+Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](../../.gitbook/assets/properties1.jpg)
+![](<../../.gitbook/assets/image (38).png>)
 
 {% hint style="warning" %}
 Les propriétés s'appliquent uniquement aux profils, boutiques et hubs de producteurs. Cette option ne sera pas disponible pour les hubs non producteurs.
@@ -67,9 +68,9 @@ Les propriétés s'appliquent uniquement aux profils, boutiques et hubs de produ
 
 Ensuite, il y a 2 champs lors de l'application d'une propriété d'entreprise :&#x20;
 
-**Nom de la propriété** : Vous pouvez sélectionner une propriété de produit prédéfinie dans la liste déroulante. Il s'agit du nom de la propriété avec laquelle vos produits seront étiquetés, et que les clients pourront filtrer dans votre boutique.&#x20;
+**Nom du label** **:** A sélectionner dans la liste déroulante. C'est le nom qui s'affichera à l'acheteur final.
 
-**Description** : Vous pouvez ajouter une petite description pour donner plus d'informations sur votre étiquette. Par exemple, vous pouvez ajouter un numéro de certification.
+**Description** **:** Vous pouvez ajouter une petite description pour donner plus d'informations sur votre label. Cela peut être un numéro de certificat pour un label par exemple.
 
 {% hint style="info" %}
 Vous pouvez ajouter autant de propriétés que vous le souhaitez à votre entreprise.
@@ -79,17 +80,15 @@ Vous pouvez ajouter autant de propriétés que vous le souhaitez à votre entrep
 N'oubliez pas de sauvegarder vos modifications en cliquant sur " Mettre à jour " dans le cadre rouge, en bas à droite.
 {% endhint %}
 
-## Attribuer une Propriété à un Produit
+## 2) Assigner un label à un produit
 
-Pour attribuer une propriété à un seul produit, plutôt qu'à l'ensemble de la gamme de produits d'une entreprise, cliquez sur **Produits** dans le bandeau bleu horizontal, puis modifiez un produit existant (vous ne pouvez pas appliquer une propriété de produit lorsque vous créez un produit pour la première fois).&#x20;
+Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez un produit existant (il n'est pas possible d'ajouter des labels à la création produit) :&#x20;
 
-Pour éditer un produit, cliquez sur l'icône d'édition (crayon et papier) sur le côté droit du tableau.
+![](<../../.gitbook/assets/image (63).png>)
 
-![](../../.gitbook/assets/Property-to-product.png)
+Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-Une fois le produit modifié, vous pouvez ajouter ou modifier ses propriétés en sélectionnant "Propriétés du produit" dans le menu de droite.
-
-![](../../.gitbook/assets/properties2.jpg)
+![](<../../.gitbook/assets/image (69).png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 
@@ -103,7 +102,7 @@ Vous pouvez appliquer plusieurs propriétés en cliquant sur "**+ Ajouter des pr
 N'oubliez pas de cliquer sur **mettre à jour** lorsque vous avez terminé.
 {% endhint %}
 
-## Propriétés Héritées
+## Propriétés héritées
 
 Comme indiqué précédemment, lorsqu'une propriété est attribuée à une entreprise, tous les produits appartenant à cette entreprise "héritent" de cette propriété. Cependant, il est possible d'ignorer cet héritage automatique.&#x20;
 
@@ -117,14 +116,13 @@ Si vous avez laissé la case cochée et que vous ajoutez une propriété au prod
 Ceci est utile si vous souhaitez modifier uniquement la description d'une étiquette sur certains produits. (Par exemple, si tous vos produits sont "certifiés biologiques", mais que deux produits ont un numéro de certificat différent du reste, vous pouvez ajouter le numéro de certificat principal à la description de la propriété de l'entreprise et l'autre numéro aux deux produits qui sont différents en utilisant ces descriptions de propriétés de produits).
 {% endhint %}
 
-## Comment Voir les Propriétés de Produits dans votre Boutique
+## Visualisation des propriétés sur la boutique en ligne
 
-En cliquant sur le profil d'un producteur, les propriétés de l'entreprise apparaissent sur la page pop out :
+En cliquant sur le profil d'un producteur, les labels entreprises s'affichent sur sa page :
 
-![](../../.gitbook/assets/viewproperty.jpg)
+Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés : \
 
-Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés :
 
-![](<../../.gitbook/assets/searchfilter (1).jpg>)
+![](<../../.gitbook/assets/image (57).png>)
 
-![](../../.gitbook/assets/Screenshot\_20201027-152628.png)
+Les acheteurs peuvent également filtrer les produits d'une boutique en fonction des labels.

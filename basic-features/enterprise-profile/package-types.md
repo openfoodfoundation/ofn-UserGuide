@@ -16,7 +16,7 @@ Open Food Network propose cinq types de profils entreprises (couvrant [les huit 
 
 Trois type de profils sont proposés pour les producteurs :&#x20;
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 *   **Profil simple**&#x20;
 

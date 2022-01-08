@@ -115,7 +115,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
-![](<../../.gitbook/assets/image (65).png>)
+![](<../../.gitbook/assets/image (65) (1).png>)
 
 ### Images
 

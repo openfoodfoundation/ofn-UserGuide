@@ -51,7 +51,7 @@ L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modi
 
 **Photo :** Téléchargez une photo du produit.
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 
 
@@ -113,4 +113,4 @@ Vous pouvez définir des **mots clés de recherche** en vous rendant dans **prod
 \
 
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (64).png>)
