@@ -17,7 +17,7 @@ Toujours sur votre interface d'administration, rendez-vous sur la page produits 
 Cela ajoutera une nouvelle ligne vous permettant de saisir rapidement les informations concernant la seconde variante : \
 
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
 
 

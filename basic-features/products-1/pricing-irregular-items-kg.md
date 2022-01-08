@@ -8,7 +8,7 @@ Vous pouvez faire payer un prix moyen à l'acheteur et ensuite rembourser la dif
 
 Lorsque vous connaissez le vrai poids des produits (à la préparation de la commande ou au moment du retrait du colis par l'acheteur), connectez-vous au menu "Gestion des commandes par lot" et ajoutez la colonne Poids/volume au tableau de la page. Vous pouvez ainsi modifier le poids indiqué pour chaque acheteur pour une commande donnée et un produit donné. Le prix se recalculera automatiquement en fonction de la quantité saisie.&#x20;
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 {% hint style="info" %}
 N'oubliez pas de renvoyer un e-mail de confirmation de commande au client pour l'informer de la différence de prix et de toute somme à payer en plus par la suite.

@@ -84,11 +84,11 @@ N'oubliez pas de sauvegarder vos modifications en cliquant sur " Mettre à jour 
 
 Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez un produit existant (il n'est pas possible d'ajouter des labels à la création produit) :&#x20;
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (66).png>)
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 

@@ -1,127 +1,89 @@
-# L'Outil Inventaire
+# Catalogue boutique
 
 ## Introduction
 
-L'"inventaire" offre aux entreprises plus de contrôle et de flexibilité dans la gestion de leurs produits, si elles le souhaitent. Cette fonctionnalité intéressera principalement les hubs et les gestionnaires de hubs.&#x20;
+La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifier uniquement pour sa boutique les informations de prix et stock des produits pour lesquels il a la [permission](broken-reference) adéquate, et de faire sa sous-sélection de produits en masquant les produits qu'il ne souhaite pas distribuer, sans que cela n'affecte le catalogue d'origine du producteur. Ainsi, si un autre hub-distributeur B offre dans sa boutique les mêmes produits du même producteur, il ne sera pas affecté par les changements effectués par A dans son catalogue boutique.
 
-En utilisant l'"Inventaire", le hub A peut modifier le prix et les niveaux de stock des articles qu'il est autorisé à vendre au détail. Cette fonction peut également permettre au hub A de ne mettre en vente sur sa vitrine qu'une sous-sélection de produits provenant de ses producteurs fournisseurs, s'il ne souhaite pas distribuer des gammes entières de produits. Tout cela peut être fait sans modifier la copie maîtresse des produits. Par conséquent, si les hubs A et B stockent les mêmes produits, le hub A peut, à l'aide de l'outil d'inventaire, modifier le prix et d'autres informations fondamentales sur les articles qu'il vend sans que cela ait un impact sur le hub B.
+## Paramètres du profil concernant le catalogue boutique
 
-## Paramètres d'Inventaire
+Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
-Pour accéder à l'inventaire, allez dans Entreprises (dans le menu horizontal bleu) et ensuite dans "Paramètres". Dans la barre de menu située à gauche, sélectionnez "Paramètres de l'inventaire".
+![](<../../.gitbook/assets/image (42).png>)
 
-![](../../.gitbook/assets/Inventory-Settings.png)
+Vous avez deux options :&#x20;
 
-Vous avez alors deux options:
+1. Les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue boutique avant de pouvoir être ajoutés à vos cycle de vente. Quand vous créerez un cycle de vente, vous ne verrez dans les produits "entrants" que les produits préalablement ajoutés à votre catalogue boutique.&#x20;
+2. Les produits ajoutés par vos fournisseurs peuvent être ajoutés à votre boutique en ligne sans que vous n'ayez à les ajouter au préalable dans votre catalogue boutique. Quand vous créerez un cycle de vente, vous verrez dans les produits "entrants" l'ensemble des produits des producteurs sélectionnés. Bien sûr, si vous avez modifié dans votre catalogue boutiques les prix ou stock de certains de ces produits, ce sont bien ces informations là qui seront affichées dans votre boutique. Si vous ne pensez pas utiliser le catalogue, sélectionnez cette option recommandée.&#x20;
 
-* **De nouveaux produits peuvent être ajoutés à ma vitrine (recommandé)** : Les produits de vos fournisseurs peuvent être ajoutés à votre vitrine en ligne _sans que vous ayez à les ajouter au préalable dans l'inventaire de votre boutique/hub_. Lorsque vous créez un cycle de commande, _tous_ les produits des producteurs sélectionnés seront disponibles pour que vous les ajoutiez à la partie " entrante " du cycle de commande. Il s'agit de l'option par défaut et elle est recommandée pour les hubs qui ne souhaitent pas modifier les prix ou les niveaux de stock des articles qu'ils vendent au détail.
+## Accéder au catalogue boutique
 
-{% hint style="warning" %}
-ATTENTION : si vous conservez vos paramètres d'inventaire dans ce mode "désactivé" par défaut, mais que vous téléchargez en même temps des produits dans l'inventaire de votre hub et que vous modifiez leurs prix ou leurs niveaux de stock, les informations modifiées seront affichées sur la façade de votre boutique, et non dans la copie principale.
-{% endhint %}
+Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendamment.&#x20;
 
-* **Les nouveaux produits doivent être ajoutés à mon inventaire avant de pouvoir être ajoutés à ma vitrine** : Lorsque vous créez un cycle de commande, seuls les produits que vous avez précédemment ajoutés à l'inventaire du hub pourront être sélectionnés dans la partie "arrivée" du cycle de commande.
+![](<../../.gitbook/assets/image (65).png>)
 
-## Visionner l'Inventaire de votre Boutique/Hub
+Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
-Cliquez sur le menu **Produits** en haut de votre tableau de bord d'administration, puis cliquez sur **Inventaire** dans le sous-menu vert. Si vous gérez plusieurs entreprises, il vous sera demandé d'en sélectionner une car chaque inventaire est géré indépendamment.
+![](<../../.gitbook/assets/image (55).png>)
 
-![](../../.gitbook/assets/inventory1.jpg)
+En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 
-Si de nouveaux produits ont été ajoutés par vos fournisseurs entre chaque visite de l'inventaire de votre boutique/magasin, vous verrez le message suivant :
+## Nouveaux produits
 
-![](../../.gitbook/assets/New-products-alert.png)
+![](<../../.gitbook/assets/image (48).png>)
 
-Tant que vous n'aurez pas ajouté ces produits à l'inventaire, ils resteront dans la catégorie "**Nouveaux produits**" et ne pourront pas être sélectionnés lors de la création d'un cycle de commande. En cliquant sur "**Consulter maintenant**", vous serez redirigé vers la liste des nouveaux produits.
+Les nouveaux produits peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez modifier pour votre boutique les caractéristiques prix/stock d'un produit de la liste, vous devez l'ajouter à votre catalogue boutique. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
-## Reviewing New Products
+Pour rappel, si l'option choisie dans les [paramètres](broken-reference) est que les produits doivent être ajoutés à votre catalogue pour pouvoir être ajoutés dans un cycle de vente et donc mis en vente dans votre boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire qu'ils ne pourront pas être sélectionnés dans vos cycles de vente. Si l'autre option a été choisie, ils pourront être ajoutés dans vos cycles de vente.&#x20;
 
-Les nouveaux produits peuvent être soit **Ajoutés** à votre inventaire, soit **masqués**. S'il existe un produit dans la liste pour lequel vous souhaitez modifier les détails ou appliquer un niveau de stock récurrent, vous devez l'**ajouter** à votre liste d'inventaire. S'il existe un produit que vous ne voulez jamais vendre dans votre boutique, ou du moins que vous ne voulez pas stocker dans un avenir proche, vous pouvez choisir de le **masquer** (voir la section **Produits** masqués ci-dessous).
+## Produits du Catalogue Boutique
 
-![](../../.gitbook/assets/New-Products.png)
+![](<../../.gitbook/assets/image (37).png>)
 
-{% hint style="info" %}
-N'oubliez pas que si vos **paramètres d'inventaire** sont définis de telle sorte que "les nouveaux produits doivent être ajoutés à mon inventaire avant de pouvoir être placés dans ma vitrine", tous les produits que vous laissez dans la liste des nouveaux produits seront cachés. Si vos paramètres d'inventaire sont définis sur "les nouveaux produits peuvent être placés dans ma vitrine", les produits de votre liste de nouveaux produits apparaîtront toujours dans votre cycle de commande.
-{% endhint %}
+Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis.&#x20;
 
-## Gérer les Produits dans l'Inventaire
+![](<../../.gitbook/assets/image (71).png>)
 
-La liste des produits de votre inventaire est l'endroit où vous pouvez remplacer les détails des produits, configurer la réinitialisation des niveaux de stock et masquer les produits.
+### Modifier pour votre boutique les prix, stocks et références produits
 
-![](../../.gitbook/assets/Viewing-Inventory-Settings.png)
+Toutes les modifications que vous ferez ici seront visibles sur votre boutique. Vous pouvez modifier les champs suivants (mais pas les autres, c'est-à-dire le nom du produit, le conditionnement, ou encore la description ou l'image) :
 
-Grâce au bouton "colonnes" situé à droite du tableau, vous pouvez choisir les paramètres que vous souhaitez voir et modifier.
+* **Référence produit :** vous pouvez ici indiquer une autre référence produit que celle du producteur
+* **Prix :** le prix est modifiable mais n'oubliez pas que les quantités unitaires associées ne le sont pas
+* **En stock :** si votre stock disponible pour ce produit diffère du stock disponible proposé par le producteurs, vous pouvez indiquer votre stock. Vos produits ne seront plus visibles dans la boutique une fois que cette valeur atteint zéro.
+* **A volonté :** vous pouvez sélectionner si le produit est vendu à la demande ou suivant un stock défini, ou si vous souhaitez garder le même paramètre que celui figurant au catalogue producteur.
 
-![](../../.gitbook/assets/Columns-1.png)
+### Réinitialiser les niveaux de stock par défaut
 
-### Modifiez les numéros de référence, les prix et les niveaux de stock des produits de votre vitrine.
+Cette colonne permet de revenir à un stock par défaut, par exemple au début de chaque nouveau cycle de vente, selon votre stratégie de réassort. Si vous souhaitez utiliser cette fonctionnalité, cochez la case et renseignez le stock par défaut dans la case avoisinante pour les produits concernés. Pour réinitialiser le stock par défaut pour ces produits, cliquez sur **Action** puis **Réinitialiser les niveaux de stock par défaut.** Seuls les produits avec une case cochée seront affectés par cette action.
 
-Toute modification effectuée ici sera visible sur votre boutique et remplacera donc les détails définis par le fournisseur. Vous pouvez modifier les champs suivants :
+C'est utile par exemple pour les hubs-distributeurs qui savent que chaque mois ils auront de nouveaux arrivages définis pour certains produits pour remettre leur stock défini à niveau avant la prochaine vente.
 
-* **Numéro de référence** - si vous souhaitez utiliser un autre numéro de référence pour un produit, vous pouvez remplacer le numéro de référence du producteur en saisissant un autre numéro.&#x20;
-* **Prix** - Vous pouvez définir un prix différent à afficher dans votre boutique. N'oubliez pas que les unités du produit restent les mêmes. Par conséquent, si le prix du produit est fixé au kilogramme, vous pouvez uniquement modifier son coût au kilogramme et non le transformer en un coût fixe par article.&#x20;
-* **En stock** - Si votre stock de ce produit diffère du stock disponible proposé par les producteurs, vous pouvez indiquer votre stock. Vos produits ne seront plus visibles dans la boutique lorsque le niveau de stock atteindra zéro.
+### Hériter ?
 
-{% hint style="info" %}
-Cela peut être pratique si vous recevez un achat en gros de 50 articles par mois, et que vous devez suivre leurs ventes avant la prochaine livraison.&#x20;
-{% endhint %}
+Si vous n'avez rien modifié sur un produit, la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visibles en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
 
-* **Illimité ?** - Vous pouvez choisir d'hériter des niveaux de stock du producteur (dans ce cas, le nombre dans la colonne "en stock" restera gris), d'avoir un stock illimité "oui" (donc l'article ne sera jamais épuisé et sera toujours disponible, s'il est ajouté à un cycle de commande actif) ou de définir vos propres niveaux de stock "non" (dans ce cas, le nombre dans la colonne "en stock" sera sur fond blanc).
+Pour revenir aux informations producteurs, vous pouvez à tout moment re-sélectionner cette case.
 
-![](../../.gitbook/assets/inventorystock.jpg)
+### Masquer des produits
 
-Rappelez-vous les termes "en stock" et "illimité" ici.
+En cliquant sur le bouton masquer, les produits en question disparaîtront de la liste des nouveaux produits ou du catalogue boutique et seront basculés vers la liste des produits masqués. Ils ne font plus partie de votre catalogue boutique, et ne pourront donc pas être ajoutés à vos cycles de vente si vous avez choisi l'option vous obligeant à ajouter les produits à votre catalogue avant de pouvoir les vendre dans votre boutique.
 
 {% hint style="warning" %}
-Il n'est pas possible de modifier le nom, les propriétés, la description ou l'image du produit.
+N'oubliez pas de sauvegarder vos modifications !
 {% endhint %}
 
-### Activer la Réinitialisation du Stock ?
-
-La colonne "**activation de la réinitialisation du niveau de stock**" vous permet de réinitialiser le montant "En stock" à une valeur par défaut, par exemple au début de chaque nouveau cycle de commande. Le **montant par défaut** est le nombre saisi dans cette colonne à côté de la case à cocher. La case à cocher vous permet de sélectionner uniquement les articles que vous souhaitez réinitialiser à un moment donné.&#x20;
-
-Pour réinitialiser le stock par défaut pour ces produits, cliquez sur "Actions" en haut à gauche du tableau d'inventaire, puis sur "Réinitialiser les niveaux de stock par défaut". Seuls les produits pour lesquels la case permettant la réinitialisation du stock a été cochée seront affectés par cette action.
-
-![](../../.gitbook/assets/inventorystockreset.jpg)
-
-> Dans cet exemple, le niveau de stock par défaut des fèves au lard est de 5. Il en reste actuellement 2 en stock. Si l'utilisateur, au début d'un cycle de commande, souhaite revenir à 5, il doit cliquer sur "Réinitialiser les niveaux de stock par défaut" sous "Actions".
-
-{% hint style="info" %}
-Il s'agit d'une fonctionnalité utile pour les hubs qui peuvent recevoir des livraisons de produits spécifiques une fois par mois ou selon un calendrier régulier.
-{% endhint %}
-
-### Hériter?
-
-Si vous n'avez modifié aucune des valeurs de la table d'inventaire d'un produit, la case à cocher "hériter ?" sera, par défaut, cochée. Cela signifie que les informations saisies par le producteur et visibles en gris s'afficheront sur votre vitrine.
-
-![](../../.gitbook/assets/inventoryinherit.jpg)
-
-En modifiant un ou plusieurs des champs, cette case à cocher sera automatiquement décochée. Pour réinitialiser les valeurs (prix, stock, numéro de référence, etc.) aux valeurs de l'exemplaire original du producteur, vous pouvez à tout moment cocher à nouveau cette case.
-
-### Masquer
-
-Comme dans la liste des **nouveaux produits**, vous pouvez également **masquer** des produits de votre **inventaire**. En cliquant sur le bouton "Masquer", le produit sera déplacé vers votre liste de **produits cachés**. Si votre profil d'inventaire est configuré comme suit : "**Les nouveaux produits doivent être ajoutés à mon inventaire avant de pouvoir être ajoutés à ma vitrine**" (voir ici), le produit que vous venez de masquer ne pourra plus être sélectionné dans le cycle de commande de votre hub et ne sera donc pas visible sur votre vitrine.
-
-## Produits Masqués
+## Produits masqués
 
 La liste des produits que vous avez décidé de masquer se trouve ici :&#x20;
 
-![](../../.gitbook/assets/Hidden-products.png)
+![](<../../.gitbook/assets/image (45).png>)
 
-Lorsque vous consultez votre liste de produits cachés, vous pouvez choisir de les rendre visibles en cliquant sur le bouton "**Ajouter**" à droite de l'article.
+Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
-![](../../.gitbook/assets/inventoryhidden.jpg)
+![](<../../.gitbook/assets/image (47).png>)
 
-## Inventaire et Cycles de Commande
+## Catalogue boutique et cycle de vente
 
-Lorsque vous configurez des cycles de commande, vous pouvez, au cas par cas, choisir de sélectionner tous les produits disponibles ou seulement ceux qui se trouvent dans l'inventaire de votre boutique/hub.&#x20;
+Dans le menu Cycle de vente > Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-Pour ce faire, il suffit de cliquer sur "Paramètres avancés" (en haut à droite de la page du cycle de commande) :
-
-![](../../.gitbook/assets/Advanced-OC-settings.png)
-
-Cette option a le même effet que la modification des paramètres de notre profil d'entreprise pour votre inventaire, mais contrairement à cette dernière, elle ne s'applique qu'au cycle de commande en question.
-
-{% hint style="danger" %}
-Après avoir apporté des modifications, n'oubliez pas de cliquer sur "Mettre à jour" ou "Enregistrer" avant de continuer !
-{% endhint %}
+![](<../../.gitbook/assets/image (46).png>)

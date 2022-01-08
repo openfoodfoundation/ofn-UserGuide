@@ -6,7 +6,7 @@ Pour ces utilisateurs, cette étape est préliminaire à l'ajout de produits dan
 
 Tous les producteurs proposant / vendant des produits sur Open Food Network doivent détenir un compte entreprise sur la plateforme. Les produits sont saisis dans le catalogue du producteur, puis "affichés" (avec potentiellement des prix et stock différents) dans les boutiques du producteur et autres distributeurs à qui le producteur en a donné l'[autorisation](broken-reference). Cela permet aux acheteurs de connaître l'origine des produits qu'ils achètent :&#x20;
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (37) (1).png>)
 
 En tant que hub-distributeur, vous avez **deux options** : \
 \- soit vous créez les profils des producteurs avec qui vous travaillez\
@@ -36,7 +36,7 @@ Une fois connecté à l'interface d'administration, rendez-vous dans le menu "en
 
 Cette action vous amènera sur cette page :&#x20;
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 **Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2](broken-reference).
 

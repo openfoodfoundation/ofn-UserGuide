@@ -19,7 +19,7 @@ Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "
 
 Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour un Hub :&#x20;
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 {% hint style="danger" %}
 Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page. Nous recommandons d'enregistrer chaque page avant de la modifier.
@@ -111,7 +111,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 **CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici :&#x20;
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (54) (1).png>)
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
@@ -130,7 +130,7 @@ Un exemple de profil en version condensée (depuis la page "producteurs") :&#x20
 
 Et en version complète (depuis la carte, ou les pages boutiques):
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (48) (1).png>)
 
 ### Propriétés / Labels
 
@@ -186,11 +186,11 @@ C'est l'endroit idéal pour communiquer des informations importantes comme des c
 
 **Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 **Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 **Trier les cycles de vente par** : Si votre boutique aura [plus d'un cycle de vente ouvert en même temps](broken-reference) vous pouvez choisir l'ordre d'apparition des cycles dans le champ de sélection du cycle de vente à afficher : soit par date de fermeture, soit par date d'ouverture.
 

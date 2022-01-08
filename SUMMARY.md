@@ -22,7 +22,7 @@
     * [Les variantes](basic-features/products-1/product-variants.md)
     * [Propriétés / labels](basic-features/products-1/product-properties.md)
     * [Fixation des prix de viande et autres produits au poids irrégulier](basic-features/products-1/pricing-irregular-items-kg.md)
-    * [L'Outil Inventaire](basic-features/products-1/inventory-tool.md)
+    * [Catalogue boutique](basic-features/products-1/inventory-tool.md)
     * [Achat Groupé - pour les commandes en gros](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Importer des Produits dans l'Inventaire](basic-features/products-1/product-and-inventory-import.md)
   * [Boutique](basic-features/shopfront/README.md)
