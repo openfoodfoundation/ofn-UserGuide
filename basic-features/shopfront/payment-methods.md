@@ -16,7 +16,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **3)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
 
-![](<../../.gitbook/assets/image (74) (1).png>)
+![](<../../.gitbook/assets/image (74) (1) (1).png>)
 
 **4)** **Nom :** Choisissez un nom pour cette méthode de paiement. (par exemple : "Payez par carte de crédit via Paypal"). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
 

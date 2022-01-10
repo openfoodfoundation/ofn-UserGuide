@@ -1,4 +1,4 @@
-# Customer Management
+# Gestion des acheteurs et regroupement par catégorie
 
 ## Liste des acheteurs
 
@@ -6,7 +6,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent se voir attribuer un tag, donc être associés à une catégorie d'acheteur donnée.
 
-
+![](<../../../.gitbook/assets/image (43).png>)
 
 ## Adresse de facturation et de livraison par défaut
 

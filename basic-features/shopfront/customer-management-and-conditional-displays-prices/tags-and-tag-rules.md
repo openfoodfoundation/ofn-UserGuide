@@ -1,117 +1,84 @@
-# Tags and Tag Rules
+# Affichages et prix conditionnels selon la catégorie d'acheteurs (tags)
 
-Once customers have been grouped into categories with tags, you will be able to customise their shopping experience in the following ways:
+## Règles de tags
 
-* Making particular variants visible/invisible
-* Making certain shipping methods visible/invisible
-* Making certain payment methods visible/invisible
-* Making order cycles visible/invisible
+Une fois les acheteurs regroupés par catégories (une fois qu'un tag leur a été associé, [voir page précédente](broken-reference)), vous allez pouvoir définir les règles d'affichage suivantes :&#x20;
 
-Most often this feature is required by enterprises who have different shop setups for members/non-members or different groups of customers such as wholesale/retail customers.  More examples can be found in our [How To](../../../hub-management-tips/how-tos/) section.
+* Rendre certaines variantes visibles ou invisibles
+* Rendre des méthodes de livraison visibles ou invisibles
+* Rendre des méthodes de paiement visibles ou invisibles
+* Rendre des cycles de vente visibles ou invisibles
 
-## How to set up a Tag rule
+Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant une segmentation de leurs acheteurs bien définie (membres vs non-membres par exemple, ou professionnels vs particuliers).
 
-To access Tag Rules go to Enterprises -> Settings -> Tag Rules
+## Comment paramétrer une règle de tag
 
-![](../../../.gitbook/assets/newtagrule1.jpg)
+Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag**
 
-## By Default
+![](<../../../.gitbook/assets/image (74).png>)
 
-By default, _**all items** will be visible to **all customers**_ whether they are tagged or not. \
-You can change the default display rules by selecting **+add new default rule**. Int the example below, by default, all Order Cycles which are tagged 'wholesale' will be invisible.\
-(For this example, only those customers who are tagged with the label 'wholesalecustomer' can view (and hence purchase from) Order Cycles tagged 'wholesale'.)
+### Les règles par défaut
 
-![](../../../.gitbook/assets/defaulttag.jpg)
+Par défaut, tout est visible pour tout le monde, tagué ou pas. Vous pouvez modifier les règles d'affichage par défaut en cliquant sur "ajouter une règle par défaut". Par exemple, vous pouvez dire que par défaut, tous les cycles de ventes taggés "privés" sont invisibles (et vous les rendrez ensuite visibles pour certaines catégories d'acheteurs uniquement, dans l'exemple ci-dessous, pour les acheteurs qui ont le tag "VIP").
 
-## Tag Rules
+![](<../../../.gitbook/assets/image (64).png>)
 
-Once you have defined default rules, you can then set up exceptions to these rules for specific customer groups.
+### Les règles de tags
 
-* First define the customer group to which the exception will occur.  In the example above, the exception was applied to all customers with the tag 'wholesalecustomer'.
-* Then, for this customer group, you can choose to customise their shopping experience in one of four ways:
+Une fois les règles par défaut définies, vous allez pouvoir paramétrer des exceptions à ces règles pour certaines catégories d'acheteurs.
 
-![](../../../.gitbook/assets/Rule-Typess.png)
+* Vous devez d'abord définir pour quelle catégorie d'acheteur va se produire l'exception. Dans l'exemple ci-dessus, pour les acheteurs qui ont le tag "VIP".
+* Vous allez ensuite définir, pour ces acheteurs, les exceptions qui s'appliquent, parmi les 4 choix possibles :
 
 {% hint style="warning" %}
-Remember to add the relevant tags to variants, shipping or payment methods, or order cycles, as well as to customers after you have set up a default or conditional tag rule!
+Lorsque vous paramétrer une règle, qu'il s'agisse d'une règle par défaut ou conditionnelle, selon la règle choisir, pensez bien à appliquer les tags concernés aux variantes / cycles de vente / méthodes de livraison / méthodes de paiement concernées !
 {% endhint %}
 
-We now look at each option, one-by-one:
+Balayons chacune de ces options une par une.
 
-### **Show or Hide Variants in my shopfront**
+#### Afficher ou masquer les variantes dans ma boutique
 
-This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** (not in the producer's product list) with the same tag.&#x20;
+Cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs. Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](broken-reference) et pas dans le catalogue du producteur concerné. Dans l'exemple ci-dessous, la variante "carottes par 3kg" est taggée "vip", et on pourrait créé une règle disant que par défaut, les variantes taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-In the example below the 1 kg variant of delux muesli has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the smaller 500 g (non-tagged) variant of delux muesli appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' (in which case they would be able to view the 1 kg option too).
+![](broken-reference)
 
-![](<../../../.gitbook/assets/varianttags (1).jpg>)
+#### Afficher ou masquer les méthodes de livraison lors de la finalisation de la commande
 
-### **Show/Hide shipping methods**
+Cette règle permet de réserver certaines méthodes de livraison à certaines catégories d'acheteurs. Pour cette règle, il faudra donc associer un tag aux méthodes de livraison concernées. Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de livraison taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) **** and apply the relevant tag.&#x20;
+![](broken-reference)
 
-![](../../../.gitbook/assets/tagshipping.jpg)
+#### Afficher ou masquer les méthodes de paiement lors de la finalisation de la commande
 
-In this example, the shipping method 'Collect in Person' has been assigned to customers with the tag 'member'. One could then set up the following:
+Cette règle permet de réserver certaines méthodes de paiement à certaines catégories d'acheteurs, par exemple un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels. Pour cette règle, il faudra donc associer un tag aux méthodes de paiement concernées. Dans l'exemple ci-dessous, la méthode de paiement "Paiement sur facture" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de paiement taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.&#x20;
 
-* a default tag rule: shipping methods tagged 'member' is invisible
-* a conditional tag rule: for customers tagged 'member' the shipping method tagged 'member' is visible
+![](broken-reference)
 
-Thus, only members would be able to opt to collect their purchases in person.
+#### Afficher ou masquer les cycles de vente de ma boutique
 
-### **Show/Hide payment methods**
+Cette règle permet de réserver l'accès à un cycle de vente de la boutique uniquement à certains acheteurs. Par exemple, un maraicher va créé un second cycle de vente pour les acheteurs professionnels, avec des marges différentes de celles appliquées aux particuliers, et souhaite que ce cycle de vente ne soit visible que pour les acheteurs pro bien sûr. Pour cette règle, il faudra donc associer un tag aux cycles de vente concernés. Dans l'exemple ci-dessous, le cycle de vente est taggé "pro". On pourrait créer une règle par défaut disant que les cycles de vente taggés "pro" sont invisibles, et ensuite les rendre visibles pour les acheteurs taggés "pro".
 
-This rule lets you make particular payment methods specifically available or unavailable to particular customers.&#x20;
+![](broken-reference)
+
+{% hint style="warning" %}
+Cette règle de tag n'est possible que pour les boutique de type "hub", pas pour les boutique producteur simple (producteur vendant uniquement ses produits)
+{% endhint %}
+
+## Utiliser les tags pour gérer des tarifications différenciées selon la catégorie d'acheteur
+
+Parfois, vous souhaitez appliquer des tarifications différentes selon le type d'acheteur : membre ou non-membre, particulier ou profesionnels, etc.&#x20;
+
+Plusieurs possibilités de paramétrages utilisant les règles de tag sont à votre disposition  :
+
+* Vous pouvez proposer une [méthode de livraison ](broken-reference)réservée aux membres (exemple : "retrait au dépôt (membres)" vs "retrait au dépôt (non membres)", et associer des frais inférieurs, voir des frais négatifs (correspondant donc à une ristourne) pour la méthode concernant les membres. Quand le membre choisi cette méthode, le prix de sa commande est adapté (le montant total diminue si des frais négatifs sont associés). En revanche, cela implique de vérifier que l'acheteur ne triche pas lorsqu'il sélectionne la méthode correspondant à son profil, ou alors de taguer les membres "membres" et la méthode de paiement qui leur est réservée avec le même tag et paramétrer une règle de tag.
+* Vous pouvez proposer une [méthode de paiement ](broken-reference)avec des frais négatifs (ce qui correspondra à une ristourne donc) et réserver grâce aux tags cette méthode de paiement à des acheteurs professionnels par exemple.&#x20;
+* Vous pouvez créer [deux cycles de vente](broken-reference) : un cycle de vente pour les membres et un pour les non membres. Sur le cycle de vente dédié aux non-membres, vous pouvez appliquer une commission supérieure. Mais ici également, il faudra bien vérifier que les non-membres ont sélectionné le bon cycle de vente, ou cadrer les choses en utilisant les règles de tag et en taguant les acheteurs donc selon qu'ils sont membres ou non-membres.
 
 {% hint style="info" %}
-This tag rule might be useful if you only wish to offer members the option to pay by cash on collection (but make non-members pay upfront by card or PayPal), or if you would like to offer your wholesale customers only the option to pay by BACS.
+Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "catalogue boutique" pour gérer des tarifications différenciées. Vous pouvez par exemple créé une boutique pour les acheteurs pro, dont vous ne communiquer l'url qu'à ces acheteurs. Cette boutique peut gérer un catalogue boutique et modifier les prix des produits qui s'afficheront dans la boutique. Cette solution peut être utile lorsque la ristourne appliquée aux professionnels ne suit aucune "règle" fixe, et que les prix sont définis produits par produits.
 {% endhint %}
-
-For this conditional tag rule to operate you first need to have tagged the customer and the payment method with the same tag. To apply a tag to a [payment method](../payment-methods.md) visit go to Enterprises-> Settings -> Payment methods and select edit.
-
-![](../../../.gitbook/assets/tagspayment.jpg)
-
-In this example, the payment method 'Cash' has been assigned to customers with the tag 'member'. One could then set up the following:
-
-* a default tag rule: payment methods tagged 'member' is invisible
-* a conditional tag rule: for customers tagged 'member' the payment method tagged 'member' is visible
-
-Thus, only members would be able to opt to pay for their purchases in cash on collection.
-
-### **Show/Hide order cycles at my shopfront**
-
-This rule lets you make certain order cycles visible only to certain customers.&#x20;
 
 {% hint style="info" %}
-&#x20;This tag rule might be useful if you wish to open two order cycles concurrently with different enterprise fees associated to each. For example, one might be for wholesale customers- displaying bulk buy goods and lower enterprise fees, while another would be visible to the public and list products in smaller quantities but with a higher margin.
+**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience#comment-parametrer-une-regle-de-tag) afin que les tags fonctionnent !
 {% endhint %}
 
-For this rule to operate you need to have tagged the customer and the order cycle with the same tag. To tag an order cycle, see the Tags tab in the outgoing section of an order cycle (page 3 of the [Order Cycle](../order-cycle/order-cycles-for-hubs.md#3-outgoing-products)).
-
-![](../../../.gitbook/assets/tagsorder.jpg)
-
-In this example, the above Order Cycle has been assigned to customers with the tag 'member'. One could then set up the following:
-
-* a default tag rule: order cycles tagged 'member' are invisible
-* a conditional tag rule: for customers tagged 'member' an order cycle tagged 'member' is visible
-
-Thus, only members would be able to purchase goods from this order cycle.
-
-## Customer Specific Pricing
-
-Sometimes our users want to charge different prices for different customers, often based on their member vs non-member (or wholesale vs retail) status. Currently, there’s no way to automatically charge different prices for members vs non-members, but there are some round about ways of achieving the same thing.
-
-You can use **customer tagging**, with tag rules to achieve this by:
-
-* Make certain [variants](tags-and-tag-rules.md#show-or-hide-variants-in-my-shopfront) available only to specific customer groups: for example 'bulk buys' at a reduced rate per weight available only to customers with a wholesale tag.
-* Run more than one [Order Cycle](tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront) concurrently with only members (or wholesale customers) able to view and purchase from the order cycle carrying a lower enterprise fee.
-* You could use [shipping method fees](tags-and-tag-rules.md#show-hide-shipping-methods) to charge different prices to different customers. To ensure that only members select the reduced 'member rate' you would need to add a tag to this shipping method (else anyone could 'cheat' and select the lower cost shipping rate).
-* If you make a [payment method](tags-and-tag-rules.md#show-hide-payment-methods) is cash on collection available to members only then you would add a mark up to all other payment methods, such that non-members are charged more for their goods.
-
-{% hint style="info" %}
-Beyond the use of tags, some enterprises opt to set up two hubs: one for wholesale customers/members only (see Private Shop front) and one for everyone else.
-
-By using the [Inventory](../../products-1/inventory-tool.md) feature the two shops could offer the same products but you can set the pricing for each independently.&#x20;
-
-This method offers the most flexibility: prices can be fine-tuned for customer groups on a case-by-case basis rather than a blanket percentage or fixed price difference.
-{% endhint %}
