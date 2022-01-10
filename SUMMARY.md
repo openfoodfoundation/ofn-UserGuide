@@ -34,7 +34,7 @@
       * [Cycle de vente géré par un producteur](basic-features/shopfront/order-cycle/order-cycles-for-producers.md)
       * [Ouvrir des cycles de vente simultanés](basic-features/shopfront/order-cycle/opening-more-than-one-order-cycle.md)
       * [Permissions dans les cycles de vente multi-acteurs](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)
-    * [Customer management and conditional displays/prices](basic-features/shopfront/customer-management-and-conditional-displays-prices/README.md)
+    * [Gestion des acheteurs et affichages/prix conditionnels](basic-features/shopfront/customer-management-and-conditional-displays-prices/README.md)
       * [Customer Management](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
       * [Tags and Tag Rules](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)

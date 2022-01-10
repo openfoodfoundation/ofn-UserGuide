@@ -24,7 +24,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1).png>)
 
 &#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 

@@ -19,7 +19,7 @@
 * Renseignez le nom de votre entreprise et vos coordonnées. Cela permettra notamment d'afficher votre entreprise sur la carte, améliorant votre visibilité.
 * Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'êtes pas producteur.&#x20;
 
-![](<../.gitbook/assets/image (45) (1) (1).png>)
+![](<../.gitbook/assets/image (45) (1) (1) (1).png>)
 
 * Cliquez sur "créer votre profil". Vous allez ensuite recevoir un email vous confirmant la création de votre profil. Vous pouvez vous arrêter là et compléter les informations manquantes un autre jour ou continuer selon les écrans proposés pour avancer dans le remplissage de votre profil entreprise.
 * Complétez la description de votre entreprise, ajoutez des images, des liens web...

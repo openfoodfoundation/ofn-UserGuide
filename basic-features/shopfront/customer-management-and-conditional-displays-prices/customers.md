@@ -1,34 +1,27 @@
 # Customer Management
 
-A list of all customers who have placed an order with your enterprise can be viewed from the Customers menu in the admin dashboard.
+## Liste des acheteurs
 
-You can also manually add a customer by the **+New Customer** button.&#x20;
+Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur la page **Acheteurs** (menu principal sur l'interface d'administration).
 
-![](../../../.gitbook/assets/customer1.jpg)
+Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent se voir attribuer un tag, donc être associés à une catégorie d'acheteur donnée.
 
-{% hint style="warning" %}
-Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.\
-_Hence if you have a_ [_private shop_](../private-shopfront.md) _front you will have to manually add all new customers and assign them the correct tag before they can shop._
-{% endhint %}
 
-## Customer Billing and Shipping Address
 
-Each customer can have a default billing and shipping address.  If a customer has a registered OFN account and has completed their details fully their addresses will be copied to this section automatically.\
-Storing a default billing and shipping address can make online purchases quicker for the customer.
+## Adresse de facturation et de livraison par défaut
 
-![](../../../.gitbook/assets/customeraddress.jpg)
+Chaque acheteur peut avoir une adresse de livraison et facturation par défaut. Ainsi le processus d'achat en ligne peut être plus rapide : en effet les champs vont se remplir automatiquement à partir du profil de l'acheteur (il en va de même pour l'administrateur [s'il créer lui même la commande dans le système](broken-reference)).
 
-## Tags (to group customers in to categories)
+Si un acheteur change d'adresse, il peut aussi modifier cette adresse par défaut durant la commande en cochant la case "Sauvegarder comme adresse par défaut" :&#x20;
 
-You can assign your customers to groups and then offer [group-specific pricing and/or product listings](tags-and-tag-rules.md#customer-specific-pricing).
+![](<../../../.gitbook/assets/image (65).png>)
 
-On the OFN platform this is achieved by assigning all customers belonging to a common group (ie all your wholesale customers) the same tag.\
-To add a tag, simply type its name in the 'Tags' column on the Customers page. A customer can have several tags and of course the same tag can be linked to several people.&#x20;
+## Tags (association d'un acheteur à une catégorie donnée)
 
-{% hint style="info" %}
-Careful when you are adding the same tag to multiple customers (so that they belong to a common group) to select the identical word (tags are case sensitive) from the drop down menu on offer.
-{% endhint %}
+Les acheteurs peuvent être associés à des catégories spécifiques, qui vont ensuite permettre des [affichages et prix conditionnels](broken-reference) par catégorie d'acheteur.
 
-![](../../../.gitbook/assets/customertags.jpg)
+Vous pouvez créér une nouvelle catégorie d'acheteur en créant directement un nouveau tag, en l'associant à un acheteur donné. Pour ajouter un tag, il vous suffit de taper ce tag dans la colonne dédiée (menu **Acheteurs**). Un acheteur peut avoir plusieurs tags et bien évidemment un tag peut être lié à plusieurs acheteurs. Pour ce deuxième point, la seconde fois que vous taperez le tag dans la colonne correspondante, il vous sera suggéré via une liste déroulante. Faites bien attention à le sélectionner dans cette liste (les tags sont sensibles à la casse donc à l'usage de majuscules / minuscules).
 
-Tags also appear in [reports](../../reports/). You can use them during csv / excel exports to quickly filter data.
+![](<../../../.gitbook/assets/image (52).png>)
+
+Notez que les tags apparaissent également dans les [rapports](broken-reference). Vous pouvez donc les utilisez lors des exports csv/excel pour filtrer rapidement les données.

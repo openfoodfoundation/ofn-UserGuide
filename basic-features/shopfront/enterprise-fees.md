@@ -15,7 +15,7 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la **consti
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :&#x20;
 
@@ -33,7 +33,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84) (1).png>)
 
 ## Le calculateur
 
