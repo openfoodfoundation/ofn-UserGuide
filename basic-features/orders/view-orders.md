@@ -1,11 +1,15 @@
 # View Orders
 
-Within the admin interface there are two places where orders can be viewed and modified (if necessary):  the [Orders](view-orders.md#listing-orders) page itself, and the [Bulk Order Management](view-orders.md#bulk-order-management) page. \
+Within the admin interface there are two places where orders can be viewed and modified (if necessary):
+
+1. the [Orders](view-orders.md#listing-orders) page itself,
+2. the [Bulk Order Management](view-orders.md#bulk-order-management) page.
+
 The features of both these two pages are discussed below.
 
 ## Listing orders
 
-The listing order page shows a list view of all orders placed through your shop(s). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](create-orders-manually.md).
+The listing orders page shows a list view of all orders placed through your shop(s). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](create-orders-manually.md).
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
@@ -15,22 +19,22 @@ The page has filters which allow you to select which orders you want to view. Yo
 
 **Completed at:** This is the date that the order was placed.
 
-**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol with with word 'Note' to the left of it will show if the customer included a comment with their order at checkout. Hover you mouse above the exclamation mark to view the comment.
+**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol with with word 'Note' to the left of it will show if the customer included a comment with their order at checkout. Hover your mouse above the exclamation mark to view the comment.
 
 **State:**
 
-* Complete- the customer has finished checkout
-* Cancelled- if admin edits the order and chooses to ‘cancel it’
-* Cart- The customer is in the process of shopping, but hasn’t checked out
+* Complete: The customer has finished checkout.
+* Cancelled: If a manager of an enterprise or a customer chose to ‘cancel' it.
+* Cart: The customer is in the process of shopping, but hasn’t checked out yet.
 
 **Payment State:**
 
-* Balance Due- if it’s cash, or bank transfer or eftpos (ie all non automated payments), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'Paid'.
+* Balance Due: If it’s cash, or bank transfer or eftpos (i.e. all non automated payments), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'paid'.
 
 ![](../../.gitbook/assets/balancedue.jpg)
 
-* Paid- For automated payments (PayPal, Stripe, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
-  Non-automated payments (cash, bank transfer etc) will also be marked as 'paid' when manually updated.&#x20;
+* Paid: For automated payments (PayPal, Stripe SCA, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
+  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually.&#x20;
 * Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
 
 ![](../../.gitbook/assets/creditowed.jpg)
