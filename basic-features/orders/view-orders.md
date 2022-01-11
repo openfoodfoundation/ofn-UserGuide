@@ -1,4 +1,4 @@
-# View Orders
+# Manage Orders
 
 Within the admin interface there are two places where orders can be viewed and modified (if necessary):
 
@@ -34,31 +34,31 @@ The page has filters which allow you to select which orders you want to view. Yo
 ![](../../.gitbook/assets/balancedue.jpg)
 
 * Paid: For automated payments (PayPal, Stripe SCA, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
-  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually.&#x20;
-* Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).&#x20;
+* Credit Owed: If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
 
 ![](../../.gitbook/assets/creditowed.jpg)
 
 **Shipment state:**
 
-* Pending- When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready- When payment has been received (paid, or credit owed status) the shipping state becomes ‘ready’.
-* Shipped- After delivery or collection, an order can be manually updated by shop/hub management (edit order) so that the shipment state becomes 'Shipped'.
+* Pending: When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
+* Ready: When payment has been received ('paid', or 'credit owed' status) the shipping state becomes ‘ready’.
+* Shipped: After delivery or collection, an order can be manually marked as 'shipped' by the manager of the enterprise (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).
 
 {% hint style="warning" %}
-You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid' or 'Credit Owed'
+You can ONLY manually update an order to 'shipped' if the payment state is 'paid' or 'credit owed'.
 {% endhint %}
 
 **Customer email:** The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’ [report](../reports/).
 
-**Total:** The total value of the customer’s order
+**Total:** The total value of the customer’s order.
 
 ### **Changing the Payment and Shipment state of an order** <a href="#payment-and-shipment-state" id="payment-and-shipment-state"></a>
 
 Next to each order in the Order list are two icons. Clicking on the edit icon (a pencil and paper symbol) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
 
 * Clicking on the tick icon will change the Payment State to **Paid**.&#x20;
-* Clicking on the road icon will change the Shipment state to **Shipped**
+* Clicking on the road icon will change the Shipment state to **Shipped**.
 
 ![](../../.gitbook/assets/screen-shot-2020-09-24-at-2.53.24-pm.png)
 
@@ -73,7 +73,7 @@ Note that this will capture the full amount of the order as paid. if you want to
 &#x20;&#x20;
 
 {% hint style="info" %}
-The payment and shipping status of an order can also be updated when editing the order (see below).
+The payment and shipping status of an order can also be updated when editing the order (see [below](view-orders.md#editing-an-order)).
 {% endhint %}
 
 {% hint style="danger" %}
@@ -91,7 +91,7 @@ This is what the order management page looks like:
 
 #### **Adding and removing products from an order**
 
-You can add a product to the order by selecting the variant you require from a drop down list of those available (at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear).  To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes (this will also update enterprise, shipping and payment method fees accordingly, where appropriate).
+You can add a product to the order by selecting the variant you require from a drop down list of those available (at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear). To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes (this will also update enterprise, shipping and payment method fees accordingly, where appropriate).
 
 **Changing the Shipping Method**
 
@@ -105,8 +105,8 @@ You then have access to all available shipping methods. Select the one your cust
 
 **Perform Associated Adjustment:**&#x20;
 
-* **YES:** this will update the shipping cost according to the change in method
-* **NO:** this will keep the cost of shipping the same as the method chosen by the customer at checkout.
+* **YES:** This will update the shipping cost according to the change in method.
+* **NO:** This will keep the cost of shipping the same as the method chosen by the customer at checkout.
 
 To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
 
@@ -129,8 +129,6 @@ We hope to bring about updates to correct these aspects. In the meantime you may
 {% endhint %}
 
 * **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
-
-#### ****
 
 #### **View customer details**
 
