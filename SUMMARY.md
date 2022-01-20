@@ -38,7 +38,7 @@
       * [Gestion des acheteurs et regroupement par catégorie](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
       * [Affichages et prix conditionnels selon la catégorie d'acheteurs (tags)](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Boutique en ligne privée](basic-features/shopfront/private-shopfront.md)
-    * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
+    * [Boutique vitrine sans possibilité d’achat](basic-features/shopfront/display-only-order-cycles.md)
   * [Orders](basic-features/orders/README.md)
     * [View Orders](basic-features/orders/view-orders.md)
     * [Create orders manually](basic-features/orders/create-orders-manually.md)

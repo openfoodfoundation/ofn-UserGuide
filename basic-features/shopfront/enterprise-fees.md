@@ -5,7 +5,7 @@ Pour les producteurs vendant leurs propres produits en direct, ces coûts sont d
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la **constitution du prix** d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (61) (1).png>)
 
 
 
