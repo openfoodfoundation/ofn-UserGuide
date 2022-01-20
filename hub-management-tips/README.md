@@ -1,12 +1,11 @@
-# Conseils pour la Gestion de Hubs
+# Conseils aux gestionnaires de boutique
 
-L'équipe d'OFN reconnaît qu'il y a un grand nombre d'aspects à gérer une entreprise alimentaire, l'utilisation efficace de la plateforme OFN étant l'un d'entre eux. C'est pourquoi, dans cette section, en plus d'une série d'astuces basées sur la plateforme, nous avons établi un ensemble de ressources \(notamment sur le marketing et les médias sociaux\) vers lesquelles vous pouvez vous tourner pour obtenir des conseils.
+L'équipe OFN reconnaît qu'il existe un grand nombre d'aspect dans la gestion d'une initiative en circuit court, l'utilisation efficace de la plateforme OFN est l'un d'entre eux !\
+Par conséquent, dans cette section nous visons à créer un ensemble de ressources (y compris autour du marketing est des médias sociaux) vers lesquels vous pouvez vous tourner pour obtenir des conseils.
 
 {% hint style="info" %}
-Cette section est en cours de développement. Veuillez contacter votre équipe d'assistance OFN locale pour lui faire part des domaines dans lesquels vous souhaiteriez bénéficier de plus d'assistance.
+Cette section est en cours de construction, sentez vous libre de contacter les [gestionnaires de la plateforme de votre pays](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) pour leur faire part des sujet sur lesquels vous aimeriez obtenir de l'aide.
 {% endhint %}
-
-
 
 
 
