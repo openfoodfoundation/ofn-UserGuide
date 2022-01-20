@@ -1,51 +1,50 @@
-# Private shopfront
+# Boutique en ligne privée
 
-If you don’t want your shopfront to be visible to the public (ie. you would like to host a shop front from which only members can place orders), there are two ways that you can make your shop more private:
+Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si vous voulez réserver la possibilité de passer commande à certains acheteurs définis (des membres par exemple), il y a deux façon de procéder :&#x20;
 
-* make your shop 'invisible' and only share the shop website address (URL) with your desired customer base
-* make your shop 'private' and only visible to registered customers.
+* Rendre la boutique invisible du grand public et ne partager le lien URL qu'à une liste définie de personnes
+* Rendre la boutique "privée" et limiter l'accès aux acheteurs inscrits dans votre liste d'acheteurs.&#x20;
 
-## Make your shop front invisible
+## Rendre votre boutique invisible du grand public
 
-In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), under Primary Details, you can set your profile to 'invisible'.&#x20;
+Dans les [paramètres du profil](broken-reference), sous "informations de base", vous pouvez cocher le bouton "invisible"
 
-![](../../.gitbook/assets/visibleshop.jpg)
+![](<../../.gitbook/assets/image (77).png>)
 
-When the **Visible in Search?** option is set to 'not visible' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines. \
-Your enterprise will not appear in the "shops" menu nor on the OFN map page.&#x20;
+Votre boutique sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre boutique n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande.&#x20;
 
-The benefit of this method for making your OFN shop front invisible is that you can invite (by email, perhaps), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
+Le bénéfices de cette option, est que vous pouvez inviter (par email par exemple), vos clients en leur envoyant le lien URL direct de votre entreprise.
 
-{% hint style="warning" %}
-However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop (URL) will be able to visit the shop and place an order. &#x20;
+Cela implique que :\
+&#x20;\- si un des destinataire des mailings via lesquels vous partager le lien de la boutique le transfère à une autre personne, cette personne pourra passer commande.\
+\- si vous voulez éviter des commandes de personnes non-membres, il vous faudra vérifier que les commandes sont bien passées uniquement par des membres, et gérer les cas éventuels de commandes autres "manuellement", à posteriori.
+
+{% hint style="info" %}
+De cette façon les personnes qui ne vous connaissent pas ne pourront pas vous découvrir en recherchant sur la carte ou dans la liste des boutiques. Si vous avez déjà trop d'acheteurs, c'est une bonne chose. Sinon, vous vous privez potentiellement d'une source de nouveaux acheteurs / membres.
 {% endhint %}
 
-Hence, if someone on your mailing list forwards an email from you to a friend, the friend can place an order without being a registered customer.  You will need to manually double check that all orders came from registered customers, posteroiri.
+## Limiter l'accès à votre boutique à votre liste d'acheteurs
 
-## Visible to registered customers only
+La deuxième option consiste à laisser la boutique visible, mais que la visualisation du contenu de la boutique et la possibilité de passer commande soit réservé à des acheteurs "reconnus" par le système. En l’occurrence, les individus figurant sur votre liste d'acheteurs.&#x20;
 
-A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option (under Enterprises-> Settings-> Shop Preferences) to **Visible to Registered Customers Only**.
+{% hint style="info" %}
+Cela implique que l'acheteur devra se connecter avant de pouvoir accéder à votre boutique, pour que le système puisse "reconnaître" s'il fait partie de la liste des acheteurs autorisés ou pas.
+{% endhint %}
 
-![](../../.gitbook/assets/Registered-customers-only.png)
+Pour limiter l'accès de votre boutique à votre liste d'acheteurs, vous devez donc maintenir votre liste de vos acheteurs à jour. Pour cela, rendez-vous sur l'interface d'administration, sur le menu "**Acheteurs**" :&#x20;
 
-Whilst your enterprise will be visible in a search of the OFN platform, your customers would need to log into their OFN account in order to view your shop front and the products on offer.  Other registered OFN shoppers, who are not on your customer list, will not be able to see your shop front once logged into their OFN accounts.
+![](<../../.gitbook/assets/image (64).png>)
 
-You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
+Cette liste présente tous les acheteurs qui ont déjà placé une commande via votre boutique. Vous pouvez également ajouter des acheteurs manuellement via le bouton "nouvel acheteur", ou supprimer les acheteurs auxquels vous ne souhaitez plus donner accès à votre boutique.
 
-![](<../../.gitbook/assets/customer1 (1) (1).jpg>)
+Une fois cette opération réalisée, rendez-vous dans le menu **Entreprise** > **Gérer** > **Préférences Boutique :**&#x20;
 
-![](../../.gitbook/assets/Add-new-customer.png)
+![](<../../.gitbook/assets/image (86).png>)
 
-You can also delete customers who you no longer want to be able to see your shop or place an order.
+Et sélectionnez pour "boutique visible par tous?" >  **"visible uniquement pour les acheteurs logués"**.
 
-### How does the shopping experience change when your shop is private?
+{% hint style="info" %}
+Le choix de cette option stricte implique que vous devez ajouter un acheteur AVANT qu'il puisse passer commande. Cela est plutôt adapté pour des groupements d'achat où il faut devenir membre avant de pouvoir passer commande, mais demandera une manipulation manuelle d'ajout préalable à la liste d'acheteur.
+{% endhint %}
 
-When visitors to your shop arrive at the shop, if they're not logged in yet, they'll see the message below.
-
-![](../../.gitbook/assets/privateshop.jpg)
-
-From here there's 2 pathways:
-
-a) If the customer logs in, or signs up with an email address that is on the shop's customer list, they'll be taken to the shopfront as usual.
-
-b) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
+##

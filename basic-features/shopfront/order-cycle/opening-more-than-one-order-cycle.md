@@ -22,4 +22,4 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 
 Il suffit de vous rendre dans le menu Entreprises > Gérer > Préférences boutique :&#x20;
 
-![](<../../../.gitbook/assets/image (86).png>)
+![](<../../../.gitbook/assets/image (86) (1).png>)
