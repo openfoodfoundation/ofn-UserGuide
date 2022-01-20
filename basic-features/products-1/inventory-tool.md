@@ -19,7 +19,7 @@ Vous avez deux options :&#x20;
 
 Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendamment.&#x20;
 
-![](<../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
@@ -37,11 +37,11 @@ Pour rappel, si l'option choisie dans les [paramètres](broken-reference) est qu
 
 ## Produits du Catalogue Boutique
 
-![](<../../.gitbook/assets/image (37) (1).png>)
+![](<../../.gitbook/assets/image (37) (1) (1).png>)
 
 Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis.&#x20;
 
-![](<../../.gitbook/assets/image (71) (1) (1).png>)
+![](<../../.gitbook/assets/image (71) (1) (1) (1).png>)
 
 ### Modifier pour votre boutique les prix, stocks et références produits
 
@@ -76,7 +76,7 @@ N'oubliez pas de sauvegarder vos modifications !
 
 La liste des produits que vous avez décidé de masquer se trouve ici :&#x20;
 
-![](<../../.gitbook/assets/image (45) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 

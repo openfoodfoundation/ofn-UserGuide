@@ -1,259 +1,209 @@
-# View Orders
+# Gestion des commandes
 
-Within the admin interface there are two places where orders can be viewed and modified (if necessary):  the [Orders](view-orders.md#listing-orders) page itself, and the [Bulk Order Management](view-orders.md#bulk-order-management) page. \
-The features of both these two pages are discussed below.
+Le menu "commandes" est divisé en deux sous menu sur Open Food Network : la page "commandes" et la page "gestion des commandes par lot". Cette partie du guide traite des deux pages.
 
-## Listing orders
+## Liste des commandes
 
-The listing order page shows a list view of all orders placed through your shop(s). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](create-orders-manually.md).
+Cette page liste toutes les commandes passées sur la plateforme pour votre /vos boutique(s). A partir de cette page, vous pouvez accéder aux détails de chaque commande, les modifier et suivre le statut du paiement et de l'expédition. Pour savoir comment passer manuellement une commande pour le compte d'un acheteur depuis l'interface d'administration, cliquez [ici](broken-reference).
 
-The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
+Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande(s) recherchée(s). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
-![](<../../.gitbook/assets/view orders.jpg>)
+![](<../../.gitbook/assets/image (45).png>)
 
-**Distributor:** This is the enterprise through who's shop the order was placed.
+**Distributeur :** Il s'agit de l'entreprise (distributeur) via laquelle les commandes recherchées ont été passées.
 
-**Completed at:** This is the date that the order was placed.
+**Date :** Il s'agit de la date à laquelle la commande a été passée.
 
-**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol with with word 'Note' to the left of it will show if the customer included a comment with their order at checkout. Hover you mouse above the exclamation mark to view the comment.
+**N° commande :**  Numéro attribué de manière aléatoire au moment de la commande. Si un petit panneau avec un point d'exclamation figure à côté de ce numéro, cela signifie que l'acheteur a ajouté une note au moment de sa commande. Passez votre souris sur le symbole pour afficher la note.&#x20;
 
-**State:**
+**Statut :**
 
-* Complete- the customer has finished checkout
-* Cancelled- if admin edits the order and chooses to ‘cancel it’
-* Cart- The customer is in the process of shopping, but hasn’t checked out
+* Finalisée - le client est allée jusqu'au bout de la commande, qui a bien été passée
+* Annulée - le gestionnaire du hub a annulé la commande
+* Panier - le client a commencé à passer commande mais n'est pas allé jusqu'au bout, la commande n'a pas été passée
 
-**Payment State:**
+**Statut du paiement** **:**
 
-* Balance Due- if it’s cash, or bank transfer or eftpos (ie all non automated payments), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'Paid'.
+* Solde dû - pour les paiements non automatisés (paiements en liquide, chèque, par virement bancaire) le statut du paiement sera par défaut "solde dû", jusqu'à ce que le gestionnaire de la boutique capture manuellement le paiement de la commande.&#x20;
+* Payé - pour les paiements automatisés (Paypal, Stripe) le statut sera automatiquement "payé" au passage de la commande, le portail de paiement renvoyant l'information de la validation du paiement à la plateforme. En cas de paiement en liquide / chèque / virement bancaire, une fois que le gestionnaire a capturé le paiement, le statut s'affiche également comme "payé".&#x20;
+* Crédit acheteur - si l'acheteur a réglé sa commande mais qu'ensuite cette dernière a été modifiée et qu'un/des produits ont été supprimés, il y a donc un trop perçu pour le hub par rapport au nouveau montant de la commande. Le hub doit de l'argent à l'acheteur pour cette commande.&#x20;
 
-![](../../.gitbook/assets/balancedue.jpg)
+**Statut livraison :**
 
-* Paid- For automated payments (PayPal, Stripe, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
-  Non-automated payments (cash, bank transfer etc) will also be marked as 'paid' when manually updated.&#x20;
-* Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
-
-![](../../.gitbook/assets/creditowed.jpg)
-
-**Shipment state:**
-
-* Pending- When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready- When payment has been received (paid, or credit owed status) the shipping state becomes ‘ready’.
-* Shipped- After delivery or collection, an order can be manually updated by shop/hub management (edit order) so that the shipment state becomes 'Shipped'.
+* En attente - Lorsque le statut du paiement est "solde dû", le statut de livraison sera en attente (tant que le paiement n'est pas reçu, la livraison ne peut pas démarrer __ dans un modèle de e-commerce classique. Ce processus n'a pas encore été adapté pour le fonctionnement des hubs alimentaires.)
+* Prêt - Lorsque le paiement est reçu (statut "payé" ou "crédit acheteur"), la livraison peut être effectuée (idem, schéma traditionnel en e-commerce non encore adapté).&#x20;
+* Envoyé - Lorsque le gestionnaire capture l'expédition de la commande, le statut s'affiche comme "envoyé".&#x20;
 
 {% hint style="warning" %}
-You can ONLY manually update an order to 'Shipped' if the payment state is 'Paid' or 'Credit Owed'
+Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"
 {% endhint %}
 
-**Customer email:** The customer’s contact email. A full list of customer emails can be downloaded in the ‘mailing list’ [report](../reports/).
+**Email acheteur** **:** Il s'agit de l'email de l'acheteur. Une liste complète des emails des acheteurs peut être téléchargée via le [rapport](broken-reference) "Acheteurs / liste de mails".
 
-**Total:** The total value of the customer’s order
+**Total :** Le montant total de la commande.
 
-### **Changing the Payment and Shipment state of an order** <a href="#payment-and-shipment-state" id="payment-and-shipment-state"></a>
+## **Modifier le statut de paiement ou de livraison d'une commande**
 
-Next to each order in the Order list are two icons. Clicking on the edit icon (a pencil and paper symbol) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
+A droite des lignes de commande, vous pouvez opérer deux actions rapides via les boutons suivants :
 
-* Clicking on the tick icon will change the Payment State to **Paid**.&#x20;
-* Clicking on the road icon will change the Shipment state to **Shipped**
+**Capturer le paiement** :&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 2.53.24 PM.png>)
+Cliquez sur l’icône "check" pour capturer le paiement de la commande (montant exact)
 
-#### Capturing a Payment
+![](<../../.gitbook/assets/image (68).png>)
 
-Capturing a payment will mark it as received. This is helpful if customers do not pay when they order. When you receive cash or a bank transfer from the customer, you can then go in to the Order Listing and capture the payment. To quickly capture a payment as received, or mark that an order has been shipped, you can click on the tick or road icons to the right of the order in the Order List. &#x20;
+Capturer le paiement permettra de l'indiqué comme reçu, ce qui est utile lorsque l'acheteur n'a pas payé au moment de la commande mais ultérieurement. Si vous souhaitez revoir les détails du paiement avant de capturer le paiement, vous pouvez cliquer sur le bouton éditer puis sélectionner paiement pour consulter le montant dû et cliquer sur l’icône "check" pour le capturer le paiement et l'indiquer comme reçu.
 
-Note that this will capture the full amount of the order as paid. if you want to review the order details before capturing a payment, you can select the edit icon to the right of the Order you wish to review. In the Order Details screen, click on Payments to see the Balance owing and Payment Status for this order. From here you can click on the tick to capture the payment. Once captured, the Payment Status will change to Completed.
+![](<../../.gitbook/assets/image (71).png>)
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 2.42.12 PM.png>)
+**Capturer la commande comme étant expédiée :**&#x20;
 
-&#x20;&#x20;
+Cliquez sur l’icône "route" pour capturer que la commande a été expédiée
 
-{% hint style="info" %}
-The payment and shipping status of an order can also be updated when editing the order (see below).
-{% endhint %}
+![](<../../.gitbook/assets/image (82).png>)
 
 {% hint style="danger" %}
-When a shop or hub manager updates the 'Shipment state' to 'shipped' _**this will automatically send the customer an email**_ to say that their products have been shipped, irrespective of the shipping method. Hence it can cause confusion for orders due to be collected (rather than shipped).\
-Another source of potential confusion to be aware of is when customers pay for an order on collection. Updating the payment (and then shipping) status of the order after the goods have been collected will send an email to the customer, even though they have their goods in practice.
+Attention ! La notification de l'expédition par le gestionnaire de hub entraîne l'envoi d'un email à  l'acheteur concerné lui disant que le produit a été expédié et qu'il le recevra sous peu. Si le mode de livraison est de type "retrait", cela peut être perturbant pour l'acheteur. Voir même, si le gestionnaire capture le paiement a posteriori du retrait des produits, et veut marquer la commande comme envoyée, l'acheteur recevra ce message après avoir réceptionné les produits. Soyez donc vigilants et n'utiliser la fonctionnalité de notification de l'expédition que dans les cas appropriés.
 {% endhint %}
 
-### **Editing an order**
+Remarque : le statut de paiement et de livraison peut aussi être modifié depuis la page de modification / gestion d'une commande (voir paragraphe suivant).
 
-To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel an order.
+## **Modifier une commande**
 
-This is what the order management page looks like:
+A droite de la ligne de commande, le bouton suivant vous permet d'accéder à la page de modification / gestion générale de la commande
 
-![](../../.gitbook/assets/order1.jpg)
+![](<../../.gitbook/assets/image (76).png>)
 
-#### **Adding and removing products from an order**
+Vous pouvez aussi y accéder en cliquant sur le numéro de commande depuis le tableau.
 
-You can add a product to the order by selecting the variant you require from a drop down list of those available (at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear).  To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes (this will also update enterprise, shipping and payment method fees accordingly, where appropriate).
+Voici l'affichage de la page de gestion d'une commande :&#x20;
 
-**Changing the Shipping Method**
+![](<../../.gitbook/assets/image (79).png>)
 
-A customer may contact you and ask to have their groceries delivered rather than collect. You can edit the shipping method assigned to the order by selecting the edit symbol to the right of the shipping method:
+#### **Ajouter et supprimer des produits d'une commande**
 
-![](../../.gitbook/assets/editshipping2.jpg)
+Vous pouvez ajouter un produit en sélectionnant la variante concernée (vous devez taper les trois premières lettre pour que les options de variantes disponibles apparaissent). Pour supprimer un produit, il suffit de cliquer sur le petit icône poubelle à côté de la ligne du produit. Vous pouvez aussi modifier les quantités commandées. N'oubliez pas de bien cliquer sur le bouton "**mettre à jour et recalculer les frais"** pour sauvegarder vos modifications et mettre à jour le calcul des marges associées à la commande.
 
-You then have access to all available shipping methods. Select the one your customer wishes to change to. &#x20;
+#### Diverses fonctionnalités sont disponibles via le bouton "actions"
 
-![](../../.gitbook/assets/editshipping1.jpg)
+![](<../../.gitbook/assets/image (52).png>)
 
-**Perform Associated Adjustment:**&#x20;
-
-* **YES:** this will update the shipping cost according to the change in method
-* **NO:** this will keep the cost of shipping the same as the method chosen by the customer at checkout.
-
-To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
-
-**Additional options available under 'Actions'**
-
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 3.20.25 PM.png>)
-
-* **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
-* **Send Invoice**: This will automatically send the customer an invoice (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
-*   **Print Invoice:** This will generate the invoice in the form of a pdf for printing.
-
-
-* Below is an example of the invoice that is generated:
-
-![](../../.gitbook/assets/invoicenew.jpg)
+* **Renvoyer la confirmation :** Si vous avez modifié le contenu d'une commande, il peut être pertinent de renvoyer une nouvelle confirmation de commande - mise à jour - à l'acheteur.
+* **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
 
 {% hint style="danger" %}
-Please check regional regulations regarding the information legally required to be on an invoice.  Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.\
-We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
+Attention : ce document appelé "facture" doit pour la Belgique être modifié pour respecter les obligations légales françaises concernant le numéro de facture. Ici, le numéro de facture est le numéro de commande. La réglementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
 {% endhint %}
 
-* **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
+* **Imprimer la facture** : Cette action entraîne la génération d'un PDF à imprimer
+* **Imprimer ticket de caisse** : Cette action entraîne l'impression du ticket de caisse de la commande via l'imprimante thermique connectée à l'ordinateur ([voir page concernée](broken-reference))
+* **Choisir imprimante tickets** : Cette action permet de choisir l'imprimante thermique sur laquelle seront imprimés les tickets de caisse ([voir page concernée](broken-reference))
+* **Annuler la commande** : Cette action permet d'annuler la commande
 
-#### ****
+#### Voir les informations acheteurs
 
-#### **View customer details**
+Les informations acheteur (email, adresses de facturation et livraison) sont accessibles depuis le menu de droite.
 
-Customer information (email, billing, shipping addresses and phone numbers) are accessible from the menu on the right of the page:
+![](<../../.gitbook/assets/image (77).png>)
 
-![](../../.gitbook/assets/ordermenu.jpg)
+**Modifier le montant d'une commande**
 
-#### **Modify an Order or Record Partial Payment**
+Cliquez sur "ajustements" (cf capture ci-dessus). Sur cette page vous pouvez ajouter ou supprimer des montants selon votre guise en cliquant sur "nouvel ajustement". Cela vous permet par exemple d'accorder une remise sur une commande car les produits étaient abîmés, ou de prendre en compte un avoir accordé sur une commande précédente.
 
-Click on 'Adjustments' in the right hand menu (screen shot above).  On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
+Un ajustement peut aussi servir à capturer un remboursement effectué à un acheteur sur une commande. Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet.](broken-reference)
 
-![](../../.gitbook/assets/orderadjust.jpg)
+#### Capturer un paiement partiel
 
-You may wish to use this functionality to:
+Un paiement partiel par exemple peut être capturer via le menu "paiement" en sélectionnant "nouveau paiement", ce qui ne peut pas être fait par l'action rapide de capture du paiement via l'icône "check".
 
-* grant a discount on an order if a product is damaged
-* deduct credit owed to the customer from their total balance
-* refund a customer&#x20;
-* record a partial payment
-* see [Refunding and Adjusting Payments](refunds-and-adjusting-payments.md) for more information about making adjustments to orders
+## Impression des factures par lot
 
-### Batch Print Invoices
+Il est possible de sélectionner les commandes visibles sur la page (vous pouvez utiliser l'outil de sélection pour afficher jusqu'à 100 commandes) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures".
 
-To save time you can print multiple invoices at once (rather than visiting each order in turn and selecting Actions-> Print Invoice).\
-On the Listing Orders page check the box to the left of orders for which you would like to send an invoice. You can increase the number of orders per page from 15 to 100 and select all at once, if desired.\
-Then click 'Print Invoices' button to the top right of the table:
+Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :&#x20;
 
-![](../../.gitbook/assets/batchprint1.jpg)
-
-A Loading page will pop up while the invoices are generated. On completion you will be able to view (and download) a file containing all the invoices for the orders selected:
-
-![](../../.gitbook/assets/compileinvoice.jpg)
+![](<../../.gitbook/assets/image (84).png>)
 
 {% hint style="info" %}
-By default the invoices selected will be printed in sequence in which the orders were completed.
+Par défaut, les commandes seront classées par date de commande. Vous pouvez également les classer par une autre variante (statut livraison, statut du paiement, etc.) en sélectionnant la variante souhaitée.
 {% endhint %}
+
+## Gestion des commandes par lot
+
+La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit (changement de quantité, produit en rupture, etc). La page se présente la manière suivante :&#x20;
+
+![](<../../.gitbook/assets/image (80).png>)
+
+**Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produits en fonction des dates de commandes.
+
+**Producteur :** Vous pouvez filtrer sur un producteur en particulier.
+
+**Boutique** **:** Vous pouvez filtrer sur une boutique en particulier (comme sur la capture ci-dessus).
+
+**Cycle de vente** **:** Vous pouvez filtrer sur un cycle de vente en particulier.
+
+**Quick Search :** Sans aller jusqu'à l'utilisation des filtres, vous pouvez aussi tout simplement taper un mot-clé dans ce champ (cela peut être le nom d'un acheteur ou d'un produit).
+
+**Actions :** En cochant les cases à gauche des lignes, vous pouvez appliquer des modifications en masse en passant par le bouton action (ex : vous souhaitez supprimer toutes les commandes liées à un produit).
+
+**Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes qui vous sont utiles (voir ci-dessous).
+
+![](<../../.gitbook/assets/image (75).png>)
+
+Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
 {% hint style="info" %}
-To print invoices only for those orders associated with a specific Shipping Method (or collection point) then sort by 'Shipping Method' prior to batch printing.
+La colonne prix indique le prix TTC hors marges et commissions. Les marges et commission sont recalculées à chaque modification de la commande.&#x20;
 {% endhint %}
 
-## Bulk order management
+### Quelques exemples d'utilisation de la fonction gestion des commandes par lot
 
-We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. The Bulk Order Management page, on the other hand, details all the products that were purchased in your orders. This functionality is useful for modifying multiple orders at once that may contain the same product (quantity change, product out of stock etc). The page looks like:
+#### Exemple 1: Vous avez un cas de listeria sur vos fromages de chèvres et ne pourrez donc pas assurer la livraison pour le cycle à venir.
 
-![](../../.gitbook/assets/bom3.jpg)
+Vous avez donc besoin d'identifier les clients ayant commandé du fromage de chèvre et modifier leurs commandes.
 
-**Start/End Date:** You can filter to display all orders that were placed within a given window of time.
+Les étapes seront les suivantes :
 
-**Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one producer.
+1. Filtrez en fonction de la date ou du cycle de vente en cours
+2. Tapez "chèvre" en mot-clé : toutes les commandes avec du fromage de chèvre apparaissent.
+3. Cliquez sur "fromage de chèvre" dans la colonne "produit : unité"
+4. Un message apparaît en haut de page avec la quantité totale commandée :&#x20;
 
-**Shop:** You can filter according to the shop at which the order was placed.
 
-**Order Cycle:** Perhaps the most useful filter, the order cycle filter, will display only those orders which were placed within a selected order cycle.
 
-**Quick Search:** Before or after applying filters, you can narrow your search down even further by searching for a key word. This could be a name, product, hub, producer, date, order number…
+Vous pouvez alors ajuster la quantité, dans la colonne quantité, ou supprimer des produits. Le total affiché au-dessus se modifiera automatiquement en conséquence. Il peut s'avérer pertinent d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
-**Actions:** You can select the check boxes of multiple orders (left hand column), to perform the same function to all of them, such as delete.
+#### **La case à cocher "ressource partagée"**&#x20;
 
-**Columns:** You can select which fields you do or do not want to be displayed in the table:
+Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par variante. Dans l'exemple ci-dessous, on voit que les variantes "1kg" et "3kg" du produit carotte sont bien affichées. ****&#x20;
 
-![](../../.gitbook/assets/bomcol.jpg)
+![](<../../.gitbook/assets/image (41).png>)
 
-{% hint style="success" %}
-Rows ('Name', 'Producer', 'Product: Unit') can be sorted according to their content by clicking on the relevant column heading: one click for sorting A-Z, two clicks for the reverse (Z-A).
-{% endhint %}
+#### Exemple 2: Vous souhaitez modifier le poids final des produits livrés (produits non calibrés).
+
+C'est particulièrement vrai lorsque vous vendez de la viande ou certains légumes (comme des potimarrons) ou fromages non calibrés : vous ne savez pas à l'avance le poids final du produit qui sera remis à l'acheteur.
+
+Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
+
+1. Filtrez par date ou cycle de vente
+2. Recherchez le produit désiré
+3. Rendez les colonnes "Poids/Volume" et "Prix" visibles
+4. Modifiez les valeurs de poids (le prix changera automatiquement) dans la colonne correspondante
+5. Cliquez sur "mettre à jour" dans la barre de bas de page
+
+![](<../../.gitbook/assets/image (62).png>)
+
+## Vue acheteur des commandes
+
+Vos acheteurs peuvent voir l'historique de leurs commandes ainsi que les soldes créditeurs/débiteurs, depuis leur compte. ****&#x20;
+
+![](<../../.gitbook/assets/image (81).png>)
+
+Votre acheteur verra l'historique de ses commandes dans toutes les boutiques de la manière suivante :&#x20;
+
+![](<../../.gitbook/assets/image (85).png>)
 
 {% hint style="warning" %}
-The **Price** column indicates price of an item including tax but excluding fees (enterprise, shipping or payment method fees).  Fees are recalculated each time an order is modified.
+Comme vous pouvez le voir, l'acheteur verra à tout moment son solde courant dans votre boutique. Si vous ne capturez pas les paiements à l'issue d'un cycle de vente, les sommes dues vont s'accumuler, alors que l'acheteur aura en fait bien réglé ses commandes. Cela peut prêter à confusion pour l'acheteur, nous vous invitons donc à capturer les paiements de manière rigoureuse.
 {% endhint %}
 
-### Examples of using Bulk Order Management:
-
-#### Example 1: You have a stock shortage, and must reduce customer order quantities for a certain product.
-
-_In your current order cycle, customers placed orders for 20kg of tomatoes. Unfortunately there was a storm, and you were only able to harvest 10kg. You need to identify all customers who ordered tomatoes, and half their orders for tomatoes._
-
-This can be done in bulk order management, as follows:
-
-1. Filter according to the date range, or current order cycle.
-2. Search for ‘tomatoes’. All orders for tomatoes within the date range/order cycle you selected will now display.
-3. Click on the product ‘Tomatoes’ in the Product:Unit column.
-4. A box will appear at the top of the page, showing the total quantity ordered (across the date range/order cycle you’ve selected).
-
-![](../../.gitbook/assets/bomtom1.jpg)
-
-You can then adjust the quantity (or delete products) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders. &#x20;
-
-{% hint style="danger" %}
-No automated email will be sent to customers after you have adjusted their orders. It is good practice though, to manually do so else the customer may be disappointed on collection/delivery.
-{% endhint %}
-
-Here, the amount of tomatoes allocated to each order has been reduced to meet the total available of 10kg:
-
-![](../../.gitbook/assets/bomtom3.jpg)
-
-#### **The ‘Shared Resource’ checkbox**
-
-This checkbox allows you to make adjustments to all variants of the same product at once. For example, you may retail tomatoes in 1kg and 3kg bags. By selecting 'Shared Resource' you will be able to edit the quantities of both variants ordered at once.
-
-![](../../.gitbook/assets/bomtomshared.jpg)
-
-#### Example 2: Updating the final weight of products.
-
-When selling indivisible products such as legs of lamb, or whole pumpkins, you may not know the final weight and price of the product until after the customer has placed their order. (Read more [here](../products-1/pricing-irregular-items-kg.md).) You can use Bulk Order Management to update the item’s exact weight once you have the product in front of you.
-
-For the example of a 1kg fish:
-
-1. Filter for the order cycle or date range of interest.
-2. Search for the desired product
-3. Make the **Weight/Volume** and **Price** columns visible.
-4. Enter the actual weight of the fish that each customer will receive in the weight/volume column. The price will automatically recalculate based on this weight.
-5. Click update.
-
-![](../../.gitbook/assets/bomfish.jpg)
-
-## A **Customer’s view of their order**
-
-Your customers can view a list of their orders when they login to the OFN, and click on their account (see below).
-
-![](../../.gitbook/assets/Account-login.png)
-
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop (and any others on OFN where they have placed an order).&#x20;
-
-![](../../.gitbook/assets/Orders.png)
-
-{% hint style="warning" %}
-For non-automated payments (cash, cheque, bank transfer etc) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order). \
-_**If payments are not updated regularly by a shop/hub manager this can be confusing to your customers as they may have in fact paid but it won't be documented above.**_
-{% endhint %}

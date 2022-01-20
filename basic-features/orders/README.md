@@ -1,9 +1,8 @@
-# Orders
+# Commandes
 
-Once your shop is online \(ie you have an active [Order Cycle](../shopfront/order-cycle/)\) , customers are able to place orders. This section explains how to: 
+Une fois votre boutique en ligne, vos acheteurs passent commande. Cette rubrique vous expliquer comment :
 
-* [manage and modify orders](view-orders.md)
-* [create orders manually for customers](create-orders-manually.md)
-* [adjust payments](refunds-and-adjusting-payments.md) \(refunds etc\)
-* print [receipts](thermally-printed-receipts.md).
-
+* [gérer / modifier les commandes reçues](broken-reference)
+* [en créer manuellement de nouvelles depuis l'interface administrateur](broken-reference)
+* [ajuster les paiements (remboursements, prélèvements complémentaires)](broken-reference)&#x20;
+* ou encore [comment imprimer un ticket de caisse](broken-reference) pour une commande donnée.

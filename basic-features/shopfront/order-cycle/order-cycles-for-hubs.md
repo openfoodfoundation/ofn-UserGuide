@@ -10,7 +10,7 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :&#x20;
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](<../../../.gitbook/assets/image (78) (1).png>)
 
 Puis cliquez sur "Nouveau cycle de vente" :&#x20;
 
@@ -70,7 +70,7 @@ Cliquez sur "créer" pour créer le cycle de vente. Si la date d'ouverture est d
 
 Si votre cycle de vente se répète de manière périodique et régulière, vous pouvez dupliquer un cycle de vente passé afin d'aller plus vite (bouton orange sur la capture, attention il n'est pas orange sur la plateforme) :
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsqu'ils sont en attente d'ouverture (date de début pas encore passée) et gris lorsqu'ils sont fermés. Un mois après sa fermeture le cycle de vente n’apparaîtra plus dans cette liste, il faudra cliquer sur "voir plus" pour voir tous vos cycles de vente.
 

@@ -24,7 +24,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 
-![](<../../.gitbook/assets/image (52) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 &#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
@@ -55,7 +55,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 3\. Cliquez sur "mettre à jour" l'accès API:
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 4\. Sélectionnez "Manage API credentials":
 
@@ -63,7 +63,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 De là vous pouvez accéder au username de l'API, le mot de passe et la signature :&#x20;
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (80) (1).png>)
 
 5\. Sur Open Food Network, assurez-vous d'être connecté en tant que gestionnaire de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement (voir ci-dessus). Sélectionnez Paypal et intégrer les informations :&#x20;
 
