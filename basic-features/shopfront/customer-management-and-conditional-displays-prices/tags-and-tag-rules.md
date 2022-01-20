@@ -58,7 +58,7 @@ Cette règle permet de réserver certaines méthodes de paiement à certaines ca
 
 Cette règle permet de réserver l'accès à un cycle de vente de la boutique uniquement à certains acheteurs. Par exemple, un maraicher va créé un second cycle de vente pour les acheteurs professionnels, avec des marges différentes de celles appliquées aux particuliers, et souhaite que ce cycle de vente ne soit visible que pour les acheteurs pro bien sûr. Pour cette règle, il faudra donc associer un tag aux cycles de vente concernés. Dans l'exemple ci-dessous, le cycle de vente est taggé "pro". On pourrait créer une règle par défaut disant que les cycles de vente taggés "pro" sont invisibles, et ensuite les rendre visibles pour les acheteurs taggés "pro".
 
-![](broken-reference)
+![](<../../../.gitbook/assets/image (54).png>)
 
 {% hint style="warning" %}
 Cette règle de tag n'est possible que pour les boutique de type "hub", pas pour les boutique producteur simple (producteur vendant uniquement ses produits)

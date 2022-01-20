@@ -111,7 +111,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 **CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici :&#x20;
 
-![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
