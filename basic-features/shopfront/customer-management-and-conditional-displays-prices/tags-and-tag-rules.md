@@ -40,19 +40,19 @@ Balayons chacune de ces options une par une.
 
 Cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs. Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](broken-reference) et pas dans le catalogue du producteur concerné. Dans l'exemple ci-dessous, la variante "carottes par 3kg" est taggée "vip", et on pourrait créé une règle disant que par défaut, les variantes taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-![](broken-reference)
+![](<../../../.gitbook/assets/image (85).png>)
 
 #### Afficher ou masquer les méthodes de livraison lors de la finalisation de la commande
 
 Cette règle permet de réserver certaines méthodes de livraison à certaines catégories d'acheteurs. Pour cette règle, il faudra donc associer un tag aux méthodes de livraison concernées. Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de livraison taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-![](broken-reference)
+![](<../../../.gitbook/assets/image (53).png>)
 
 #### Afficher ou masquer les méthodes de paiement lors de la finalisation de la commande
 
 Cette règle permet de réserver certaines méthodes de paiement à certaines catégories d'acheteurs, par exemple un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels. Pour cette règle, il faudra donc associer un tag aux méthodes de paiement concernées. Dans l'exemple ci-dessous, la méthode de paiement "Paiement sur facture" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de paiement taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.&#x20;
 
-![](broken-reference)
+![](<../../../.gitbook/assets/image (82).png>)
 
 #### Afficher ou masquer les cycles de vente de ma boutique
 

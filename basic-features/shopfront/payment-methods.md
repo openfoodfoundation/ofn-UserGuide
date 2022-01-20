@@ -105,7 +105,7 @@ Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué
 
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (85) (1).png>)
 
 #### Le paiement via Stripe pour les acheteurs
 
@@ -133,7 +133,7 @@ Les frais du mode de paiement ne comprennent pas les taxes (TVA).
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commission pour les objets 3 et 4.
 

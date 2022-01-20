@@ -62,7 +62,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 | available\_on       | Non          | Laissez vide                                                                                                                                                     | ​                                                         |
 | on\_demand          | Non          | Si vous avez un stock infini du produit, indiquez 1 et si vous utilisez la colonne on\_hand laissez vide                                                         | 1                                                         |
 | shipping\_category  | Oui          | Les conditions de transport disponibles sont listées sur la page d'import produit. Veuillez indiquer ici les conditions de transport du produit (réfrigéré, ...) | ​Produits réfrigérés                                      |
-| tax\_category       | Non          | Si le prix de votre produit inclus de la TVA, indiquez TVA plus pourcentage sinon laissez vide                                                                   | TVA 5.5%                                                  |
+| tax\_category       | Non          | Si le prix de votre produit inclus de la TVA, indiquez TVA plus pourcentage sinon laissez vide                                                                   | TVA 5,5%                                                  |
 | description         | Non          | Vous pouvez créer une description mais pas la mettre à jour pour l'instant.                                                                                      | Ces carottes sont lavées par nos soins avant la livraison |
 
 ### Les variantes
