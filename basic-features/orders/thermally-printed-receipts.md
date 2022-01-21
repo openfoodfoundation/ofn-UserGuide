@@ -1,31 +1,37 @@
-# Thermally printed receipts
+# Impression de tickets de caisse
 
 {% hint style="danger" %}
-This functionality is currently only available to OFN users in France. Contact your local OFN for more details, or to request use of this feature.
+Cette fonctionnalité n'est pas compatible avec la législation française sur les tickets de caisse. Si vous souhaitez utiliser un logiciel de caisse connecté à votre boutique, Coopcircuits a développé une intégration avec le logiciel open source Pastèque. Contactez support@coopcircuits.fr pour plus d'information.\
+\
+Suivez ce guide uniquement si vous n'êtes pas assujetti à la règlementation en vigueur en France ou si vous souhaitez imprimer de petits récapitulatifs de commandes, sans en faire l'usage sous forme de ticket de caisse.
 {% endhint %}
 
-## Printer
+## Quelle imprimante ?
 
-What printer do I need to print a “receipt”, like the one you usually get in a store? You need a thermal printer that talks ESC/P control language \(most of them do\).
+Pour imprimer un ticket de caisse, vous avez besoin d'une imprimante spécifique dite "imprimante thermique", capable de parler le langage de contrôle ESC/P (la plupart des imprimantes thermiques parlent ce langage).&#x20;
 
-For instance:
+Par exemple :\
+\-  Epson one (utilisée communément par les commerçants)). Disponible en ligne pour environ 150€\
+\- Une imprimante thermique premier prix coute entre 15€ et 50€ sur internet. \
+\
+Paramétrage du système
 
-Epson one \(most common in shops\). Available on Amazon for approx USD $135  
-Low cost no-name one \(USD $33\): Available on Amazon for approx USD $33
+Comment paramétrer ma machine pour pouvoir imprimer un ticket de caisse depuis le site Open Food Network ?
 
-## Setup
+Vous devez d'abord installer l'imprimante thermique en suivant les instructions correspondantes à votre système d'exploitation données par le fournisseur (pour les imprimantes USB, vous n'aurez peut-être pas à préciser l'URI, mais assurez-vous d'avoir les drivers nécessaires).
 
-How do I setup my machine to be able to print receipts from the OFN?
+Ensuite, vous devez installer QZ Tray qui est un plug-in pour imprimante qui lancera automatiquement l'impression du ticket sans que vous n'ayez à sélectionner l'imprimante et cliquer sur "imprimer" à chaque fois que vous lancer une impression. Vous pouvez télécharger QZ Tray [depuis ce site](https://qz.io/download/#).
 
-First you need to install the printer by following the instructions for your operating system provided by your supplier.  \(For an USB printer you might not have to specify the URI; just make sure you use the relevant driver.\)
+Lancer QZ Tray s'il ne se lance pas automatiquement, puis ouvrez la page "print\_ticket.html” dans votre navigateur. Les certificats ne fonctionneront pas mais vous pourrez imprimer une page test.&#x20;
 
-Then you need to install QZ Tray which is a plug-in for printers that will launch the printing of the receipt without you having to select the printer and click on “print”. You can download the QZ Tray [from this site](https://qz.io/download/#).
+## Imprimer un ticket
 
-Launch QZ Tray if it didn’t launch automatically. Then open the page “print\_ticket.html” in your browser, digital certificates will not work but you will be able to print a test page.
+Rendez-vous dans le menu "Commandes" et cliquez sur le bouton vous permettant de modifier une commande. Ensuite sous le bouton "actions" vous trouverez l'action "imprimer le ticket de caisse". Cliquez dessus. \
+\
 
-## Printing receipts in OFN
 
-Click orders in the blue menu, click on a customer order. Under the actions menu you will see print receipt. Click on it. A new tab should open, after allowing the communication with QZ Tray it will show a list of your printers, select the thermal one and it will print the receipt.
+![](<../../.gitbook/assets/image (64).png>)
 
-The selected printer will be saved in your browser, if you wish to change it there is a button for this under the same “actions” menu as for printing the receipt.
+Une nouvelle fenêtre va s'ouvrir et vous pourrez sélectionner votre imprimante.
 
+L'imprimante sélectionnée sera sauvegardée dans votre navigateur.  Si vous souhaitez modifier ce choix, au sein du même bouton actions vous trouverez toujours pas la suite le menu "Choisir l'imprimante tickets", afin de modifier votre choix d'imprimante.

@@ -21,7 +21,7 @@ Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag**
 
 Par défaut, tout est visible pour tout le monde, tagué ou pas. Vous pouvez modifier les règles d'affichage par défaut en cliquant sur "ajouter une règle par défaut". Par exemple, vous pouvez dire que par défaut, tous les cycles de ventes taggés "privés" sont invisibles (et vous les rendrez ensuite visibles pour certaines catégories d'acheteurs uniquement, dans l'exemple ci-dessous, pour les acheteurs qui ont le tag "VIP").
 
-![](<../../../.gitbook/assets/image (64) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1).png>)
 
 ### Les règles de tags
 
