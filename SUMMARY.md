@@ -41,7 +41,7 @@
     * [Boutique vitrine sans possibilité d’achat](basic-features/shopfront/display-only-order-cycles.md)
   * [Commandes](basic-features/orders/README.md)
     * [Gestion des commandes](basic-features/orders/view-orders.md)
-    * [Create orders manually](basic-features/orders/create-orders-manually.md)
+    * [Création de commande gestionnaire](basic-features/orders/create-orders-manually.md)
     * [Refunds and Adjusting Payments](basic-features/orders/refunds-and-adjusting-payments.md)
     * [Thermally printed receipts](basic-features/orders/thermally-printed-receipts.md)
   * [Subscriptions](basic-features/subscriptions/README.md)

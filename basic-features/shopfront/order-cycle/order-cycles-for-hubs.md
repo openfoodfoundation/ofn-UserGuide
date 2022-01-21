@@ -54,7 +54,7 @@ Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calc
 
 Vous pouvez ici sélectionner un ou plusieurs hubs-distributeurs, pour lesquels donc leurs boutiques respectives seront ouvertes à la commande pour ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul hub--distributeur. Il suffit de le sélectionner puis de sélectionner tous les produits associés. Dans un modèle plus complexe avec plusieurs hubs-distributeurs dans la partie produits sortants, vous avez ainsi la possibilité de sélectionner des produits différents pour chaque hub et de paramétrer des dates de livraison différentes.
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 Les **tags** vous permettent de taguer le cycle de vente pour qu'il ne soit visible que de certains acheteurs (voir page [Affichages relatifs aux catégories d'acheteurs (tags)](broken-reference)).
 

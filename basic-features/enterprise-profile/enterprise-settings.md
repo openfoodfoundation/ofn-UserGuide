@@ -126,7 +126,7 @@ Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la
 
 Un exemple de profil en version condensée (depuis la page "producteurs") :&#x20;
 
-![](<../../.gitbook/assets/image (38) (1) (1).png>)
+![](<../../.gitbook/assets/image (38) (1) (1) (1).png>)
 
 Et en version complète (depuis la carte, ou les pages boutiques):
 

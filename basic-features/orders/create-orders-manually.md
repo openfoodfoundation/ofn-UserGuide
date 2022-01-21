@@ -1,64 +1,37 @@
-# Create orders manually
+# Création de commande gestionnaire
 
-Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders** and clicking on the **+ New Order** button.
+Parfois, vous souhaitez passer vous même une commande manuellement dans le système, pour le compte d'un acheteur ou pour que vos rapports incluent une commande issue d'une autre plateforme par exemple. Rendez-vous sur **Commandes** et cliquez sur le bouton **Nouvelle Commande** : \
+\
 
-![](../../.gitbook/assets/manorder1.jpg)
 
-There you are then lead through a step-by-step process to place the order:
+![](<../../.gitbook/assets/image (49).png>)
 
-![](../../.gitbook/assets/manorder2.jpg)
+Suivez ensuite pas à pas le processus :&#x20;
 
-Firstly you will be prompted to select the distributor that the order will be placed with. \
-Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied.\
-You will then be redirected to the following page where you can select products. You must type at least the first 3 characters of the product for it to appear as an option in the drop down list:
+![](<../../.gitbook/assets/image (90).png>)
 
-![](../../.gitbook/assets/manorder3.jpg)
+Sélectionnez le distributeur sur lequel doit être enregistré la commande puis le cycle de vente. En fonction du cycle de vente choisi, les produits pouvant être ajoutés à la commande ainsi que les marges ne seront pas forcément les mêmes, selon le paramétrage du cycle de vente.&#x20;
 
-After finding the product you'd like to order, enter the quantity and click the **+** button to the right of the product to add it to the cart.
+Vous serez redirigé sur la page suivante où vous pourrez ajouter les produits (vous devez commencez à taper les premières lettres pour que des suggestions apparaissent) : \
 
-![](../../.gitbook/assets/manorder4.jpg)
 
-Once a product is added you can edit (quantity for example) by selecting the pen and paper icon to the right of the item:
+![](<../../.gitbook/assets/image (69).png>)
 
-![](../../.gitbook/assets/manorder5.jpg)
+Indiquez les quantités. Une fois tous les produits ajoutés, cliquez sur **mettre à jour et recalculer les frais.**
 
-After editing any aspect of the cart, click **update and recalculate fees** to update the price.
+L'étape suivante est d'ajouter les informations liées à l'acheteur dans le menu vertical "détails client". Si l'acheteur fait déjà parti de vos clients, vous pouvez le sélectionner via la liste déroulante, ou alors remplir les champs et indiquer une commande invité :&#x20;
 
-The next step is to add in the customer’s details (right hand menu, second option down). If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
+![](<../../.gitbook/assets/image (38).png>)
 
-![](../../.gitbook/assets/manorder6.jpg)
+Cliquez sur **Ajustements** ou directement sur **Paiements** (à droite de l'écran) avant de continuer et sélectionner une méthode de livraison :&#x20;
 
-Click **Update** and go back to Order Details (top option on right hand menu).  You will now be able to select a shipping method for the customer.
+![](<../../.gitbook/assets/image (63).png>)
 
-![](../../.gitbook/assets/manorder7.jpg)
+Ensuite vous pouvez réaliser des ajustements comme l'ajout d'une commission. Continuez.
 
-Tick to update changes and cross to cancel.
+La dernière étape est le choix de la méthode de paiement : \
 
-{% hint style="danger" %}
-You can not select a shipping method prior to adding the customer's details.
-{% endhint %}
 
-The final step is to add the customer’s payment method.  This is found from the bottom option of the right hand menu:
+![](<../../.gitbook/assets/image (50).png>)
 
-![](../../.gitbook/assets/manorder8.jpg)
-
-{% hint style="warning" %}
-Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.\
-&#x20;![](../../.gitbook/assets/stripeextra.jpg) &#x20;
-{% endhint %}
-
-{% hint style="danger" %}
-You should NEVER write down a customer's card details.
-{% endhint %}
-
-{% hint style="success" %}
-Best practice is to complete the above form directly into a computer/tablet/mobile device while the customer reads out the numbers over the phone.
-{% endhint %}
-
-{% hint style="danger" %}
-You will not be able to opt for a [Payment Method](../shopfront/payment-methods.md) provided by **PayPal** for an order created manually.
-
-![](<../../.gitbook/assets/paypalnewpayment (1) (1).jpg>)&#x20;
-{% endhint %}
-
-Clicking **update** will finalise this order and send an email confirmation to the customer.
+Cliquez sur **mettre à jour** et envoyez un email de confirmation à l'acheteur.
