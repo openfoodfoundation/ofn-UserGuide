@@ -12,9 +12,9 @@ Pour imprimer un ticket de caisse, vous avez besoin d'une imprimante spécifique
 
 Par exemple :\
 \-  Epson one (utilisée communément par les commerçants)). Disponible en ligne pour environ 150€\
-\- Une imprimante thermique premier prix coute entre 15€ et 50€ sur internet. \
-\
-Paramétrage du système
+\- Une imprimante thermique premier prix coute entre 15€ et 50€ sur internet.&#x20;
+
+## Paramétrage du système
 
 Comment paramétrer ma machine pour pouvoir imprimer un ticket de caisse depuis le site Open Food Network ?
 
