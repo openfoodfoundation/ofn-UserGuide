@@ -10,7 +10,7 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 
 {% tabs %}
 {% tab title="Producteur : profil et/ou fournisseur de hubs" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Hub : profil" %}

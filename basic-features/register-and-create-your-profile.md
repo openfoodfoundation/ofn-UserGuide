@@ -14,7 +14,7 @@
 * Une fois connecté(e), cliquez sur la bannière grise indiquant "vous souhaitez proposer vos produits sur la plateforme ? Cliquez ici"
 * Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons!.
 
-![](<../.gitbook/assets/image (58) (1) (1).png>)
+![](<../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 * Renseignez le nom de votre entreprise et vos coordonnées. Cela permettra notamment d'afficher votre entreprise sur la carte, améliorant votre visibilité.
 * Précisez si votre entreprise est "productrice" ou pas. Si vous distribuez les produits de producteurs mais que votre entreprise ou collectif ne produit pas lui même, vous n'êtes pas producteur.&#x20;

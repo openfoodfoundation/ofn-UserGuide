@@ -67,7 +67,7 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 5\. Sur Open Food Network, assurez-vous d'être connecté en tant que gestionnaire de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement (voir ci-dessus). Sélectionnez Paypal et intégrer les informations :&#x20;
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 **Les champs suivants sont à renseigner, les autres peuvent rester vides :**
 

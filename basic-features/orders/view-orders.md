@@ -104,7 +104,7 @@ Attention : ce document appelé "facture" doit pour la Belgique être modifié p
 
 Les informations acheteur (email, adresses de facturation et livraison) sont accessibles depuis le menu de droite.
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77) (1).png>)
 
 **Modifier le montant d'une commande**
 

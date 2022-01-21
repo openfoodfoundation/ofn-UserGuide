@@ -39,7 +39,7 @@ Cette liste présente tous les acheteurs qui ont déjà placé une commande via 
 
 Une fois cette opération réalisée, rendez-vous dans le menu **Entreprise** > **Gérer** > **Préférences Boutique :**&#x20;
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 Et sélectionnez pour "boutique visible par tous?" >  **"visible uniquement pour les acheteurs logués"**.
 
