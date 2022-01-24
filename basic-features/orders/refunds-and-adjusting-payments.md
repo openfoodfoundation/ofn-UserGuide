@@ -51,7 +51,7 @@ Les frais prélevés par Stripe (1,2 - 1,4% + 0,2 cts par transaction) ne sont p
 
 Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :&#x20;
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77) (1).png>)
 
 ### b- Paiement via Paypal
 

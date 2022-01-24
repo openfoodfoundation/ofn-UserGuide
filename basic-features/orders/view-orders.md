@@ -86,7 +86,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée (vous de
 
 #### Diverses fonctionnalités sont disponibles via le bouton "actions"
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 * **Renvoyer la confirmation :** Si vous avez modifié le contenu d'une commande, il peut être pertinent de renvoyer une nouvelle confirmation de commande - mise à jour - à l'acheteur.
 * **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
@@ -104,7 +104,7 @@ Attention : ce document appelé "facture" doit pour la Belgique être modifié p
 
 Les informations acheteur (email, adresses de facturation et livraison) sont accessibles depuis le menu de droite.
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1).png>)
 
 **Modifier le montant d'une commande**
 

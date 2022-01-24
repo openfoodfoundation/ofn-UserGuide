@@ -46,13 +46,13 @@ Cette règle permet de rendre une variante (déclinaison d'un produit) visible o
 
 Cette règle permet de réserver certaines méthodes de livraison à certaines catégories d'acheteurs. Pour cette règle, il faudra donc associer un tag aux méthodes de livraison concernées. Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de livraison taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-![](<../../../.gitbook/assets/image (53).png>)
+![](<../../../.gitbook/assets/image (53) (1).png>)
 
 #### Afficher ou masquer les méthodes de paiement lors de la finalisation de la commande
 
 Cette règle permet de réserver certaines méthodes de paiement à certaines catégories d'acheteurs, par exemple un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels. Pour cette règle, il faudra donc associer un tag aux méthodes de paiement concernées. Dans l'exemple ci-dessous, la méthode de paiement "Paiement sur facture" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de paiement taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.&#x20;
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (83) (1).png>)
 
 #### Afficher ou masquer les cycles de vente de ma boutique
 

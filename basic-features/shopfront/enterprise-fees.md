@@ -15,7 +15,7 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la **consti
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
 
-![](<../../.gitbook/assets/image (83) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1).png>)
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :&#x20;
 
@@ -37,7 +37,7 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 
 ## Le calculateur
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 
 **Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 

@@ -7,7 +7,7 @@
 * Vous recevrez dans les minutes qui suivent un email avec un lien vous permettant de confirmer votre adresse email. Cliquez sur ce lien qui vous dirigera vers la page de connexion.
 * Connectez-vous.
 
-![](<../.gitbook/assets/image (51) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
 
 ### Création de votre première "entreprise"
 

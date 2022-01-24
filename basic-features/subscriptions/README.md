@@ -1,48 +1,43 @@
-# Subscriptions
+# Abonnements / commandes récurrentes
+
+
 
 {% hint style="info" %}
-Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
+Le module abonnements est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité \
+\- support@coopcircuits.fr pour la France \
+\- support@openfoodnetwork.be pour la Belgique.
 {% endhint %}
 
-## What are subscriptions? <a id="what-are-subscriptions"></a>
+## A quoi sert ce module ? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
-Subscriptions are recurring or standing orders that can be set up for the customers of any Enterprise with a shopfront. Once set up, these orders will be automatically processed at defined intervals \(eg. weekly, fortnightly, monthly\).
+Ce module vous permet de mettre en place des commandes récurrentes pour vos acheteurs. Une fois mises en place, ces commandes seront automatiquement traitées selon le rythme prévu : toutes les semaines, toutes les deux semaines, etc. Cette fonctionnalité permet aux clients de ne pas avoir à repasser manuellement une commande qu'ils font régulièrement.
 
-{% hint style="success" %}
-Subscriptions are convenient for customers, as they can know that their order will be processed without needing to remember to place their order. 
-{% endhint %}
+En résumé :
 
-{% hint style="success" %}
-Subscriptions are also a good way for an Enterprise to boost customer loyalty and make their order volumes more predictable.
-{% endhint %}
+* Les acheteurs peuvent choisir d'avoir une commande régulière "automatique" pour certains produits
+* Vous pouvez en tant que gestionnaire mettre en pause un abonnement, ajouter / supprimer des produits ou tout simplement l'annuler
+* Les acheteurs peuvent autoriser votre boutique à prélever automatiquement à chaque nouvelle commande récurrente passée en leur nom le montant correspondant sur leur carte de crédit, via [Stripe](broken-reference).
 
-**Features of Subscriptions**
+## Les grandes étapes de la mise en place <a href="#steps-to-set-up-subscriptions" id="steps-to-set-up-subscriptions"></a>
 
-* Customers can choose to have their 'usual order' placed automatically.
-* Customers can set up an automatic credit card payment \(using [Stripe](../shopfront/payment-methods.md#integrated-payment-providers)\) for their subscription
-* Enterprises and/or customers can pause, cancel and/or add/remove products from their standard subscription order.
+La page [**configuration**](broken-reference) **décrit les éléments à préparer et les étapes de mise en place :**
 
-## Set up subscriptions: Step-by-Step guide
+1\) [Activez les commandes](broken-reference) récurrentes dans le paramétrage de votre entreprise.
 
-#### [Configuration](subscriptions-configuration.md): this page describes the steps to make your enterprise 'Subscription Ready'
+2\) Vérifiez que vous avez bien configuré vos [méthodes de paiement et de livraison](broken-reference).
 
-* [Enable Subscriptions](subscriptions-configuration.md#activate-subscriptions) in your Enterprise Settings.
-* Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions) setup for customers.
-* [Gather information from your customers](subscriptions-configuration.md#gather-information-from-your-customers), including their contact details, which items they'd like in their subscription and which shipping and payment methods they'll use.
-* [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
-* Setup [Schedules](subscriptions-configuration.md#schedules), which will dictate how frequently subscriptions are processed.
+3\) [Collectez les informations nécessaires auprès de vos acheteurs,](broken-reference) dont leurs coordonnées, mais aussi les produits qu'ils souhaitent inclure dans leur commande récurrente et quelle méthode de paiement ils souhaitent utiliser.&#x20;
 
-#### \*\*\*\*[**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**
+4\) [Ajoutez les acheteurs](broken-reference) à votre liste d'acheteurs s'ils n'ont pas encore passé commande (sinon ils y sont déjà !).
 
-* [Create subscriptions](subscriptions-creating-and-managing-orders.md#create-subscriptions) for each customer.
-* [Edit](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) and [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) subscriptions.
-* Understand [How subscriptions are processed](subscriptions-creating-and-managing-orders.md#how-are-subscriptions-processed) \(ie how they appear in your 'order list'\)
+5\) [Configurez les rythmes d'abonnement](broken-reference).
 
-#### \*\*\*\*[**Customer Set Up**](subscriptions-the-customers-perspective.md)**: this page describes a customer's perspective of subscriptions.**
+Puis que la page "[création et gestion d'une commande récurrente](broken-reference)" vous trouverez ensuite les éléments pour :
 
-{% hint style="info" %}
-If you struggle with any aspect of setting up subscriptions for your enterprise you may like to have a look at our [Frequently Asked Questions](subscriptions-faqs.md).
-{% endhint %}
+6\) [Créez une commande récurrente](broken-reference) pour un acheteur.
 
-#### \*\*\*\*
+7\) Voir comment [modifier,](broken-reference) mettre en [pause](broken-reference) ou [annuler](broken-reference) une commande récurrente.
 
+8\) Comprendre [comment](broken-reference) les commandes récurrentes sont traitées.
+
+**Pour comprendre comment cela se déroule pour l'acheteur, consultez**[ **la page dédiée**](broken-reference)**.**

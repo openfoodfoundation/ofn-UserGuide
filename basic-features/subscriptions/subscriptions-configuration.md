@@ -1,156 +1,131 @@
 # Configuration
 
-## Activate subscriptions
 
-To activate the subscription functionality for your enterprise, go to Enterprises-> Settings-> [shop preferences](../enterprise-profile/enterprise-settings.md#shop-preferences).
 
-At the bottom of the page change Subscriptions to 'enabled'
+## 1) Activez les commandes récurrentes <a href="#1-enable-subscriptions" id="1-enable-subscriptions"></a>
 
-![](../../.gitbook/assets/subscriptions1.jpg)
+Activez le module en vous rendant sur les paramètres de votre profil > préférences boutique : \
 
-**Guest orders**: For enterprises with subscriptions enabled, we recommend that you require all customers to login before they can shop with you. This will ensure that any customer with a subscription will login and see their existing subscription order, and not accidentally place a duplicate order.
 
-**Change orders**: For customers with a regular repeating order from your enterprise on subscription, then the following options imply:
+![](<../../.gitbook/assets/image (52).png>)
 
-* _Placed Orders cannot be changed/cancelled:_ The customer will need to contact you to modify their regular order (alter quantities of each product requested or cancel the order).&#x20;
-* _Customers can change/cancel orders white order cycle is open:_ The customer can modify the quantities of products they request in their subscription and/or cancel the entire order.
+**Abonnements (= commande récurrente) :** Pour activer, sélectionnez "Activée".
+
+**Commandes des invités** : Nous vous recommandons de désactiver cette option afin de ne pas risquer des doublons de commandes une fois les commandes récurrentes rendues possibles.
+
+**Modifier la commande** :&#x20;
+
+* Si vous permettez à l'acheteur de modifier la commande il va pouvoir à chaque nouvelle commande automatiquement passée en son nom modifier les quantités achetées et retirer des produits. Pour en ajouter, il devra faire une nouvelle commande.
+* Dans le cas contraire, ils devront vous contacter pour réaliser des modifications. Ils pourront cependant toujours réaliser une nouvelle commande.
+
+## 2) Vérifiez les méthodes de paiement et de livraison <a href="#2-make-sure-you-have-shipping-and-payment-methods-setup" id="2-make-sure-you-have-shipping-and-payment-methods-setup"></a>
+
+Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous indiquiez les méthodes de paiement et de livraison choisies, qui s'appliqueront donc automatiquement à chaque commande passée en leur nom par le système.
+
+#### **Méthodes de livraison** <a href="#shipping-methods" id="shipping-methods"></a>
+
+Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ la page suivante](broken-reference).&#x20;
+
+#### **Méthodes de paiement** <a href="#payment-methods" id="payment-methods"></a>
+
+**Vous ne pouvez utiliser que deux méthodes de paiement pour les commandes récurrentes**. Consultez [cette page](broken-reference) pour la configuration générale des méthodes de paiement.
+
+**1) Méthode manuelle** : Espèce, chèque ou virement bancaire (sans validation automatique sur la plateforme).
+
+**2) Stripe :** Stripe est un portail de paiement par carte bancaire équivalent à Paypal (l'obligation de créer un compte pour l'acheteur en moins). Pour voir le détail de la configuration Stripe sur une boutique, [cliquez ici](broken-reference). A chaque commande, la carte bancaire va être débitée du montant de la commande, et reflètera toute modification apportée à la commande. Rien ne sera débité si la commande récurrente a été mise en pause ou annulée.
 
 {% hint style="info" %}
-In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket and checkout. _**Neither you nor they can not add new products to their subscription order once the order cycle is open.**_
+Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food Network, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](broken-reference).
 {% endhint %}
 
-## Shipping and Payment methods for Subscriptions
+Également, si vous utilisez Stripe, pensez à bien nommer cette méthode de paiement dans votre interface d'administration.
 
-When you are creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.  This will then subsequently apply to all following orders placed on their behalf by the subscriptions
+Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'appeler "paiement automatique pour commande récurrente". Une description possible à ajouter : "Votre carte de crédit par défaut sera utilisée pour chaque commande récurrente non mise en pause ou annulée". Ce nom et la description associée à la méthode de paiement seront affichés sur l'email de confirmation reçu par l'acheteur, donc il est important que le bon niveau de détail soit inscrit pour que tout soit clair et que l'acheteur soit rassuré sur l'utilisation de sa carte bancaire.&#x20;
 
-### **Shipping methods**
+![](<../../.gitbook/assets/image (89).png>)
 
-You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) to a subscription.&#x20;
+## 3) Récupérer les informations auprès de vos acheteurs <a href="#3-gather-information-from-your-customers" id="3-gather-information-from-your-customers"></a>
 
-### **Payment methods**
+Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certaines informations :
 
-You can only assign two types of [payment methods](../shopfront/payment-methods.md) to subscriptions.
+**Nom**, **numéro de téléphone** et **adresse e-mail :** rappelons que tout acheteur souhaitant bénéficier de commandes récurrentes a l'obligation de se créer un compte sur la plateforme. Et comme précisé dans le paragraphe suivant, vous devez l'ajouter à votre [liste d'acheteurs](broken-reference).
 
-1. **Manual payment methods:** Cash, cheque, bank transfer (ie. any method which does not involve automatic validation online by the OFN platform).
-2. **Stripe:** Stripe is a payment gateway that takes payment with credit cards.  Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers).&#x20;
+**Adresse de facturation et de livraison :** vous aurez besoin de ces informations pour mettre en place la commande récurrente.
+
+**Produits :** quels produits souhaitent-ils commander de manière récurrente et automatique ?
+
+**Méthode de livraison** : vous devez associer une méthode de livraison à la commande récurrente.
+
+**Méthode de paiement : vous devez associer une méthode de paiement à la commande récurrente (paiement en liquide ou chèque à réception, paiement par prélèvement automatique via Stripe).** Voir [point précédent](broken-reference) pour les paiements automatiques via Stripe.
+
+**Dates** : la date de début et de fin de la commande récurrente. Pour rappel, pour qu'une commande récurrente soit passée pour un acheteur sur un cycle de vente donné, la date de début de la commande récurrente peut être située avant ou après la date de début du cycle de vente, en revanche la date de fin de la commande récurrente doit obligatoirement se situer après la date de fin du cycle de vente.
+
+## 4) Ajoutez les nouveaux acheteurs à votre liste <a href="#4-add-your-subscribers-to-your-customer-list" id="4-add-your-subscribers-to-your-customer-list"></a>
+
+Avant de mettre en place une commande récurrente pour un utilisateur, vous devez l'ajouter à votre [liste d'acheteurs](broken-reference).&#x20;
+
+**Une fois ajouté à votre liste,** demandez-leur de se créer un compte sur la plateforme. Si vous planifier d'utiliser un prélèvement automatique via Stripe pour les commandes récurrentes, vous devrez aussi leur demander de sauvegarder une carte de paiement sur leur compte et de vous autoriser à prélever sur cette carte. Toutes les étapes à réaliser de leur côté sont disponibles à la page [Pour l'acheteur](broken-reference). &#x20;
+
+Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans tous les cas, il est nécessaire pour l'acheteur de disposer d'un compte valide sur la plateforme, donc il doit bien avoir confirmé son adresse email. Par ailleurs, si vous utilisez Stripe en tant que méthode de paiement, il est nécessaire de les ajouter à votre liste d'acheteurs **AVANT qu'ils autorisent votre boutique à réaliser des prélèvements**.
+
+Ainsi, nous recommandons le processus suivant :\
+1- Contactez l'acheteur pour obtenir les informations listées ci-dessus\
+2- Ajoutez le à votre liste d'acheteur\
+3- Ecrivez-lui en lui demandant de se créer un compte sur la plateforme (et si vous utilisez le prélèvement automatique par Stripe d'enregistrer une carte et vous autoriser à prélever dessus)\
+4- [Créer ensuite seulement leur commande récurrente](broken-reference)&#x20;
+
+## 5) Les rythmes d'abonnement <a href="#5-schedules" id="5-schedules"></a>
 
 {% hint style="info" %}
-With each order automatically placed by a subscription, the customer's bank card will be debited for the order (on closure of the associated order cycle). The amount debited will reflect any modifications made by you or them to the order.\
-Customers will not be charged if they cancel their subscription order.
+S'il s'agit de votre première utilisation d'Open Food Network, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](broken-reference).
 {% endhint %}
 
-{% hint style="warning" %}
-For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges). &#x20;
-{% endhint %}
+### A propos <a href="#about-schedules" id="about-schedules"></a>
+
+Une commande récurrente consiste à la passation automatique par la plateforme d'une commande prédéfinie pour un acheteur donné à chaque nouveau cycle de vente d'un distributeur donné, selon une régularité convenue entre l'acheteur et le distributeur (dite "rythme d'abonnement"). La fonctionnalité offre beaucoup de flexibilité, permettant au distributeur de proposer des "abonnements" hebdomadaires, ou bimensuels par exemple pour proposer des offres correspondant au mieux aux besoins de leurs acheteurs. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](broken-reference), un pour les particuliers et un pour les pro, peut-être n'activerez-vous pas la possibilité de commandes récurrentes pour les professionnels. Ou alors, si vous avez des cycles de ventes hebdomadaires mais permettez la commande d'un "panier produits laitiers" hebdomadaire ou bimensuel, vous pourrez définir les semaines sur lesquels seront livrées les commandes récurrentes du rythme bimensuel (cycles des semaines paires, ou cycles des semaines impaires, par exemple).
 
 {% hint style="success" %}
-If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.\
-\
-For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it details so the customer knows what to expect.
+Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (10).png>)
+### Créer un rythme d'abonnement <a href="#create-a-schedule" id="create-a-schedule"></a>
 
-## Gather information from your customers
+Une fois les premières étapes réalisées, vous allez voir apparaître le bouton "rythme d'abonnement" dans le menu Cycle de vente. Cliquez dessus pour créer un nouveau rythme d'abonnement :&#x20;
 
-To setup a subscription for a customer you'll need to get some information from them, as detailed below:
-
-**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order (subscription) with your enterprise MUST have a registered and confirmed user account on the OFN platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
-
-**Billing and shipping address**
-
-**Products:** Which items do they want to include in their subscription?
-
-**Shipping/Delivery method**: You need to assign a shipping/delivery/collection method to their subscription order.  How would they prefer to receive the goods?
-
-**Payment method**: Customers can select from your manual payment methods (e.g. cash, bank transfer), or paying with their credit card through your shop's Stripe account. If the customer wishes to pay for their subscription orders by Stripe then they will need to add a default payment card and give authorisation. See [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for more details.
-
-**Start and End Dates for their subscription orders:** Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the order cycle close date.
-
-## Add your subscribers to your customer list
-
-Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).&#x20;
-
-**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
+![](<../../.gitbook/assets/image (77).png>)
 
 {% hint style="info" %}
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their OFN account is registered.
+Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-{% hint style="warning" %}
-If you wish to debit a customer for their subscription order by Stripe then they must be added to your [Customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md) BEFORE they can [authorise your enterprise to take payments ](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges)from their credit/debit card.\
-Hence we recommend the following procedure:
+![](<../../.gitbook/assets/image (83).png>)
 
-1. Contact the customer and obtain all the info you require (see [above](subscriptions-configuration.md#gather-information-from-your-customers))
-2. Add them to your [customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
-3. Email the customer, asking them to [register with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn) for an account and [add their credit/debit card details](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) to that account.
-4. [Create the subscription](subscriptions-creating-and-managing-orders.md).
-{% endhint %}
-
-## Schedules
+**Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
 {% hint style="info" %}
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](../shopfront/order-cycle/) before setting up schedules and subscriptions
+Attention, si vous êtes manager sur plusieurs boutiques et que vous souhaitez utiliser la fonctionnalité de commande récurrente sur plusieurs boutiques, vous devrez créé un ou plusieurs rythme(s) d'abonnement pour chaque boutique. Pensez dans ce cas à mettre des noms clairs, car tous les rythmes vous serons proposés de façon mélangés lorsque vous mettrez en place une commande récurrente. Par exemple : hebdo-quartierZ, hebdo-quartierY, etc.
 {% endhint %}
 
-### About Schedules
+Vous pouvez déplacer les cycles de ventes en utilisant les < et > boutons.
 
-Subscriptions are setup so that every time an enterprise opens an order cycle, orders can be automatically generated for customers who have a subscription with that shop.  The frequency with which a subscription order is placed for a particular customer (ie which of your active order cycles triggers their subscription) is controlled by a facility called '**Schedules**'. &#x20;
+Cliquez sur "Créer" lorsque vous avez terminé.
 
-Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule. &#x20;
+### Modifier ou supprimer un rythme d'abonnement <a href="#edit-or-delete-a-schedule" id="edit-or-delete-a-schedule"></a>
+
+Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente : ****&#x20;
+
+![](<../../.gitbook/assets/image (51).png>)
 
 {% hint style="info" %}
-You may have some customers who would like a regular order every week, in which case you would add their subscriptions to a schedule which includes all of your weekly order cycles. For other groups of customers, desiring their orders only fortnightly/monthly you can create additional schedules which only include alternate/one-in-four of your weekly order cycles.
+Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associées.
 {% endhint %}
 
-{% hint style="success" %}
-There's lots of flexibility in this arrangement and so feel free to experiment to come up with the order cycle-schedule combination which works best for your enterprise.  For example you may wish to have 'odd week' and 'even week' schedules, 'wholesale' schedules, 'monthly meat' schedules....
-{% endhint %}
+### Ajouter ou supprimer un cycle de vente d'un rythme d'abonnement <a href="#adding-or-removing-order-cycles-from-schedules" id="adding-or-removing-order-cycles-from-schedules"></a>
 
-### Create a schedule
+Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement : ****&#x20;
 
-Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
-
-![](<../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
-
-{% hint style="warning" %}
-You must have at least one open or due to open order cycle to be able to create a new schedule.
-{% endhint %}
-
-![](<../../.gitbook/assets/New Schedule>)
-
-**Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
+![](<../../.gitbook/assets/image (53).png>)
 
 {% hint style="info" %}
-If you manage several OFN enterprises, with subscriptions being enabled in more than one, then naming your schedules clearly is essential eg. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.\
-Each enterprise will need a different schedule but when you create a subscription for a customer the schedules for all your enterprises will be visible. Hence, the descriptive name will help you make sure the subscription is created for the correct enterprise for that particular customer.
+Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
 {% endhint %}
-
-You can add existing order cycles into and out of the new schedule by clicking the < and > buttons.
-
-Click **create** when you are finished.
-
-### Edit or Delete a schedule
-
-To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.  (The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.)
-
-![](<../../.gitbook/assets/Show Schedules>)
-
-You can change the name of the schedule, add/remove order cycles from it or delete the schedule.
-
-![](<../../.gitbook/assets/Delete Schedule>)
-
-{% hint style="danger" %}
-You can not delete a schedule if there are subscriptions associated with it.
-{% endhint %}
-
-### Adding or removing order cycles from schedules
-
-You can add and remove order cycles from schedules by either editing the schedule ([above](subscriptions-configuration.md#edit-or-delete-a-schedule)), or by editing the order cycle and adding/removing the schedule in the ‘schedules’ field:
-
-![](<../../.gitbook/assets/ordercycle3 (1).jpg>)
-
-{% hint style="success" %}
-Order cycles can be in more than one schedule.  For example if your order cycles are weekly but you have three schedules (weekly, fortnightly-odd weeks and fortnightly-even weeks) then one order cycle might be associated with both the 'weekly' and 'fortnightly-odd' week schedules.
-{% endhint %}
-
