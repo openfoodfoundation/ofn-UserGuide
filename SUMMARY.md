@@ -57,7 +57,7 @@
     * [Horaires d'achat spéciaux pour les groupes prioritaires](hub-management-tips/how-tos/early-shopping-hour-for-priority-groups.md)
     * [Livraison gratuite ou à prix réduit pour les clients défavorisés](hub-management-tips/how-tos/discounted-free-delivery-for-vulnerable-customers.md)
     * [Récompensez vos bénévoles](hub-management-tips/how-tos/reward-your-volunteers.md)
-* [Logiciels complémentaires](complementary-tools-software.md)
+* [Logiciels complémentaires](complementary-tools-software/README.md)
 * [FAQs](trouble-shooting/README.md)
   * [Acheteur](trouble-shooting/acheteur.md)
   * [Producteur](trouble-shooting/producteur.md)

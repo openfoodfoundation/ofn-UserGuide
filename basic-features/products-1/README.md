@@ -1,17 +1,9 @@
 # Produits
 
-Si votre entreprise est de type "producteur" (vous avez coché la case correspondante dans les paramètres de votre profil), vous pouvez alors ajouter des produits et des variantes connexes à votre catalogue producteur. Ces produits peuvent être ajoutés en masse en important un fichier csv (fichier excel enregistré au format csv).
+Si votre entreprise est de type "producteur" (vous avez coché la case correspondante dans le paramétrage de votre profil), vous pouvez maintenant [ajouter des produits](broken-reference) et [variantes associées](broken-reference) dans votre catalogue producteur. Ces produits peuvent être [ajoutés en masse par import](broken-reference) d'un fichier csv (fichier excel sauvegardé en format csv)
 
-![](../../.gitbook/assets/products1.jpg)
+Nous recommandons pour ces produits que le prix saisi dans le catalogue soit vraiment le prix de vente de base du producteur. Lorsque le profil entreprise du producteur est géré par un distributeur, ce dernier peut avoir tendance à mettre directement son prix de vente, ce qui rend inutilisable ce catalogue par d'autres distributeurs, ou par le producteur lui-même s'il veut reprendre la main dessus. Pour les [produits irréguliers,](broken-reference) dont le poids varie pour chaque produit (ex: un poulet), nous vous proposons une méthode pour fixer le prix qui vous permet ensuite d'ajuster le poids et prix réel au moment de la livraison.
 
-Le prix saisi pour chaque produit dans le catalogue du producteur est le montant total que le producteur recevra d'une vente - d'où un prix de "gros". Les Hubs, en tant que distributeurs, peuvent ajouter leurs frais d'administration, de transport et d'emballage, etc., en utilisant les options de frais dans Méthodes d'expédition, Méthodes de paiement ou Frais d'entreprise.
+Si un distributeur souhaite modifier le prix et le stock des produits d'un producteur pour sa propre boutique sans passer par une logique de "marge" ajoutée au prix du producteur, il peut dans ce cas utiliser la fonctionnalité [catalogue boutique](broken-reference).
 
-{% hint style="info" %}
-Si vous êtes un Hub qui gère le profil d'entreprise d'un producteur en son nom, nous vous recommandons de ne pas incorporer votre marge dans les prix des produits, mais d'utiliser les méthodes de tarification ci-dessus. Cela rend le catalogue de produits plus flexible pour les changements futurs.
-{% endhint %}
-
-Si un hub souhaite modifier le prix des produits d'un producteur sans utiliser la stratégie des frais d'entreprise, d'expédition ou de mode de paiement, il est préférable d'utiliser notre fonction Inventaire. En ajoutant des produits à l'inventaire de leur boutique, les hubs créent un second catalogue, indépendant des catalogues de produits de leurs fournisseurs. Les prix et les niveaux de stock dans l'inventaire du hub peuvent être modifiés par le hub sans avoir d'impact sur les "copies originales" des producteurs.
-
-Pour les produits dont le prix est irrégulier, comme un poulet entier dont le prix varie d'un poulet à l'autre en fonction du poids, il est possible de fixer un prix "par poulet" qui peut ensuite être ajusté au moment de la livraison du morceau de viande/légume spécifique.&#x20;
-
-La page "Option d'achat en gros" explique comment les groupes d'acheteurs peuvent utiliser OFN pour organiser et enregistrer les achats en gros. Par exemple, si un groupe achète du riz en sacs de 25 kg, cette fonction peut aider à distribuer le riz entre les clients en fonction d'une fourchette de poids qu'ils demandent à l'achat.
+Pour des groupements d'achat souhaitant acheter une quantité définie d'un produit pour le groupe (ex: 25kg de riz, pour pouvoir acheter ensemble un sac de 25kg) il est possible de paramétrer le produit pour organiser une pré-commande "flexible" pouvant être ajustée pour atteindre pile poil la taille du lot concerné. Voir la page "[Option d'achat par lot](broken-reference)" pour en savoir plus.
