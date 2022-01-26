@@ -4,7 +4,7 @@
 
 **Cela ressemble à quoi ?** Vous pouvez voir les groupes existants en cliquant sur le menu "groupes" depuis la vue visiteur de votre plateforme Open Food Network.
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 **Comment créer une page groupe ?** Il est nécessaire de nous contacter pour la mise en place de votre groupe, cette fonctionnalité nécessite un paramétrage par une personne autorisée qui créera le groupe pour vous et vous nommera administrateur du groupe.
 
@@ -12,9 +12,9 @@
 
 Une fois administrateur du groupe, vous aurez accès au menu groupe. Vous visualisez alors les groupes pour lesquels vous êtes administrateur et pouvez aller modifier le paramétrage du groupe.&#x20;
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
-### ![](<../.gitbook/assets/image (54).png>)
+### ![](<../../.gitbook/assets/image (54).png>)
 
 ### Informations de base
 
