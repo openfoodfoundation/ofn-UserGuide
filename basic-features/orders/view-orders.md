@@ -8,7 +8,7 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre /vos
 
 Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande(s) recherchée(s). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 **Distributeur :** Il s'agit de l'entreprise (distributeur) via laquelle les commandes recherchées ont été passées.
 
@@ -86,7 +86,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée (vous de
 
 #### Diverses fonctionnalités sont disponibles via le bouton "actions"
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1).png>)
 
 * **Renvoyer la confirmation :** Si vous avez modifié le contenu d'une commande, il peut être pertinent de renvoyer une nouvelle confirmation de commande - mise à jour - à l'acheteur.
 * **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
@@ -122,7 +122,7 @@ Il est possible de sélectionner les commandes visibles sur la page (vous pouvez
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :&#x20;
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84) (1).png>)
 
 {% hint style="info" %}
 Par défaut, les commandes seront classées par date de commande. Vous pouvez également les classer par une autre variante (statut livraison, statut du paiement, etc.) en sélectionnant la variante souhaitée.

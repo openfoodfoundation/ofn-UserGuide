@@ -7,7 +7,7 @@
 Activez le module en vous rendant sur les paramètres de votre profil > préférences boutique : \
 
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 **Abonnements (= commande récurrente) :** Pour activer, sélectionnez "Activée".
 
@@ -42,7 +42,7 @@ Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose
 
 Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'appeler "paiement automatique pour commande récurrente". Une description possible à ajouter : "Votre carte de crédit par défaut sera utilisée pour chaque commande récurrente non mise en pause ou annulée". Ce nom et la description associée à la méthode de paiement seront affichés sur l'email de confirmation reçu par l'acheteur, donc il est important que le bon niveau de détail soit inscrit pour que tout soit clair et que l'acheteur soit rassuré sur l'utilisation de sa carte bancaire.&#x20;
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (89) (1).png>)
 
 ## 3) Récupérer les informations auprès de vos acheteurs <a href="#3-gather-information-from-your-customers" id="3-gather-information-from-your-customers"></a>
 
@@ -114,7 +114,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente : ****&#x20;
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 
 {% hint style="info" %}
 Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associées.
@@ -124,7 +124,7 @@ Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrente
 
 Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement : ****&#x20;
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 {% hint style="info" %}
 Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !

@@ -46,7 +46,7 @@ Cette règle permet de rendre une variante (déclinaison d'un produit) visible o
 
 Cette règle permet de réserver certaines méthodes de livraison à certaines catégories d'acheteurs. Pour cette règle, il faudra donc associer un tag aux méthodes de livraison concernées. Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de livraison taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
-![](<../../../.gitbook/assets/image (53) (1).png>)
+![](<../../../.gitbook/assets/image (53) (1) (1).png>)
 
 #### Afficher ou masquer les méthodes de paiement lors de la finalisation de la commande
 

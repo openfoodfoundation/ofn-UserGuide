@@ -14,7 +14,7 @@ Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis vo
 
 Puis cliquez sur "Nouveau cycle de vente" :&#x20;
 
-![](<../../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (91) (1).png>)
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)

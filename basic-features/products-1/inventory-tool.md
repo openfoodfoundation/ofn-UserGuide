@@ -76,7 +76,7 @@ N'oubliez pas de sauvegarder vos modifications !
 
 La liste des produits que vous avez décidé de masquer se trouve ici :&#x20;
 
-![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 

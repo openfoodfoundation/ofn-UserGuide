@@ -8,11 +8,11 @@ Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) 
 
 Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "Import produits en lot" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](<../../.gitbook/assets/image (72) (1).png>)
+![](<../../.gitbook/assets/image (72) (1) (1).png>)
 
 Vous serez redirigé vers la page suivante :
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
 
 &#x20;**Fournisseurs :** Sélectionnez le fournisseur à l'origine du produit.
 

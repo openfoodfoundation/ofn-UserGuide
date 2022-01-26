@@ -1,173 +1,92 @@
-# Reports
+# Rapports (export de données)
 
-You can access reports by clicking on **Reports** in the blue horizontal menu.  
+Vous pouvez accéder à la page de génération de rapport via le menu **Rapports.** Ce qu'on appelle "rapport" est en réalité une liste prédéfinie d'exports de données.&#x20;
 
-![](../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
+![](<../.gitbook/assets/image (91).png>)
 
-Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report.   
+Vous arrivez sur une page avec une liste de rapports prédéfinis.&#x20;
 
+![](<../.gitbook/assets/image (45).png>)
 
-## All Reports
+Les deux rapports les plus utilisés sont les rapports **Totaux cycle de vente par producteur** et **Totaux cycle de vente par acheteur**. Si en tant que hub vous organisez l'approvisionnement des produits en gros par le producteur puis la mise en panier sur site, le premier rapport vous permettra de gérer vos commandes aux producteurs, le second la préparation des paniers individuels. La **Liste de mails** et les **Adresses** vous serons utiles pour gérer votre communication avec vos acheteurs. Le rapport de **TVA par taux de taxe** vous permettra de gérer vos déclarations de TVA. Les **Rapports des paiements** vous permettent de savoir ce qui a été payé et comment, et ce qui est dû sur chaque méthode de paiement choisie. Le rapport **Achats groupés en vrac** peut aider les décisions d'allocations afférentes aux [achats groupés par lot](broken-reference).
 
-If you have opened an [Order Cycle](shopfront/order-cycle/), you will be able to run reports to help with managing, packing and processing your orders, and meet your financial reporting needs.
+## **Totaux cycle de vente par acheteur**
 
-![Reports available to view and download](../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
+L'image ci-dessous montre le cœur des informations obtenues via ce rapport (non exhaustif, il y a d'autres colonnes ensuite avec les adresses, méthode de paiement choisie, etc.). Ce rapport peut être filtré par cycle de vente pour un hub donné par exemple, ou selon un intervalle de dates, et peut être téléchargé au format CSV (ce format s'ouvre via un tableau type Libre Office Calc ou Excel) pour être manipulé à votre guise. Vous y retrouvez toutes les commandes (produits, quantités et prix avec détail du prix producteur des produits, des marges et autres frais de livraison, etc.) avec les emails et coordonnées des acheteurs. La méthode de livraison choisie est également indiquée.
 
-## Reports for Suppliers 
+Vous avez donc ici toutes les informations pour préparer des commandes individuelles une fois que vous avez tous les produits sources à portée de main ! Vous pouvez organiser votre mise en panier par point de livraison si vous filtrez par méthode de livraison choisie par exemple, ou packer par acheteur si vous remplissez caisse par caisse pour chaque acheteur, ou bien, si vous disposez tous les paniers et les remplissez produit par produit, vous pouvez filtrer par produit. Tout cela se fait aisément dans un tableur type Libre Office Calc ou Excel.&#x20;
 
-If you have set [Permissions](enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) for a Hub to sell your products, and they have opened an [Order Cycle ](shopfront/order-cycle/order-cycles-for-hubs.md)with your products listed, you will be able to run reports to pack and process your orders. If you need to see Customer names in these reports, you can ask the Hub to make them visible in these reports. Hubs can make this change in their [Enterprise Settings](enterprise-profile/enterprise-settings.md).
+![](<../.gitbook/assets/image (69).png>)
 
-## Some Helpful Reports
+## Totaux de cycle de vente par producteur <a href="#order-cycle-supplier-totals" id="order-cycle-supplier-totals"></a>
 
-If you need to manage availability of products to meet orders, the [**Order** **Cycle Supplier Totals**](reports.md#order-cycle-supplier-totals) report will help support and manage the ordering process.  
+L'image ci-dessous montre les informations contenues dans ce rapport. Comme pour le rapport précédent, ce rapport peut être filtré par cycle de vente pour un hub donné par exemple, ou selon un intervalle de dates, et peut être téléchargé au format CSV (ce format s'ouvre via un tableau type Libre Office Calc ou Excel) pour être manipulé à votre guise. Le producteur est listé en entré dans la première colonne. Ensuite vous voyez pour chaque **produit** et **variante** de ce producteur le **nombre total d'unités commandées** selon les filtres définis. Ce rapport permet donc au hub de savoir les quantités de chaque produit source dont il a besoin pour satisfaire les commandes passées, et permet au producteur de savoir quoi préparer pour livrer le hub.&#x20;
 
-If you pack and process orders on an individual or batch basis, the [**Order Cycle Customer Totals**](reports.md#order-cycle-customer-totals) report will help to guide your packing and delivery process for customers. 
+{% hint style="info" %}
+Attention, la quantité ici correspond bien au nombre d'unités commandées du conditionnement de la variante. Il arrive fréquemment, par inattention, des erreurs de préparation de panier, par exemple si un producteur vend des courgettes par 500 g et qu'il y a 4 unités de commandées, ce sont bien 2 kg à préparer... parfois, l'habitude de penser "au kg" des producteurs qui vendent sur le marché entraîne des erreurs, ici par exemple, la préparation de 4 kg au lieu de 2...
+{% endhint %}
 
-The [**Mailing List**](reports.md#mailing-list-report) ****and [**Addresses**](reports.md#addresses) ****reports are helpful for managing your customer’s details. 
+![](<../.gitbook/assets/image (53).png>)
 
-The [**Sales Tax**](reports.md#sales-tax) ****report is useful for enterprises dealing with GST/VAT reporting. 
+## Liste de mails / adresses <a href="#mailing-list" id="mailing-list"></a>
 
-The [**Bulk Co-op**](reports.md#bulk-co-op-totals-by-suppliers-report) ****report helps with bulk ordering decision making.
+Vous retrouverez ici les noms et adresses email des acheteurs ayant passé commande sur votre boutique, ou leurs adresses selon le rapport sélectionné. Vous pouvez filtrer par cycle de vente et télécharger au format CSV.&#x20;
 
-## Order Cycle Customer Totals
+![](<../.gitbook/assets/image (51).png>)
 
-If you fulfill orders on a individual basis or prepare individual orders in bulk when your order cycle closes, the Order Cycle Customer Totals report can be used to guide your packing and delivery process for customers. The report can be filtered by order cycle or for a particular date range. If you manage multiple enterprises you can filter the reports by enterprise.
+## Listings produits <a href="#all-products-and-inventory-on-hand" id="all-products-and-inventory-on-hand"></a>
 
-The report includes a line item for each product ordered by a customer, including the customer's **email** and **contact** details, chosen **shipping method**, the **product details** including **item cost** and **fees.** There is also a line item showing a **Total** cost for each customer for the specified order cycle or date range. This report provides all the information required to pack an order, contact the customer and arrange for delivery or collection. 
+Les deux rapports "tous les produits" et "produits disponibles (stock positif)" présentent la liste des produits ainsi que leur prix. Le rapport "produits disponibles" ne présente que les produits pour lesquels vous disposez d'un stock positif. Si vous filtrez par producteurs les produits du producteur seront affichés. Si vous sélectionnez un distributeur tous les produits des catalogues pour lesquels le distributeur a la permission de vendre les produits seront affichés. Ces rapports peuvent servir par exemple à un producteur pour exporter la liste de ses produits afin de les réimporter dans un autre logiciel.
 
-The screenshot below shows some of the information contained in an Order Cycle Customer Totals report. 
+![](<../.gitbook/assets/image (84).png>)
 
-![Order Cycles Customer Totals Report](../.gitbook/assets/order-cycle-customer-totals.png)
+## Résumé des marges et commissions
 
-## Order Cycle Supplier Totals
+Les entreprises peuvent paramétrer des [marges et commissions](broken-reference) pour spécifier sur quels types de dépenses sont utilisées les marges et commissions collectées.  Cela permet au vendeur/distributeur de communiquer avec transparence sur les marges pour que l'acheteur comprenne ce qui revient au producteur et pourquoi le distributeur prend un marge. Ce rapport permet d'avoir une vision agrégée et détaillée des marges et commissions collectées.  Il contient des filtres par dates, hub, producteur et cycle de vente, type de marges et commissions à inclure dans le rapport (selon leur nom), méthode de livraison et méthode de paiement.&#x20;
 
-The Order Cycle Supplier Totals report provides a summary of total orders that need to be fulfilled for a particular order cycle or date range. If you distribute products from one or more suppliers and need to ensure availability of products to prepare for packing and delivery, the Order Cycle Supplier Totals report will be helpful. 
+![](<../.gitbook/assets/image (66).png>)
 
-In the Order Cycle Supplier Totals report, product orders are listed by supplier, with a line item for each **product** or **variant,** the **amount** of orders for each, the **unit** and **total** **costs** and details about **incoming transport**. When your order cycle closes, or when you're ready to fulfill a batch of orders, this report will shows you how much of each product you will need in stock to successfully fulfill all pending orders.
+_Exemple 1:_ une boutique collecte sur chaque commande une marge de 2% de type "Levée de fonds" pour soutenir l'installation de nouveaux producteurs. Elle peut utiliser ce rapport pour connaître facilement le total collecté sur un cycle de vente particulier.&#x20;
 
-The screenshot below shows some of the information contained in an Order Cycle Supplier Totals report. 
+_Exemple 2:_ un hub collecte des frais de transport sur les produits du producteur A et les reverse au producteur B qui passe récupérer les produits du producteur A et les amène au point de retrait du hub. Il peut utiliser ce rapport pour savoir combien il doit reverser au producteur B pour un cycle de vente donné ou une période donnée.&#x20;
 
-![Order Cycle Supplier Totals Report](../.gitbook/assets/assets_-l9rgk4wewex_zxxizmw_-lm42xlqo4kply0-_ccm_-lm49bk3eqrejfqsm9wk_order-cycle-supplier-totals.png)
+_Exemple 3:_ un hub a paramétré une marge pour refléter de façon transparente à ses acheteurs le montant payé à la plateforme Open Food Network. Il peut utiliser se rapport pour savoir combien il va devoir verser à Open Food Network sur un cycle de vente ou une période donnée (voir image ci-dessous, en Anglais pour le moment).&#x20;
 
-## Mailing List Report
+![](<../.gitbook/assets/image (90).png>)
 
-The mailing list report shows the names and email addresses of customers who have placed orders in your shopfront. This report can help you contact customers who have purchased items from your shopfront.  For example, you may need to notify a customer \(or set of customers\) if a product they bought is not available or if you are unable \(say, due to illness\) make the delivery schedule they requested. 
+## Préparation des commandes <a href="#packing-reports" id="packing-reports"></a>
 
-You can filter the report according to order cycle, and if you manage multiple enterprises, you can specify the shopfront \(**distributor**\) that the customer placed orders through or produce a report for each **supplier** of products that have been ordered. 
+La plupart des hubs utilisent le rapport Totaux cycle de vente par acheteur et exporte les données pour les organiser selon le mode opératoire de leur mise en panier. Mais vous disposez également de deux autres rapports pour préparer la mise en panier.
 
-See below for an example of the Mailing List Report:
+**Préparation des commandes par acheteur**
 
-![Mailing List Report](../.gitbook/assets/mailing-list.png)
+Ce rapport liste tous les acheteurs ayant passé commande, avec les quantités commandées. Il est intéressant pour les hubs préparant les commandes utilisateurs par utilisateurs. Par contre, l'information sur la méthode de livraison choisie n'est pas indiquée.
 
-## Addresses
+**Préparation des commandes par producteur**
 
-The Addresses report includes Customer contact details, Hub and Shipping Method, and can be filtered by Order Cycle, Shopfront \(**Distributor**\) and **Supplier.** 
+Ce rapport liste pour un distributeur donné tous les producteurs et leurs produits, et pour chaque produit, le nom des acheteurs qui ont commandé ce produit et la quantité commandée. Il est intéressant pour les hubs préparant les commandes par fournisseur / produit.&#x20;
 
-![Addresses Report](../.gitbook/assets/addresses.png)
+![](<../.gitbook/assets/image (88).png>)
 
-## All Products and Inventory \(in stock\)
+## TVA <a href="#sales-tax" id="sales-tax"></a>
 
-The All Products and Inventory \(in stock\) reports can be used as the basis for a paper copy ordering sheet. It lists all of your products and their prices and can be printed and used to allow customers to submit manual orders from your existing product list. 
+Le rapport le plus utilisé sera le rapport "TVA par taux de taxe" pour les déclarations à effectuées, souvent par taux de taxe. Mais vous pouvez aussi obtenir les informations de TVA par type de taxe (ventes, livraison, marges, etc.). Vous obtenez le détail pour chaque taux de taxe de chaque commande et pouvez aisément par un export CSV calculer le total à déclarer sur la période choisie.
 
-The **All Products** report lists all of your products regardless of the in stock quantities, so it will include products that are currently listed as having zero stock. The **Inventory \(in stock\)** report shows only products which have a positive 'in stock' value.
+![](<../.gitbook/assets/image (52).png>)
 
-Below is an example of the All Products Report:
+## Achats groupés en vrac
 
-![All Products Report](../.gitbook/assets/all-products.png)
+Le rapport "achats groupés - totaux par producteur" indique au gestionnaire du hub si un ou plusieurs lots complets ont été atteints par la somme des commandes individuelles, et selon la réponse, combien il manque d'unités, ou de combien on a dépassé la limite, pour soutenir la décision du hub de commander ou pas le lot, voire plusieurs lots, et éventuellement gérer un peu de stock. Ce rapport n'est utile que pour les produits [paramétrés comme "vendus par lots"](broken-reference).
 
-## Enterprise Fee Summary
+Quand le cycle de vente ferme, ce rapport peut vous aider à répondre aux questions suivantes :&#x20;
 
-Enterprises can set up [Enterprise Fees](shopfront/enterprise-fees.md) to identify and control allocation of costs / prices for different purposes. These fees enable price transparency to customers when they visit your shopfront. The Enterprise Fee Summary report is used to summarise the amounts of fees that were charged, and to whom. 
+* Est-ce que les acheteurs ont commandé assez d'unités pour qu'on commande le lot au fournisseur ?&#x20;
+* Combien d'unités en plus les acheteurs sont-ils prêts à commander pour atteindre la taille du lot ?
+* Combien de lots le hub devrait il commander au fournisseur ?
+* Si le hub commande un ou plusieurs lots, quel stock aura-t-il à gérer ?&#x20;
 
-The report can be filtered by Shopfront \(**Hub**\), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
+Ci-dessous figure une illustration de comment ce rapport peut être utilisé :&#x20;
 
-![Enterprise Fee Summary Report](../.gitbook/assets/image%20%2824%29.png)
+![](<../.gitbook/assets/image (72).png>)
 
-**Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle. 
-
-**Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
-
-**Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
-
-![Enterprise Fee Summary Report for a specified Fee \(Open Food Network Fee\) ](../.gitbook/assets/image%20%282%29.png)
-
-## Packing Reports
-
-Some enterprises use their order confirmation emails as packing sheets, or download and modify the Order Cycle Customer Totals report to suit their specific needs. The two Packing Reports offer additional options for managing the packing process.
-
-**Pack by Customer** 
-
-This report lists each customer who placed an order and shows each item ordered by the customer, including the quantities of each item. It’s useful for shops who pack orders customer by customer.
-
-**Pack by supplier**
-
-This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered. The report is useful for shops who pack orders according to supplier.
-
-## Sales Tax
-
-This report is useful to separate the tax component of Sales, Delivery and fees.
-
-![Sales Tax Report](../.gitbook/assets/sales-tax-report.png)
-
-## Xero Invoices
-
-This report creates CSV files which can be imported into the accounting package ‘Xero’ to generate invoices for customers.
-
-### Generating the report
-
-![Xero Report Fields](../.gitbook/assets/xero-report.png)
-
-**Date range:** You can filter orders by the date the order was placed.
-
-**Report type:** You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
-
-**Hub and order cycle:** You can specify which Hub and Order Cycle, the orders were placed through.
-
-**Initial invoice number:** To ensure compatibility with your Xero invoice numbering system, enter the first invoice number you would like new invoices to be allocated. All subsequent invoices will be numbered from this point.
-
-**Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to batch date all the invoices in a single report. 
-
-**Due date:** You can select the due date to be marked on Xero invoices. Again this is editable in Xero.
-
-**Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it editable in Xero.
-
-**Download as CSV:** When you are ready to download the file for import check the box and click **search**.
-
-### Importing the report into Xero
-
-In Xero go to **Accounts**, **Sales** and click Import.
-
-![Xero Import](../.gitbook/assets/xero-import.png)
-
-Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
-
-![Xero Import Steps](../.gitbook/assets/xero-import-steps.png)
-
-Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered. 
-
-Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Open Food Network will include tax, but your tax free items will remain tax free.
-
-## Bulk Co-op Totals By Suppliers Report
-
-This report tells shop managers whether they have reached their bulk ordering threshold, and by how much they have exceeded or fallen short of this amount. Note you need to setup bulk sizes for your products before using this feature, see the [Group Buy - For Bulk Ordering](products-1/group-buy-for-bulk-ordering.md) Feature for instructions.
-
-This report will show the following information:
-
-* Did customers order enough of a product to justify ordering the bulk size from the supplier?
-* How much extra product are customers willing to purchase to help the group reach the bulk size threshold \(if [Group Buy](products-1/group-buy-for-bulk-ordering.md#enabling-group-buy-for-a-product) is enabled\)
-* How many bulk sizes are required to meet customer demand?
-* If the bulk size is ordered, how much stock will be left over
-* How many customers will be disappointed if this product isn’t ordered?
-
-See the example below for an illustration of how the Bulk Co-op Totals by Supplier report can be used:
-
-Example 1: Where the bulk ordering quantity has been reached:
-
-![Radishes](../.gitbook/assets/radishess.png)
-
-Example 2: where the bulk order quantity has not been reached:
-
-![Bok Choy](../.gitbook/assets/bok-choy.png)
-
-* _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
-
+_NB : le rapport "allocation" offre des fonctions assez similaires, mais montre le détail de chaque commande individuelle au lieu de cumuler les nombres d'unités commandées._&#x20;

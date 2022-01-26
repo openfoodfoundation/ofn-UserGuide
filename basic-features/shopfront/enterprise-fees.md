@@ -33,11 +33,11 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
 
-![](<../../.gitbook/assets/image (84) (1) (1).png>)
+![](<../../.gitbook/assets/image (84) (1) (1) (1).png>)
 
 ## Le calculateur
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1).png>)
 
 **Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 

@@ -18,5 +18,5 @@ Comme vous n'avez pas de vitrine OFN, ce produit ne sera visible nulle part. Par
 
 Leur résumé de profil indiquera également qu'ils vendent de la viande (ci-dessous).
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1) (1).png>)
 

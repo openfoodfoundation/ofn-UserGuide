@@ -24,7 +24,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
 
 &#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
@@ -59,7 +59,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 4\. Sélectionnez "Manage API credentials":
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (70) (1).png>)
 
 De là vous pouvez accéder au username de l'API, le mot de passe et la signature :&#x20;
 
@@ -133,7 +133,7 @@ Les frais du mode de paiement ne comprennent pas les taxes (TVA).
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commission pour les objets 3 et 4.
 

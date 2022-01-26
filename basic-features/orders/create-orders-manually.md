@@ -8,7 +8,7 @@ Parfois, vous souhaitez passer vous même une commande manuellement dans le syst
 
 Suivez ensuite pas à pas le processus :&#x20;
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90) (1).png>)
 
 Sélectionnez le distributeur sur lequel doit être enregistré la commande puis le cycle de vente. En fonction du cycle de vente choisi, les produits pouvant être ajoutés à la commande ainsi que les marges ne seront pas forcément les mêmes, selon le paramétrage du cycle de vente.&#x20;
 
