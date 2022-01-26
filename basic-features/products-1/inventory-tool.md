@@ -29,7 +29,7 @@ En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste de
 
 ## Nouveaux produits
 
-![](<../../.gitbook/assets/image (48) (1).png>)
+![](<../../.gitbook/assets/image (48) (1) (1).png>)
 
 Les nouveaux produits peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez modifier pour votre boutique les caractéristiques prix/stock d'un produit de la liste, vous devez l'ajouter à votre catalogue boutique. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 

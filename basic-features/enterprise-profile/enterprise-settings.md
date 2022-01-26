@@ -130,7 +130,7 @@ Un exemple de profil en version condensée (depuis la page "producteurs") :&#x20
 
 Et en version complète (depuis la carte, ou les pages boutiques):
 
-![](<../../.gitbook/assets/image (48) (1) (1).png>)
+![](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
 
 ### Propriétés / Labels
 

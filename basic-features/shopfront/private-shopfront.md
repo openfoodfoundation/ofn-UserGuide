@@ -9,7 +9,7 @@ Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si v
 
 Dans les [paramètres du profil](broken-reference), sous "informations de base", vous pouvez cocher le bouton "invisible"
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (1).png>)
 
 Votre boutique sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre boutique n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande.&#x20;
 

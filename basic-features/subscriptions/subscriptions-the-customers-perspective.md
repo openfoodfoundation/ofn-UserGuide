@@ -1,49 +1,37 @@
-# Subscriptions - the customer's perspective
+# Commande récurrente côté acheteur
 
-This page details what a customer with a subscription can expect. It also highlights some things that shops offering subscriptions should be aware of.
+Cette page décrit ce qui se passe pour l'acheteur qui a une commande récurrent dans une boutique, et met en exergue les points d'attention pour la boutique proposant à ses acheteurs des commandes récurrentes.
 
-## Signing up to OFN
+## S'inscrire sur Open Food Network <a href="#signing-up-to-ofn" id="signing-up-to-ofn"></a>
 
-Customers must have an account with OFN before you can process subscription orders for them.
+Détenir un compte sur la plateforme est obligatoire pour bénéficier de la fonctionnalité : les commandes récurrentes en mode "invité" (sans se connecter) sont donc impossibles.
 
-To create an account, direct the customer to the local Open Food Network home page and 'Login' at the top right hand corner.  They'll be guided through registering with OFN. _**Customers must have an active email address to register**_.
+Pour créer un compte en tant qu'acheteur, cliquez en haut à droite sur le bouton "se connecter" depuis la page d'accueil, selon le processus [décrit ici](broken-reference).​ Vous aurez juste besoin de saisir une adresse email valide et un mot de passe, un message de vérification de l'email avec un lien de confirmation sera envoyé à l'utilisateur, et une fois l'email confirmé, son compte sera créé et il pourra se connecter à la plateforme.
 
-After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login.&#x20;
+## Enregistrer sa carte bancaire et autoriser les prélèvements automatiques <a href="#saving-credit-cards-and-authourising-charges" id="saving-credit-cards-and-authourising-charges"></a>
 
-{% hint style="info" %}
-Due to over zealous email filters (designed to ward off spam) sometimes customers won't receive their confirmation email from us (or it will be directed to their junk folder).  If this occurs ask them to add open food network to their 'safe' list in their email account settings.
-{% endhint %}
+Les acheteurs souhaitant payer leur commande récurrente par prélèvement automatique sur leur carte bancaire ont besoin de a) enregistrer leur carte sur leur profil et b) autoriser la boutique proposant la commande récurrente à réaliser des prélèvements automatiques.&#x20;
 
-## Saving credit cards and authorising charges
+### a) Enregistrer sa carte bancaire dans son profil <a href="#a-saving-credit-card-details-in-the-customer-account" id="a-saving-credit-card-details-in-the-customer-account"></a>
 
-Customer who want to pay for their subscription orders via automated charges onto their credit/debit card (Stripe) need to a) save their preferred card in their OFN account and b) grant the shop permission to charge that card.&#x20;
+L'utilisateur accède à son compte, une fois connecté, via le bouton "**profil > compte**" en haut à droite. &#x20;
 
-### Saving credit card details in the customer account
+![](<../../.gitbook/assets/image (60).png>)
 
-The Customer's Account page can be accessed after logging into OFN by the top right hand 'Profile' button:
+Une fois dans son compte il peut visualiser / modifier ses cartes de crédit enregistrées.
 
-![](../../.gitbook/assets/subcard1.jpg)
+Il est possible de sauvegarder une ou plusieurs carte de crédit dans l'onglet cartes bancaires :
 
-Your customer can save one or more cards in their account, in the **credit cards** tab.
+Si plusieurs cartes bancaires sont enregistrées, la carte bancaire indiquée "par défaut" sera celle utilisée par Stripe pour prélever les montants des commandes automatiquement passées pour l'acheteur dans le cadre d'une commande récurrente. Si aucune carte bancaire n'est sélectionnée "par défaut", le paiement ne pourra pas avoir lieu.&#x20;
 
-![](../../.gitbook/assets/subcard2.jpg)
+![](<../../.gitbook/assets/image (78).png>)
 
-If a customer registers more than one debit/credit card, then the card which is denoted as 'default' will be the one which is charged automatically by Stripe (if they have a subscription with Stripe as the chosen payment method).&#x20;
+N. B. : Les cartes bancaires sauvegardées ici peuvent également être sélectionnées lors d'une commande classique au moment du paiement.&#x20;
 
-{% hint style="danger" %}
-If none of their cards are selected as 'default' their credit card payments won't be processed.
-{% endhint %}
+![](<../../.gitbook/assets/image (48).png>)
 
-![](<../../.gitbook/assets/image (14).png>)
+### **b) Autoriser la boutique en ligne à réaliser des prélèvements automatiques** <a href="#b-authourising-a-shop-to-charge-their-default-card" id="b-authourising-a-shop-to-charge-their-default-card"></a>
 
-If your customer saves credit cards in their account, they'll also be able to quickly select these when they shop in your shop at checkout.
+**Si vous ne voyez aucune boutique dans la section "Boutiques autorisées" (voir image ci-dessus), c'est que la boutique ne vous a pas ajouté à sa** [**liste d'acheteurs**](broken-reference)**. Contactez-là pour quelle le fasse !**
 
-![](<../../.gitbook/assets/image (15).png>)
-
-### **Authorising a shop to charge their default card**
-
-**You should add your customers to your** [**Customer List**](../shopfront/customer-management-and-conditional-displays-prices/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card. The customer will not see your enterprise under the 'Authorised Shops' list on the right if you have not done so.**
-
-For the Stripe payment method to work for a subscription the customer has with your enterprise they must check the 'Allow Charges' box:
-
-![](../../.gitbook/assets/subcard2.jpg)
+Sinon il vous suffit de cocher la case pour autoriser la boutique en question à prélever automatiquement sur votre carte par défaut les montants des commandes automatiques passées dans le cadre de votre commande récurrente.
