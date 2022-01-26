@@ -51,7 +51,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 1. Connectez-vous à votre compte Paypal
 2. Rendez-vous sur account settings:
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 3\. Cliquez sur "mettre à jour" l'accès API:
 
@@ -105,7 +105,7 @@ Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué
 
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](<../../.gitbook/assets/image (85) (1).png>)
+![](<../../.gitbook/assets/image (85) (1) (1).png>)
 
 #### Le paiement via Stripe pour les acheteurs
 

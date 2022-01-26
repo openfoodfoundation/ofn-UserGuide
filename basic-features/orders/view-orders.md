@@ -201,7 +201,7 @@ Vos acheteurs peuvent voir l'historique de leurs commandes ainsi que les soldes 
 
 Votre acheteur verra l'historique de ses commandes dans toutes les boutiques de la manière suivante :&#x20;
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (85) (1).png>)
 
 {% hint style="warning" %}
 Comme vous pouvez le voir, l'acheteur verra à tout moment son solde courant dans votre boutique. Si vous ne capturez pas les paiements à l'issue d'un cycle de vente, les sommes dues vont s'accumuler, alors que l'acheteur aura en fait bien réglé ses commandes. Cela peut prêter à confusion pour l'acheteur, nous vous invitons donc à capturer les paiements de manière rigoureuse.
