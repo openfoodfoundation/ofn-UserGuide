@@ -46,7 +46,7 @@
     * [Impression de tickets de caisse](basic-features/orders/thermally-printed-receipts.md)
   * [Abonnements / commandes récurrentes](basic-features/subscriptions/README.md)
     * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
-    * [Subscriptions- Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
+    * [Création et gestion d'une commande récurrente](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
   * [Reports](basic-features/reports/README.md)

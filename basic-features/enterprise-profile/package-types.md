@@ -2,7 +2,7 @@
 
 Lors de votre première connexion à l'interface d'administration, vous devrez choisir le type de profil correspondant à votre situation. **Sans cette étape, la création de votre entreprise ne sera pas finalisée, votre entreprise restera invisible sur la carte.** Pour accéder à l'interface d'administration, assurez-vous d'être connecté(e) à la plateforme puis cliquez sur "Profil" en haut à droite, puis "Administration" :&#x20;
 
-![](<../../.gitbook/assets/image (68) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (68) (1) (1) (1) (1) (1).png>)
 
 Une fois sur l'interface administration, vous êtes invité(e) à choisir un type de profil correspondant à l'entreprise créée. En fonction de ce choix, les menus vous permettant d'affiner votre profil et d'accéder aux fonctionnalités dont vous avez besoin seront rendus accessibles sur la [page des paramètres de votre entreprise](broken-reference).&#x20;
 
@@ -38,7 +38,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
 Deux type de profils sont proposés pour les non-producteurs (distributeurs / hubs) :&#x20;
 
-![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (1) (1).png>)
 
 *   **Profil simple**&#x20;
 

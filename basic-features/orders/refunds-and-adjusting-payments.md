@@ -39,7 +39,7 @@ Vous allez vouloir soit saisir l'ajustement en édition de cette commande, soit 
 
 Vous constatez bien sur votre compte Stripe le remboursement partiel :&#x20;
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 {% hint style="info" %}
 Le remboursement va mettre 5 à 10 jours pour apparaître sur le compte de votre acheteur.

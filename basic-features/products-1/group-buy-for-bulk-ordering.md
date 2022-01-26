@@ -36,7 +36,7 @@ Dans le menu commandes > gestion des commandes par lot :
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter les quantités commandées pour atteindre le lot complet.
 6. Sauvegardez vos modifications
 
-![](<../../.gitbook/assets/image (69) (1) (1).png>)
+![](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
 
 **Nombre d'unités commandées** divise **** le total des quantités commandées par la quantité totale du lot. Si le nombre est supérieur à 1, cela signifie que la commande de l'acheteur est équivalente ou supérieure au maximum d'unités du lot. A l'inverse, si le nombre est inférieur à 1, cela signifie que le lot n'est pas encore complet. Plus vous augmentez les quantités commandées, plus ce nombre augmentera également.&#x20;
 

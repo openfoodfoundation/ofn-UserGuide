@@ -23,7 +23,7 @@ Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **C
 
 Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
-![](<../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
 
 En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 
@@ -80,10 +80,10 @@ La liste des produits que vous avez décidé de masquer se trouve ici :&#x20;
 
 Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certains produits préalablement masqués en cliquant sur le bouton "Ajouter" :
 
-![](<../../.gitbook/assets/image (47) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1).png>)
 
 ## Catalogue boutique et cycle de vente
 
 Dans le menu Cycle de vente > Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](<../../.gitbook/assets/image (46) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1).png>)

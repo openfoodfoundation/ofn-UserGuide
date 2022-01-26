@@ -93,7 +93,7 @@ Si vous souhaitez utiliser la fonctionnalité d'[abonnement](broken-reference), 
 
 Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton (menu Entreprises > Gérer > Méthodes de paiements) :&#x20;
 
-![](<../../.gitbook/assets/image (69) (1).png>)
+![](<../../.gitbook/assets/image (69) (1) (1).png>)
 
 Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
@@ -113,7 +113,7 @@ Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour 
 
 ## Frais associés aux méthodes de paiements
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 Vous pouvez associer des frais aux méthodes de paiement.
 

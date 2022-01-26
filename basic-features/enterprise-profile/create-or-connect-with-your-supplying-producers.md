@@ -36,7 +36,7 @@ Une fois connecté à l'interface d'administration, rendez-vous dans le menu "en
 
 Cette action vous amènera sur cette page :&#x20;
 
-![](<../../.gitbook/assets/image (46) (1) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1) (1).png>)
 
 **Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie qu'il existe déjà un profil pour ce producteur. Dans ce cas passez directement  à [l''option 2](broken-reference).
 

@@ -15,11 +15,11 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la **consti
 
 En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
 
-![](<../../.gitbook/assets/image (83) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :&#x20;
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 

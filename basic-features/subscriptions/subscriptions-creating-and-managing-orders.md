@@ -1,193 +1,141 @@
-# Subscriptions- Creating & Managing orders
+# Création et gestion d'une commande récurrente
 
-This page describes how shops can setup unique subscriptions for individual customers, including which items are included in their subscription, which [schedule](subscriptions-configuration.md#schedules) the subscription applies to (ie the rate at which they receive their order) and how to pause/edit their subscription.
+Cette page explique comment mettre en place une commande récurrente pour un acheteur donné, incluant : la sélection des produits qui devront être automatiquement commandés pour l'acheteur, le rythme de ces commandes automatiques. Mais aussi, comment mettre en pause ou supprimer une commande récurrente.
+
+{% hint style="warning" %}
+Rappel : dans la première version du module, seuls les gestionnaires de boutiques en ligne peuvent mettre en place des commandes récurrentes, l'acheteur n'a pas la main directement dessus pour générer la mise en place de la commande récurrente.
+{% endhint %}
+
+**Rappel des choses à faire avant de passer aux étapes décrites ici :**
+
+* [Activez les commandes récurrentes dans les paramètres de l'entreprise](broken-reference)
+* Vérifiez ou mettez en place les [méthodes de paiement et de livraison](broken-reference) pour l'entreprise​
+* [Contactez vos acheteurs pour connaître leurs coordonnées et préférences (option de paiement choisie, produits à commander et rythme de commande, ](broken-reference)etc.) et leur rappeler [ce qu'ils doivent faire de leur côté (création d'un compte utilisateurs, enregistrement d'une carte de crédit le cas échéant, etc.)​](broken-reference)
+* [Ajoutez vos acheteurs à votre liste d'acheteurs](broken-reference)
+* Créez au moins un [rythme d'abonnement​](broken-reference)
+
+## 6) Créer une commande récurrente <a href="#6-create-subscriptions" id="6-create-subscriptions"></a>
+
+Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Abonnements**.&#x20;
+
+![](<../../.gitbook/assets/image (68).png>)
+
+Cliquez ensuite sur "Nouvel abonnement" :&#x20;
+
+![](<../../.gitbook/assets/image (69).png>)
+
+**Acheteur :** Sélectionnez un acheteur dans la liste déroulante (seuls les acheteurs présents dans votre liste d'acheteurs peuvent être sélectionnés).
+
+**Rythme d'abonnement :** Sélectionnez le rythme correspondant pour l'acheteur en question.
+
+**Méthode de paiement :** pour rappel seuls Stripe et le paiement manuel (espèce, chèque, virement bancaire) peuvent être utilisés pour la mise en place de commandes récurrentes.
+
+**Méthode de livraison :** Sélectionnez une méthode de livraison.
+
+**Commence :** Il s'agit de la date de démarrage de la commande récurrente.&#x20;
 
 {% hint style="danger" %}
-&#x20;In this first version of the subscriptions feature, **enterprises must setup subscriptions on behalf of their customers.** Customers can not setup their own subscriptions.
+Si cette date est postérieure à la date d'ouverture d'un cycle de vente en cours (non encore terminée) correspondant au rythme d'abonnement défini pour la commande récurrente, une commande sera automatiquement générée pour l'acheteur pour le cycle de vente en cours. Dans le cas contraire, la première commande automatique sera passée à l'ouverture du prochain cycle de vente correspondant au rythme d'abonnement choisi.&#x20;
 {% endhint %}
 
-**Checklist of things to do before you create subscriptions for you customers:**
-
-* Enable subscriptions in your [Enterprise Settings](subscriptions-configuration.md#activate-subscriptions)
-* Setup [shipping and payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions)
-* Have made contact with you customers to [get their details](subscriptions-configuration.md#gather-information-from-your-customers)
-* Added your subscription customers to your [customer list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list). &#x20;
-* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
-* Created at least one [Schedule](subscriptions-configuration.md#schedules)
-
-## Create subscriptions
-
-Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
-
-![](<../../.gitbook/assets/sub1 (1) (1).jpg>)
-
-Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription. &#x20;
+**Termine :** Après cette date la commande récurrente ne sera plus générée. Ce champ peut être laissé vide et dans ce cas la commande se générera indéfiniment (mais cela peut être modifié par la suite).
 
 {% hint style="danger" %}
-You must have created a schedule of order cycles before you can create a subscription. Read more [here](subscriptions-configuration.md#schedules).
+Si la date de fin de la commande récurrente de l'acheteur se situe après la date de début d'un cycle de vente et avant la date de fin de celui-ci, il n'y aura pas de génération de commande sur ce cycle de vente. La dernière commande ne sera générée que pour le dernier cycle de vente qui ferme avant la fermeture de leur commande récurrente.
 {% endhint %}
 
-### Basic Details
+**Adresse :** Complétez les coordonnées de votre acheteur (s'il était déjà connu de la plateforme, donc si l'acheteur a un compte et à déjà passé commande et rempli son adresse donc, les champs seront pré-remplis).&#x20;
 
-![](../../.gitbook/assets/sub2.jpg)
-
-**Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription.&#x20;
-
-**Schedule:** Select the schedule that this customer wants to subscribe to.
-
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method (cash, cheque, bank transfer). See [here](subscriptions-configuration.md#payment-methods) for more information.&#x20;
-
-**Shipping method:** Select the customer’s preferred shipping method.
-
-**Begins at:** This is the date that the customer’s first subscription generated order will be generated.&#x20;
+![](<../../.gitbook/assets/image (82).png>)
 
 {% hint style="danger" %}
-If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not, their first subscription order will be placed when the next order cycle to open in their schedule begins.
+Attention : si vous mettez à jour les coordonnées d'un acheteur depuis votre liste d'acheteurs, ces modifications ne seront pas répercutées sur les commandes récurrentes paramétrées. Vous devrez donc aussi préciser ces changements ici.
 {% endhint %}
 
-**Ends at:** After this date the customer’s subscription orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely.&#x20;
+**Ajouter des produits :** Vous pouvez ajouter des produits proposé par le distributeur à condition que ces produits soient planifiés à la vente dans un cycle de vente à venir, et que ce cycle de vente corresponde au rythme d'abonnement choisi par l'acheteur.&#x20;
+
+![](<../../.gitbook/assets/image (47).png>)
 
 {% hint style="danger" %}
-If the 'Ends at' date falls in the middle of a future order cycle then no subscription order will be placed.For example:
-
-* If Ends at date is 10/01/2020 but closest order cycle in this customer's schedule is due to open 9/01/2020 and close 11/01/2020 then no order will be generated for the customer.
-* If Ends at date is 12/01/2020 then the above order cycle will generate a last subscription order for the customer.
+Vous ne pouvez pas ajouter un produit si ce dernier n'est pas proposé à la vente dans un cycle de vente futur correspondant au rythme d'abonnement de l'acheteur ! Un message d'erreur s'affichera le cas échéant.
 {% endhint %}
 
-### Address
-
-Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
-
-![](<../../.gitbook/assets/New Subscription Address.png>)
-
-{% hint style="warning" %}
-If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
-{% endhint %}
-
-### **Add Products**
-
-Add the items the customer wishes to receive from your enterprise on a regular basis.
-
-![](<../../.gitbook/assets/New subscription add products>)
-
-{% hint style="warning" %}
-You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
-{% endhint %}
-
-### Review & Save
-
-Check that details are correct and then click **Create Subscription** or **Cancel**.
-
-{% hint style="warning" %}
-If the schedule for which you have just created a customer's new subscription has an open order cycle then their first order will be generated immediately unless you change the 'Begins at' date to some point in the future.
-{% endhint %}
-
-#### **What happens if the price of a product changes after the subscription is made?**
-
-The prices of items within subscriptions will update and the customer will be charged according to the updated price.  At the start of each order cycle with which their subscription is generated they will receive an email with a summary of their order, including up-to-date prices.
-
-#### **What if a product in a subscription is not available in an order cycle?**
-
-When an item in a subscription is not available (for example if it is a seasonal product) the customer will be alerted in their confirmation emails.
-
-## Edit a customer’s subscription
-
-### Edit the base subscription
-
-To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (blue menu) -> **Subscriptions (**green sub-menu).&#x20;
-
-Select the enterprise with which the customer has a subscription from the drop-down menu. &#x20;
-
-![](<../../.gitbook/assets/sub1 (1).jpg>)
-
-A table listing all your customers' subscriptions will be then visible.   Select the Edit (pen and paper) icon to the right of the customer:&#x20;
-
-![](<../../.gitbook/assets/editsub (1).jpg>)
-
-{% hint style="success" %}
-You can change the products the customer orders via subscription, their preferred shipping and payment methods and the start/end dates of their subscription.
-{% endhint %}
-
-{% hint style="danger" %}
-You can not change the schedule of the customer's subscription. Instead the subscription must be recreated in the new preferred schedule and the old version deleted.
-{% endhint %}
-
-### Edit one specific order
-
-If you want to change a single upcoming order in a subscription you can click on the number in the customers’ _**orders**_ column.
-
-This will reveal all upcoming orders in the schedule, and you can then edit a specific order.
-
-![](<../../.gitbook/assets/Edit single subscription order>)
-
-{% hint style="warning" %}
-Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
-{% endhint %}
-
-### Delete a subscription
-
-To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
-
-![](../../.gitbook/assets/cancelsub.jpg)
-
-{% hint style="warning" %}
-&#x20;If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
-{% endhint %}
-
-### Pause a subscription
-
-A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button (two vertical lines) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.&#x20;
-
-![](../../.gitbook/assets/pausesub.jpg)
-
-To un-pause (re-activate) a subscription, click on the **play** (arrow) button.
-
-{% hint style="warning" %}
-If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.&#x20;
-
-Subscriptions re-activated in the middle of an open order cycle will generate orders immediately.
-{% endhint %}
-
-## How are subscriptions processed?
-
-You have set up a subscription for a customer. What happens now, each time an order cycle opens and closes?
-
-### **Order Cycle belonging to the subscription schedule opens:**
-
-* Your customer's order will be created immediately.  They will receive an email notifying them of this.
-* Stock levels of products ordered by the subscription will be deducted accordingly at this time.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned summarising how many subscription have been placed, and how many had issues (e.g. insufficient stock).&#x20;
-* If your enterprise is configured such that 'Orders can be changed/canceled while an order cycle is open' (see [here](subscriptions-configuration.md#activate-subscriptions)) then customers with a subscription generated order can remove products from their order or cancel it.
+#### Vérifier et enregistrer : relisez le tout et cliquez sur créer un abonnement ou annuler. <a href="#summary" id="summary"></a>
 
 {% hint style="info" %}
-Note, if you create a subscription while there's an open order cycle in the schedule, _an order will be immediately created_ for that subscriber.
+Attention : si vous avez un cycle de vente en cours correspondant au rythme d'abonnement de la nouvelle commande récurrente saisie, dès la création de la commande récurrente, une commande va être générée et l'acheteur recevra un email de confirmation. Si vous ne souhaitez pas que la première commande automatique soit générée sur le cycle de vente en cours, assurez-vous de ne pas avoir de cycle de vente ouvert, ou mettez une date de début de commande récurrent postérieure à la fin du cycle de vente en cours.
 {% endhint %}
 
-{% hint style="warning" %}
-Customers are not able to add items to a subscription order once it has been generated, even if the 'Orders can be changed/canceled while an order cycle is open' button is enabled.  In doing so they will create a second order and taken to the checkout as normal.
-{% endhint %}
+**Que se passe-t-il si le prix d'un produit figurant dans une commande récurrente change ?**&#x20;
 
-### **The Order Cycle Closes**
+Les prix des produits dans les commandes récurrentes seront mis à jour selon les prix en vigeur dans le cycle de vente correspondant au déclenchement d'une nouvelle commande automatique. L'acheteur sera donc, à chaque nouvelle commande passée automatiquement en son nom, notifié de la commande passée pour lui et des prix appliqués.&#x20;
 
-* When the Order cycle closes the subscription orders will be _confirmed_.  Customers will be sent an _order confirmation email_.
-* Customers who opted to pay for their subscription by Stripe will have their credit/debit card debited at this point.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned confirming how many subscription have been processed. It will also detail possible errors (eg. a credit card that couldn't be billed).
+**Que se pass-t-il si un produit figurant dans une commande récurrente n'est pas disponible pour un cycle de vente donné ?**&#x20;
 
-### Planning for future subscriptions
+Dans ce cas, l'acheteur sera alerté de l'indisponibilité de certains produits dans sa confirmation de commande.&#x20;
 
-There are several ways in which you may opt to plan future order cycles for your enterprise, now that you offer customers the option of a regular automated subscription order:
+## 7) Modifier la commande récurrente d'un acheteur <a href="#7-edit-a-customers-subscription" id="7-edit-a-customers-subscription"></a>
 
-* Create all order cycles for the season in advance. A quick way of doing this is to copy an order cycle and modify open/closing dates and name to span the period of time desired.  Add order cycles to the subscription schedules as desired.
+### Modifier tout l'abonnement <a href="#edit-the-base-subscription" id="edit-the-base-subscription"></a>
+
+Depuis la page **Abonnements**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
+
+![](<../../.gitbook/assets/image (83).png>)
+
+A partir de là vous pouvez modifier les produits de la commande récurrente, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin.&#x20;
 
 {% hint style="info" %}
-If you set up lots of order cycles in advance, be sure to check with your suppliers about seasonal availability of items!
+**Vous ne pouvez pas modifier le rythme d'abonnement**. Pour cela vous devez recréer une commande récurrente avec un nouveau rythme et supprimer l'ancienne.
 {% endhint %}
 
-* Create order cycles on a weekly (or monthly) basis. On creation, make sure you also add it to the relevant subscription schedule.
+### Modifier une commande automatique planifiée spécifique <a href="#edit-one-specific-order" id="edit-one-specific-order"></a>
 
-{% hint style="success" %}
-Tips:
+Dans la colonne "commandes", cliquez sur le numéro affiché (qui représente le nombre de commandes planifiée dans le cadre de la commande récurrente. Ce nombre correspond à tous les cycles de vente à venir correspondant au rythme d'abonnement de la commande récurrente). Vous accéderez ainsi à la liste de toutes les commandes planifiées pour les prochaines cycles de vente, et vous pourrez en modifier/annuler une en particulier.&#x20;
 
-* You may like to promote the fact you offer subscriptions. This may attract potential customers to purchase items from your enterprise. Veg Box schemes are very popular and can be replicated using the subscription functionality.
-* If you notice a number of customers order the same items regularly then offering them the option of an automated order (subscription) might be greatly appreciated.
+![](<../../.gitbook/assets/image (46).png>)
+
+### Supprimer une commande récurrente <a href="#delete-a-subscription" id="delete-a-subscription"></a>
+
+Depuis la page **Abonnements**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
+
+Si vous supprimez une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la supprimer également. \
+\
+
+
+![](<../../.gitbook/assets/image (55).png>)
+
+### Mettre en pause une commande récurrente <a href="#pause-a-subscription" id="pause-a-subscription"></a>
+
+Depuis la page **Abonnements**, cliquez sur le bouton pause à droite de la commande que vous voulez mettre en pause. Cela stoppera les commandes automatiques de cette commande récurrente jusqu'à ce que vous cliquiez sur le bouton play (qui a remplacé le bouton pause une fois que vous avez cliqué dessus).
+
+Si vous mettez en pause une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la mettre en pause également. Et inversement si vous relancez la commande récurrente alors qu'un cycle de vente est ouvert.&#x20;
+
+
+
+## 8) Comment sont traitées les commandes récurrentes par la plateforme ? <a href="#8-how-subscriptions-are-processed" id="8-how-subscriptions-are-processed"></a>
+
+Une fois une commande récurrente en place pour un acheteur donné, comment cette commande est-elle traitée par le système à chaque ouverture / fermeture d'un cycle de vente ?
+
+**1) Un cycle de vente correspondant au rythme d'abonnement de la commande récurrente est ouvert :**
+
+* Une commande est automatiquement générée pour tous les acheteurs qui ont une commande récurrente programmée pour ce rythme d'abonnement. Un email les notifiant qu'une nouvelle commande va être passée en leur nom leur est adressé.
+* Le stock des produits commandés diminue du nombre d'unités correspondant.
+* Un email résumant toutes les commandes passés automatiquement ainsi que celles qui on eu des problèmes (stock insuffisant par exemple) est envoyé au responsable de la boutique.
+* Les acheteurs peuvent modifier la commande automatique passée en leur nom jusqu'à la fin du cycle de vente si vous leur en avez laissé la possibilité dans vos [paramètres de boutique](broken-reference).
+
+{% hint style="info" %}
+N'oubliez pas que si vous créer une nouvelle commande récurrente pour un acheteur, et que la date de début correspond à un cycle de vente en cours, une commande automatique sera immédiatement générée pour cet acheteur.
 {% endhint %}
+
+**2) Le cycle de vente ferme**
+
+* Les commandes générées automatiquement sont alors confirmées et l'acheteur reçoit un email de confirmation de commande.
+* Si l'acheteur paye par carte de crédit (via Stripe) sa carte est alors débitée du montant final de la commande.
+* Le responsable de la boutique (contact saisi dans "notifications" dans le sous menu "utilisateurs" du paramétrage d'une entreprise) reçoit un email récapitulatif des commandes passées automatiquement et des éventuelles erreurs, comme par exemple des cartes qui n'ont pas pu être débitées.
+
+### Planifier les commandes récurrentes <a href="#planning-for-future-subscriptions" id="planning-for-future-subscriptions"></a>
+
+Si vous proposez à vos acheteurs de passer automatiquement des commandes dans votre boutique, (soit via la commercialisation d'une formule d'abonnement, soit pour leur éviter simplement d'avoir à repasser la même commande toutes les semaines par exemple s'ils commandent leur pain de 2kg toutes les semaines), vous avez plusieurs manières de planifier vos cycles de vente futurs en lien avec l'offre que vous leur proposez :
+
+* Vous pouvez prévoir à l'avance tous les cycles de vente de la saison par exemple, en "dupliquant" un cycle de vente type, caler les dates d'ouverture / fermeture des cycles et de remise des produits correspondantes, et associer à chaque cycle les rythmes d'abonnement concernés. Attention, il ne faudra pas oublier de vérifier la disponibilité des produits avant chaque ouverture automatique d'un cycle de vente planifié !
+* Vous pouvez aussi créer les cycles de vente au fil de l'eau, d'une semaine sur l'autre, en associant sur chaque nouveau cycle les rythmes d'abonnement concernés.

@@ -15,7 +15,7 @@ Sélectionnez le distributeur sur lequel doit être enregistré la commande puis
 Vous serez redirigé sur la page suivante où vous pourrez ajouter les produits (vous devez commencez à taper les premières lettres pour que des suggestions apparaissent) : \
 
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (69) (1).png>)
 
 Indiquez les quantités. Une fois tous les produits ajoutés, cliquez sur **mettre à jour et recalculer les frais.**
 
