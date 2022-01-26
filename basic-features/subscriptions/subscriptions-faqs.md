@@ -1,34 +1,21 @@
-# Subscriptions - FAQs
+# FAQ commandes récurrentes
 
-### **If I remove an Order Cycle from a schedule when it already has open subscription orders attached to it, what will happen to those orders? Will those subscriptions get deleted?**
+### **Si je supprime l'association d'un rythme d'abonnement à un cycle de vente déjà ouvert, que se passe-t-il pour les commandes automatiques déjà lancées à l'ouverture du cycle ? Sont-elles supprimées ?** &#x20;
 
-Those orders will remain open. At the close of the order cycle the subscription orders will be processed like normal subscription orders. If you wanted to cancel all subscription orders that were attached to that order cycle you would need to [delete each subscription order individually](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription).
+Les commandes resteront ouvertes et seront traitées de façon normale, donc à la fermeture du cycle de vente, l'acheteur recevra une confirmation que la commande a bien été passée. Si vous souhaitez supprimer toutes les commandes automatiques associées au cycle de vente en question, vous devrez [annuler chaque commande individuellement](broken-reference).&#x20;
 
-### **If I add a new subscription in the middle of an open order cycle, will there be a subscription generated for that customer?**
+### **Si j'ajoute une commande récurrente associée à un rythme d'abonnement correspondant à un cycle de vente en cours, est-ce qu'une commande sera automatiquement passée pour l'acheteur pour le cycle de vente en cours ?**&#x20;
 
-Yes, if you create a subscription while there is an open order cycle in that schedule, an order will be generated for that customer. If you don't want the subscription to apply to the current open order cycle you'll need to set the start date of the subscription to be after the close of that order cycle.
+Oui ! Le cas échéant une commande va être passée automatiquement dans les minutes qui suivront la création de la commande récurrente. Si vous ne souhaitez pas que la commande récurrente démarre dès le cycle de vente en cours, pensez à mettre une date de début pour la commande récurrente postérieure à la fermeture du cycle de vente.&#x20;
 
-### **What if part of the stock is available but not all? Which customers get the limited stock?**
+### **Que se passe-t-il si le stock d'un produit donné permet de répondre à certaines commandes récurrentes, mais pas à toutes ? Quels acheteurs se verront attribuer le stock disponible ?**&#x20;
 
-In the case that a product’s In Stock? value is not adequate to meet all subscription orders, the limited stock won’t be allocated evenly across customers, instead it will fulfill customers orders with available stock until it runs out. Some customers will receive their full order, others will receive none.
+Dans ce cas, le stock ne sera pas répartis entre tous les acheteurs avec commandes automatiques pour ce produit, mais sera alloué à chaque commande automatique une par une jusqu'à ce que le stock s'épuise, et les commandes automatiques suivantes apparaîtront comme non complètement satisfaites (le produit sera manquant).&#x20;
 
-### **What if I change the subscription while it’s ‘open’?**
+### **Que se passe-t-il si je modifie le paramétrage d'une commande récurrente alors qu'une commande automatique a déjà été déclenchée sur un cycle de vente en cours ?**
 
-It is not possible to _**add items**_ to the core subscription order while an order cycle part of the subscription's schedule is open.  Any additional products will need to be added when order cycles are closed \(ie. for weekly subscriptions assigned to the schedule 'Weekly', in the period of time between order cycle A closing and order cycle B opening, where both A and B belong to the schedule 'Weekly'\).
+ASi vous modifiez le paramétrage de la commande récurrente alors qu'un cycle de vente sur le rythme d'abonnement correspondant est ouvert, la commande automatique déjà passée pour ce cycle de vente sera modifiée et prendra en compte les nouveaux paramètres saisis (ex: suppression d'un produit). L'email de confirmation qui sera envoyé à la fermeture du cycle de vente reflètera bien la nouvelle situation, prenant en compte les changements effectués. Si vous ne voulez pas que les changements s'appliquent à la commande automatique déjà en cours, attendez la fin du cycle de vente pour modifier le paramétrage de la commande récurrente.&#x20;
 
-If you edit a customer's core subscription to _**remove products**_ while an order cycle is open then this change will impact the order placed in the current order cycle. 
+### **Que se passe-t-il si le stock d'un produit ne permet pas de satisfaire toutes les commandes récurrente pour un cycle de vente donnée, et qu'un acheteur qui s'est vu alloué le stock demandé pour ce produit annule sa commande. Est-ce que ce stock sera réalloué à une autre commande automatique qui n'avait pas pu être satisfaite ?**&#x20;
 
-### **What if there’s limited stock, but then a customer cancels their order, will this stock get automatically allocated to other subscribers who wanted that product but couldn’t have it due to insufficient stock?**
-
-No, if a customer cancels their subscription order or removes a product from it, that stock will be returned to the products's In Stock? value. It won't automatically be allocated to other customers, but you could now add this stock to another customer's order manually by [editing their order](../orders/view-orders.md#editing-an-order).
-
-### **Can I or the customer edit an order which has been placed by subscription system?**
-
-This depends on whether you would like to add or remove products:
-
-* As enterprise manager you will be able to **remove products** \(or cancel an order\) which has been placed by the subscription system via the OFN admin panel in the [normal way](../orders/view-orders.md#editing-an-order).
-* As enterprise manager, if you **add products** to an order placed by the subscription system via the [OFN admin panel](../orders/view-orders.md#editing-an-order) then this will [invoke a second payment](../orders/refunds-and-adjusting-payments.md#collecting-additional-payments) which will not be automatically processed at the end of the order cycle.
-* If you enable customers to be able to [edit or cancel orders](../enterprise-profile/enterprise-settings.md#shop-preferences) while the order cycle is open then they will be able to remove items from their subscription order.  To add items they will need to generate a second order and visit the checkout as normal.
-
-
-
+Non. Si l'acheteur annule la commande ou retire le dit produit de sa commande, le stock du produit sera augmenté de la quantité correspondante, mais ne sera pas automatiquement réalloué à une autre commande automatique déjà passée. Vous pouvez cependant le faire manuellement en éditant une commande automatique spécifique [selon le process décrit ici](broken-reference).

@@ -48,7 +48,7 @@
     * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Création et gestion d'une commande récurrente](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Commande récurrente côté acheteur](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
-    * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
+    * [FAQ commandes récurrentes](basic-features/subscriptions/subscriptions-faqs.md)
   * [Reports](basic-features/reports/README.md)
     * [Order Reports](basic-features/reports/order-reports.md)
     * [Reports for Hub Management](basic-features/reports/reports-for-hub-management.md)
