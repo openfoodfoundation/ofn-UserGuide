@@ -9,9 +9,9 @@ Commencer à utiliser Open Food Network, c'est facile!
 Choisissez le guide en fonction de la catégorie qui vous correspond:
 
 * [Hub](multi-producers-shop-hub-quick-setup-guide.md)
-* Boutique
+* [Boutique](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/producer-shop-quick-setup-guide)
 * [Profil](profile-only-quick-setup-guide.md)
 
 Incertain·e de la catégorie à laquelle vous appartenez? Renseignez-vous sur cette [page](../your-quick-start-on-ofn-given-who-you-are.md).
 
-Pour en savoir plus sur comment créer votre propre marché fermier digital, cliquez [here](digital-farmers-markets.md).
+Pour en savoir plus sur comment créer votre propre marché fermier digital, cliquez [here](digital-farmers-markets.md) ici.
