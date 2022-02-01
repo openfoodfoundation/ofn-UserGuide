@@ -4,14 +4,14 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 # Hub
 
-Pour commencer à utiliser OFN, suivez ces étapes:
+Pour commencer à utiliser OFN, suivez ces étapes :
 
 ![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1) (1).jpg>)
 
-1. Enregistrez votre entreprise\
-   Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules "Producteur" et "Hub". Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules "Non-producteur" et "Hub". Complétez les paramètres de votre entreprise avec les détails de votre activité.
+1. [Enregistrez votre entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
+   Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules ["Producteur" et "Hub".](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules ["Non-producteur" et "Hub"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types). Complétez les paramètres de votre entreprise avec les détails de votre activité.
 2. Répertoriez vos produits. \
-   Si vous êtes un "Hub de producteurs", créez (ou importez) des listes de produits pour les produits que vous fabriquez vous-même. Pour les hubs "producteurs" et "non producteurs", contactez les entreprises OFN locales qui souhaitent que leurs produits soient affichés sur votre boutique. Demandez-leur de créer des autorisations d'entreprise pour connecter leur établissement au vôtre via OFN.
+   Si vous êtes un "Hub de producteurs", [créez ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products)([ou importez](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import)) des listes de produits pour les produits que vous fabriquez vous-même. Pour les hubs "producteurs" et "non producteurs", contactez les entreprises OFN locales qui souhaitent que leurs produits soient affichés sur votre boutique. Demandez-leur de créer des [permissions inter-enteprises](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) pour connecter leur établissement au vôtre via OFN.
 3. Mettez en place un choix de modes de paiement à la disposition de vos clients (contre remboursement, paiement en ligne par carte de crédit, etc.)
 4. Mettez en place un choix d'options de transport disponibles pour vos clients (service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...)
 5. Créez un cycle de commande : votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
