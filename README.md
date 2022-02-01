@@ -51,7 +51,7 @@ Ils sont aussi utiles pour répondre à toutes les questions que vous auriez!
 
 ### _>_ Directives sur les logiciels complémentaires que vous pourriez vouloir utiliser en combinaison avec Open Food Network
 
-Open Food Network fait beaucoup de choses, mais aucun outil ne peut répondre à tous les besoins. Nous avons listé [quelques besoins pour lesquels vous pourriez avoir besoin de logiciels complémentaires, et comment vous pouvez les configurer](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/complementary-tools-software) pour qu'ils complémentent votre plateforme locale Open Food Network.
+Open Food Network fait beaucoup de choses, mais aucun outil ne peut répondre à tous les besoins. [Nous avons listé quelques besoins pour lesquels vous pourriez avoir besoin de logiciels complémentaires, et comment vous pouvez les configurer](https://guide.openfoodnetwork.org/v/fr/complementary-tools-software) pour qu'ils complémentent votre plateforme locale Open Food Network.
 
 ### > FAQ
 
