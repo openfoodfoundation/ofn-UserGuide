@@ -14,4 +14,4 @@ Choisissez le guide en fonction de la catégorie qui vous correspond:
 
 Incertain·e de la catégorie à laquelle vous appartenez? Renseignez-vous sur cette [page](../your-quick-start-on-ofn-given-who-you-are.md).
 
-Pour en savoir plus sur comment créer votre propre marché fermier digital, cliquez [here](digital-farmers-markets.md) ici.
+Pour en savoir plus sur comment créer votre propre marché fermier digital, cliquez [ici.](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile)

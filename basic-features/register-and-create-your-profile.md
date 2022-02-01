@@ -11,7 +11,7 @@
 
 ### Création de votre première "entreprise"
 
-* Une fois connecté(e), cliquez sur la bannière grise indiquant "vous souhaitez proposer vos produits sur la plateforme ? Cliquez ici"
+* Une fois connecté(e), cliquez sur la bannière grise indiquant "vous souhaitez proposer vos produits sur la plateforme ? Démarrez ici"
 * Cochez la case disant que vous adhérez aux valeurs du projet et aux Conditions d'Utilisation, puis cliquez sur Démarrons!.
 
 ![](<../.gitbook/assets/image (58) (1) (1) (1).png>)
