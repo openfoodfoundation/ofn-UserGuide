@@ -31,14 +31,14 @@ Toutes les données nécessaires pour préparer et expédier les commandes sont 
 ## Fonctionnalités avancées
 
 * Votre profile d'entreprise:
-  * En tant que Hub de Producteurs, vous pouvez donner l'autorisation à d'autres hubs de vendre vos produits sur leur boutique en plus de votre propre boutique.
-* Vous pouvez ajouter des gestionnaires de hub afin qu'une seule personne n'ait pas à s'occuper de toute l'administration !
-* Vos produits (pour les Hubs de producteurs uniquement:
-  * Précisez les qualifications spéciales qu'ils peuvent avoir (biologique, sans plastique, etc.).
-  * Si vous avez un produit qui peut être vendu en différentes unités (par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg), vous pouvez simplifier vos listes en ajoutant des variantes.
-  * Si vous vendez des articles irréguliers comme de la viande ou des légumes (par exemple, un poulet entier, un gros potiron) dont le prix est déterminé par le poids, vous pouvez apprendre à le faire ici.
-  * Vous pouvez importer toutes vos listes de produits en une seule fois si elles se trouvent dans une feuille de calcul Excel.
+  * En tant qu'entreprise Producteurs, vous pouvez donner la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) à d'autres entreprise de vendre vos produits sur leur boutique en plus de votre propre boutique.
+* Vous pouvez ajouter des [gestionnaires](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/transfer-ownership) de hub afin qu'une seule personne n'ait pas à s'occuper de toute l'administration !
+* Vos produits (pour les Hubs de producteurs uniquement) :
+  * Précisez les [propriétés et label ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties)auxquels peuvent être associés vos produits (biologique, sans plastique, etc.).
+  * Si vous avez un produit qui peut être vendu en différentes unités (par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg), vous pouvez simplifier vos listes en ajoutant des [variantes](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-variants).
+  * Si vous vendez des produits aux poids irréguliers comme de la viande ou des légumes (par exemple, un poulet entier, un gros potiron) vous pouvez apprendre à [gérer ces variations ici.](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/pricing-irregular-items-kg)
+  * Vous pouvez importer en masse tous vos produits, en une seule fois, en les renseignant [dans une feuille de calcul .csv](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import).
 * Votre boutique:
-  * Vous pouvez restreindre l'accès à votre boutique si vous souhaitez qu'elle ne soit accessible qu'aux "membres" ou aux clients invités. Par exemple, vous pouvez offrir des produits à prix réduit aux membres de la communauté qui ont tous contribué à votre entreprise, ou vendre uniquement à des clients commerciaux spécifiques.
-  * Vous pouvez proposer des prix différents, ou afficher des produits différents, à des groupes spécifiques de clients en utilisant le regroupement de clients (en utilisant des "tags") et des affichages et tarifications personnalisés.
-  * Si vous souhaitez être visible sur OFN mais ne pas vendre de marchandises sur la plateforme, vous pouvez créer une vitrine de présentation uniquement.
+  * Vous pouvez [restreindre l'accès à votre boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront) si vous souhaitez qu'elle ne soit accessible qu'aux "membres" de votre organisation par exemple, ou qu'aux clients invités.&#x20;
+  * Vous pouvez proposer [des prix différents, ou afficher des produits différents](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices), à des groupes spécifiques de clients en utilisant en utilisant des "tags" et ainsi bénéficier d'affichages et de tarifications personnalisés.
+  * Si vous souhaitez être visible sur OFN mais ne pas vendre de marchandises sur la plateforme, vous pouvez créer [une vitrine de présentation uniquement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/display-only-order-cycles).
