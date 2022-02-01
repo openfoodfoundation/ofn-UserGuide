@@ -24,7 +24,7 @@ Afin de couvrir le coût de l'organisation des ventes, vous pouvez ajouter une "
 
 Quand vous commencerez à recevoir des commandes, vous pourrez les gérer dans [la section correspondante](https://guide.openfoodnetwork.org/v/fr/basic-features/orders).&#x20;
 
-Toutes les données nécessaires pour préparer et expédier les commandes sont répertoriées dans la section Rapports.
+Toutes les données nécessaires pour préparer et expédier les commandes sont répertoriées dans la section [Rapports](https://guide.openfoodnetwork.org/v/fr/basic-features/reports).
 
 
 
