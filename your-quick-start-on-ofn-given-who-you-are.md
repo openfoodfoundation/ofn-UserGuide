@@ -43,7 +43,7 @@ _L'entreprise Hub est la plus flexible des trois types d'entreprise d'OFN et il 
 
 **S'installer sur OFN** peut être aussi simple que de suivre 5 étapes, il suffit de suivre notre guide de démarrage rapide ici.
 
-## Shop
+## Boutique
 
 {% hint style="success" %}
 Agriculteurs, boulangers, cultivateurs, entreprises artisanales, petits exploitants...
@@ -78,8 +78,6 @@ Si vous préférez ne pas vendre directement aux clients mais **uniquement** app
 Agriculteurs, boulangers, cultivateurs, entreprises artisanales, petits exploitants...
 {% endhint %}
 
-
-
 Un profil OFN est idéal pour **accroître votre visibilité en ligne** et vous donne la possibilité de vous connecter de manière simple à des détaillants locaux (Hubs) qui peuvent gérer les ventes aux clients pour vous.
 
 {% hint style="warning" %}
@@ -91,4 +89,4 @@ Si vous préférez organiser vous-même la vente aux clients, la classification 
 1. Augmentant votre visibilité en ligne.
 2. Aidant à établir des relations de travail solides avec les distributeurs alimentaires locaux.
 
-**S'installer sur OFN** peut être aussi simple que de suivre 5 étapes, il suffit de suivre notre guide de démarrage rapide ici.
+**S'installer sur OFN** peut être aussi simple que de suivre 5 étapes, il suffit de suivre notre guide de démarrage rapide [ici](https://guide.openfoodnetwork.org/v/fr/quick-start-guides).
