@@ -8,10 +8,10 @@ Pour commencer à utiliser OFN, suivez ces étapes:
 
 ![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft.jpg>)
 
-1. Enregistrez votre entreprise\
-   Choisissez les formules "Producteur" et "Boutique" et complétez vos paramètres d'entreprise avec les détails de votre boutique.
-2. Répertoriez vos produits.&#x20;
-3. Mettez en place un choix de modes de paiement à la disposition de vos clients (contre remboursement, paiement en ligne par carte de crédit, etc.)
+1. [Enregistrez votre entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
+   Choisissez les formules ["Producteur" et "Boutique"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) et complétez vos paramètres d'entreprise avec les détails de votre boutique.
+2. [Renseignez](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products) vos produits
+3. Mettez en place un choix de [modes de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) à la disposition de vos clients (paiement par chèque à la réception des produits, paiement en ligne par carte de crédit, etc.)
 4. Mettez en place un choix d'options de transport disponibles pour vos clients (service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...)
 5. Créez un cycle de commande : votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
 
