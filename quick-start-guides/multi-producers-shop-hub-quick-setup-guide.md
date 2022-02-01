@@ -12,17 +12,17 @@ Pour commencer à utiliser OFN, suivez ces étapes :
    Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules ["Producteur" et "Hub".](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules ["Non-producteur" et "Hub"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types). Complétez les paramètres de votre entreprise avec les détails de votre activité.
 2. Répertoriez vos produits. \
    Si vous êtes un "Hub de producteurs", [créez ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products)([ou importez](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import)) des listes de produits pour les produits que vous fabriquez vous-même. Pour les hubs "producteurs" et "non producteurs", contactez les entreprises OFN locales qui souhaitent que leurs produits soient affichés sur votre boutique. Demandez-leur de créer des [permissions inter-enteprises](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) pour connecter leur établissement au vôtre via OFN.
-3. Mettez en place un choix de modes de paiement à la disposition de vos clients (contre remboursement, paiement en ligne par carte de crédit, etc.)
-4. Mettez en place un choix d'options de transport disponibles pour vos clients (service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...)
-5. Créez un cycle de commande : votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
+3. Mettez en place à minima un choix de [méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) à la disposition de vos clients (paiement en chèque, paiement en ligne par carte de crédit, etc.)
+4. Mettez en place à minima un choix de [méthode de livraison / de retrait ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods)disponible pour vos clients (service "click and collect" avec une heure et un lieu d'enlèvement, livraison à domicile, etc...)
+5. Créez [un cycle de vente ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle): votre boutique s'ouvrira à la date que vous avez définie ! Un cycle de commande est une période pendant laquelle les acheteurs peuvent passer des commandes pour un enlèvement ou une livraison à un moment donné. Certaines entreprises ont un cycle de commande hebdomadaire. D'autres ont un cycle de commande ouvert en permanence.
 
 Félicitations! Vous avez maintenant votre propre Hub sur OFN!
 
 {% hint style="info" %}
-Pour gagner un peu d'argent afin de couvrir le coût de l'organisation des ventes, vous pouvez ajouter une "commission d'entreprise" - cette majoration est ajoutée au prix de vente des produits sur votre vitrine.
+Afin de couvrir le coût de l'organisation des ventes, vous pouvez ajouter une "[commission d'entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees)" - cette majoration est ajoutée au prix de vente des produits sur votre vitrine.
 {% endhint %}
 
-Quand vous commencerez à recevoir des commandes, vous pourrez les gérer dans la section correspondante.&#x20;
+Quand vous commencerez à recevoir des commandes, vous pourrez les gérer dans [la section correspondante](https://guide.openfoodnetwork.org/v/fr/basic-features/orders).&#x20;
 
 Toutes les données nécessaires pour préparer et expédier les commandes sont répertoriées dans la section Rapports.
 
