@@ -28,10 +28,10 @@ Toutes les données nécessaires pour préparer et expédier les commandes sont 
 * Votre profil d'entreprise :
   * Vous pouvez donner la [permission ](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es)à d'autres entreprises de vendre vos produits sur leur boutique en plus de votre propre boutique.
 * Vos produits :
-  * Précisez les qualifications spéciales qu'ils peuvent avoir (biologique, sans plastique, etc.).
-  * Si vous avez un produit qui peut être vendu en différentes unités (par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg), vous pouvez simplifier vos listes en ajoutant des variantes.
-  * Si vous vendez des articles irréguliers comme de la viande ou des légumes (par exemple, un poulet entier, un gros potiron) dont le prix est déterminé par le poids, vous pouvez apprendre à le faire ici.
-  * Vous pouvez importer toutes vos listes de produits en une seule fois si elles se trouvent dans une feuille de calcul Excel.
+  * Précisez les [propriétés et labels](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties) auxquels peuvent être associés vos produits (biologique, sans plastique, etc.).
+  * Si vous avez un produit qui peut être vendu en différentes unités (par exemple, des pommes de terre vendues en quantités de 500 g, 1 kg et 2 kg), vous pouvez simplifier vos listes produits en ajoutant des [variantes](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-variants).
+  * Si vous vendez des articles aux poids irréguliers comme de la viande ou des légumes (par exemple, un poulet entier, un gros potiron) dont le prix est déterminé par le poids, vous pouvez apprendre à [gérer ces variations ici](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/pricing-irregular-items-kg).
+  * Vous pouvez importer en masse tous vos produits, en une seule fois, en les [renseignant dans un fichier .csv](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import).
 * Votre boutique:
   * Vous pouvez restreindre l'accès à votre boutique si vous souhaitez qu'elle ne soit accessible qu'aux "membres" ou aux clients invités. Par exemple, vous pouvez offrir des produits à prix réduit aux membres de la communauté qui ont tous contribué à votre entreprise, ou vendre uniquement à des clients commerciaux spécifiques.
   * Vous pouvez proposer des prix différents, ou afficher des produits différents, à des groupes spécifiques de clients en utilisant le regroupement de clients (en utilisant des "tags") et des affichages et tarifications personnalisés.
