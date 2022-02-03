@@ -34,7 +34,7 @@ Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la pa
 **Producteur ? :** Cochez cette case uniquement si vous êtes un producteur.
 
 {% hint style="warning" %}
-_Seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs doivent sélectionner cette option lorsqu'ils vendent des paniers avec des produits de différents fournisseurs pour pouvoir créer les paniers comme des produits qu'ils "assemblent / fournissent" eux-mêmes._
+_Seuls les producteurs peuvent ajouter des produits sur la plateforme. Les hubs peuvent sélectionner cette option lorsque, par exemple, ils vendent des paniers avec des produits de différents fournisseurs. Ils peuvent ainsi créer les paniers comme des produits qu'ils "assemblent / fournissent" eux-mêmes._
 {% endhint %}
 
 **Apparaît sur la plateforme ?** **:** Si votre profil est prêt, cochez "visible" et il sera visible sur la plateforme ainsi que sur la carte. Vous pouvez le laisser invisible tant que vous modifiez encore ses paramètres (contenu, images...).
@@ -138,7 +138,7 @@ Et en version complète (depuis la carte, ou les pages boutiques):
 Visible uniquement pour les **Producteurs**
 {% endhint %}
 
-Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent (Bio, Label Rouge...) à cet endroit. Ils seront affichés par la suite sur **tous vos produits**. Vous pouvez aussi les renseigner au niveau du produit lui même si ces labels ou propriétés ne s'appliquent qu'à **certains produits**.
+Vous pouvez ajouter [les labels ou "mentions/propriétés](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties#1-assigner-un-label-a-une-entreprise)" qui correspondent à votre entreprise (Bio, Label Rouge...) à cet endroit. Ils seront affichés par la suite sur **tous vos produits**. Vous pouvez aussi les renseigner au [niveau du produit ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties#2-assigner-un-label-a-un-produit)lui même si ces labels ou propriétés ne s'appliquent qu'à **certains produits**.
 
 ### Méthodes de livraison, de paiement et marges/commissions&#x20;
 
@@ -146,7 +146,7 @@ Vous pouvez ajouter les labels ou "mentions/propriétés" qui vous correspondent
 Visible uniquement pour les entreprises enregistrées comme boutiques ou Hubs (non visible pour les profils producteurs/non-producteurs).
 {% endhint %}
 
-Les modes d'expédition, les modes de paiement et les frais d'entreprise sont traités plus en détail dans les chapitres suivants de ce manuel.
+[Les modes d'expédition](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods), [les modes de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) et les [frais d'entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees) sont traités plus en détail dans les chapitres suivants de ce manuel.
 
 {% hint style="danger" %}
 Au moins un mode de paiement et de livraison doit être configuré pour pouvoir ouvrir votre vitrine.
@@ -158,9 +158,9 @@ Au moins un mode de paiement et de livraison doit être configuré pour pouvoir 
 Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-Pour la plupart des entreprises, les paramètres recommandés peuvent être utilisés.&#x20;
+Pour la plupart des entreprises, les paramètres recommandés par défaut sont suffisant pour opérer leur activité.
 
-Les utilisateurs avancés qui ont besoin d'une plus grande souplesse dans la gestion des produits doivent consulter la page Inventaire de ce guide avant de modifier les paramètres.
+Les utilisateurs avancés qui ont besoin d'une plus grande souplesse dans la gestion des produits doivent consulter la page [Catalogue Boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) de ce guide avant de valider l'intérêt de son usage.
 
 ### Règles de tag
 
@@ -168,9 +168,7 @@ Les utilisateurs avancés qui ont besoin d'une plus grande souplesse dans la ges
 Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-Ici sont gérés les tags que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur offrir des accès, tarifs ou conditions spécifiques.
-
-&#x20;Pour plus d'information rendez-vous sur la page gestion des tags et comptes clients.
+Ici sont gérés[ les Tags ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules#regles-de-tags)que vous attribuez à vos clients, et qui vous permettent de grouper ces derniers par catégorie d'acheteurs pour leur offrir des accès, tarifs ou conditions spécifiques.
 
 ### Préférences boutique
 
