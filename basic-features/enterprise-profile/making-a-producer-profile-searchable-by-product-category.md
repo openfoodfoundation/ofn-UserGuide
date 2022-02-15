@@ -16,7 +16,7 @@ Comme vous n'avez pas de boutique OFN, ce produit ne sera visible nulle part. Pa
 
 ![](<../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1).png>)
 
-Le résumé du profil producteur indiquera également qu'il élève de la viande (ci-dessous).
+Le résumé du profil producteur indiquera également la ou les catégories de produit qui lui sont associé.e.s (ci-dessous).
 
 ![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1) (1).png>)
 
