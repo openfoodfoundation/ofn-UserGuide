@@ -182,11 +182,11 @@ C'est l'endroit idéal pour communiquer des informations importantes comme des c
 
 ![](<../../.gitbook/assets/image (62) (1) (1) (1) (1).png>)
 
-**Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. L'occasion d'indiquer la façon dont votre boutique est organisée ainsi que la prochaine date de la réouverture !
+**Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. C'est l'occasion d'indiquer la façon dont votre boutique est organisée et d'indiquer la prochaine date de réouverture !
 
 ![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
-**Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher les produits par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
+**Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher [les produits](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products) par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
 
 ![](<../../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1).png>)
 
