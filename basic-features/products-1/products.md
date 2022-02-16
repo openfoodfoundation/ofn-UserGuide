@@ -1,6 +1,6 @@
 # Ajouter des produits
 
-Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) ou par importation en masse, si vous disposez de tous les détails pertinents dans un fichier .csv.
+Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) ou par [importation en masse](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import), si vous disposez de tous les détails pertinents dans un fichier .csv.
 
 ## Comment Ajouter des Produits
 
@@ -38,7 +38,7 @@ L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modi
 
 **Prix :** Indiquez le prix pour le produit tel que précédemment renseigné (pour ce conditionnement spécifique donc).
 
-> Remarque : il s'agit du prix de base du producteur. Les marges et les commissions sont renseignées dans le menu marges et commissions du paramétrage de l'entreprise, et appliquées au moment de la création du cycle de vente pour s'imputer sur le prix du produit tel qu'affiché dans la boutique.&#x20;
+> Remarque : il s'agit du prix de base du producteur. [Les marges et les commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees) sont renseignées dans le menu marges et commissions du paramétrage de l'entreprise, et appliquées au moment de la création du cycle de vente pour s'imputer sur le prix du produit tel qu'affiché dans la boutique. Vous pouvez aussi ajouter des frais associés aux [méthodes de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) et [de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods#definir-une-methode-de-paiement).
 
 ****\
 **Prix unitaire:** Ce prix n'est pas modifiable, il est calculé automatiquement en fonction du nombre d'unités vendues.\
@@ -63,7 +63,7 @@ Nous recommandons d'utiliser des photos de bonne qualité, sur un format carré.
 
 **TVA applicable :** Sélectionnez la TVA applicable dans la liste déroulante. La TVA dépend de la nature du produit, la plupart des produits alimentaires sont soumis en Belgique par exemple à une TVA de 6%.&#x20;
 
-> Attention cela n'a pas d'impact sur le fait que la TVA sera collectée ou pas sur le montant de vente TTC par une entreprise. Cette fonctionnalité dépend du [paramétrage de l'entreprise, rubrique "juridique"](broken-reference), "Soumis à la TVA?"
+> Attention cela n'a pas d'impact sur le fait que la TVA sera collectée ou pas sur le montant de vente TTC par une entreprise. Cette fonctionnalité dépend du paramétrage dans la partie juridique "[Soumis à la TVA?](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#juridique)"
 
 **Description du produit :** Ce champ vous permet de décrire le produit vendu, pour donner plus d'informations à l'acheteur final. N'hésitez pas raconter l'histoire de la variété de la tomate, etc. Vous pouvez aussi ajouter un lien hypertexte, vers un certificat de labellisation par exemple.
 
@@ -77,25 +77,23 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où 
 
 ## Créer un produit similaire / une déclinaison du produit
 
-Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](broken-reference). Vous avez aussi la possibilité de dupliquer un produit en cliquant sur le pictogramme des deux petites feuilles à droite de la ligne du produit concerné (pictogramme du milieu).
+Si vous créez deux produits similaires dont seul le prix ou la taille ou les ingrédients varient, le mieux est de créer une "variante" du produit plutôt qu'un deuxième produit entier. Pour créer une variante, veuillez suivre le processus indiqué [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-variants). Vous avez aussi la possibilité de dupliquer un produit en cliquant sur le pictogramme des deux petites feuilles à droite de la ligne du produit concerné (pictogramme du milieu).
 
 {% hint style="success" %}
-Les variantes sont un gain de temps, par exemple si vous vendez des citrons individuelement et par pack de 5 et de 10, vous aurez un produit à 3 variantes plutôt que 3 produits.
+Les variantes sont un gain de temps, par exemple si vous vendez des citrons individuellement et par pack de 5 et de 10, vous aurez un produit à 3 variantes plutôt que 3 produits.
 {% endhint %}
 
-Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau grâce aux icônes à droite de celui-ci.\
-\
-
+Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau grâce aux icônes à droite de celui-ci.
 
 ![](<../../.gitbook/assets/image (44) (1) (1).png>)
 
 ## Affiner les attributs des produits
 
-Vous pouvez ajouter des **propriétés/labels** à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère. Cliquez [ici](broken-reference) pour en savoir plus.
+Vous pouvez ajouter des [**propriétés/labels**](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties) à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère.
 
-Pour les **produits "irréguliers"** type viande, vous trouverez [ici](broken-reference) quelques conseils sur la façon de saisir et gérer ces produits.
+Pour les **produits "irréguliers"** type viande, vous trouverez [ici ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/pricing-irregular-items-kg)quelques conseils sur la façon de saisir et gérer ces produits.
 
-Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiée vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](broken-reference) pour en savoir plus.
+Pour les **achats groupés** de produits vendus en gros lots, un paramétrage et une fonctionnalité dédiée vous aide à organiser les achats groupés pour tomber pile poil sur la quantité du lot. Cliquez [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/group-buy-for-bulk-ordering) pour en savoir plus.
 
 ## Recherche par mots clés
 
@@ -109,8 +107,8 @@ Les champs suivants peuvent être recherchés depuis l'encart "rechercher.."\
 \- Nom du producteur\
 \- Mot clé de recherche
 
-Vous pouvez définir des **mots clés de recherche** en vous rendant dans **produits > modifier > rechercher.** Les mots clés renseignés dans l'encart rouge sont examinés par la plateforme si l'acheteur utilise ce mot clé lors de sa recherche. Ceux renseignés dans l'encart vert sont examinés par des moteurs de recherche externes sur internet (ex : Google).\
-\
-
+Vous pouvez définir des **mots clés de recherche** en vous rendant dans **produits > modifier > rechercher.** Les mots clés renseignés dans l'encart rouge sont examinés par la plateforme si l'acheteur utilise ce mot clé lors de sa recherche. Ceux renseignés dans l'encart vert sont examinés par des moteurs de recherche externes sur internet (ex : Google).
 
 ![](<../../.gitbook/assets/image (67) (1).png>)
+
+La partie Commentaires est dédié à votre usage interne, elle vous permet une prise de note associée à chaque produit.
