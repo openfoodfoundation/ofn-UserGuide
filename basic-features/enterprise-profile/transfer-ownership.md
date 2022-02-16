@@ -1,6 +1,6 @@
 # Modifier les Gestionnaires
 
-Il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute l'adresse mail de ce même producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" (gestionnaire principal) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits.&#x20;
+Il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute le producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" (gestionnaire principal) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits.&#x20;
 
 Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriété, voici la procédure à suivre :
 
@@ -11,9 +11,9 @@ Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriét
 
 ![](<../../.gitbook/assets/image (67) (1) (1).png>)
 
-**Cas 1 : Le producteur en question possède déjà un compte utilisateur sur OFN :**
+**Cas 1 : Le producteur en question possède déjà un compte utilisateur auprès d'OFN :**
 
-Son adresse électronique sera déjà enregistrée chez nous et elle apparaîtra donc lorsque vous commencerez à taper. Sélectionnez et **cliquez sur Mettre à jour** (bouton rouge, en bas à droite) pour enregistrer.
+Son adresse électronique sera déjà enregistrée chez nous et elle apparaîtra donc lorsque vous commencerez à taper. Sélectionnez et cliquez sur Mettre à jour (bouton rouge, en bas à droite) pour enregistrer.
 
 {% hint style="warning" %}
 Attention : vous devez rechercher l'email **complet exact**. Nous vous recommandons de rechercher notre liste d'utilisateurs en copiant et collant l'adresse e-mail **complète**.
@@ -30,7 +30,7 @@ N'oubliez pas de cliquer sur " Mettre à jour " pour enregistrer vos modificatio
 {% endhint %}
 
 {% hint style="info" %}
-Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, [contactez-nous ](https://guide.openfoodnetwork.org/v/fr/#dautres-questions-des-ameliorations)et nous augmenterons sa limite d'entreprise.&#x20;
+Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, contactez-nous et nous augmenterons sa limite d'entreprise.&#x20;
 
 Cette mesure est destinée à éviter la création massive de profils par des robots, ce qui pourrait faire sauter notre serveur et rendre la plateforme indisponible. Il s'agit d'une mesure de prévention classique.
 {% endhint %}
