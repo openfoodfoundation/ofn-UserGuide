@@ -45,7 +45,7 @@ Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur fin
 {% endtabs %}
 
 {% hint style="info" %}
-Si vous souhaitez proposer une propriété qui ne figure pas dans la liste ci-dessus, n'hésitez pas à nous contacter. Nous prenons en considération toute nouvelle propriété qui pourrait avoir un attrait général.
+Si vous souhaitez proposer une propriété qui ne figure pas dans la liste ci-dessus, n'hésitez pas à [nous contacter.](https://guide.openfoodnetwork.org/v/fr/#dautres-questions-des-ameliorations) Nous prenons en considération toute nouvelle propriété qui pourrait avoir un attrait général.
 {% endhint %}
 
 Il y a deux manières d'assigner un label à produit :
@@ -56,9 +56,9 @@ Il y a deux manières d'assigner un label à produit :
 
 ## 1) Assigner un label à une entreprise
 
-Cette méthode permet d'assigner le label à tous les produits de l'entreprise. Si vous ne souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seuls deux ou trois produits de votre catalogue ne sont pas concernés par le label, utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Case à cocher ](broken-reference)hériter des proriétés.
+Cette méthode permet d'assigner le label à tous les produits de l'entreprise. Si vous ne souhaitez ajouter le label qu'à certains produits, rendez-vous plutôt à l'étape 2. Si seuls deux ou trois produits de votre catalogue ne sont pas concernés par le label "par défaut", utilisez cette fonctionnalité et rendez-vous sur le paragraphe [Propriété héritées](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties#proprietes-heritees).
 
-Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "**gérer**" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
+Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "paramètres" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
 ![](<../../.gitbook/assets/image (38) (1) (1).png>)
 
@@ -86,9 +86,11 @@ Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez
 
 ![](<../../.gitbook/assets/image (66) (1) (1).png>)
 
+
+
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+![](<../../.gitbook/assets/Capture d’écran 2022-02-17 à 11.42.47.png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 
@@ -104,11 +106,11 @@ N'oubliez pas de cliquer sur **mettre à jour** lorsque vous avez terminé.
 
 ## Propriétés héritées
 
-Comme indiqué précédemment, lorsqu'une propriété est attribuée à une entreprise, tous les produits appartenant à cette entreprise "héritent" de cette propriété. Cependant, il est possible d'ignorer cet héritage automatique.&#x20;
+Comme indiqué précédemment, lorsqu'une propriété est attribuée à une entreprise, tous les produits appartenant à cette entreprise "héritent" automatiquement de cette propriété. Cependant, il est possible d'ignorer cet héritage automatique.&#x20;
 
 Lorsque vous modifiez les propriétés d'un produit, vous verrez une case à cocher intitulée "**Hériter des propriétés de (Nom de l'entreprise) (sauf si elle est modifiée ci-dessus)**". Par défaut, lorsqu'une entreprise possède une propriété, cette case sera cochée pour tous les produits appartenant à l'entreprise. Si vous décochez cette case, toutes les propriétés de l'entreprise qui ont été héritées seront supprimées.
 
-![](../../.gitbook/assets/properties3.jpg)
+![](<../../.gitbook/assets/Capture d’écran 2022-02-17 à 11.48.13.png>)
 
 {% hint style="warning" %}
 Si vous avez laissé la case cochée et que vous ajoutez une propriété au produit, qui existe déjà au niveau de l'entreprise, la description de la propriété ajoutée au niveau du produit sera prioritaire par rapport à la description au niveau de l'entreprise.&#x20;
