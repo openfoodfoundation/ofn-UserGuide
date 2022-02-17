@@ -1,8 +1,12 @@
 # Catalogue boutique
 
+{% hint style="warning" %}
+L’usage du catalogue boutique complexifie considérablement votre usage du logiciel Open Food Network, nous vous conseillons de vous assurer de votre besoin avant de vous engager dans son utilisation. Si vous avez un doute, ou souhaitez confirmer la pertinence de son utilisation, [contactez-nous](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/#dautres-questions-des-ameliorations)
+{% endhint %}
+
 ## Introduction
 
-La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifier uniquement pour sa boutique les informations de prix et stock des produits pour lesquels il a la [permission](broken-reference) adéquate, et de faire sa sous-sélection de produits en masquant les produits qu'il ne souhaite pas distribuer, sans que cela n'affecte le catalogue d'origine du producteur. Ainsi, si un autre hub-distributeur B offre dans sa boutique les mêmes produits du même producteur, il ne sera pas affecté par les changements effectués par A dans son catalogue boutique.
+La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifier uniquement pour sa boutique les informations de prix et stock des produits pour lesquels il a la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) adéquate, et de faire sa sous-sélection de produits en masquant les produits qu'il ne souhaite pas distribuer, sans que cela n'affecte le catalogue d'origine du producteur. Ainsi, si un autre hub-distributeur B offre dans sa boutique les mêmes produits du même producteur, il ne sera pas affecté par les changements effectués par A dans son catalogue boutique.
 
 ## Paramètres du profil concernant le catalogue boutique
 
@@ -33,7 +37,7 @@ En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste de
 
 Les nouveaux produits peuvent être soit **ajoutés** à votre catalogue, soit **masqués**. Si vous souhaitez modifier pour votre boutique les caractéristiques prix/stock d'un produit de la liste, vous devez l'ajouter à votre catalogue boutique. S'il s'agit d'un produit que vous ne voudrez jamais vendre dans votre boutique ou en tout cas pas à court terme, vous pouvez choisir de le masquer.
 
-Pour rappel, si l'option choisie dans les [paramètres](broken-reference) est que les produits doivent être ajoutés à votre catalogue pour pouvoir être ajoutés dans un cycle de vente et donc mis en vente dans votre boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire qu'ils ne pourront pas être sélectionnés dans vos cycles de vente. Si l'autre option a été choisie, ils pourront être ajoutés dans vos cycles de vente.&#x20;
+Pour rappel, si l'option choisie dans les [paramètres](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#catalogue-boutique) est que les produits doivent être ajoutés à votre catalogue pour pouvoir être ajoutés dans un cycle de vente et donc mis en vente dans votre boutique en ligne, tous les produits que vous laissez dans la liste "nouveaux produits" seront par défaut masqués, c'est-à-dire qu'ils ne pourront pas être sélectionnés dans vos cycles de vente. Si l'autre option a été choisie, ils pourront être ajoutés dans vos cycles de vente.&#x20;
 
 ## Produits du Catalogue Boutique
 
