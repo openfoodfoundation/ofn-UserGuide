@@ -50,6 +50,6 @@ Si une commande **est payée en ligne avant la livraison**, alors vous devez rem
 
 ## Informez l'acheteur de votre politique de prix&#x20;
 
-Vous pouvez indiquer à vos acheteurs votre politique de prix, notamment le cas des produits non calibrés comme la viande, en utilisant le message d'accueil de votre boutique, dans les [paramètres](broken-reference) de votre entreprise.
+Vous pouvez indiquer à vos acheteurs votre politique de prix, notamment le cas des produits non calibrés comme la viande, en utilisant le message d'accueil de votre boutique, dans les[ paramètres ](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings)de votre entreprise.
 
-La description de la [méthode de paiement](broken-reference) peut aussi être un endroit pertinent pour un rappel du type "Souvenez-vous que le prix final peut varier de 10% en fonction du poids effectivement reçu pour les produits à la pièce non calibrés".
+La description de la [méthode de paiement ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods)peut aussi être un endroit pertinent pour un rappel du type "Souvenez-vous que le prix final peut varier de 10% en fonction du poids effectivement reçu pour les produits à la pièce non calibrés".
