@@ -2,7 +2,7 @@
 
 ## Enterprise Permissions&#x20;
 
-Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company (Producer Profile or Producer Shop) can become a supplier of another (Hub), or vice versa. A permission (or 'right') is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them.&#x20;
+Within the OFN, Enterprise Permissions are rules which govern the trading relationships between  suppliers and distributors. These rules must be set up before one company (Producer Profile or Producer Shop) can become a supplier of another (Hub), or vice versa. A permission (or 'right') is granted by one company to another regarding access/modification of products and profile. This page details the different permissions and how to allocate them.&#x20;
 
 To access your enterprise permissions:
 
@@ -29,7 +29,7 @@ This can potentially impact all hubs which the producer supplies with goods thro
 
 > _For example, if Farmer Jo supplies potatoes to Hubs A and B but grants Hub A permission to manage its products then if Hub A changes the price of the potatoes then this price change (under standard settings) will be reflected on the shop fronts of both hubs A and B._
 
-**Permission to edit profile:** one company allows another to modify details in their [Enterprise Profile](./) (contact details, address, description, ...).
+**Permission to edit profile:** one company allows another to modify details in their [Enterprise Profile](./) (contact details, address, description...).
 
 **Permission to add products to inventory**: the supplier (producer) authorises the distributor (hub) to add its products to the shop catalog (or '[Inventory](../products-1/inventory-tool.md)') of the hub.
 
@@ -39,15 +39,15 @@ If a producer supplies more than one hub with goods, then to allow each of these
 
 ## Granting and Managing Permissions
 
-To modify, add or delete permissions, go to the admin dashboard and then to  'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.&#x20;
+To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.&#x20;
 
 ![](../../.gitbook/assets/e2emenu.jpg)
 
 To give permission:
 
 * Select your enterprise from the drop down menu in the first column (you are a producer who supplies others)
-* Select the name of the enterprise (hub) you wish to supply from the the second column.
-* Tick the permissions you wish to grant the distributor of your goods (hub) or to grant multiple permissions select 'everything'.
+* Select the name of the enterprise (hub) you wish to supply from the second column.
+* Tick the permissions you wish to grant to the distributor of your goods (hub), or to grant multiple permissions select 'everything'.
 * Click on 'Create'.
 
 &#x20;Note that you can delete or change these permissions at any time.
@@ -88,11 +88,11 @@ _If Hub A manages (co-ordinates) an order cycle for a buying group (Hub B) then 
 
 The buying group (Hub B above) will need to grant the order cycle co-ordinator (Hub A above) permission to add to order cycle (and ideally permission to add to inventory).
 
-Producers who supply Hub A with products that are to also be sold by the buying group (Hub B) must grant both Hubs A and B permission to add to order cycle (and ideally permission to add to inventory).
+Producers who supply Hub A with products that are also being sold by the buying group (Hub B) must grant both Hubs A and B permission to add to order cycle (and ideally permission to add to inventory).
 
 ## Producer's perspective
 
-When a producer wants to start selling their products through other enterprises (hubs or buying groups) the must establish the appropriate enterprise-to-enterprise permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile (see [top of page](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)).
+When a producer wants to start selling their products through other enterprises (hubs or buying groups) they must establish the appropriate enterprise-to-enterprise permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile (see [top of page](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)).
 
 These examples explore some common scenarios.
 
@@ -104,9 +104,9 @@ These examples explore some common scenarios.
 
 > **A hub that I supply distributes through buying groups.**
 
-In order for your products to be distributed by the buying groups you will have to add a minimum of permission 'to add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
+In order for your products to be distributed by the buying groups you will have to add a minimum permission of 'add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would like to **_**also**_** manage stock levels and prices of my products.**
+> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would **_**also**_** like to manage stock levels and prices of my products.**
 
 This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
 
