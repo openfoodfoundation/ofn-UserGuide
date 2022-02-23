@@ -1,6 +1,6 @@
 # Cycle de vente géré par un hub
 
-_\*Vous êtes un producteur  et avez choisi un type de profil "Boutique producteur" ? Rendez-vous sur_ [_Cycle de vente pour les fournisseurs_](broken-reference)_._
+_\*Vous êtes un producteur et avez choisi un type de profil "Boutique producteur" ? Rendez-vous sur_ [_Cycle de vente géré par un producteur_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-producers)_._
 
 En créant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits pouvant être achetés ainsi que les marges et commissions ajoutées sur les prix de base des produits pour couvrir les frais liés à la distribution.
 
@@ -17,10 +17,10 @@ Puis cliquez sur "Nouveau cycle de vente" :&#x20;
 ![](<../../../.gitbook/assets/image (91) (1).png>)
 
 {% hint style="info" %}
-**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)
+**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) et une [méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods)
 {% endhint %}
 
-La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente (les fournisseurs ou les autres hubs) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises dans le contexte des cycles de vente, cliquez [ici](broken-reference).
+La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente. Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente (les fournisseurs ou les autres hubs) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises dans le contexte des cycles de vente, cliquez [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#gestionnaires).
 
 Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes :
 
@@ -34,11 +34,11 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes
 
 **Commandes jusqu'au :** La date à laquelle votre boutique arrêtera d'accepter des commandes pour ce cycle de vente. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
-**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits et tous les distributeurs figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies (voir page [Marges et commissions](broken-reference)).
+**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits et tous les distributeurs figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies (voir page [Marges et commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees)).
 
 ### 2. Produits entrants
 
-Cette section vous permet de sélectionner les produits qui seront vendus durant le cycle de vente, parmi les produits proposés par les producteurs. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant autorisé à vendre leurs produits](broken-reference). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souhaitez ajouter (vous pouvez aussi les sélectionner tous).&#x20;
+Cette section vous permet de sélectionner les produits qui seront vendus durant le cycle de vente, parmi les produits proposés par les producteurs. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant autorisé à vendre leurs produits](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es). Cliquez bien sur "ajouter un fournisseur" pour voir les produits associés à ce fournisseur. Cochez les produits que vous souhaitez ajouter (vous pouvez aussi les sélectionner tous).&#x20;
 
 {% hint style="info" %}
 **Attention** : les produits qui sont en rupture de stock s'afficheront également dans la liste. Faites bien attention au stock disponible en les ajoutant.
@@ -48,7 +48,7 @@ Les **détails de livraison produits** sont facultatifs, et sont affichés dans 
 
 Le bouton marge et commission dans cette section, au niveau de chaque ligne producteurs, vous permet d'appliquer une marge différenciée selon le producteur. Par exemple, le producteur de farine achemine ses produits d'assez loin et les coûts de transport sont particulièrement élevés sur ces produits. Le hub souhaite refléter ce coût de manière transparente sur les produits de ce producteur : il va pouvoir ajouter une marge spécifique pour ce producteur, qui s’additionnera aux autres marges figurant au niveau du coordinateur ou des distributeurs (produits sortants). Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous :
 
-Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné au moment de sa création (voir page [marges et commissions](broken-reference)).
+Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné au moment de sa création (voir page [marges et commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees)).
 
 ### 3. Produits vendus (sortants)
 
@@ -56,7 +56,7 @@ Vous pouvez ici sélectionner un ou plusieurs hubs-distributeurs, pour lesquels 
 
 ![](<../../../.gitbook/assets/image (50) (1).png>)
 
-Les **tags** vous permettent de taguer le cycle de vente pour qu'il ne soit visible que de certains acheteurs (voir page [Affichages relatifs aux catégories d'acheteurs (tags)](broken-reference)).
+Les **tags** vous permettent de taguer le cycle de vente pour qu'il ne soit visible que de certains acheteurs (voir page [Affichages relatifs aux catégories d'acheteurs (tags)](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules#les-regles-de-tags)).
 
 **Prêt pour :** La date à laquelle cette commande sera disponible (ou livrée) pour les acheteurs. Vous pouvez indiquer ici un texte libre qui sera utilisé pour nommer ce cycle de vente, par exemple _Vendredi prochain_. Certains hubs "hackent" un peu ce fonctionnement et saisissent ici la nature de la commande concernée par ce cycle de vente, par exemple (Commande viande pour 23 juillet).
 
