@@ -4,10 +4,10 @@ You can access the Open Food Network platform in various languages, and from var
 
 The local entities provide you with a “Saas”’ service (Software as a service, so you don’t have to deploy and run the code yourself), but you can always find the source code [here](https://github.com/openfoodfoundation/openfoodnetwork#boards?repos=6257856), as it is an open source software released under the AGPL 3 licence.
 
-Usually the local entities that provide this Saas service also provide other services to support more generally the development of the local food sector, like training, consulting, incubation programs, etc. Get in touch with them through their website to learn more about them!  See [here](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Usually the local entities that provide this Saas service also provide other services to support more generally the development of the local food sector, like training, consulting, incubation programs, etc. Get in touch with them through their website to learn more about them !  See [here](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
 
 \
-Want to learn more about what the Open Food Network is? [Check our global website](https://www.openfoodnetwork.org)!
+Want to learn more about what is the Open Food Network? [Check our global website](https://www.openfoodnetwork.org)!
 
 | Location       | <p>Access to platform </p><p>provided by</p>                                                                             | Link to the local access                                           | <p>Languages provided </p><p>by the local platform</p> |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------ |

@@ -11,18 +11,18 @@
 * Login
 
 {% hint style="info" %}
-If you don't receive a confirmation email from us promptly it may have gone to your spam/junk box.
+If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
 {% endhint %}
 
 ### Create your first "enterprise" account
 
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**".
+* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
 
 ![](../.gitbook/assets/registerenterprise.jpg)
 
 ![](../.gitbook/assets/welcome1.jpg)
 
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s get started!’
+* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
 
 ![](../.gitbook/assets/letsgetstarted.jpg)
 

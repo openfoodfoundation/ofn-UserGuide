@@ -6,7 +6,7 @@ On other occasions you, as a business manager, may need to change an order. Comm
 
 1. A product was not delivered by a supplier
 2. A product was of lower quality than expected
-3. An order contains products with variable weights such as [meat or large vegetables](../products-1/pricing-irregular-items-kg.md#option-one-set-an-average-weight-price-and-reimburse) (ie. whole items priced by weight).
+3. An order contains products with variable weights such as [meat or large vegetables](../products-1/pricing-irregular-items-kg.md#option-one-set-an-average-weight-price-and-reimburse) (i.e. whole items priced by weight).
 
 The process of issuing a refund or requesting further payment depends on the [payment method](../shopfront/payment-methods.md) employed. &#x20;
 
@@ -19,7 +19,7 @@ On the OFN platform, refunds and additional payments can only be taken **automat
 Using the OFN Platform, you can either process a Total refund, or make an adjustment to the order to change the balance owing, and then process a Partial refund.
 
 {% hint style="warning" %}
-&#x20;If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
+If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
 {% endhint %}
 
 ### Total Refund
@@ -93,7 +93,7 @@ Once this has been done, you can [mark the order as cancelled](refunds-and-adjus
 
 #### Marking an order as cancelled
 
-Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ (top right hand blue button)
+Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ (top right hand blue button).
 
 ![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk\_iLVrBwt9metOp\_RqXmSKL8dRCxFtj6VqTEDjx7z\_NHERFNJPw-CdOlNGGmBYp)
 
@@ -101,8 +101,12 @@ Once you have issued a refund, you can now cancel the order. [Edit the order](vi
 The customer will receive an email to state that their order has been cancelled.
 {% endhint %}
 
+{% hint style="info" %}
+Cancelling an order will **automatically** **update stock levels**. For example, if a shop had five loaves of bread in stock and a customer ordered three, stock levels would show two in stock. Cancelling the customer's order automatically updates stock levels, such that five will again show as in stock.
+{% endhint %}
+
 {% hint style="danger" %}
-Note you can not cancel an order which has been marked as ‘Shipped’
+Note you cannot cancel an order which has been marked as ‘Shipped’
 {% endhint %}
 
 ### Partial Refund
