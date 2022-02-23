@@ -15,7 +15,7 @@ Les acheteurs doivent indiquer pour ce produit au moment de la commande :
 
 En résumé, cela signifie que l'acheteur final indique le montant maximum qu'il est prêt à acheter afin de bénéficier de la réduction lié à l'achat en gros volume.
 
-Dans le menu de [gestion des commandes par lot](broken-reference), les quantités minimales et maximales saisies par les acheteurs sont clairement indiquées, vous permettant ainsi de réajuster la quantité commandée jusqu'au seuil maximal, ou de supprimer toutes les commandes d'un produit donné si le minimum de commandes n'est pas atteint.
+Dans le menu de [gestion des commandes par lot,](https://guide.openfoodnetwork.org/v/fr/basic-features/orders/view-orders#gestion-des-commandes-par-lot) les quantités minimales et maximales saisies par les acheteurs sont clairement indiquées, vous permettant ainsi de réajuster la quantité commandée jusqu'au seuil maximal, ou de supprimer toutes les commandes d'un produit donné si le minimum de commandes n'est pas atteint.
 
 ## Activer l'option d'achat par lot
 
@@ -27,7 +27,7 @@ Sélectionnez "oui". La quantité totale du lot est le nombre exact d'unités qu
 
 ## Ajuster les commandes pour constituer des lots complets
 
-Dans le menu commandes > gestion des commandes par lot :
+Dans le menu commandes > [gestion des commandes par lot](https://guide.openfoodnetwork.org/v/fr/basic-features/orders/view-orders#gestion-des-commandes-par-lot) :
 
 1. Sélectionnez le cycle de vente ou les dates concernés
 2. Recherchez votre produit (dans notre exemple ici "Farine (achat groupé sac 25kg))
