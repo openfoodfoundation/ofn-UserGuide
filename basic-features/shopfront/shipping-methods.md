@@ -20,13 +20,13 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **4) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :&#x20;
 
+![](<../../.gitbook/assets/image (61) (1) (1).png>)
+
 **5) Description :** Ici vous pouvez ajouter des détails supplémentaires, comme l'adress précise du lieu de retrait par exemple. Ces détails seront visibles pour les clients en gris à côté du nom (cf. capture ci-dessus).
 
 **6) Catégorie :** Est-ce une livraison (à l'adresse de l'acheteur) ou un retrait (l'acheteur doit se déplacer pour aller retirer sa commande quelque part) ?
 
-7\) **Tags** : Vous pouvez renseigner un [tag ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)si vous souhaitez mettre à disposition des services différents en fonction des acheteurs.
-
-**7) Calculateur :** Sélectionnez comment les frais de livraisons vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur).
+**7) Calculateur :** Sélectionnez comment les frais de livraisons vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](broken-reference).
 
 **8) Conditions de transport :** Quelles conditions spécifiques de transport sont associées à cette méthode de livraison ?
 
