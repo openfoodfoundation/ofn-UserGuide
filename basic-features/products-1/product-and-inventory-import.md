@@ -18,10 +18,10 @@ Pour accéder à la fonctionnalité, cliquez sur le menu principal **Produits** 
 
 Les 4 possibilités principales offertes par cette fonctionnalité sont :
 
-1. Importer de nouveaux produits dans des catalogues producteurs
-2. Mettre à jour les caractéristiques de produits existants dans des catalogues producteurs
-3. Importer des produits dans des catalogues boutiques
-4. Mettre à jour les caractéristiques de produits existants dans des catalogues boutiques
+1. Importer de nouveaux [produits](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1) dans les catalogues producteurs
+2. Mettre à jour les caractéristiques de produits existants dans les catalogues producteurs
+3. Importer des produits dans le [catalogue boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool?q=catalogue+bout)
+4. Mettre à jour les caractéristiques de produits existants dans le catalogue boutique
 
 Dans chacun des cas, il vous faudra télécharger le modèle de fichier csv sur la plateforme, le remplir et le téléverser ensuite sur la plateforme.
 
@@ -67,7 +67,7 @@ Par ailleurs, certains champs ne sont pas encore disponibles via l'import produi
 
 ### Les variantes
 
-[Les variantes](broken-reference) peuvent être distinguées par les unités (par exemple un produit vendu par 500 g ou 1 kg) ainsi que le champ display\_name (exemple : Yaourt à la myrtille, fraise...). Chaque variante est regroupée sous le même nom produit. Exemple :
+[Les variantes](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-variants) peuvent être distinguées par les unités (par exemple un produit vendu par 500 g ou 1 kg) ainsi que le champ display\_name (exemple : Yaourt à la myrtille, fraise...). Chaque variante est regroupée sous le même nom produit. Exemple :
 
 | name               | display\_name | price | units | unit\_type |
 | ------------------ | ------------- | ----- | ----- | ---------- |
@@ -118,7 +118,7 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 | variant\_unit\_name (si applicable)   | ​                  | ​                                          |
 | display\_name                         |                    |                                            |
 
-## Importer ou mettre à jour des produits dans des catalogues boutiques <a href="#import-new-inventory" id="import-new-inventory"></a>
+## Importer ou mettre à jour des produits dans le [catalogue boutiques](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) <a href="#import-new-inventory" id="import-new-inventory"></a>
 
 Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office (ou Excel ou équivalent).
 
