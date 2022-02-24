@@ -196,6 +196,8 @@ C'est l'endroit idéal pour communiquer des informations importantes comme des c
 
 **Commandes des invités** : Si vous sélectionnez "autoriser les commandes en mode invité" les visiteurs pourront commander vos produits sans être connectés à la plateforme donc sans avoir de compte utilisateur. Si vous souhaitez "forcer" la création de compte par vos acheteurs et qu'ils doivent se connecter pour pouvoir acheter, sélectionnez "demander que l'acheteur se connecte pour pouvoir commander". L'intérêt est que vous avez une garantie à minima que votre acheteur a certifié son email donc utilise un email actif. Cela peut contribuer à limiter le nombre de commandes finalement jamais récupérées, l'acheteur ne pouvant pas être complètement anonyme.
 
+Modifier la commande : Si vous sélectionnez ""Les acheteurs peuvent modifier..." Les acheteurs pourront modifier / valider leur commande tant que le cycle de vente est ouvert, c’est à dire pourront modifier la quantités des produits sélectionnés et supprimer un ou plusieurs produits sélectionnés lors de la commande initiale. (A noter qu'il ne sera pas possible d’ajouter un produit non sélectionné au préalable via la fonctionnalité modification de commande)
+
 **Abonnements** : Vous pouvez permettre à vos acheteurs d’accéder à une [commande récurrente](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente)
 
 **Affichage du nom des acheteurs :** Vous pouvez afficher ou non le nom de vos acheteurs depuis la vue producteur
