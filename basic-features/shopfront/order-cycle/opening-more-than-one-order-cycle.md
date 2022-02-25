@@ -9,11 +9,11 @@ Exemple ci-dessous avec des boutiques par date de livraison :&#x20;
 A la sélection du cycle de vente par l'acheteur, il verra s'afficher la liste des produits et les conditions correspondant au cycle de vente sélectionné.&#x20;
 
 {% hint style="info" %}
-**Attention : les méthodes de livraison et paiement ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce aux[ tags](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee).
+**Attention : les méthodes de livraison et paiement ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce aux [tags](broken-reference).
 {% endhint %}
 
 {% hint style="info" %}
-**Les** [**tags** ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)**vous permettent aussi de rendre visible ou invisible un cycle de vente à certains acheteurs.** Par exemple, vous pouvez définir un groupe d'acheteurs "pro" et choisir de ne rendre visible que pour ce groupe d'acheteur le cycle de vente "pro" comportant des volumes et prix adaptés aux professionnels.
+**Les** [**tags**](broken-reference) **vous permettent aussi de rendre visible ou invisible un cycle de vente à certains acheteurs.** Par exemple, vous pouvez définir un groupe d'acheteurs "pro" et choisir de ne rendre visible que pour ce groupe d'acheteur le cycle de vente "pro" comportant des volumes et prix adaptés aux professionnels.
 {% endhint %}
 
 ## **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
