@@ -2,7 +2,7 @@
 
 ## Règles de tags
 
-Une fois les acheteurs regroupés par catégories (une fois qu'un tag leur a été associé, ([voir page précédente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers)), vous allez pouvoir définir les règles d'affichage suivantes :&#x20;
+Une fois les acheteurs regroupés par catégories (une fois qu'un tag leur a été associé, [voir page précédente](broken-reference)), vous allez pouvoir définir les règles d'affichage suivantes :&#x20;
 
 * Rendre certaines variantes visibles ou invisibles
 * Rendre des méthodes de livraison visibles ou invisibles
@@ -38,7 +38,7 @@ Balayons chacune de ces options une par une.
 
 #### Afficher ou masquer les variantes dans ma boutique
 
-Cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs. Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) et pas dans le catalogue du producteur concerné. Dans l'exemple ci-dessous, la variante "carottes par 3kg" est taggée "vip", et on pourrait créé une règle disant que par défaut, les variantes taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
+Cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs. Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](broken-reference) et pas dans le catalogue du producteur concerné. Dans l'exemple ci-dessous, la variante "carottes par 3kg" est taggée "vip", et on pourrait créé une règle disant que par défaut, les variantes taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
 
 ![](<../../../.gitbook/assets/image (87).png>)
 
@@ -70,15 +70,15 @@ Parfois, vous souhaitez appliquer des tarifications différentes selon le type d
 
 Plusieurs possibilités de paramétrages utilisant les règles de tag sont à votre disposition  :
 
-* Vous pouvez proposer une[ méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) réservée aux membres (exemple : "retrait au dépôt (membres)" vs "retrait au dépôt (non membres)", et associer des frais inférieurs, voir des frais négatifs (correspondant donc à une ristourne) pour la méthode concernant les membres. Quand le membre choisi cette méthode, le prix de sa commande est adapté (le montant total diminue si des frais négatifs sont associés). En revanche, cela implique de vérifier que l'acheteur ne triche pas lorsqu'il sélectionne la méthode correspondant à son profil, ou alors de taguer les membres "membres" et la méthode de paiement qui leur est réservée avec le même tag et paramétrer une règle de tag.
-* Vous pouvez proposer une[ méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) avec des frais négatifs (ce qui correspondra à une ristourne donc) et réserver grâce aux tags cette méthode de paiement à des acheteurs professionnels par exemple.&#x20;
-* Vous pouvez créer [deux cycles de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle) : un cycle de vente pour les membres et un pour les non membres. Sur le cycle de vente dédié aux non-membres, vous pouvez appliquer une commission supérieure. Mais ici également, il faudra bien vérifier que les non-membres ont sélectionné le bon cycle de vente, ou cadrer les choses en utilisant les règles de tag et en taguant les acheteurs donc selon qu'ils sont membres ou non-membres.
+* Vous pouvez proposer une [méthode de livraison ](broken-reference)réservée aux membres (exemple : "retrait au dépôt (membres)" vs "retrait au dépôt (non membres)", et associer des frais inférieurs, voir des frais négatifs (correspondant donc à une ristourne) pour la méthode concernant les membres. Quand le membre choisi cette méthode, le prix de sa commande est adapté (le montant total diminue si des frais négatifs sont associés). En revanche, cela implique de vérifier que l'acheteur ne triche pas lorsqu'il sélectionne la méthode correspondant à son profil, ou alors de taguer les membres "membres" et la méthode de paiement qui leur est réservée avec le même tag et paramétrer une règle de tag.
+* Vous pouvez proposer une [méthode de paiement ](broken-reference)avec des frais négatifs (ce qui correspondra à une ristourne donc) et réserver grâce aux tags cette méthode de paiement à des acheteurs professionnels par exemple.&#x20;
+* Vous pouvez créer [deux cycles de vente](broken-reference) : un cycle de vente pour les membres et un pour les non membres. Sur le cycle de vente dédié aux non-membres, vous pouvez appliquer une commission supérieure. Mais ici également, il faudra bien vérifier que les non-membres ont sélectionné le bon cycle de vente, ou cadrer les choses en utilisant les règles de tag et en taguant les acheteurs donc selon qu'ils sont membres ou non-membres.
 
 {% hint style="info" %}
 Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "catalogue boutique" pour gérer des tarifications différenciées. Vous pouvez par exemple créé une boutique pour les acheteurs pro, dont vous ne communiquer l'url qu'à ces acheteurs. Cette boutique peut gérer un catalogue boutique et modifier les prix des produits qui s'afficheront dans la boutique. Cette solution peut être utile lorsque la ristourne appliquée aux professionnels ne suit aucune "règle" fixe, et que les prix sont définis produits par produits.
 {% endhint %}
 
 {% hint style="info" %}
-**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules#regles-de-tags) afin que les tags fonctionnent !
+**ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/affichages-et-prix-differencies-par-categorie-dacheteur/customized-shopping-experience#comment-parametrer-une-regle-de-tag) afin que les tags fonctionnent !
 {% endhint %}
 

@@ -7,7 +7,7 @@ Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si v
 
 ## Rendre votre boutique invisible du grand public
 
-Dans les [paramètres du profil](broken-reference), sous "informations de base", vous pouvez cocher le bouton "invisible"
+Dans les [paramètres du profil](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings), sous "informations de base", vous pouvez cocher le bouton "invisible"
 
 ![](<../../.gitbook/assets/image (78) (1).png>)
 
