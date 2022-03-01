@@ -1,11 +1,11 @@
 # Bienvenidas a la guía de usuarias de Open Food Network
 
-| Versión de idioma | Enlace a la guía de usuarias |
-| :--- | :--- |
-| Español | ¡Está leyendo la versión en español! |
-| ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | \_\_[_Access the English version of the Open Food Network user guide_](https://guide.openfoodnetwork.org)\_\_ |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
+| Versión de idioma                                                                                                                                                                                                                                          | Enlace a la guía de usuarias                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Español                                                                                                                                                                                                                                                    | ¡Está leyendo la versión en español!                                                                             |
+| ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media\&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c) | __[_Access the English version of the Open Food Network user guide_](https://guide.openfoodnetwork.org)__        |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)                                                                                                                                                                                                    | [Accéder à la version française du guide utilisateur Open Food Network](https://guide.openfoodnetwork.org/v/fr/) |
+| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png)                                                                                                                                                                                                    | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org)                 |
 
 **Esta guía está diseñada para sacar el mayor provecho de la plataforma Open Food Network para soportar la operación de empresas alimentarias locales y «pequeñas cadenas alimenticias» en donde usted vive.**
 
@@ -17,11 +17,11 @@ Open Food Network es un proyecto global que soporta la organización operativa d
 
 Este vídeo corto le dará una breve introducción a cómo funciona Open Food Network, y qué podemos hacer para su negocio de alimentos o su organización.
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" caption="" %}
+{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
 ## ¿Cómo usar esta guía?
 
-### &gt; Guías de configuración rápida hechas para su empresa
+### > Guías de configuración rápida hechas para su empresa
 
 Empezando desde cero, ¡abrir una tienda en línea que se ajuste perfectamente a sus necesidades, [en unos pocos pasos sencillos](your-quick-start-on-ofn-given-who-you-are.md)!
 
@@ -29,7 +29,7 @@ Empezando desde cero, ¡abrir una tienda en línea que se ajuste perfectamente a
 Recomendamos estas guías para usuarias iniciando en la plataforma Open Food Network por primera vez.
 {% endhint %}
 
-### &gt; Funcionalidades para satisfacer sus necesidades
+### > Funcionalidades para satisfacer sus necesidades
 
 Encuentre una [explicación detallada de cada funcionalidad que ofrece nuestra plataforma](basic-features/), de forma que pueda configurar su empresa de Open Food Network para satisfacer sus necesidades locales.
 
@@ -41,15 +41,15 @@ Recomendamos estas guías para usuarias que quieren personalizar su empresa de O
 También son un gran recurso para responder cualquier pregunta que pudieran tener.
 {% endhint %}
 
-### _&gt;_ Guías sobre software complementario que podría usar en combinación con Open Food Network
+### _>_ Guías sobre software complementario que podría usar en combinación con Open Food Network
 
 Open Food Network hace muchas cosas, pero ninguna herramienta puede adaptarse a todas las necesidades. Listamos [algunas necesidades para las que podrían encontrar software complementario, y cómo configurarlo](complementary-tools-software/) para trabajar mano a mano con su plataforma Open Food Network local.
 
-### &gt; Solución de problemas
+### > Solución de problemas
 
 ¿Aún no encuentra lo que necesita? ¡Revise la [sección de solución de problemas](trouble-shooting.md) para ver si otras personas tuvieron las mismas preguntas que usted!
 
-### &gt; Búsqueda
+### > Búsqueda
 
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
 
@@ -58,4 +58,3 @@ Open Food Network hace muchas cosas, pero ninguna herramienta puede adaptarse a 
 ## Retroalimentación
 
 ¿Alguna dificultad con esta guía de usuaria? ¿Hace falta información? ¿O tal vez usted quiera compartir algunas de las funcionalidades que le gustaría ver en el futuro? ¡Póngase en contacto con [su entidad OFN local](local-ofn-organizations-and-contacts.md) para cualquier retroalimentación!
-
