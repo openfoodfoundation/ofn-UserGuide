@@ -77,8 +77,15 @@ Les cycles de vente sont présentés en vert lorsqu'ils sont actifs, jaune lorsq
 ## Notifier les producteurs
 
 Depuis un cycle de vente, il vous est possible de notifier à tout moment les producteurs des commandes en cours. \
-Cliquez sur le bouton "modifier" du cycle de vente de votre choix depuis la liste des cycles de vente puis sélectionnez "Notifier les producteurs"
+Cliquez sur le bouton "modifier" du cycle de vente de votre choix depuis la liste des cycles de vente puis sélectionnez "Notifier les producteurs" en haut à droite :\
+\
+
+
+![](<../../../.gitbook/assets/image (79).png>)
+
+En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).\
+\
+Vous pouvez également choisir d'envoyer cet email automatiquement à la fin du cycle de vente à l'aide de la case à cocher dans les paramètres avancés : \
+
 
 ![](<../../../.gitbook/assets/image (93).png>)
-
-En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).

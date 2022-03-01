@@ -1,6 +1,6 @@
 # Méthodes de paiement
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 La définition d'au moins une méthode de paiement est obligatoire avant l'ouverture d'une boutique !
 {% endhint %}
 
@@ -28,7 +28,7 @@ Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 
 &#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
 
-**7) Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs (voir le détail de la fonctionnalité [ici](broken-reference)).
+**7) Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs (voir le détail de la fonctionnalité [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)).
 
 **8)** **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :
 
@@ -36,7 +36,7 @@ Un exemple de message au moment du choix de la méthode de paiement :&#x20;
 * PayPal Express
 * Stripe
 
-**9) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/mise-en-place-dune-boutique/frais-et-taxes#le-calculateur).
+**9) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods#le-calculateur)
 
 En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez de nouveaux champs pour définir les frais associés au calculateur choisi. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changez la sélection de calculateur, il faut d'abord sauvegarder votre modification (mettre à jour) et ensuite les champs associés apparaissent.&#x20;
 
@@ -55,7 +55,7 @@ Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un 
 
 3\. Cliquez sur "mettre à jour" l'accès API:
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1).png>)
 
 4\. Sélectionnez "Manage API credentials":
 
@@ -87,7 +87,7 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 [Stripe ](https://stripe.com/au)est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte.&#x20;
 
-Si vous souhaitez utiliser la fonctionnalité d'[abonnement](broken-reference), Stripe est la seule méthode de paiement en ligne utilisable (en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr).
+Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions), Stripe est la seule méthode de paiement en ligne utilisable (en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr).
 
 **Connecter avec Stripe**
 
@@ -117,7 +117,7 @@ Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour 
 
 Vous pouvez associer des frais aux méthodes de paiement.
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Les frais du mode de paiement ne comprennent pas les taxes (TVA).
 {% endhint %}
 
