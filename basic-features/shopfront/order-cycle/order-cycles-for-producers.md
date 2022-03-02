@@ -1,6 +1,6 @@
 # Cycle de vente géré par un producteur
 
-_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)__
+_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs_](broken-reference)_._
 
 En créant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits pouvant être achetés ainsi que les marges et commissions ajoutées sur les prix de base des produits pour couvrir les frais liés à la distribution (ex: vos frais de transport).
 
@@ -15,7 +15,7 @@ Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis vo
 Puis cliquez sur "Nouveau cycle de vente".
 
 {% hint style="info" %}
-**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods)et une méthode de paiement
+**Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](broken-reference)et une[ méthode de paiement](broken-reference)
 {% endhint %}
 
 Vous êtes alors redirigé vers l'écran suivant :&#x20;

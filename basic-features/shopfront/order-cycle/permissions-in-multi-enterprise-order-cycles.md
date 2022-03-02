@@ -2,13 +2,13 @@
 
 
 
-_\*Cette page explique les droits qu'a chaque acteur (producteur-fournisseur, distributeur, coordinateur) dans le contexte d'un cycle de vente impliquant plusieurs entreprises, de type "_[cycle de vente géré par un hub](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)"_. Si vous souhaitez des informations sur les cycles de vente géré par un producteur,_[ _cliquez ici._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-producers)__
+_\*Cette page explique les droits qu'a chaque acteur (producteur-fournisseur, distributeur, coordinateur) dans le contexte d'un cycle de vente impliquant plusieurs entreprises, de type "_[_cycle de vente géré par un hub_](broken-reference)_". Si vous souhaitez des informations sur les cycles de vente géré par un producteur,_ [_cliquez ici_](broken-reference)_._
 
 Le coordinateur du cycle de vente est l'acteur qui a le plus de contrôle sur le cycle de vente. Les autres acteurs (fournisseurs / distributeurs) peuvent voir les commandes les concernant, et éditer les paramètres du cycle de vente qui les impliquent directement, mais ne peuvent pas modifier le cycle de vente au-delà.&#x20;
 
 ## Le coordinateur
 
-Si le coordinateur du cycle de vente n'est pas de type "hub" (donc s'il est de type producteur non hub), l'interface complète du cycle de vente ne sera pas chargée, vous ne verrez que l'interface correspondant au [cycle de vente géré par un producteur.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-producers) Pour voir l'interface complète, assurez-vous que le coordinateur est de nature "hub". Un profil simple ne peut pas créé/géré de cycle de vente.
+Si le coordinateur du cycle de vente n'est pas de type "hub" (donc s'il est de type producteur non hub), l'interface complète du cycle de vente ne sera pas chargée, vous ne verrez que l'interface correspondant au [cycle de vente géré par un producteur.](broken-reference) Pour voir l'[interface complète](broken-reference), assurez-vous que le coordinateur est de nature "hub". Un profil simple ne peut pas créé/géré de cycle de vente.
 
 {% hint style="info" %}
 Une fois qu'un cycle de vente est créé, son coordinateur ne peut plus être changé
@@ -22,19 +22,19 @@ Le coordinateur peut :
 
 ### Produits entrants
 
-* Le coordinateur peut "sourcer" son cycle de vente en appelant des fournisseurs pour lesquels il a le droit de vendre les produits. Le fournisseur en question doit donc bien avoir [créé les permissions ](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es)nécessaires au coordinateur d'ajouter leurs produits dans son cycle de vente avant la création du cycle.
+* Le coordinateur peut "sourcer" son cycle de vente en appelant des fournisseurs pour lesquels il a le droit de vendre les produits. Le fournisseur en question doit donc bien [avoir donné les droits](broken-reference) au coordinateur d'ajouter leurs produits dans son cycle de vente avant la création du cycle.
 * Il peut sélectionner, au sein des catalogues de ces fournisseurs, les produits qu'il souhaite vendre dans ce cycle de vente.
 * Il peut appliquer des commissions différenciées par fournisseur. Cela peut être utile par exemple si un fournisseur vend un type de produits pour lequel le coordinateur veut prendre une marge plus élevée. Ou si le coordinateur intègre dans son coût les frais de transport, et que pour un fournisseur donné les produits viennent de plus loin et coûtent plus cher à acheminer.
 
 ### Produits sortants
 
-* Le coordinateur peut choisir les distributeurs via lesquels seront vendus les produits de ce cycle de vente (il peut se sélectionner lui-même). Chaque distributeur doit être de nature "hub" (hub producteur ou boutique producteur), doit avoir donné [la permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) au coordinateur d'ajouter des produits dans son cycle de vente, et doit bien avoir paramétré au moins une [méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) et une [méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods).
+* Le coordinateur peut choisir les distributeurs via lesquels seront vendus les produits de ce cycle de vente (il peut se sélectionner lui-même). Chaque distributeur doit être de nature "hub" (hub producteur ou boutique producteur), doit avoir [donné l'autorisation](broken-reference) au coordinateur d'ajouter des produits dans son cycle de vente, et doit bien avoir paramétré au moins une [méthode de paiement](broken-reference) et une [méthode de livraison](broken-reference).
 
 {% hint style="info" %}
 Si le hub a omis de paramétrer une méthode de paiement ou une méthode de livraison, il apparaîtra dans la liste des distributeurs potentiels, mais ne pourra pas être sélectionné par le coordinateur pour être ajouté au cycle de vente.
 {% endhint %}
 
-* Il peut sélectionner, au sein de l'ensemble des produits précédemment sélectionnés dans la catégorie "produits entrants", les produits qui seront distribués dans la boutique du distributeur en question. Pour qu'un distributeur puisse voir apparaitre dans la liste des produits disponibles les produits d'un fournisseur donné, ce dernier doit avoir donné [la permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) à ce distributeur de vendre ses produits.
+* Il peut sélectionner, au sein de l'ensemble des produits précédemment sélectionnés dans la catégorie "produits entrants", les produits qui seront distribués dans la boutique du distributeur en question. Pour qu'un distributeur puisse voir apparaitre dans la liste des produits disponibles les produits d'un fournisseur donné, ce dernier doit avoir [donné la permission](broken-reference) à ce distributeur de vendre ses produits.
 * Il peut appliquer des commissions différenciées par distributeur. Par exemple, il se peut qu'il applique une marge supérieur pour un distributeur plus éloigné pour couvrir de coûts de transport supérieurs.
 
 ## Le fournisseur du cycle de vente (ajouté dans la section "produits entrants")
@@ -54,7 +54,7 @@ Le fournisseur n'a pas accès aux noms des acheteurs ayant passé commande via u
 
 ### Produits sortants
 
-Les droits qu'a un fournisseur sur la gestion de ses produits dans la partie "produits sortants" dépendent de la[ permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) que lui a accordé le distributeur en question.&#x20;
+Les droits qu'a un fournisseur sur la gestion de ses produits dans la partie "produits sortants" dépendent de la [permission](broken-reference) que lui a accordé le distributeur en question.&#x20;
 
 * Si le distributeur l'a autorisé à ajouter des produits aux cycles de ventes, le fournisseur va pouvoir voir, ajouter, retirer des produits de la liste des produits sortants du distributeur.
 * Si le distributeur n'a pas donné cette autorisation, le fournisseur va pouvoir voir ses produits dans la liste des produits sortants du distributeur mais ne pourra ni en ajouter ni en retirer.
@@ -76,7 +76,7 @@ Pour l'instant, seul le coordinateur du cycle de vente peut ajouter des fourniss
 
 ### Produits sortants
 
-Les droits qu'a un distributeur sur la gestion des produits dans la partie "produits sortants" dépendent de la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) que lui a accordé le fournisseur.&#x20;
+Les droits qu'a un distributeur sur la gestion des produits dans la partie "produits sortants" dépendent de la [permission](broken-reference) que lui a accordé le fournisseur.&#x20;
 
 * Le distributeur peut voir, ajouter, retirer des produits de sa liste de produits sortants uniquement pour les fournisseurs qui lui ont [donné l'autorisation](broken-reference) de vendre leurs produits.
 * Il peut modifier les dates de livraison/retrait et les précisions sur les modalités de livraison/retrait

@@ -29,7 +29,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **TVA applicable :** Sélectionnez la TVA applicable. Pour une marge imputée sur un produit, souvent la TVA est héritée du produit. Mais selon le modèle de commercialisation la marge pourra être soumise à une autre TVA, par exemple 20% si elle représente la contrepartie d'un service d'apport d'affaire. Si aucune TVA n'est appliquée, indiquez "TVA 0%".
 
-**Calculateur :** La marge peut être calculée de différentes manières. Sélectionnez [le calculateur](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur) qui s'applique le mieux.
+**Calculateur :** La marge peut être calculée de différentes manières. Sélectionnez le [calculateur](broken-reference) qui s'applique le mieux.
 
 Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
 
@@ -66,5 +66,5 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 * 'Devise' : La monnaie utilisée (généralement "EUR").
 
 {% hint style="warning" %}
-Maintenant que vous avez créé vos **marges et commissions**, n'oubliez pas qu'**elles ne sont applicables dans votre boutique que si elles sont ajoutés à un cycle de vente**. Pour plus de détails, consultez les pages relatives [aux cycles de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle).
+Maintenant que vous avez créé vos **marges et commissions**, n'oubliez pas qu'**elles ne sont applicables dans votre boutique que si elles sont ajoutés à un cycle de vente**. Pour plus de détails, consultez les pages relatives aux cycles de vente.
 {% endhint %}
