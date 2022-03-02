@@ -24,18 +24,18 @@ Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous 
 
 #### **Méthodes de livraison** <a href="#shipping-methods" id="shipping-methods"></a>
 
-Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ la page suivante](broken-reference).&#x20;
+Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ ](broken-reference)[cette page.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods#definir-une-methode-de-livraison)&#x20;
 
 #### **Méthodes de paiement** <a href="#payment-methods" id="payment-methods"></a>
 
-**Vous ne pouvez utiliser que deux méthodes de paiement pour les commandes récurrentes**. Consultez [cette page](broken-reference) pour la configuration générale des méthodes de paiement.
+**Vous ne pouvez utiliser que deux méthodes de paiement pour les commandes récurrentes**. Consultez [cette page](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) pour la configuration générale des méthodes de paiement.
 
 **1) Méthode manuelle** : Espèce, chèque ou virement bancaire (sans validation automatique sur la plateforme).
 
-**2) Stripe :** Stripe est un portail de paiement par carte bancaire équivalent à Paypal (l'obligation de créer un compte pour l'acheteur en moins). Pour voir le détail de la configuration Stripe sur une boutique, [cliquez ici](broken-reference). A chaque commande, la carte bancaire va être débitée du montant de la commande, et reflètera toute modification apportée à la commande. Rien ne sera débité si la commande récurrente a été mise en pause ou annulée.
+**2) Stripe :** Stripe est un portail de paiement par carte bancaire équivalent à Paypal (l'obligation de créer un compte pour l'acheteur en moins). Pour voir le détail de la configuration Stripe sur une boutique, [cliquez ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods#stripe). A chaque commande, la carte bancaire va être débitée du montant de la commande, et reflètera toute modification apportée à la commande. Rien ne sera débité si la commande récurrente a été mise en pause ou annulée.
 
 {% hint style="info" %}
-Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food Network, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](broken-reference).
+Pour que l'acheteur soit correctement débité, il est nécessaire qu'il dispose d'un compte utilisateur sur la plateforme Open Food Network, qu'il ait enregistré une carte de crédit par défaut et donné l'autorisation à votre boutique de réaliser des prélèvements automatiques. Pour plus d'informations consultez la page [Pour l'acheteur](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-the-customers-perspective).
 {% endhint %}
 
 Également, si vous utilisez Stripe, pensez à bien nommer cette méthode de paiement dans votre interface d'administration.
@@ -48,7 +48,7 @@ Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'a
 
 Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certaines informations :
 
-**Nom**, **numéro de téléphone** et **adresse e-mail :** rappelons que tout acheteur souhaitant bénéficier de commandes récurrentes a l'obligation de se créer un compte sur la plateforme. Et comme précisé dans le paragraphe suivant, vous devez l'ajouter à votre [liste d'acheteurs](broken-reference).
+**Nom**, **numéro de téléphone** et **adresse e-mail :** rappelons que tout acheteur souhaitant bénéficier de commandes récurrentes a l'obligation de se créer un compte sur la plateforme. Et comme précisé dans le paragraphe suivant, vous devez l'ajouter à votre [liste d'acheteurs](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list).
 
 **Adresse de facturation et de livraison :** vous aurez besoin de ces informations pour mettre en place la commande récurrente.
 
@@ -56,15 +56,15 @@ Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certain
 
 **Méthode de livraison** : vous devez associer une méthode de livraison à la commande récurrente.
 
-**Méthode de paiement : vous devez associer une méthode de paiement à la commande récurrente (paiement en liquide ou chèque à réception, paiement par prélèvement automatique via Stripe).** Voir [point précédent](broken-reference) pour les paiements automatiques via Stripe.
+**Méthode de paiement : vous devez associer une méthode de paiement à la commande récurrente (paiement en liquide ou chèque à réception, paiement par prélèvement automatique via Stripe).** Voir point précédent pour les paiements automatiques via Stripe.
 
 **Dates** : la date de début et de fin de la commande récurrente. Pour rappel, pour qu'une commande récurrente soit passée pour un acheteur sur un cycle de vente donné, la date de début de la commande récurrente peut être située avant ou après la date de début du cycle de vente, en revanche la date de fin de la commande récurrente doit obligatoirement se situer après la date de fin du cycle de vente.
 
 ## 4) Ajoutez les nouveaux acheteurs à votre liste <a href="#4-add-your-subscribers-to-your-customer-list" id="4-add-your-subscribers-to-your-customer-list"></a>
 
-Avant de mettre en place une commande récurrente pour un utilisateur, vous devez l'ajouter à votre [liste d'acheteurs](broken-reference).&#x20;
+Avant de mettre en place une commande récurrente pour un utilisateur, vous devez l'ajouter à votre [liste d'acheteurs. ](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list)
 
-**Une fois ajouté à votre liste,** demandez-leur de se créer un compte sur la plateforme. Si vous planifier d'utiliser un prélèvement automatique via Stripe pour les commandes récurrentes, vous devrez aussi leur demander de sauvegarder une carte de paiement sur leur compte et de vous autoriser à prélever sur cette carte. Toutes les étapes à réaliser de leur côté sont disponibles à la page [Pour l'acheteur](broken-reference). &#x20;
+**Une fois ajouté à votre liste,** demandez-leur de se créer un compte sur la plateforme. Si vous planifier d'utiliser un prélèvement automatique via Stripe pour les commandes récurrentes, vous devrez aussi leur demander de sauvegarder une carte de paiement sur leur compte et de vous autoriser à prélever sur cette carte. Toutes les étapes à réaliser de leur côté sont disponibles à la page [Pour l'acheteur](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list). &#x20;
 
 Vous pouvez aussi les ajouter à votre liste une fois leur compte créé. Dans tous les cas, il est nécessaire pour l'acheteur de disposer d'un compte valide sur la plateforme, donc il doit bien avoir confirmé son adresse email. Par ailleurs, si vous utilisez Stripe en tant que méthode de paiement, il est nécessaire de les ajouter à votre liste d'acheteurs **AVANT qu'ils autorisent votre boutique à réaliser des prélèvements**.
 
@@ -72,12 +72,12 @@ Ainsi, nous recommandons le processus suivant :\
 1- Contactez l'acheteur pour obtenir les informations listées ci-dessus\
 2- Ajoutez le à votre liste d'acheteur\
 3- Ecrivez-lui en lui demandant de se créer un compte sur la plateforme (et si vous utilisez le prélèvement automatique par Stripe d'enregistrer une carte et vous autoriser à prélever dessus)\
-4- [Créer ensuite seulement leur commande récurrente](broken-reference)&#x20;
+4- Créer ensuite seulement leur [commande récurrente ](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-creating-and-managing-orders#6-create-subscriptions)
 
 ## 5) Les rythmes d'abonnement <a href="#5-schedules" id="5-schedules"></a>
 
 {% hint style="info" %}
-S'il s'agit de votre première utilisation d'Open Food Network, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](broken-reference).
+S'il s'agit de votre première utilisation d'Open Food Network, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle).
 {% endhint %}
 
 ### A propos <a href="#about-schedules" id="about-schedules"></a>
