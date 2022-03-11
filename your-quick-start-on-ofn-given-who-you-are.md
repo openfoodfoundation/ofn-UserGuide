@@ -4,13 +4,9 @@ description: Wählen Sie den richtigen Auftritt Ihres Unternehmens im Open Food 
 
 # Wie passt mein Unternehmen ins OFN?
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media\&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)-->​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media\&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 Abhängig von Ihrem Geschäftsmodell können Sie das Open Food Network ganz unterschiedlich für sich nutzen.&#x20;
 
-Wir unterscheiden drei Arten von Unternehmen: [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile), [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) und [Läden](your-quick-start-on-ofn-given-who-you-are.md#hub).
+Wir unterscheiden drei Typen von Unternehmen: [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile), [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) und [Läden](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
 ![](<.gitbook/assets/aus-wordpress-1-column-image-1080-x-540 (1).png>)
 
