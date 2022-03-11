@@ -5,14 +5,14 @@ description: Wählen Sie den richtigen Auftritt Ihres Unternehmens im Open Food 
 # Wie passt mein Unternehmen ins OFN?
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media\&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)-->​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media\&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-Abhängig von Ihrem Geschäftsmodell können Sie das Open Food Network ganz unterschiedlich für sich nutzen. 
+Abhängig von Ihrem Geschäftsmodell können Sie das Open Food Network ganz unterschiedlich für sich nutzen.&#x20;
 
 Wir unterscheiden drei Arten von Unternehmen: [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile), [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) und [Läden](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
-![](.gitbook/assets/aus-wordpress-1-column-image-1080-x-540%20%281%29.png)
+![](<.gitbook/assets/aus-wordpress-1-column-image-1080-x-540 (1).png>)
 
 _Die Flexibilität des Open Food Network erlaubt es Ihnen jederzeit zwischen Profil, Produzentenladen und Laden zu wechseln und sich so Ihren wachsenden oder sich ändernden Bedürfnissen anzupassen._
 
@@ -20,76 +20,75 @@ _Die Flexibilität des Open Food Network erlaubt es Ihnen jederzeit zwischen Pro
 **Bauernmärkte** können die Plattform entweder als eine [Gruppe](basic-features/groups/) unabhängig geführter [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) oder als ein zentral organisierter [Laden](your-quick-start-on-ofn-given-who-you-are.md#hub) nutzen. Mehr dazu lesen Sie[ hier](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
-## Hub
+## Laden
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food hubs, CSA, Market/City gardens,  Retail shops, Food Banks, Wholesale Distributors...
+Bauernmärkte, SoLaWis, Gemüsekisten, Einkaufsgemeinschaften, Hofläden, Markt-/Stadtgärten, Lebensmittelkooperativen, soziale Lebensmittelgemeinschaften, Einzelhandelsgeschäfte, Tafeln, Großhändler ...
 {% endhint %}
 
-Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
+Hubs können viele Formen annehmen, aber im Grunde genommen ist Ihr Unternehmen ein **Laden**, wenn Sie **Produkte anderer Produzenten verkaufen** möchten. Sie können Ihre eigenen Produkte zusammen mit denen anderer Landwirte, Bäcker, Züchter usw. verkaufen oder nur als Händler fungieren, um Lebensmittel zu verkaufen, die von (lokalen) Unternehmen hergestellt wurden.
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
+Wenn Sie es vorziehen, nur Produkte zu verkaufen, die **Sie selbst herstellen**, dann ist die Erstellung eines [Produzentenladens](your-quick-start-on-ofn-given-who-you-are.md#shop) besser für Sie geeignet.
 {% endhint %}
 
-#### OFN can help your hub thrive and prosper by:
+**Das Open Food Network hilft Ihrem Unternehmen beim Wachstum durch:**&#x20;
 
-1. Increasing your online visibility.
-2. Providing your customers with a virtual 'farmers' market' experience
-3. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-4. Being able to take orders periodically to fit in with seasonal supply, production rotas and more...
-5. Helping organise regular repeating orders such as veg box schemes.
-6. Helping to build strong working relationships with local producers and food enterprises who supply you with goods.
+1. Erhöhung Ihrer Online-Präsenz
+2. Schaffung eines virtuellen "Bauernmarkt"-Erlebnisses für Ihre Kunden
+3. Reduzierung Ihrer Verwaltungstätigkeiten mit Lagerbeständen, Bestellungen, Buchhaltung und Packlisten an einem Ort
+4. Wiederkehrende Bestellzyklen, um die Bestellungen mit dem saisonalen Angebot und den Produktionsplänen in Einklang zu bringen
+5. Vereinfachung der Organisation regelmäßiger Bestellungen, wie z. B. Gemüsekistenprogramme
+6. Unterstützung beim Aufbau eines starken Netzwerks mit lokalen Produzenten und Lebensmittelunternehmen, die Sie mit Waren beliefern
 
-_The Hub enterprise has the most flexibility of the three enterprise types in OFN and you may find it necessary to adjust your enterprise type to 'hub' in order to unlock some of the more complex features we can offer._
+_Ein Laden ist der flexibelste der drei Unternehmenstypen im Open Food Network und Sie müssen möglicherweise Ihren Unternehmenstyp auf **Laden** umstellen, um einige der komplexeren Funktionen nutzen zu können, die wir anbieten._&#x20;
 
-**Setting up on OFN** can be as simple following 5 steps, just follow our quick starter's guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+Die **Einrichtung eines Ladens** im Open Food Network erfolgt in 5 Schritten, folgen Sie einfach unserer [Kurzanleitung für Läden](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Shop
+## Produzentenladen
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Landwirte, Gärtner, Bäcker, Züchter, Käsereien ...
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell** _**only**_ **produce** that **you** make.
+Läden können viele Formen annehmen, aber im Grunde genommen ist Ihr Unternehmen ein **Produzentenladen**, wenn Sie nur **Produkte verkaufen möchten, die Sie selbst herstellen.**&#x20;
 
 {% hint style="danger" %}
-If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
+Wenn Sie Produkte verkaufen möchten, die nicht nur von Ihnen selbst, sondern auch von anderen Produzenten hergestellt wurden, verwenden Sie den Unternehmenstyp [Laden](your-quick-start-on-ofn-given-who-you-are.md#laden).
 {% endhint %}
 
-As a shop; as well as selling directly to customers through your shop front; you can also supply other OFN retailers \(Hubs\) with your produce.
+Als Produzentenladen können Sie nicht nur direkt an Kunden verkaufen, sondern auch andere OFN-Händler (Läden) mit Ihren Produkten beliefern.&#x20;
 
 {% hint style="warning" %}
-If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
+Wenn Sie es vorziehen, nicht direkt an Kunden zu verkaufen, sondern nur einen OFN-Laden mit Waren zu beliefern, verwenden Sie als Unternehmenstyp ein [Profil](your-quick-start-on-ofn-given-who-you-are.md#profile).
 {% endhint %}
 
-#### OFN can help your shop thrive and prosper by:
+**Das Open Food Network hilft Ihrem Unternehmen beim Wachstum durch:**&#x20;
 
-1. Increasing your online visibility.
-2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-3. Being able to sell in a manner which suits your needs, whether it is periodic orders to fit in with a seasonal potato harvest or a weekly cycle which matches your baking production... it's up to you!
-4. Helping to build strong working relationships with local food distributors.
+1. Erhöhung Ihrer Online-Präsenz
+2. Reduzierung Ihrer Verwaltungstätigkeiten mit Lagerbeständen, Bestellungen, Buchhaltung und Packlisten an einem Ort
+3. Anpassung Ihres Angebots an Ihre Bedürfnisse, sei es durch regelmäßige Bestellzyklen, die sich nach der saisonalen Kartoffelernte richten, oder durch einen wöchentlichen Zyklus, der mit Ihrer Backwarenproduktion übereinstimmt... es liegt ganz bei Ihnen!
+4. Unterstützung beim Aufbau eines starken Netzwerks mit lokalen Lebensmittelunternehmen
 
-**Setting up on OFN** can be a simple 5-step process, just follow our quick starters guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
+Die **Einrichtung eines Produzentenladens** im Open Food Network erfolgt in 5 Schritten, folgen Sie einfach unserer [Kurzanleitung für Produzentenläden](quick-start-guides/producer-shop-quick-setup-guide.md).
 
-## Profile
+## Profil
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Landwirte, Gärtner, Bäcker, Züchter, Käserein ...
 {% endhint %}
 
-The 'Profile' is the most basic enterprise classification on OFN and is ideal for micro enterprises or individuals who prefer to concentrate on growing, making, baking and/or producing food.
+Ein **Profil** ist der einfachste Unternehmenstyp im OFN und ist ideal für Kleinstunternehmen oder Einzelpersonen, die sich auf den Anbau, die Herstellung, das Backen und/oder die Produktion von Lebensmitteln konzentrieren möchten.&#x20;
 
-An OFN profile is ideal for **increasing your online visibility** and gives you the opportunity to connect in a simple manner with local retailers \(hubs\) who can manage customer sales for you.
+Ein OFN-Profil ist ideal, um Ihre **Online-Präsenz zu erhöhen** und bietet Ihnen die Möglichkeit, auf einfache Weise mit lokalen Einzelhändlern (Läden) in Verbindung zu treten, die den Verkauf an Ihre Kunden für Sie übernehmen können.
 
 {% hint style="warning" %}
-If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' classification is better suited to your needs.
+Wenn Sie den Verkauf an Ihre Kunden lieber selbst organisieren möchten, verwenden Sie einen [Produzentenladen](your-quick-start-on-ofn-given-who-you-are.md#produzentenladen) oder [Laden](your-quick-start-on-ofn-given-who-you-are.md#laden).
 {% endhint %}
 
-#### OFN can help your food enterprise thrive and prosper by:
+**Das Open Food Network hilft Ihrem Unternehmen beim Wachstum durch:**&#x20;
 
-1. Increasing your online visibility.
-2. Helping to build strong working relationships with local food distributors and retailers \(OFN hubs\) to whom you supply goods.
+1. Erhöhung Ihrer Online-Präsenz
+2. Unterstützung beim Aufbau eines starken Netzwerks mit lokalen Produzenten und Lebensmittelunternehmen, die Sie mit Waren beliefern
 
-**Setting up on OFN** can be a simple 4-step process; just follow our quick starters' guide [here](quick-start-guides/profile-only-quick-setup-guide.md).
-
+Die **Einrichtung eines Profils** im Open Food Network erfolgt in 4 Schritten, folgen Sie einfach unserer [Kurzanleitung für Profile](quick-start-guides/profile-only-quick-setup-guide.md).
