@@ -1,7 +1,7 @@
 ---
 name: 'Information is incorrect '
 about: There is an inaccuracy in the User Guide
-title: Error: 
+title: 
 labels: Error
 assignees:
 
