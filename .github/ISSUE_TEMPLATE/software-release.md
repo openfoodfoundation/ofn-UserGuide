@@ -8,14 +8,15 @@ assignees: lbwright22
 ---
 
 ## Admin Only: Language Checklist for when this Update is Complete
+- [ ] Catalan
 - [ ] English
 - [ ] French
-- [ ] Catalan
+- [ ] German
 - [ ] Italian
-- [ ] Russian
-- [ ] Turkish
-- [ ] Spanish
 - [ ] Portuguese
+- [ ] Russian
+- [ ] Spanish
+- [ ] Turkish
 
 ----------------------------------------------------------------------------------------------------------------
 ## Tell us what you would like to see
