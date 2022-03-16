@@ -1,9 +1,9 @@
 ---
 name: Software Release
 about: User Facing Changes as a result of the latest platform update
-title: PLATFORMUPDATE
+title: 
 labels: Platform Update
-assignees: lbwright22
+assignees: 
 
 ---
 
