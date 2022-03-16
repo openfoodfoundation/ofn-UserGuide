@@ -1,7 +1,7 @@
 ---
 name: New Content
 about: The User Guide doesn't include this information
-title: NEWCONTENT
+title: 
 labels: New Content
 assignees: ''
 
