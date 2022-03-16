@@ -2,7 +2,7 @@
 name: Improvement
 about: Information in the User Guide is difficult to follow, incomplete or could be
   improved.
-title: IMPROVEMENT: 
+title: 
 labels: Enhancement
 assignees: ''
 
