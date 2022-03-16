@@ -8,7 +8,7 @@ From here you will need to choose the OFN profile which [best matches your busin
 
 ![](../../.gitbook/assets/newchoose.jpg)
 
-Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profiles types vary a little bit depending on if you are are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors (or "hubs" in the Open Food Network world :-)).
+Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profile types vary a little bit depending on if you are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors (or "hubs" in the Open Food Network world).
 
 ## For Producers
 
@@ -18,7 +18,7 @@ There are three types of profiles for producers:
 
 {% tabs %}
 {% tab title="Producer Profile" %}
-With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network.&#x20;
+With this option not only will your enterprise be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network.&#x20;
 
 As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
 
@@ -29,10 +29,10 @@ You can put the link to your online shop in your enterprise description.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Producer shop" %}
-#### You would like to sell only your own products on OFN
+{% tab title="Producer Shop" %}
+#### You would like to only sell your own products on OFN
 
-This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts (hubs).&#x20;
+This option allows you to run a shopfront which retails only products from your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts (hubs).&#x20;
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
@@ -42,7 +42,7 @@ For more information on the quick setup guide for this type of profile, click [h
 
 This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.&#x20;
 
-&#x20;For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ You can put the link to your online shop in your enterprise description.
 
 This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.&#x20;
 
-&#x20;For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 {% endtab %}
 {% endtabs %}
 
@@ -80,7 +80,7 @@ You can change your profile type (package) at any time in the future. **** First
 
 ![](<../../.gitbook/assets/access1 (2) (2) (1).jpg>)
 
-and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option(s) from the drop down menus.  (You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.)
+Then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option(s) from the drop down menus (you will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this).
 
 ![](../../.gitbook/assets/enterprisetable.jpg)
 
