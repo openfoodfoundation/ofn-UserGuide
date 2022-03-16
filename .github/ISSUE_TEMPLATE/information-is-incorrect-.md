@@ -1,9 +1,9 @@
 ---
 name: 'Information is incorrect '
 about: There is an inaccuracy in the User Guide
-title: Error
+title: Error: 
 labels: Error
-assignees: lbwright22
+assignees:
 
 ---
 
