@@ -34,7 +34,7 @@ Si la tienda está cerrada, sólo hay que regresar cuando el siguiente ciclo de 
 
 %accordion%¿Cómo se entregan las órdenes?%accordion%
 
-Todas las tiendas en línea en la Open Food Network so operadas de forma independiente y ofrecen distintos métodos de entrega. Algunas tiendas ofrecen métodos de entrega más convencionales como entrega hasta la casa, o por correo. Otras tendrán formas más creativas de llevar la comida de la granjera a la mesa, tales como acopio en una ubicación central \(como una escuela, un mercado de agricultoras o un lugar de trabajo\), recolección para una verdulería o carnicería de barrio o distribución a través de un grupo de compradoras \(grupo de consumidoras\).
+Todas las tiendas en línea en la Open Food Network son operadas de forma independiente y ofrecen distintos métodos de entrega. Algunas tiendas ofrecen métodos de entrega más convencionales como entrega hasta la casa, o por correo. Otras tendrán formas más creativas de llevar la comida de la granjera a la mesa, tales como acopio en una ubicación central \(como una escuela, un mercado de agricultoras o un lugar de trabajo\), recolección para una verdulería o carnicería de barrio o distribución a través de un grupo de compradoras \(grupo de consumidoras\).
 
 %/accordion%
 
