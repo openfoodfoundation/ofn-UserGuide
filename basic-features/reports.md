@@ -1,10 +1,10 @@
 # Reportes
 
-Puede acceder a los reportes haciendo clic en **Reportes** en el menú horizontal azul.  
+Puede acceder a los reportes haciendo clic en **Reportes** en el menú horizontal azul. &#x20;
 
 ![](../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
-Aquí encontrará una lista de las exportaciones de datos predefinidas que están disponibles para ver y descargar. Todos los reportes están disponibles para descargar como un archivo CSV seleccionando la casilla de verificación **Descargar como CSV** cuando especifica los filtros para cada informe.   
+Aquí encontrará una lista de las exportaciones de datos predefinidas que están disponibles para ver y descargar. Todos los reportes están disponibles para descargar como un archivo CSV seleccionando la casilla de verificación **Descargar como CSV** cuando especifica los filtros para cada informe. \
 
 
 ## Todos los Reportes
@@ -29,7 +29,7 @@ Si cumple con los pedidos de forma individual o prepara pedidos individuales a g
 
 El reporte incluye un artículo de línea para cada producto pedido por un cliente, incluido el **correo electrónico** del cliente y los detalles de **contacto**, el **método de envío** elegido, los **detalles del producto**, incluido el **costo** y las **tarifas** del artículo. También hay una línea de artículo que muestra un costo **Total** para cada cliente para el ciclo de pedido o rango de fechas especificado. Este reporte proporciona toda la información necesaria para empaquetar un pedido, contactar al cliente y organizar la entrega o recogida.
 
-La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Clientes del Ciclo de Pedido. 
+La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Clientes del Ciclo de Pedido.&#x20;
 
 ![Order Cycles Customer Totals Report](../.gitbook/assets/order-cycle-customer-totals.png)
 
@@ -39,15 +39,15 @@ El reporte de Totales de Proveedores del Ciclo de Pedido proporciona un resumen 
 
 En el reporte reporte de Totales de Proveedores del Ciclo de Pedido, los pedidos de productos se enumeran por proveedor, con una línea de artículo para cada **producto** o **variante**, la **cantidad** de pedidos para cada uno, los **costos unitarios y totales** y los detalles sobre el **transporte entrante**. Cuando se cierra el ciclo de su pedido, o cuando está listo para cumplir con un lote de pedidos, este informe le mostrará la cantidad de cada producto que necesitará en stock para cumplir con éxito todos los pedidos pendientes.
 
-La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Proveedores del Ciclo de Pedido. 
+La siguiente captura de pantalla muestra parte de la información contenida en un reporte de Totales de Proveedores del Ciclo de Pedido.&#x20;
 
-![Reporte de Totales de Proveedores del Ciclo de Pedido](../.gitbook/assets/assets_-l9rgk4wewex_zxxizmw_-lm42xlqo4kply0-_ccm_-lm49bk3eqrejfqsm9wk_order-cycle-supplier-totals.png)
+![Reporte de Totales de Proveedores del Ciclo de Pedido](../.gitbook/assets/assets\_-l9rgk4wewex\_zxxizmw\_-lm42xlqo4kply0-\_ccm\_-lm49bk3eqrejfqsm9wk\_order-cycle-supplier-totals.png)
 
 ## Reporte Lista de Correo
 
-El informe de la lista de correo muestra los nombres y direcciones de correo electrónico de los clientes que han realizado pedidos en su tienda. Este informe puede ayudarlo a comunicarse con los clientes que compraron artículos en su tienda. Por ejemplo, es posible que deba notificar a un cliente \(o conjunto de clientes\) si un producto que compraron no está disponible o si no puede \(digamos, debido a una enfermedad\) cumplir con el cronograma de entrega solicitado.
+El informe de la lista de correo muestra los nombres y direcciones de correo electrónico de los clientes que han realizado pedidos en su tienda. Este informe puede ayudarlo a comunicarse con los clientes que compraron artículos en su tienda. Por ejemplo, es posible que deba notificar a un cliente (o conjunto de clientes) si un producto que compraron no está disponible o si no puede (digamos, debido a una enfermedad) cumplir con el cronograma de entrega solicitado.
 
-Puede filtrar el informe según el ciclo de pedido y, si administra varias organizaciones, puede especificar la tienda \(**distribuidor**\) a través del cual el cliente realizó pedidos o generar un reporte para cada **proveedor** de productos que se hayan pedido.
+Puede filtrar el informe según el ciclo de pedido y, si administra varias organizaciones, puede especificar la tienda (**distribuidor**) a través del cual el cliente realizó pedidos o generar un reporte para cada **proveedor** de productos que se hayan pedido.
 
 Vea a continuación un ejemplo del Reporte de Lista de Correo:
 
@@ -55,15 +55,15 @@ Vea a continuación un ejemplo del Reporte de Lista de Correo:
 
 ## Direcciones
 
-El reporte de Direcciones incluye los datos de contacto del cliente, el Hub/Nodo y el método de envío, y se puede filtrar por Ciclo de Pedido, Tienda \(**Distribuidor**\) y **Proveedor**. ****
+El reporte de Direcciones incluye los datos de contacto del cliente, el Hub/Nodo y el método de envío, y se puede filtrar por Ciclo de Pedido, Tienda (**Distribuidor**) y **Proveedor**. ****&#x20;
 
 ![Addresses Report](../.gitbook/assets/addresses.png)
 
-## Todos los Productos e Inventario \(disponible\)
+## Todos los Productos e Inventario (disponible)
 
-Los reportes Todos los Productos e Inventario \(disponible\) se pueden utilizar como base para una hoja de pedido de copias en papel. Enumera todos sus productos y sus precios, y se puede imprimir y utilizar para permitir que los clientes envíen pedidos manuales de su lista de productos existente.
+Los reportes Todos los Productos e Inventario (disponible) se pueden utilizar como base para una hoja de pedido de copias en papel. Enumera todos sus productos y sus precios, y se puede imprimir y utilizar para permitir que los clientes envíen pedidos manuales de su lista de productos existente.
 
-El reporte **Todos los Productos** enumera todos sus productos independientemente de las cantidades disponibles, por lo que incluirá los productos que actualmente se enumeran como no disponibles. El reporte **Inventario \(disponible\)** muestra solo los productos que tienen un valor positivo "disponible".
+El reporte **Todos los Productos** enumera todos sus productos independientemente de las cantidades disponibles, por lo que incluirá los productos que actualmente se enumeran como no disponibles. El reporte **Inventario (disponible)** muestra solo los productos que tienen un valor positivo "disponible".
 
 A continuación se muestra un ejemplo del Reporte Todos los Productos:
 
@@ -73,23 +73,23 @@ A continuación se muestra un ejemplo del Reporte Todos los Productos:
 
 Las organizaciones pueden configurar [Comisiones de la Organización](shopfront/enterprise-fees.md) para identificar y controlar la asignación de costos / precios para diferentes propósitos. Estas comisiones permiten la transparencia de precios para los clientes cuando visitan su tienda. El reporte Resumen de las Comisiones de la Organización se utiliza para resumir las cantidades de comisiones que se cobraron y a quién.
 
-El reporte se puede filtrar por Tienda \(**Hub/Nodo**\), **Productor** y **Ciclo de Pedido**, así como también por Nombres las Comisiones y Métodos de Envío y Pago.
+El reporte se puede filtrar por Tienda (**Hub/Nodo**), **Productor** y **Ciclo de Pedido**, así como también por Nombres las Comisiones y Métodos de Envío y Pago.
 
-![Reporte Resumen de las Comisiones de la Organizaci&#xF3;n](../.gitbook/assets/image%20%2824%29.png)
+![Reporte Resumen de las Comisiones de la Organización](<../.gitbook/assets/image (24).png>)
 
-**Ejemplo 1**: una tienda incluye una comisión de recaudación de fondos del 2% en cada pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para identificar los fondos totales recaudados dentro de un ciclo de pedido en particular. 
+**Ejemplo 1**: una tienda incluye una comisión de recaudación de fondos del 2% en cada pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para identificar los fondos totales recaudados dentro de un ciclo de pedido en particular.&#x20;
 
-**Ejemplo 2**: un Hub/Nodo cobra una comisión de transporte que pagan a un productor por recoger los productos de otros agricultores y llevarlos al Hub/Nodo. Esta tarifa se calcula como un porcentaje de cada producto en el ciclo de pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para calcular cuánto pagar al Productor por el transporte en cada Ciclo de Pedido. 
+**Ejemplo 2**: un Hub/Nodo cobra una comisión de transporte que pagan a un productor por recoger los productos de otros agricultores y llevarlos al Hub/Nodo. Esta tarifa se calcula como un porcentaje de cada producto en el ciclo de pedido. Pueden usar el reporte Resumen de las Comisiones de la Organización para calcular cuánto pagar al Productor por el transporte en cada Ciclo de Pedido.&#x20;
 
-**Ejemplo 3:** un Hub/Nodo incluye una comisión para mostrar a los clientes la cantidad que pagan a Open Food Network por el uso de la plataforma. Esta comisión se calcula como un porcentaje de todos los pedidos realizados. La siguiente captura de pantalla es un ejemplo de este escenario: 
+**Ejemplo 3:** un Hub/Nodo incluye una comisión para mostrar a los clientes la cantidad que pagan a Open Food Network por el uso de la plataforma. Esta comisión se calcula como un porcentaje de todos los pedidos realizados. La siguiente captura de pantalla es un ejemplo de este escenario:&#x20;
 
-![Reporte Resumen de las Comisiones de la Organizaci&#xF3;n para un Comisi&#xF3;n espec&#xED;fica \(Comisi&#xF3;n Open Food Network\) ](../.gitbook/assets/image%20%282%29.png)
+![Reporte Resumen de las Comisiones de la Organización para un Comisión específica (Comisión Open Food Network) ](<../.gitbook/assets/image (2).png>)
 
 ## Reportes de Empaquetado
 
 Algunas empresas usan sus correos electrónicos de confirmación de pedidos como hojas de empaque, o descargan y modifican el reporte Totales de Clientes del Ciclo de Pedido para satisfacer sus necesidades específicas. Los dos Reportes de Empaquetado ofrecen opciones adicionales para gestionar el proceso de empaque.
 
-**Empaque por Cliente** 
+**Empaque por Cliente**&#x20;
 
 Este reporte enumera a cada cliente que realizó un pedido y muestra cada artículo pedido por el cliente, incluidas las cantidades de cada artículo. Es útil para las tiendas que empaquetan pedidos cliente por cliente.
 
@@ -105,7 +105,7 @@ Este informe es útil para separar el componente de impuestos de Ventas, Entrega
 
 ## Facturas Xero
 
-Este informe crea archivos CSV que se pueden importar al paquete de contabilidad "Xero" para generar facturas para los clientes. 
+Este informe crea archivos CSV que se pueden importar al paquete de contabilidad "Xero" para generar facturas para los clientes.&#x20;
 
 ### Generando el reporte
 
@@ -131,11 +131,11 @@ Este informe crea archivos CSV que se pueden importar al paquete de contabilidad
 
 En Xero, vaya a **Cuentas**, **Ventas** y haga clic en Importar.
 
-![Importaci&#xF3;n Xero](../.gitbook/assets/xero-import.png)
+![Importación Xero](../.gitbook/assets/xero-import.png)
 
 A continuación, seleccionará su reporte OFN Xero descargado para cargarlo. Los ajustes que debe seleccionar se muestran a continuación.
 
-![Pasos Importaci&#xF3;n Xero](../.gitbook/assets/xero-import-steps.png)
+![Pasos Importación Xero](../.gitbook/assets/xero-import-steps.png)
 
 Si selecciona **Ignorar los detalles de la dirección de contacto**, se asegurará de que los datos de sus clientes de Xero no se modifiquen.
 
@@ -148,7 +148,7 @@ Este reporte les dice a los gerentes de tienda si han alcanzado su umbral de ped
 Este reporte mostrará la siguiente información:
 
 * ¿Los clientes pidieron un producto suficiente para justificar pedir el tamaño a granel al proveedor?
-* ¿Cuánto producto adicional están dispuestos a comprar los clientes para ayudar al grupo a alcanzar el umbral de tamaño a granel \(si la [Compra grupal](products-1/group-buy-for-bulk-ordering.md) está habilitada\)?
+* ¿Cuánto producto adicional están dispuestos a comprar los clientes para ayudar al grupo a alcanzar el umbral de tamaño a granel (si la [Compra grupal](products-1/group-buy-for-bulk-ordering.md) está habilitada)?
 * ¿Cuántos tamaños a granel se requieren para satisfacer la demanda de los clientes?
 * Si se pide el tamaño a granel, ¿cuánto stock quedará?
 * ¿Cuántos clientes se sentirán decepcionados si no se pide este producto?
@@ -163,5 +163,4 @@ Ejemplo 2: donde no se ha alcanzado la cantidad de pedido a granel:
 
 ![Bok Choy](../.gitbook/assets/bok-choy.png)
 
-* _Tenga en cuenta que el reporte 'Bulk Co-op Allocations’ tiene una función similar a este informe, pero muestra el pedido de cada cliente individualmente, en lugar del total acumulado de todos los clientes._ 
-
+* _Tenga en cuenta que el reporte 'Bulk Co-op Allocations’ tiene una función similar a este informe, pero muestra el pedido de cada cliente individualmente, en lugar del total acumulado de todos los clientes._&#x20;
