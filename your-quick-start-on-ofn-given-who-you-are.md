@@ -19,10 +19,10 @@ Les marchés fermiers peuvent exister sur la plateforme comme un groupe de devan
 ## Hub
 
 {% hint style="success" %}
-Marchés Fermiers, abonnements aux boîtes de légumes, groupes agricoles, groupes communautaires d'alimentation, coopératives alimentaires, centres alimentaires, ASC, jardins maraîchers/urbains, magasins de détail, banques alimentaires, distributeurs en gros...
+Groupement d'achats, marchés Fermiers, groupes agricoles, groupes communautaires d'alimentation, coopératives alimentaires, centres alimentaires, ASC, jardins maraîchers/urbains, magasins de détail, banques alimentaires, distributeurs en gros...
 {% endhint %}
 
-Les Hubs peuvent prendre de nombreuses formes mais, par essence, il est préférable que votre entreprise soit classée comme un "hub" sur OFN si vous souhaitez vendre les produits d'autres personnes. Vous pouvez vendre vos propres produits aux côtés de ceux d'autres agriculteurs, boulangers, cultivateurs... (un "**Hub producteur**") ou agir uniquement en tant que distributeur pour vendre une collection de produits alimentaires fabriqués par des entreprises (locales) (un "**Hub non-producteur**").
+Les Hubs peuvent prendre de nombreuses formes mais, par essence, il est préférable que votre entreprise soit classée comme un "hub" sur OFN si vous souhaitez vendre les produits d'autres producteurs que vous soyez ou non producteur vous même. Vous pouvez vendre vos propres produits aux côtés de ceux d'autres agriculteurs, boulangers, cultivateurs... (un "**Hub producteur**") ou agir uniquement en tant que distributeur pour vendre une collection de produits alimentaires fabriqués par des entreprises (locales) (un "**Hub non-producteur**").
 
 {% hint style="info" %}
 Si vous préférez vendre uniquement les produits que vous fabriquez, la classification "Boutique" est plus adaptée à vos besoins.
