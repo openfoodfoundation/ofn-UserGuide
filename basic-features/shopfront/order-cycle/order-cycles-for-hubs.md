@@ -134,6 +134,26 @@ When the Notify Producers button is selected there will be a confirmation prompt
 * Included Tax (if relevant)\
 
 
+### Setting up automatic producer notifications
+
+If you would like the producer emails to be automatically sent when an order cycle closes, you can do this from the 'Advanced settings' menu in the edit order cycle screen:
+
+![](<../../../.gitbook/assets/Screenshot 2022-03-25 at 15.00.09.png>)
+
+From the menu that appears, select the checkbox for 'automatic notifications' and click 'save and reload page' to save your changes:
+
+![](<../../../.gitbook/assets/Screenshot 2022-03-25 at 15.02.47.png>)
+
+To also show **customer names** in these reports, for example to help your producers to pack items by customer, ensure you have the setting 'customer names in reports' enabled from the shop preferences menu of your enterprise settings:
+
+![](<../../../.gitbook/assets/Screenshot 2022-03-25 at 15.05.06.png>)
+
+{% hint style="info" %}
+By default, 'customer names in reports' is disabled. Ensure you have this enabled for your producers if you would like them to receive reports grouped by customer to help them pack their orders.&#x20;
+{% endhint %}
+
+Once you have the automatic notifications set up for an order cycle, your producers will automatically be sent an email after the order cycle closes. Enabling 'customer names in reports' will help them to pack the orders by customer.
+
 ## Producer / Supplier Reports
 
 If your Order Cycle includes products from linked Producers / Suppliers they will be able to log in to their OFN account and view [reports](../../reports/) about the Order Cycle. By default they will not be able to see any Customer Details in these reports. If you would like your suppliers to access Customer Names in their reports, you can adjust these settings in Shop Preferences in your [Enterprise Settings](../../enterprise-profile/enterprise-settings.md).
