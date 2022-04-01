@@ -32,25 +32,25 @@ For non-automated payment methods (such as cash on collection or BACS), there ar
 
 \
 **The customer has not yet paid for the item.**\
-****If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as:
+****If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
 
-![](https://lh6.googleusercontent.com/9lIYAkArDP1yllI88\_N00rOQYiQqu9KG-piADA0hJtUvelv1NZAPNOx0Q9Ph3a6yu1gal9zUuFgJox0xiRC4RM4UlwmcfCdspcSlG9w\_m23a8Cv\_SnWI8yfgNIBnfClRx3MJ7Ru0)
+![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45.png>)
 
-You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following steps below.
+You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following the steps below for 'Marking an order as cancelled'.
 
 **The customer has paid for the item.**
 
-When [viewing orders](view-orders.md#listing-orders) the order appears as:
+When [viewing orders](view-orders.md#listing-orders) the order appears as 'payment state: paid':
 
-![](https://lh5.googleusercontent.com/7Uorian\_j1n-fPDTQQSeSiHr1tcDQczsaCb\_WSxIKRt1PRp1S3l4bKhaFA6WfMaiEsGgN0Qx5OdLfi\_lBK9yz1r5-Oh0AcZKkM0MfrbfOzQCpejuQLWvAMRNFCom9-r-S2ZfqMjt)
+![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.18.35.png>)
 
 1. Arrange for the customer to be reimbursed independently of the OFN platform. &#x20;
 2. Record this action by [**Orders -> Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu.  \
    Select the ‘X’ to the right hand side of the payment to void it.
 
-![Before marking the payment as void.](https://lh6.googleusercontent.com/1mhZhKoPtqPZVZIDz\_VV4-8uBy5BefLVo9SftwfecciD7sJCGZhwgEWb-PeYAPI01w3AOZ0x\_d7oWpMTQpLBqv201qb8VtmFjB1SaK0nChsy7knCt\_EVQwlaioEPTtBZSUQLuLQa)
+![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47.png>)
 
-![After marking the payment as void.](https://lh6.googleusercontent.com/ui2lGGDHK7Pp6KZQ34UHg4KERF9eGDgQKHg3YIr20B8J0oyObiCVic5hOuvpR5HOK16dvvR8aCx70LYnPE-kKN2AKBfPkz3nXvhAM17oYgdPLmDhJiApl7-w\_vfDKog2p8iFAKcY)
+![After marking the payment as void (i.e. 'payment status: void')](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40.png>)
 
 Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) using the steps below.
 {% endtab %}
