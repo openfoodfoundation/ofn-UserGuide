@@ -4,7 +4,7 @@ Le menu "commandes" est divisé en deux sous menu sur Open Food Network : la pag
 
 ## Liste des commandes
 
-Cette page liste toutes les commandes passées sur la plateforme pour votre /vos boutique(s). A partir de cette page, vous pouvez accéder aux détails de chaque commande, les modifier et suivre le statut du paiement et de l'expédition. Pour savoir comment passer manuellement une commande pour le compte d'un acheteur depuis l'interface d'administration, cliquez [ici](broken-reference).
+Cette page liste toutes les commandes passées sur la plateforme pour votre /vos boutique(s). A partir de cette page, vous pouvez accéder aux détails de chaque commande, les modifier et suivre le statut du paiement et de l'expédition. Pour savoir comment passer manuellement une commande pour le compte d'un acheteur depuis l'interface d'administration, cliquez [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/orders/create-orders-manually).
 
 Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande(s) recherchée(s). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
@@ -38,7 +38,7 @@ Les filtres présents sur la page peuvent vous aider à accéder plus rapidement
 Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"
 {% endhint %}
 
-**Email acheteur** **:** Il s'agit de l'email de l'acheteur. Une liste complète des emails des acheteurs peut être téléchargée via le [rapport](broken-reference) "Acheteurs / liste de mails".
+**Email acheteur** **:** Il s'agit de l'email de l'acheteur. Une liste complète des emails des acheteurs peut être téléchargée via le [rapport](https://guide.openfoodnetwork.org/v/fr/basic-features/reports#mailing-list) "Acheteurs / liste de mails".
 
 **Total :** Le montant total de la commande.
 
@@ -78,7 +78,7 @@ Vous pouvez aussi y accéder en cliquant sur le numéro de commande depuis le ta
 
 Voici l'affichage de la page de gestion d'une commande :&#x20;
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 #### **Ajouter et supprimer des produits d'une commande**
 
@@ -96,8 +96,8 @@ Attention : ce document appelé "facture" doit pour la Belgique être modifié p
 {% endhint %}
 
 * **Imprimer la facture** : Cette action entraîne la génération d'un PDF à imprimer
-* **Imprimer ticket de caisse** : Cette action entraîne l'impression du ticket de caisse de la commande via l'imprimante thermique connectée à l'ordinateur ([voir page concernée](broken-reference))
-* **Choisir imprimante tickets** : Cette action permet de choisir l'imprimante thermique sur laquelle seront imprimés les tickets de caisse ([voir page concernée](broken-reference))
+* **Imprimer ticket de caisse** : Cette action entraîne l'impression du ticket de caisse de la commande via l'imprimante thermique connectée à l'ordinateur ([voir page concernée](https://guide.openfoodnetwork.org/v/fr/basic-features/orders/thermally-printed-receipts#imprimer-un-ticket))
+* **Choisir imprimante tickets** : Cette action permet de choisir l'imprimante thermique sur laquelle seront imprimés les tickets de caisse ([voir page concernée](https://guide.openfoodnetwork.org/v/fr/basic-features/orders/thermally-printed-receipts#quelle-imprimante))
 * **Annuler la commande** : Cette action permet d'annuler la commande
 
 #### Voir les informations acheteurs
@@ -122,7 +122,7 @@ Il est possible de sélectionner les commandes visibles sur la page (vous pouvez
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :&#x20;
 
-![](<../../.gitbook/assets/image (84) (1).png>)
+![](<../../.gitbook/assets/image (84) (1) (1).png>)
 
 {% hint style="info" %}
 Par défaut, les commandes seront classées par date de commande. Vous pouvez également les classer par une autre variante (statut livraison, statut du paiement, etc.) en sélectionnant la variante souhaitée.

@@ -38,7 +38,7 @@ Vous retrouverez ici les noms et adresses email des acheteurs ayant passé comma
 
 Les deux rapports "tous les produits" et "produits disponibles (stock positif)" présentent la liste des produits ainsi que leur prix. Le rapport "produits disponibles" ne présente que les produits pour lesquels vous disposez d'un stock positif. Si vous filtrez par producteurs les produits du producteur seront affichés. Si vous sélectionnez un distributeur tous les produits des catalogues pour lesquels le distributeur a la permission de vendre les produits seront affichés. Ces rapports peuvent servir par exemple à un producteur pour exporter la liste de ses produits afin de les réimporter dans un autre logiciel.
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84) (1).png>)
 
 ## Résumé des marges et commissions
 
