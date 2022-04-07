@@ -1,6 +1,6 @@
 # Refunds and Adjusting Payments
 
-From time to time, a customer may request that their order is adjusted, either to remove or add items.&#x20;
+![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (1).png>)From time to time, a customer may request that their order is adjusted, either to remove or add items.&#x20;
 
 On other occasions you, as a business manager, may need to change an order. Common scenarios include:
 
@@ -37,8 +37,6 @@ For non-automated payment methods (such as cash on collection or BACS), there ar
 ![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45.png>)
 
 You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following the steps below for 'Marking an order as cancelled'.
-
-
 
 
 
@@ -186,16 +184,16 @@ The button for **+ New Payment** will only be visible if you have already added 
 {% tab title="Stripe" %}
 Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
 
-1. Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu
+1. Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu.
 
-![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB\_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
+![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
 
-2\. By clicking on the tick next to the payment, any credit owed to the customer will be automatically refunded. ****&#x20;
+2\. As you created the adjustment in the previous step, the payment screen will now say 'Credit Owed' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded. ****&#x20;
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 
 {% hint style="danger" %}
-Note that clicking the 'X' will **void the whole payment** and issue a **full refund** to the customer.
+Clicking the 'X' will **void the whole payment** and issue a **full refund** to the customer.
 {% endhint %}
 
 {% hint style="warning" %}
