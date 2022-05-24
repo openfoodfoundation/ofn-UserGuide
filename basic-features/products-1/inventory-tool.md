@@ -45,7 +45,7 @@ Pour rappel, si l'option choisie dans les [paramètres](https://guide.openfoodne
 
 Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis.&#x20;
 
-![](<../../.gitbook/assets/image (71) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (71) (1) (1) (1) (1).png>)
 
 ### Modifier pour votre boutique les prix, stocks et références produits
 

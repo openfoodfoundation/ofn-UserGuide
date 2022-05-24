@@ -54,7 +54,7 @@ Cliquez sur l’icône "check" pour capturer le paiement de la commande (montant
 
 Capturer le paiement permettra de l'indiqué comme reçu, ce qui est utile lorsque l'acheteur n'a pas payé au moment de la commande mais ultérieurement. Si vous souhaitez revoir les détails du paiement avant de capturer le paiement, vous pouvez cliquer sur le bouton éditer puis sélectionner paiement pour consulter le montant dû et cliquer sur l’icône "check" pour le capturer le paiement et l'indiquer comme reçu.
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (71) (1).png>)
 
 **Capturer la commande comme étant expédiée :**&#x20;
 

@@ -50,7 +50,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (71) (1) (1).png>)
+![](<../../.gitbook/assets/image (71) (1) (1) (1).png>)
 
 Exemple : Si la commission prise pour le premier article est de 2€, celle de l'article supplémentaire 1 € et le nombre maximum d'article est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le 2ème et 3ème et aucune commission pour les articles 4 et 5.
 

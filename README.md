@@ -2,12 +2,12 @@
 
 | Langue                                                                                   | Lien vers le guide utilisateur                                                                                                                       |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/Capture du 2019-09-26 00-38-19.png" alt="" data-size="line">   | [Access English version of the OFN  User Guide](https://guide.openfoodnetwork.org)                                                                   |
+| <img src=".gitbook/assets/Capture du 2019-09-26 00-38-19.png" alt="" data-size="line">   | [Access English version of the OFN  User Guide](https://guide.openfoodnetwork.org/)                                                                  |
 | <img src=".gitbook/assets/Capture du 2019-09-26 00-38-01.png" alt="" data-size="line">   | _Vous êtes actuellement sur la version française du guide!_                                                                                          |
-| <img src=".gitbook/assets/Capture du 2019-09-26 00-37-35.png" alt="" data-size="line">   | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org)                                                     |
-| <img src=".gitbook/assets/turkey.jpg" alt="" data-size="line">                           | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com)                                     |
-| <img src=".gitbook/assets/brazil-flag-image-free-download.jpg" alt="" data-size="line">  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br)                                 |
-| <img src=".gitbook/assets/russia.jpg" alt="" data-size="line">                           | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru)                                              |
+| <img src=".gitbook/assets/Capture du 2019-09-26 00-37-35.png" alt="" data-size="line">   | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/)                                                    |
+| <img src=".gitbook/assets/turkey.jpg" alt="" data-size="line">                           | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/)                                    |
+| <img src=".gitbook/assets/brazil-flag-image-free-download.jpg" alt="" data-size="line">  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/)                                |
+| <img src=".gitbook/assets/russia.jpg" alt="" data-size="line">                           | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru/)                                             |
 | <img src=".gitbook/assets/Flagge Spanien.jpg" alt="" data-size="line">                   | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
 | <img src=".gitbook/assets/Flagge Deutschland (1).jpg" alt="" data-size="line">           | [Lesen Sie hier die deutsche Version des OFN Benutzerhandbuchs](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/deutsch/)          |
 
@@ -16,8 +16,8 @@
 **3** plateformes utilisent à ce jour le logiciel en Français :
 
 \- Open Food Network (Belgique) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\
-\- CoopCircuits (France) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr)\
-\- Open Food Network (Canada) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca)
+\- CoopCircuits (France) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr/)\
+\- Open Food Network (Canada) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)
 
 ## Dans les grandes lignes
 
