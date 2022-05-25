@@ -1,6 +1,6 @@
 # Rapports (export de données)
 
-Vous pouvez accéder à la page de génération de rapport via le menu **Rapports.** Ce qu'on appelle "rapport" est en réalité une liste prédéfinie d'exports de données.&#x20;
+Vous pouvez accéder à la page de génération de rapport via le menu **Rapports.** Ce qu'on appelle "rapport" est en réalité une liste prédéfinie d'exports de données. Chaque rapport peut être afficher en ligne ou téléchargé au format PDF, Tableur (Excel, Libre Office,...) ou CSV.
 
 ![](<../../.gitbook/assets/image (71).png>)
 
