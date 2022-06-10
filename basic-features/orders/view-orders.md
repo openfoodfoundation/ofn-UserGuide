@@ -103,11 +103,6 @@ You then have access to all available shipping methods. Select the one your cust
 
 ![](../../.gitbook/assets/editshipping1.jpg)
 
-**Perform Associated Adjustment:**&#x20;
-
-* **YES:** This will update the shipping cost according to the change in method.
-* **NO:** This will keep the cost of shipping the same as the method chosen by the customer at checkout.
-
 To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
 
 **Additional options available under 'Actions'**
