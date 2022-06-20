@@ -71,9 +71,19 @@ Nous recommandons d'utiliser des photos de bonne qualité, sur un format carré.
 N'oubliez pas de bien cliquer sur le bouton "créer" ou "créer et ajouter nouveau" une fois tous les champs obligatoires renseignés (ceux indiqués par une astérisque rouge).
 {% endhint %}
 
-Lorsque vous créez un produit, vous êtes redirigé sur la page "produits" où vous retrouvez tous vos produits :&#x20;
+**Page produit :**&#x20;
 
-![](<../../.gitbook/assets/image (56) (1) (1).png>)
+Lorsque vous créez un produit, vous êtes redirigé sur la page "**Produits**" où vous retrouvez tous vos produits :&#x20;
+
+Depuis cette page vous pouvez très simplement, en cliquant sur les flêches à gauche de l'écran :&#x20;
+
+* Renommer le produit
+* Modifier l'unité
+* Modifier le prix&#x20;
+* Modifier les quantités
+* Créer de nouvelles variantes&#x20;
+
+![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54.png>)
 
 ## Créer un produit similaire / une déclinaison du produit
 
