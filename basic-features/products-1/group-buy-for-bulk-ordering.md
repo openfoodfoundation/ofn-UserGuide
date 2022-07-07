@@ -1,25 +1,23 @@
-# Group Buy - for bulk ordering
+# Acquisto di gruppo
 
-The **Group Buy** function is designed for enterprises who purchase some of their incoming stock in bulk quantities and resell them in smaller units (for example, purchasing a 25 kg bag of rice and retailing to customers per kg).
+La funzionalità di **Acquisto di gruppo** è pensata per le aziende che acquistano all'ingrosso per rivendere in confezioni al dettaglio (ad esempio, acquistano il riso in sacchi da 25 kg e poi lo rivendono ai consumatori al kg).&#x20;
 
-Bulk purchasing is a common practice for **buying groups**, who, by buying large volumes, can benefit from wholesale prices in the same way as conventional distributors.  By dong so, members to access food much cheaper than they might be able to from high street retailers.&#x20;
+L'acquisto di gruppo è una pratica comune tra i GAS (Gruppi di Acquisto Solidali), che, acquistando grossi volumi, possono usufruire di prezzi all'ingrosso al pari dei distributori convenzionali. Così facendo, i soci ottengono prezzi più convenienti rispetto a quelli che troverebbero nei negozi.&#x20;
 
-For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
+Queste realtà possono decidere di ordinare un certo prodotto solo se i consumatori hanno ordinato collettivamente una quantità sufficiente ad ottenere un prezzo più conveniente, grazie a sconti sui volumi o tariffe di consegna. Questa funzione rende più agevole per gli hub ottenere efficienze da acquisti "massivi".
 
-When a product is allocated to group buy it will display differently in the shopfront (see below), with a double column Min/Max quantity visible:
+Quando si imposta la funzionalità di acquisto di gruppo per un prodotto, quando il consumatore lo selezionerà per acquistarlo, comparirà una finestra pop up, con la richiesta di quantità minima e massima:
 
-![](<../../.gitbook/assets/group-buy (1).png>)
+![](<../../.gitbook/assets/Acquisto di gruppo.png>)
 
-Customer are asked to indicate:
-
-* Their **minimum** quantity- this is the amount of the product they ideally want.
-* Their **maximum** quantity- this is the maximum amount they would be willing to buy.
+* La quantità **minima** - è la quantità ideale per il consumatore.&#x20;
+* La quantità massima - è la quantità massima che il consumatore è disposto ad acquistare per eventualmente raggiungere il minimo richiesto.&#x20;
 
 {% hint style="info" %}
-Essentially this is a way for the customer to say _‘you have my permission to increase my order up to this point, if it means that as a group, we can achieve the bulk order quantity’._
+In pratica, questa è una modo per far dire al consumatore: "avete il mio permesso di aumentare il mio ordine fino a questo limite se questo permette al gruppo di ottenere la quantità minima richiesta dal fornitore."&#x20;
 {% endhint %}
 
-In [Bulk Order Management](../orders/view-orders.md#bulk-order-management) you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
+Nella [gestione tabellare degli ordini](../orders/view-orders.md#bulk-order-management), puoi visualizzare la quantità minima e massima richiesta da ciascun consumatore per ciascun prodotto in cui questa funzionalità è stata attivata. Da qui puoi aumentare la quantità degli ordini per raggiungere il minimo richiesto, oppure cancellare gli ordini nel caso il minimo non sia raggiunto.&#x20;
 
 ## Enabling Group Buy for a product
 

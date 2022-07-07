@@ -1,76 +1,75 @@
-# Order Cycles \(for Shops\)
+# Cicli di richieste (per Negozi)
 
 {% hint style="warning" %}
-Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop) and wish to open your own store.
+Leggi qui se sei registrato come [Negozio Produttore](../../../your-quick-start-on-ofn-given-who-you-are.md#shop) e vuoi aprire il tuo negozio.&#x20;
 
-Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)\).
+Visita questa [pagina](order-cycles-for-hubs.md) se intendi aprire un negozio online con diversi produttori ([hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)).&#x20;
 {% endhint %}
 
-In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
+In Open Food Network, per aprire un negozio online è necessario impostare un Ciclo di Richieste. Questo significa selezionare i prodotti disponibili, le eventuali tariffe applicate e le date apertura e chiusura del negozio.
 
-**Why use Order Cycles?**  
-Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed.   
-Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open \(accepting orders\) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
+**Perchè usare Cicli di Richieste?**\
+Molti produttori, che vendono piccole quantità di prodotti, possono trovare comodo avere un negozio costantemente aperto, per soddisfare le richieste individualmente, nel momento in cui le ricevono.  \
+Altri produttori, che vendono quantità maggiori di prodotti, a gruppi di consumatori, trovano utile stabilire periodici cicli di richieste, che possono essere soddisfatte collettivamente alla fine di un determinato lasso temporale. Per esempio, un negozio può avere un ciclo di richieste aperto (che accetta "gentili richieste") per due settimane. Alla fine di questo ciclo, tutti i prodotti vengono confezionati e distribuiti nello stesso momento. Quando questo gruppo di richieste viene soddisfatto, si può aprire un nuovo ciclo. Strutturare i cicli di richieste in questo modo può rendere più efficente il compito di confezionare e consegnare i prodotti.
 
-## Access Order Cycles
+## Accedere ai Cicli di Richieste
 
-When logged into your admin dashboard you can access order cycles from this button:
+Una volta effettuato l'accesso al pannello di controllo, puoi accedere ai tuoi Cicli di Richieste cliccando su questo pulsante:&#x20;
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
-Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then click on **+New Order Cycle**
+O su "Cicli di richieste" nel menù blu orizzontale in alto. Poi clicca su **+Nuovo Ciclo di richieste**&#x20;
 
-![](../../../.gitbook/assets/ordercycle1%20%282%29%20%282%29%20%281%29.jpg)
+![](<../../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
 
 {% hint style="info" %}
-Note you cannot create an order cycle until you have set up ****at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
+Non puoi creare un ciclo di richieste finchè non hai impostato almeno un [metodo di consegna](../shipping-methods.md) ed un [metodo di pagamento](../payment-methods.md).&#x20;
 {% endhint %}
 
-You will now be redirected to a new screen:
+Sarai indirizzato ad una nuova schermata:
 
 ![](../../../.gitbook/assets/ordercyclep1.jpg)
 
-  
-**Name \(**_**required**_**\):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+****\
+**Nome (**_**obbligatorio**_**):** Dai al ciclo di richieste un nome che sia significativo per te. Ti suggeriamo di seguire una regola di nominazione, per poi riuscire a trovare agevolmente il ciclo di richieste ad una ricerca futura. Es. NomeNegozio\_settimana12\_2021.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Richieste aperte dal:** Questa è la data (e l'orario) a partire da cui il tuo negozio OFN sarà aperto, visibile e pronto a ricevere richieste dai consumatori.&#x20;
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Richieste chiudono il:** Questa è la data (e l'orario) in cui il tuo negozio OFN chiuderà e smetterà di accettare gentili richieste. Se desideri avere un negozio sempre aperto, seleziona una data di chiusura lontana nel futuro.&#x20;
 
-**Schedules:** leave blank unless implementing [Subscriptions](../../subscriptions/).
+**Programma:** Lascia vuoto se non usi [Abbonamenti](../../subscriptions/).
 
-**Ready for \(ie Date/Time\) \(**_**required**_**\):** This box tells the customer when their order will be ready for either collection or delivery. 
+**Pronto per (data/ora) (**_**obbligatorio**_**):** Questo riquadro comunica ai consumatori quando i loro prodotti saranno pronti per la consegna o il ritiro.&#x20;
 
 {% hint style="info" %}
-If your order cycle is constantly open, rather than periodic, then use this box to enter something like 'Two days after ordering'
+Se il tuo ciclo di richieste è costantemente aperto, allora utilizza una dicitura tipo "due giorni dopo la richiesta".&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-If you have product or location specific order cycles running concurrently you may like to 'hack' this text field by adding extra information eg. 'Meat for Tues'
+Se hai cicli di richieste concomitanti, potresti aggiungere informazioni sul prodotto o il luogo di ritiro specifico di questo ciclo, es. "Riso mercoledì"&#x20;
 {% endhint %}
 
-**Customer Instructions:** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. 
+**Istruzioni per i Consumatori:** Questo messaggio sarà incluso nella mail di conferma d'ordine che riceveranno i consumatori, sotto al messaggio che corrisponde al metodo di consegna selezionato (vedi sotto). Questa nota sarà visibile solo a chi acquista, quindi puoi inserire qui informazioni più sensibili come indirizzi, numeri di telefono, ecc. &#x20;
 
-**Products:** You must select the products which will be visible in your online store during this order cycle. 
+**Prodotti:** Seleziona i prodotti che vuoi che siano visibili nel tuo negozio online durante questo ciclo di richieste.&#x20;
 
 {% hint style="info" %}
-Remember, if you add new products after an order cycle is underway, you will need to select them here else they won't appear online!
+Ricorda, se aggiungi nuovi prodotti quando hai già creato un ciclo di richieste, dovrai selezionarli anche qui per farli apparire online!
 {% endhint %}
 
-**Add Coordinator Fee:** There is the option of adding a coordinator fee. Here you can apply an [enterprise fee](../enterprise-fees.md) that has been created for your enterprise. 
+**Aggiungi tariffa coordinamento:** C'è la possibilità di aggiungere una tariffa per retribuire il coordinamento. Qui puoi applicare una [tariffa aziendale](../enterprise-fees.md) che è già stata creata per la tua azienda. &#x20;
 
-## Open the shopfront
+## Apri il tuo negozio
 
-Click Create to save this order cycle.
+Clicca Crea per salvare questo Ciclo di richieste.
 
 {% hint style="warning" %}
-If the opening date of your order cycle has already lapsed then your shop front will be live immediately!  
-If you are not quite ready to open the shop, set the 'Opens At' date to a time in the future.
+Se la data di apertura del tuo ciclo di richieste è già passata, allora il tuo negozio sarà visibile immediatamente!\
+Se mancano ancora dei dettagli e non sei ancora pronto ad aprire il negozio, inserisci una data futura nel campo "Apre il".&#x20;
 {% endhint %}
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
+Per cicli di richieste periodici, ripetitivi, puoi duplicare un ciclo di richieste e cambiare le date, per velocizzare il processo. Seleziona l'icona con i due fogli alla destra della tabella, come evidenziato qui sotto:&#x20;
 
-![](../../../.gitbook/assets/occpy%20%281%29.jpg)
+![](<../../../.gitbook/assets/occpy (1).jpg>)
 
-Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
-
+I cicli di richieste hanno lo sfondo verde quando sono attivi, giallo quando sono pianificati per una data futura, e grigio quando hanno chiuso. Se un ciclo di richieste è chiuso più di un mese fa, non apparirà più in questa lista. Per visualizzare tutti i tuoi cicli di richieste passati, clicca **mostra 30 giorni in più** o **mostra 90 giorni in più** in fondo alla lista.&#x20;

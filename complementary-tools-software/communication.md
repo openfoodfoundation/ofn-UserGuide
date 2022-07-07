@@ -1,11 +1,11 @@
-# Notiziari e email promozionali
+# Notiziari ed email promozionali
 
 Un buon modo per rimanere in contatto con i clienti o i clienti potenziali è impostare una mailing list a cui inviare periodicamente notiziari e aggiornamenti via mail. Per esempio, potresti voler inviare:&#x20;
 
 * un notiziario mensile sui progressi della tua azienda, i nuovi prodotti, le novità dai tuoi fornitori, ecc.
 * una notifica via mail ogni volta che viene lanciato un nuovo ciclo di richieste.&#x20;
 
-Uno degli strumenti più comuni al momento è [Mailchimp](https://mailchimp.com), quindi ti diamo qualche suggerimento per utilizzare Mailchimp per inviare i tuoi notiziari.&#x20;
+Uno degli strumenti più comuni al momento è [Mailchimp](https://mailchimp.com/), quindi ti diamo qualche suggerimento per utilizzare Mailchimp per inviare i tuoi notiziari.&#x20;
 
 {% hint style="danger" %}
 Assicurati di rispettare le linee guida legali locali quando conservi ed utilizzi  dati dei tuoi clienti. Per il regolamento euroeo, vedi [qui](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).

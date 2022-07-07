@@ -23,7 +23,7 @@
     * [Proprietà prodotto](basic-features/products-1/product-properties.md)
     * [Dare un prezzo alla carne e ad altri prodotti con peso indefinito](basic-features/products-1/pricing-irregular-items-kg.md)
     * [Inventario](basic-features/products-1/inventory-tool.md)
-    * [Group Buy - for bulk ordering](basic-features/products-1/group-buy-for-bulk-ordering.md)
+    * [Acquisto di gruppo](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Product and Inventory import](basic-features/products-1/product-and-inventory-import.md)
   * [Vetrina](basic-features/shopfront/README.md)
     * [Metodi di Pagamento](basic-features/shopfront/payment-methods.md)

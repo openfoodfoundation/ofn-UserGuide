@@ -1,12 +1,12 @@
 # Benvenuto nella Guida per gli utenti di OFN
 
-| Language version                                         | Link to the user guide                                                                                               |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png)  | _You are reading the English version !_                                                                              |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png)  | [Accéder à la version française du guide utilisateur Open Food Network](https://guide.openfoodnetwork.org/v/fr/)     |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png)  | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org)                     |
-|                                                          | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com)     |
-|                                                          | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br) |
+| Language version                                                                        | Link to the user guide                                                                                                |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line">  | _You are reading the English version !_                                                                               |
+| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-01.png" alt="" data-size="line">  | [Accéder à la version française du guide utilisateur Open Food Network](https://guide.openfoodnetwork.org/v/fr/)      |
+| <img src=".gitbook/assets/capture-du-2019-09-26-00-37-35.png" alt="" data-size="line">  | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/)                     |
+|                                                                                         | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/)     |
+|                                                                                         | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/) |
 
 **Questa guida per gli utenti è pensata per aiutarti ad ottenere il massimo dall'utilizzo della piattaforma Open Food Network per supportare il funzionamento delle imprese alimentari locali e delle "filiere alimentari corte" ovunque tu viva.**&#x20;
 
