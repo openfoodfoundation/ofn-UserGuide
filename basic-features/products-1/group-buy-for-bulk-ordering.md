@@ -19,43 +19,43 @@ In pratica, questa è una modo per far dire al consumatore: "avete il mio permes
 
 Nella [gestione tabellare degli ordini](../orders/view-orders.md#bulk-order-management), puoi visualizzare la quantità minima e massima richiesta da ciascun consumatore per ciascun prodotto in cui questa funzionalità è stata attivata. Da qui puoi aumentare la quantità degli ordini per raggiungere il minimo richiesto, oppure cancellare gli ordini nel caso il minimo non sia raggiunto.&#x20;
 
-## Enabling Group Buy for a product
+## Abilitare Acquisto di gruppo per un prodotto
 
-On the admin dashboard, go to '**Products**' on the blue horizontal menu.  Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
+Dal pannello di controllo, vai alla voce "**Prodotti**" nel menu blu orizzontale. Clicca sull'icona con carta e penna a destra del prodotto che vuoi modificare: &#x20;
 
 ![](../../.gitbook/assets/productedit.jpg)
 
-Then select **Group Buy Options** in the menu to the right.
+Seleziona "**Opzioni acquisti di gruppo**" nel menu a destra.&#x20;
 
 ![](../../.gitbook/assets/groupbuy.jpg)
 
-Select **Yes** under **Group Buy? to activate this feature for the product.**
+Seleziona "**Sì**" sotto "**Acquisto di gruppo?**" per attivare questa funzionalità per il prodotto.&#x20;
 
-The **Bulk Unit Size** is the amount that the group’s collective order needs to reach.&#x20;
+La "**Quantità minima per Acquisto di Gruppo**" è la quantità che l'ordine collettivo di gruppo deve raggiungere.&#x20;
 
 {% hint style="warning" %}
-The **units** for the Bulk Unit Size quantity depend on the units selected for retailing the product to customers. &#x20;
+Per la quantità minima per l'acquisto di gruppo si considerano le unità già selezionate per la vendita del prodotto. &#x20;
 
-If the product is sold by:
+Se il prodotto è venduto a:
 
-* **Weight**: units are in g (so if collective total must equal 5 kg then enter '5000' in this field)
-* **Volume**: units are in litres (so if collective total must be 10 l then enter '10' in this field)
-* **Items**: eg. selling bunches of flowers but must purchase 100 bunches in total then enter '100' in this field.
+* **Peso**: le unità sono i grammi (quindi se il totale collettivo deve essere di 5 kg, inserisci "5000" in questo campo)
+* **Volume**: le unità sono i litri (quindi se il totale collettivo deve essere di 10 l, inserisci 10 in questo campo)
+* **Pezzi**: es. se le lattughe sono vendute a cespo ma è necessario raggiungere 100 cespi in totale, allora inserisci "100" in questo campo.
 {% endhint %}
 
-## Adjusting Orders to make complete Batches
+## Adeguamento degli ordini per creare lotti completi
 
-Under Orders-> [bulk order management](../orders/view-orders.md#bulk-order-management) you can view and edit customer orders for Bulk Buy products to make the combined order from all customers reach your required threshold.
+Sotto Ordini --> [gestione massiva ordini](../orders/view-orders.md#bulk-order-management) puoi vedere e modificare gli ordini per i prodotti con "acquisto di gruppo" per far sì che l'ordine collettivo raggiunga il minimo richiesto.&#x20;
 
-1. Select the order cycle or date range of interest.
-2. Search for the product (Fish in the example below).
-3. Make sure the ‘Max’ column is displayed so you can see the upper limit each customers is prepared to purchase.
-4. Next, click on the value ('test fish: Fish One' in the example below) in the **Product : Unit** column, to display the orders total box (in blue) for the product in question.&#x20;
-5. Using the information in the column **Max**, you can increase the quantities ordered to reach the threshold for a complete batch.&#x20;
-6. Click update to save changes to customer orders.
+1. Seleziona il ciclo di richieste o l'intervallo di date di tuo interesse.
+2. Cerca il prodotto (ad esempio Susine).
+3. Assicurati che la colonna "Max" sia visualizzata, di modo che tu possa visualizzare le quantità massime che il consumatore è disposto ad acquistare.
+4. Poi, clicca sul valore della colonna **Prodotto: unità** ("Susine" nell'esempio qui sotto), per visualizzare il riquadro (azzurro) con il totale degli ordini per quel prodotto. &#x20;
+5. Usando l'informazione nella colonna **Max**, puoi aumentare le quantità ordinate per raggiungere il lotto completo richiesto.&#x20;
+6. Clicca "Aggiorna" per salvare le modifiche agli ordini dei consumatori.&#x20;
 
 ![](../../.gitbook/assets/bulkorder2.jpg)
 
-**Current Fulfilled Units** divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer orders satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.&#x20;
+**Unità attualmente raggiunte** suddivide le quantità totali ordinate nelle unità dell'acquisto di gruppo. Se questo valore è maggiore di 1, indica che gli ordini attuali raggiungono o eccedono la quantità minima richiesta. Se questo valore è inferiore a 1, significa che gli ordini non raggiungono collettivamente il minimo richiesto. All'aumentare degli ordini individuali, questo valore aumenterà.&#x20;
 
-**Max Fulfilled Units** takes the sum of all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If this figure is greater than 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If this figure is less than 1, it means that even the MAX order quantities won’t reach the threshold.
+**Unità massime raggiunte** indica la somma di tutte le quantità MASSIME ordinate dai consumatori diviso la quantità minima per l'acquisto di gruppo. Se questo valore è inferiore a 1, significa che nemmeno la somma delle quantità MASSIME raggiunge la quantità minima richiesta.&#x20;
