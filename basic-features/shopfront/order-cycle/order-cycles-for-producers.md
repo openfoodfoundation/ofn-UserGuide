@@ -73,3 +73,11 @@ For periodic, repetitive order cycles, you can copy an existing order cycle and 
 ![](<../../../.gitbook/assets/occpy (1).jpg>)
 
 Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
+
+{% hint style="warning" %}
+Re opening an order cycle to re open a shopfront can cause confusion at customer checkout, see the warning shown below. For periodically opening shopfronts, duplicate or create new order cycles each time you open the shop rather than editing the open and close dates of one order cycle.
+{% endhint %}
+
+Customers will be advised when they have already ordered in an order cycle, even if the order cycle was closed for some time before being reopened:
+
+![](<../../../.gitbook/assets/pop up in checkout.jpg>)

@@ -8,8 +8,8 @@ There you are then lead through a step-by-step process to place the order:
 
 ![](../../.gitbook/assets/manorder2.jpg)
 
-Firstly you will be prompted to select the distributor that the order will be placed with.   
-Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied.  
+Firstly you will be prompted to select the distributor that the order will be placed with. \
+Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied.\
 You will then be redirected to the following page where you can select products. You must type at least the first 3 characters of the product for it to appear as an option in the drop down list:
 
 ![](../../.gitbook/assets/manorder3.jpg)
@@ -18,17 +18,17 @@ After finding the product you'd like to order, enter the quantity and click the 
 
 ![](../../.gitbook/assets/manorder4.jpg)
 
-Once a product is added you can edit \(quantity for example\) by selecting the pen and paper icon to the right of the item:
+Once a product is added you can edit (quantity for example) by selecting the pen and paper icon to the right of the item:
 
 ![](../../.gitbook/assets/manorder5.jpg)
 
 After editing any aspect of the cart, click **update and recalculate fees** to update the price.
 
-The next step is to add in the customer’s details \(right hand menu, second option down\). If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
+The next step is to add in the customer’s details (right hand menu, second option down). If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
 
 ![](../../.gitbook/assets/manorder6.jpg)
 
-Click **Update** and go back to Order Details \(top option on right hand menu\).  You will now be able to select a shipping method for the customer.
+Click **Update** and go back to Order Details (top option on right hand menu).  You will now be able to select a shipping method for the customer.
 
 ![](../../.gitbook/assets/manorder7.jpg)
 
@@ -43,8 +43,8 @@ The final step is to add the customer’s payment method.  This is found from th
 ![](../../.gitbook/assets/manorder8.jpg)
 
 {% hint style="warning" %}
-Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.  
- ![](../../.gitbook/assets/stripeextra.jpg)  
+Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.\
+&#x20;<img src="../../.gitbook/assets/stripeextra.jpg" alt="" data-size="original"> &#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -58,8 +58,7 @@ Best practice is to complete the above form directly into a computer/tablet/mobi
 {% hint style="danger" %}
 You will not be able to opt for a [Payment Method](../shopfront/payment-methods.md) provided by **PayPal** for an order created manually.
 
-![](../../.gitbook/assets/paypalnewpayment%20%281%29.jpg) 
+<img src="../../.gitbook/assets/paypalnewpayment (1).jpg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 Clicking **update** will finalise this order and send an email confirmation to the customer.
-

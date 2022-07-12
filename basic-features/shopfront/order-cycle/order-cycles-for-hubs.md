@@ -111,11 +111,19 @@ For complex models, the coordinator may wish to add different fees to all produc
 
 Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later.&#x20;
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
 
 ![](../../../.gitbook/assets/occpy.jpg)
 
-Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
+
+{% hint style="warning" %}
+Re opening an order cycle to re open a shopfront can cause confusion at customer checkout, see the warning shown below. For periodically opening shopfronts, duplicate or create new order cycles each time you open the shop rather than editing the open and close dates of one order cycle.
+{% endhint %}
+
+Customers will be advised when they have already ordered in an order cycle, even if the order cycle was closed for some time before being reopened:
+
+![](<../../../.gitbook/assets/pop up in checkout.jpg>)
 
 ## **‘Notify Producers’ Button**
 

@@ -39,7 +39,7 @@ Example:
 
 ![](../../.gitbook/assets/1.png)
 
-This voucher was made using the free online software [Canva](https://www.canva.com).
+This voucher was made using the free online software [Canva](https://www.canva.com/).
 
 ### Step Three
 
