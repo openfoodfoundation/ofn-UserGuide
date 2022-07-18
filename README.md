@@ -21,9 +21,9 @@
 
 ## Dans les grandes lignes
 
-L'Open Food Network permet aux populations locales de mettre en place des moyens plus efficaces et plus équitables pour s'approvisionner en nourriture localement et directement auprès des cultivateurs, des agriculteurs et des producteurs. De vastes réseaux de petits producteurs, distributeurs, détaillants, plateformes alimentaires, coopératives alimentaires et groupement d'achat peuvent se réunir avec l'aide de l'Open Food Network pour trouver la meilleure façon de raccourcir la chaîne d'approvisionnement alimentaire. Ce faisant, ils contribuent à la création de communautés fortes.&#x20;
+L'Open Food Network permet aux populations locales de mettre en place des moyens plus efficaces et plus équitables pour s'approvisionner en nourriture localement et directement auprès des paysans, agriculteurs et producteurs. De vastes réseaux de petits producteurs, distributeurs, détaillants, plateformes alimentaires, coopératives alimentaires et groupement d'achat peuvent se réunir avec l'aide de l'Open Food Network pour trouver la meilleure façon de raccourcir la chaîne d'approvisionnement alimentaire. Ce faisant, ils contribuent à la création de communautés fortes.&#x20;
 
-L'Open Food Network est un projet mondial qui soutient l'organisation opérationnelle des agriculteurs, des groupes de consommateurs, des coopératives, etc. dans la distribution des aliments locaux. Le logiciel que nous construisons est open source, et nous collaborons avec des personnes extraordinaires du monde entier pour continuer à l'améliorer ! Nous fournissons également un soutien pour les aspects organisationnels de la mise en place et du fonctionnement d'un centre alimentaire. Veuillez contacter votre instance OFN locale pour en savoir plus sur nous !&#x20;
+L'Open Food Network est un projet mondial qui soutient l'organisation opérationnelle des agriculteurs, des groupes de consommateurs, des coopératives, etc. dans la distribution des aliments locaux. Le logiciel que nous construisons est open source, et nous collaborons avec des personnes extraordinaires du monde entier pour continuer à l'améliorer ! Nous fournissons également un soutien pour les aspects organisationnels de la mise en place et du fonctionnement d'un réseaus alimentaire. Veuillez contacter votre instance OFN locale pour en savoir plus sur nous !&#x20;
 
 
 
@@ -46,7 +46,7 @@ Ces guides sont faits pour les utilisateurs souhaitant optimiser leur boutique O
 {% endhint %}
 
 {% hint style="success" %}
-Ils sont aussi utiles pour répondre à toutes les questions que vous auriez!
+Ils sont aussi utiles pour répondre à toutes les questions que vous vous posez !
 {% endhint %}
 
 ### _>_ Directives sur les logiciels complémentaires que vous pourriez vouloir utiliser en combinaison avec Open Food Network
@@ -63,7 +63,7 @@ Si vous cherchez quelque chose en particulier, la barre de recherche en haut à 
 
 ## D'autres questions ? des améliorations ?&#x20;
 
-Des difficultés avec ce guide de l'utilisateur ? Des informations manquantes ? Ou peut-être voulez-vous partager certaines fonctionnalités que vous aimeriez voir à l'avenir ?&#x20;
+Des difficultés avec ce guide d'utilisation ? Des informations manquantes ? Ou peut-être voulez-vous partager certaines fonctionnalités que vous aimeriez voir à l'avenir ?&#x20;
 
 Ecrivez-nous aux adresses suivantes :&#x20;
 

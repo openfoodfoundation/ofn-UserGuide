@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Bienvenue sur le Guide utilisateur Open Food Network](README.md)
-* [Comment mon entreprise s'inscrit-elle dans Open Food Network?](your-quick-start-on-ofn-given-who-you-are.md)
-* [Guides de mise en route rapide](quick-start-guides/README.md)
-  * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
+* [Comment mon organisation s'inscrit-elle dans Open Food Network?](your-quick-start-on-ofn-given-who-you-are.md)
+* [Guides de démarrage rapide](quick-start-guides/README.md)
+  * [Boutique multi-producteurs (Hub)](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)
   * [Boutique](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Profil](quick-start-guides/profile-only-quick-setup-guide.md)
   * [Marchés Fermiers virtuels](quick-start-guides/digital-farmers-markets.md)

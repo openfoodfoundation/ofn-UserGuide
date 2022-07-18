@@ -1,9 +1,9 @@
 # FAQs
 
-Voici les liens vers les questions les plus fréquemment posées, classées par profil utilisateur :
+Voici les liens vers les questions les plus fréquemment posées, classées par catégorie d'utilisateur :
 
-[ACHETEUR](broken-reference)
+[Acheteur](acheteur.md)
 
-[PRODUCTEUR](broken-reference)
+[Producteur](producteur.md)
 
-[HUB](broken-reference)
+[Boutique multi-producteurs (Hub)](hub.md)

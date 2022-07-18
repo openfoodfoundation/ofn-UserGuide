@@ -6,7 +6,7 @@ description: >-
 
 # Fonctionnalités
 
-Vous pouvez parcourir ces fonctionnalités quand vous le souhaitez, mais nous recommandons nos [guides de démarrage rapide](https://guide.openfoodnetwork.org/v/fr/quick-start-guides) à ceux qui débutent.
+Vous pouvez parcourir ces fonctionnalités quand vous le souhaitez, mais nous recommandons nos [guides de démarrage rapide](https://guide.openfoodnetwork.org/v/fr/quick-start-guides) à celles et ceux qui débutent.
 
 {% hint style="info" %}
 Pour trouver l'explication d'une fonctionnalité spécifique, veuillez utiliser le champ "Rechercher" (en haut à droite).
