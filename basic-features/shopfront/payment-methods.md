@@ -44,6 +44,38 @@ En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez d
 
 
 
+### Stripe
+
+[Stripe](https://stripe.com/fr) est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte.&#x20;
+
+Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions), Stripe est la seule méthode de paiement en ligne utilisable (en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr).
+
+{% hint style="info" %}
+Les frais prélevés par Stripe sont de 1,4% + 0,25 cts par transaction. De temps en temps, Stripe peut modifier cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.
+{% endhint %}
+
+**Connecter avec Stripe**
+
+Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton (menu Entreprises > Gérer > Méthodes de paiements) :&#x20;
+
+![](<../../.gitbook/assets/image (69) (1) (1).png>)
+
+Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
+
+**Créer une nouvelle méthode de paiement**
+
+Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
+
+**Stripe Account Owner :** sélectionnez l'entreprise avec laquelle vous avez créé le compte Stripe ou réalisé la connexion.
+
+Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
+
+![](<../../.gitbook/assets/image (85) (1) (1).png>)
+
+#### Le paiement via Stripe pour les acheteurs
+
+Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements (seulement s'ils sont connecté à la plateforme Open Food Network). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une (Profil > Compte).
+
 ### PayPal Express
 
 Pour permettre un paiement par Paypal, vous devez avoir créé au préalable un compte Paypal professionnel. Vous pouvez en créer un [ici](https://www.paypal.com/fr/home). Ensuite il est nécessaire de paramétrer l'API. C'est elle qui vous permettra de connecter votre compte Paypal à votre boutique en ligne.
@@ -83,35 +115,9 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 **Page d'accueil :** vous pouvez sélectionner la page d'accueil une fois les utilisateurs redirigés vers paypal pour leur achat. Si vous avez sélectionné "Mark" avant, il vaut mieux indiquer "Login". Si non, "Billing" les renverra directement vers un écran leur permettant d'indiquer leur numéro de carte bleue.
 
-### Stripe
 
-[Stripe ](https://stripe.com/au)est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte.&#x20;
 
-Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions), Stripe est la seule méthode de paiement en ligne utilisable (en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr).
-
-**Connecter avec Stripe**
-
-Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton (menu Entreprises > Gérer > Méthodes de paiements) :&#x20;
-
-![](<../../.gitbook/assets/image (69) (1) (1).png>)
-
-Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
-
-**Créer une nouvelle méthode de paiement**
-
-Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
-
-**Stripe Account Owner :** sélectionnez l'entreprise avec laquelle vous avez créé le compte Stripe ou réalisé la connexion.
-
-Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
-
-![](<../../.gitbook/assets/image (85) (1) (1).png>)
-
-#### Le paiement via Stripe pour les acheteurs
-
-Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements (seulement s'ils sont connecté à la plateforme Open Food Network). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une (Profil > Compte).
-
-## Frais associés aux méthodes de paiements
+## Associer des frais aux méthodes de paiements
 
 ![](<../../.gitbook/assets/image (47) (1).png>)
 

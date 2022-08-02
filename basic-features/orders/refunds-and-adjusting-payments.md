@@ -46,7 +46,7 @@ Le remboursement va mettre 5 à 10 jours pour apparaître sur le compte de votre
 {% endhint %}
 
 {% hint style="info" %}
-Les frais prélevés par Stripe (1,2 - 1,4% + 0,2 cts par transaction) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande (fonctionnalité qui sera développée dans les mois à venir).
+Les frais prélevés par Stripe (1,4% + 0,25 cts par transaction - voir les montants à jour sur le site de Stripe [ici](https://stripe.com/fr/pricing)) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande (fonctionnalité qui sera développée dans les mois à venir).
 {% endhint %}
 
 Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :&#x20;

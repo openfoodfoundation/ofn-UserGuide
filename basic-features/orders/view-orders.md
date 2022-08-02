@@ -18,25 +18,22 @@ Les filtres présents sur la page peuvent vous aider à accéder plus rapidement
 
 **Statut :**
 
-* Finalisée - le client est allée jusqu'au bout de la commande, qui a bien été passée
-* Annulée - le gestionnaire du hub a annulé la commande
-* Panier - le client a commencé à passer commande mais n'est pas allé jusqu'au bout, la commande n'a pas été passée
+* **Finalisée** - le client est allée jusqu'au bout de la commande, qui a bien été passée
+* **Annulée** - le gestionnaire du hub a annulé la commande
+* **Panier** - le client a commencé à passer commande mais n'est pas allé jusqu'au bout, la commande n'a pas été passée
 
 **Statut du paiement** **:**
 
-* Solde dû - pour les paiements non automatisés (paiements en liquide, chèque, par virement bancaire) le statut du paiement sera par défaut "solde dû", jusqu'à ce que le gestionnaire de la boutique capture manuellement le paiement de la commande.&#x20;
-* Payé - pour les paiements automatisés (Paypal, Stripe) le statut sera automatiquement "payé" au passage de la commande, le portail de paiement renvoyant l'information de la validation du paiement à la plateforme. En cas de paiement en liquide / chèque / virement bancaire, une fois que le gestionnaire a capturé le paiement, le statut s'affiche également comme "payé".&#x20;
-* Crédit acheteur - si l'acheteur a réglé sa commande mais qu'ensuite cette dernière a été modifiée et qu'un/des produits ont été supprimés, il y a donc un trop perçu pour le hub par rapport au nouveau montant de la commande. Le hub doit de l'argent à l'acheteur pour cette commande.&#x20;
+* **Solde dû** - pour les paiements non automatisés (paiements en liquide, chèque, par virement bancaire) le statut du paiement sera par défaut "Solde dû", jusqu'à ce que le gestionnaire de la boutique valide manuellement le paiement de la commande.&#x20;
+* **Payé** - En cas de **paiement en liquide / chèque / virement bancaire**, c'est au gestionnaire de confirmer manuellement que le paiement a bien été fait (voir [Modifier le statut de paiement ou de livraison d'une commande](https://guide.openfoodnetwork.org/basic-features/orders/view-orders#payment-and-shipment-state)). Le statut du paiement bascule alors sur "Payé". \
+  Pour les **paiements automatisés** (Paypal, Stripe) le statut sera automatiquement basculé sur "Payé" au passage de la commande, le portail de paiement renvoyant l'information de la validation du paiement à la plateforme.&#x20;
+* **Crédit acheteur** - si l'acheteur a réglé sa commande mais qu'ensuite cette dernière a été modifiée et qu'un/des produits ont été supprimés, il y a donc un trop perçu pour le hub par rapport au nouveau montant de la commande. Le hub doit de l'argent à l'acheteur pour cette commande.&#x20;
 
-**Statut livraison :**
+**Statut de livraison :**
 
-* En attente - Lorsque le statut du paiement est "solde dû", le statut de livraison sera en attente (tant que le paiement n'est pas reçu, la livraison ne peut pas démarrer __ dans un modèle de e-commerce classique. Ce processus n'a pas encore été adapté pour le fonctionnement des hubs alimentaires.)
-* Prêt - Lorsque le paiement est reçu (statut "payé" ou "crédit acheteur"), la livraison peut être effectuée (idem, schéma traditionnel en e-commerce non encore adapté).&#x20;
-* Envoyé - Lorsque le gestionnaire capture l'expédition de la commande, le statut s'affiche comme "envoyé".&#x20;
-
-{% hint style="warning" %}
-Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement n'est PAS "Payé"
-{% endhint %}
+* **En attente** - Lorsque le statut du paiement est "Solde dû", le statut de livraison sera "En attente"&#x20;
+* **Prêt** - Lorsque le paiement est reçu (statut "Payé" ou "Crédit acheteur"), le statut de livraison basculera sur "Prêt"&#x20;
+* **Envoyé** - Après la livraison ou la récupération des produits par le client, c'est au gestionnaire de marquer manuellement la commande comme "Envoyé" (cf [Modifier le statut de paiement ou de livraison d'une commande](https://guide.openfoodnetwork.org/basic-features/orders/view-orders#payment-and-shipment-state))
 
 **Email acheteur** **:** Il s'agit de l'email de l'acheteur. Une liste complète des emails des acheteurs peut être téléchargée via le [rapport](https://guide.openfoodnetwork.org/v/fr/basic-features/reports#mailing-list) "Acheteurs / liste de mails".
 
@@ -46,13 +43,11 @@ Vous ne pouvez pas indiquer une commande à "envoyée" si le statut de paiement 
 
 A droite des lignes de commande, vous pouvez opérer deux actions rapides via les boutons suivants :
 
-**Capturer le paiement** :&#x20;
+**Confirmer le paiement** :&#x20;
 
-Cliquez sur l’icône "check" pour capturer le paiement de la commande (montant exact)
+Cliquez sur l’icône "check" pour indiquer que la commande a été payée (montant exact).
 
 ![](<../../.gitbook/assets/image (68) (1).png>)
-
-Capturer le paiement permettra de l'indiqué comme reçu, ce qui est utile lorsque l'acheteur n'a pas payé au moment de la commande mais ultérieurement. Si vous souhaitez revoir les détails du paiement avant de capturer le paiement, vous pouvez cliquer sur le bouton éditer puis sélectionner paiement pour consulter le montant dû et cliquer sur l’icône "check" pour le capturer le paiement et l'indiquer comme reçu.
 
 ![](<../../.gitbook/assets/image (71) (1).png>)
 

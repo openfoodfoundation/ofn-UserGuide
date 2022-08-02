@@ -1,4 +1,8 @@
-# Catalogue boutique
+# Le "catalogue boutique"
+
+{% hint style="info" %}
+Attention, nous parlons ici du catalogue boutique, qui est une option supplémentaire qui s'ajoute au catalogue produits décrit précédemment.
+{% endhint %}
 
 {% hint style="warning" %}
 L’usage du catalogue boutique complexifie considérablement votre usage du logiciel Open Food Network, nous vous conseillons de vous assurer de votre besoin avant de vous engager dans son utilisation. Si vous avez un doute, ou souhaitez confirmer la pertinence de son utilisation, [contactez-nous](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/#dautres-questions-des-ameliorations)

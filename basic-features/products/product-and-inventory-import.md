@@ -1,20 +1,14 @@
----
-description: >-
-  This page explains how both producers can to import product details and
-  distributors can set up their hub inventory in bulk.
----
-
-# Importer des produits
+# Importer un tableau de produits
 
 
-
-{% hint style="info" %}
-Cette fonctionnalité est encore en version béta. Contactez-nous pour toute question !
-{% endhint %}
 
 Cet outil vous permet de téléverser un fichier csv pour ajouter en une seule manipulation une liste de produits au catalogue d'un producteur ou dans un catalogue boutique, ou mettre à jour des informations en masse comme les stocks. Cela évite les ajouts ou mise à jour sur chaque produit un par un. Pour un producteur qui met à jour son catalogue dans un tableur type Excel régulièrement, cela peut lui faire gagner beaucoup de temps !
 
 Pour accéder à la fonctionnalité, cliquez sur le menu principal **Produits** puis le sous-menu **import produits**.&#x20;
+
+![](<../../.gitbook/assets/Screen Shot 2022-07-22 at 16.55.20.png>)
+
+
 
 Les 4 possibilités principales offertes par cette fonctionnalité sont :
 
