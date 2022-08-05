@@ -1,10 +1,14 @@
-# Récompensez vos bénévoles
+# Accordez des réductions
 
 ## Introduction
 
-Vous souhaitez remercier les personnes qui vous aident à gérer votre entreprise alimentaire communautaire ? Vous pouvez permettre au personnel et aux bénévoles de bénéficier d'une petite remise sur leurs achats. Vous trouverez ci-dessous un guide sur la façon de mettre en œuvre cette mesure. Le processus s'appuie sur les outils de gestion des clients disponibles grâce aux étiquettes et aux règles d'étiquetage.
+Vous souhaitez accorder des réductions par exemple, pour remercier les personnes bénévoles qui vous aident à gérer votre entreprise alimentaire communautaire ou encore appliquer une tarification sociale ou une remise ponctuelle ?&#x20;
+
+Vous trouverez ci-dessous un guide sur la façon de mettre en œuvre cette mesure. Le processus s'appuie sur les outils de gestion des clients disponibles grâce aux étiquettes et aux règles d'étiquetage.
 
 ## Processus&#x20;
+
+Prenons le cas de réduction à appliquer aux bénévoles de votre organisation
 
 * Demandez à vos bénévoles de vous donner l'adresse électronique liée à leur compte OFN.
 * Connectez-vous au compte OFN de votre entreprise et consultez la page Clients.

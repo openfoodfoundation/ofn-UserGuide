@@ -57,7 +57,7 @@
     * [Supprimer une entreprise](hub-management-tips/how-tos/delete-an-enterprise.md)
     * [Horaires d'achat spéciaux pour les groupes prioritaires](hub-management-tips/how-tos/early-shopping-hour-for-priority-groups.md)
     * [Livraison gratuite ou à prix réduit pour les clients défavorisés](hub-management-tips/how-tos/discounted-free-delivery-for-vulnerable-customers.md)
-    * [Récompensez vos bénévoles](hub-management-tips/how-tos/reward-your-volunteers.md)
+    * [Accordez des réductions](hub-management-tips/how-tos/reward-your-volunteers.md)
 * [Logiciels complémentaires](complementary-tools-software/README.md)
 * [FAQs](trouble-shooting/README.md)
   * [Acheteur](trouble-shooting/acheteur.md)
