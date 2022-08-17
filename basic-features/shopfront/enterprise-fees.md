@@ -23,7 +23,7 @@ Before you move on you might like to have a look at a quick demonstration of set
 
 **Enterprise:** In the first column, select the enterprise to which the fee applies.
 
-**Fee Type:** Select the service that this fee applied to. The options are Packing Fee, Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Fee Type:** Select the service that the fee applies to. The options are Packing Fee, Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
 
 **Name:** Choose a name for your fee.
 
@@ -34,7 +34,7 @@ Before you move on you might like to have a look at a quick demonstration of set
 Click **Update** to save your enterprise fee.&#x20;
 
 {% hint style="success" %}
-You will only be able to specify rates or values (in the 'calculator values' column) after the Enterprise Fee has been created. Don't forget to click **Update** after entering a value to save your changes.
+You will only be able to specify rates or values (in the 'calculator values' column) after the Enterprise Fee has been created. Don't forget to click **Update** after entering a calculator value to save your changes.
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpeg)
