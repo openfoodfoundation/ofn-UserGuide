@@ -3,13 +3,13 @@
 {% hint style="warning" %}
 Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)'.&#x20;
 
-Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
+Visit [this page](order-cycles-for-producers.md) if you registered as a '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
 {% endhint %}
 
 You open your shop by creating an Order Cycle. When you create an order cycle you select when your shop is open (from and until), which products will go into the shop, and any fees that you'll apply.
 
 **Why Order Cycles?**  \
-****Some hubs may wish to have an online store which is perpetually open, and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their production, packing and distribution activities more efficient (and reducing associated overhead costs).&#x20;
+****Some hubs may wish to have an online store which is perpetually open and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system which allows them to process orders in bulk, making their production, packing and distribution activities more efficient (and reducing associated overhead costs).&#x20;
 
 For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
 
@@ -33,13 +33,13 @@ You will not be able to publish a live order cycle until you have at least one [
 
 ## Create a New Order Cycle
 
-The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle have permission to modify and manage **all** aspects of the sales cycle. \
+The first step is to select a coordinator for your order cycle. Only the enterprise who coordinates an order cycle has permission to modify and manage **all** aspects of the order cycle. \
 Other enterprises involved in an order cycle (as suppliers or distributors only) will have restricted access. \
 For more information on cross-enterprise management in the context of order cycles, [click here](permissions-in-multi-enterprise-order-cycles.md).
 
 ![](../../../.gitbook/assets/ordercycle2.jpg)
 
-Once the order cycle coordinator has been chosen, the process of setting up is divided into three steps:
+Once the order cycle coordinator has been chosen, the process of setting up your cycle can be broken down into three steps:
 
 ### 1) General Settings
 
@@ -47,9 +47,9 @@ Once the order cycle coordinator has been chosen, the process of setting up is d
 
 **Name (**_**required**_**):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
 
-**Orders Open at:** This is the date and time at when your OFN store will be open, visible and start to accept orders from customers.
+**Orders Open at:** This is the date and time when your OFN store will be open, visible and able to accept orders from customers.
 
-**Orders Close:** This is the date (and time) when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Orders Close:** This is the date and time when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date well into the future.
 
 **Schedules:** Leave blank unless using [Subscriptions](../../subscriptions/).
 
@@ -60,40 +60,40 @@ Once the order cycle coordinator has been chosen, the process of setting up is d
 ![](../../../.gitbook/assets/ordercycle4.jpg)
 
 On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle (See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section). \
-After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.**&#x20;
+After selecting a supplier and clicking **Add Supplier**, all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.**&#x20;
 
 {% hint style="info" %}
-Products which are out of stock (ie their 'in stock' value is zero) are included in this list.  If added to an order cycle they will not appear on our shop front.  It is always good to double check stock levels.&#x20;
+Products which are out of stock (i.e. their 'in stock' value is zero) are shown in this list but if added to an order cycle they will not appear on your shop front. It is always good to double check stock levels.
 {% endhint %}
 
 The **Receival Details** field is optional.  Information added to this field will automatically added to any email sent to producers at the end of an order cycle (after clicking 'Notify Producers').  It might be a good idea to include an exact delivery address for produce prior to distribution to customers here.
 
 The **Add Fee** button in this section, at the end of each producer's entry in the table, allows you to add different [enterprise fees](../enterprise-fees.md) to different suppliers. For example, transporting flour or heavy goods to customers may be more expensive for a hub than salad.  Hence, a hub can, in a transparent manner, add a slightly higher enterprise fee to all goods supplied by the flour miller than the salad farmer.
 
-Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named 'OrderAdmin' is applied to the supplier, 'Producer of Fruit'.
 
 ![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/enterprise-fee.png)
 
 {% hint style="warning" %}
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](../enterprise-fees.md) was created.
+This fee will be applied to all of 'Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](../enterprise-fees.md) was created.
 {% endhint %}
 
 ### 3) Outgoing Products
 
-Here you can select one or more hub-distributors.  All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.\
+Here you can select one or more hub-distributors. All hubs chosen to be a distributor in this order cycle will have an open shop front for the duration of the order cycle.\
 In a **simple model**, only one hub is listed as the sole distributor for the order cycle. Select the hub, and check the box 'Select all' to add all incoming products to the shop front. \
-For more flexibility, the same order cycle may have **multiple hub distributors**.  In this case you may wish to select a different subset of the available incoming products for each distributor, and/or, add different delivery dates for each.
+For more flexibility, the same order cycle may have **multiple hub distributors**.  In this case you may wish to select a different subset of the available incoming products for each distributor, and/or add different delivery dates for each.
 
 ![](../../../.gitbook/assets/oc3.jpg)
 
-The **tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
+The **Tags** column is where you can tag your order cycles to customise whether they are visible/invisible to certain customers. See [tags and tag rules](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) for more information.
 
-The **‘ready for (ie Date/Time)’ (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suites them best.
+The **‘Ready for (i.e. Date/Time)’ (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather than in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suits them best.
 
 ![](../../../.gitbook/assets/multipleoc3.jpg)
 
 {% hint style="info" %}
-If operate with a continuously open shop front (ie. you set your order cycle close date for more than 3 months in advance) then the text blue 'Ready For' box on your shop front will read 'Orders are currently open'
+If you operate with a continuously open shop front (i.e. you set your 'order cycle close date' further than 3 months away) then the blue 'Ready For' text box on your shop front (shown in above screenshot) will read 'Orders are currently open'.
 {% endhint %}
 
 The note is also shown at check out, when the customer selects their shipping method (see below) and is included in the order confirmation email.
@@ -111,14 +111,14 @@ For complex models, the coordinator may wish to add different fees to all produc
 
 Click **Save** to schedule the order cycle. If the opening date has already passed, your shop is instantly open! If you are not ready to open right away, enter dates in the future, which you can change later.&#x20;
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
+For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates to make the process quicker. Click the button with two sheets of paper to the right of the table as highlighted below:
 
 ![](../../../.gitbook/assets/occpy.jpg)
 
 Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
 
 {% hint style="warning" %}
-Re opening an order cycle to re open a shopfront can cause confusion at customer checkout, see the warning shown below. For periodically opening shopfronts, duplicate or create new order cycles each time you open the shop rather than editing the open and close dates of one order cycle.
+Re-opening an order cycle to re-open a shopfront can cause confusion at customer checkout, see the warning shown below. For periodically opening shopfronts, duplicate or create new order cycles each time you open the shop rather than editing the open and close dates of one order cycle.
 {% endhint %}
 
 Customers will be advised when they have already ordered in an order cycle, even if the order cycle was closed for some time before being reopened:
