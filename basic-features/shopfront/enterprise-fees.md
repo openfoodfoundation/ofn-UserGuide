@@ -17,7 +17,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 ![](<../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
-**2)** Cliquez sur "**Créer une commission**". Vous êtes redirigez vers la page suivante :&#x20;
+**2)** Cliquez sur "**Créer une commission**". Vous êtes redirigé·e vers la page suivante :&#x20;
 
 ![](<../../.gitbook/assets/image (46) (1).png>)
 
@@ -31,7 +31,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **Calculateur :** La marge peut être calculée de différentes manières. Sélectionnez [le calculateur](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur) qui s'applique le mieux.
 
-Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été créée, vous pouvez indiquer les montants nécessaires au calcul de la marge dans la colonne "Montant pour calculs".
+**Pour faire apparaître les champs de valeurs, cliquez sur "Mettre à jour"**. Vous pouvez maintenant indiquer les montants nécessaires au calcul de la marge dans la colonne **"Montant pour calculs"**.
 
 ![](<../../.gitbook/assets/image (84) (1) (1) (1) (1).png>)
 
@@ -44,6 +44,10 @@ Pour finaliser, cliquez sur "Mettre à jour". Une fois que la marge a été cré
 **Poids (au kg)** – Cette marge/commission correspond à un montant fixe par kg commandé. Elle _s'applique uniquement à la somme des produits vendus par kg_. Elle ne s'appliquera donc pas aux produits vendus à la pièce par exemple.
 
 **Montant fixe par commande** – La marge/commission correspond à un montant fixe pris pour l'ensemble de la commande, quelle que soit sa taille ou le nombre d'articles commandés.
+
+{% hint style="info" %}
+Pour reporter parfaitement les frais Stripe il faudrait pouvoir cumuler les calculateurs "Montant fixe par commande" et "Pourcentage net", ce qui n'est pas possible à date sur le logiciel. Une demande d'évolution est en cours.
+{% endhint %}
 
 **Montant variable selon nb article** – La marge/commission correspond à un montant donné par commande, mais qui varie selon le nombre d'articles commandés. Il peut s'agir par exemple d'une remise promotionnelle pour des achats en grosses quantités, "si l'acheteur commande plus de X articles les frais de gestion passent de Y à Z euros".
 

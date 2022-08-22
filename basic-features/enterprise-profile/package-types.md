@@ -2,7 +2,7 @@
 
 Lors de votre première connexion à l'interface d'administration, vous devrez choisir le type de profil correspondant à votre situation. **Sans cette étape, la création de votre entreprise ne sera pas finalisée et votre entreprise restera invisible sur la carte.** Pour accéder à l'interface d'administration, assurez-vous d'être connecté(e) à la plateforme puis cliquez sur l'icone "Profil" en haut à droite, puis "Administration" :&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-08-11 at 23.04.08 (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-11 at 23.04.08.png>)
 
 Une fois sur l'interface administration, vous êtes invité(e) à choisir un type de profil correspondant à l'entreprise créée. En fonction de ce choix, les menus vous permettant d'affiner votre profil et d'accéder aux fonctionnalités dont vous avez besoin seront rendus accessibles sur la [page des paramètres de votre entreprise.](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings)&#x20;
 

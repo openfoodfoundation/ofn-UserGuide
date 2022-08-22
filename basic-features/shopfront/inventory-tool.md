@@ -20,8 +20,8 @@ Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfi
 
 Vous avez deux options :&#x20;
 
-1. Les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue boutique avant de pouvoir être ajoutés à vos cycle de vente. Quand vous créerez un cycle de vente, vous ne verrez dans les produits "entrants" que les produits préalablement ajoutés à votre catalogue boutique.&#x20;
-2. Les produits ajoutés par vos fournisseurs peuvent être ajoutés à votre boutique en ligne sans que vous n'ayez à les ajouter au préalable dans votre catalogue boutique. Quand vous créerez un cycle de vente, vous verrez dans les produits "entrants" l'ensemble des produits des producteurs sélectionnés. Bien sûr, si vous avez modifié dans votre catalogue boutiques les prix ou stock de certains de ces produits, ce sont bien ces informations là qui seront affichées dans votre boutique. Si vous ne pensez pas utiliser le catalogue, sélectionnez cette option recommandée.&#x20;
+* **Option recommandée :** Les produits ajoutés par vos fournisseurs peuvent être ajoutés à votre boutique en ligne sans que vous n'ayez à les ajouter au préalable dans votre catalogue boutique. Quand vous créerez un cycle de vente, vous verrez dans les produits "entrants" l'ensemble des produits des producteurs sélectionnés. Bien sûr, si vous avez modifié dans votre catalogue boutiques les prix ou stock de certains de ces produits, ce sont bien ces informations là qui seront affichées dans votre boutique. **Si vous ne pensez pas utiliser le catalogue boutique, sélectionnez cette option recommandée.**&#x20;
+* Les nouveaux produits ajoutés par vos fournisseurs doivent être préalablement ajoutés à votre catalogue boutique avant de pouvoir être ajoutés à vos cycle de vente. Quand vous créerez un cycle de vente, vous ne verrez dans les produits "entrants" que les produits préalablement ajoutés à votre catalogue boutique.&#x20;
 
 ## Accéder au catalogue boutique
 
