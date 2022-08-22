@@ -18,6 +18,7 @@
 \- Open Food Network (Belgique) : [https://www.openfoodnetwork.be](https://www.openfoodnetwork.be)\
 \- CoopCircuits (France) : [https://www.coopcircuits.fr/](https://www.coopcircuits.fr/)\
 \- Open Food Network (Canada) : [https://openfoodnetwork.ca/](https://openfoodnetwork.ca/)
+\- Open Food Suisse  : [https://www.openfoodsuisse.ch/](https://www.openfoodsuisse.ch)
 
 ## Dans les grandes lignes
 
