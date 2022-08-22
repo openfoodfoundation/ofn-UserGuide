@@ -7,17 +7,18 @@ Si vous ne souhaitez pas que votre boutique soit visible pour le public, ou si v
 
 ## Rendre votre boutique invisible du grand public
 
-Dans les [paramètres du profil](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings), sous "informations de base", vous pouvez cocher le bouton "invisible"
+Dans l'onglet Entreprises, cliquez sur les Paramètres de votre entreprise. Puis, dans l'onglet "Informations de base", au niveau du choix "Apparaît sur la plateforme", vous pouvez choisir entre :
 
-![](<../../.gitbook/assets/image (78) (1).png>)
+* &#x20;"**Invisible**" : l'entreprise sera invisible sur la carte dans la liste des producteurs, mais apparaîtra encore dans les profils des boutiques qui la fournissent
+*   "**Masquer toutes les références**" : l'entreprise sera complètement invisible. Votre boutique sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre boutique n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande.&#x20;
 
-Votre boutique sera masquée dans toutes les recherches, à la fois sur la plateforme, et dans les moteurs de recherche du web. Cela signifie que sur la plateforme, votre boutique n'apparaitra ni dans le menu "boutiques", ni sur la carte. Cependant, l'accès à la boutique n'est pas restreint, dans le sens où toute personne en possession de l'URL de la boutique pourra y accéder et passer commande.&#x20;
+    Le bénéfices de cette option, est que vous pouvez inviter (par email par exemple), vos clients en leur envoyant le lien URL direct de votre entreprise.
 
-Le bénéfices de cette option, est que vous pouvez inviter (par email par exemple), vos clients en leur envoyant le lien URL direct de votre entreprise.
+    Cela implique que :\
+    &#x20;\- si un des destinataire des mailings via lesquels vous partager le lien de la boutique le transfère à une autre personne, cette personne pourra passer commande.\
+    \- si vous voulez éviter des commandes de personnes non-membres, il vous faudra vérifier que les commandes sont bien passées uniquement par des membres, et gérer les cas éventuels de commandes autres "manuellement", à posteriori.
 
-Cela implique que :\
-&#x20;\- si un des destinataire des mailings via lesquels vous partager le lien de la boutique le transfère à une autre personne, cette personne pourra passer commande.\
-\- si vous voulez éviter des commandes de personnes non-membres, il vous faudra vérifier que les commandes sont bien passées uniquement par des membres, et gérer les cas éventuels de commandes autres "manuellement", à posteriori.
+![](<../../.gitbook/assets/Screen Shot 2022-08-11 at 15.57.21.png>)
 
 {% hint style="info" %}
 De cette façon les personnes qui ne vous connaissent pas ne pourront pas vous découvrir en recherchant sur la carte ou dans la liste des boutiques. Si vous avez déjà trop d'acheteurs, c'est une bonne chose. Sinon, vous vous privez potentiellement d'une source de nouveaux acheteurs / membres.
