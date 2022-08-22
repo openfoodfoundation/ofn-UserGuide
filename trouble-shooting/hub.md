@@ -28,11 +28,11 @@ Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'
 
 **Je vends déjà mes produits via une boutique en ligne que j'ai créé.**
 
-Vous pouvez créer un[ profil simple ](broken-reference)qui fera le lien avec votre boutique existante.
+Vous pouvez créer un[ profil simple ](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/profile-only-quick-setup-guide)qui fera le lien avec votre boutique existante.
 
 **Je suis un grossiste.**
 
-Vous faites partie de ce qu'on appelle un "hub". Rendez-vous [ici](broken-reference) pour la création de votre profil.
+Vous faites partie de ce qu'on appelle un "hub". Rendez-vous [ici](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/multi-producers-shop-hub-quick-setup-guide) pour la création de votre profil.
 
 ## Le hub en général
 
@@ -60,7 +60,7 @@ Chaque hub est différent et le temps d'installation va dépendre de la "jeuness
 
 **Quelle est la différence entre un profil et une boutique hub ?**
 
-Rendez-vous sur [cette page](broken-reference).
+Rendez-vous sur [cette page](https://guide.openfoodnetwork.org/v/fr/your-quick-start-on-ofn-given-who-you-are).
 
 **Peut-on intégrer la boutique dans un site internet existant ?**
 
@@ -77,7 +77,7 @@ Vérifiez les points suivants :
 
 **Je souhaite que seuls mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
-Oui, vous pouvez décider que votre boutique est privée. Pour cela, rendez-vous sur [cette page](broken-reference).
+Oui, vous pouvez décider que votre boutique est [privée](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront). Pour cela, rendez-vous sur cette page.
 
 **Peut-on gérer l'ordre d'apparition de mes produits sur ma boutique en ligne ?**
 
@@ -91,11 +91,11 @@ Vous pouvez ajouter un message d'accueil à votre boutique.&#x20;
 
 **Comment fonctionne le paiement ?**
 
-Rendez-vous sur [cette page](broken-reference).
+Vous pouvez définir les méthodes de paiement que vous souhaitez. Rendez-vous sur [cette page](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods).
 
 **Est-ce que je peux fixer un prix minimal de commande sur ma boutique ?**
 
-La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](broken-reference).
+La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe en dessous d'un certain montant de commande, ce qui vous assurera un montant minimal. Rendez-vous sur [cette page](https://guide.openfoodnetwork.org/v/fr/basic-features/).
 
 **Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 

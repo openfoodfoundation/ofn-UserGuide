@@ -2,11 +2,15 @@
 
 **Qu'est-ce que c'est ?** C'est une manière d'avoir un profil collectif, représenté via une cartographie spécifique rassemblant l'ensemble des membres de votre collectif, sur la plateforme locale Open Food Network. Un groupe peut être par exemple un réseau de producteurs sur un territoire, un réseau de producteurs certifiés, l'écosystème d'un hub complexe avec plusieurs distributeurs et de nombreux producteurs, etc.
 
-**Cela ressemble à quoi ?** Vous pouvez voir les groupes existants en cliquant sur le menu "groupes" depuis la vue visiteur de votre plateforme Open Food Network.
+**Cela ressemble à quoi ?**&#x20;
 
-![](<../../.gitbook/assets/image (85).png>)
+La page d'un groupe présente un onglet carte qui présente tous les producteurs et boutiques, un onglet "A propos" pour décrire votre groupe, ainsi que deux onglets présentant les listes de producteurs et de boutiques.
 
-**Comment créer une page groupe ?** Il est nécessaire de nous contacter pour la mise en place de votre groupe, cette fonctionnalité nécessite un paramétrage par une personne autorisée qui créera le groupe pour vous et vous nommera administrateur du groupe.
+![](<../../.gitbook/assets/Screen Shot 2022-08-11 at 22.50.07.png>)
+
+Vous pouvez voir les groupes existants en cliquant sur le lien "Groupes" dans le pied-de-page du site, ou via ce lien : [https://coopcircuits.fr/groups](https://coopcircuits.fr/groups)
+
+**Comment créer une page groupe ?** Il est nécessaire de **nous contacter** pour la mise en place de votre groupe, cette fonctionnalité nécessite un paramétrage par une personne autorisée qui créera le groupe pour vous et vous nommera administrateur du groupe.
 
 ## Gérer une page groupe
 
