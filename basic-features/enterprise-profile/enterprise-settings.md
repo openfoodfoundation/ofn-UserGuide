@@ -216,6 +216,10 @@ Ce menu n'est pas accessible si vous avez mis en place une boutique privée (par
 
 **Notifications :** L'email de l'utilisateur vers qui toutes les correspondances seront redirigées (confirmation de commandes,...). Seul le gestionnaire principal peut désigner l'utilisateur recevant les notifications, parmi les gestionnaires actuels.
 
+{% hint style="info" %}
+Il n'est pour l'instant pas possible de désactiver les notifications, mais la demande a été déposée. En attendant, si vous ne souhaitez pas recevoir de notifications par e-mail, vous pouvez remplacer votre adresse mail par un e-mail que vous n'utilisez pas.
+{% endhint %}
+
 **Gestionnaires :** Ajoutez d'autres utilisateurs en tant que gestionnaires de l'entreprise. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme. Si ce n'est pas le cas, vous devrez les inviter (cf menu ci-dessous).
 
 **Inviter un gestionnaire :** Si vous voulez ajouter un gestionnaire mais que vous ne trouvez pas d'utilisateur correspondant à l'adresse email de la personne concernée, vous pouvez l'inviter comme gestionnaire. La personne recevra alors un email avec un lien de confirmation qui la renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Dès le compte créé elle aura accès à la plateforme comme gestionnaire de l'entreprise concernée.
