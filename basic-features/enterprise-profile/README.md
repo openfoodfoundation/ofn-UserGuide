@@ -1,6 +1,6 @@
-# Profil de l'entreprise
+# Type d'entreprise
 
-Une fois que vous avez créé votre compte Entreprise, vous devez vous connecter à [votre tableau de bord d'administration](https://guide.openfoodnetwork.org/v/fr/basic-features/dashboard) pour continuer à configurer votre profil Entreprise.&#x20;
+Une fois que vous avez créé votre compte Entreprise, vous devez vous connecter à [votre tableau de bord d'administration](https://guide.openfoodnetwork.org/v/fr/basic-features/dashboard) pour continuer à configurer votre Entreprise.&#x20;
 
 Il vous sera d'abord demandé de choisir le [type de profil ](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types)qui représente le mieux votre modèle d'entreprise.&#x20;
 
