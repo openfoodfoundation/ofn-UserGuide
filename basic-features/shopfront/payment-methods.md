@@ -54,9 +54,9 @@ Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openf
 Les frais prélevés par Stripe sont de 1,4% + 0,25 cts par transaction. De temps en temps, Stripe peut modifier cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.
 {% endhint %}
 
-**Connecter avec Stripe**
+**Configurer les paiements CB avec Stripe**
 
-Avant d'utiliser Stripe, il faut connecter votre compte marchand Stripe à votre entreprise sur Open Food Network. Cliquez sur ce bouton (menu Entreprises > Gérer > Méthodes de paiements) :&#x20;
+Il faut d'abord connecter votre entreprise à un compte marchand Stripe. Si vous n'avez pas encore de compte, il faudra le créer. Pour commencer, cliquez sur le bouton "Connecter avec Stripe" dans l'onglet Entreprises > Paramètres >  Méthodes de paiements.
 
 ![](<../../.gitbook/assets/image (69) (1) (1).png>)
 
@@ -64,13 +64,17 @@ Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe
 
 **Créer une nouvelle méthode de paiement**
 
-Une fois connecté avec Stripe, créer votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
+Une fois connecté avec Stripe, créez votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
 
 **Stripe Account Owner :** sélectionnez l'entreprise avec laquelle vous avez créé le compte Stripe ou réalisé la connexion.
 
+{% hint style="info" %}
 Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
 
-![](<../../.gitbook/assets/image (85) (1) (1).png>)
+<img src="../../.gitbook/assets/image (85) (1) (1).png" alt="" data-size="original">
+{% endhint %}
+
+
 
 #### Le paiement via Stripe pour les acheteurs
 
