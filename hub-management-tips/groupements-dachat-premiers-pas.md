@@ -1,4 +1,4 @@
-# Groupements d'achat : premier pas
+# Groupements d'achat : premiers pas
 
 ## 1. Créez votre boutique multi-producteurs
 
@@ -67,19 +67,33 @@ Vous pouvez suivre les étapes présentées [ici](https://guide.openfoodnetwork.
 
 * Coordinateur : choisissez votre GA
 * Distributeur (étape 3) : choisissez votre GA
+* Pensez à cliquer sur "Paramétrages avancés" > Notifications automatiques, si vous souhaitez que les producteurs reçoivent automatiquement un mail avec le récap' de commandes à la fin du cycle de vente. Voici à quoi ce mail ressemble &#x20;
 
-Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente.&#x20;
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.56.06.png" alt=""><figcaption></figcaption></figure>
 
-Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2.
+* Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente. Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2. Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit.
 
-Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit.
+## 5. Paramétrez votre boutique
+
+Rendez-vous sur la page de votre boutique (cliquez sur l'url comme vu dans le 1). (Si certains produits n'apparaissent pas dans la boutique, c'est probablement que leur stock est à zéro !)
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.54.38.png" alt=""><figcaption></figcaption></figure>
 
 
 
-## 5. Testez une première commande
 
-* Rendez-vous sur la page de votre boutique (cliquez sur l'url comme vu dans le 1)
-* Ajoutez un ou plusieurs produits au panier, entrez de fausses informations clients, et vérifiez que vous retrouvez bien vos méthodes de livraison et méthodes de paiement, comme par exemple : &#x20;
+
+Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles :
+
+* Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs là.
+* Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et dans ce cas vous pouvez choisir l'ordre d'affichage
+* Vous pouvez choisir de limiter&#x20;
+
+
+
+## 6. Testez une première commande
+
+* Ajoutez un ou plusieurs produits au panier, entre les informations clients, et vérifiez que vous retrouvez bien vos méthodes de livraison et méthodes de paiement, comme par exemple : &#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.14.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,13 +102,14 @@ Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par pro
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.16.20.png" alt=""><figcaption></figcaption></figure>
 
-* Pensez bien à annuler la commande, en cliquant sur le bouton "Actions" > Annuler la commande.
+* Pensez bien à annuler la commande (car le décompte des trois mois gratuits démarre à la première commande) en cliquant sur le bouton "Actions" > Annuler la commande&#x20;
+* Vous pouvez également consulter l'[onglet "Rapports"](https://guide.openfoodnetwork.org/v/fr/basic-features/reports?q=rapports), qui propose des rapports utiles, notamment pour préparer les commandes.&#x20;
 
 
 
-## 6. Bien joué !&#x20;
+## Tadaaaaam !&#x20;
 
-Et voilà, votre boutique est en place et prête à vendre. Vous pouvez rebasculer en mode "visible", la laisser cachée et ne partager l'url qu'à vos contacts, ou restreindre l'accès aux ventes à votre liste de membres (voir ces différentes[ modalités ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront)).
+Et voilà, votre boutique est en place et prête à vendre. Vous pouvez : la laisser cachée et ne partager l'url qu'à vos contacts, ou rebasculer en mode "visible" et restreindre l'accès aux ventes à votre liste de membres (voir ces différentes[ modalités ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront)).
 
-Pour toute question, n'hésitez-pas à parcourir dans un premier temps le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique - qui vous permettra sûrement de trouver des réponses à vos questions ;)
+Pour toute question, n'hésitez-pas à parcourir dans un premier temps le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique - qui vous permettra sûrement de trouver des réponses à vos interrogations ;)
 

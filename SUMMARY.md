@@ -53,7 +53,7 @@
   * [Rapports (export de données)](basic-features/reports/README.md)
   * [Groupes](basic-features/groups/README.md)
 * [Conseils aux gestionnaires de boutique](hub-management-tips/README.md)
-  * [Groupements d'achat : premier pas](hub-management-tips/groupements-dachat-premier-pas.md)
+  * [Groupements d'achat : premiers pas](hub-management-tips/groupements-dachat-premiers-pas.md)
   * [Tutoriels](hub-management-tips/how-tos/README.md)
     * [Supprimer une entreprise](hub-management-tips/how-tos/delete-an-enterprise.md)
     * [Horaires d'achat spéciaux pour les groupes prioritaires](hub-management-tips/how-tos/early-shopping-hour-for-priority-groups.md)
