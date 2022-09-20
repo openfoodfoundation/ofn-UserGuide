@@ -83,11 +83,11 @@ Rendez-vous sur la page de votre boutique (cliquez sur l'url comme vu dans le 1)
 
 
 
-Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles :
+Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles (voir les explications [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#preferences-boutique)) :
 
 * Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs là.
 * Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et dans ce cas vous pouvez choisir l'ordre d'affichage
-* Vous pouvez choisir de limiter&#x20;
+* Vous pouvez choisir de limiter l'accès à vos ventes à la liste d'acheteurs présents dans votre onglet "Acheteurs"
 
 
 
