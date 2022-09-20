@@ -8,21 +8,17 @@ description: >-
 
 ## Accédez aux paramètres de votre entreprise
 
-1. Une fois connecté, et en accédant à votre tableau de bord d'administration, sélectionnez "Entreprises" sur le menu horizontal bleu.
+1. Une fois connecté, et en accédant à votre tableau de bord d'administration, sélectionnez "Entreprises" sur le menu principal.
 2. Sélectionnez "Paramètres" à côté de votre entreprise.
 
-![](<../../.gitbook/assets/image (35) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.05 (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
-Pour sauvegarder un changement de type de profil, n'oubliez pas de cliquer sur "sauvegarder" en bas de la fenêtre de droite.
-{% endhint %}
-
-Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour un Hub :&#x20;
+Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour une boutique multi-producteurs (hub) :&#x20;
 
 ![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 {% hint style="danger" %}
-Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page. Nous recommandons d'enregistrer chaque page avant de la modifier.
+Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page.&#x20;
 {% endhint %}
 
 ## Détails des paramètres
@@ -109,7 +105,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 {% endtab %}
 {% endtabs %}
 
-**CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en téléchargeant un fichier .pdf ici :&#x20;
+**CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en chargeant un fichier .pdf ici :&#x20;
 
 ![](<../../.gitbook/assets/image (54) (1) (1) (1) (1) (1).png>)
 
@@ -124,13 +120,11 @@ Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la
 **Promo image :** Votre bannière doit mesurer 1200 x 260, toute image non conforme sera rognée.\
 &#x20;La bannière est affichée en haut de la page de votre entreprise et dans sa version condensée (pop-up).
 
-Un exemple de profil en version condensée (depuis la page "producteurs") :&#x20;
+Un exemple :&#x20;
 
-![](<../../.gitbook/assets/image (38) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 18.39.10.png" alt=""><figcaption></figcaption></figure>
 
-Et en version complète (depuis la carte, ou les pages boutiques):
 
-![](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
 
 ### Propriétés / Labels
 
@@ -176,15 +170,15 @@ Ici sont gérés[ les Tags ](https://guide.openfoodnetwork.org/v/fr/basic-featur
 Visible uniquement pour les entreprises enregistrées comme boutique et Hub.
 {% endhint %}
 
-**Message d'accueil** : Ce message est facultatif. Il sera affiché sur votre boutique dans l'onglet "accueil".
+**Message d'accueil (quand les ventes sont ouvertes)** : Ce message sera affiché sur votre boutique dans l'onglet "accueil".
 
-C'est l'endroit idéal pour communiquer des informations importantes comme des commandes spéciales, des informations sur vos cycles de vente, des actualités ou encore rappeler un mode opératoire !
+C'est l'endroit idéal pour communiquer des informations importantes comme votre mode de fonctionnement, des informations sur vos cycles de vente, des actualités...
 
-![](<../../.gitbook/assets/image (62) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 18.37.09.png" alt=""><figcaption></figcaption></figure>
 
-**Message d'accueil boutique fermée** : Ce message s'affiche lorsque votre boutique est fermée. C'est l'occasion d'indiquer la façon dont votre boutique est organisée et d'indiquer la prochaine date de réouverture !
+**Message d'accueil quand les ventes sont fermées** : Ce message s'affiche lorsqu'il n'y a pas de cycle de vente actif. C'est l'occasion d'indiquer la façon dont votre boutique est organisée et d'indiquer la prochaine date de réouverture !
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 18.32.20.png" alt=""><figcaption></figcaption></figure>
 
 **Ordre d'affichage sur la boutique en ligne :** Par défaut, les produits sont rangés par ordre alphabétique dans votre boutique. Vous pouvez choisir d'afficher [les produits](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products) par catégorie ou par producteurs selon un ordre que vous pouvez définir.&#x20;
 
@@ -212,14 +206,26 @@ Ce menu n'est pas accessible si vous avez mis en place une boutique privée (par
 
 ### Gestionnaires
 
-**Gestionnaire principal :** L'email de l'utilisateur principal en charge de gérer l'activité de l'entreprise sur la plateforme chez vous. Seul le gestionnaire principal peut désigner un autre gestionnaire principal, parmi les gestionnaires actuels.
+**Gestionnaire principal :** L'email de l'utilisateur principal en charge de gérer l'activité de l'entreprise. Seul le gestionnaire principal peut désigner un autre gestionnaire principal, parmi les gestionnaires actuels.
 
 **Notifications :** L'email de l'utilisateur vers qui toutes les correspondances seront redirigées (confirmation de commandes,...). Seul le gestionnaire principal peut désigner l'utilisateur recevant les notifications, parmi les gestionnaires actuels.
+
+{% hint style="warning" %}
+Avant de pouvoir entrer un mail dans le champ "Notifications", il faut entrer cet email dans le champ "Gestionnaires".
+{% endhint %}
 
 {% hint style="info" %}
 Il n'est pour l'instant pas possible de désactiver les notifications, mais la demande a été déposée. En attendant, si vous ne souhaitez pas recevoir de notifications par e-mail, vous pouvez remplacer votre adresse mail par un e-mail que vous n'utilisez pas.
 {% endhint %}
 
-**Gestionnaires :** Ajoutez d'autres utilisateurs en tant que gestionnaires de l'entreprise. Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme. Si ce n'est pas le cas, vous devrez les inviter (cf menu ci-dessous).
+**Gestionnaires :** Ajoutez d'autres utilisateurs en tant que gestionnaires de l'entreprise. Ils auront aussi accès aux paramètres de base de l'entreprise, au catalogue produits et aux cycles de ventes. Vous pourrez co-gérer l'entreprise.&#x20;
 
-**Inviter un gestionnaire :** Si vous voulez ajouter un gestionnaire mais que vous ne trouvez pas d'utilisateur correspondant à l'adresse email de la personne concernée, vous pouvez l'inviter comme gestionnaire. La personne recevra alors un email avec un lien de confirmation qui la renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Dès le compte créé elle aura accès à la plateforme comme gestionnaire de l'entreprise concernée.
+{% hint style="warning" %}
+Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme. Si ce n'est pas le cas, vous devez d'abord les inviter (voir point suivant).
+{% endhint %}
+
+**Inviter un gestionnaire :** Cliquez sur le bouton "Ajouter un nouvel utilisateur", entrez l'email de la personne à inviter, et cliquez sur "Inviter"
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 18.53.21.png" alt=""><figcaption></figcaption></figure>
+
+Un email lui est automatiquement envoyé, contenant un lien de confirmation. Tant que ce lien n'a pas été ouvert, l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 18.56.51.png>)apparaît à côté de l'email de l'utilisateur. Dès que l'utilisateur clique sur ce lien, cela le renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Quand son compte est créé, vous verrez apparaître l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 19.00.08.png>) : l'utilisateur est bien devenu co-gestionnaire de l'entreprise concernée.

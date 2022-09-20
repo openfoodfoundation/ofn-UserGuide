@@ -21,7 +21,7 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.20.png" alt=""><figcaption></figcaption></figure>
 
-Votre boutique devrait ressembler à ceci, un peu vide pour l'instant !&#x20;
+Votre boutique devrait ressembler à ceci... un peu vide pour l'instant !&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.55.52.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,22 +74,19 @@ Vous pouvez suivre les étapes présentées [ici](https://guide.openfoodnetwork.
 * Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente. Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2. Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit.
 
 {% hint style="info" %}
-Il n'est pour l'instant pas possible de répéter un même cycle de vente de manière régulière et automatisée (mais la demande a été déposée). Cependant vous pouvez [dupliquer un cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs#4.-liste-des-cycles-de-vente) pour gagner du temps.
+La fonctionnalité de pouvoir répéter un même cycle de vente de manière automatique est en cours d'étude. N'hésitez-pas à nous écrire si vous avez aussi ce besoin (ou d'autres propositions d'améliorations), cela permettra d'appuyer la demande. Pour l'heure, nous vous conseillons de [dupliquer un cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs#4.-liste-des-cycles-de-vente) pour gagner du temps.
 {% endhint %}
 
-## 5. Paramétrez votre boutique
-
-Rendez-vous sur la page de votre boutique (cliquez sur l'url comme vu dans le 1). (Si certains produits n'apparaissent pas dans la boutique, c'est probablement que leur stock est à zéro !)
+Rendez-vous sur la page de votre boutique pour vous assurer que le cycle de vente est bien ouvert (cliquez sur l'url comme vu dans le 1). (Si certains produits n'apparaissent pas dans la boutique, c'est probablement que leur stock est à zéro !)
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.54.38.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
+## 5. Paramétrez votre boutique
 
 Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles (voir les explications [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#preferences-boutique)) :
 
-* Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs là.
+* Ajouter des messages d'accueil quand les ventes sont ouvertes ou fermées (dans ce cas, vous pouvez par exemple inviter les utilisateurs à s'abonner à votre newsletter - si vous en avez une)
+* Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs-là
 * Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et dans ce cas vous pouvez choisir l'ordre d'affichage
 * Vous pouvez choisir de limiter l'accès à vos ventes à la liste d'acheteurs présents dans votre onglet "Acheteurs"
 
