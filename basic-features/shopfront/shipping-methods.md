@@ -4,60 +4,42 @@
 La définition d'au moins une méthode de livraison est obligatoire avant l'ouverture d'une boutique !
 {% endhint %}
 
-## Définir une méthode de livraison
+****
 
-**1)** **Allez sur la page méthodes de livraison**
+Pour définir une méthode de livraison, dans votre espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis sur l'onglet "**Méthodes de livraison"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 
-En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de livraison** dans le menu vertical de gauche :
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.00.25.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (73) (1).png>)
+Vous serez redirigé sur la page suivante :
 
-**2)** Cliquez sur **créer une nouvelle méthode de livraison.** Vous serez redirigé sur cette page :&#x20;
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.05.58.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (51) (1) (1) (1).png>)
+**1) Nom :** Choisissez un nom pour la méthode de livraison. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. **Le nom de la méthode est le seul champ obligatoire.**
 
-**3)** Cochez la case correspondant à votre entreprise dans l'encart à droite intitulé "Hubs". Cela permettra à la méthode de bien s'appliquer à votre entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
+**Toutes les autres options peuvent être laissées par défaut :**
 
-**4) Nom :** Choisissez un nom pour la méthode. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. Exemple :&#x20;
+_**2) Description :** permet d'ajouter des détails supplémentaires, comme l'adresse précise du lieu de retrait par exemple. Ces détails seront également affichés aux clients._
 
-**5) Description :** Ici vous pouvez ajouter des détails supplémentaires, comme l'adress précise du lieu de retrait par exemple. Ces détails seront visibles pour les clients en gris à côté du nom (cf. capture ci-dessus).
+_**3) Afficher :** cette option est utile seulement si vous ne souhaitez plus afficher la méthode de livraison à l'utilisateur·ice_
 
-**6) Catégorie :** Est-ce une livraison (à l'adresse de l'acheteur) ou un retrait (l'acheteur doit se déplacer pour aller retirer sa commande quelque part) ?
+_**4) Catégorie :** choisissez si c'est une livraison (produits livrés à l'adresse de l'acheteur·euse) ou un retrait (l'acheteur·euse doit se déplacer pour aller retirer sa commande quelque part)_&#x20;
 
-7\) **Tags** : Vous pouvez renseigner un [tag ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)si vous souhaitez mettre à disposition des services différents en fonction des acheteurs.
+_**5) Tags:** Vous pouvez renseigner un_ [_tag_ ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)_si vous souhaitez réserver cette méthode de livraison à certain·e·s acheteur·euses, auxquel·les vous aurez aussi appliqué un tag_&#x20;
 
-**7) Calculateur :** Sélectionnez comment les frais de livraisons vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur).
+_**6) Calculateur :** à utiliser si vous souhaitez ajouter des frais de livraisons qui vont s'appliquer sur la commande. Ces frais sont à zéro par défaut. Voir plus de détail sur les_ [_options du calculateur_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur)_._
 
-**8) Conditions de transport :** Quelles conditions spécifiques de transport sont associées à cette méthode de livraison ?
+_**8) Conditions de transport :** Quelles conditions spécifiques de transport sont associées à cette méthode de livraison ?_
 
-**9) Zone :** Sélectionnez la zone appropriée (généralement EU\_VAT).
+_**9) Zone :** Vous pouvez spécifier une zone géographique (généralement EU\_VAT = Europe TVA)._
 
 
 
-## Le calculateur
+**Cliquez sur le bouton "Créer" en bas de page.** Bien joué, vous avez défini votre première méthode de livraison ! 🎉
 
-![](<../../.gitbook/assets/image (55) (1) (1).png>)
+* Vous pouvez en créer d'autres en cliquant sur le bouton "+ Nouveau"
+* Et vous pouvez retrouver toutes les méthodes créées en cliquant sur le bouton "Retour à la liste des méthodes de livraison".
 
-**Poids (au kg)** – Cette marge/commission correspond à un montant fixe par kg commandé. Elle _s'applique uniquement à la somme des produits vendus par kg_. Elle ne s'appliquera donc pas aux produits vendus à la pièce par exemple.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.25.09.png" alt=""><figcaption></figcaption></figure>
 
-**Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
-**Montant fixe par commande** – La marge/commission correspond à un montant fixe pris pour l'ensemble de la commande, quelle que soit sa taille ou le nombre d'articles commandés.
 
-**Montant variable selon nb article** – La marge/commission correspond à un montant donné par commande, mais qui varie selon le nombre d'articles commandés. Il peut s'agir par exemple d'une remise promotionnelle pour des achats en grosses quantités, "si l'acheteur commande plus de X articles les frais de gestion passent de Y à Z euros".
-
-* ‘Coût du premier produit’ : Le montant de commission pris au premier article commandé
-* ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
-* 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
-
-![](<../../.gitbook/assets/image (71) (1) (1) (1).png>)
-
-Exemple : Si la commission prise pour le premier article est de 2€, celle de l'article supplémentaire 1 € et le nombre maximum d'article est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le 2ème et 3ème et aucune commission pour les articles 4 et 5.
-
-**Montant fixe par article** – Cette commission est un montant fixe qui s'applique pour chaque article commandé, mais uniquement aux articles vendus à la pièce (et non ceux vendus au poids/volume).
-
-**Montant variable selon total commande** – Cette marge/commission est utilisée pour appliquer une marge réduite à partir du moment où la commande atteint un certain montant.
-
-* ‘Montant minimal’ : Si la commande est en-dessous de ce montant, l'acheteur devra payer le ‘Montant normal'.
-* ‘Montant de la réduction’ : Si la commande est égale ou supérieure au montant minimal, le consommateur devra payer le ‘Montant de la réduction’.
-* 'Devise' : La monnaie utilisée (généralement "EUR").

@@ -6,79 +6,80 @@ La définition d'au moins une méthode de paiement est obligatoire avant l'ouver
 
 ## Définir une méthode de paiement
 
-**1) Allez sur la page méthodes de paiement**
+****
 
-En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **méthodes de paiement** dans le menu vertical de gauche :&#x20;
+Dans l'espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis  sur l'onglet "**Méthodes de paiement"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 
-![](<../../.gitbook/assets/image (50) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.28.46.png" alt=""><figcaption></figcaption></figure>
 
-**2)** Cliquez sur "**En créer une maintenant**".&#x20;
+Vous serez redirigé sur la page suivante :
 
-**3)** Sélectionnez votre entreprise dans la liste des hubs dans l'encart à droite. Cela signifie que la méthode de paiement sera créée pour cette entreprise. **Vous pouvez sélectionner plusieurs entreprises**.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.31.42.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (74) (1) (1).png>)
+**1) Nom :** Choisissez un nom pour la méthode de paiement (par exemple : "chèques ou espèces", ou  "Paiement en ligne par carte bancaire"). Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. ****&#x20;
 
-**4)** **Nom :** Choisissez un nom pour cette méthode de paiement. (par exemple : "Payez par carte de crédit via Paypal"). Ce nom s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
+**Le nom de la méthode est le seul champ obligatoire. Toutes les autres options peuvent être laissées par défaut (pensez tout de même à changer le Fournisseur (point numéro 6) si vous proposez du paiement en ligne) :**&#x20;
 
-**5) Description :** ajoutez les détails associés la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés.
+_**2) Description :** ajoutez les détails associés la méthode de paiement. Par exemple, pour un virement, vous pouvez indiquez les détails du RIB. Cette description s'affichera au moment du paiement pour l'acheteur, ainsi que dans les emails de confirmation qui lui seront envoyés._
 
-Un exemple de message au moment du choix de la méthode de paiement :&#x20;
+_**3) Afficher :** cette option est utile seulement si vous souhaitez masquer cette méthode de paiement à l'utilisateur·ice, mais la garder active pour les achats en back-office_
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
+_**4) Actif :** vous permet de désactiver la méthode de paiement sans la supprimer_
 
-&#x20;**6) Active :** Indiquez si vous souhaitez que cette méthode soit visible et utilisable.
+_**5) Tags :** Utilisez les tags si vous souhaitez restreindre certaines méthodes de paiements à certains types d'acheteurs (voir le détail de la fonctionnalité_ [_ici_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)_)._
 
-**7) Tags :** Utilisez les tags si vous souhaitez rendre certaines méthodes de paiements accessibles ou non pour certains types d'acheteurs (voir le détail de la fonctionnalité [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)).
+_**6)**  **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :_
 
-**8)** **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :
+* _Espèces / chèques / virements / autres (il s'agit de liquide ou chèque ou virement bancaires ou tout autre option ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique)_
+* _PayPal Express_
+* _Stripe_
 
-* Espèces / chèques / virements / autres (il s'agit de liquide ou chèque ou virement bancaires ou tout autre option ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique)
-* PayPal Express
-* Stripe
-
-**9) Calculateur :** Sélectionnez comment les frais éventuels associés à la méthode de paiement vont s'appliquer sur la commande. Notez que ces frais peuvent être équivalent à zéro. Voir ci-dessous les [options du calculateur.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods#le-calculateur)
-
-En cliquant sur **Créer**, la méthode de paiement sera créée et vous aurez de nouveaux champs pour définir les frais associés au calculateur choisi. Ces champs dépendent de la sélection effectuée dans le calculateur. Ainsi, si par la suite vous changez la sélection de calculateur, il faut d'abord sauvegarder votre modification (mettre à jour) et ensuite les champs associés apparaissent.&#x20;
-
-## Les portails de paiement intégrés
+_**7) Calculateur :** à utiliser si vous souhaitez ajouter des frais de livraisons qui vont s'appliquer sur la commande. Ces frais sont à zéro par défaut. Voir plus de détail sur les_ [_options du calculateur_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur)_._
 
 
+
+**Cliquez sur le bouton "Créer" en bas de page.** Bien joué, vous avez défini votre première méthode de paiement ! 🎉
+
+* Vous pouvez en créer d'autres en cliquant sur le bouton "+ Nouveau"
+* Et vous pouvez retrouver toutes les méthodes créées en cliquant sur le bouton "Retour à la liste des méthodes de paiement".
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.50.16.png" alt=""><figcaption></figcaption></figure>
+
+## Proposer le paiement en ligne
+
+Si vous souhaitez proposer à vos client·e·s de payer par carte bancaire lors de la finalisation de la commande en ligne, vous pouvez utiliser les prestataires bancaires Stripe ou Paypal, qui permettent de gérer les transactions bancaires en ligne. Il vous faudra créer un compte chez l'un de ces prestataires :
+
+{% hint style="info" %}
+L'utilisation de ces prestataires bancaires a un coût.
+
+Les frais prélevés par Stripe sont par exemple de 1,4% + 0,25 cts par transaction (de temps en temps, Stripe peut modifier cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.)
+
+Vous pouvez appliquer une commission sur la méthode de paiement si vous souhaitez faire absorber ce coût aux consommateur·ices.
+{% endhint %}
 
 ### Stripe
 
-[Stripe](https://stripe.com/fr) est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme acceptera les paiements par carte bleue également. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte.&#x20;
-
-Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions), Stripe est la seule méthode de paiement en ligne utilisable (en dehors de méthode de paiement ne passant pas par un portail en ligne bien sûr).
-
-{% hint style="info" %}
-Les frais prélevés par Stripe sont de 1,4% + 0,25 cts par transaction. De temps en temps, Stripe peut modifier cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.
-{% endhint %}
+[Stripe](https://stripe.com/fr) est une plateforme de paiement en ligne similaire à PayPal. Cette plateforme accepte les paiements par carte bleue. Contrairement à Paypal, l'acheteur final n'a pas besoin de compte.&#x20;
 
 **Configurer les paiements CB avec Stripe**
 
-Il faut d'abord connecter votre entreprise à un compte marchand Stripe. Si vous n'avez pas encore de compte, il faudra le créer. Pour commencer, cliquez sur le bouton "Connecter avec Stripe" dans l'onglet Entreprises > Paramètres >  Méthodes de paiements.
+Il faut d'abord connecter votre entreprise à un compte marchand Stripe. Si vous n'avez pas encore de compte, il faudra le créer. Pour commencer, cliquez sur le bouton "Connecter avec Stripe" (dans l'onglet Entreprises > Paramètres >  Méthodes de paiements).
 
 ![](<../../.gitbook/assets/image (69) (1) (1).png>)
 
-Vous serez redirigé vers un formulaire : soit vous avez déjà un compte Stripe et il suffit de vous connecter, soit vous devrez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
+Vous serez redirigé vers un formulaire : si vous avez déjà un compte Stripe, il suffit de vous connecter, sinon vous devez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
 **Créer une nouvelle méthode de paiement**
 
-Une fois connecté avec Stripe, créez votre méthode de paiement comme indiqué ci-dessus. Sélectionnez Stripe dans la liste des fournisseurs
-
-**Stripe Account Owner :** sélectionnez l'entreprise avec laquelle vous avez créé le compte Stripe ou réalisé la connexion.
-
-{% hint style="info" %}
-Si vous sélectionnez une entreprise qui n'a pas de compte Stripe connecté, vous aurez le message d'erreur ci-dessous. Le cas échéant, cliquez sur "en connecter un", ou répétez les opérations ci-dessus à partir du bouton "connecter avec stripe"
-
-<img src="../../.gitbook/assets/image (85) (1) (1).png" alt="" data-size="original">
-{% endhint %}
-
-
+Une fois connecté avec Stripe, créez votre méthode de paiement comme indiqué dans la section précédente. Pensez bien à sélectionner Stripe dans la liste des fournisseurs.
 
 #### Le paiement via Stripe pour les acheteurs
 
-Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements (seulement s'ils sont connecté à la plateforme Open Food Network). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une (Profil > Compte).
+Quand les acheteurs paient en ligne via Stripe, il peuvent cocher une case pour que leur carte de crédit soit enregistrée pour leurs prochains paiements (seulement s'ils sont connectés à leur compte). Dans leur profil, ils peuvent également ajouter une carte ou en supprimer une (Profil > Compte).
+
+{% hint style="info" %}
+Si vous souhaitez utiliser la fonctionnalité [d'abonnement](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions), Stripe est la seule méthode de paiement en ligne utilisable
+{% endhint %}
 
 ### PayPal Express
 
