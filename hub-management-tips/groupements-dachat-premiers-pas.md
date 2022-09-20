@@ -73,6 +73,10 @@ Vous pouvez suivre les étapes présentées [ici](https://guide.openfoodnetwork.
 
 * Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente. Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2. Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit.
 
+{% hint style="info" %}
+Il n'est pour l'instant pas possible de répéter un même cycle de vente de manière régulière et automatisée (mais la demande a été déposée). Cependant vous pouvez [dupliquer un cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs#4.-liste-des-cycles-de-vente) pour gagner du temps.
+{% endhint %}
+
 ## 5. Paramétrez votre boutique
 
 Rendez-vous sur la page de votre boutique (cliquez sur l'url comme vu dans le 1). (Si certains produits n'apparaissent pas dans la boutique, c'est probablement que leur stock est à zéro !)
