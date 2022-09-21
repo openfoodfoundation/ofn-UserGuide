@@ -127,6 +127,11 @@ Vous trouverez les explications [ici](https://guide.openfoodnetwork.org/v/fr/bas
 * Pensez bien à annuler la commande en cliquant sur le bouton "Actions" > Annuler la commande&#x20;
 * Vous pouvez également consulter l'[onglet "Rapports"](https://guide.openfoodnetwork.org/v/fr/basic-features/reports?q=rapports), qui propose des rapports utiles, notamment pour préparer les commandes.&#x20;
 
+{% hint style="info" %}
+Du côté des fournisseurs, les commandes passées à travers une boutique multi-producteurs n'apparaissent que dans les rapports (et pas dans l'onglet "Commandes"). Pour cette raison, il est important de bien les notifier par email à la fin du cycle de vente (dans un cycle de vente, cliquer sur "Notifier les producteurs" ou cochez Paramètres avancés > Notifications automatiques). \
+Une demande de développement est déjà déposée pour que les fournisseurs aient également accès aux commandes dans l'onglet "Commandes".
+{% endhint %}
+
 
 
 ## Tadaaaaam !&#x20;
