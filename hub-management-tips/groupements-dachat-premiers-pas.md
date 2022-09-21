@@ -15,7 +15,6 @@ Nous allons vous guider pas à pas pour la mise en place du GA.
 <figure><img src="../.gitbook/assets/schéma GA - uniquement GA.png" alt=""><figcaption></figcaption></figure>
 
 * Il faut d'abord créer un compte. Rendez-vous sur [cette page](https://coopcircuits.fr/register/auth?after\_login=%2Fregister#/signup) et entrez votre email et mot de passe. (si vous avez déjà un compte, cliquez sur l'onglet "Se connecter")
-*
 * Dans votre client de messagerie, ouvrez l’e-mail de CoopCircuits et **cliquez sur le lien d'activation** de votre compte
 * Connectez-vous et suivez les étapes d'inscription :
 
@@ -106,8 +105,8 @@ Rendez-vous sur la page de votre boutique pour vous assurer que le cycle de vent
 Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles :
 
 * Ajouter des messages d'accueil quand les ventes sont ouvertes ou fermées (dans ce dernier cas, vous pouvez par exemple inviter les utilisateurs à s'abonner à votre newsletter)
-* Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs-là
-* Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et choisir l'ordre d'affichage
+* Obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs-là
+* Organiser l'affichage des produits "par producteur" plutôt que "par ordre alphabétique"
 * Vous pouvez choisir de limiter l'accès à vos ventes à la liste d'acheteurs présents dans votre onglet "Acheteurs"
 
 Vous trouverez les explications [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#preferences-boutique).
@@ -116,7 +115,7 @@ Vous trouverez les explications [ici](https://guide.openfoodnetwork.org/v/fr/bas
 
 <figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption></figcaption></figure>
 
-* Ajoutez un ou plusieurs produits au panier, entre les informations clients, et vérifiez que vous retrouvez bien vos méthodes de livraison et méthodes de paiement, comme par exemple : &#x20;
+* Ajoutez un ou plusieurs produits au panier, entrez les informations clients, et vérifiez que vous retrouvez bien vos méthodes de livraison et méthodes de paiement, comme par exemple ici : &#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.14.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -125,14 +124,18 @@ Vous trouverez les explications [ici](https://guide.openfoodnetwork.org/v/fr/bas
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.16.20.png" alt=""><figcaption></figcaption></figure>
 
-* Pensez bien à annuler la commande (car le décompte des trois mois gratuits démarre à la première commande) en cliquant sur le bouton "Actions" > Annuler la commande&#x20;
+* Pensez bien à annuler la commande en cliquant sur le bouton "Actions" > Annuler la commande&#x20;
 * Vous pouvez également consulter l'[onglet "Rapports"](https://guide.openfoodnetwork.org/v/fr/basic-features/reports?q=rapports), qui propose des rapports utiles, notamment pour préparer les commandes.&#x20;
 
 
 
 ## Tadaaaaam !&#x20;
 
-Et voilà, votre boutique est en place et prête à vendre. Vous pouvez : la laisser cachée et ne partager l'url qu'à vos contacts, ou rebasculer en mode "visible" et restreindre l'accès aux ventes à votre liste de membres (voir ces différentes[ modalités ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront)).
+Et voilà, votre boutique est en place et prête à vendre. Vous pouvez : la laisser cachée et ne partager l'url qu'à vos contacts, ou rebasculer en mode "visible" et restreindre l'accès aux ventes à votre liste de membres (voir ces différentes[ modalités ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront)). Ou la laisser visible et ouverte à tous·te·s, si tel est votre souhait.
 
-Pour toute question, n'hésitez-pas à parcourir dans un premier temps le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique - qui vous permettra sûrement de trouver des réponses à vos interrogations ;)
+Pour toute question, dans un premier temps nous vous recommandons de chercher des réponses dans le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique ;)
+
+Si vous ne trouvez pas réponse à vos questions, n'hésitez-pas à nous solliciter par mail :)
+
+Bonnes ventes !
 
