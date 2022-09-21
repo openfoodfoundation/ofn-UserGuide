@@ -1,8 +1,21 @@
 # Groupements d'achat : premiers pas
 
+Un groupement d'achat permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les adhérents/membres/client·e·s du GA). Sur notre plateforme, le Groupement d'Achat (GA) est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
+
+Les fournisseurs créent eux-mêmes leur propre "entreprise" afin de créer leur catalogue produit. Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
+
+Nous allons vous guider pas à pas pour la mise en place du GA.
+
+<figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption><p>Les fournisseurs vous autorisent à vendre leurs produits. En tant que GA, vous êtes "distributeur" de ces produits, que vous proposez aux mangeurs à travers votre boutique multi-producteurs.</p></figcaption></figure>
+
+
+
 ## 1. Créez votre boutique multi-producteurs
 
+<figure><img src="../.gitbook/assets/schéma GA - uniquement GA.png" alt=""><figcaption></figcaption></figure>
+
 * Il faut d'abord créer un compte. Rendez-vous sur [cette page](https://coopcircuits.fr/register/auth?after\_login=%2Fregister#/signup) et entrez votre email et mot de passe. (si vous avez déjà un compte, cliquez sur l'onglet "Se connecter")
+*
 * Dans votre client de messagerie, ouvrez l’e-mail de CoopCircuits et **cliquez sur le lien d'activation** de votre compte
 * Connectez-vous et suivez les étapes d'inscription :
 
@@ -21,11 +34,11 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.20.png" alt=""><figcaption></figcaption></figure>
 
-Votre boutique devrait ressembler à ceci... un peu vide pour l'instant !&#x20;
+Votre boutique devrait ressembler à ceci...&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.55.52.png" alt=""><figcaption></figcaption></figure>
 
-Nous allons la configurer pour ouvrir un cycle de vente et faire apparaître les produits.&#x20;
+L'onglet "Boutique" est pour l'instant vide, car il faut la configurer pour ouvrir un cycle de vente et faire apparaître les produits. C'est ce que nous allons voir aux étapes suivantes.
 
 Pendant toutes ces étapes de configuration, nous vous recommandons de rendre votre boutique "invisible". Pour cela, **cochez l'option "Invisible" dans Entreprises > Paramètres > Informations de base** et cliquez sur "Mettre à jour".
 
@@ -45,11 +58,19 @@ Avant de pouvoir ouvrir des ventes, il vous faut&#x20;
 
 ## 3. Connectez-vous à vos fournisseurs
 
-Vos fournisseurs - producteurs, transformateurs, etc.- doivent d'abord avoir créé une entreprise sur CoopCircuits. Ils doivent également avoir créé leurs produits. (Si besoin, vous pouvez le faire pour eux ! Suivez [ce guide pour leur créer des profils producteurs](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/profile-only-quick-setup-guide), puis [passez-les en co-gestionnaire de l'entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/transfer-ownership).)
+Vos fournisseurs - producteurs, transformateurs, etc.- doivent d'abord avoir créé une entreprise sur CoopCircuits et entré leur catalogue produits.&#x20;
+
+<figure><img src="../.gitbook/assets/schéma GA - fournisseurs.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Si besoin, vous pouvez le faire pour eux ! Suivez [ce guide pour leur créer des profils producteurs](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/profile-only-quick-setup-guide), puis [passez-les en co-gestionnaire de l'entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/transfer-ownership). Notez qu'il est possible d'[importer des tableurs de produits ](https://guide.openfoodnetwork.org/v/fr/basic-features/products/product-and-inventory-import?q=import)pour gagner du temps. Nous pouvons aussi vous y aider, n'hésitez-pas à nous écrire par mail 😉
+{% endhint %}
+
+
 
 Vous devez ensuite leur demander de vous [**donner la permission de vendre leurs produits**](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es#les-differentes-permissions).
 
-<figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption><p>Les fournisseurs vous autorisent à vendre leurs produits. En tant que GA, vous êtes "distributeur" de ces produits, que vous proposez aux mangeurs à travers votre boutique multi-producteurs.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/schéma GA-sans mangeurs.png" alt=""><figcaption></figcaption></figure>
 
 Une fois que vos fournisseurs vous auront donné les permissions, elles apparaîtront dans votre onglet Entreprises > Permissions.
 
@@ -63,19 +84,18 @@ Si vous souhaitez trouver de nouveaux fournisseurs, vous pouvez consulter la [ca
 
 ## 4. Créez votre premier cycle de vente
 
+<figure><img src="../.gitbook/assets/schéma GA-sans mangeurs with fruit.png" alt=""><figcaption></figcaption></figure>
+
 Vous pouvez suivre les étapes présentées [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs).
 
 * Coordinateur : choisissez votre GA
 * Distributeur (étape 3) : choisissez votre GA
-* Pensez à cliquer sur "Paramétrages avancés" > Notifications automatiques, si vous souhaitez que les producteurs reçoivent automatiquement un mail avec le récap' de commandes à la fin du cycle de vente. Voici à quoi ce mail ressemble &#x20;
+* Pensez à cliquer sur "Paramétrages avancés" > **Notifications automatiques**, si vous souhaitez que les producteurs reçoivent automatiquement un mail avec le récapitulatif de commandes à la fin du cycle de vente. Voici à quoi ce mail ressemble :&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 13.56.06.png" alt=""><figcaption></figcaption></figure>
 
-* Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente. Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2. Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit.
-
-{% hint style="info" %}
-La fonctionnalité de pouvoir répéter un même cycle de vente de manière automatique est en cours d'étude. N'hésitez-pas à nous écrire si vous avez aussi ce besoin (ou d'autres propositions d'améliorations), cela permettra d'appuyer la demande. Pour l'heure, nous vous conseillons de [dupliquer un cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs#4.-liste-des-cycles-de-vente) pour gagner du temps.
-{% endhint %}
+* **Commissions :** Si vous souhaitez appliquer une commission globale sur tous les produits vendus (par exemple, une commission de 10% pour les frais de gestion du GA), il vous faudra d'abord la [définir](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees), puis l'appliquer au niveau de l'étape 3 du cycle de vente. Si vous souhaitez appliquer des commissions différentes selon les producteurs, ajoutez-les plutôt à l'étape 2. Notez qu'il n'est pour l'instant pas possible d'appliquer une commission par produit. Il est par contre possible d'ajouter plusieurs commissions.
+* **Répéter un cycle de vente :** La fonctionnalité de pouvoir répéter un même cycle de vente de manière automatique est en cours d'étude. N'hésitez-pas à nous écrire si vous avez aussi ce besoin (ou d'autres propositions d'améliorations), cela permettra d'appuyer la demande. Pour l'heure, nous vous conseillons de [dupliquer un cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs#4.-liste-des-cycles-de-vente) pour gagner du temps.
 
 Rendez-vous sur la page de votre boutique pour vous assurer que le cycle de vente est bien ouvert (cliquez sur l'url comme vu dans le 1). (Si certains produits n'apparaissent pas dans la boutique, c'est probablement que leur stock est à zéro !)
 
@@ -83,16 +103,18 @@ Rendez-vous sur la page de votre boutique pour vous assurer que le cycle de vent
 
 ## 5. Paramétrez votre boutique
 
-Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles (voir les explications [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#preferences-boutique)) :
+Dans Entreprises > Paramètres > Préférences boutiques, vous avez plusieurs fonctions qui peuvent vous être utiles :
 
-* Ajouter des messages d'accueil quand les ventes sont ouvertes ou fermées (dans ce cas, vous pouvez par exemple inviter les utilisateurs à s'abonner à votre newsletter - si vous en avez une)
+* Ajouter des messages d'accueil quand les ventes sont ouvertes ou fermées (dans ce dernier cas, vous pouvez par exemple inviter les utilisateurs à s'abonner à votre newsletter)
 * Vous pouvez obliger les utilisateurs à créer un compte pour commander sur votre boutique. Cela vous permettra d'avoir leurs informations (adresse, etc) et de pouvoir ensuite éventuellement restreindre les achats à ces acheteurs-là
-* Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et dans ce cas vous pouvez choisir l'ordre d'affichage
+* Vous pouvez organiser les produits "par producteur" plutôt que "par ordre alphabétique", et choisir l'ordre d'affichage
 * Vous pouvez choisir de limiter l'accès à vos ventes à la liste d'acheteurs présents dans votre onglet "Acheteurs"
 
-
+Vous trouverez les explications [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#preferences-boutique).
 
 ## 6. Testez une première commande
+
+<figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption></figcaption></figure>
 
 * Ajoutez un ou plusieurs produits au panier, entre les informations clients, et vérifiez que vous retrouvez bien vos méthodes de livraison et méthodes de paiement, comme par exemple : &#x20;
 
