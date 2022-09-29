@@ -65,4 +65,5 @@
   * [Producteur](trouble-shooting/producteur.md)
   * [Hub](trouble-shooting/hub.md)
 * [Conseils aux acheteurs](shopping-with-open-food-network/README.md)
-  * [Coopcircuits](shopping-with-open-food-network/about-open-food-network.md)
+  * [Créer un compte et passer commande](shopping-with-open-food-network/about-open-food-network.md)
+  * [Modifier une commande](shopping-with-open-food-network/modifier-une-commande.md)

@@ -194,7 +194,13 @@ C'est l'endroit idéal pour communiquer des informations importantes comme votre
 
 ![](<../../.gitbook/assets/image (95).png>)
 
-**Modifier la commande** : Si vous sélectionnez ""Les acheteurs peuvent modifier..." Les acheteurs pourront modifier / valider leur commande tant que le cycle de vente est ouvert, c’est à dire pourront modifier la quantités des produits sélectionnés et supprimer un ou plusieurs produits sélectionnés lors de la commande initiale. (A noter qu'il ne sera pas possible d’ajouter un produit non sélectionné au préalable via la fonctionnalité modification de commande)
+**Modifier la commande** : Si vous sélectionnez ""Les acheteurs peuvent modifier..." Les acheteurs pourront modifier / valider leur commande tant que le cycle de vente est ouvert, c’est à dire pourront modifier la quantités des produits sélectionnés et supprimer un ou plusieurs produits sélectionnés lors de la commande initiale. (A noter qu'il ne sera pas possible d’ajouter un produit non sélectionné au préalable via la fonctionnalité modification de commande). Si vous choisissez cette option, il est préférable de choisir l'option "demander que l'acheteur se connecte pour pouvoir finaliser sa commande". En effet, un acheteur qui n'aura pas créé de compte ne pourra pas revenir dans l'interface pour modifier sa commande.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-29 at 19.18.50.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 **Abonnements** : Vous pouvez permettre à vos acheteurs d’accéder à une [commande récurrente](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente)
 
