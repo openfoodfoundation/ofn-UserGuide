@@ -2,6 +2,16 @@
 
 Il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute l'adresse mail de ce même producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" (gestionnaire principal) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits.&#x20;
 
+### Changer le gestionnaire principal
+
+Il faut d'abord ajouter un nouveau gestionnaire, comme expliqué dans la troisième section de cette page, puis entrer son mai dans la ligne "gestionnaire principal". Attention, seul le gestionnaire principal actuel peut procéder à ce changement.
+
+### Changer l'e-mail de réception des notifications
+
+Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section suivante). Dès que ce sera fait, il apparaîtra dans la liste quand vous cliquez sur la ligne "Notifications".
+
+### Ajouter un gestionnaire
+
 Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriété, voici la procédure à suivre :
 
 *   Sur le tableau de bord d'administration, allez dans le menu Gestionnaires de vos paramètres d'entreprise (Entreprise > Paramètres > Gestionnaires) :&#x20;
@@ -33,4 +43,6 @@ N'oubliez pas de cliquer sur " Mettre à jour " pour enregistrer vos modificatio
 Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, [contactez-nous ](https://guide.openfoodnetwork.org/v/fr/#dautres-questions-des-ameliorations)et nous augmenterons sa limite d'entreprise.&#x20;
 
 Cette mesure est destinée à éviter la création massive de profils par des robots, ce qui pourrait faire sauter notre serveur et rendre la plateforme indisponible. Il s'agit d'une mesure de prévention classique.
+
+
 {% endhint %}
