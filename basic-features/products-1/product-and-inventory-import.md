@@ -19,11 +19,7 @@ There's four main ways you can use the tool:
 3. Import products to a new shop/hub [inventory](inventory-tool.md)&#x20;
 4. Update products in a shop/hub inventory
 
-{% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
-{% endhint %}
-
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+In all cases the process involves downloading a CSV template, filling in the fields and then uploading your CSV file back into OFN.
 
 {% hint style="warning" %}
 **Important note on CSV files**: Microsoft Excel does not open .csv files directly.\
