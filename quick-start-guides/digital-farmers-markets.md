@@ -14,7 +14,7 @@ Farmers’ Markets have the option to setup as a [group](../basic-features/group
 * Contact your [local OFN support team](../local-ofn-organizations-and-contacts.md) and ask for them to set up a [group](../basic-features/groups/) for your farmer's market. &#x20;
 
 {% hint style="success" %}
-Once your Farmer's Market Group has been created you will be able to [manage its content](../basic-features/groups/group-page.md) and [embed your OFN group page](../basic-features/groups/embed-a-group-page.md) into an external website.
+Once your Farmer's Market Group has been created you will be able to [manage its content](../basic-features/groups/group-page.md)
 {% endhint %}
 
 ### Option 2: Hub

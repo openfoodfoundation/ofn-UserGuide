@@ -58,7 +58,6 @@
     * [Reports for Bulk Order Management](basic-features/reports/reports-for-bulk-order-management.md)
   * [Groups](basic-features/groups/README.md)
     * [Create and manage a Group page](basic-features/groups/group-page.md)
-    * [Embed a Group Page in a Website](basic-features/groups/embed-a-group-page.md)
 * [Hub management tips](hub-management-tips/README.md)
   * [How To's](hub-management-tips/how-tos/README.md)
     * [Delete an Enterprise](hub-management-tips/how-tos/delete-an-enterprise.md)
