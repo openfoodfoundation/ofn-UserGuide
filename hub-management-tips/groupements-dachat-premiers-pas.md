@@ -1,8 +1,13 @@
 # Groupements d'achat : premiers pas
 
-Un groupement d'achat permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les adhérents/membres/client·e·s du GA). Sur notre plateforme, le Groupement d'Achat (GA) est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
+Un groupement d'achat permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les adhérents/membres/client·e·s du GA). Sur CoopCircuits, il y a trois types d'"**entreprise"** :\
+**- une boutique simple** : un producteur qui vend ses propres produits\
+**- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
+**- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
 
-Les fournisseurs créent eux-mêmes leur propre "entreprise" afin de créer leur catalogue produit. Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
+Le Groupement d'Achat (GA) est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
+
+Les fournisseurs créent eux-mêmes leur propre "entreprise" (ou vous pouvez aussi les créer pour eux, depuis votre propre compte, cf chapitre 3) afin de créer leur catalogue produit. Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
 
 Nous allons vous guider pas à pas pour la mise en place du GA.
 
@@ -59,11 +64,15 @@ Avant de pouvoir ouvrir des ventes, il vous faut&#x20;
 
 Vos fournisseurs - producteurs, transformateurs, etc.- doivent d'abord avoir créé une entreprise sur CoopCircuits et entré leur catalogue produits.&#x20;
 
-<figure><img src="../.gitbook/assets/schéma GA - fournisseurs.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-Si besoin, vous pouvez le faire pour eux ! Suivez [ce guide pour leur créer des profils producteurs](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/profile-only-quick-setup-guide), puis [passez-les en co-gestionnaire de l'entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/transfer-ownership). Notez qu'il est possible d'[importer des tableurs de produits ](https://guide.openfoodnetwork.org/v/fr/basic-features/products/product-and-inventory-import?q=import)pour gagner du temps. Nous pouvons aussi vous y aider, n'hésitez-pas à nous écrire par mail 😉
+Si besoin, vous pouvez le faire pour eux ! Depuis votre espace administration, dans l'onglet Entreprises, cliquez sur "Nouvelle entreprise". Choisissez le type "Profil".\
+Dans l'onglet "Produits", vous pouvez renseigner leurs produits. Notez qu'il est possible d'[importer des tableurs de produits ](https://guide.openfoodnetwork.org/v/fr/basic-features/products/product-and-inventory-import?q=import)pour gagner du temps. Nous pouvons aussi vous y aider, n'hésitez-pas à nous écrire par mail 😉
+
+Vous serez "Gestionnaire principal" de cette entreprise (dans Entreprises > Paramètres > Gestionnaires, vous verrez votre adresse mail dans "Gestionnaire principal"). Si vous souhaitez ensuite mettre les producteur·ice·s en co-gestionnaire, ou carrément en gestionnaire principal, il faudra ajouter leur adresse dans "Gestionnaires" (suivez [ce guide)](https://openfoodfrance1.od2.vtiger.com/shorturl.php?id=6352b3cc93df32.98448770\&fromcrm=1).\
+
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/schéma GA - fournisseurs.png" alt=""><figcaption></figcaption></figure>
 
 
 
