@@ -129,6 +129,10 @@ L'email sera envoyé automatiquement à la fin du cycle de vente (dernier jour d
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.35.29.png" alt=""><figcaption></figcaption></figure>
 
+Le mail envoyé ressemble à ceci :
+
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-10-28 at 17.01.54.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Attention, si vous avez un cycle de vente continu, vous ne pourrez pas utiliser cette fonctionnalité, puisque la fin du cycle de vente sera très lointaine..
 {% endhint %}
