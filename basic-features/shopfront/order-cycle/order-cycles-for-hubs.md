@@ -24,7 +24,7 @@ La première chose à faire est de sélectionner un coordinateur pour votre cycl
 
 Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente (les fournisseurs ou les autres hubs) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises dans le contexte des cycles de vente, cliquez [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#gestionnaires).
 
-Une fois le coordinateur choisi vous êtes redirigé vers un écran en 3 étapes :
+Une fois le coordinateur choisi vous êtes redirigé vers un écran en 4 étapes :
 
 ### Étape 1. Informations générales
 
@@ -82,8 +82,6 @@ Cette étape permet de définir les distributeurs qui vont vendre les produits d
 
 Cliquez sur "Sauvegarder" pour créer le cycle de vente.&#x20;
 
-### 4. Liste des cycles de vente
-
 Les cycles de vente sont présentés en :
 
 :thumbsup: **vert** lorsqu'ils sont **actifs**
@@ -108,18 +106,23 @@ Les cycles de vente sont présentés en :
 A noter qu'un mois après sa fermeture, un cycle de vente n’apparaît plus directement dans cette liste : il faudra cliquer sur les boutons "Montrer +30 jours" ou "Montrer +90jours" pour le faire apparaître.
 {% endhint %}
 
+### Etape 4. Options de commande <a href="#notifier-producteurs" id="notifier-producteurs"></a>
+
+<figure><img src="../../../.gitbook/assets/OC_link.png" alt=""><figcaption><p>Personnaliser vos méthodes de paiement et de livraison par cycle de vente</p></figcaption></figure>
+
+La dernière étape vous permet de sélectionner les méthodes de livraison ou de paiement qui doivent s'afficher lors du parcours d'achat du cycle de vente. Par défaut, toutes vos méthodes sont sélectionnées.
+
 ## Notifier les producteurs des commandes passées <a href="#notifier-producteurs" id="notifier-producteurs"></a>
 
 Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoivent pas d'email avec la commande. Seul le hub reçoit cette information. Cela permet au hub de décider du moment où les producteurs seront notifiés, afin notamment de pouvoir modifier les commandes entre temps.&#x20;
 
 &#x20;Pour notifier les producteurs des commandes en cours, vous avez deux choix :
 
-:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition d'un cycle de vente :\
-
+:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition d'un cycle de vente :
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.29.08.png" alt=""><figcaption></figcaption></figure>
 
-
+## Liste des cycles de vente
 
 En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).
 
