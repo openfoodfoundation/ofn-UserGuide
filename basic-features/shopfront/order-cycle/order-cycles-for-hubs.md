@@ -106,7 +106,7 @@ Les cycles de vente sont présentés en :
 A noter qu'un mois après sa fermeture, un cycle de vente n’apparaît plus directement dans cette liste : il faudra cliquer sur les boutons "Montrer +30 jours" ou "Montrer +90jours" pour le faire apparaître.
 {% endhint %}
 
-### Etape 4. Options de commande <a href="#notifier-producteurs" id="notifier-producteurs"></a>
+### Etape 4. Options de commande <a href="#options-commande" id="options-commande"></a>
 
 <figure><img src="../../../.gitbook/assets/OC_link.png" alt=""><figcaption><p>Personnaliser vos méthodes de paiement et de livraison par cycle de vente</p></figcaption></figure>
 
