@@ -7,7 +7,7 @@ Un groupement d'achat permet de mettre en lien des fournisseurs (producteur·ice
 
 Le Groupement d'Achat (GA) est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
 
-Les fournisseurs créent eux-mêmes leur propre "entreprise" (ou vous pouvez aussi les créer pour eux, depuis votre propre compte, cf chapitre 3) afin de créer leur catalogue produit. Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
+Les fournisseurs créent eux-mêmes leur propre "entreprise" afin de créer leur catalogue produit -  vous pouvez aussi le faire pour eux, cf chapitre 3) . Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
 
 Nous allons vous guider pas à pas pour la mise en place du GA.
 
