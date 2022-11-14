@@ -39,7 +39,7 @@ Cliquez sur "Ajouter un utilisateur existant", tapez l'adresse de la personne. C
 
 ### Changer le gestionnaire principal / transférer la propriété
 
-Il faut d'abord ajouter un nouveau gestionnaire, comme expliqué précédemment, puis entrer son mai dans la ligne "gestionnaire principal". Attention, seul le gestionnaire principal actuel peut procéder à ce changement.
+Il faut d'abord ajouter un nouveau gestionnaire, comme expliqué précédemment, puis entrer son e-mail dans la ligne "gestionnaire principal". Attention, seul le gestionnaire principal actuel peut procéder à ce changement.
 
 {% hint style="info" %}
 Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, [contactez-nous ](https://guide.openfoodnetwork.org/v/fr/#dautres-questions-des-ameliorations)et nous augmenterons sa limite d'entreprise.&#x20;
@@ -51,4 +51,6 @@ Cette mesure est destinée à éviter la création massive de profils par des ro
 
 ### Changer l'e-mail de réception des notifications
 
-Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section suivante). Dès que ce sera fait, il apparaîtra dans la liste quand vous cliquez sur la ligne "Notifications".
+Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section précédente). Dès que ce sera fait, vous pourrez le sélectionner dans la liste déroulante en face de la ligne "Notifications".
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.14.45.png" alt=""><figcaption></figcaption></figure>
