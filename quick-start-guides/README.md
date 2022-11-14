@@ -1,5 +1,5 @@
 ---
-description: Des étapes simples pour démarrer votre aventure sur OFN
+description: Des étapes simples pour commencer votre aventure sur ONF.
 ---
 
 # Guides de démarrage rapide

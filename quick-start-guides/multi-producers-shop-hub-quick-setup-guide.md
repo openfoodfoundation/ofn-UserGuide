@@ -2,13 +2,13 @@
 description: Toutes les étapes pour commencer votre utilisation d'OFN en tant que Hub
 ---
 
-# Hub
+# Boutique multi-producteurs (Hub)
 
-Pour commencer à utiliser OFN, suivez ces étapes :
+Pour commencer à utiliser OFN, suivez ces étapes&#x20;
 
 ![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1) (1).jpg>)
 
-1. [Enregistrez votre entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
+1. [Enregistrez votre organisation](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
    Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules ["Producteur" et "Hub".](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules ["Non-producteur" et "Hub"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types). Complétez les paramètres de votre entreprise avec les détails de votre activité.
 2. Répertoriez vos produits. \
    Si vous êtes un "Hub de producteurs", [créez ](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/products)([ou importez](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-and-inventory-import)) des listes de produits pour les produits que vous fabriquez vous-même. Pour les hubs "producteurs" et "non producteurs", contactez les entreprises OFN locales qui souhaitent que leurs produits soient affichés sur votre boutique. Demandez-leur de créer des [permissions inter-enteprises](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) pour connecter leur établissement au vôtre via OFN. Si ces entreprises producteur n'existent pas, [créez le "profil producteur"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers#creer-un-profil-producteur).

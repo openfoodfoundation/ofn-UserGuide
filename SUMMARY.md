@@ -23,7 +23,7 @@
     * [Modifier un produit / gérer les stocks](basic-features/products/modifier-un-produit-gerer-les-stocks.md)
     * [Importer un tableau de produits](basic-features/products/product-and-inventory-import.md)
     * [Gérer les produits au poids irrégulier](basic-features/products/pricing-irregular-items-kg.md)
-    * [Option d'achat par lot](basic-features/products/group-buy-for-bulk-ordering.md)
+    * [Option d'achat par lot](basic-features/products-1/group-buy-for-bulk-ordering.md)
   * [Boutique](basic-features/shopfront/README.md)
     * [Méthodes de livraison](basic-features/shopfront/shipping-methods.md)
     * [Méthodes de paiement](basic-features/shopfront/payment-methods.md)

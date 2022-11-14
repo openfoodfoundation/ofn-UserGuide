@@ -1,20 +1,25 @@
 # Ouvrir des cycles de vente simultanés
 
-Il est possible d'avoir plusieurs cycles de vente simultanés. Cela a pour effet d'avoir plusieurs boutiques ouvertes accessible via le même url (adresse internet) : l'acheteur peut naviguer de l'une à l'autre. Cette fonctionnalité est intéressante si vous souhaitez avoir des conditions différentes entre les deux boutiques (produits différents, prix différents ou des dates de commande et retrait différentes).&#x20;
+Il est possible d'avoir plusieurs cycles de vente simultanés. Cette fonctionnalité est intéressante si vous souhaitez avoir des conditions différentes entre les deux cycles de vente (dates de commande/retrait différentes, produits différents, commissions différentes).&#x20;
 
-Exemple ci-dessous avec des boutiques par date de livraison :&#x20;
+L'acheteur pourra naviguer facilement de l'un à l'autre en cliquant sur la liste déroulante "Prêt pour" :
 
-![](<../../../.gitbook/assets/image (84).png>)
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.36.42.png" alt=""><figcaption></figcaption></figure>
 
-A la sélection du cycle de vente par l'acheteur, il verra s'afficher la liste des produits et les conditions correspondant au cycle de vente sélectionné.&#x20;
+## **Créer des cycles de vente simultanés**
 
-{% hint style="info" %}
-**Attention : les méthodes de livraison et paiement ne sont pas paramétrées au niveau du cycle de vente** ! Tous vos cycles de vente auront donc les mêmes options de livraison. Vous pouvez en revanche choisir d'afficher ou masquer des méthodes de livraisons à certains acheteurs grâce aux[ tags](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee).
-{% endhint %}
+Depuis l'onglet "Cycles de vente", créez un nouveau cycle de vente grâce au bouton "Nouveau cycle de vente", ou en dupliquant un autre cycle de vente.&#x20;
 
-{% hint style="info" %}
-**Les** [**tags** ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)**vous permettent aussi de rendre visible ou invisible un cycle de vente à certains acheteurs.** Par exemple, vous pouvez définir un groupe d'acheteurs "pro" et choisir de ne rendre visible que pour ce groupe d'acheteur le cycle de vente "pro" comportant des volumes et prix adaptés aux professionnels.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.27.30.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez :
+
+* Choisir des dates d'ouverture et fin de commande différentes
+* Faire une sélection de produits différente&#x20;
+* Choisir des commissions différentes si vous souhaitez que les prix soient variables selon les cycles de vente
+* Définir différentes dates de retrait : c'est ce qui apparaîtra dans l'encart "Prêt pour", comme dans l'image ci-dessous pour un cycle de vente d'une boutique (pour les boutiques multi-producteurs, c'est à l'étape 3 du cycle de vente, dans la colonne "Détails de livraison) :
+
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.27.18.png" alt=""><figcaption></figcaption></figure>
 
 ## **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 
@@ -23,3 +28,7 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 Il suffit de vous rendre dans le menu Entreprises > Gérer > Préférences boutique :&#x20;
 
 ![](<../../../.gitbook/assets/image (86) (1).png>)
+
+## **Masquer les cycles de vente pour certains acheteurs**
+
+**Les tags vous permettent aussi de rendre visible ou invisible un cycle de vente à certains acheteurs.** Par exemple, vous pouvez définir un groupe d'acheteurs "pro" et choisir de ne rendre visible que pour ce groupe d'acheteur le cycle de vente "pro" comportant des volumes et prix adaptés aux professionnels. Reportez-vous à [cette page](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee).
