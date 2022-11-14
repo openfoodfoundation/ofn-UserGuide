@@ -1,43 +1,45 @@
 # Modifier les Gestionnaires
 
-Il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute l'adresse mail de ce même producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" (gestionnaire principal) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits.&#x20;
+* [Ajouter un co-gestionnaire](transfer-ownership.md#ajouter-un-gestionnaire)
+* [Changer le gestionnaire principal](transfer-ownership.md#changer-le-gestionnaire-principal)
+* [Modifier le mail de réception des notifications](transfer-ownership.md#changer-le-mail-de-reception-des-notifications)
 
-### Changer le gestionnaire principal
+### Ajouter un co-gestionnaire <a href="#co-gestionnaire" id="co-gestionnaire"></a>
 
-Il faut d'abord ajouter un nouveau gestionnaire, comme expliqué dans la troisième section de cette page, puis entrer son mai dans la ligne "gestionnaire principal". Attention, seul le gestionnaire principal actuel peut procéder à ce changement.
+Plusieurs personnes peuvent souhaiter avoir accès à la gestion d'une entreprise. Cela est possible en ajoutant l'email des personnes concernées en tant que "co-gestionnaires" d'une entreprise.
 
-### Changer l'e-mail de réception des notifications
-
-Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section suivante). Dès que ce sera fait, il apparaîtra dans la liste quand vous cliquez sur la ligne "Notifications".
-
-### Ajouter un gestionnaire
+Par exemple, il est courant que le profil d'un producteur soit créé par un hub, puis que le hub ajoute l'adresse mail de ce même producteur en tant que gestionnaire de ce profil, ou même transfère la "propriété" (gestionnaire principal) du profil au producteur, lorsque ce dernier accepte de gérer lui-même son profil et son catalogue de produits.&#x20;
 
 Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriété, voici la procédure à suivre :
 
-*   Sur le tableau de bord d'administration, allez dans le menu Gestionnaires de vos paramètres d'entreprise (Entreprise > Paramètres > Gestionnaires) :&#x20;
+*   Sur le tableau de bord d'administration, allez dans Entreprise > Paramètres, puis cliquez sur l'onglet "Gestionnaires" sur la gauche.
 
 
-* Dans " Gestionnaires ", recherchez l'adresse électronique du producteur que vous souhaitez ajouter en tant que gestionnaire.
+* Il existe deux cas :&#x20;
 
-![](<../../.gitbook/assets/image (67) (1) (1).png>)
+**Cas 1 : La personne à ajouter n'a pas encore créé de compte utilisateur** :&#x20;
 
-**Cas 1 : Le producteur en question possède déjà un compte utilisateur sur OFN :**
+Cliquez sur "Ajouter un nouvel utilisateur", entrez l'email et cliquez sur "Inviter". Un e-mail de notre part sera envoyé à l'adresse indiquée. &#x20;
 
-Son adresse électronique sera déjà enregistrée chez nous et elle apparaîtra donc lorsque vous commencerez à taper. Sélectionnez et **cliquez sur Mettre à jour** (bouton rouge, en bas à droite) pour enregistrer.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 12.59.42.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Attention : vous devez rechercher l'email **complet exact**. Nous vous recommandons de rechercher notre liste d'utilisateurs en copiant et collant l'adresse e-mail **complète**.
-{% endhint %}
+Vous voyez que l'email est en attente de confirmation grâce à l'icone orange :
 
-**Cas 2 : Le producteur en question n'a pas encore de compte utilisateur avec OFN** :&#x20;
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 12.59.51.png" alt=""><figcaption></figcaption></figure>
 
-Dans ce cas, vous ne pouvez pas trouver son adresse électronique lorsque vous tapez dans la case "Ajouter un utilisateur existant". Vous devez alors cliquer sur "Ajouter un utilisateur non enregistré" juste en dessous, à côté du champ " Inviter un gestionnaire ". Le producteur recevra alors un e-mail de notre part pour confirmer son inscription. En suivant les instructions détaillées dans l'e-mail, il pourra terminer la configuration de son compte OFN, y compris l'ajout d'un mot de passe.&#x20;
+Dès que la personne aura confirmé son adresse et créé son mot de passe, l'icone passe au vert et la personne devient automatiquement co-gestionnaire de l'entreprise.
 
-Une fois que le producteur est un gestionnaire du profil d'entreprise que vous avez créé en son nom, vous pouvez choisir de le nommer gestionnaire principal et/ou contact pour recevoir les notifications de commande. À ce stade, en tant que gestionnaire principal, vous pouvez vous retirer de la liste des gestionnaires.
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.00.14.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-N'oubliez pas de cliquer sur " Mettre à jour " pour enregistrer vos modifications !
-{% endhint %}
+**Cas 2 : La personne à ajouter possède déjà un compte utilisateur :**
+
+Cliquez sur "Ajouter un utilisateur existant", tapez l'adresse de la personne. Comme l'adresse est déjà enregistrée dans notre base de données, vous pourrez la sélectionner. C**liquez ensuite sur Mettre à jour** (bouton rouge, en bas à droite) pour enregistrer.
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.06.24.png" alt=""><figcaption></figcaption></figure>
+
+### Changer le gestionnaire principal / transférer la propriété
+
+Il faut d'abord ajouter un nouveau gestionnaire, comme expliqué précédemment, puis entrer son mai dans la ligne "gestionnaire principal". Attention, seul le gestionnaire principal actuel peut procéder à ce changement.
 
 {% hint style="info" %}
 Par défaut, un utilisateur ne peut être gestionnaire / propriétaire de plus de 5 entreprises. Si vous recevez un message indiquant que le nouvel utilisateur a atteint sa limite, [contactez-nous ](https://guide.openfoodnetwork.org/v/fr/#dautres-questions-des-ameliorations)et nous augmenterons sa limite d'entreprise.&#x20;
@@ -46,3 +48,7 @@ Cette mesure est destinée à éviter la création massive de profils par des ro
 
 
 {% endhint %}
+
+### Changer l'e-mail de réception des notifications
+
+Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section suivante). Dès que ce sera fait, il apparaîtra dans la liste quand vous cliquez sur la ligne "Notifications".
