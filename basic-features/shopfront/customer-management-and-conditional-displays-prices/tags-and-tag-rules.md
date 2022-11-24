@@ -2,83 +2,92 @@
 
 ## Règles de tags
 
-Une fois les acheteurs regroupés par catégories (une fois qu'un tag leur a été associé, ([voir page précédente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers)), vous allez pouvoir définir les règles d'affichage suivantes :&#x20;
+Une fois les acheteurs regroupés par catégories, c'est à dire une fois qu'un tag leur a été associé, ([voir page précédente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers)), vous allez pouvoir définir les règles d'affichage suivantes :&#x20;
 
-* Rendre certaines variantes visibles ou invisibles
-* Rendre des méthodes de livraison visibles ou invisibles
-* Rendre des méthodes de paiement visibles ou invisibles
-* Rendre des cycles de vente visibles ou invisibles
-
-Le plus souvent cette fonctionnalité sera utilisée par les entreprises ayant une segmentation de leurs acheteurs bien définie (membres vs non-membres par exemple, ou professionnels vs particuliers).
+* Rendre des cycles de vente visibles ou invisibles : par exemple, vous souhaitez créer des cycles de vente différents pour les acheteurs professionnels ou les CE d'entreprises, avec des marges différentes de celles appliquées aux particuliers, et souhaitez que ces cycles de ventes ne soient accessibles qu'à ces professionnels ; ou bien vous êtes un groupement d'achat et souhaitez réserver un cycle de vente aux membres de votre GA
+* Rendre des méthodes de livraison visibles ou invisibles : cela peut-être utile si vous souhaitez par exemple réserver la livraison à domicile à des habitants de certains quartiers, ou à des membres "VIP" ;
+* Rendre des méthodes de paiement visibles ou invisibles : par exemple, vous souhaitez réserver le paiement sur place aux membres de votre collectif ;
+* Rendre certaines variantes visibles ou invisibles : cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs.
 
 ## Comment paramétrer une règle de tag
 
-Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag**
+Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag.**
 
-![](<../../../.gitbook/assets/image (74).png>)
+Cliquez sur "**Ajouter une c par défaut**".
 
-### Les règles par défaut
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.28.31.png" alt=""><figcaption></figcaption></figure>
 
-Par défaut, tout est visible pour tout le monde, tagué ou pas. Vous pouvez modifier les règles d'affichage par défaut en cliquant sur "Ajouter une règle par défaut", puis "Ajouter une règle".&#x20;
+Choisir le type de règle et validez.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-10-28 at 17.09.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.27.39.png" alt=""><figcaption></figcaption></figure>
 
-Ensuite, cliquez sur le bouton rouge "Ajouter une règle pour un autre tag", et définissez une condition pour les acheteurs avec un certain tag.
+Entrez le tag pour lequel vous souhaitez rendre invisible la fonctionnalité. Par exemple ici, nous rendons invisible par défaut les cycles de vente tagués "ce-entreprise" :
 
-Par exemple, vous pouvez dire que par défaut, tous les cycles de ventes taggés "privés" sont invisibles, et vous les rendrez ensuite visibles pour certaines catégories d'acheteurs uniquement, - dans l'exemple ci-dessous, pour les acheteurs qui ont le tag "VIP".
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.32.13.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (64) (1) (1).png>)
+Maintenant, cliquez sur le bouton rouge "**Ajouter une règle conditionnelle**", puis sur "**Ajouter une nouvelle règle**".&#x20;
 
-### Les règles de tags
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.38.05.png" alt=""><figcaption></figcaption></figure>
 
-Une fois les règles par défaut définies, vous allez pouvoir paramétrer des exceptions à ces règles pour certaines catégories d'acheteurs.
+Entrez les noms des tags désirés dans les champs disponibles. Par exemple, dans l'exemple ci-dessous, nous définissons que seuls les acheteurs ayant le tag "ce-entreprise", pourront voir les cycles de vente tagués "ce-entreprise". Ces cycles de vente seront invisibles pour tous les acheteurs ne disposant pas de ce tag.
 
-* Vous devez d'abord définir pour quelle catégorie d'acheteur va se produire l'exception. Dans l'exemple ci-dessus, pour les acheteurs qui ont le tag "VIP".
-* Vous allez ensuite définir, pour ces acheteurs, les exceptions qui s'appliquent, parmi les 4 choix possibles :
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.37.51.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Lorsque vous paramétrer une règle, qu'il s'agisse d'une règle par défaut ou conditionnelle, selon la règle choisir, pensez bien à appliquer les tags concernés aux variantes / cycles de vente / méthodes de livraison / méthodes de paiement concernées !
-{% endhint %}
 
-Balayons chacune de ces options une par une.
 
-#### Afficher ou masquer les variantes dans ma boutique
-
-Cette règle permet de rendre une variante (déclinaison d'un produit) visible ou invisible dans la boutique pour certaines acheteurs. Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) et pas dans le catalogue du producteur concerné. Dans l'exemple ci-dessous, la variante "carottes par 3kg" est taggée "vip", et on pourrait créé une règle disant que par défaut, les variantes taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
-
-![](<../../../.gitbook/assets/image (87).png>)
-
-#### Afficher ou masquer les méthodes de livraison lors de la finalisation de la commande
-
-Cette règle permet de réserver certaines méthodes de livraison à certaines catégories d'acheteurs. Pour cette règle, il faudra donc associer un tag aux méthodes de livraison concernées. Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de livraison taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.
-
-![](<../../../.gitbook/assets/image (53) (1) (1).png>)
-
-#### Afficher ou masquer les méthodes de paiement lors de la finalisation de la commande
-
-Cette règle permet de réserver certaines méthodes de paiement à certaines catégories d'acheteurs, par exemple un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels. Pour cette règle, il faudra donc associer un tag aux méthodes de paiement concernées. Dans l'exemple ci-dessous, la méthode de paiement "Paiement sur facture" est taggée "vip", et on pourrait créé une règle disant que par défaut les méthodes de paiement taggées "vip" sont invisibles, et que pour les acheteurs taggés "vip" elles deviennent visibles.&#x20;
-
-![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+Nous devons maintenant ajouter les tags au niveau des fonctionnalités à rendre visible ou invisible :&#x20;
 
 #### Afficher ou masquer les cycles de vente de ma boutique
 
-Cette règle permet de réserver l'accès à un cycle de vente de la boutique uniquement à certains acheteurs. Par exemple, un maraicher va créé un second cycle de vente pour les acheteurs professionnels, avec des marges différentes de celles appliquées aux particuliers, et souhaite que ce cycle de vente ne soit visible que pour les acheteurs pro bien sûr. Pour cette règle, il faudra donc associer un tag aux cycles de vente concernés. Dans l'exemple ci-dessous, le cycle de vente est taggé "pro". On pourrait créer une règle par défaut disant que les cycles de vente taggés "pro" sont invisibles, et ensuite les rendre visibles pour les acheteurs taggés "pro".
+Dans l'onglet "Cycle de vente", modifiez votre cycle de vente et entrez le nom du tag dans le champ "tag".
 
-![](<../../../.gitbook/assets/image (54) (1).png>)
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.47.20.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Cette règle de tag n'est possible que pour les boutique de type "hub", pas pour les boutique producteur simple (producteur vendant uniquement ses produits)
-{% endhint %}
+Pour les boutiques multi-producteurs, le tag est à l'étape 3 du cycle de vente.
 
-## Utiliser les tags pour gérer des tarifications différenciées selon la catégorie d'acheteur
+#### Afficher ou masquer des méthodes de livraison&#x20;
 
-Parfois, vous souhaitez appliquer des tarifications différentes selon le type d'acheteur : membre ou non-membre, particulier ou profesionnels, etc.&#x20;
+Pour cette règle, modifiez votre méthode de livraison dans l'onglet Entreprise > bouton Paramètres > onglet Méthodes de livraison.&#x20;
+
+Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip".
+
+![](<../../../.gitbook/assets/image (53) (1) (1).png>)
+
+#### Afficher ou masquer des méthodes de paiement&#x20;
+
+Pour cette règle, modifiez votre méthode de livraison dans l'onglet Entreprise > bouton Paramètres > onglet Méthodes de paiement.  Dans l'exemple ci-dessous, un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels.&#x20;
+
+![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+
+#### Afficher ou masquer des variantes dans ma boutique
+
+&#x20;Pour cette règle, le tag sur la variante est à associer au niveau du [catalogue boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) et pas dans le catalogue du producteur concerné.&#x20;
+
+
+
+
+
+## Utiliser les tags pour gérer des tarifications différenciées selon la catégorie d'acheteur/ tarification sociale
+
+Parfois, vous souhaitez appliquer des tarifications différentes selon le type d'acheteur : bénéficiaire d'un tarif social, membre d'un groupement d'achat ou non-membre, particuliers ou profesionnels, etc.&#x20;
 
 Plusieurs possibilités de paramétrages utilisant les règles de tag sont à votre disposition  :
 
-* Vous pouvez proposer une[ méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) réservée aux membres (exemple : "retrait au dépôt (membres)" vs "retrait au dépôt (non membres)", et associer des frais inférieurs, voir des frais négatifs (correspondant donc à une ristourne) pour la méthode concernant les membres. Quand le membre choisi cette méthode, le prix de sa commande est adapté (le montant total diminue si des frais négatifs sont associés). En revanche, cela implique de vérifier que l'acheteur ne triche pas lorsqu'il sélectionne la méthode correspondant à son profil, ou alors de taguer les membres "membres" et la méthode de paiement qui leur est réservée avec le même tag et paramétrer une règle de tag.
+* Vous pouvez créer [deux cycles de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle) : un cycle de vente pour les acheteurs tagués, un autre pour les non-tagués. Sur le cycle de vente dédié aux non-tagués, vous pouvez appliquer une commission supérieure.&#x20;
+* Vous pouvez proposer une[ méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) réservée aux acheteurs (exemple : "retrait au dépôt (membres)" vs "retrait au dépôt (non membres)", et associer des frais inférieurs, voir des frais négatifs (correspondant donc à une ristourne) pour la méthode concernant les membres. Quand le membre choisi cette méthode, le prix de sa commande est adapté (le montant total diminue si des frais négatifs sont associés). En revanche, cela implique de vérifier que l'acheteur ne triche pas lorsqu'il sélectionne la méthode correspondant à son profil, ou alors de taguer les membres "membres" et la méthode de paiement qui leur est réservée avec le même tag et paramétrer une règle de tag.
 * Vous pouvez proposer une[ méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods) avec des frais négatifs (ce qui correspondra à une ristourne donc) et réserver grâce aux tags cette méthode de paiement à des acheteurs professionnels par exemple.&#x20;
-* Vous pouvez créer [deux cycles de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle) : un cycle de vente pour les membres et un pour les non membres. Sur le cycle de vente dédié aux non-membres, vous pouvez appliquer une commission supérieure. Mais ici également, il faudra bien vérifier que les non-membres ont sélectionné le bon cycle de vente, ou cadrer les choses en utilisant les règles de tag et en taguant les acheteurs donc selon qu'ils sont membres ou non-membres.
+
+Exemple d'une initiative qui utilise la tarification sociale sur CoopCircuits :thumbsup:
+
+> Le collectif en charge du point relais demande aux consommateurices de fournir un justificatif de quotient familial. Si ce dernier est inférieur à un certain niveau, les acheteurs peuvent bénéficier d'une tarification sociale (20% de réduction sur les achats).&#x20;
+>
+> Pour mettre cela en place dans CoopCircuits, le collectif a réalisé la configuration suivante&#x20;
+>
+> * dans l'onglet "Acheteurs", le collectif  attribue un tag "tarif réduit" aux emails correspondant aux bénéficiaires&#x20;
+> * une méthode de paiement spécifique existe, tagguée "tarif réduit", et propose une réduction/marge négative de 20%&#x20;
+> * une règle de tag définit que la méthode de paiement tagguée "tarif réduit" ne sera visible qu'aux mails taggués "tarif réduit"
+>
+> Ainsi,  les personnes bénéficiaires du tarif social peuvent, à la fin de la prise de commandes, choisir la méthode de paiement "tarif réduit" et bénéficier du tarif préférentiel sur l'ensemble de leur panier, soit 20% de remise.
 
 {% hint style="info" %}
 Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "catalogue boutique" pour gérer des tarifications différenciées. Vous pouvez par exemple créé une boutique pour les acheteurs pro, dont vous ne communiquer l'url qu'à ces acheteurs. Cette boutique peut gérer un catalogue boutique et modifier les prix des produits qui s'afficheront dans la boutique. Cette solution peut être utile lorsque la ristourne appliquée aux professionnels ne suit aucune "règle" fixe, et que les prix sont définis produits par produits.
@@ -88,3 +97,4 @@ Au delà de l'usage des tags, il est possible d'utiliser la fonctionnalité "cat
 **ATTENTION**: N'oubliez pas de définir vos [règles de tag](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules#regles-de-tags) afin que les tags fonctionnent !
 {% endhint %}
 
+&#x20;
