@@ -2,7 +2,7 @@
 
 Lors de votre première connexion à l'interface d'administration, vous devrez choisir le type d'entreprise correspondant à votre situation. **Sans cette étape, la création de votre entreprise ne sera pas finalisée et votre entreprise restera invisible sur la carte.** Pour accéder à l'interface d'administration, assurez-vous d'être connecté(e) à la plateforme puis cliquez sur l'icone "Compte" en haut à droite, puis "Administration" :&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 13.37.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 13.37.59 (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois sur l'interface administration, vous êtes invité(e) à choisir un type d'entreprise correspondant à l'entreprise créée. En fonction de ce choix, les menus vous permettant d'affiner votre profil et d'accéder aux fonctionnalités dont vous avez besoin seront rendus accessibles sur la [page des paramètres de votre entreprise.](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings)&#x20;
 
@@ -16,7 +16,7 @@ Attention, le processus sera légèrement différent pour la création de vos pr
 
 Trois types d'entreprises sont proposés pour les producteurs :&#x20;
 
-![](<../../.gitbook/assets/image (42) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (42) (1) (1) (1) (1).png>)
 
 *   **Profil simple**&#x20;
 

@@ -10,7 +10,7 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](<../../../.gitbook/assets/image (42) (1).png>)
+![](<../../../.gitbook/assets/image (44) (1).png>)
 
 Puis cliquez sur "Nouveau cycle de vente".
 
@@ -20,7 +20,7 @@ Puis cliquez sur "Nouveau cycle de vente".
 
 Vous êtes alors redirigé vers l'écran suivant :&#x20;
 
-![](<../../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../../.gitbook/assets/image (41) (1).png>)
 
 **Commandes jusqu'au :** La date à laquelle votre boutique arrêtera d'accepter des commandes pour ce cycle de vente. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 

@@ -6,7 +6,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent se voir attribuer un tag, donc être associés à une catégorie d'acheteur donnée.
 
-![](<../../../.gitbook/assets/image (43) (1) (1).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 ## Adresse de facturation et de livraison par défaut
 
@@ -14,7 +14,7 @@ Chaque acheteur peut avoir une adresse de livraison et facturation par défaut. 
 
 Si un acheteur change d'adresse, il peut aussi modifier cette adresse par défaut durant la commande en cochant la case "**Sauvegarder comme adresse par défaut**" :&#x20;
 
-![](<../../../.gitbook/assets/image (65) (1).png>)
+![](<../../../.gitbook/assets/image (82) (1) (1).png>)
 
 ## Tags (association d'un acheteur à une catégorie donnée)
 

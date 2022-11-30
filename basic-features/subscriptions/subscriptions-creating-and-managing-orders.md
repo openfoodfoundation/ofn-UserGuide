@@ -80,7 +80,7 @@ Dans ce cas, l'acheteur sera alerté de l'indisponibilité de certains produits 
 
 Depuis la page **Abonnements**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (89).png>)
 
 A partir de là vous pouvez modifier les produits de la commande récurrente, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin.&#x20;
 

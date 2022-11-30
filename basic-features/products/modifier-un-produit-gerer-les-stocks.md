@@ -6,7 +6,7 @@ Sur la page "**Produits**", vous retrouvez sur chaque ligne les informations gé
 
 Pour pouvoir modifier les stocks, prix et unités, cliquez sur les flèches à gauche de chaque ligne produit afin d'afficher ses variantes.
 
-![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54 (1).png>)
+![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54.png>)
 
 Pour chaque variante, vous pouvez facilement :
 
@@ -21,4 +21,4 @@ Pour les autres paramètres, cliquez sur l'icône "crayon", à droite de la lign
 
 Vous pourrez alors accéder à l'édition de tous les paramètres concernant ce produit.
 
-![](<../../.gitbook/assets/Screen Shot 2022-07-22 at 16.59.35.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-07-22 at 16.59.35 (1).png>)

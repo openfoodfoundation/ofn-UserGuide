@@ -6,7 +6,7 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 Pour commencer à utiliser OFN, suivez ces étapes&#x20;
 
-![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1) (1).jpg>)
+![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft.jpg>)
 
 1. [Enregistrez votre organisation](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
    Si vous souhaitez vendre des produits que vous fabriquez ainsi que ceux d'autres personnes, choisissez les formules ["Producteur" et "Hub".](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) Si vous souhaitez uniquement vendre des produits fabriqués par d'autres personnes, choisissez les formules ["Non-producteur" et "Hub"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types). Complétez les paramètres de votre entreprise avec les détails de votre activité.

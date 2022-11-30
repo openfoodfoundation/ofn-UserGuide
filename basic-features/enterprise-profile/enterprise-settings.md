@@ -11,7 +11,7 @@ description: >-
 1. Une fois connecté, et en accédant à votre tableau de bord d'administration, sélectionnez "Entreprises" sur le menu principal.
 2. Sélectionnez "Paramètres" à côté de votre entreprise.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.05 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.05.png" alt=""><figcaption></figcaption></figure>
 
 Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour une boutique multi-producteurs (hub) :&#x20;
 

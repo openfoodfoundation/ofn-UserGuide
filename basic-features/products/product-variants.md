@@ -1,4 +1,4 @@
-# Les variantes
+# Créer des variantes d'un produit
 
 Si vous créez deux produits similaires dont seul le prix ou la taille ou un parfum / ingrédient varie, le mieux est de créer deux "variantes" d'un même produit plutôt qu'un deuxième produit distinct. Ce sera plus clair pour le client final et surtout plus lisible sur la boutique en ligne.
 
@@ -12,12 +12,12 @@ Tout d'abord, il est nécessaire de créer un produit, qui sera automatiquement 
 
 Toujours sur votre interface d'administration, rendez-vous sur la page produits où vous retrouvez la liste des produits pour les entreprises de nature "producteur" que vous gérez. Pour voir toutes les variantes associées à l'ensemble de vos produits, cliquez sur "Tout afficher" en rouge à gauche de la première ligne du tableau. Vous pouvez aussi, pour voir les variantes d'un produit spécifique, cliquez sur l'angle **">"** à gauche de la première colonne du tableau.Si vous souhaitez créer une nouvelle variante pour ce produit, cliquez sur le petit plus **"+"** qui s'affiche juste en-dessous comme sur cet écran :&#x20;
 
-![](<../../.gitbook/assets/image (40) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1) (1).png>)
 
 Cela ajoutera une nouvelle ligne vous permettant de saisir rapidement les informations concernant la seconde variante : \
 
 
-![](<../../.gitbook/assets/image (70) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (39) (1).png>)
 
 
 

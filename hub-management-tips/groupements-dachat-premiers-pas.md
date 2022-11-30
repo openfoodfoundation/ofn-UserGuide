@@ -34,7 +34,7 @@ Nous allons vous guider pas à pas pour la mise en place du GA.
 
 
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.05 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 10.50.20.png" alt=""><figcaption></figcaption></figure>
 

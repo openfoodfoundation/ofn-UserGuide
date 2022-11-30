@@ -5,7 +5,7 @@ Pour les producteurs vendant leurs propres produits en direct, ces coûts sont d
 
 Lorsqu'une marge est appliquée, le consommateur est capable de voir la **constitution du prix** d'un produit sur la boutique en cliquant sur le camembert à droite du prix. Exemple ci-dessous :
 
-![](<../../.gitbook/assets/image (61) (1).png>)
+![](<../../.gitbook/assets/image (41) (1) (1).png>)
 
 
 
@@ -19,7 +19,7 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigé·e vers la page suivante :&#x20;
 
-![](<../../.gitbook/assets/image (46) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 
@@ -55,7 +55,7 @@ Pour reporter parfaitement les frais Stripe il faudrait pouvoir cumuler les calc
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (60) (1) (1).png>)
+![](<../../.gitbook/assets/image (43) (1) (1) (1) (2).png>)
 
 
 

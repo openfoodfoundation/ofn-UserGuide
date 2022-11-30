@@ -4,7 +4,7 @@ Il est possible d'avoir plusieurs cycles de vente simultanés. Cette fonctionnal
 
 L'acheteur pourra naviguer facilement de l'un à l'autre en cliquant sur la liste déroulante "Prêt pour" :
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.36.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.36.42 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Créer des cycles de vente simultanés**
 
@@ -27,7 +27,7 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 
 Il suffit de vous rendre dans le menu Entreprises > Gérer > Préférences boutique :&#x20;
 
-![](<../../../.gitbook/assets/image (86) (1).png>)
+![](<../../../.gitbook/assets/image (35) (1).png>)
 
 ## **Masquer les cycles de vente pour certains acheteurs**
 

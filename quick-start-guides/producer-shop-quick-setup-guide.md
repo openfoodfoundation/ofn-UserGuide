@@ -6,7 +6,7 @@ description: Toutes les étapes pour commencer votre utilisation d'OFN en tant q
 
 Pour commencer à utiliser OFN, suivez ces étapes:
 
-![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft.jpg>)
+![](<../.gitbook/assets/Copy of Quick Set up in 5 steps draft (1) (1).jpg>)
 
 1. [Enregistrez votre entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/register-and-create-your-profile)\
    Choisissez les formules ["Producteur" et "Boutique"](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/package-types) et complétez vos paramètres d'entreprise avec les détails de votre boutique.

@@ -10,7 +10,7 @@ Votre utilisation d'Open Food Network (OFN) dépend de votre besoin : communique
 
 Sur OFN, vous avez le choix entre trois catégories : Profil, Boutique et Boutique multi-producteurs (hub).
 
-![](<.gitbook/assets/Aus Wordpress 1 column image 1080 x 540 (1).jpg>)
+![](<.gitbook/assets/Aus Wordpress 1 column image 1080 x 540.jpg>)
 
 {% hint style="info" %}
 Grâce à la flexibilité du logiciel Open Food Network, vous pourrez facilement changer de catégorie à mesure que votre organisation se développe et/ou que vos besoins évoluent.

@@ -8,7 +8,7 @@ Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) 
 
 Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "Import produits en lot" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](<../../.gitbook/assets/image (72) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
 
 Vous serez redirigé vers la page suivante :
 
@@ -51,7 +51,7 @@ L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modi
 
 **Photo :** Téléchargez une photo du produit.
 
-![](<../../.gitbook/assets/image (41) (1) (1).png>)
+![](<../../.gitbook/assets/image (61) (1).png>)
 
 
 
@@ -77,7 +77,7 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "**Produits**" 
 
 
 
-![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54.png>)
+![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54 (1).png>)
 
 ## Créer un produit similaire / une déclinaison du produit
 
@@ -89,7 +89,7 @@ Les variantes sont un gain de temps, par exemple si vous vendez des citrons indi
 
 Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau grâce aux icônes à droite de celui-ci.
 
-![](<../../.gitbook/assets/image (44) (1) (1).png>)
+![](<../../.gitbook/assets/image (43) (1) (1) (1) (1) (2).png>)
 
 ## Affiner les attributs des produits
 

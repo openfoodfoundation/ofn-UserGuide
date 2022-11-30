@@ -120,7 +120,7 @@ Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoi
 
 :thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition d'un cycle de vente :
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.29.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.29.08 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Liste des cycles de vente
 

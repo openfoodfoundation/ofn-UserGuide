@@ -60,7 +60,7 @@ Cette méthode permet d'assigner le label à tous les produits de l'entreprise. 
 
 Sur l'interface d'administration, rendez-vous sur le menu "**Entreprises**" puis cliquez sur "paramètres" et accédez à "**Propriétés/Labels**" dans le menu vertical de gauche :
 
-![](<../../.gitbook/assets/image (38) (1) (1).png>)
+![](<../.gitbook/assets/image (38) (1) (1).png>)
 
 {% hint style="warning" %}
 Les propriétés s'appliquent uniquement aux profils, boutiques et hubs de producteurs. Cette option ne sera pas disponible pour les hubs non producteurs.
@@ -84,13 +84,13 @@ N'oubliez pas de sauvegarder vos modifications en cliquant sur " Mettre à jour 
 
 Sur l'interface d'administration, rendez-vous sur le menu "Produits" et modifiez un produit existant (il n'est pas possible d'ajouter des labels à la création produit) :&#x20;
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1) (2).png>)
 
 
 
 Une fois sur cette page cliquez sur "**Propriété du produit**" sur le menu vertical de droite :&#x20;
 
-![](<../../.gitbook/assets/Capture d’écran 2022-02-17 à 11.42.47.png>)
+![](<../.gitbook/assets/Capture d’écran 2022-02-17 à 11.42.47.png>)
 
 Il y a 2 champs lors de l'attribution d'une propriété de produit :
 
@@ -110,7 +110,7 @@ Comme indiqué précédemment, lorsqu'une propriété est attribuée à une entr
 
 Lorsque vous modifiez les propriétés d'un produit, vous verrez une case à cocher intitulée "**Hériter des propriétés de (Nom de l'entreprise) (sauf si elle est modifiée ci-dessus)**". Par défaut, lorsqu'une entreprise possède une propriété, cette case sera cochée pour tous les produits appartenant à l'entreprise. Si vous décochez cette case, toutes les propriétés de l'entreprise qui ont été héritées seront supprimées.
 
-![](<../../.gitbook/assets/Capture d’écran 2022-02-17 à 11.48.13.png>)
+![](<../.gitbook/assets/Capture d’écran 2022-02-17 à 11.48.13 (1).png>)
 
 {% hint style="warning" %}
 Si vous avez laissé la case cochée et que vous ajoutez une propriété au produit, qui existe déjà au niveau de l'entreprise, la description de la propriété ajoutée au niveau du produit sera prioritaire par rapport à la description au niveau de l'entreprise.&#x20;
@@ -125,6 +125,6 @@ En cliquant sur le profil d'un producteur, les labels entreprises s'affichent su
 Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés : \
 
 
-![](<../../.gitbook/assets/image (57) (1) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1).png>)
 
 Les acheteurs peuvent également filtrer les produits d'une boutique en fonction des labels.

@@ -8,7 +8,7 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre /vos
 
 Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande(s) recherchée(s). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
-![](<../../.gitbook/assets/image (45) (1).png>)
+![](<../../.gitbook/assets/image (64) (1).png>)
 
 **Distributeur :** Il s'agit de l'entreprise (distributeur) via laquelle les commandes recherchées ont été passées.
 
@@ -143,7 +143,7 @@ La liste des commandes présente les commandes alors que cette page liste les pr
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes qui vous sont utiles (voir ci-dessous).
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
