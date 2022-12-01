@@ -52,7 +52,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
     Ce choix vous permet de gérer une boutique pour y vendre les produits des producteurs qui vous ont donné la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es). Pour plus d'informations sur le profil type des utilisateurs choisissant ce profil, rendez-vous sur la page[ hub](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/multi-producers-shop-hub-quick-setup-guide).
 
-## Modifier le type d'entreprise
+## Modifier le type d'entreprise <a href="#modifier-type-entreprise" id="modifier-type-entreprise"></a>
 
 Dans l'onglet "Entreprises", cliquez sur la flèche en-dessous  des colonnes "producteur" et "type de profil", comme indiqué sur la capture ci-dessous :&#x20;
 
