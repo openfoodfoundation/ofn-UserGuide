@@ -112,7 +112,7 @@ A noter qu'un mois après sa fermeture, un cycle de vente n’apparaît plus dir
 
 La dernière étape vous permet de sélectionner les méthodes de livraison ou de paiement qui doivent s'afficher lors du parcours d'achat du cycle de vente. Par défaut, toutes vos méthodes sont sélectionnées.
 
-## Notifier les producteurs des commandes passées / récapitulatif de commandes <a href="#notifier-producteurs" id="notifier-producteurs"></a>
+## Notifier les producteurs des commandes / récapitulatif des produits à préparer <a href="#notifier-producteurs" id="notifier-producteurs"></a>
 
 Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoivent pas d'email avec la commande. Seul le hub reçoit cette information. Cela permet au hub de décider du moment où les producteurs seront notifiés, afin notamment de pouvoir modifier les commandes entre temps.&#x20;
 
