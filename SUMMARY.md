@@ -8,6 +8,7 @@
   * [Profil](quick-start-guides/profile-only-quick-setup-guide.md)
   * [Marchés Fermiers virtuels](quick-start-guides/digital-farmers-markets.md)
 * [Fonctionnalités](basic-features/README.md)
+  * [Changer la langue de l'interface](basic-features/changer-la-langue-de-linterface.md)
   * [L'inscription et la configuration du profil d'entreprise](basic-features/register-and-create-your-profile.md)
   * [Tableau de Bord](basic-features/dashboard.md)
   * [Type d'entreprise](basic-features/enterprise-profile/README.md)
