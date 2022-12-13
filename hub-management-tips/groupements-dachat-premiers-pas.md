@@ -145,11 +145,23 @@ Une demande de développement est déjà déposée pour que les fournisseurs aie
 
 ## Tadaaaaam !&#x20;
 
-Et voilà, votre boutique est en place et prête à vendre. Vous pouvez : la laisser cachée et ne partager l'url qu'à vos contacts, ou rebasculer en mode "visible" et restreindre l'accès aux ventes à votre liste de membres (voir ces différentes[ modalités ici](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront)). Ou la laisser visible et ouverte à tous·te·s, si tel est votre souhait.
-
-Pour toute question, dans un premier temps nous vous recommandons de chercher des réponses dans le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique ;)
+Et voilà, votre boutique est en place et prête à vendre. Pour toute question, dans un premier temps nous vous recommandons de chercher des réponses dans le guide d'utilisation - la fonction recherche (en haut à droite) est très pratique ;)
 
 Si vous ne trouvez pas réponse à vos questions, n'hésitez-pas à nous solliciter par mail :)
 
 Bonnes ventes !
+
+
+
+## Bonus : Réserver la boutique aux membres du GA
+
+Si vous souhaitez que votre boutique soit uniquement visible par les membres de votre GA, vous pouvez la[ rendre "privée"](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront#limiter-lacces-a-votre-boutique-a-votre-liste-dacheteurs). Cela demande cependant de rentrer manuellement les emails de vos acheteurs dans l'onglet "Acheteurs", ce qui peut être long si vous avez beaucoup de membres. Dans ce cas, nous vous conseillons de rendre plutôt la boutique "invisible" pendant une ou deux sessions de vente, et de ne partager l'url qu'à vos contacts : leurs emails vont s'ajouter automatiquement à la liste "Acheteurs" lors des premières commandes. Vous pourrez ensuite rebasculer votre boutique en mode "visible" et la rendre privée.
+
+
+
+
+
+
+
+
 
