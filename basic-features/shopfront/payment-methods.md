@@ -52,7 +52,7 @@ Si vous souhaitez proposer à vos client·e·s de payer par carte bancaire lors 
 {% hint style="info" %}
 L'utilisation de ces prestataires bancaires a un coût.
 
-Les frais prélevés par Stripe sont par exemple de 1,4% + 0,25 cts par transaction (de temps en temps, Stripe peut modifier cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.)
+Les frais prélevés par Stripe sont par exemple de 1,5% + 0,25 cts par transaction (attention, Stripe modifie régulièrement cette commission - vous pouvez vérifier [sur leur site](https://stripe.com/fr/pricing) que ce sont bien les chiffres actualisés.)
 
 Vous pouvez appliquer une commission sur la méthode de paiement si vous souhaitez faire absorber ce coût aux consommateur·ices.
 {% endhint %}
