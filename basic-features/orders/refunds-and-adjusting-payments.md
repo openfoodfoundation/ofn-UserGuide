@@ -1,6 +1,6 @@
 # Refunds and Adjusting Payments
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (1).png>)From time to time, a customer may request that their order is adjusted, either to remove or add items.&#x20;
+From time to time, a customer may request that their order is adjusted such as adding or removing an item.
 
 On other occasions you as a business manager may need to change an order. Common scenarios include:
 
@@ -11,12 +11,12 @@ On other occasions you as a business manager may need to change an order. Common
 The process of issuing a refund or requesting further payment depends on the [payment method](../shopfront/payment-methods.md) employed. &#x20;
 
 {% hint style="warning" %}
-On the OFN platform, refunds and additional payments can only be taken **automatically** using the [Payment Method](../shopfront/payment-methods.md) Provider **Stripe/Stripe SCA**.
+On the OFN platform, refunds and additional payments can only be made **automatically** using the [Payment Method](../shopfront/payment-methods.md) Provider **Stripe/Stripe SCA**.
 {% endhint %}
 
 ## Refunds
 
-Using the OFN Platform, you can either process a Total refund, or make an adjustment to the order to change the balance owing, and then process a Partial refund.
+Using the OFN Platform you can process a [total refund](refunds-and-adjusting-payments.md#total-refund), which refunds the entirety of the order, or a [partial refund](refunds-and-adjusting-payments.md#partial-refund), which you might use when an item was not available for example.
 
 {% hint style="warning" %}
 If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
@@ -234,13 +234,13 @@ Orders will now display with the Payment State = ‘Balance Due’:
 ![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2\_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
 
 To record payment of the extra monies due visit [Orders -> Edit Order](view-orders.md#editing-an-order) and then ‘Payments’. \
-Select **+New Payment** (top right hand blue button)
+Select **+ New Payment** (top right hand blue button)
 
 1. If customer has given your business the money owing in **cash or BACS** payment then record this in the same manner as detailed for a refund, but use a positive value in the ‘Amount’ field.
-2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this.
+2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this. You can also log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
 
-{% hint style="danger" %}
-Note collection of the extra monies by PayPal through the platform is, at present, not possible.
+{% hint style="warning" %}
+Collection of additional payments through PayPal is not possible at present
 {% endhint %}
 
 {% hint style="warning" %}
