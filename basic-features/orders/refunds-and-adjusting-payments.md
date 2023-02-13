@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (1).png>)From time to time, a customer may request that their order is adjusted, either to remove or add items.&#x20;
 
-On other occasions you, as a business manager, may need to change an order. Common scenarios include:
+On other occasions you as a business manager may need to change an order. Common scenarios include:
 
 1. A product was not delivered by a supplier
 2. A product was of lower quality than expected
@@ -24,7 +24,7 @@ If you have integrated with Stripe as a Payment Method, you can log in to your S
 
 ### Total Refund
 
-To issue a refund, select the relevant payment method from the tabs below:
+To issue a _total refund_, select the relevant payment method from the tabs below:
 
 {% tabs %}
 {% tab title="Cash/BACS" %}
@@ -120,33 +120,34 @@ Cancelling an order will **automatically** **update stock levels**. For example,
 {% endhint %}
 
 {% hint style="danger" %}
-Note you cannot cancel an order which has been marked as ‘Shipped’
+Note that you cannot cancel an order which has been marked as ‘Shipped’
 {% endhint %}
+
+###
 
 ### Partial Refund
 
-To issue a partial refund, you first need to edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can either remove an item, or make an adjustment:
+To issue a partial refund, you must first edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can adjust item quantities, or make an adjustment:
 
-**1. Edit by removing an item which is not in stock or changing the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon:
+**1. Edit the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon next to the item:
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.22.52 (1).png>)
 
-You can then reduce the quantity, remembering click the 'tick' button to save your changes:
-
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.25.57.png>)
-
-You can also remove an item from an order completely by clicking the 'delete' button:
+You can _remove_ an item from an order completely by clicking the 'delete' button:
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.21.53.png>)
+
+Or you can _reduce_ the quantity by editing the quantity value, remembering to click the 'tick' button to save your changes:
+
+![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.25.57.png>)
 
 Select **‘Update and Recalculate Fees’** at the bottom of the page to save your changes.
 
 {% hint style="danger" %}
-If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.\
-
+If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
 {% endhint %}
 
-**2. Edit by adding a new Adjustment** to the **** [**order**](view-orders.md#modify-an-order) **** by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+New Adjustment** (the top right hand button).
+**2. Edit by adding a new Adjustment** to the **** [**order**](view-orders.md#modify-an-order) **** by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+ New Adjustment**  at the top right.
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-04 at 15.46.10.png>)
 
@@ -162,10 +163,10 @@ Add the relevant details, remembering that for **a refund**,  the value needs to
 You can use ‘Adjustments’ to partially refund a customer for a substandard product.
 {% endhint %}
 
-Once the order has been amended to reflect either the missing/adjusted products or the new adjustment, the order will appear with the payment state of ‘Credit Owing’ for the amount the customer no longer needs to pay.
+Once the order has been amended to reflect either the missing/adjusted products or the new adjustment, the order will appear with the payment state of **‘Credit Owing’** for the amount the customer no longer needs to pay.
 
 **Process the Partial Refund**\
-To process a partial refund of the amount that is now owing on the order, see instructions by choosing the payment method from the following tabs:
+To process a partial refund of the amount that is now owed, see instructions by choosing the payment method from the following tabs:
 
 {% tabs %}
 {% tab title="Cash/BACS" %}
@@ -188,7 +189,7 @@ Using the OFN platform you can automatically refund a customer who paid by Strip
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
 
-2\. As you created the adjustment in the previous step, the payment screen will now say 'Credit Owed' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded. ****&#x20;
+2\. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded. ****&#x20;
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 
@@ -236,9 +237,7 @@ To record payment of the extra monies due visit [Orders -> Edit Order](view-orde
 Select **+New Payment** (top right hand blue button)
 
 1. If customer has given your business the money owing in **cash or BACS** payment then record this in the same manner as detailed for a refund, but use a positive value in the ‘Amount’ field.
-2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this:
-
-![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ\_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd\_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
+2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this.
 
 {% hint style="danger" %}
 Note collection of the extra monies by PayPal through the platform is, at present, not possible.
