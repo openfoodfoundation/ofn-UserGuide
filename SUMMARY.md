@@ -75,7 +75,7 @@
   * [Newsletters & Promotional Emails](complementary-tools-software/communication.md)
   * [Accounting and Invoicing Packages](complementary-tools-software/finances/README.md)
     * [Paying suppliers with ABA files (Australia)](complementary-tools-software/finances/paying-suppliers.md)
-* [Trouble shooting](trouble-shooting.md)
+* [Frequently Asked Questions](trouble-shooting.md)
 * [Glossary of OFN Terms](glossary-of-ofn-terms.md)
 * [Shopping with Open Food Network!](shopping-with-open-food-network/README.md)
   * [About Open Food Network](shopping-with-open-food-network/about-open-food-network.md)

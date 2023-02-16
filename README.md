@@ -2,7 +2,7 @@
 
 | Language version                                                                         | Link to the user guide                                                                                                                               |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line">   | _You are reading the English version !_                                                                                                              |
+| <img src=".gitbook/assets/capture-du-2019-09-26-00-38-19.png" alt="" data-size="line">   | _You are reading the English version!_                                                                                                               |
 | <img src=".gitbook/assets/capture-du-2019-09-26-00-38-01.png" alt="" data-size="line">   | [Accéder à la version française du guide utilisateur Open Food Network](https://guide.openfoodnetwork.org/v/fr/)                                     |
 | <img src=".gitbook/assets/capture-du-2019-09-26-00-37-35.png" alt="" data-size="line">   | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/)                                                    |
 | <img src=".gitbook/assets/turkey.jpg" alt="" data-size="line">                           | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/)                                    |
@@ -12,7 +12,7 @@
 | <img src=".gitbook/assets/flagge-deutschland.jpg" alt="" data-size="line">               | [Lesen Sie hier die deutsche Version des OFN Benutzerhandbuchs](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/deutsch/)          |
 | <img src=".gitbook/assets/bandiera italia.png" alt="" data-size="line">                  | [Accedi alla versione in italiano della Guida agli utenti di Open Food Network](https://guide.openfoodnetwork.org/v/it/)                             |
 
-**This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and “short food chains” wherever you live.**
+**This user guide is designed to help you get the most out of the Open Food Network platform to support the operation of local food enterprises and short food chains wherever you live.**
 
 ## An overview
 
@@ -24,19 +24,19 @@ This short video will give you a brief introduction to how the Open Food Network
 
 {% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
-## How to use this guide?
+## What's in our user guide?
 
 ### > Quick setup guides tailored to your enterprise
 
-Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-ofn-given-who-you-are.md)!&#x20;
+Are you new to the Open Food Network? Take a look at our [quick start guides](quick-start-guides/) for step-by-step instructions on setting up your enterprise for the first time.
 
 {% hint style="info" %}
-We recommend these guides to users starting out on the Open Food Network platform for the first time.
+Find out more about where your enterprise fits in the Open Food Network [here](your-quick-start-on-ofn-given-who-you-are.md)
 {% endhint %}
 
 ### > Features to meet your needs
 
-Find a [detailed explanation of every feature our platform offers](basic-features/), so you can set up your Open Food Network enterprise to specifically meet your local needs.
+Already set up, but want to find out more? Find a [detailed explanation of every feature our platform offers](basic-features/) so you can tailor your Open Food Network enterprise to meet your individual needs.
 
 {% hint style="info" %}
 We recommend these guides to users who would like to customise their Open Food Network enterprise specifically to meet the needs of their business or customers.
@@ -52,14 +52,14 @@ The Open Food Network does a lot of things, but no one tool can fit all needs. W
 
 ### > Trouble shooting
 
-Still not finding what you need ? Check the [Trouble Shooting section](trouble-shooting.md) to see if others had the same questions as you!
+Still not finding what you need? Check the [Trouble Shooting section](trouble-shooting.md) to see if your question has been asked by other users
 
 ### > Search
 
-Looking for information on something specific? Use the search bar in the top left corner to find the information you need.
+Looking for information on something specific? Use the search bar in the top right corner to find the information you need.
 
 ![](.gitbook/assets/capture-du-2019-09-26-00-49-08.png)
 
 ## Feedback
 
-Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md) for any feedback!
+Any problems with our user guide? Is there any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md), we'd love to hear your feedback.
