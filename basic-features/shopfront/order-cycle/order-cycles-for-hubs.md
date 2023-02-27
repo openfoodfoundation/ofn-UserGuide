@@ -80,7 +80,11 @@ Cette étape permet de définir les distributeurs qui vont vendre les produits d
 
 **6/ Ajouter une commission** **:** Une marge ou commission peut être spécifiée. Elle s'appliquera sur tous les produits proposés à la vente par ce distributeur. Se référer aux [explications sur les commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees).
 
-Cliquez sur "Sauvegarder" pour créer le cycle de vente.&#x20;
+Cliquez sur "Sauvegarder" pour créer le cycle de vente.
+
+
+
+### Tableau de bord des cycles de vente&#x20;
 
 Les cycles de vente sont présentés en :
 
