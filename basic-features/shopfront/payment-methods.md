@@ -27,7 +27,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
   * Cash / EFT / etc. (Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation)&#x20;
   * MasterCard Internet Gateway Service (MIGS)&#x20;
   * PayPal Express&#x20;
-  * [Pin Payments](https://pinpayments.com) (Australia only)&#x20;
+  * [Pin Payments](https://pinpayments.com/) (Australia only)&#x20;
   * Stripe
 * **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators).&#x20;
 

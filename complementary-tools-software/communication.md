@@ -5,7 +5,7 @@ A good way of keeping in touch with customers and potential customers is to set 
 * a monthly newsletter on the progress of your enterprise, new products, news from producers, etc.
 * an email notification each time a new sales cycle is launched.
 
-One of the most common tools online today is [Mailchimp](https://mailchimp.com), so here are some tips and tricks for using Mailchimp to send your newsletters.
+One of the most common tools online today is [Mailchimp](https://mailchimp.com/), so here are some tips and tricks for using Mailchimp to send your newsletters.
 
 {% hint style="danger" %}
 Be sure to follow local legal guidelines when storing and processing customer contact information.  For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
