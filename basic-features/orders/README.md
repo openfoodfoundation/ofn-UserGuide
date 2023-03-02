@@ -5,4 +5,3 @@ Once your shop is online (i.e. you have an active [Order Cycle](../shopfront/ord
 * [manage and modify orders](view-orders.md)
 * [create orders manually for customers](create-orders-manually.md)
 * [adjust payments](refunds-and-adjusting-payments.md) (refunds etc.)
-* print [receipts](broken-reference).
