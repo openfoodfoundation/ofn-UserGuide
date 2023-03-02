@@ -5,4 +5,3 @@ Una volta che il tuo negozio sarà online (ovvero avrai un [Ciclo di Richieste](
 * [Gestire e modificare le gentili richieste](view-orders.md)
 * [Creare gentili richieste manualmente](create-orders-manually.md)
 * [Correggere pagamenti](refund-payments.md) (rimborsi ecc.)
-* Stampare [ricevute](thermally-printed-receipts.md).

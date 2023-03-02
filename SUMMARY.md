@@ -43,7 +43,6 @@
     * [Visualizza Gentili Richieste](basic-features/orders/view-orders.md)
     * [Create orders manually](basic-features/orders/create-orders-manually.md)
     * [Rimborsi ed Aggiustamenti nei Pagamenti](basic-features/orders/refund-payments.md)
-    * [Thermally printed receipts](basic-features/orders/thermally-printed-receipts.md)
   * [Subscriptions](basic-features/subscriptions/README.md)
     * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Subscriptions- Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
