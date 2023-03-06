@@ -4,24 +4,28 @@
 
 To activate the subscription functionality for your enterprise, go to Enterprises-> Settings-> [shop preferences](../enterprise-profile/enterprise-settings.md#shop-preferences).
 
-At the bottom of the page change Subscriptions to 'enabled'
+At the bottom of the page change the Subscriptions setting to 'enabled'.
 
 ![](../../.gitbook/assets/subscriptions1.jpg)
 
-**Guest orders**: For enterprises with subscriptions enabled, we recommend that you require all customers to login before they can shop with you. This will ensure that any customer with a subscription will login and see their existing subscription order, and not accidentally place a duplicate order.
+**Guest orders**: For enterprises with subscriptions enabled, we recommend that you change this setting to 'require login to order'. This ensures that customers see any active subscription orders once logged in, minimising the risk of them placing a duplicate order by mistake.
 
-**Change orders**: For customers with a regular repeating order from your enterprise on subscription, then the following options imply:
+**Change orders**: For enterprises with subscriptions, the options for this setting affect the subscribed customer in the following ways:
 
-* _Placed Orders cannot be changed/cancelled:_ The customer will need to contact you to modify their regular order (alter quantities of each product requested or cancel the order).&#x20;
-* _Customers can change/cancel orders white order cycle is open:_ The customer can modify the quantities of products they request in their subscription and/or cancel the entire order.
+* _Placed orders cannot be changed/cancelled:_ The customer will need to _contact_ _you_ to modify their current subscription order (e.g. alter quantities of products or cancel that week's order) as they are prevented from editing orders themselves.&#x20;
+* _Customers can change/cancel orders while order cycle is open:_ The customer can adjust product quantities and/or cancel that week's order _by themselves,_ without contacting you.
+
+Note that this setting applies to all your orders, so see further information on the 'change orders' setting [here](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings#shop-preferences). Generally, we recommend using 'placed orders cannot be changed/cancelled'.
+
+
 
 {% hint style="info" %}
-In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket and checkout. _**Neither you nor they can not add new products to their subscription order once the order cycle is open.**_
+N.B. new items cannot be added to subscription orders during an open order cycle either by you or the customer. In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket containing the extra items and checkout as normal.
 {% endhint %}
 
 ## Shipping and Payment methods for Subscriptions
 
-When you are creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with.  This will then subsequently apply to all following orders placed on their behalf by the subscriptions
+When creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with. The options you choose when setting up the subscription will then apply to all following subscription orders placed on behalf of the customer.
 
 ### **Shipping methods**
 
@@ -31,12 +35,11 @@ You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) t
 
 You can only assign two types of [payment methods](../shopfront/payment-methods.md) to subscriptions.
 
-1. **Manual payment methods:** Cash, cheque, bank transfer (ie. any method which does not involve automatic validation online by the OFN platform).
-2. **Stripe:** Stripe is a payment gateway that takes payment with credit cards.  Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers).&#x20;
+1. **Manual payment methods:** Cash, cheque, bank transfer (i.e. any method which does not involve automatic validation online through the OFN platform).
+2. **Stripe:** Stripe is a payment gateway that accepts payment from debit and credit cards. Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers).&#x20;
 
 {% hint style="info" %}
-With each order automatically placed by a subscription, the customer's bank card will be debited for the order (on closure of the associated order cycle). The amount debited will reflect any modifications made by you or them to the order.\
-Customers will not be charged if they cancel their subscription order.
+With each order automatically placed by a subscription, the customer's bank card will be debited for the order (on closure of the associated order cycle). The amount debited will reflect any modifications made by you or them to the order. Customers will not be charged if they cancel their subscription order.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -46,7 +49,7 @@ For the customer to be debited correctly, it is necessary for them to have an ac
 {% hint style="success" %}
 If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.\
 \
-For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it details so the customer knows what to expect.
+For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it detailed so the customer knows what to expect.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (15).png>)

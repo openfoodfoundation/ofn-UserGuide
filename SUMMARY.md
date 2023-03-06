@@ -46,7 +46,7 @@
     * [Refunds and Adjusting Payments](basic-features/orders/refunds-and-adjusting-payments.md)
   * [Subscriptions](basic-features/subscriptions/README.md)
     * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
-    * [Subscriptions- Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
+    * [Subscriptions - Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
   * [Reports](basic-features/reports/README.md)
