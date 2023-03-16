@@ -1,17 +1,19 @@
-# Groupements d'achat : premiers pas
+# Groupements d'achat / groupement de producteurs : premiers pas
 
-Un groupement d'achat permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les adhérents/membres/client·e·s du GA). Sur CoopCircuits, il y a trois types d'"**entreprise"** :\
+Un groupement permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les client·e·s/adhérent·e·s/membres). Sur CoopCircuits, il y a trois types d'"**entreprise"** :\
 **- une boutique simple** : un producteur qui vend ses propres produits\
 **- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
 **- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
 
-Le Groupement d'Achat (GA) est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
+Un Groupement d'Achat (GA) ou un groupement de producteurs est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
 
-Les fournisseurs créent eux-mêmes leur propre "entreprise" afin de créer leur catalogue produit -  vous pouvez aussi le faire pour eux, cf chapitre 3) . Ils donnent ensuite la permission au Groupement d'Achat de vendre leur produits.&#x20;
+Chaque fournisseur dispose de sa propre "entreprise" (profil ou boutique) afin de créer et gérer son catalogue produit -  il est également possible que le gestionnaire de la boutique multi-producteur le fasse pour eux (cf chapitre 3) . Chaque "entreprise fournisseur" donne la permission à la boutique multi-producteurs de vendre ses produits.&#x20;
 
-Nous allons vous guider pas à pas pour la mise en place du GA.
+Les boutiques multi-producteurs peuvent être gérés par une ou plusieurs personnes (parfois ce sont les producteurs eux-mêmes), et une commission peut être affectée pour la gestion de la boutique multi-producteurs.
 
-<figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption><p>Les fournisseurs vous autorisent à vendre leurs produits. En tant que GA, vous êtes "distributeur" de ces produits, que vous proposez aux mangeurs à travers votre boutique multi-producteurs.</p></figcaption></figure>
+Nous allons vous guider pas à pas pour la mise en place de la boutique multi-producteurs.
+
+<figure><img src="../.gitbook/assets/schéma GA.png" alt=""><figcaption><p>Les fournisseurs vous autorisent à vendre leurs produits. En tant que groupement, vous êtes "distributeur" de ces produits, que vous proposez aux mangeurs à travers votre boutique multi-producteurs.</p></figcaption></figure>
 
 
 
@@ -153,9 +155,9 @@ Bonnes ventes !
 
 
 
-## Bonus : Réserver la boutique aux membres du GA
+## Bonus Groupement d'Achat : Réserver la boutique aux adhérents
 
-Si vous souhaitez que votre boutique soit uniquement visible par les membres de votre GA, vous pouvez la[ rendre "privée"](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront#limiter-lacces-a-votre-boutique-a-votre-liste-dacheteurs). Cela demande cependant de rentrer manuellement les emails de vos acheteurs dans l'onglet "Acheteurs", ce qui peut être long si vous avez beaucoup de membres. Dans ce cas, nous vous conseillons de rendre plutôt la boutique "invisible" pendant une ou deux sessions de vente, et de ne partager l'url qu'à vos contacts : leurs emails vont s'ajouter automatiquement à la liste "Acheteurs" lors des premières commandes. Vous pourrez ensuite rebasculer votre boutique en mode "visible" et la rendre privée.
+Si vous souhaitez que votre boutique soit uniquement visible par les membres de votre groupement, vous pouvez la[ rendre "privée"](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/private-shopfront#limiter-lacces-a-votre-boutique-a-votre-liste-dacheteurs). Cela demande cependant de rentrer manuellement les emails de vos acheteurs dans l'onglet "Acheteurs", ce qui peut être long si vous avez beaucoup de membres. Dans ce cas, nous vous conseillons de rendre plutôt la boutique "invisible" pendant une ou deux sessions de vente, et de ne partager l'url qu'à vos contacts : leurs emails vont s'ajouter automatiquement à la liste "Acheteurs" lors des premières commandes. Vous pourrez ensuite rebasculer votre boutique en mode "visible" et la rendre privée.
 
 
 

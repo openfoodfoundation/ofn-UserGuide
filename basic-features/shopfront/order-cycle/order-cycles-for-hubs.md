@@ -84,7 +84,7 @@ Cliquez sur "Sauvegarder" pour créer le cycle de vente.
 
 
 
-### Tableau de bord des cycles de vente&#x20;
+## Tableau de bord des cycles de vente&#x20;
 
 Les cycles de vente sont présentés en :
 

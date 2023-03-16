@@ -54,7 +54,7 @@
   * [Groupes](basic-features/groups/README.md)
   * [Changer la langue de l'interface](basic-features/changer-la-langue-de-linterface.md)
 * [Conseils aux gestionnaires de boutique](hub-management-tips/README.md)
-  * [Groupements d'achat : premiers pas](hub-management-tips/groupements-dachat-premiers-pas.md)
+  * [Groupements d'achat / groupement de producteurs : premiers pas](hub-management-tips/groupements-dachat-premiers-pas.md)
   * [Tutoriels](hub-management-tips/how-tos/README.md)
     * [Supprimer une entreprise](hub-management-tips/how-tos/delete-an-enterprise.md)
     * [Horaires d'achat spéciaux pour les groupes prioritaires](hub-management-tips/how-tos/early-shopping-hour-for-priority-groups.md)
