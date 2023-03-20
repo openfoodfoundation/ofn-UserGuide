@@ -68,6 +68,7 @@
     * [Cash/EFTs for trusted customers only](hub-management-tips/how-tos/cash-efts-for-trusted-customers-only.md)
     * [Running a Social Media Promotion](hub-management-tips/how-tos/running-a-social-media-promotion.md)
     * [How to Create Gift Vouchers](hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
+    * [Take orders on Credit](hub-management-tips/how-tos/take-orders-on-credit.md)
   * [Marketing Tips](hub-management-tips/marketing-tips.md)
   * [Social Media](hub-management-tips/social-media.md)
 * [Complementary software and tools](complementary-tools-software/README.md)
