@@ -9,7 +9,7 @@ Some enterprises use their order confirmation emails as packing sheets, or downl
 This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered.&#x20;
 
 {% hint style="success" %}
-This reports is helpful to check in items delivered by suppliers- keeping track of goods which may have been missed or are supplied damaged.
+This report is helpful to check in items delivered by suppliers - keeping track of goods which may have been missed or are supplied damaged.
 {% endhint %}
 
 ![Pack by Supplier Report](../../.gitbook/assets/pack-by-supplier.jpg)
@@ -23,3 +23,12 @@ This report is useful for packing all of a customer's shopping in a crate/bag/bo
 {% endhint %}
 
 ![Pack by Customer Report](../../.gitbook/assets/pack-by-customer.jpg)
+
+### Pack by Product
+
+This report lists the products ordered with a list of the customers who have ordered each product and the quantity ordered.
+
+###
+
+###
+

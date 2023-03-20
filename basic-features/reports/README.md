@@ -4,7 +4,21 @@ You can access reports by clicking on **Reports** in the blue horizontal menu. &
 
 ![](../../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
-Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report. \
+To customise your report there are two sections: filters and rendering options, which will allow you to access the relevant data from your report.
+
+Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as in CSV, PDF and Excel and OpenOffice format. To select which file type you would like to download click the **Generate** **Report** drop down box where you specify the filters for each report.&#x20;
+
+Reports displayed on the screen can be printed using the blue **Print Report** button in the top right corner of the report results:<img src="../../.gitbook/assets/print report.JPG" alt="" data-size="line">&#x20;
+
+You can use the **Columns to hide** filter to make your reports easier to read you can remove unnecessary data from your report. To do this just specify which information you don't want displayed in the text box: <img src="https://lh3.googleusercontent.com/Qh0uJbt76cQh-ryGCchdYybWp5X8KMdnG-VHLH-V1dU9pEniHMHOZc6mvuKzOdYM-NX4psrML2FhiLVTi45MCuKHDSD2UgQgo_Q5JsgEWRB-96m4jFbcRX1uQpUWpePstKXozJLW4efJD8P2D1rNMA4Bv8SSU3DhAQlMdX-Soq91r2qBf3l33XpS" alt="" data-size="line">
+
+The **summary row** is a filter that adds totals to the bottom of each type of report and the **header row** gives you the name of the customer and order number above the data. This feature is available for **Packing reports** and **Orders & Fulfillment** reports.
+
+<figure><img src="https://lh5.googleusercontent.com/7Fy8U08VYFOm21kwDqHkYf1N0k7PgYAjMoX_eq619BgHdC_lOoDrTJGsZJ_FlnpTNNA-NAC-GKxB2iD4IiCWIGDceUMZjWRUwd9NbLanot6JZ4V5AsmL3NRAiJ9gOGymDwEgRZZUsgeoGjNlSK6tiowhzdQ5cTx9RzzDnBHfAQqX1nzUbupY9pOv" alt=""><figcaption></figcaption></figure>
+
+
+
+\
 
 
 ## All Reports
