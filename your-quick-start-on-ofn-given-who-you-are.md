@@ -25,7 +25,7 @@ Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... (a '**Producer Hub**') or act solely as a distributor to sell a collection of groceries made by (local) enterprises (a '**Non-Producer Hub**').
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
+If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suits your needs better.
 {% endhint %}
 
 #### OFN can help your hub thrive and prosper by:
