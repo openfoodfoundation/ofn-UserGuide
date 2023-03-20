@@ -114,13 +114,13 @@ There's lots of flexibility in this arrangement and so feel free to experiment t
 
 Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
 
-![](<../../.gitbook/assets/ordercycle1 (2) (2).jpg>)
+![](<../../.gitbook/assets/ordercycle1 (2) (2) (2).jpg>)
 
 {% hint style="warning" %}
 You must have at least one open or due to open order cycle to be able to create a new schedule.
 {% endhint %}
 
-![](../../.gitbook/assets/new-schedule.bin)
+![](<../../assets/New Schedule>)
 
 **Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
 
@@ -137,11 +137,11 @@ Click **create** when you are finished.
 
 To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.  (The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.)
 
-![](../../.gitbook/assets/show-schedules.bin)
+![](<../../assets/Show Schedules>)
 
 You can change the name of the schedule, add/remove order cycles from it or delete the schedule.
 
-![](../../.gitbook/assets/delete-schedule.bin)
+![](<../../assets/Delete Schedule>)
 
 {% hint style="danger" %}
 You can not delete a schedule if there are subscriptions associated with it.

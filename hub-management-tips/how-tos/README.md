@@ -12,5 +12,5 @@ This list is not exhaustive and may not cover your specific scenario. Remember y
 * [Soft close an order cycle](soft-close-an-order-cycle.md)
 * [Cash/EFT for trusted customers only](cash-efts-for-trusted-customers-only.md)
 * [Running a social media promotion](running-a-social-media-promotion.md)
-* [How to Create Gift Vouchers](how-to-create-gift-vouchers.md).
-
+* [How to Create Gift Vouchers](how-to-create-gift-vouchers.md)
+* [Take orders on Credit](take-orders-on-credit.md).

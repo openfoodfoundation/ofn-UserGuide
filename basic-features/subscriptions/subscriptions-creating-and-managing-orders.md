@@ -58,7 +58,7 @@ If the 'Ends at' date falls in the middle of a future order cycle then no subscr
 
 Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
 
-![](../../.gitbook/assets/new-subscription-address.png)
+![](<../../assets/New Subscription Address.png>)
 
 {% hint style="warning" %}
 If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
@@ -68,7 +68,7 @@ If you update the customer's address/contact details in the [Customer](../shopfr
 
 Add the items the customer wishes to receive from your enterprise on a regular basis.
 
-![](../../.gitbook/assets/new-subscription-add-products.bin)
+![](<../../assets/New subscription add products>)
 
 {% hint style="warning" %}
 You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
@@ -118,7 +118,7 @@ If you want to change a single upcoming order in a subscription you can click on
 
 This will reveal all upcoming orders in the schedule, and you can then edit a specific order.
 
-![](../../.gitbook/assets/edit-single-subscription-order.bin)
+![](<../../assets/Edit single subscription order>)
 
 {% hint style="warning" %}
 Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).

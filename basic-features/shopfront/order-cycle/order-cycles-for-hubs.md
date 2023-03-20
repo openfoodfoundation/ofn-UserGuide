@@ -25,7 +25,7 @@ You can create an order cycle, and view previous order cycles by clicking on **M
 
 Or from the horizontal menu at the top of the page.
 
-![](<../../../.gitbook/assets/ordercycle1 (2) (2) (2).jpg>)
+![](<../../../.gitbook/assets/ordercycle1 (2) (2) (2) (1).jpg>)
 
 {% hint style="warning" %}
 You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
