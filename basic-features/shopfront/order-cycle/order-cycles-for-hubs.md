@@ -25,7 +25,7 @@ You can create an order cycle, and view previous order cycles by clicking on **M
 
 Or from the horizontal menu at the top of the page.
 
-![](<../../../.gitbook/assets/ordercycle1 (2) (2) (2).jpg>)
+![](<../../../.gitbook/assets/ordercycle1 (2).jpg>)
 
 {% hint style="warning" %}
 You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
@@ -43,7 +43,7 @@ Once the order cycle coordinator has been chosen, the process of setting up your
 
 ### 1) General Settings
 
-![](<../../../.gitbook/assets/ordercycle3 (1).jpg>)
+![](../../../.gitbook/assets/ordercycle3.jpg)
 
 **Name (**_**required**_**):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
 
@@ -72,7 +72,7 @@ The **Add Fee** button in this section, at the end of each producer's entry in t
 
 Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named 'OrderAdmin' is applied to the supplier, 'Producer of Fruit'.
 
-![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/enterprise-fee.png)
+![Apply enterprise fee to incoming supplier](../../../.gitbook/assets/Enterprise-Fee.png)
 
 {% hint style="warning" %}
 This fee will be applied to all of 'Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](../enterprise-fees.md) was created.
@@ -90,7 +90,7 @@ The **Tags** column is where you can tag your order cycles to customise whether 
 
 The **‘Ready for (i.e. Date/Time)’ (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfils orders on an individual basis rather than in bulk, you should enter something like ‘Two days after order is received’. The example below shows how a customer can toggle between different order cycles to select the date which suits them best.
 
-![](../../../.gitbook/assets/multipleoc3.jpg)
+![](<../../../.gitbook/assets/multipleoc3 (1).jpg>)
 
 {% hint style="info" %}
 If you operate with a continuously open shop front (i.e. you set your 'order cycle close date' further than 3 months away) then the blue 'Ready For' text box on your shop front (shown in above screenshot) will read 'Orders are currently open'.
@@ -102,7 +102,7 @@ The note is also shown at check out, when the customer selects their shipping me
 
 The **Pick-Up Instructions** message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method (see below). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
 
-![collection details message](../../../.gitbook/assets/collection-details.png)
+![collection details message](../../../.gitbook/assets/Collection-details.png)
 
 **Add Fee:** Again, a previously created enterprise fee can be assigned to this distributor.  For simple models (with one hub distributor, who also is the coordinator of the order cycle) adding a fee at this stage is the same as adding a 'Coordinator Fee' (it will apply to all products).\
 For complex models, the coordinator may wish to add different fees to all products sold though each distributor.  The best place to implement this functionality is here.
@@ -113,7 +113,7 @@ Click **Save** to schedule the order cycle. If the opening date has already pass
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates to make the process quicker. Click the button with two sheets of paper to the right of the table as highlighted below:
 
-![](../../../.gitbook/assets/occpy.jpg)
+![](<../../../.gitbook/assets/occpy (1).jpg>)
 
 Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
 

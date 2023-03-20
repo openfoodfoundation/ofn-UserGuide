@@ -34,7 +34,7 @@ For non-automated payment methods (such as cash on collection or BACS), there ar
 **The customer has not yet paid for the item.**\
 ****If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45.png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45 (1).png>)
 
 You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following the steps below for 'Marking an order as cancelled'.
 
@@ -52,11 +52,11 @@ When [viewing orders](view-orders.md#listing-orders) the order appears as 'payme
 
 
 
-![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47 (1).png>)
+![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47 (2).png>)
 
 
 
-![After marking the payment as void, the payment status changes to 'void'](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40.png>)
+![After marking the payment as void, the payment status changes to 'void'](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40 (1).png>)
 
 
 
@@ -66,7 +66,7 @@ Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking
 {% tab title="Stripe" %}
 Order payment is collected automatically on creation (except for [subscriptions](../subscriptions/)) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12 (1).png>)
+!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12.png>)
 
 
 
@@ -87,7 +87,7 @@ Once you have issued a refund, follow the steps below to [cancel the order](refu
 {% tab title="PayPal" %}
 Payment is collected automatically on checkout from the customer and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12.png>)
+!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12 (1).png>)
 
 
 
@@ -131,7 +131,7 @@ To issue a partial refund, you must first edit the order to change the balance o
 
 **1. Edit the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon next to the item:
 
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.22.52 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.22.52.png>)
 
 You can _remove_ an item from an order completely by clicking the 'delete' button:
 
@@ -173,7 +173,7 @@ To process a partial refund of the amount that is now owed, see instructions by 
 1. Arrange for the refund to be made to the customer independently of the platform. &#x20;
 2. Record this action by going to **Orders -> Edit** and selecting ‘Payments’ from the right hand menu, then '**+ New Payment**':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15.png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
 
 Enter a **negative value** in the ‘Amount’ field to record the refund as having been made.
 
@@ -187,7 +187,7 @@ Using the OFN platform you can automatically refund a customer who paid by Strip
 
 1. Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu.
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15.png>)
 
 2\. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded. ****&#x20;
 
@@ -221,7 +221,7 @@ A negative value in the ‘Amount’ field means that a refund is recorded.
 If you opt to add a new payment with the payment method provider ‘Paypal’ this will not be possible:
 {% endhint %}
 
-![](<../../.gitbook/assets/paypalnewpayment (1) (1).jpg>)
+![](<../../.gitbook/assets/paypalnewpayment (1).jpg>)
 {% endtab %}
 {% endtabs %}
 

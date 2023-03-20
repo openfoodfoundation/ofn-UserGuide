@@ -30,7 +30,7 @@ Once you have defined default rules, you can then set up exceptions to these rul
 * First define the customer group to which the exception will occur.  In the example above, the exception was applied to all customers with the tag 'wholesalecustomer'.
 * Then, for this customer group, you can choose to customise their shopping experience in one of four ways:
 
-![](../../../.gitbook/assets/rule-typess.png)
+![](../../../.gitbook/assets/Rule-Typess.png)
 
 {% hint style="warning" %}
 Remember to add the relevant tags to variants, shipping or payment methods, or order cycles, as well as to customers after you have set up a default or conditional tag rule!

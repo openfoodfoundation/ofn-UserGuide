@@ -20,7 +20,7 @@ When logged into your admin dashboard you can access order cycles from this butt
 
 Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then click on **+New Order Cycle**
 
-![](<../../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
+![](<../../../.gitbook/assets/ordercycle1 (2) (2).jpg>)
 
 {% hint style="info" %}
 Note you cannot create an order cycle until you have set up **** at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
@@ -70,7 +70,7 @@ If you are not quite ready to open the shop, set the 'Opens At' date to a time i
 
 For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
 
-![](<../../../.gitbook/assets/occpy (1).jpg>)
+![](../../../.gitbook/assets/occpy.jpg)
 
 Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
 

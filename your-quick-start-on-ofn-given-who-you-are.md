@@ -8,7 +8,7 @@ Depending on the type of food enterprise you are running, you will use the Open 
 
 We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
-![](<.gitbook/assets/l-flowchart (1).png>)
+![](<.gitbook/assets/L flowchart (2).png>)
 
 _The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub (or vice versa) as your business grows and/or needs change._
 
@@ -25,7 +25,7 @@ Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... (a '**Producer Hub**') or act solely as a distributor to sell a collection of groceries made by (local) enterprises (a '**Non-Producer Hub**').
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suits your needs better.
+If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suites your needs better.
 {% endhint %}
 
 #### OFN can help your hub thrive and prosper by:

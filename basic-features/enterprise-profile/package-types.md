@@ -78,7 +78,7 @@ For more information on the quick setup guide for this type of profile, [click h
 
 You can change your profile type (package) at any time in the future. **** First log in to your OFN admin account:
 
-![](<../../.gitbook/assets/access1 (2) (2) (1).jpg>)
+![](<../../.gitbook/assets/access1 (2) (2).jpg>)
 
 Then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option(s) from the drop down menus (you will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this).
 

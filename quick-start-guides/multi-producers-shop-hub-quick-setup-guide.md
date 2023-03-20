@@ -6,7 +6,7 @@ description: Simple steps to start your OFN journey as a HUB
 
 It's easy to get started on OFN, just follow the steps below:
 
-![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
+![Five steps to opening your OFN hub.](<../.gitbook/assets/Set up in 5 steps draft.png>)
 
 1. [Register your enterprise](../basic-features/register-and-create-your-profile.md). \
    If you wish to sell goods that you make as well as those of others then choose the 'Producer' and then 'Hub' [package types](../basic-features/enterprise-profile/package-types.md); whereas, if you only want to sell goods made by others then choose the 'Non-Producer' and 'Hub' package options.\

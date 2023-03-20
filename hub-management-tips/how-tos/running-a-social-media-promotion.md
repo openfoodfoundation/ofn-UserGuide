@@ -37,7 +37,7 @@ This is a THREE step process:
 
 * Visit **Enterprises -> Settings** and then select ‘[Payment Methods](../../basic-features/shopfront/payment-methods.md)’ from the left hand menu.  Click **+ New Payment** Method.
 
-![](<../../.gitbook/assets/thankyoupaymentmethod (1).jpg>)
+![](<../../.gitbook/assets/thankyoupaymentmethod (1) (1).jpg>)
 
 ****\
 ****Name: Thank you Discount\

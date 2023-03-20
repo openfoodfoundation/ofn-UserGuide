@@ -58,7 +58,7 @@ Best practice is to complete the above form directly into a computer/tablet/mobi
 {% hint style="danger" %}
 You will not be able to opt for a [Payment Method](../shopfront/payment-methods.md) provided by **PayPal** for an order created manually.
 
-<img src="../../.gitbook/assets/paypalnewpayment (1).jpg" alt="" data-size="original">&#x20;
+<img src="../../.gitbook/assets/paypalnewpayment (1) (1).jpg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 Clicking **update** will finalise this order and send an email confirmation to the customer.

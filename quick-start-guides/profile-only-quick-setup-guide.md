@@ -6,7 +6,7 @@ description: Simple steps to get started as a OFN profile.
 
 It's easy to get started on OFN, just follow the steps below:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Four steps to start your OFN journey.](<../.gitbook/assets/Quick Set up in 5 steps profile.png>)
 
 1. [Register your enterprise](../basic-features/register-and-create-your-profile.md). \
    Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.

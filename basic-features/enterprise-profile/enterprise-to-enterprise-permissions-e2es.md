@@ -41,7 +41,7 @@ If a producer supplies more than one hub with goods, then to allow each of these
 
 To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.&#x20;
 
-![](../../.gitbook/assets/e2emenu.jpg)
+![](<../../.gitbook/assets/e2emenu (1).jpg>)
 
 To give permission:
 

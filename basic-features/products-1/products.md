@@ -62,9 +62,9 @@ Use this field if you want to track your stock levels. As customers place orders
 Product images will be displayed on the shopfront in **square (1:1) format**.  We recommend uploading photos with these dimensions. Landscape and portrait photos will be cropped to square automatically.
 {% endhint %}
 
-![Product with units of weight](../../.gitbook/assets/productweightunit-price.jpg)
+![Product with units of weight](<../../.gitbook/assets/productweightunit price.jpg>)
 
-![Product with units of 'items' (pie)](../../.gitbook/assets/productitemunit-price.jpg)
+![Product with units of 'items' (pie)](<../../.gitbook/assets/productitemunit price.jpg>)
 
 {% hint style="warning" %}
 High resolution images are resized (reduced in pixel dimension) automatically when displayed in your product list dependent on the customer's device.

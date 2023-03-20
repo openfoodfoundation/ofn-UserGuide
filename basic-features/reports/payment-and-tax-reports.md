@@ -1,5 +1,5 @@
 ---
-description: 'Payment Reports, Tax reports, Xero'
+description: Payment Reports, Tax reports, Xero
 ---
 
 # Payment and Tax Reports
@@ -12,21 +12,21 @@ The three Payment reports are good for keeping track of total incoming and outgo
 
 ### Payment by Type
 
-The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ \(ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal\).
+The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ (ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal).
 
-![Payment by Type](../../.gitbook/assets/payment-by-type.jpg)
+![Payment by Type](<../../.gitbook/assets/payment by type.jpg>)
 
 ### Itemised Payment Totals
 
-Listed by payment status \(paid, balance due, credit owing\) rather than payment provider, this report gives a breakdown of revenue \(product costs, shipping fees\) as well as the total.  The Outstanding balance column will be 0.0 for the payment status of 'paid'
+Listed by payment status (paid, balance due, credit owing) rather than payment provider, this report gives a breakdown of revenue (product costs, shipping fees) as well as the total.  The Outstanding balance column will be 0.0 for the payment status of 'paid'
 
 ![Itemised Payment Totals](../../.gitbook/assets/itemizedpayment.jpg)
 
 ### Payment Totals
 
-In addition to the Itemised Payment Totals this report states revenue coming from EFT \(cash or bank transfer\) and Paypal separately.
+In addition to the Itemised Payment Totals this report states revenue coming from EFT (cash or bank transfer) and Paypal separately.
 
-![Payment Totals](../../.gitbook/assets/payment-totals.jpg)
+![Payment Totals](<../../.gitbook/assets/payment totals.jpg>)
 
 ## Sales Tax
 
@@ -38,7 +38,7 @@ The **Tax Type** report is useful for separating total tax per order into its di
 
 ![Tax type report](../../.gitbook/assets/taxtype.jpg)
 
-The **tax rate** report gives an order-by-order break down of tax by it's tax rate \(full, reduced or zero-rated\).  Order totals inclusive and exclusive of tax are also given.
+The **tax rate** report gives an order-by-order break down of tax by it's tax rate (full, reduced or zero-rated).  Order totals inclusive and exclusive of tax are also given.
 
 ![Tax rate report](../../.gitbook/assets/taxrates.jpg)
 
@@ -48,7 +48,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 ### Generating the report
 
-![Xero Report Fields](../../.gitbook/assets/xero-report.png)
+![Xero Report Fields](../../.gitbook/assets/Xero-Report.png)
 
 **Date range:** You can filter orders by the date the order was placed.
 
@@ -58,7 +58,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 **Initial invoice number:** To ensure compatibility with your Xero invoice numbering system, enter the first invoice number you would like new invoices to be allocated. All subsequent invoices will be numbered from this point.
 
-**Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to batch date all the invoices in a single report. 
+**Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to batch date all the invoices in a single report.&#x20;
 
 **Due date:** You can select the due date to be marked on Xero invoices. Again this is editable in Xero.
 
@@ -68,23 +68,22 @@ This report creates CSV files which can be imported into the accounting package 
 
 ### Data Available
 
-* Customer name, email, billing address \(no phone number\)
+* Customer name, email, billing address (no phone number)
 * Invoice number and date of purchase. Due date is one month after invoice date.  Reference number is the same as invoice number.
 * Product name, quantity, cost, tax rate, SKU, fee
-* Payment status \(paid or balance due\)
+* Payment status (paid or balance due)
 * currency of transaction.
 
 ### Importing the report into Xero
 
 In Xero go to **Accounts**, **Sales** and click Import.
 
-![Xero Import](../../.gitbook/assets/xero-import.png)
+![Xero Import](../../.gitbook/assets/Xero-Import.png)
 
 Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
-![Xero Import Steps](../../.gitbook/assets/xero-import-steps.png)
+![Xero Import Steps](../../.gitbook/assets/Xero-import-steps.png)
 
-Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered. 
+Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered.&#x20;
 
 Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Open Food Network will include tax, but your tax free items will remain tax free.
-
