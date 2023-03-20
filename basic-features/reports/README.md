@@ -2,7 +2,7 @@
 
 You can access reports by clicking on **Reports** in the blue horizontal menu. &#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2019-12-04 at 2.17.42 PM.png>)
+![](../../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
 Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report. \
 
@@ -11,7 +11,7 @@ Here you will find a list of the pre-defined data exports that are available to 
 
 If you have opened an [Order Cycle](../shopfront/order-cycle/), you will be able to run reports to help with managing **packing,** **processing your orders**, and meet your **financial reporting** needs.
 
-![Reports available to view and download](<../../.gitbook/assets/Screen Shot 2019-12-04 at 2.28.38 PM.png>)
+![Reports available to view and download](../../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
 For most reports you are able to filter data by:
 
@@ -70,7 +70,7 @@ HINTS:&#x20;
 
 A summary of the data included in each report can be found in the following document:
 
-{% file src="../../.gitbook/assets/listing of all the reports and their columns - listing of all the reports and their columns.pdf" %}
+{% file src="../../.gitbook/assets/listing-of-all-the-reports-and-their-columns-listing-of-all-the-reports-and-their-columns.pdf" %}
 
 
 

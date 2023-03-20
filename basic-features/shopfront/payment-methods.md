@@ -39,7 +39,7 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
   * Stripe SCA
   * Cash / EFT / etc. (Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation)&#x20;
 
-![](<../../.gitbook/assets/Untitled design (1).png>)
+![](../../.gitbook/assets/untitled-design-1-.png)
 
 {% hint style="warning" %}
 Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled (found in Enterprises -> Settings -> [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...)
@@ -122,7 +122,7 @@ Stripe is the recommended payment method for shops who wish to use [**subscripti
 
 Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
 
-![](../../.gitbook/assets/Connect-with-Stripe.png)
+![](../../.gitbook/assets/connect-with-stripe.png)
 
 You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
 
@@ -144,7 +144,7 @@ Select the enterprise that has a Stripe account connected.
 
 If you select an enterprise that is not Connected to Stripe (see above) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
 
-![](../../.gitbook/assets/Stripe-connect.png)
+![](../../.gitbook/assets/stripe-connect.png)
 
 #### Stripe Payments for Customers
 
@@ -152,7 +152,7 @@ When customers checkout in a shop and pay with a Stripe payment method, they’l
 
 Customer can also save a credit card in their Account, or delete saved ones.
 
-![](../../.gitbook/assets/Add-card.png)
+![](../../.gitbook/assets/add-card.png)
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
@@ -164,7 +164,7 @@ When a customer pays for their order with Stripe, the funds (minus Stripe's fees
 
 If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
@@ -172,9 +172,9 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 **API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
 
-![](../../.gitbook/assets/API-Keys.png)
+![](../../.gitbook/assets/api-keys.png)
 
-![](../../.gitbook/assets/API-2.png)
+![](../../.gitbook/assets/api-2.png)
 
 **Server:**Type ‘live’ – this is case sensitive.
 {% endtab %}
@@ -182,7 +182,7 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 ## Payment Method Fees
 
-![](../../.gitbook/assets/Fee-calculators.png)
+![](../../.gitbook/assets/fee-calculators.png)
 
 You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
 

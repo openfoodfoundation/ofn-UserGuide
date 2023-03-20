@@ -10,7 +10,7 @@ By using the 'Inventory' Hub A can modify the price and stock levels of the item
 
 To access the Inventory, go to Entreprises (on the blue horizontal menu) and then 'Settings'. From the menu bar on the left hand side, select 'Inventory Settings'
 
-![](../../.gitbook/assets/Inventory-Settings.png)
+![](../../.gitbook/assets/inventory-settings.png)
 
 You have two options:&#x20;
 
@@ -31,7 +31,7 @@ Click the Products menu on the top of your the admin dashboard, and then click I
 
 If new products have been added by your suppliers between each visit to your shop/hub inventory then you will see the following message:
 
-![](../../.gitbook/assets/New-products-alert.png)
+![](../../.gitbook/assets/new-products-alert.png)
 
 Until you have added these products to the inventory they will remain in the '**New Products**' category and invisible for selection when creating an order cycle. By clicking on '**Review Now**' you will be redirected to the list of new products.&#x20;
 
@@ -39,7 +39,7 @@ Until you have added these products to the inventory they will remain in the '**
 
 New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add** it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide** it (see **Hidden Products** section below).
 
-![](../../.gitbook/assets/New-Products.png)
+![](../../.gitbook/assets/new-products.png)
 
 {% hint style="info" %}
 Remember, if your **Inventory Settings** are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
@@ -49,11 +49,11 @@ Remember, if your **Inventory Settings** are set so that ‘new products must be
 
 Your inventory products list is where you can override product details, set up stock level resetting, and hide products.&#x20;
 
-![](../../.gitbook/assets/Viewing-Inventory-Settings.png)
+![](../../.gitbook/assets/viewing-inventory-settings.png)
 
 Via the columns button on the right of the table, you can choose which settings you would like to see and modify.
 
-![](../../.gitbook/assets/Columns-1.png)
+![](../../.gitbook/assets/columns-1.png)
 
 ### Modify SKU, prices and stock levels for products in your shopfront
 
@@ -107,7 +107,7 @@ As in the **New Products** list, you can also **hide** products from your **Inve
 
 This is a list of all the products you have chosen to hide:
 
-![](../../.gitbook/assets/Hidden-products.png)
+![](../../.gitbook/assets/hidden-products.png)
 
 When viewing your list of hidden products you can choose to make them visible once more by clicking the '**Add**' button to the right of the item.
 
@@ -119,7 +119,7 @@ When setting up order cycles you can on a case by case basis choose between sele
 
 This is controlled by visiting 'Advanced Settings' (top right of order cycle page):
 
-![](../../.gitbook/assets/Advanced-OC-settings.png)
+![](../../.gitbook/assets/advanced-oc-settings.png)
 
 This option has the same effect as changing our enterprise [profile settings for your inventory](inventory-tool.md#profile-settings-for-the-inventory), but unlike the latter it applies only to the order cycle in question.
 

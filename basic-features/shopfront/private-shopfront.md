@@ -26,7 +26,7 @@ Hence, if someone on your mailing list forwards an email from you to a friend, t
 
 A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option (under Enterprises-> Settings-> Shop Preferences) to **Visible to Registered Customers Only**.
 
-![](../../.gitbook/assets/Registered-customers-only.png)
+![](../../.gitbook/assets/registered-customers-only.png)
 
 Whilst your enterprise will be visible in a search of the OFN platform, your customers would need to log into their OFN account in order to view your shop front and the products on offer.  Other registered OFN shoppers, who are not on your customer list, will not be able to see your shop front once logged into their OFN accounts.
 
@@ -34,7 +34,7 @@ You'll need to maintain your [**Customer** ](customer-management-and-conditional
 
 ![](<../../.gitbook/assets/customer1 (1) (1).jpg>)
 
-![](../../.gitbook/assets/Add-new-customer.png)
+![](../../.gitbook/assets/add-new-customer.png)
 
 You can also delete customers who you no longer want to be able to see your shop or place an order.
 

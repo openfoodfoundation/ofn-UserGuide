@@ -23,9 +23,9 @@
 
 ![Copy](.gitbook/assets/copy.jpg)
 
-![Edit](<.gitbook/assets/edit (1).png>)
+![Edit](.gitbook/assets/edit.png)
 
 ![Delete](.gitbook/assets/trash.jpg)
 
-![Shipping/Delivery](<.gitbook/assets/shipped (2).png>)
+![Shipping/Delivery](<.gitbook/assets/shipped (2) (2) (2).png>)
 

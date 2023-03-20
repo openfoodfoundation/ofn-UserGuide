@@ -14,7 +14,7 @@ The three Payment reports are good for keeping track of total incoming and outgo
 
 The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ (ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal).
 
-![Payment by Type](<../../.gitbook/assets/payment by type.jpg>)
+![Payment by Type](../../.gitbook/assets/payment-by-type.jpg)
 
 ### Itemised Payment Totals
 
@@ -26,7 +26,7 @@ Listed by payment status (paid, balance due, credit owing) rather than payment p
 
 In addition to the Itemised Payment Totals this report states revenue coming from EFT (cash or bank transfer) and Paypal separately.
 
-![Payment Totals](<../../.gitbook/assets/payment totals.jpg>)
+![Payment Totals](../../.gitbook/assets/payment-totals.jpg)
 
 ## Sales Tax
 
@@ -48,7 +48,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 ### Generating the report
 
-![Xero Report Fields](../../.gitbook/assets/Xero-Report.png)
+![Xero Report Fields](../../.gitbook/assets/xero-report.png)
 
 **Date range:** You can filter orders by the date the order was placed.
 
@@ -78,11 +78,11 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales** and click Import.
 
-![Xero Import](../../.gitbook/assets/Xero-Import.png)
+![Xero Import](../../.gitbook/assets/xero-import.png)
 
 Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
-![Xero Import Steps](../../.gitbook/assets/Xero-import-steps.png)
+![Xero Import Steps](../../.gitbook/assets/xero-import-steps.png)
 
 Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered.&#x20;
 

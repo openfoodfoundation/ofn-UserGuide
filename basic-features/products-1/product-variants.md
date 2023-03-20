@@ -2,7 +2,7 @@
 
 If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
 
-![](<../../.gitbook/assets/productweightunit price.jpg>)
+![](../../.gitbook/assets/productweightunit-price.jpg)
 
 ## How do I create a Product Variant?&#x20;
 

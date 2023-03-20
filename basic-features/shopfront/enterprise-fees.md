@@ -61,13 +61,13 @@ You will only be able to specify rates or values (in the 'calculator values' col
 
 **Flat Rate (per item) -** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume, hence there will be no associated enterprise fee charged to a customer who buys rice by the kg for example).
 
-**Price Sack -** This is a flexible shipping fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a shipping discount. If the shopper spends less than the ‘minimal amount’, you can set what shipping fee they pay. This feature can also be used to create a fee for user spending under a minimum spend amount on your shop.
+**Price Sack -** This is a flexible shipping fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a shipping discount. If the shopper spends less than the ‘minimal amount’, you can set what shipping fee they pay. This feature can also be used to create a fee for **minimum spend** too, so if the customer spends below a certain amount they will be charged a fee to compensate for it.
 
 * **Minimal Amount** - If the order total is below this amount, no discount is applied. If the order is above this amount, the discount will be applied at checkout.
 * **Normal Amount** - This is the shipping fee applied to sales below the 'Minimal Amount'.
 * **Discount Amount** - This is the shipping fee applied to orders above the 'Minimal Amount'. You can set this to 0 for free shipping, or use a minus symbol to apply a discount, eg. -5 for $5 cheaper.
 
-![](<../../.gitbook/assets/Price Sack Image.png>)
+![](<../../.gitbook/assets/Price Sack Image (1).png>)
 
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the Order Cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.

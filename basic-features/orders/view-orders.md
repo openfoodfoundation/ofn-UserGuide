@@ -13,7 +13,7 @@ The listing orders page shows a list view of all orders placed through your shop
 
 The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
 
-![](<../../.gitbook/assets/view orders.jpg>)
+![](../../.gitbook/assets/view-orders.jpg)
 
 **Distributor:** This is the enterprise through who's shop the order was placed.
 
@@ -60,7 +60,7 @@ Next to each order in the Order list are two icons. Clicking on the edit icon (a
 * Clicking on the tick icon will change the Payment State to **Paid**.&#x20;
 * Clicking on the road icon will change the Shipment state to **Shipped**.
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 2.53.24 PM.png>)
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-2.53.24-pm.png)
 
 #### Capturing a Payment
 
@@ -68,7 +68,7 @@ Capturing a payment will mark it as received. This is helpful if customers do no
 
 Note that this will capture the full amount of the order as paid. if you want to review the order details before capturing a payment, you can select the edit icon to the right of the Order you wish to review. In the Order Details screen, click on Payments to see the Balance owing and Payment Status for this order. From here you can click on the tick to capture the payment. Once captured, the Payment Status will change to Completed.
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 2.42.12 PM.png>)
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-2.42.12-pm.png)
 
 &#x20;&#x20;
 
@@ -107,7 +107,7 @@ To save changes select the 'tick' icon to the right hand side. To discard, selec
 
 **Additional options available under 'Actions'**
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 3.20.25 PM.png>)
+![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)
 
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
 * **Send Invoice**: This will automatically send the customer an invoice (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
@@ -244,11 +244,11 @@ For the example of a 1kg fish:
 
 Your customers can view a list of their orders when they login to the OFN, and click on their account (see below).
 
-![](../../.gitbook/assets/Account-login.png)
+![](../../.gitbook/assets/account-login.png)
 
 Here your customers will be able to see the past orders and payments as well as a running balance at your shop (and any others on OFN where they have placed an order).&#x20;
 
-![](../../.gitbook/assets/Orders.png)
+![](../../.gitbook/assets/orders.png)
 
 {% hint style="warning" %}
 For non-automated payments (cash, cheque, bank transfer etc) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order). \

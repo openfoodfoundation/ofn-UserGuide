@@ -85,7 +85,7 @@ In the import process, variants are distinguished by the units (such as raspberr
 
 The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field and/or the units becomes the secondary heading.
 
-![](../../.gitbook/assets/samedisplayname.jpg)
+![](<../../.gitbook/assets/samedisplayname (1).jpg>)
 
 ![](../../.gitbook/assets/differentdisplaynames.jpg)
 

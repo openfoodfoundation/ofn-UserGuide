@@ -8,7 +8,7 @@ Depending on the type of food enterprise you are running, you will use the Open 
 
 We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
-![](<.gitbook/assets/L flowchart (2).png>)
+![](<.gitbook/assets/l-flowchart (1).png>)
 
 _The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub (or vice versa) as your business grows and/or needs change._
 

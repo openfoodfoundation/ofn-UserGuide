@@ -6,7 +6,7 @@ description: How to set up a Farmer's Market online
 
 Farmers’ Markets have the option to setup as a [group](../basic-features/groups/) of individually managed [shops](../your-quick-start-on-ofn-given-who-you-are.md#shop) (Option 1) or as a centrally managed [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) (Option 2).
 
-![](<../.gitbook/assets/OFNCAN Digital Farmers Market options graphic.png>)
+![](../.gitbook/assets/ofncan-digital-farmers-market-options-graphic.png)
 
 ### Option 1: Multi-vendor Market
 

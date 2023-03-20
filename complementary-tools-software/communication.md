@@ -34,7 +34,7 @@ This is a slight hack of the [standard MailChimp advice](https://mailchimp.com/h
   [https://www.lemonde.fr/rss/une.xml](https://www.lemonde.fr/rss/une.xml) [http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) [https://www.theatlantic.com/feed/all/](https://www.theatlantic.com/feed/all/) [https://www.politico.com/rss/politicopicks.xml](https://www.politico.com/rss/politicopicks.xml)\
   The exact URL entered doesn't matter- the fact that these RSS feeds post every day means that you can use it to trigger a regular email to your customers.
 
-![](../.gitbook/assets/mailchimp2.png)
+![](<../.gitbook/assets/mailchimp2 (1).png>)
 
 * Then choose when you want the email to be sent.  If your order cycle opens every Monday at noon you may enter to use these days and times.  Select **Next** to move on.
 * Choose whether you would like the email to go to your entire audience (all of your mailing list) or just a segment of it (specific customers who you may have sub-grouped).

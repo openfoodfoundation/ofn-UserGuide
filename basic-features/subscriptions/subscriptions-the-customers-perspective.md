@@ -34,11 +34,11 @@ If a customer registers more than one debit/credit card, then the card which is 
 If none of their cards are selected as 'default' their credit card payments won't be processed.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 If your customer saves credit cards in their account, they'll also be able to quickly select these when they shop in your shop at checkout.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### **Authorising a shop to charge their default card**
 

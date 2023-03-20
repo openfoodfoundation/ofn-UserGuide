@@ -12,11 +12,11 @@ The options you will see on your dashboard will depend on which enterprise type 
 
 {% tabs %}
 {% tab title="Producer Profile Only" %}
-![](../.gitbook/assets/Dashboard-Profile-Only.png)
+![](../.gitbook/assets/dashboard-profile-only.png)
 {% endtab %}
 
 {% tab title="Producer Profile and Shop" %}
-![](../.gitbook/assets/Dashboard-Shop.png)
+![](../.gitbook/assets/dashboard-shop.png)
 {% endtab %}
 {% endtabs %}
 
@@ -24,10 +24,10 @@ The options you will see on your dashboard will depend on which enterprise type 
 
 {% tabs %}
 {% tab title="Hub Profile Only" %}
-![](../.gitbook/assets/Hub-dashboard-profile-only.png)
+![](../.gitbook/assets/hub-dashboard-profile-only.png)
 {% endtab %}
 
 {% tab title="Hub Profile and Shop" %}
-![](../.gitbook/assets/Hub-dashboard-shopfront.png)
+![](../.gitbook/assets/hub-dashboard-shopfront.png)
 {% endtab %}
 {% endtabs %}

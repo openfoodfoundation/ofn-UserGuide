@@ -6,7 +6,7 @@ description: Simple steps to start your OFN journey as a SHOP
 
 It's easy to get started on OFN, just follow the steps below:
 
-![Five steps to opening your OFN shop.](<../.gitbook/assets/Set up in 5 steps draft.png>)
+![Five steps to opening your OFN shop.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
 1. [Register your enterprise](../basic-features/register-and-create-your-profile.md). \
    Choose the 'Producer' and then 'Shop' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.

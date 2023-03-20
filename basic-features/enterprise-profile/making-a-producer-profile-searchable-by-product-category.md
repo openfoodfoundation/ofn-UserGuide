@@ -2,7 +2,7 @@
 
 When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock (see below).&#x20;
 
-![](../../.gitbook/assets/Filter-by-product.png)
+![](../../.gitbook/assets/filter-by-product.png)
 
 Producers with online shops on the OFN have products in the system, which get picked up by the search filter tool. However, producers who don’t have an OFN shop (just a profile) won’t be searchable in this way unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
 
@@ -18,5 +18,5 @@ Because you don’t have an OFN shopfront, this product won’t be visible anywh
 
 Their summary profile will also indicate that they sell meat products (below).
 
-![](../../.gitbook/assets/Meat.png)
+![](../../.gitbook/assets/meat.png)
 
