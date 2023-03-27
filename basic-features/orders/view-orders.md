@@ -55,10 +55,8 @@ Cliquez sur l’icône "check" pour indiquer que la commande a été payée (mon
 
 Cliquez sur l’icône "route" pour capturer que la commande a été expédiée
 
-![](<../../.gitbook/assets/image (82) (1).png>)
-
-{% hint style="danger" %}
-Attention ! La notification de l'expédition par le gestionnaire de hub entraîne l'envoi d'un email à  l'acheteur concerné lui disant que le produit a été expédié et qu'il le recevra sous peu. Si le mode de livraison est de type "retrait", cela peut être perturbant pour l'acheteur. Voir même, si le gestionnaire capture le paiement a posteriori du retrait des produits, et veut marquer la commande comme envoyée, l'acheteur recevra ce message après avoir réceptionné les produits. Soyez donc vigilants et n'utiliser la fonctionnalité de notification de l'expédition que dans les cas appropriés.
+{% hint style="info" %}
+L'acheteur recevra une notification par email, lui disant que le produit a été expédié (en cas d'expédition) ou reçu (en cas de retrait). Dans ce dernier cas, cela peut être perturbant si l'email est reçu très longtemps après la réception du produit.
 {% endhint %}
 
 Remarque : le statut de paiement et de livraison peut aussi être modifié depuis la page de modification / gestion d'une commande (voir paragraphe suivant).
