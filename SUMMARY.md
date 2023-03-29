@@ -53,6 +53,7 @@
   * [Rapports (export de données)](basic-features/reports/README.md)
   * [Groupes](basic-features/groups/README.md)
   * [Changer la langue de l'interface](basic-features/changer-la-langue-de-linterface.md)
+  * [Options développeur](basic-features/options-developpeur.md)
 * [Conseils aux gestionnaires de boutique](hub-management-tips/README.md)
   * [Groupements d'achat / groupement de producteurs : premiers pas](hub-management-tips/groupements-dachat-premiers-pas.md)
   * [Tutoriels](hub-management-tips/how-tos/README.md)
