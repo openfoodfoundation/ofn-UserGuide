@@ -1,10 +1,10 @@
-# Options développeur
+# Paramètres développeur
 
-Votre instance peut vous activer l'accès à un onglet "Options développeur", qui vous donne accès à&#x20;
+Sur demande, votre instance peut vous activer l'accès à un onglet "Paramètres développeur", qui vous permet de :&#x20;
 
-:thumbsup: **la clé API**&#x20;
+:thumbsup: **accéder à votre clé API**&#x20;
 
-:thumbsup: **la configuration des "webhook"**
+:thumbsup: **configurer des "webhook"**
 
 Après activation, cet onglet apparaît dans votre compte utilisateur :
 
@@ -25,6 +25,10 @@ Un exemple concret : pour les utilisateurs qui disposent de l'intégration avec 
 {% endhint %}
 
 ### Configuration du webhook
+
+Allez dans votre compte, dans l'onglet "Paramètres développeur", sous la section "Webhook"&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2023-03-30 at 00.17.24.png" alt=""><figcaption></figcaption></figure>
 
 Au niveau de l'événement pour lequel vous souhaitez créer un webhook, entrez l'URL de point de terminaison unique fournie par l'autre logiciel. Cliquez sur créer.&#x20;
 
