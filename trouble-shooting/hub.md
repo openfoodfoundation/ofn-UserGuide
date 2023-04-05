@@ -68,12 +68,13 @@ Oui, pour cela rendez-vous sur [cette page](broken-reference).
 
 ## Vos produits et votre boutique
 
-**Pourquoi je ne peux pas voir tous mes produits dans ma boutique ?**
+**Pourquoi je ne pas voir tous mes produits dans ma boutique ?**
 
 Vérifiez les points suivants :
 
-* Est-ce que le produit à été ajouté à un cycle de vente en cours ?
-* Est-ce qu'il y a une quantité suffisante dans la quantité "à la demande" ? (si c'est 0 , le produit n’apparaît plus en boutique). Si le produit est toujours à la demande, pensez à cocher la case "à volonté" pour que ce problème n'apparaisse plus.
+* Est-ce que le produit est bien sélectionné dans les étapes 2 et 3 du cycle de vente en cours ?
+* Est-ce que vous avez bien choisi un "distributeur" à l'étape 3 du cycle de vente ?
+* Est-ce qu'il y a du stock pour le produit ? (si le stock est à 0 , le produit n’apparaît plus en boutique). Si le produit est à la demande, pensez à cocher la case "à volonté" pour que ce problème n'apparaisse plus.
 
 **Je souhaite que seuls mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
