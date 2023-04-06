@@ -17,7 +17,7 @@ You'll then see the customer details screen where you can choose a customer from
 
 Selecting a customer will autofill the customer's saved shipping & billing address, saving you time. You can also enter the customer's details manually if they're not saved in your customer list by completing the fields on the screen:
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Click 'Update' to save your progress, then go to 'Order details' from the menu on the right to start entering products:
 
