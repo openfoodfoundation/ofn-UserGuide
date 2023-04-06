@@ -92,7 +92,7 @@ The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **
 
 **Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
 
-![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2).png>)
+![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2) (1).png>)
 
 ### Data
 

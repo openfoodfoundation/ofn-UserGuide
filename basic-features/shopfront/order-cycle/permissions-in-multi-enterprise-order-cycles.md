@@ -32,7 +32,7 @@ The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
 * The coordinator can select all or a subset of products from their suppliers that they wish include in the order cycle.
 *   The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each supplier. For example, they may wish to charge a supplying butcher a higher rate (to cover the extra cost of refrigerated transport) than a baker.
 
-    ****
+
 
 ### **Outgoing**
 

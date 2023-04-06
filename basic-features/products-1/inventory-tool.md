@@ -79,7 +79,7 @@ It is not possible to alter product name, properties, description or image.
 
 ### Enable Stock Reset?
 
-The **enable stock level reset** column allows you to reset the 'In Stock' amount to a default value, **** for example at the start of each new order cycle. The **default amount** is the number entered in this column next to the check box. The checkbox allows you to select only those items that you want to reset at any give time.&#x20;
+The **enable stock level reset** column allows you to reset the 'In Stock' amount to a default value, for example at the start of each new order cycle. The **default amount** is the number entered in this column next to the check box. The checkbox allows you to select only those items that you want to reset at any give time.&#x20;
 
 To reset the default stock for these products, click 'Actions' at the top left of the inventory table and then 'Reset stock levels to defaults'. Only products for which the enable stock reset box has been checked will be affected by this action.&#x20;
 

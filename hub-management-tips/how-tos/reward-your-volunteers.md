@@ -22,13 +22,13 @@ Would you like to say a little thank you to the people who help run your communi
 
 ![](../../.gitbook/assets/voldiscount.jpg)
 
-****\
-****Name: Volunteer 5% Discount\
+\
+Name: Volunteer 5% Discount\
 Description: Thank you for helping us run our local food hub.\
 Display: Both Checkout and Back Office\
 Active: yes\
 **Tags: Add the tag ‘volunteer’ into this space.**\
-****Provider: choose the most appropriate method for your business.\
+Provider: choose the most appropriate method for your business.\
 Fee Calculator: Flat Percent
 
 * After selecting Create, add ‘-5’ \* to the ‘Amount’ field of the ‘Fee Calculator’ Section.  (Negative sign results in a discount)\

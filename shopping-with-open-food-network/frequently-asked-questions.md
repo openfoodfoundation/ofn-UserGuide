@@ -15,7 +15,7 @@ Clicking on ‘Edit’ next to the order in question will bring up a summary of 
 ![](https://lh6.googleusercontent.com/-05u5sfEktbSCwft7Q2v7vY7aTUsvEsXx0l8phBEVpRaL4BCz8voNpMO16BdB9RbhsfNBzFcxkkmHnwVOuVMdvyj39wSgzjR9Bfk3P1cKxIDpMY3-suT5U1Gu2mmFVwGZw82lfT7)
 
 {% hint style="danger" %}
-You will not be able to add extra products to this basket though. ****&#x20;
+You will not be able to add extra products to this basket though. &#x20;
 {% endhint %}
 
 **BUT you can certainly purchase extra items-** how often do we all go to a shop and come away with everything except the item we went in to get?!
@@ -137,6 +137,6 @@ The beauty of buying from local small producers is that you know the food you or
 In order for your local bakers, farmers, butchers, florists… etc to prepare orders often a shop will close a day or two before collection. &#x20;
 
 You can contact the shop (details found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab) to find when they will be open again.\
-****
+
 
 ![](https://lh4.googleusercontent.com/ZXkmTxxlLj6WoPIKI4PJniPY0NvrkUWJ4hehjPP5YnBswtsD9wZr5KG2CZbkpczSrlqhZvIUs-5gl2xmAYip74\_ire8ROpcyKDGd\_bHm7K1xQtU3xYimer0EM\_bdcmROq6balzFF)

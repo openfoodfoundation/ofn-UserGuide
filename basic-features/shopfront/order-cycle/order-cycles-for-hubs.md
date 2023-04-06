@@ -9,7 +9,7 @@ Visit [this page](order-cycles-for-producers.md) if you registered as a '[Produc
 You open your shop by creating an Order Cycle. When you create an order cycle you select when your shop is open (from and until), which products will go into the shop, and any fees that you'll apply.
 
 **Why Order Cycles?**  \
-****Some hubs may wish to have an online store which is perpetually open and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system which allows them to process orders in bulk, making their production, packing and distribution activities more efficient (and reducing associated overhead costs).&#x20;
+Some hubs may wish to have an online store which is perpetually open and to fulfil orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system which allows them to process orders in bulk, making their production, packing and distribution activities more efficient (and reducing associated overhead costs).&#x20;
 
 For example, an order cycle might be open for two weeks. At the end of the fortnight, all orders will be packed and delivered at the same time on the following Wednesday. Once this batch of orders has been delivered, a new order cycle may reopen.
 

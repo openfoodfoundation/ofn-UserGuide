@@ -48,7 +48,7 @@ In the example below the 1 kg variant of delux muesli has been tagged 'member'. 
 
 ### **Show/Hide shipping methods**
 
-This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) **** and apply the relevant tag.&#x20;
+This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) and apply the relevant tag.&#x20;
 
 ![](../../../.gitbook/assets/tagshipping.jpg)
 

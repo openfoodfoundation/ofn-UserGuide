@@ -6,7 +6,7 @@ description: >-
 
 # Product and Inventory import
 
-****
+
 
 The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
 

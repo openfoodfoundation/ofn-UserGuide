@@ -76,7 +76,7 @@ Description- use the description box to explain to the customer the value of the
 Display = Both Checkout and Backoffice\
 Active = yes\
 **Add tag to payment method (same as used for the customer).**\
-****Provider- cash (if the customer spends more than the value of their voucher then they will need to pay the remainder by cash or BACS)
+Provider- cash (if the customer spends more than the value of their voucher then they will need to pay the remainder by cash or BACS)
 
 {% hint style="danger" %}
 Do not use an automated payment provider (Stripe or PayPal) here as this will result in a payment being made from your enterprise into the giftee's bank account if they spend less than the voucher value.
@@ -104,7 +104,7 @@ Rule: for customers tagged initials\_digits payment methods tagged initials\_dig
 ### **Customer (giftee) uses voucher but doesn’t spend its entire value:**&#x20;
 
 Edit their unique payment method to adjust the ‘amount’ under Fee Calculator to their remaining voucher balance (eg. if the voucher’s original value was £20, they spent £15 then the original amount would be -20 and the amount after their first transaction would need to be edited to -5)\
-****
+
 
 ### **Things to note:**
 

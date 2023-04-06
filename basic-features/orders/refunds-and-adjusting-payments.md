@@ -32,7 +32,7 @@ For non-automated payment methods (such as cash on collection or BACS), there ar
 
 \
 **The customer has not yet paid for the item.**\
-****If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
+If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45.png>)
 
@@ -147,7 +147,7 @@ Select **‘Update and Recalculate Fees’** at the bottom of the page to save y
 If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
 {% endhint %}
 
-**2. Edit by adding a new Adjustment** to the **** [**order**](view-orders.md#modify-an-order) **** by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+ New Adjustment**  at the top right.
+**2. Edit by adding a new Adjustment** to the [**order**](view-orders.md#modify-an-order) by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+ New Adjustment**  at the top right.
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-04 at 15.46.10.png>)
 
@@ -189,7 +189,7 @@ Using the OFN platform you can automatically refund a customer who paid by Strip
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
 
-2\. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded. ****&#x20;
+2\. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded.&#x20;
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 

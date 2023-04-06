@@ -34,13 +34,13 @@ more predictable.
 * [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
 * Setup [Schedules](subscriptions-configuration.md#schedules), which will dictate how frequently subscriptions are processed.
 
-#### ****[**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**
+#### [**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**
 
 * [Create subscriptions](subscriptions-creating-and-managing-orders.md#create-subscriptions) for each customer.
 * [Edit](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) and [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) subscriptions.
 * Understand [How subscriptions are processed](subscriptions-creating-and-managing-orders.md#how-are-subscriptions-processed) (ie how they appear in your 'order list')
 
-#### ****[**Customer Set Up**](subscriptions-the-customers-perspective.md)**: this page describes a customer's perspective of subscriptions.**
+#### [**Customer Set Up**](subscriptions-the-customers-perspective.md)**: this page describes a customer's perspective of subscriptions.**
 
 {% hint style="success" %}
 It can be useful to write a 'subscriptions guide' for your customers to help them through the process. You can see an example of a great subscriptions guide written by Tamar Valley Food Hub on their website [here](https://www.tamarvalleyfoodhubs.org.uk/subscriptions).
@@ -50,4 +50,4 @@ It can be useful to write a 'subscriptions guide' for your customers to help the
 If you struggle with any aspect of setting up subscriptions for your enterprise you may like to have a look at our [Frequently Asked Questions](subscriptions-faqs.md).
 {% endhint %}
 
-#### ****
+####

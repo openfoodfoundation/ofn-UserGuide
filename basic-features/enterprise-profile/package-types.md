@@ -76,7 +76,7 @@ For more information on the quick setup guide for this type of profile, [click h
 
 ## Changing your profile type
 
-You can change your profile type (package) at any time in the future. **** First log in to your OFN admin account:
+You can change your profile type (package) at any time in the future.  First log in to your OFN admin account:
 
 ![](<../../.gitbook/assets/access1 (2) (2) (1).jpg>)
 

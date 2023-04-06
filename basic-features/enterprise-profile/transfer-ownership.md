@@ -18,7 +18,7 @@ Warning: you must search for the exact **full** email. We recommend searching ou
 {% endhint %}
 
 **Case 2: The Producer in question does not yet have a user account with OFN:**\
-****In this case, you cannot find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field. \
+In this case, you cannot find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field. \
 The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
 
 Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification.  At this stage, as a hub manager you may wish to remove yourself from the list of managers.&#x20;

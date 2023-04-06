@@ -39,8 +39,8 @@ This is a THREE step process:
 
 ![](<../../.gitbook/assets/thankyoupaymentmethod (1).jpg>)
 
-****\
-****Name: Thank you Discount\
+\
+Name: Thank you Discount\
 Description: a message of your choice (for example ‘As a small thank you for your support we would like to offer you 5% off this week’s shop’)\
 Display: Both Checkout and Back Office\
 Active: yes\
@@ -110,7 +110,6 @@ The default and complementary tag rules would be:
 
 Default: Shipping Methods tagged thankyouweek1 are NOT VISIBLE\
 Rule: For customers tagged thankyouweek1 Shipping Methods tagged thakyouweek1 are VISIBLE\
-****\
-****\
-****\
-****
+\
+\
+\

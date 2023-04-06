@@ -23,14 +23,14 @@ Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then 
 ![](<../../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
 
 {% hint style="info" %}
-Note you cannot create an order cycle until you have set up **** at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
+Note you cannot create an order cycle until you have set up at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
 {% endhint %}
 
 You will now be redirected to a new screen:
 
 ![](../../../.gitbook/assets/ordercyclep1.jpg)
 
-****\
+\
 **Name (**_**required**_**):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
 
 **Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
