@@ -6,7 +6,7 @@ La définition d'au moins une méthode de paiement est obligatoire avant l'ouver
 
 ## Définir une méthode de paiement
 
-****
+
 
 Dans l'espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis  sur l'onglet "**Méthodes de paiement"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 
@@ -16,7 +16,7 @@ Vous serez redirigé sur la page suivante :
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.31.42.png" alt=""><figcaption></figcaption></figure>
 
-**1) Nom :** Choisissez un nom pour la méthode de paiement (par exemple : "chèques ou espèces", ou  "Paiement en ligne par carte bancaire"). Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. ****&#x20;
+**1) Nom :** Choisissez un nom pour la méthode de paiement (par exemple : "chèques ou espèces", ou  "Paiement en ligne par carte bancaire"). Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande.&#x20;
 
 **Le nom de la méthode est le seul champ obligatoire. Toutes les autres options peuvent être laissées par défaut (pensez tout de même à changer le Fournisseur (point numéro 6) si vous proposez du paiement en ligne) :**&#x20;
 
@@ -28,13 +28,13 @@ _**4) Actif :** vous permet de désactiver la méthode de paiement sans la suppr
 
 _**5) Tags :** Utilisez les tags si vous souhaitez restreindre certaines méthodes de paiements à certains types d'acheteurs (voir le détail de la fonctionnalité_ [_ici_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/customer-management-and-conditional-displays-prices/customers#tags-association-dun-acheteur-a-une-categorie-donnee)_)._
 
-_**6)**  **Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :_
+_**6)**_ _**Fournisseurs** : Sélectionnez celui qui concerne la méthode que vous êtes en train de créer. Vous pouvez accepter les paiements de 5 "fournisseurs" de systèmes de paiement :_
 
 * _Espèces / chèques / virements / autres (il s'agit de liquide ou chèque ou virement bancaires ou tout autre option ne nécessitant pas de passer par un portail de paiement en ligne et n'impliquant pas de validation automatique)_
 * _PayPal Express_
 * _Stripe_
 
-_**7) Calculateur :** à utiliser si vous souhaitez ajouter des frais de livraisons qui vont s'appliquer sur la commande. Ces frais sont à zéro par défaut. Voir plus de détail sur les_ [_options du calculateur_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur)_._
+_**7) Calculateur :** à utiliser si vous souhaitez ajouter des frais de paiement qui vont s'appliquer sur la commande. Ces frais sont à zéro par défaut. Voir plus de détail sur les_ [_options du calculateur_](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees#le-calculateur)_._
 
 
 
