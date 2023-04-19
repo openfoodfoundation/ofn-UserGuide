@@ -45,7 +45,9 @@ Note: If you have selected ‘**items**’ as your unit, the **display as** fiel
 **Price:** Enter the price for the value noted above. Note that this is the base price charged by the producer and the amount they will receive for each purchase. Mark-ups and fees (for distribution admin etc) are added in [Enterprise Fees](../shopfront/enterprise-fees.md), [Shipping Fees](../shopfront/shipping-methods.md#fee-calculators) and [Payment Methods](../shopfront/payment-methods.md#fee-calculators).&#x20;
 
 {% hint style="info" %}
-If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
+If the product is taxable then the price you put here should be **inclusive of Tax** (UK/EU enterprises) OR **exclusive of Tax** (USA and Canada enterprises). How taxes are applied depend on the tax rules for the country where you are operating, if you are unsure when to include taxes contact your local instance. \
+\
+If you select that this product is tax free, the price you enter will be the tax free price.
 {% endhint %}
 
 **Unit Price:** This will be automatically calculated for you from the unit and price supplied.  If the units are in weight or volume then the unit price will be cost per kg/L etc. If the units are in 'items' then the unit price will be cost per item.
