@@ -7,12 +7,6 @@ Vous pouvez accédez aux fonctions de marque blanche via le menu Paramètres d'e
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.48.58.png" alt=""><figcaption></figcaption></figure>
 
-##
-
-##
-
-##
-
 ## Masquez la navigation du site
 
 Cochez la case "Masquer la navigation du site" pour supprimer les liens d'en-tête vers d'autres parties du site Open Food Network sur votre vitrine.
