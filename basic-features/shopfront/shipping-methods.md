@@ -4,7 +4,7 @@
 La définition d'au moins une méthode de livraison est obligatoire avant l'ouverture d'une boutique !
 {% endhint %}
 
-****
+
 
 Pour définir une méthode de livraison, dans votre espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis sur l'onglet "**Méthodes de livraison"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 

@@ -8,7 +8,7 @@ Les scénarios les plus courants sont les suivants :
 2\. Un produit **n'a pas été livré** par le producteur\
 3\. L'acheteur a souhaité sur place **ajouter des produits** dans la commande d'origine\
 4\. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**\
-****
+
 
 Deux cas de figure principaux se présentent :\
 \

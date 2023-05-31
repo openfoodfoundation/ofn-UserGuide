@@ -21,7 +21,7 @@ Vous serez redirigé vers la page suivante :
 **Nom du produit :** C'est le nom du produit qui sera affiché dans la boutique.
 
 {% hint style="info" %}
-L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modifier cet affichage à l'aide du champ "ordre d'affichage des catégories" dans [**Préférences boutique**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/parametres#preferences-boutique) ****&#x20;
+L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modifier cet affichage à l'aide du champ "ordre d'affichage des catégories" dans [**Préférences boutique**](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/votre-profil/parametres#preferences-boutique)&#x20;
 {% endhint %}
 
 **Unités de mesure :** Indiquez via quelle unité le produit sera vendu (L, kg, pièces...).
@@ -40,9 +40,9 @@ L'ordre d'affichage par défaut des produits est alphabétique. Vous pouvez modi
 
 > Remarque : il s'agit du prix de base du producteur. [Les marges et les commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees) sont renseignées dans le menu marges et commissions du paramétrage de l'entreprise, et appliquées au moment de la création du cycle de vente pour s'imputer sur le prix du produit tel qu'affiché dans la boutique. Vous pouvez aussi ajouter des frais associés aux [méthodes de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) et [de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods#definir-une-methode-de-paiement).
 
-****\
+\
 **Prix unitaire:** Ce prix n'est pas modifiable, il est calculé automatiquement en fonction du nombre d'unités vendues.\
-****\
+\
 **En stock** **:** Indiquez le stock de produit disponible à la vente.
 
 > Utilisez ce champ si vous voulez suivre votre stock. Lorsque les acheteurs réaliseront des commandes, le niveau du stock se réduira automatiquement et lorsqu'il atteindra 0 le produit ne sera plus visible dans votre boutique. Si vous ne souhaitez pas gérer votre stock dans la plateforme, ou si le produit est disponible à la demande (autant que souhaité), cochez "à volonté" (paragraphe suivant).

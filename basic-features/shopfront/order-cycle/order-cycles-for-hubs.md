@@ -90,7 +90,7 @@ Les cycles de vente sont présentés en :
 
 :thumbsup: **vert** lorsqu'ils sont **actifs**
 
-****:thumbsup: **jaune** lorsqu'ils sont **en attente d'ouverture** (date de début de commandes pas encore passée)
+:thumbsup: **jaune** lorsqu'ils sont **en attente d'ouverture** (date de début de commandes pas encore passée)
 
 :thumbsup: **gris** lorsqu'ils sont **fermés**.&#x20;
 
@@ -128,7 +128,7 @@ Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoi
 
 En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).
 
-****:thumbsup:**Notification automatique à la fin du cycle de vente :**
+:thumbsup:**Notification automatique à la fin du cycle de vente :**
 
 L'email sera envoyé automatiquement à la fin du cycle de vente (dernier jour de la prise de commandes). Cliquez sur "Paramètres avancés", puis cochez la case "Notifications automatiques", et cliquez sur "Sauvegarder" :
 

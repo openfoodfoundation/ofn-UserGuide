@@ -38,6 +38,7 @@
       * [Affichages et prix conditionnels selon la catégorie d'acheteurs (tags)](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Boutique en ligne privée](basic-features/shopfront/private-shopfront.md)
     * [Boutique vitrine sans possibilité d’achat](basic-features/shopfront/display-only-order-cycles.md)
+    * [Marque Blanche](basic-features/shopfront/marque-blanche.md)
     * [Le "catalogue boutique"](basic-features/shopfront/inventory-tool.md)
   * [Propriétés / labels](basic-features/product-properties.md)
   * [Commandes](basic-features/orders/README.md)

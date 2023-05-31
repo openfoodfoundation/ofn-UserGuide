@@ -28,7 +28,7 @@ Une fois administrateur du groupe, vous aurez accès au menu groupe. Vous visual
 
 **Sur la page d'accueil ?** **:** Cochez cette case pour que le groupe soit visible sur le site Open Food Network, dans le menu "groupes". Cette action peut être réalisée à tout moment.
 
-**Entreprises :** Sélectionnez les entreprises que vous souhaitez faire figurer dans le groupe. **** Vous pouvez rechercher des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaîtra plus dans la recherche.
+**Entreprises :** Sélectionnez les entreprises que vous souhaitez faire figurer dans le groupe. Vous pouvez rechercher des entreprises dans toutes celles actuellement existantes sur la plateforme. Si vous avez déjà ajouté une entreprise à votre groupe, elle n'apparaîtra plus dans la recherche.
 
 **Permalink (unique, no space) :** C'est l'élément qui s'affichera dans le lien url de la page de votre groupe, après le début d'url suivant : https://www.openfoodnetwork.be/groups/permalink
 

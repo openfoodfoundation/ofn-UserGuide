@@ -168,7 +168,7 @@ Vous pouvez alors ajuster la quantité, dans la colonne quantité, ou supprimer 
 
 #### **La case à cocher "ressource partagée"**&#x20;
 
-Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par variante. Dans l'exemple ci-dessous, on voit que les variantes "1kg" et "3kg" du produit carotte sont bien affichées. ****&#x20;
+Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par variante. Dans l'exemple ci-dessous, on voit que les variantes "1kg" et "3kg" du produit carotte sont bien affichées.&#x20;
 
 ![](<../../.gitbook/assets/image (41).png>)
 
@@ -188,7 +188,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 
 ## Vue acheteur des commandes
 
-Vos acheteurs peuvent voir l'historique de leurs commandes ainsi que les soldes créditeurs/débiteurs, depuis leur compte. ****&#x20;
+Vos acheteurs peuvent voir l'historique de leurs commandes ainsi que les soldes créditeurs/débiteurs, depuis leur compte.&#x20;
 
 ![](<../../.gitbook/assets/image (81).png>)
 

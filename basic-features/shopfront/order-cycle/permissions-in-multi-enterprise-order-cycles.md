@@ -2,7 +2,7 @@
 
 
 
-_\*Cette page explique les droits qu'a chaque acteur (producteur-fournisseur, distributeur, coordinateur) dans le contexte d'un cycle de vente impliquant plusieurs entreprises, de type "_[cycle de vente géré par un hub](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)"_. Si vous souhaitez des informations sur les cycles de vente géré par un producteur,_[ _cliquez ici._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-producers)__
+_\*Cette page explique les droits qu'a chaque acteur (producteur-fournisseur, distributeur, coordinateur) dans le contexte d'un cycle de vente impliquant plusieurs entreprises, de type "_[cycle de vente géré par un hub](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)"_. Si vous souhaitez des informations sur les cycles de vente géré par un producteur,_[ _cliquez ici._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-producers)
 
 Le coordinateur du cycle de vente est l'acteur qui a le plus de contrôle sur le cycle de vente. Les autres acteurs (fournisseurs / distributeurs) peuvent voir les commandes les concernant, et éditer les paramètres du cycle de vente qui les impliquent directement, mais ne peuvent pas modifier le cycle de vente au-delà.&#x20;
 

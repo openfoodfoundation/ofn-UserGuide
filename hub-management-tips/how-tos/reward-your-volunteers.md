@@ -1,4 +1,4 @@
-# Accordez des réductions
+# Tarification sociale / réductions
 
 ## Introduction
 
@@ -26,8 +26,8 @@ Prenons le cas de réduction à appliquer aux bénévoles de votre organisation
 
 ![](../../.gitbook/assets/voldiscount.jpg)
 
-****\
-****Nom : Remise de 5 % pour les bénévoles&#x20;
+\
+Nom : Remise de 5 % pour les bénévoles&#x20;
 
 Description : Merci de nous aider à gérer notre centre alimentaire local.&#x20;
 

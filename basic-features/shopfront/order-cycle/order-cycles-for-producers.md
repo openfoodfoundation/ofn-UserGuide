@@ -1,6 +1,6 @@
 # Cycle de vente géré par un producteur
 
-_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)__
+_\*Vous n'êtes pas producteurs, ou vous êtes producteurs mais avec choisi un type de profil 'Hub producteur" ? Rendez-vous sur_ [_Cycle de vente pour les hubs._](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle/order-cycles-for-hubs)
 
 En créant un cycle de vente, vous définissez les périodes d'ouverture de votre boutique, les produits pouvant être achetés ainsi que les marges et commissions ajoutées sur les prix de base des produits pour couvrir les frais liés à la distribution (ex: vos frais de transport).
 

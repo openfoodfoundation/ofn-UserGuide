@@ -112,7 +112,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 ### Modifier ou supprimer un rythme d'abonnement <a href="#edit-or-delete-a-schedule" id="edit-or-delete-a-schedule"></a>
 
-Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente : ****&#x20;
+Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente :&#x20;
 
 ![](<../../.gitbook/assets/image (51) (1).png>)
 
@@ -122,7 +122,7 @@ Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrente
 
 ### Ajouter ou supprimer un cycle de vente d'un rythme d'abonnement <a href="#adding-or-removing-order-cycles-from-schedules" id="adding-or-removing-order-cycles-from-schedules"></a>
 
-Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement : ****&#x20;
+Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement :&#x20;
 
 ![](<../../.gitbook/assets/image (53) (1).png>)
 

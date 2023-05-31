@@ -31,4 +31,3 @@
 
 **Votre première "entreprise" est désormais créée et vous avez commencé à renseigner votre profil.**
 
-****
