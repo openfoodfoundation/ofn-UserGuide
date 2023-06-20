@@ -1,6 +1,6 @@
 # Marque Blanche
 
-La fonction Marque Blanche permet aux gestionnaires de boutique de personnaliser l'image de marquede ler de leurs boutiques pour remplacer les valeurs par défaut d'Open Food Network (CoopCircuits, Open Food Network Belgium...). \
+La fonction Marque Blanche permet aux gestionnaires de boutique de personnaliser l'image de marque de leurs boutiques pour remplacer les valeurs par défaut d'Open Food Network (CoopCircuits, Open Food Network Belgium...). \
 Ces changements s'appliqueront à tous les écrans de la boutique.&#x20;
 
 Vous pouvez accédez aux fonctions de marque blanche via le menu Paramètres d'entreprise de votre tableau de bord.
@@ -37,7 +37,7 @@ Si votre boutique dispose de l'onglet "Groupes" et que vous n'y voyez pas d'int�
 
 ### Créer un onglet personnalisé dans la boutique
 
-Si vous souhaitez ajouter un onglet personnalisé à votre boutique, vous pouvez cocher la case "créer un onglet personnalisé dans la boutiquee"
+Si vous souhaitez ajouter un onglet personnalisé à votre boutique, vous pouvez cocher la case "créer un onglet personnalisé dans la boutique"
 
 Ensuite, vous pouvez saisir le titre souhaité pour l'onglet dans "titre de l'onglet personnalisé"&#x20;
 
