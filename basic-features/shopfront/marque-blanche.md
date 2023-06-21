@@ -3,7 +3,7 @@
 La fonction Marque Blanche permet aux gestionnaires de boutique de personnaliser l'image de marque de leurs boutiques pour remplacer les valeurs par défaut d'Open Food Network (CoopCircuits, Open Food Network Belgium...). \
 Ces changements s'appliqueront à tous les écrans de la boutique.&#x20;
 
-Vous pouvez accédez aux fonctions de marque blanche via le menu Paramètres d'entreprise de votre tableau de bord.
+Vous pouvez accéder aux fonctions de marque blanche via le menu Paramètres d'entreprise de votre tableau de bord.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.48.58.png" alt=""><figcaption></figcaption></figure>
 
@@ -11,11 +11,11 @@ Vous pouvez accédez aux fonctions de marque blanche via le menu Paramètres d'e
 
 Cochez la case "Masquer la navigation du site" pour supprimer les liens d'en-tête vers d'autres parties du site Open Food Network sur votre vitrine.
 
-**Lorsque la navigation du site est visible, votre boutique affiche cette en tête :**&#x20;
+**Lorsque la navigation du site est visible, votre boutique affiche cette en-tête :**&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.41.20.png" alt=""><figcaption></figcaption></figure>
 
-**Lorsque la navigation du site est invisible, votre boutique affiche cette en tête :**&#x20;
+**Lorsque la navigation du site est invisible, votre boutique affiche cette en-tête :**&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.40.45.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ Entrez le lien dans le champ "Lien vers le logo utilisé pour la boutique" dans 
 
 ### Cacher l'onglet GROUPES de votre boutique
 
-Si votre boutique dispose de l'onglet "Groupes" et que vous n'y voyez pas d'intérêt, vous pouvez sélectionner la case "cacher l'onglet groupe dans la boutique" afin que celui-ci n'apparaisse plus dans votre boutique
+Si votre boutique est associée à un [Groupe](https://guide.openfoodnetwork.org/v/fr/basic-features/groups) et qu'elle dispose de l'onglet "Groupes" et que vous n'y voyez pas d'intérêt, vous pouvez sélectionner la case "cacher l'onglet groupe dans la boutique" afin que celui-ci n'apparaisse plus dans votre boutique
 
 ### Créer un onglet personnalisé dans la boutique
 
@@ -43,12 +43,12 @@ Ensuite, vous pouvez saisir le titre souhaité pour l'onglet dans "titre de l'on
 
 Enfin, vous pouvez saisir le texte de l'onglet dans "contenu de l'onglet personnalisé". Cliquez sur "Mettre à jour" pour enregistrer.
 
-Exemple : création d'un onglet "FAQ"&#x20;
+Exemple : création d'un onglet "FAQ" (Foire aux questions)
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-20 à 09.47.12.png" alt=""><figcaption></figcaption></figure>
 
 Affichage de l'onglet personnalisé "FAQ" sur la boutique&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.40.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-21 à 16.16.20.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  &#x20;
