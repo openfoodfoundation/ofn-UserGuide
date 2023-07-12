@@ -157,8 +157,6 @@ If a product was 'Unlimited', removing it from the import will mark the item as 
 
 ## Import New Inventory or update your inventory
 
-## Import New Inventory or update your inventory
-
 Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
 
 ### Prepare the CSV file for import
