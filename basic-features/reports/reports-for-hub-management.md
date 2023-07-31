@@ -40,15 +40,16 @@ At a glance, the data contained in these reports can be summarised:
 
 Under Products & Inventory you will find three reports which are useful if you wish to review items stocked by your hub from different producers.
 
-The **All Products and Inventory** reports differ only in that the latter (Inventory) contains only data for products with stock levels greater than zero. &#x20;
+The **All Products** and **Inventory** reports differ only in that the latter (Inventory) contains only data for products with stock levels greater than zero. &#x20;
 
 The data they contain for each product is:
 
 * Supplier name and city/suburb of supplier's address
 * Product name, variant name and SKU
 * Product property and category (taxon)
-* price
+* Price
 * Group buy unit quantity (if applicable)
+* Stock levels (by selecting 'In Stock' from the Columns dropdown)
 
 Below is an example of the All Products Report:
 
