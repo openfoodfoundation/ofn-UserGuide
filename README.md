@@ -8,7 +8,7 @@
 | <img src=".gitbook/assets/turkey.jpg" alt="" data-size="line">                           | [Open Food Network Kullanım Kılavuzunun Türkçe versiyonu için burayı ziyaret edin](https://kilavuz.acikgida.com/)                                    |
 | <img src=".gitbook/assets/brazil-flag-image-free-download.jpg" alt="" data-size="line">  | [Visite aqui para a versão em português do Guia do Usuário da Open Food Network](https://guia.openfoodbrasil.com.br/)                                |
 | <img src=".gitbook/assets/russia.jpg" alt="" data-size="line">                           | [Руководство пользователя Russian Open Food Network находится здесь.](https://guide.openfoodnetwork.ru/)                                             |
-| <img src=".gitbook/assets/flagge-spanien.jpg" alt="" data-size="line">                   | [Accesar a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
+| <img src=".gitbook/assets/flagge-spanien.jpg" alt="" data-size="line">                   | [Acceder a la versión en español de la Guía de Usuarias de Open Food Network](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/es/) |
 | <img src=".gitbook/assets/flagge-deutschland.jpg" alt="" data-size="line">               | [Lesen Sie hier die deutsche Version des OFN Benutzerhandbuchs](https://app.gitbook.com/@ofn-user-guide/s/ofn-user-guide-master/v/deutsch/)          |
 | <img src=".gitbook/assets/bandiera italia.png" alt="" data-size="line">                  | [Accedi alla versione in italiano della Guida agli utenti di Open Food Network](https://guide.openfoodnetwork.org/v/it/)                             |
 
