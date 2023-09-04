@@ -1,45 +1,54 @@
 ---
-description: Simple steps to start your OFN journey as a HUB
+description: Einfache Schritte, um Ihre OFN-Reise als HUB zu beginnen
 ---
 
 # Hub
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Schritten:
 {% endhint %}
 
-It's easy to get started on OFN, just follow the steps below:
+Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Schritten:
 
 ![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md).  If you wish to sell goods that you make as well as those of others then choose the 'Producer' and then 'Hub' [package types](../basic-features/enterprise-profile/package-types.md); whereas, if you only want to sell good made by others then choose the 'Non-Producer' and 'Hub' package options. Complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your products.  If you are a 'Producer Hub' then [make](../basic-features/products-1/products.md) \(or [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products)\) product listings for the goods you make yourself. For both 'Producer' and 'Non-Producer' hubs, contact local OFN enterprises who want their goods to be displayed on your shop front.  Ask them to set up [Enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) to connect to their business to yours through OFN.
-3. Set up a choice of [payment methods](../basic-features/shopfront/payment-methods.md) available to your customers  \(cash on delivery, credit card online payment, etc.\)
-4. Set up a choice of [shipping options](../basic-features/shopfront/shipping-methods.md) available to your customers  \('click and collect' service with a pick up time and location, home delivery, etc...\)
-5. Set up an [order cycle](../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) : this will open your shop at the start date you defined!  An order cycle is a period during which shoppers can place orders for collection or delivery at a particular time.  Some enterprises have a weekly order cycle.  Some have a permanently open order cycle.
+1. [Registrieren Sie Ihr Unternehmen.](../basic-features/register-and-create-your-profile.md)\
+   Wenn Sie sowohl selbst hergestellte als auch fremde Waren verkaufen möchten, wählen Sie die [Pakettypen](../basic-features/enterprise-profile/package-types.md) "Produzent" und dann "Hub"; wenn Sie hingegen nur von anderen hergestellte Waren verkaufen möchten, wählen Sie die Paketoptionen "Nicht-Produzent" und "Hub". Vervollständigen Sie Ihre [Unternehmenseinstellungen](../basic-features/enterprise-profile/enterprise-settings.md) mit Ihren Unternehmensdaten.
+2. Listen Sie Ihre Produkte auf.\
+   Wenn Sie ein "Produzenten-Hub" sind, [erstellen](../basic-features/products-1/products.md) (oder[ importieren](../basic-features/products-1/product-and-inventory-import.md)) Sie Produktlisten für die Waren, die Sie selbst herstellen. Sowohl für "Producer"- als auch für "Non-Producer"-Hubs gilt: Kontaktieren Sie lokale OFN-Unternehmen, die ihre Waren in Ihrem Shop anbieten möchten. Bitten Sie sie, [Unternehmensberechtigungen](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) einzurichten, um eine Verbindung zu ihrem\
+   über OFN zu Ihrem Unternehmen.
+3. Richten Sie eine Auswahl an [Zahlungsmethoden ](../basic-features/shopfront/payment-methods.md)ein, die Ihren Kunden zur Verfügung stehen (Nachnahme, Online-Zahlung per Kreditkarte, usw.)
+4. Einrichten einer Auswahl an [Versandoptionen ](../basic-features/shopfront/shipping-methods.md)für Ihre Kunden\
+   ("Click and Collect"-Service mit Abholzeit und -ort, Lieferung nach Hause usw...)
+5. Richten Sie einen[ Bestellzyklus](../basic-features/shopfront/order-cycle/) ein: Damit wird Ihr Shop zu dem von Ihnen festgelegten Startdatum geöffnet! Ein Bestellzyklus ist ein Zeitraum, in dem Kunden Bestellungen zur Abholung oder Lieferung zu einer bestimmten Zeit aufgeben können. Einige Unternehmen haben einen wöchentlichen Bestellzyklus. Andere haben einen ständig geöffneten Bestellzyklus.
 
-Congrats!  Your shop is now live!
+Herzlichen Glückwunsch! Ihr Shop ist jetzt live!
 
 {% hint style="info" %}
-To earn a little revenue to cover the cost of organising sales you may like to add an '[Enterprise Fee](../basic-features/shopfront/enterprise-fees.md)'- this mark-up is added to the selling price of products on your shopfront.
+Um ein wenig Geld zu verdienen, um die Kosten für die Organisation des Verkaufs zu decken, können Sie eine ["Unternehmensgebühr" ](../basic-features/shopfront/enterprise-fees.md)erheben - dieser Aufschlag wird auf den Verkaufspreis der Produkte in Ihrem Schaufenster aufgeschlagen.
 {% endhint %}
 
-When you start receiving orders, you can manage them in the [orders](../basic-features/orders/) section.  
+Sobald Sie Aufträge erhalten, können Sie diese im Bereich [Aufträge ](../basic-features/orders/)verwalten.
 
-All the data you need to prepare and deliver the groceries to your customers can be found in the [reports](../basic-features/reports/) section.
+Alle Daten, die Sie für die Vorbereitung und Lieferung der Lebensmittel an Ihre Kunden benötigen, finden Sie im Bereich [Berichte](../basic-features/reports/).\
 
-## More advanced features you might need
 
-* Your enterprise profile:
-  * As a **Producer Hub** you can give other local hubs [permission ](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)to sell your products on their shopfront as well as your own.
-  * You may wish to [add hub managers](../basic-features/enterprise-profile/transfer-ownership.md) so that no one person has to do all the admin!
-* Your products \(**Producer Hub** only\): 
-  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free, etc...\)
-  * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
-  * If you sell irregular items like meat or vegetables \(eg. a whole chicken, a large pumpkin\) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
-  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
-* Your shopfront:
-  * You can [restrict access](../basic-features/shopfront/private-shopfront.md) to your shop if want your shop to be only accessible to "members" or invited customers.   For example you may offer discounted produce to members of the community who have all contributed to your business, or if you wished to only sell to specific commercial customers.
-  * You can offer different prices, or display different goods, to specific groups of customers using [customer grouping \(through "tags"\)](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) and [custom display and pricing](../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
-  * If you would like to be visible on OFN only but not actually sell goods through the platform then you can setup a [display only shopfront](../basic-features/shopfront/display-only-order-cycles.md).
+## Erweiterte Funktionen, die Sie möglicherweise benötigen
 
+Ihr Unternehmensprofil:
+
+* Als Producer Hub können Sie anderen lokalen Hubs [die Erlaubnis ](../basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)erteilen, Ihre Produkte in ihrem Schaufenster zu verkaufen, ebenso wie in Ihrem eigenen.
+* Vielleicht möchten Sie [Hub-Manager hinzufügen,](../hub-management-tips/) damit nicht eine Person die ganze Verwaltung übernehmen muss!&#x20;
+
+Ihre Produkte (nur Producer Hub):
+
+* Geben Sie besondere <mark style="color:yellow;">Referenzen</mark> an (z.B. biologisch, plastikfrei, etc.).
+* Wenn Sie ein Produkt haben, das in verschiedenen Formen verkauft werden kann (z. B. Kartoffeln, die in Mengen von 500 g, 1 kg und 2 kg verkauft werden), können Sie Ihre Angebote vereinfachen, indem Sie <mark style="color:yellow;">Varianten</mark> hinzufügen.
+* Wenn Sie unregelmäßige Artikel wie Fleisch oder Gemüse (z. B. ein ganzes Huhn, einen großen Kürbis) verkaufen, die nach Gewicht berechnet werden, erfahren Sie <mark style="color:yellow;">hier, wie Sie dies tun können.</mark>
+* Sie können alle Ihre Produktlisten auf einmal importieren, wenn sie sich in einer Excel- Tabelle befinden.&#x20;
+
+Ihr Schaufenster:
+
+* Sie können <mark style="color:yellow;">den Zugang</mark> zu Ihrem Shop <mark style="color:yellow;">einschränken</mark>, wenn Sie möchten, dass Ihr Shop nur für "Mitglieder" zugänglich ist oder eingeladene Kunden. So können Sie z. B. Mitgliedern der Gemeinschaft, die alle zu Ihrem Geschäft beigetragen haben, vergünstigte Produkte anbieten, oder Sie können nur an bestimmte gewerbliche Kunden verkaufen.
+* Sie können bestimmten Kundengruppen unterschiedliche Preise anbieten oder unterschiedliche Waren anzeigen, indem Sie <mark style="color:yellow;">Kundengruppen</mark> (durch "Tags") und <mark style="color:yellow;">benutzerdefinierte Anzeigen und Preise verwenden.</mark>
+* Wenn Sie nur auf OFN sichtbar sein, aber keine Waren über die Plattform verkaufen möchten, können Sie ein <mark style="color:yellow;">reines Schaufenste</mark>r einrichten.
