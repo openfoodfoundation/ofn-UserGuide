@@ -1,7 +1,7 @@
 # Paket-/Profiltypen
 
 {% hint style="danger" %}
-[enterprise-settings.md](enterprise-settings.md "mention")Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
+Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 Nachdem Sie Ihre [Unternehmensregistrierung](../register-and-create-your-profile.md) abgeschlossen haben, haben Sie die Möglichkeit, direkt zur Seite mit den [Unternehmenseinstellungen](enterprise-settings.md) zu gelangen.
@@ -72,13 +72,9 @@ Sie können den Link zu Ihrem Online-Shop in Ihre Unternehmensbeschreibung aufne
 {% tab title="Nicht-Produzenten-Hub (Multi-Producer-Shop)" %}
 #### Sie möchten einen Online-Shop einrichten
 
-This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.&#x20;
+Mit dieser Option können Sie einen Shop verwalten, in dem Sie Produkte anderer Hersteller verkaufen. Sie können Produkte von jedem Hersteller verkaufen, der Ihnen die [Erlaubnis](create-or-connect-with-your-supplying-producers.md) dazu erteilt hat.
 
-Mit dieser Option können Sie einen Shop verwalten, in dem Sie Produkte anderer Hersteller verkaufen. Sie können Produkte von jedem Hersteller verkaufen, der Ihnen die Erlaubnis dazu erteilt hat.
-
-&#x20;For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
-
-Weitere Informationen über die Schnellanleitung für diese Art von Profil finden Sie hier.
+Weitere Informationen über die Schnellanleitung für diese Art von Profil finden Sie [hier](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 {% endtab %}
 {% endtabs %}
 
@@ -88,12 +84,10 @@ Sie können Ihren Profiltyp (Paket) jederzeit in der Zukunft ändern. Melden Sie
 
 ![](<../../.gitbook/assets/access1 (2) (2) (1).jpg>)
 
-and then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option(s) from the drop down menus.  (You will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this.)
+und rufen Sie dann Ihr Menü [Unternehmenseinstellungen](enterprise-settings.md) auf. Wählen Sie in der Tabelle die richtige(n) Option(en) aus den Dropdown-Menüs. (Dazu müssen Sie der "[Eigentümer](enterprise-settings.md#benutzer)" des Unternehmens sein).
 
 ![](../../.gitbook/assets/enterprisetable.jpg)
 
 ## Nächster Schritt
 
-Once you have chosen the correct profile type for your food business you can complete any missing information and further refine your setup under the [Enterprise Settings](enterprise-settings.md) menu.&#x20;
-
-Sobald Sie den richtigen Profiltyp für Ihr Lebensmittelunternehmen ausgewählt haben, können Sie alle fehlenden Informationen ergänzen und Ihre Einrichtung im Menü Unternehmenseinstellungen weiter verfeinern.
+Sobald Sie den richtigen Profiltyp für Ihr Lebensmittelunternehmen ausgewählt haben, können Sie alle fehlenden Informationen ergänzen und Ihre Einrichtung im Menü [Unternehmenseinstellungen](enterprise-settings.md) weiter verfeinern.

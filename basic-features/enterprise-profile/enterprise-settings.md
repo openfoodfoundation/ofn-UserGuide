@@ -10,7 +10,7 @@ description: >-
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-## Access your Enterprise Settings
+## Zugriff auf Ihre Unternehmenseinstellungen
 
 1. Sobald Sie eingeloggt sind und auf Ihr Admin-Dashboard zugreifen, wählen Sie "Unternehmen" im blauen horizontalen Menü
 2. Wählen Sie "Einstellungen" neben Ihrem Unternehmen
@@ -33,48 +33,48 @@ Dieses kurze Video gibt einen kurzen Einblick in die unten aufgeführten Schritt
 
 ![](../../.gitbook/assets/enterprisesettings.gif)
 
-## Primary Details
+## Primäre Details
 
-**Name:** This is the name of your enterprise. It will be the title of your profile (and shop).
+**Name:** Dies ist der Name Ihres Unternehmens. Er wird der Titel Ihres Profils (und Ihres Shops) sein.
 
-**Primary Producer:** Select the producer box if you are a producer.
+**Hauptproduzent:** Markieren Sie das Feld Produzent, wenn Sie ein Produzent sind.
 
 {% hint style="warning" %}
-Only enterprises marked as Producers can add products to OFN. [Non-Producer Hubs](package-types.md#for-non-producers-hubs) only need to select this option if they retail mixed boxes which they pack and contain items from multiple producers.
+Nur Unternehmen, die als Erzeuger gekennzeichnet sind, können Produkte zum SFN hinzufügen. [Nicht-Erzeuger-Hubs](package-types.md#nicht-produzenten-hub-multi-producer-shop) müssen diese Option nur wählen, wenn sie gemischte Kisten verkaufen, die sie verpacken und Artikel von mehreren Erzeugern enthalten.
 {% endhint %}
 
-**Visible in Search:** If your profile is ready to go public, select 'visible', and your business will appear in the OFN's directory and map. If you’re still making adjustments, select 'not visible', until you are ready.
+**Sichtbar in der Suche:** Wenn Ihr Profil bereit ist, veröffentlicht zu werden, wählen Sie "sichtbar", und Ihr Unternehmen wird im Verzeichnis und auf der Karte des OFN erscheinen. Wenn Sie noch Anpassungen vornehmen müssen, wählen Sie "nicht sichtbar", bis Sie fertig sind.
 
-**Permalink:** You can customise part of the web address which will host to your shop.
+**Permalink:** Sie können einen Teil der Webadresse, die zu Ihrem Geschäft führt, anpassen.
 
-**Link to Shop Front:** This is the web address of your shop on the OFN (if you've chosen a profile type with shopfront). You can customise part of the URL above.
+**Link zur Ladenfront:** Dies ist die Webadresse Ihres Shops im OFN (wenn Sie einen Profiltyp mit Shopfront gewählt haben). Sie können einen Teil der obigen URL individuell anpassen.
 
-**OFN ID:** This identifier makes it possible to recognize without ambiguity your enterprise even if you decide to change its name for example, and simplifies the work of the support team if necessary.
+**OFN ID:** Diese Kennung ermöglicht es, Ihr Unternehmen eindeutig wiederzuerkennen, auch wenn Sie sich z.B. für eine Namensänderung entscheiden, und vereinfacht die Arbeit des Support-Teams, falls erforderlich.
 
-### Address
+### Addresse
 
-This information is used to geolocate your enterprise the OFN map. Your exact address won't show if you are only registered as a Producer or Non-Producer Profile.  However if you are registered as a Shop or Hub your address will show in text form in your shop front's contact details tab.
+Diese Informationen werden verwendet, um Ihr Unternehmen auf der OFN-Karte zu lokalisieren. Ihre genaue Adresse wird nicht angezeigt, wenn Sie nur als Produzent oder Nicht-Produzent registriert sind. Wenn Sie jedoch als Shop oder Hub registriert sind, wird Ihre Adresse in Textform auf der Registerkarte "Kontaktinformationen" Ihrer Shopfront angezeigt.
 
-### Contact
+### Kontakt
 
-**Contact Name:** We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Name der Kontaktperson:** Wir bitten Sie um einen Kontaktnamen für die Unterlagen des OFN. Dieser Name wird nicht in Ihrem Profil angezeigt, aber in den Bestellbestätigungs-E-Mails, wenn Sie einen Shop betreiben.
 
-**Email, Phone & Website:** These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**E-Mail, Telefon und Website:** Diese Kontaktdaten werden auf Ihrem OFN-Profil und in Ihrem Schaufenster aufgeführt, damit andere mit Ihnen in Kontakt treten können.
 
-### Social
+### Soziales
 
-**Facebook, Instagram, LinkedIn, Twitter:** Links to these pages will be created on your profile and shopfront.
+**Facebook, Instagram, LinkedIn, Twitter:** Links zu diesen Seiten werden in Ihrem Profil und Ihrem Schaufenster eingerichtet.
 
-### About
+### Über
 
-**Short description:** This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Kurze Beschreibung:** Diese wird angezeigt, wenn Ihr Profil in der Liste angezeigt wird. Sie sollte weniger als 1-2 Sätze umfassen, die kurz beschreiben, was Sie tun.
 
-**About Us:** This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
+**Über uns:** Dies ist eine längere Beschreibung Ihres Unternehmens. Sie wird angezeigt, wenn Ihr Profil vollständig angezeigt wird. Sie sollte eine halbe bis eine Seite lang sein.
 
-### Business Details
+### Geschäftliche Details
 
 {% hint style="warning" %}
-These differ from country to country and they depend on local regulations and laws.
+Diese sind von Land zu Land unterschiedlich und hängen von den örtlichen Vorschriften und Gesetzen ab.
 {% endhint %}
 
 {% tabs %}
@@ -83,11 +83,11 @@ These differ from country to country and they depend on local regulations and la
 
 **ACN:** Australian Company Number
 
-**Charges GST:** If you wish to charge customers the Goods and Services Tax (GST)
+**Charges GST:** Wenn Sie Ihren Kunden die Goods and Services Tax (GST) in Rechnung stellen möchten
 
-**Display Logo on Invoices:** if desired.
+**Display Logo on Invoices:** wenn gewünscht.
 
-**Add Customised Text at the end of Invoices:** such as payment details
+**Add Customised Text at the end of Invoices:** wie z.B. die Zahlungsdaten
 {% endtab %}
 
 {% tab title="Belgium" %}
@@ -95,13 +95,15 @@ These differ from country to country and they depend on local regulations and la
 {% endtab %}
 
 {% tab title="Canada" %}
-**The 2 Business Number fields:**  These refer to business numbers of various kinds.  If you intend to print invoices - you must put content here.  It can be anything -  your business registration number,  a phone number,  or anything.  It will show on printed and emailed invoices.  If you aren't going to print or send invoices -  you do not need any content here.\
-**Charges sales tax?:**If any of the products you are selling incur sales tax in your province, you should select 'yes'. If not, select 'no'\
-**Display logo on invoices:**  If you have uploaded a logo and you want it to display on your invoices,  select the box\
-**Add customized tax at the end of invoices:**  Whatever you write here will appear at the end of your invoices.  It might be a thank-you,  or other message to customers. \
-**Terms and Conditions:** see below
+**Die 2 Felder Geschäftsnummer:** Diese beziehen sich auf verschiedene Arten von Geschäftsnummern. Wenn Sie beabsichtigen, Rechnungen zu drucken, müssen Sie hier einen Inhalt eingeben. Das kann alles Mögliche sein - Ihre Unternehmensregistrierungsnummer, eine Telefonnummer oder etwas anderes. Sie wird auf den gedruckten und gemailten Rechnungen erscheinen. Wenn Sie keine Rechnungen ausdrucken oder versenden wollen, brauchen Sie hier keine Angaben zu machen. &#x20;
 
+**Erhebt die** **Umsatzsteuer:** Wenn eines der Produkte, die Sie verkaufen, in Ihrer Provinz umsatzsteuerpflichtig ist, sollten Sie "ja" auswählen. Wenn nicht, wählen Sie "nein".&#x20;
 
+**Logo auf** **Rechnungen anzeigen:** Wenn Sie ein Logo hochgeladen haben und es auf Ihren Rechnungen angezeigt werden soll, aktivieren Sie das Kästchen
+
+**Benutzerdefinierte Steuer am Ende von Rechnungen hinzufügen:** Was auch immer Sie hier eintragen, wird am Ende Ihrer Rechnungen erscheinen. Dies kann ein Dankeschön oder eine andere Nachricht an Ihre Kunden sein.&#x20;
+
+**Bedingungen und Konditionen:** siehe unten
 {% endtab %}
 
 {% tab title="Catalunya" %}
@@ -109,182 +111,182 @@ These differ from country to country and they depend on local regulations and la
 {% endtab %}
 
 {% tab title="France" %}
-**Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
+**Siret:** Diese Informationen werden nicht veröffentlicht. Sie ist für Shop-Betreiber wichtig, wenn sie über die Plattform Rechnungen ausstellen wollen.
 
-**N° intra-Community VAT:** This information will not be public.&#x20;
+**N° intra-Community VAT:** Diese Informationen werden nicht veröffentlicht.
 
-**In VAT scheme?** If you are within the VAT scheme, select "yes".
+**In VAT scheme?** Wenn Sie unter die Mehrwertsteuerregelung fallen, wählen Sie "ja".
 
-**Display the logo on the invoice:** You can choose to display or not the logo of your enterprise on the invoices issued from the platform.
+**Display the logo on the invoice:** Sie können wählen, ob das Logo Ihres Unternehmens auf den von der Plattform ausgestellten Rechnungen erscheinen soll oder nicht.
 
-**Add a specific mention at the bottom of the invoices:** You can add a specific mention that you would have the obligation or the wish to add on your invoices.
+**Add a specific mention at the bottom of the invoices:** Sie können einen speziellen Vermerk hinzufügen, den Sie auf Ihren Rechnungen anbringen müssen oder möchten.
 {% endtab %}
 
 {% tab title="UK" %}
-**Company Number:** For businesses registered at Companies House this is your unique identifying number.
+**Unternehmensnummer:** Für Unternehmen, die beim Companies House registriert sind, ist dies Ihre eindeutige Identifikationsnummer.
 
-**Charity Number:** If your enterprise is a registered charity
+**Wohltätigkeitsnummer:** Wenn Ihr Unternehmen eine eingetragene Wohltätigkeitsorganisation ist
 
-**Charges VAT:** VAT registered businesses should select this option so that VAT is managed appropriately on invoices and reports.
+**Berechnet die Mehrwertsteuer:** Unternehmen, die für Mehrwertsteuerzwecke registriert sind, sollten diese Option wählen, damit die Mehrwertsteuer auf Rechnungen und Berichten entsprechend ausgewiesen wird.
 
-For advise on selling as a VAT registered enterprise please see this document:
+Hinweise zum Verkauf als mehrwertsteuerlich registriertes Unternehmen finden Sie in diesem Dokument:
 
 {% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" %}
 Selling as VAT registered enterprise
 {% endfile %}
 
-**Display Logo on Invoices:** if desired.
+**Logo auf Rechnungen anzeigen:** falls gewünscht.
 
-**Add Customised Text at the end of Invoices:** such as payment details (if payments are accepted by BACS) or terms and conditions.
+**Fügen Sie benutzerdefinierten Text am Ende von Rechnungen hinzu:** z. B. Zahlungsdetails (wenn Zahlungen per BACS akzeptiert werden) oder Geschäftsbedingungen.
 {% endtab %}
 
 {% tab title="USA" %}
-**ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
+**ABN:** Diese wird nicht öffentlich angezeigt. Sie ist für Shop-Benutzer erforderlich, die Rechnungen drucken möchten.&#x20;
 
-**ACN:** this will not be displayed publicly.
+**ACN:** Diese wird nicht öffentlich angezeigt.&#x20;
 
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
+**GST berechnen** - Wenn Sie die GST für Ihre Produkte berechnen möchten, wählen Sie "ja".
 {% endtab %}
 {% endtabs %}
 
 
 
-**Terms and Conditions** (pdf files only) : Let your customers know any terms and conditions associated with purchasing from your business (for example your refund policy) by uploading a .pdf file here.
+**Allgemeine Geschäftsbedingungen** (nur pdf-Dateien) : Informieren Sie Ihre Kunden über alle Bedingungen, die mit dem Kauf bei Ihrem Unternehmen verbunden sind (z. B. Ihre Rückerstattungsrichtlinien), indem Sie hier eine .pdf-Datei hochladen.
 
 ![](../../.gitbook/assets/tandc.jpg)
 
-If you opt to add a file here, the customer will be required to check the box to say that they have read and agree with your terms and conditions before they can submit their order.
+Wenn Sie sich dafür entscheiden, hier eine Datei hinzuzufügen, muss der Kunde das Kästchen ankreuzen, um zu bestätigen, dass er Ihre Allgemeinen Geschäftsbedingungen gelesen hat und ihnen zustimmt, bevor er seine Bestellung abschicken kann.
 
 ![](../../.gitbook/assets/checkouttc.jpg)
 
-### Images
+### Bilder
 
-**Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square (i.e. 100 x 100), or it will appear warped.  All images inserted here will be resized to 100 x 100 pixels.
+**Logo-Bild:** Es wird sichtbar sein, wenn Ihr Profil in einem Pop-up-Fenster kurz angesehen wird. Es wird auch in Ihrem Profil angezeigt. Dieses Bild muss quadratisch sein (d.h. 100 x 100), sonst wird es verzerrt dargestellt. Alle hier eingefügten Bilder werden auf 100 x 100 Pixel verkleinert.
 
-**Promo image:** This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
+**Promo-Bild:** Dieses Bild wird horizontal am oberen Rand Ihrer Profilseite angebracht. Es sollte 1200 x 260 Pixel groß sein.
 
-An example profile is shown below in its complete version (from the map or shopfront pages).
+Nachfolgend ist ein Beispielprofil in seiner vollständigen Version (von der Karte oder den Schaufensterseiten) dargestellt.
 
 ![](../../.gitbook/assets/demohubimages1.jpg)
 
-And now in its condensed version (from the producer listing page).
+Und nun in der Kurzfassung (von der Seite mit den Herstellerangaben).
 
 ![](../../.gitbook/assets/demohubimages2.jpg)
 
-### Properties&#x20;
+### Eigenschaften&#x20;
 
 {% hint style="warning" %}
-Visible to **Producers** only
+Sichtbar nur für **Produzenten**
 {% endhint %}
 
-You can add properties (such as free range or certified organic) to your enterprise. These properties will then be automatically applied to **all** of your products.&#x20;
+Sie können Ihrem Unternehmen Eigenschaften (wie z. B. Freilandhaltung oder zertifizierter biologischer Anbau) hinzufügen. Diese Eigenschaften werden dann automatisch auf **alle** Ihre Produkte angewendet.
 
-You can also specify properties for particular products only. This is useful if you stock both certified organic and ordinary groceries, for example. More information about this can be found [here](../products-1/product-properties.md).&#x20;
+Sie können auch Eigenschaften nur für bestimmte Produkte angeben. Das ist zum Beispiel nützlich, wenn Sie sowohl zertifizierte Bio-Produkte als auch normale Lebensmittel führen. Weitere Informationen dazu finden Sie [hier](../products-1/product-properties.md).
 
-### Shipping Methods, Payment Methods & Enterprise Fees
+### Versandmethoden, Zahlungsarten und Unternehmensgebühren
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only (ie invisible for Producer/Non-Producer Profiles)
+Sichtbar nur für in Shops oder Hubs registrierte Unternehmen (d.h. unsichtbar für Hersteller/Nicht-Hersteller-Profile)
 {% endhint %}
 
-The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+Die [Versandarten](../shopfront/shipping-methods.md), [Zahlungsarten](../shopfront/payment-methods.md) und [Unternehmensgebühren](../shopfront/enterprise-fees.md) werden in späteren Kapiteln dieses Benutzerhandbuchs ausführlicher behandelt.
 
 {% hint style="danger" %}
-At least one method of **payment** and **delivery** must be setup to be able to open your online shopfront.
+Mindestens eine Zahlungs- und Liefermethode muss eingerichtet sein, damit Sie Ihr Online-Schaufenster öffnen können.
 {% endhint %}
 
-### Inventory Settings
+### Inventar-Einstellungen
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 {% endhint %}
 
-For most enterprises the recommended setting can be used.
+Für die meisten Unternehmen kann die empfohlene Einstellung verwendet werden.
 
-Advanced users who need greater flexibility with product management should consult the [Inventory](../products-1/inventory-tool.md) page of this guide before changing the settings.
+Fortgeschrittene Benutzer, die eine größere Flexibilität bei der Produktverwaltung benötigen, sollten die Seite "[Inventar](../products-1/inventory-tool.md)" in diesem Handbuch konsultieren, bevor sie die Einstellungen ändern.
 
-### Tag Rules
+### Tag-Regeln
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 {% endhint %}
 
-Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
+In diesem Menü finden Sie alle "Tags", die den Kunden Ihres Unternehmens zugewiesen wurden.
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups.  They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+Tags" sind Etiketten, die Sie Kunden, Produkten und anderen Einstellungen zuweisen, um bestimmten Gruppen unterschiedlichen Zugang, Preise oder andere Vorteile zu gewähren. Sie sind besonders nützlich, wenn Sie treuen Kunden oder "Mitgliedern" Ihres Lebensmittelzentrums Vorzugspreise gewähren oder ihnen erlauben möchten, per BACS statt per PayPal/Stripe zu bezahlen.
 
-&#x20;For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
+Weitere Informationen finden Sie im Abschnitt "[Kundenverwaltung und bedingte Anzeigen/Preise](../shopfront/customer-management-and-conditional-displays-prices/)".
 
-### Shop Preferences
+### Shop-Einstellungen
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 {% endhint %}
 
-**Shopfront Message**: This message is optional. If completed the message will be visible under a 'Notices' tab on the top menu bar.  Your shop (and it's products) will appear under the 'Shop' tab.
+**Schaufenster-Nachricht:** Diese Nachricht ist optional. Wenn Sie die Nachricht ausfüllen, wird sie unter der Registerkarte "Mitteilungen" in der oberen Menüleiste angezeigt. Ihr Shop (und seine Produkte) werden unter der Registerkarte "Shop" angezeigt.
 
-![Notices tab for shopfront with one order cycle open](../../.gitbook/assets/notices-one-oc.jpg)
+![Registerkarte "Mitteilungen" für Schaufenster mit einem offenen Auftragszyklus](../../.gitbook/assets/notices-one-oc.jpg)
 
-![Notices tab for shopfront with concurrent order cycles](<../../.gitbook/assets/noiticesmulitoc (2) (1).jpg>)
+![Registerkarte "Bekanntmachungen" für Schaufenster mit gleichzeitigen Bestellzyklen](<../../.gitbook/assets/noiticesmulitoc (2) (1).jpg>)
 
-The Shop Front message or 'Notice' is an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. You can include links to external websites (perhaps to showcase where your products are grown), social media and more.
+Die Shop-Front-Nachricht oder der "Hinweis" ist eine Gelegenheit, dem Kunden grundlegende Informationen darüber zu geben, wie Ihr Geschäft funktioniert. Sie können zum Beispiel erklären, wie Ihre Bestellzyklen strukturiert sind oder welche Voraussetzungen für eine Mitgliedschaft gelten. Es könnte auch eine freundliche Begrüßung sein oder eine Gelegenheit, um für Sonderangebote zu werben. Sie können Links zu externen Websites (vielleicht um zu zeigen, wo Ihre Produkte angebaut werden), zu sozialen Medien und mehr einfügen.
 
-If left blank the 'Notices' tab will not appear on your shop front.
+Wenn Sie dieses Feld leer lassen, wird die Registerkarte "Bekanntmachungen" nicht auf der Startseite Ihres Shops angezeigt.
 
 ![](../../.gitbook/assets/nonoticestab.jpg)
 
-**Shopfront Closed Message**: This message will be displayed under both the 'Notices' AND 'Shop' tabs when your shopfront is closed (no active order cycle). It’s a chance to tell customers when the shop will next be open and accepting orders.
+**Schaufenster geschlossen Nachricht:** Diese Nachricht wird sowohl unter den Registerkarten "Mitteilungen" als auch "Shop" angezeigt, wenn Ihr Schaufenster geschlossen ist (kein aktiver Bestellzyklus). So können Sie Ihren Kunden mitteilen, wann der Shop das nächste Mal geöffnet sein wird und Bestellungen entgegennimmt.
 
 {% hint style="success" %}
-TIP: Copy and paste your 'ShopFront Message' into the Shopfront Closed Message. Then you can inform customers about how your shop works, link to external websites with more information about your products and ethics etc as well as inform them of when the next order cycle will open.
+TIPP: Kopieren Sie Ihre "ShopFront Message" und fügen Sie sie in die "Shopfront Closed Message" ein. Dann können Sie Ihre Kunden darüber informieren, wie Ihr Shop funktioniert, auf externe Websites mit weiteren Informationen über Ihre Produkte und Ethik usw. verlinken und ihnen mitteilen, wann der nächste Bestellzyklus eröffnet wird.
 {% endhint %}
 
-![Closed Shopfront with customised message](../../.gitbook/assets/closedmessageyes.jpg)
+![Geschlossene Schaufensterfront mit individueller Botschaft](../../.gitbook/assets/closedmessageyes.jpg)
 
-![Closed Shopfront with Default message](../../.gitbook/assets/closedmessageno.jpg)
+![Geschlossene Schaufenster mit Standardmeldung](../../.gitbook/assets/closedmessageno.jpg)
 
-**Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Schaufenster Kategorie Bestellung:** Standardmäßig sind die Produkte in Ihrem Shop alphabetisch geordnet. Sie können wählen, ob Sie die Produkte in der Reihenfolge ihrer Kategorie anzeigen lassen möchten. In diesem Fall werden die Produkte in der Reihenfolge der Kategorie und dann in alphabetischer Reihenfolge innerhalb ihrer Kategorie angezeigt. So können Sie z. B. Ihre Fleisch- und Fischprodukte ganz oben anzeigen lassen, während Ihre weniger wichtigen Produkte wie Essiggurken und Konserven weiter unten im Schaufenster erscheinen.
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date (closing soonest first) or by opening date (opening soonest first).
+**Sortieren der Bestellzyklen im Schaufenster nach:** Wenn in Ihrem Schaufenster [mehrere Bestellzyklen gleichzeitig geöffnet sind](../shopfront/order-cycle/opening-more-than-one-order-cycle.md), können Sie die Reihenfolge auswählen, in der sie im Schaufenster erscheinen. Sie können sie nach Schließungsdatum (Schließung am frühesten) oder nach Öffnungsdatum (Öffnung am frühesten) sortieren.
 
-**Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
+**Öffentlich sichtbares Schaufenster?** Wenn Sie "öffentlich" wählen, kann jeder Käufer auf Ihr Schaufenster zugreifen und eine Bestellung aufgeben. Wenn Sie "nur für registrierte Kunden sichtbar" wählen, werden Kunden, die Ihren Shop besuchen, aufgefordert, sich anzumelden, und nur die Benutzer, die auf Ihrer Kundenliste stehen, erhalten Zugang zu Ihrem Shop. Erfahren Sie mehr über die [Funktion des privaten Shops](../shopfront/private-shopfront.md).
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order".&#x20;
+**Gastbestellungen?** Wenn Sie die Option "Gastbestellungen zulassen" wählen, müssen sich Ihre Kunden nicht beim OFN anmelden, um bei Ihnen einkaufen zu können, d.h. sie brauchen kein Benutzerkonto. Wenn Sie die zusätzliche Sicherheit haben möchten, dass Ihre Kunden ein OFN-Konto haben müssen, um eine Bestellung aufzugeben, wählen Sie "Anmeldung für die Bestellung erforderlich".
 
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us.  Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+Damit ein Kunde ein OFN-Konto hat, muss er die E-Mail bestätigen, die er bei der Registrierung erhalten hat. Wenn Sie also die Option "Anmeldung für die Bestellung erforderlich" wählen, kann dies dazu beitragen, die Anzahl der Bestellungen zu begrenzen, die später nie abgeholt werden, da Sie wissen, dass die Bestellbestätigungs-E-Mail des Kunden an ein aktives E-Mail-Konto gesendet wird.
 
 {% hint style="warning" %}
-The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
+Die Einstellung "Gastbestellungen" ist nicht anwendbar, wenn Sie sich für "nur für registrierte Kunden sichtbar" entschieden haben.
 {% endhint %}
 
-**Change Orders:** We recommend the default setting of 'Placed orders can not be changed or cancelled', especially if your allow 'guest customers' (ie people without an OFN account) to place orders.  This is just so, as a shop or hub manager, you can keep track of payments received and refunds issued.  If a customer wishes to change their order, you can still do so, on their behalf, using the '[Edit Order](../orders/view-orders.md#editing-an-order)' functionality.
+**Bestellungen ändern:** Wir empfehlen die Standardeinstellung "Erteilte Aufträge können nicht geändert oder storniert werden", insbesondere wenn Sie "Gastkunden" (d.h. Personen ohne OFN-Konto) erlauben, Aufträge zu erteilen. Dies dient nur dazu, dass Sie als Shop- oder Hub-Manager den Überblick über Zahlungseingänge und Rückerstattungen behalten können. Wenn ein Kunde seine Bestellung ändern möchte, können Sie dies in seinem Namen über die Funktion "[Bestellung bearbeiten](../orders/view-orders.md#editing-an-order)" tun.
 
 {% hint style="success" %}
-_**Customers can change or cancel orders while an order cycle is open**_ is ONLY suitable if you use the **'cash/EFT/...**' [payment method](../shopfront/payment-methods.md) provider. &#x20;
+Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist. Dies ist NUR möglich, wenn Sie den Anbieter der [Zahlungsmethode](../shopfront/payment-methods.md) 'Bargeld/EFT/...' verwenden.
 {% endhint %}
 
 {% hint style="danger" %}
-Opting for 'customers can change or cancel orders while an order cycle is open' with an **automated** [payment provider](../shopfront/payment-methods.md) (Stripe/Paypal) is **strongly advised against**.
+Bei **automatisierten** [Zahlungsanbietern](../shopfront/payment-methods.md) (Stripe/Paypal) **wird dringend davon abgeraten**, die Option "Kunden können Bestellungen ändern oder stornieren, solange ein Bestellzyklus offen ist" zu wählen.
 {% endhint %}
 
-Opting for 'Customers can change or cancel orders while an order cycle is open' allows customers to change the quantities of **products already in their basket** **or cancel their order** altogether while the shop is open.  They will **not be able to add new products** to their original order- doing this will generate a 2nd order. &#x20;
+Wenn Sie sich für die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus geöffnet ist" entscheiden, können Kunden die Menge der Produkte in ihrem Warenkorb ändern oder ihre Bestellung stornieren, solange der Shop geöffnet ist. Sie können keine neuen Produkte zu ihrer ursprünglichen Bestellung hinzufügen - dies würde eine zweite Bestellung erzeugen.
 
 {% hint style="danger" %}
-[Refunds](../orders/refunds-and-adjusting-payments.md) will not be automatically issued to the customer, nor will additional funds be automatically collected.
+Es werden weder automatisch [Rückerstattungen](../orders/refunds-and-adjusting-payments.md) an den Kunden ausgestellt, noch werden automatisch zusätzliche Gelder eingezogen.
 {% endhint %}
 
-**Subscriptions:** If you would like to offer to set up regular repeating orders for your customers then you can enable the [subscriptions](../subscriptions/) functionality here.
+**Abonnements:** Wenn Sie Ihren Kunden anbieten möchten, regelmäßig wiederkehrende Bestellungen aufzugeben, können Sie hier die [Abonnementfunktion](../subscriptions/) aktivieren.
 
-**Customer names in reports.** If you distribute products from other suppliers / producers, they will be able to run reports showing details of their products as sold through your Order Cycles. This option allows you to make the names of customers visible in these reports. Depending on the distribution model you have in place, this may be necessary for Producers to pack and distribute orders to the customers.
+**Kundennamen in Berichten.** Wenn Sie Produkte von anderen Lieferanten/Herstellern vertreiben, können diese Berichte erstellen, die Details zu ihren Produkten zeigen, die über Ihre Auftragszyklen verkauft wurden.Mit dieser Option können Sie die Namen der Kunden in diesen Berichten sichtbar machen. Je nach Ihrem Vertriebsmodell kann dies für Produzenten notwendig sein, um Bestellungen zu verpacken und an die Kunden zu verteilen.
 
 
 
 ### Benutzer
 
-**Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
+**Eigentümer:** Dies ist die E-Mail-Adresse des Hauptnutzers, der für dieses Unternehmen verantwortlich ist. Er hat die Befugnis, alle Aspekte des Profils zu ändern. Nur der Besitzer kann den Besitzer ändern, indem er aus der Liste der Unternehmensmanager auswählt. Dieser Benutzer hat ein Sternchen neben seinem Namen im Feld "Manager".
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Benachrichtigungen:** Dies ist die E-Mail des Benutzers, an den die Korrespondenz des OFN-Systems gerichtet wird, z. B. Auftragsbestätigungen usw. Nur der Eigentümer kann den Benutzer, der die Benachrichtigungen erhalten soll, in der Liste der Unternehmensmanager benennen. Dieser Benutzer hat ein Briefumschlagsymbol neben seinem Namen im Managerfeld.
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them (see next point).
+**Verwalter:** Andere OFN-Benutzer, denen die Erlaubnis erteilt wurde, dieses Konto zu verwalten. Möchten Sie einen neuen Manager hinzufügen? Sie können nach vorhandenen E-Mails von Benutzern suchen, die sich für ein OFN-Konto registriert haben, und sie als Manager hinzufügen. Wenn Sie keinen Benutzer für die gesuchte E-Mail finden, existiert der Benutzer noch nicht im OFN, Sie müssen ihn einladen (siehe nächster Punkt).
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Manager einladen:** Hier können Sie einen Manager hinzufügen, der nicht bei OFN registriert ist.Wenn Sie ihn hinzufügen, erhält er eine E-Mail-Bestätigung. Wenn er seine E-Mail bestätigt, kann er ein Passwort festlegen und sich anmelden, um dieses Unternehmen zu verwalten.

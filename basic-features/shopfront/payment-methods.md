@@ -1,7 +1,7 @@
 # Payment Methods
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 {% hint style="danger" %}
@@ -20,7 +20,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
 ![](../../.gitbook/assets/paymentmethods2.jpg)
 
 * Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
-* **Name:** Choose a name for this payment method. \(eg 'Pay with credit card using Paypal'\). This name is displayed at checkout and on customers' order confirmation emails.
+* **Name:** Choose a name for this payment method. (eg 'Pay with credit card using Paypal'). This name is displayed at checkout and on customers' order confirmation emails.
 
 ![](../../.gitbook/assets/paymentmethod2.jpg)
 
@@ -28,7 +28,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
 * **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
 
 {% hint style="info" %}
-If you want to inactivate a payment method for a while but might want to offer it again in the future \(perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection\) then change it to 'Back Office Only'.
+If you want to inactivate a payment method for a while but might want to offer it again in the future (perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection) then change it to 'Back Office Only'.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -36,32 +36,32 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
 {% endhint %}
 
 * **Active:** Select whether this payment method is currently visible and available, or not.
-* **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers \(for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.\). For more information read [here](customer-management-and-conditional-displays-prices/).
+* **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers (for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.). For more information read [here](customer-management-and-conditional-displays-prices/).
 * **Payment providers**: Select the option which is relevant to the payment method you are creating. There are five options:
-  * MasterCard Internet Gateway Service \(MIGS\) 
-  * PayPal Express 
-  * [Pin Payments](https://pinpayments.com/) \(Australia only\) 
-  * ~~Stripe/ Stripe Connect~~ \(This payment has been deprecated and will be removed. Use Stripe SCA\)
+  * MasterCard Internet Gateway Service (MIGS)&#x20;
+  * PayPal Express&#x20;
+  * [Pin Payments](https://pinpayments.com/) (Australia only)&#x20;
+  * ~~Stripe/ Stripe Connect~~ (This payment has been deprecated and will be removed. Use Stripe SCA)
   * Stripe SCA
-  * Cash / EFT / etc. \(Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation\) 
+  * Cash / EFT / etc. (Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation)&#x20;
 
 ![](../../.gitbook/assets/payment-methods1.jpg)
 
 {% hint style="warning" %}
-Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled \(found in Enterprises -&gt; Settings -&gt; [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)\) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...\)
+Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled (found in Enterprises -> Settings -> [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...)
 {% endhint %}
 
-* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators). 
+* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators).&#x20;
 
-By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected. 
+By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected.&#x20;
 
 {% hint style="info" %}
-If you change the Payment Method fee 'Calculator' field you must first save your changes \(Update\) for the new associated fields to become visible.
+If you change the Payment Method fee 'Calculator' field you must first save your changes (Update) for the new associated fields to become visible.
 {% endhint %}
 
 ## Integrated Payment Providers
 
-For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional instructions are below.
+For Paypal, MasterCard, Stripe and Pin Payments (Australia only) additional instructions are below.
 
 {% tabs %}
 {% tab title="Paypal" %}
@@ -72,11 +72,11 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 ![](../../.gitbook/assets/paypalmay1.jpg)
 
-3. Select 'Update' from API Access
+3\. Select 'Update' from API Access
 
 ![](../../.gitbook/assets/paypalmay2.jpg)
 
-4. Select 'Manage API credentials' from the custom checkout experience option.
+4\. Select 'Manage API credentials' from the custom checkout experience option.
 
 ![](../../.gitbook/assets/paypalmay3.jpg)
 
@@ -98,15 +98,15 @@ From here you will be able to access your API username, password and signature.
 
 **Solution:** Solution determines whether or not a user needs a PayPal account to check out.
 
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account \(with credit card\).
+Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account (with credit card).
 
 **Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
 
-Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
+Type “Login” to direct customer to the login form for PayPal (if you selected “Mark” above). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account (if you selected “Sole” above).
 {% endtab %}
 
 {% tab title="MIGS" %}
- MasterCard Internet Gateway Service \(MIGS\)
+&#x20;MasterCard Internet Gateway Service (MIGS)
 
 Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
 {% endtab %}
@@ -132,7 +132,7 @@ Before you can setup a payment method that uses Stripe, you’ll need to Connect
 
 You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
 
-The information you’ll be asked for includes: country, a description of your business, your Business address and ABN, your personal details and your bank account \(where received payments will be deposited\).
+The information you’ll be asked for includes: country, a description of your business, your Business address and ABN, your personal details and your bank account (where received payments will be deposited).
 
 **Create a New Payment Method**
 
@@ -148,13 +148,13 @@ Once you select Stripe, ‘Provider Settings’ will be shown.
 
 Select the enterprise that has a Stripe account connected.
 
-If you select an enterprise that is not Connected to Stripe \(see above\) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
+If you select an enterprise that is not Connected to Stripe (see above) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
 
 ![](../../.gitbook/assets/stripe-connect.png)
 
 #### Stripe Payments for Customers
 
-When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account \(if they are logged in\).
+When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account (if they are logged in).
 
 Customer can also save a credit card in their Account, or delete saved ones.
 
@@ -164,19 +164,19 @@ When the customer next shops with an OFN shop offering Stripe as a payment metho
 
 **Viewing and redeeming your payments via Stripe**
 
-When a customer pays for their order with Stripe, the funds \(minus Stripe's fees\) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
+When a customer pays for their order with Stripe, the funds (minus Stripe's fees) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
 
 **Taking further payment**
 
 If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member \([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup)\)
+For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member ([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup))
 
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
+**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
 
 ![](../../.gitbook/assets/api-keys.png)
 
@@ -193,30 +193,30 @@ For Pin Payments you only require your API key. You need to set up an account wi
 You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
 
 {% hint style="danger" %}
-Payment Method Fees DO NOT include tax \(VAT\)
+Payment Method Fees DO NOT include tax (VAT)
 {% endhint %}
 
 ### Fee Calculators
 
-**Flat Percent:**  This fee is charged as a percentage of the total amount charged in the order.
+**Flat Percent:** This fee is charged as a percentage of the total amount charged in the order.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only. 
+All **percentage fees** are calculated on a percentage of **product costs** only.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
 If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
 
- $$= (100 + Enterprise Fee)*Desired Percent/100$$ 
+&#x20;$$= (100 + Enterprise Fee)*Desired Percent/100$$&#x20;
 
 eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for payment, the amount to enter in the flat percent of this payment method is:
 
-$$= (100 + 20) *5/100 = 6$$ 
+$$= (100 + 20) *5/100 = 6$$&#x20;
 {% endhint %}
 
-**Flat Rate \(per order\):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate (per order):** This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached.&#x20;
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
@@ -224,13 +224,13 @@ $$= (100 + 20) *5/100 = 6$$
 
 ![](../../.gitbook/assets/paymentflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated payment method fee charged to a customer who, for example, buys rice by kg.\)
+**Flat Rate (per item):** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated payment method fee charged to a customer who, for example, buys rice by kg.)
 
-**Price Sack:** This is a flexible payment fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Price Sack:** This is a flexible payment fee method charged by _total monetary sale_, rather than number of items purchased (Flexible Rate above)
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Payment Method fee and Discounted Payment Method fee. 
+* ‘Minimum Amount’: Monetary value of the threshold between Normal Payment Method fee and Discounted Payment Method fee.&#x20;
 * 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
 * ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
 
@@ -239,15 +239,15 @@ The **Minimum Amount** is the _**total cost of the products**_ in a customer's b
 {% endhint %}
 
 {% hint style="warning" %}
-For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment \(Discount Amount = 0\) and, say, a £0.50 fee \(= Normal Amount\) to be a basket of £30 then the Minimum amount is
+For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment (Discount Amount = 0) and, say, a £0.50 fee (= Normal Amount) to be a basket of £30 then the Minimum amount is
 
-$$= £30 * 100 /(100+20) = £25$$ 
+$$= £30 * 100 /(100+20) = £25$$&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/paymentpc.jpg)
 
 {% hint style="info" %}
-Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once. 
+Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once.&#x20;
 
 The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
 {% endhint %}
@@ -255,4 +255,3 @@ The Flexible Rate and Price Sack calculators, applied to payment method fees, ma
 ## Refunds
 
 Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found[ here.](../orders/refunds-and-adjusting-payments.md)
-
