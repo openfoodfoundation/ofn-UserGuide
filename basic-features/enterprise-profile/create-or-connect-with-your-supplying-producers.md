@@ -1,79 +1,78 @@
-# Create or connect with your supplying producers
+# Erstellen oder verbinden Sie sich mit Ihren Zuliefere
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 {% hint style="success" %}
- This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
+Diese Seite ist nur für Nutzer relevant, die sich als Producer oder Non-Producer Hub Unternehmen registriert haben.
 {% endhint %}
 
-For such Hub enterprises, connecting with existing OFN producers or creating accounts for your producers is a necessary precursor to adding your product range to your shop.
+Für solche Hub-Unternehmen ist die Verbindung mit bestehenden OFN-Produzenten oder die Einrichtung von Konten für Ihre Produzenten eine notwendige Vorstufe für die Aufnahme Ihrer Produktpalette in Ihren Shop.
 
 {% hint style="info" %}
-All producers supplying / selling products on the Open Food Network must have an enterprise account on the platform. The products are entered in the producer's catalog and then "displayed" \(with potentially different prices and stocks\) on the shopfront of the producer and/or shopfronts of other distributors to whom the producer has given [permission](enterprise-to-enterprise-permissions-e2es.md). This is an important feature on the OFN, as it enables customers to trace the origin of products.
+Alle Erzeuger, die Produkte über das Open Food Network anbieten/verkaufen, müssen ein Unternehmenskonto auf der Plattform haben. Die Produkte werden in den Katalog des Erzeugers eingetragen und dann (mit möglicherweise unterschiedlichen Preisen und Lagerbeständen) im Schaufenster des Erzeugers und/oder im Schaufenster anderer Händler, denen der Erzeuger die [Erlaubnis](enterprise-to-enterprise-permissions-e2es.md) erteilt hat, "angezeigt". Dies ist ein wichtiges Merkmal des OFN, da es den Kunden ermöglicht, die Herkunft der Produkte zu verfolgen.
 {% endhint %}
 
-An example of how this displays in the shopfront is shown below:
+Ein Beispiel dafür, wie dies im Schaufenster angezeigt wird, finden Sie unten:
 
 ![](../../.gitbook/assets/producerhighlight.jpg)
 
-As a hub, before being able to add products to your shopfront, you have two options: 
+Bevor Sie Produkte zu Ihrem Schaufenster hinzufügen können, haben Sie zwei Möglichkeiten:
 
-1. Create OFN profiles for the producers who supply you \(if they don't already have a profile\)
-2. Request [permission](enterprise-to-enterprise-permissions-e2es.md) to sell the products of existing OFN-registered producers.
+1. Erstellen Sie OFN-Profile für die Produzenten, die Sie beliefern (falls sie nicht bereits ein Profil haben)
+2. Beantragen Sie die [Erlaubnis](enterprise-to-enterprise-permissions-e2es.md), die Produkte von bereits im OFN eingetragenen Erzeugern zu verkaufen.
 
-If you are not sure if your supplier already has an OFN profile then you can find out by going to the main 'Producers' menu and searching.
+Wenn Sie sich nicht sicher sind, ob Ihr Lieferant bereits ein OFN-Profil hat, können Sie dies herausfinden, indem Sie im Hauptmenü "Hersteller" suchen.
 
 ![](../../.gitbook/assets/searchproducer.jpg)
 
-## Supplier does NOT have an OFN profile.
+## Der Lieferant verfügt NICHT über ein OFN-Profil.
 
-If a supplier does not have an OFN profile you can create one on their behalf. You’ll be the ‘owner’ of this profile and be able to add the producer’s products, with their prices and on hand quantities, and then list them in your shop. The new producer enterprise will be visible on your dashboard when you login to your existing account. Should the producer ever wish to take ownership of their profile, [ownership can be easily transferred](transfer-ownership.md). If the producer wants to manage their profile and catalog but is happy with you being the owner of their profile, you can [invite them as managers](enterprise-settings.md#users).
+Wenn ein Lieferant noch kein OFN-Profil hat, können Sie eines in seinem Namen erstellen. Sie sind dann der "Besitzer" dieses Profils und können die Produkte des Herstellers mit ihren Preisen und Lagerbeständen hinzufügen und sie in Ihrem Shop auflisten. Das neue Produzentenunternehmen wird auf Ihrem Dashboard sichtbar, wenn Sie sich in Ihr bestehendes Konto einloggen. Sollte der Produzent jemals Eigentümer seines Profils werden wollen, [kann das Eigentum einfach übertragen werden](transfer-ownership.md). Wenn der Produzent sein Profil und seinen Katalog verwalten möchte, aber damit einverstanden ist, dass Sie der Eigentümer seines Profils sind, können Sie[ ihn als Manager einladen](enterprise-settings.md#benutzer).
 
-### Things to consider before creating a producer profile:
+### Was ist vor der Erstellung eines Produzentenprofils zu beachten?
 
-Before creating a profile for your suppliers you should contact them and let them know that you are creating an account and enterprise for them on the OFN. They may wish to be involved in the process and even take some responsibility for managing the profile and their products etc. But most commonly producers will prefer that hubs own and manage their profiles for them.
+Bevor Sie ein Profil für Ihre Lieferanten erstellen, sollten Sie mit ihnen Kontakt aufnehmen und sie darüber informieren, dass Sie für sie ein Konto und ein Unternehmen im OFN einrichten werden. Möglicherweise möchten sie in den Prozess einbezogen werden und sogar eine gewisse Verantwortung für die Verwaltung des Profils und ihrer Produkte usw. übernehmen. In den meisten Fällen ziehen es die Hersteller jedoch vor, dass die Hubs ihre Profile für sie besitzen und verwalten.
 
-Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
+Fragen Sie den Produzenten, welche Informationen er in seinem Profil veröffentlichen möchte. Oftmals können Sie Texte und Bilder von bestehenden Websites oder Social-Media-Seiten übernehmen, Sie sollten jedoch immer um Erlaubnis bitten, bevor Sie deren Inhalte verwenden. Wenn Sie die Informationen vorliegen haben, sollte die Erstellung eines Profils nicht länger als 10 Minuten dauern.
 
 {% hint style="info" %}
-By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your local OFN entity](https://www.openfoodnetwork.org/find-your-local-open-food-network/).
+Standardmäßig können Sie bis zu 5 Unternehmensprofile auf der Plattform erstellen. Dies ist eine Methode zum Schutz vor Spam, aber sobald wir wissen, dass Sie kein Roboter sind, geben wir Ihnen die Erlaubnis, weitere Unternehmensprofile zu erstellen. Wenn Sie mehr erstellen möchten, wenden Sie sich an [Ihre lokale OFN-Einheit](https://openfoodnetwork.org/find-your-local-open-food-network/).
 {% endhint %}
 
-### Creating a producer profile:
+### Erstellen eines Produzentenprofils:
 
-You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
+Sie können ein neues Profil für einen Erzeuger erstellen, indem Sie im horizontalen blauen Banner auf **Unternehmen** und dann auf **+ Neues Unternehmen** klicken. Denken Sie daran, dass "Unternehmen" ein allgemeiner Begriff ist, der für jedes Erzeuger- oder Hub-Profil im OFN verwendet wird.
 
 ![](../../.gitbook/assets/newenterpriseadd.jpg)
 
-This will take you to this page:
+Dies führt Sie zu dieser Seite:
 
 ![](../../.gitbook/assets/newenterprise.jpg)
 
-A few things to note:
+Ein paar Dinge sind zu beachten:
 
-**Name:** Enter the name of the producer farm/enterprise. If you get an error message saying that this name has already been taken, it means that there is already a profile for this producer. Therefore you can jump to [Supplier has a pre-existing OFN profile](create-or-connect-with-your-supplying-producers.md#supplyingproducer).
+**Name:** Geben Sie den Namen des Erzeugerbetriebs/Unternehmens ein. Wenn Sie eine Fehlermeldung erhalten, die besagt, dass dieser Name bereits vergeben ist, bedeutet dies, dass es bereits ein Profil für diesen Erzeuger gibt. Daher können Sie zu [Lieferant hat ein bereits vorhandenes OFN-Profil](create-or-connect-with-your-supplying-producers.md#supplyingproducer) springen.
 
-**Primary Producer:** Select this box, as you are adding an enterprise which makes/grows food which you will retail for them on your hub shop front.
+**Haupterzeuger:** Markieren Sie dieses Kästchen, da Sie ein Unternehmen hinzufügen, das Lebensmittel herstellt/anbaut, die Sie für dieses Unternehmen in Ihrem Hub-Shop verkaufen werden.
 
-**Email and Phone:** This email and phone number will be visible on the profile. If this producer does not wish to be contacted by the public, then place your hub’s contact details here.
+**E-Mail und Telefon:** Diese E-Mail und Telefonnummer werden auf dem Profil sichtbar sein. Wenn der Produzent nicht möchte, dass die Öffentlichkeit Kontakt mit ihm aufnimmt, geben Sie hier die Kontaktdaten Ihrer Drehscheibe an.
 
-Then you can access the the same [enterprise setting page](enterprise-settings.md) as described before. Some recommendations :
+Dann können Sie auf die gleiche Seite mit den [Unternehmenseinstellungen](enterprise-settings.md) zugreifen wie zuvor beschrieben. Einige Empfehlungen:
 
-**Visible in Search:** You should discuss with the producer whether or not they wish to be visible on the OFN. If they wish to be invisible, their name and profile will still be shown next to their products in your shop, but they will not be searchable on the map or front-page lists.
+**Sichtbar in der Suche:** Sie sollten mit dem Hersteller besprechen, ob er im OFN sichtbar sein möchte oder nicht. Wenn er unsichtbar sein möchte, werden sein Name und sein Profil weiterhin neben seinen Produkten in Ihrem Shop angezeigt, aber er wird nicht auf der Karte oder in den Listen auf der ersten Seite zu finden sein.
 
-**About Us:** Remember the OFN is all about putting transparency into the food system and customers are increasingly interested in where their food has come from. Therefore, it pays to add plenty of details about your producers and what makes them unique.
+**Über uns:** Denken Sie daran, dass es beim OFN darum geht, Transparenz in das Lebensmittelsystem zu bringen, und dass die Kunden zunehmend daran interessiert sind, woher ihre Lebensmittel stammen. Daher lohnt es sich, viele Details über Ihre Erzeuger hinzuzufügen und darüber, was sie einzigartig macht.
 
-**Images:** We strongly recommend that all profiles have both logo and promo images. These images make the online experience for customers more enjoyable and engaging, and also lend credibility to the enterprises.
+**Bilder:** Wir empfehlen dringend, dass alle Profile sowohl ein Logo als auch Werbebilder enthalten. Diese Bilder machen das Online-Erlebnis für die Kunden angenehmer und ansprechender und verleihen den Unternehmen Glaubwürdigkeit.
 
-## Supplier has a pre-existing OFN profile <a id="supplyingproducer"></a>
+## Lieferant hat ein bereits bestehendes SFN-Profil <a href="#supplyingproducer" id="supplyingproducer"></a>
 
-If a supplier already has an OFN profile, you will need to get their permission to add products to their profile \(if they haven’t already\) and to stock them in your shop. You will be able to find their contact details on their OFN profile. 
+Wenn ein Lieferant bereits ein OFN-Profil hat, müssen Sie seine Erlaubnis einholen, um Produkte zu seinem Profil hinzuzufügen (falls er dies noch nicht getan hat) und sie in Ihrem Geschäft anzubieten. Die Kontaktdaten des Lieferanten finden Sie in seinem OFN-Profil.
 
-Keep in mind that they may be registered as a Producer Profile but have their products and enterprise managed by another Hub. OFN can accommodate two \(or more\) hubs stocking the same producer’s products on their separate shop fronts, through the [inventory](../products-1/inventory-tool.md) feature for instance. If hubs **work together and notify each other** of any changes they make to producer enterprises which they manage, but that supply multiple hubs, then distribution problems can be avoided.
+Denken Sie daran, dass sie als Produzentenprofil registriert sein können, ihre Produkte und ihr Unternehmen aber von einem anderen Hub verwaltet werden. OFN kann es ermöglichen, dass zwei (oder mehr) Hubs die Produkte desselben Produzenten auf ihren separaten Schaufenstern anbieten, z.B. über die [Inventarisierungsfunktion](../products-1/inventory-tool.md). Wenn die Hubs **zusammenarbeiten und sich gegenseitig über alle Änderungen informieren**, die sie an den von ihnen verwalteten Erzeugerbetrieben vornehmen, die aber mehrere Hubs beliefern, können Distributionsprobleme vermieden werden.
 
-Within the OFN, [Enterprise to Enterprise Permissions](enterprise-to-enterprise-permissions-e2es.md) are used to control the nature of trading agreements between producers and hubs. Producers can grant hubs different kinds of Enterprise permissions, in different combinations, to specify exactly which elements of their account the hub can interact with. At the simplest level a producer can grant a hub permission to stock their products in the hub’s shop. They may also be happy to allow the hub to create and modify their products, or edit their profile.
+Innerhalb des OFN werden [Unternehmensberechtigungen](enterprise-to-enterprise-permissions-e2es.md) verwendet, um die Art der Handelsvereinbarungen zwischen Produzenten und Hubs zu steuern. Produzenten können Hubs verschiedene Arten von Unternehmensberechtigungen in unterschiedlichen Kombinationen erteilen, um genau festzulegen, mit welchen Elementen ihres Kontos der Hub interagieren kann. Auf der einfachsten Ebene kann ein Produzent einem Hub die Erlaubnis erteilen, seine Produkte im Shop des Hubs anzubieten. Er kann dem Hub auch erlauben, seine Produkte zu erstellen und zu ändern oder sein Profil zu bearbeiten.
 
-[This page](enterprise-to-enterprise-permissions-e2es.md) covers all of the details of the different Enterprise permissions available and how the producer can grant them to a hub. Discuss with the producer who is going to supply your hub with goods which permissions you require. 
-
+Auf [dieser Seite](enterprise-to-enterprise-permissions-e2es.md) finden Sie alle Details zu den verschiedenen verfügbaren Unternehmensberechtigungen und wie der Hersteller sie einem Hub erteilen kann. Besprechen Sie mit dem Hersteller, der Ihren Hub mit Waren beliefern wird, welche Berechtigungen Sie benötigen.
