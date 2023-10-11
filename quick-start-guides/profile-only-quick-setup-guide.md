@@ -1,5 +1,5 @@
 ---
-description: Simple steps to get started as a OFN profile.
+description: Einfache Schritte für den Einstieg in ein OFN-Profil.
 ---
 
 # Profil
@@ -8,32 +8,32 @@ description: Simple steps to get started as a OFN profile.
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-It's easy to get started on OFN, just follow the steps below:
+Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Schritten:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Vier Schritte, um Ihre OFN-Reise zu beginnen.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
-1. [Register your enterprise](../basic-features/register-and-create-your-profile.md). \
-   Choose the 'Producer' and then 'Profile' [package types ](../basic-features/enterprise-profile/package-types.md)and complete your [enterprise settings](../basic-features/enterprise-profile/enterprise-settings.md) with your business details.
-2. List your [products](../basic-features/products-1/products.md).
-3. Get in contact with OFN hubs through which you would like to sell your products- this might be as simple as talking to the hub manager when collecting your shopping or sending them an email.
-4. Connect through OFN to the hub where you would like your goods to be sold by setting up the appropriate [enterprise permissions](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
+1. [Registrieren Sie Ihr Unternehmen.](../basic-features/register-and-create-your-profile.md)\
+   Wählen Sie die [Pakettypen](../basic-features/enterprise-profile/package-types.md) "Producer" und "Profile" und vervollständigen Sie Ihre [Unternehmenseinstellungen](../basic-features/enterprise-profile/enterprise-settings.md) mit Ihren Unternehmensdaten.
+2. Listen Sie Ihre [Produkte](../basic-features/products-1/products.md) auf.
+3. Nehmen Sie Kontakt mit den OFN-Hubs auf, über die Sie Ihre Produkte verkaufen möchten - das kann so einfach sein wie ein Gespräch mit dem Hub-Manager, wenn Sie Ihre Einkäufe abholen, oder eine E-Mail an ihn.
+4. Verbinden Sie sich über OFN mit dem Hub, in dem Sie Ihre Waren verkaufen möchten, indem Sie die entsprechenden [Unternehmensberechtigungen](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) einrichten.
 
-Congrats!  Your job is done! &#x20;
+Herzlichen Glückwunsch! Ihr Job ist erledigt!
 
-The hub managing your sales should periodically send you orders based on the time scales you agreed.  Order notifications can be automated by the Hub to get to you by email.
+Der Hub, der Ihre Verkäufe verwaltet, sollte Ihnen in regelmäßigen Abständen Aufträge auf der Grundlage der von Ihnen vereinbarten Zeitpläne zusenden. Auftragsbenachrichtigungen können vom Hub automatisiert werden und Sie per E-Mail erreichen.
 
 {% hint style="info" %}
-If you want to use OFN to be visible on the internet only then there is no need to complete steps 2-4 above.
+Wenn Sie das OFN nur für die Sichtbarkeit im Internet verwenden wollen, brauchen Sie die obigen Schritte 2-4 nicht auszuführen.
 {% endhint %}
 
 {% hint style="success" %}
-You can make your producer profile searchable by product category, even if you don't wish to actually sell goods by following these [steps](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md).
+können Sie Ihr Herstellerprofil nach Produktkategorien durchsuchbar machen, auch wenn Sie keine Waren verkaufen möchten, indem Sie diese [Schritte](../basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md) befolgen.
 {% endhint %}
 
-## More advanced features you might need
+## Erweiterte Funktionen, die Sie möglicherweise benötigen
 
-* Your products:&#x20;
-  * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have (eg. organic, plastic free...)
-  * If you have a product which can be sold in different forms (eg. potatoes sold in 500g, 1kg and 2 kg quantities) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).
-  * If you sell irregular items like meat or vegetables (eg. a whole chicken, a large pumpkin) which are priced by weight then you can learn [how to do this here.](../basic-features/products-1/pricing-irregular-items-kg.md)
-  * You can [import](../basic-features/products-1/product-and-inventory-import.md#1-import-new-products) your all your product listings at once if they are in an Excel spread sheet.
+* Ihre Produkte:
+  * Geben Sie besondere [Referenzen](../basic-features/products-1/product-properties.md) an (z. B. Bio, plastikfrei...)
+  * Wenn Sie ein Produkt haben, das in verschiedenen Formen verkauft werden kann (z. B. Kartoffeln, die in Mengen von 500 g, 1 kg und 2 kg verkauft werden), können Sie Ihre Angebote vereinfachen, indem Sie [Varianten](../basic-features/products-1/product-variants.md) hinzufügen.
+  * Wenn Sie unregelmäßige Artikel wie Fleisch oder Gemüse (z. B. ein ganzes Huhn, einen großen Kürbis) verkaufen, die nach Gewicht berechnet werden, [erfahren Sie hier](../basic-features/products-1/pricing-irregular-items-kg.md), wie Sie dies tun können.
+  * Sie können alle Ihre Produktlisten auf einmal [importieren](../basic-features/products-1/product-and-inventory-import.md#import-new-products), wenn sie in einer Excel-Tabelle vorliegen.

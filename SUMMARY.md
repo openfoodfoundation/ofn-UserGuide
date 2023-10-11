@@ -56,7 +56,7 @@
     * [Packing Reports](basic-features/reports/packing-reports.md)
     * [Payment and Tax Reports](basic-features/reports/payment-and-tax-reports.md)
     * [Reports for Bulk Order Management](basic-features/reports/reports-for-bulk-order-management.md)
-  * [Groups](basic-features/groups/README.md)
+  * [Gruppen](basic-features/groups/README.md)
     * [Create and manage a Group page](basic-features/groups/group-page.md)
     * [Embed a Group Page in a Website](basic-features/groups/embed-a-group-page.md)
 * [Tipps zum Hub-Management](hub-management-tips/README.md)

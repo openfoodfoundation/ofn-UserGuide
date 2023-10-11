@@ -24,8 +24,8 @@ Im Folgenden werden die Merkmale des OFN in einer "doppelten Chronologie" erläu
 * [Schaufensterfront](shopfront/)
 * [Bestellungen](orders/)
 * [Abonnements](subscriptions/)
-* [reports](reports/)
-* [dashboard](dashboard.md)
-* [groups](groups/)
+* [Berichte](reports/)
+* [Dashboard](dashboard.md)
+* [Gruppen](groups/)
 
 und die Inhalte werden von den Grundlagen bis hin zu den fortgeschrittenen Anwendungen vorgestellt.
