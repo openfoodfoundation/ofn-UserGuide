@@ -16,7 +16,7 @@ _Die Flexibilität des Open Food Network erlaubt es Ihnen jederzeit zwischen Pro
 **Bauernmärkte** können die Plattform entweder als eine [Gruppe](basic-features/groups/) unabhängig geführter [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) oder als ein zentral organisierter [Laden](your-quick-start-on-ofn-given-who-you-are.md#hub) nutzen. Mehr dazu lesen Sie[ hier](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
-## Laden
+## Hub
 
 {% hint style="success" %}
 Bauernmärkte, SoLaWis, Gemüsekisten, Einkaufsgemeinschaften, Hofläden, Markt-/Stadtgärten, Lebensmittelkooperativen, soziale Lebensmittelgemeinschaften, Einzelhandelsgeschäfte, Tafeln, Großhändler ...
@@ -41,7 +41,7 @@ _Ein Laden ist der flexibelste der drei Unternehmenstypen im Open Food Network u
 
 Die **Einrichtung eines Ladens** im Open Food Network erfolgt in 5 Schritten, folgen Sie einfach unserer [Kurzanleitung für Läden](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Produzentenladen
+## Läden
 
 {% hint style="success" %}
 Landwirte, Gärtner, Bäcker, Züchter, Käsereien ...
