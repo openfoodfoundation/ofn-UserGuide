@@ -1,64 +1,63 @@
-# Register and Create an Enterprise Account
+# Registrieren und Erstellen eines Unternehmenskontos
 
 {% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
+Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-### Create your user account
+### Erstellen Sie Ihr Benutzerkonto
 
-* From homepage, click on "Login" on the top right corner, then "Sign up"&#x20;
+* Klicken Sie auf der Startseite oben rechts auf "Login" und dann auf "Sign up".
 
 ![](../.gitbook/assets/loginsetup.jpg)
 
-* Enter your email address and choose a password.
-* You will receive an email in the next few minutes with a confirmation link. Click on it and you'll be redirected to the login page. &#x20;
-* Login
+* Geben Sie Ihre E-Mail-Adresse ein und wählen Sie ein Passwort.
+* Sie werden in den nächsten Minuten eine E-Mail mit einem Bestätigungslink erhalten. Klicken Sie darauf und Sie werden auf die Anmeldeseite weitergeleitet.
+* Anmeldung
 
 {% hint style="info" %}
-If you don't receive an confirmation email from us promptly it may have gone to your spam/junk box.
+Wenn Sie nicht sofort eine Bestätigungs-E-Mail von uns erhalten, kann es sein, dass sie in Ihrem Spam-/Junk-Postfach gelandet ist.
 {% endhint %}
 
-### Create your first "enterprise" account
+### Erstellen Sie Ihr erstes "Unternehmens"-Konto
 
-* Once logged in, click on the top grey banner "Interested in selling through the Open Food Network? **Register here**."
+* Sobald Sie eingeloggt sind, klicken Sie auf das obere graue Banner "Interessiert am Verkauf über das Open Food Network? **Hier registrieren!**"
 
 ![](../.gitbook/assets/registerenterprise.jpg)
 
 ![](../.gitbook/assets/welcome1.jpg)
 
-* Click the ‘I agree to the above Terms of Service’ box and select ‘Let’s Get Started!’
+* Klicken Sie auf das Feld "Ich stimme den oben genannten Nutzungsbedingungen zu" und wählen Sie "Los geht's!"
 
 ![](../.gitbook/assets/letsgetstarted.jpg)
 
-* Fill in your enterprise name and contact details.
+* Geben Sie den Namen Ihres Unternehmens und Ihre Kontaktdaten ein.
 
 {% hint style="info" %}
-Your address will be used to add your business to our map of OFN enterprises and hence increase your visibility.
+Ihre Adresse wird verwendet, um Ihr Unternehmen in unsere Karte der OFN-Unternehmen aufzunehmen und somit Ihre Sichtbarkeit zu erhöhen.
 {% endhint %}
 
-* Choose between 'Producer' (you make/bake/grow products yourself) or 'Non Producer' (you distribute and sell food made by others).
+* Wählen Sie zwischen "Produzent" (Sie stellen Produkte selbst her/backen/bauen sie an) oder "Nicht-Produzent" (Sie vertreiben und verkaufen von anderen hergestellte Lebensmittel).
 
 ![](../.gitbook/assets/laststep.jpg)
 
-* Click the ‘create profile’ button. \
-  You'll receive an email confirming that the profile is created. You can stop here and fill in the missing information later, or continue and follow the steps to complete your profile now.&#x20;
-* Fill in your enterprise description, add images, website/social media links, business details, etc.
-* When you have finished, you will be redirected to the [Enterprise Profile Menu](enterprise-profile/).
+* Klicken Sie auf die Schaltfläche "Profil erstellen". Sie erhalten eine E-Mail, in der bestätigt wird, dass das Profil erstellt wurde. Sie können hier aufhören und die fehlenden Informationen später ergänzen oder fortfahren und den Schritten folgen, um Ihr Profil jetzt zu vervollständigen.
+* Geben Sie eine Beschreibung Ihres Unternehmens ein, fügen Sie Bilder, Links zu Websites und sozialen Medien, Unternehmensdaten usw. hinzu.
+* Wenn Sie fertig sind, werden Sie zum [Menü Unternehmensprofil](enterprise-profile/) weitergeleitet.
 
 ![](../.gitbook/assets/newregister.jpg)
 
-**Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!**&#x20;
+**Ihr erstes "Unternehmen" ist nun erstellt und Sie haben begonnen, Ihr Profil auszufüllen, aber es ist noch nicht fertig!**
 
-**The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **(= profile type) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.** &#x20;
+**Der nächste Schritt besteht darin,**[ **das OFN-Paket**](enterprise-profile/package-types.md) **(= Profiltyp) zu wählen, das Ihrem** [**Geschäftsmodell**](../your-quick-start-on-ofn-given-who-you-are.md) **am besten entspricht.**
 
 ![](../.gitbook/assets/newchoose.jpg)
 
-**After doing so, your enterprise will added to the OFN map!** &#x20;
+**Danach wird Ihr Unternehmen in die OFN-Karte aufgenommen!**
 
-**A short clip of registering your enterprise on OFN:**
+**Ein kurzer Clip über die Eintragung Ihres Unternehmens in OFN:**
 
 ![](../.gitbook/assets/registration.gif)
 
-### Access your Enterprise Administration Dashboard
+### Zugriff auf Ihr Enterprise Administration Dashboard
 
-Once you have created an Enterprise, you can manage your profile using the Dashboard. To access your Enterprise Dashboard log in to the Open Food Network and click on "Profile > Administration" in the top right corner. See [Dashboard ](dashboard.md)for more information.
+Sobald Sie ein Unternehmen erstellt haben, können Sie Ihr Profil über das Dashboard verwalten. Um auf das Dashboard Ihres Unternehmens zuzugreifen, melden Sie sich beim Open Food Network an und klicken Sie auf "Profil > Verwaltung" in der oberen rechten Ecke. Siehe [Dashboard](dashboard.md) für weitere Informationen.
