@@ -4,13 +4,13 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-Once you have [created your Enterprise account](../register-and-create-your-profile.md#create-your-first-enterprise-account), you must log in to your Administration [Dashboard](../dashboard.md) to continue setting up your Enterprise profile.&#x20;
+Nachdem Sie [Ihr Enterprise-Konto erstellt haben](../register-and-create-your-profile.md#erstellen-sie-ihr-erstes-unternehmens-konto), müssen Sie sich bei Ihrem Administrations-[Dashboard](../dashboard.md) anmelden, um Ihr Enterprise-Profil weiter einzurichten.
 
-First you will be asked to [choose the OFN package](package-types.md) (or type of profile) which best represents your [business model](../../your-quick-start-on-ofn-given-who-you-are.md).&#x20;
+Zunächst werden Sie aufgefordert, das [OFN-Paket ](package-types.md)(oder die Art des Profils) zu wählen, das Ihrem [Geschäftsmodell](../../your-quick-start-on-ofn-given-who-you-are.md) am besten entspricht.
 
-In this section we detail the different menus that you can complete to refine your enterprise profile and, by doing so, access business-specific features that you may need.
+In diesem Abschnitt erläutern wir die verschiedenen Menüs, die Sie ausfüllen können, um Ihr Unternehmensprofil zu verfeinern und auf diese Weise Zugang zu unternehmensspezifischen Funktionen zu erhalten, die Sie möglicherweise benötigen.
 
 {% hint style="info" %}
-It is important to complete the whole process otherwise your enterprise might not appear on the map, or appear with a partially filled in profile, which can affect your image.
+Es ist wichtig, dass Sie den gesamten Prozess abschließen, da Ihr Unternehmen sonst möglicherweise nicht auf der Karte erscheint oder nur ein teilweise ausgefülltes Profil aufweist, was sich auf Ihr Image auswirken kann.
 {% endhint %}
 
