@@ -15,7 +15,7 @@
     * [Paket-/Profiltypen](basic-features/enterprise-profile/package-types.md)
     * [Unternehmenseinstellungen](basic-features/enterprise-profile/enterprise-settings.md)
     * [Erstellen oder verbinden Sie sich mit Ihren Zuliefere](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
-    * [Making a producer profile searchable by product category](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
+    * [Ein Herstellerprofil nach Produktkategorie durchsuchbar machen](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
     * [Enterprise Permissions](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
     * [Change Profile Managers / Owners](basic-features/enterprise-profile/transfer-ownership.md)
   * [Produkte](basic-features/products-1/README.md)
