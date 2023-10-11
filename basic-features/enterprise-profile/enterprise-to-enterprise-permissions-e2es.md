@@ -14,40 +14,40 @@ So greifen Sie auf Ihre Unternehmensberechtigungen zu:
 
 Schließlich untersuchen wir dieses Thema unter dem Gesichtspunkt der:
 
-* [ein Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) (der Verteiler)
-* [ein Herstellerprofil oder ein Geschäft](enterprise-to-enterprise-permissions-e2es.md#producers-perspective) (der Lieferant)
+* [ein Hub](enterprise-to-enterprise-permissions-e2es.md#perspektive-der-hubs) (der Verteiler)
+* [ein Herstellerprofil oder ein Geschäft](enterprise-to-enterprise-permissions-e2es.md#die-perspektive-des-produzenten) (der Lieferant)
 
 ## Die vier Erlaubnisse
 
-There are 4 different types of Enterprise permissions. They can combine in different ways to give companies more or less rights according to their profiles.
+Es gibt 4 verschiedene Arten von Unternehmensberechtigungen. Sie können auf unterschiedliche Weise kombiniert werden, um Unternehmen je nach ihrem Profil mehr oder weniger Rechte zu geben.
 
 ![](../../.gitbook/assets/e2emenu2.jpg)
 
-**Permission to add to order cycle**: the supplier (producer) allows the distributor (an OFN Hub) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
+**Erlaubnis zum Hinzufügen zum Bestellzyklus:** Der Lieferant (Hersteller) erlaubt dem Händler (einem OFN Hub), Produkte zu dessen Bestellzyklen hinzuzufügen. Auf diese Weise können die Produkte des Lieferanten im Schaufenster des Hubs erscheinen.
 
-**Permission to manage products**: the supplier authorises another OFN registered enterprise (typically a hub) to create, delete and modify products directly in its supplier catalog.&#x20;
+**Berechtigung zur Verwaltung von Produkten:** Der Lieferant ermächtigt ein anderes im OFN registriertes Unternehmen (in der Regel ein Hub), Produkte direkt in seinem Lieferantenkatalog anzulegen, zu löschen und zu ändern.
 
 {% hint style="danger" %}
-This can potentially impact all hubs which the producer supplies with goods through OFN.
+Dies kann sich potenziell auf alle Drehkreuze auswirken, die der Hersteller über OFN mit Waren beliefert.
 {% endhint %}
 
-> _For example, if Farmer Jo supplies potatoes to Hubs A and B but grants Hub A permission to manage its products then if Hub A changes the price of the potatoes then this price change (under standard settings) will be reflected on the shop fronts of both hubs A and B._
+> Wenn Landwirt Jo beispielsweise Kartoffeln an die Hubs A und B liefert, aber Hub A die Erlaubnis erteilt, seine Produkte zu verwalten, dann wird sich diese Preisänderung (bei Standardeinstellungen) an den Schaufenstern der Hubs A und B widerspiegeln, wenn Hub A den Preis der Kartoffeln ändert.
 
-**Permission to edit profile:** one company allows another to modify details in their [Enterprise Profile](./) (contact details, address, description, ...).
+**Berechtigung zur Profilbearbeitung:** Ein Unternehmen erlaubt einem anderen, Details in seinem [Unternehmensprofil](./) zu ändern (Kontaktdaten, Adresse, Beschreibung, ...).
 
-**Permission to add products to inventory**: the supplier (producer) authorises the distributor (hub) to add its products to the shop catalog (or '[Inventory](../products-1/inventory-tool.md)') of the hub.
+Erlaubnis, Produkte zum Inventar hinzuzufügen: Der Lieferant (Hersteller) ermächtigt den Händler (Hub), seine Produkte in den Shop-Katalog (oder "[Inventar](../products-1/inventory-tool.md)") des Hubs aufzunehmen.
 
 {% hint style="info" %}
-If a producer supplies more than one hub with goods, then to allow each of these hubs to manage pricing and stock levels of their products independently we recommend adding this permission between the two enterprises and for the Hubs to change their [Inventory settings](enterprise-settings.md#inventory-settings).
+Wenn ein Hersteller mehr als einen Hub mit Waren beliefert, empfehlen wir, diese Berechtigung zwischen den beiden Unternehmen einzufügen, damit jeder dieser Hubs die Preise und Lagerbestände seiner Produkte unabhängig verwalten kann und die Hubs ihre [Bestandseinstellungen](enterprise-settings.md#inventar-einstellungen) ändern können.
 {% endhint %}
 
 ## Erteilen und Verwalten von Berechtigungen
 
-To modify, add or delete permissions, go to the admin dashboard and then to  'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.&#x20;
+Um Berechtigungen zu ändern, hinzuzufügen oder zu löschen, gehen Sie auf das Admin-Dashboard und dann auf "Unternehmen" im blauen Menü und "Berechtigungen" im grünen Untermenü.
 
 ![](../../.gitbook/assets/e2emenu.jpg)
 
-To give permission:
+Erlaubnis erteilen:
 
 * Select your enterprise from the drop down menu in the first column (you are a producer who supplies others)
 * Select the name of the enterprise (hub) you wish to supply from the the second column.
