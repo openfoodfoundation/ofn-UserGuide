@@ -1,71 +1,67 @@
-# Group Buy - for bulk ordering
+# Group Buy - für Großbestellungen
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media\&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)-->​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX\_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media\&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Die Funktion "**Gruppenkauf**" ist für Unternehmen gedacht, die einen Teil ihrer eingehenden Bestände in großen Mengen kaufen und in kleineren Einheiten weiterverkaufen (z. B. Kauf eines 25-kg-Sacks Reis und Verkauf an Kunden pro kg).
 
-The **Group Buy** function is designed for enterprises who purchase some of their incoming stock in bulk quantities and resell them in smaller units (for example, purchasing a 25 kg bag of rice and retailing to customers per kg).
+Großeinkäufe sind eine gängige Praxis für **Einkaufsgemeinschaften**, die durch den Kauf großer Mengen von den Großhandelspreisen genauso profitieren können wie herkömmliche Vertriebsunternehmen. Auf diese Weise können die Mitglieder viel billiger an Lebensmittel kommen, als sie es vielleicht bei den Einzelhändlern auf der Straße tun könnten.
 
-Bulk purchasing is a common practice for **buying groups**, who, by buying large volumes, can benefit from wholesale prices in the same way as conventional distributors.  By doing so, members can access food much cheaper than they might be able to from high street retailers.&#x20;
+Für solche Unternehmen hängt die Entscheidung, ob sie ein bestimmtes Produkt bestellen, davon ab, ob die Kunden insgesamt genug bestellt haben, um einen Großeinkauf zu rechtfertigen. Dies kann aufgrund von Mengenrabatten oder Liefergebühren der Fall sein. Die Funktion des Gruppenkaufs erleichtert es dem Zentrum, die Effizienz des Großeinkaufs zu steigern.
 
-For such enterprises, the decision of whether to order a certain product is dependent on whether customers have collectively ordered enough to justify a bulk purchase. This may be due to volume discounts, or delivery fees. The group buy function makes it easier for the hub to achieve bulk buying efficiencies.
-
-When a product is allocated to group buy it will display with the label 'Bulk' across the photo on your shop front. When a customer chooses to add the product to their basket, a pop-up screen will prompt them to enter minimum and maximum quantities as shown below:
+Wenn ein Produkt dem Gruppenkauf zugewiesen ist, wird es mit der Aufschrift "Bulk" über dem Foto auf Ihrer Shopfront angezeigt. Wenn ein Kunde das Produkt in den Warenkorb legt, wird er in einem Pop-up- Fenster aufgefordert, die Mindest- und Höchstmenge einzugeben (siehe unten):
 
 ![](../../.gitbook/assets/bulkbuy.gif)
 
-Customer are asked to indicate:
+Die Kunden werden gebeten, dies anzugeben:
 
-* Their **minimum** quantity- this is the amount of the product they ideally want.
-* Their **maximum** quantity- this is the maximum amount they would be willing to buy.
+* Ihre **Mindestmenge** - das ist die Menge des Produkts, die sie idealerweise haben möchten.
+* Ihre **Höchstmenge** - dies ist die maximale Menge, die sie zu kaufen bereit wären.
 
 {% hint style="info" %}
-Essentially this is a way for the customer to say _‘you have my permission to increase my order up to this point, if it means that as a group, we can achieve the bulk order quantity’._
+Im Wesentlichen ist dies eine Möglichkeit für den Kunden zu sagen: "_Sie haben meine Erlaubnis, meine Bestellung bis zu diesem Punkt zu erhöhen, wenn dies bedeutet, dass wir als Gruppe die Großbestellmenge erreichen können"_.
 {% endhint %}
 
-In [Bulk Order Management](../orders/view-orders.md#bulk-order-management) you can view the total minimum and maximum order quantities for the product, from all of your customers. Then you can either raise customer orders, within their acceptable range, to achieve the bulk quantity, or if the maximum order quantity falls short, you can delete all orders for this product.
+In der [Großbestellungsverwaltung](../orders/view-orders.md#bulk-order-management) können Sie die gesamten Mindest- und Höchstbestellmengen für das Produkt von allen Ihren Kunden einsehen. Dann können Sie entweder die Kundenbestellungen innerhalb des zulässigen Bereichs erhöhen, um die Gesamtmenge zu erreichen, oder Sie können alle Bestellungen für dieses Produkt löschen, wenn die maximale Bestellmenge unterschritten wird.
 
 {% hint style="danger" %}
-The group buy function can **not** be applied to products listed with units = **items**.
+Die Gruppenkauffunktion kann **nicht** auf Produkte angewendet werden, die mit Einheiten = **Artikel** aufgeführt sind.
 {% endhint %}
 
-## Enabling Group Buy for a product
+## Aktivieren des Gruppenkaufs für ein Produkt
 
-On the admin dashboard, go to '**Products**' on the blue horizontal menu.  Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
+Gehen Sie auf dem Admin-Dashboard im blauen horizontalen Menü auf "**Produkte**". Wählen Sie die Option "Produkt **bearbeiten**", indem Sie auf das Bleistift- und Papiersymbol rechts neben dem betreffenden Produkt klicken:
 
 ![](../../.gitbook/assets/productedit.jpg)
 
-Then select **Group Buy Options** in the menu to the right.
+Wählen Sie dann im Menü auf der rechten Seite **Gruppenkaufoptionen**.
 
 ![](../../.gitbook/assets/groupbuy.jpg)
 
-Select **Yes** under **Group Buy? to activate this feature for the product.**
+Wählen Sie **Ja** unter **Gruppenkauf?**, **um diese Funktion für das Produkt zu aktivieren.**
 
-The **Bulk Unit Size** is the amount that the group’s collective order needs to reach.&#x20;
+Die **Großeinheitsgröße** ist der Betrag, den die Sammelbestellung der Gruppe erreichen muss.
 
 {% hint style="warning" %}
-The **units** for the Bulk Unit Size quantity depend on the units selected for retailing the product to customers. &#x20;
+Die **Einheiten** für die Bulk-Unit-Größe hängen von den Einheiten ab, die für den Verkauf des Produkts an Kunden ausgewählt wurden.
 
-If the product is sold by:
+Wenn das Produkt von verkauft wird:
 
-* **Weight**: units are in g (so if collective total must equal 5 kg then enter '5000' in this field)
-* **Volume**: units are in litres (so if collective total must be 10 l then enter '10' in this field)
-* **Items**: eg. selling bunches of flowers but must purchase 100 bunches in total then enter '100' in this field.
+* **Gewicht:** Einheiten sind in g (wenn also die Gesamtsumme 5 kg betragen soll, geben Sie in dieses Feld '5000' ein)
+* **Volumen:** Einheiten sind in Litern (wenn also die Gesamtsumme 10 l betragen soll, geben Sie in dieses Feld '10' ein)
+* **Artikel:** Wenn Sie z. B. Blumensträuße verkaufen, aber insgesamt 100 Sträuße kaufen müssen, geben Sie in dieses Feld "100" ein.
 {% endhint %}
 
-## Adjusting Orders to make complete Batches
+## Anpassung von Aufträgen zur Erstellung vollständiger Chargen
 
-Under Orders-> [bulk order management](../orders/view-orders.md#bulk-order-management) you can view and edit customer orders for Bulk Buy products to make the combined order from all customers reach your required threshold.
+Unter Bestellungen-> [Verwaltung von Großbestellungen](../orders/view-orders.md#bulk-order-management) können Sie Kundenbestellungen für Großeinkaufsprodukte anzeigen und bearbeiten, damit die kombinierte Bestellung aller Kunden den von Ihnen gewünschten Schwellenwert erreicht.
 
-1. Select the order cycle or date range of interest.
-2. Search for the product (Fish in the example below).
-3. Make sure the ‘Max’ column is displayed so you can see the upper limit each customers is prepared to purchase.
-4. Next, click on the value ('test fish: Fish One' in the example below) in the **Product : Unit** column, to display the orders total box (in blue) for the product in question.&#x20;
-5. Using the information in the column **Max**, you can increase the quantities ordered to reach the threshold for a complete batch.&#x20;
-6. Click update to save changes to customer orders.
+1. Wählen Sie den gewünschten Auftragszyklus oder Datumsbereich aus.
+2. Suchen Sie nach dem Produkt (im Beispiel unten: Fisch).
+3. Vergewissern Sie sich, dass die Spalte "Max" angezeigt wird, damit Sie die Obergrenze sehen können, die jeder Kunde bereit ist zu kaufen.
+4. Klicken Sie dann auf den Wert ('Testfisch: Fisch Eins' im Beispiel unten) in der Spalte **Produkt : Einheit**, um das Feld Gesamtbestellungen (in blau) für das betreffende Produkt anzuzeigen.
+5. Anhand der Angaben in der Spalte **Max** können Sie die bestellten Mengen erhöhen, um den Schwellenwert für eine vollständige Charge zu erreichen.&#x20;
+6. Klicken Sie auf Aktualisieren, um die Änderungen an den Kundenaufträgen zu speichern.
 
 ![](../../.gitbook/assets/bulkorder2.jpg)
 
-**Current Fulfilled Units** divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer orders satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
+**Current Fulfilled Units (Aktuell erfüllte Einheiten)** dividiert Ihre Gesamtbestellmenge durch die Größe der Gruppenkaufeinheit. Wenn diese Zahl größer als 1 ist, bedeutet dies, dass die vorhandenen Kundenbestellungen die von Ihnen geforderte Stückzahl für den Gruppenkauf erfüllen oder überschreiten. Ist diese Zahl kleiner als 1, erfüllen die vorhandenen Kundenbestellungen diesen Schwellenwert nicht. Wenn Sie die Menge der Kundenaufträge erhöhen, steigt diese Zahl.
 
-**Max Fulfilled Units** takes the sum of all of the customer’s MAX order quantities and divides this by the Group Buy Unit Size. If this figure is greater than 1, then you know that the total of your MAX orders exceeds the required group buy quantity. If this figure is less than 1, it means that even the MAX order quantities won’t reach the threshold.
+**Max Fulfilled Units (Max. erfüllte Einheiten)** ist die Summe aller MAX-Bestellmengen des Kunden, geteilt durch die Größe der Gruppenkaufeinheit. Ist diese Zahl größer als 1, dann wissen Sie, dass die Summe Ihrer MAX-Bestellungen die erforderliche Gruppenkaufmenge übersteigt. Ist diese Zahl kleiner als 1, bedeutet dies, dass auch die MAX-Bestellmengen den Schwellenwert nicht erreichen.
