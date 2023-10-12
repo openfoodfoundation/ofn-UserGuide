@@ -17,7 +17,7 @@
     * [Erstellen oder verbinden Sie sich mit Ihren Zuliefere](basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
     * [Ein Herstellerprofil nach Produktkategorie durchsuchbar machen](basic-features/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
     * [Unternehmensberechtigungen](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
-    * [Change Profile Managers / Owners](basic-features/enterprise-profile/transfer-ownership.md)
+    * [Änderungsprofil Manager/Besitzer](basic-features/enterprise-profile/transfer-ownership.md)
   * [Produkte](basic-features/products-1/README.md)
     * [Add products](basic-features/products-1/products.md)
     * [Product variants](basic-features/products-1/product-variants.md)

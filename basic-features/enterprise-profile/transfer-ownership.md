@@ -1,40 +1,37 @@
-# Change Profile Managers / Owners
+# Änderungsprofil Manager/Besitzer
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself. 
+Es ist üblich, dass das Profil eines Produzenten von einem Hub erstellt wird und der Hub dann den Produzenten als Verwalter dieses Profils hinzufügt oder sogar das "Eigentum" (primärer Verwalter) des Profils an den Produzenten überträgt, wenn der Produzent akzeptiert, sein Profil und seinen Produktkatalog selbst zu verwalten.
 
-To add a new manager and eventually transfer ownership, here is the procedure to follow: 
+So fügen Sie einen neuen Verwalter hinzu und übertragen schließlich den Besitz:
 
-* On the admin dashboard, go to the Users menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Users\):
+* Gehen Sie auf dem Admin-Dashboard zum Menü Benutzer Ihrer Unternehmenseinstellungen (Unternehmen > Einstellungen > Benutzer):
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Mangers", search for the email of the producer you would like to add as a manager.
+* Suchen Sie unter "Manager" nach der E-Mail des Produzenten, den Sie als Manager hinzufügen möchten.
 
-**Case 1: The Producer in question already has a user account with OFN:**    
-Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.
+**Fall 1: Der betreffende Erzeuger hat bereits ein Benutzerkonto bei OFN:**\
+Ihre E-Mail-Adresse ist bereits bei uns registriert und wird angezeigt, wenn Sie mit der Eingabe beginnen. Wählen Sie und klicken Sie auf "Aktualisieren" (rote Schaltfläche unten rechts), um zu speichern.
 
 {% hint style="warning" %}
-Warning: you must search for the exact **full** email. We recommend searching our list of users by copying and pasting the **entire** email address.
+Achtung: Sie müssen genau nach der vollständigen E-Mail-Adresse suchen. Wir empfehlen, unsere Nutzerliste zu durchsuchen, indem Sie die gesamte E-Mail-Adresse kopieren und einfügen.
 {% endhint %}
 
-**Case 2: The Producer in question does not yet have a user account with OFN:**  
-In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.   
-The producer will then receive an email from us to confirm their registration.  On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
+**Fall 2: Der betreffende Erzeuger verfügt noch nicht über ein Benutzerkonto bei OFN:**\
+In diesem Fall können Sie die E-Mail-Adresse des Benutzers nicht finden, wenn Sie in das Feld "Bestehenden Benutzer hinzufügen" eingeben. Sie müssen dann auf "Unregistrierten Benutzer hinzufügen" klicken, direkt unter dem Feld "Manager einladen". Der Produzent erhält dann eine E-Mail von uns, um seine Registrierung zu bestätigen. Wenn er den Anweisungen in der E-Mail folgt, kann er die Einrichtung seines OFN-Kontos abschließen und ein Passwort hinzufügen.
 
-Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification.  At this stage, as a hub manager you may wish to remove yourself from the list of managers. 
+Sobald der Produzent ein Manager des Unternehmensprofils ist, das Sie in seinem Namen erstellt haben, können Sie ihn zum Hauptmanager und/oder zur Kontaktperson für die Auftragsbenachrichtigung machen. In diesem Stadium können Sie sich als Hub-Manager selbst aus der Liste der Manager entfernen.
 
 {% hint style="warning" %}
-Do not forget to click 'Update' to save your changes!
+Vergessen Sie nicht, auf "Aktualisieren" zu klicken, um Ihre Änderungen zu speichern!
 {% endhint %}
 
 {% hint style="info" %}
-By default, a user can not be a manager / owner of **more than 5 enterprises**.   
-If you receive a message stating that _the new user has reached their limit_, contact us and we will increase their business limit. 
+Standardmäßig kann ein Benutzer nicht Manager/Eigentümer von mehr als **5 Unternehmen** sein. Wenn Sie eine Meldung erhalten, dass der neue Nutzer sein Limit erreicht hat, kontaktieren Sie uns und wir werden sein Unternehmenslimit erhöhen.
 
-This measure is intended to avoid the massive creation of profiles by robots, something that could blow our server and make the platform unavailable. It is a classic prevention measure.
+Diese Maßnahme soll verhindern, dass massenhaft Profile von Robotern erstellt werden, was unseren Server sprengen und die Plattform unzugänglich machen könnte. Es handelt sich um eine klassische Präventionsmaßnahme.
 {% endhint %}
-
