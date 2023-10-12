@@ -64,54 +64,54 @@ Wenn Sie von einem anderen Unternehmen Genehmigungen benötigen, müssen Sie die
 
 ## Automatisch generierte Berechtigungen
 
-When a user is the main manager (owner) of several enterprises on the platform, [permissions](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions) are created automatically between each enterprise. This is not the case when enterprises are managed by different users.
+Wenn ein Benutzer der Hauptmanager (Eigentümer) mehrerer Unternehmen auf der Plattform ist, werden die [Berechtigungen](enterprise-to-enterprise-permissions-e2es.md#die-vier-erlaubnisse) automatisch für jedes Unternehmen erstellt. Dies ist nicht der Fall, wenn Unternehmen von verschiedenen Benutzern verwaltet werden.
 
 ## Perspektive der Hubs
 
 Die folgenden häufigen Szenarien veranschaulichen die Berechtigungen für Unternehmen, die Sie möglicherweise für Ihren Hub einrichten müssen.
 
-> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
+> **Ich habe** [**für jeden meiner Lieferanten ein Herstellerprofil erstellt**](create-or-connect-with-your-supplying-producers.md#der-lieferant-verfuegt-nicht-ueber-ein-ofn-profil.)**. Welche Berechtigungen muss ich einrichten, bevor ich ihre Produkte in meinem Hub-Schaufenster anbieten kann?**
 
-The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
+Das System ist so konfiguriert, dass Hubs, die Produzentenprofile erstellen, _standardmäßig über die richtigen Berechtigungen verfügen_, so dass sie sofort mit dem Hinzufügen von Produkten und dem Handel mit diesen Produzentenprofilen beginnen können.
 
-> **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
+> **Mein**[ **Lieferant hat bereits ein bei OFN registriertes Unternehmen**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. Ich möchte seine Produkte in mein Hub-Schaufenster aufnehmen.**
 
-You must contact your supplier in person. Their contact details (phone number, address and email address) will be located in their OFN profile. &#x20;
+Sie müssen Ihren Lieferanten persönlich kontaktieren. Die Kontaktdaten (Telefonnummer, Adresse und E-Mail-Adresse) finden Sie in seinem OFN-Profil.
 
-If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_&#x20;
+Wenn Sie nur beabsichtigen, **die Produkte des Herstellers zu lagern** und ihm nicht bei der Verwaltung des übrigen OFN-Profils helfen wollen, bitten Sie den Hersteller um die Erlaubnis, **den Bestellzyklus zu ergänzen** und **den Bestand zu ergänzen**.
 
-If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions.  Should this occur then you will be able to edit their profile and manage their products.
+Wenn der Anbieter möchte, dass Sie als Hub-Manager ihm bei der Organisation seines OFN-Unternehmens helfen, kann er Ihnen alle vier Berechtigungen erteilen. In diesem Fall können Sie sein Profil bearbeiten und seine Produkte verwalten.
 
-> **My Hub distributes through buying groups. Which permissions will the buying group need with my hub and my producers?**
+> **Mein Hub vertreibt über Einkaufsgemeinschaften. Welche Berechtigungen benötigt die Einkaufsgemeinschaft mit meinem Hub und meinen Produzenten?**
 
 {% hint style="warning" %}
-This is an example of where the hub managing (co-ordinating) an order cycle differs from the enterprise from which customers collect their purchases.
+Dies ist ein Beispiel dafür, dass sich die Drehscheibe, die einen Auftragszyklus verwaltet (koordiniert), von dem Unternehmen unterscheidet, bei dem die Kunden ihre Einkäufe abholen.
 
-_If Hub A manages (co-ordinates) an order cycle for a buying group (Hub B) then the order cycle will be displayed on Hub B's OFN shopfront._
+_Wenn Hub A einen Auftragszyklus für eine Einkaufsgemeinschaft (Hub B) verwaltet (koordiniert), wird der Auftragszyklus auf dem OFN-Schaufenster von Hub B angezeigt._
 {% endhint %}
 
-The buying group (Hub B above) will need to grant the order cycle co-ordinator (Hub A above) permission to add to order cycle (and ideally permission to add to inventory).
+Die Einkäufergruppe (Hub B oben) muss dem Koordinator des Auftragszyklus (Hub A oben) die Erlaubnis erteilen, dem Auftragszyklus etwas hinzuzufügen (und idealerweise die Erlaubnis, etwas zum Bestand hinzuzufügen).
 
-Producers who supply Hub A with products that are to also be sold by the buying group (Hub B) must grant both Hubs A and B permission to add to order cycle (and ideally permission to add to inventory).
+Produzenten, die Hub A mit Produkten beliefern, die auch von der Einkaufsgemeinschaft (Hub B) verkauft werden sollen, müssen sowohl Hub A als auch Hub B die Erlaubnis erteilen, den Auftragszyklus zu erweitern (und idealerweise die Erlaubnis, den Bestand zu erweitern).
 
 ## Die Perspektive des Produzenten
 
-When a producer wants to start selling their products through other enterprises (hubs or buying groups) the must establish the appropriate enterprise-to-enterprise permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile (see [top of page](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)).
+Wenn ein Produzent seine Produkte über andere Unternehmen (Hubs oder Einkaufsgemeinschaften) verkaufen möchte, muss er die entsprechenden Berechtigungen von Unternehmen zu Unternehmen einrichten. Es gibt verschiedene Berechtigungsstufen, die ein Produzent erteilen kann, je nachdem, wie viel Befugnis er dem Hub bei der Verwaltung seiner Produkte und seines Profils einräumen möchte ([siehe oben auf der Seite](enterprise-to-enterprise-permissions-e2es.md#die-vier-erlaubnisse)).
 
-These examples explore some common scenarios.
+Diese Beispiele zeigen einige gängige Szenarien.
 
-> **I am a producer and would like a local OFN hub to stock and sell my products.**
+> **Ich bin Produzent und möchte, dass ein lokales OFN-Zentrum meine Produkte lagert und verkauft.**
 
-**Essential:** For the hub to add your products to their shopfront, you’ll need to grant them _'permission to add to order cycle'_.
+**Unerlässlich:** Damit der Hub Ihre Produkte zu seinem Schaufenster hinzufügen kann, müssen Sie ihm die "_Erlaubnis zum Hinzufügen zum Bestellzyklus_" erteilen.
 
-**Optional:** You might also want to give the hub permission to manage your products, to edit your profile or to add to Inventory.
+**Optional:** Sie können dem Hub auch die Erlaubnis erteilen, Ihre Produkte zu verwalten, Ihr Profil zu bearbeiten oder zum Inventar hinzuzufügen.
 
-> **A hub that I supply distributes through buying groups.**
+> **Eine von mir belieferte Drehscheibe vertreibt über Einkaufsgemeinschaften.**
 
-In order for your products to be distributed by the buying groups you will have to add a minimum of permission 'to add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
+Damit Ihre Produkte von den Einkaufsgemeinschaften vertrieben werden können, müssen Sie sowohl für das Unternehmen der Einkaufsgemeinschaft als auch für den Hub, den Sie direkt beliefern, mindestens die Berechtigung "zum Bestellzyklus hinzufügen" hinzufügen.
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would like to **_**also**_** manage stock levels and prices of my products.**
+> **Ich bin ein Producer Shop, der ein lokales Hub beliefert und auch mein eigenes Schaufenster betreibt. Die Drehscheibe würde gerne die Lagerbestände und Preise meiner Produkte verwalten. Ich möchte auch die Lagerbestände und Preise meiner Produkte verwalten.**
 
-This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
+Dieses Szenario kann gelöst werden, indem man dem Hub die Erlaubnis erteilt, die Produkte zum Inventar hinzuzufügen, sowie die Erlaubnis, sie dem Bestellzyklus hinzuzufügen.
 
-This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
+Dadurch kann der Hub Ihre Produkte in seinem Shop lagern, aber seine eigenen Preise und Lagerbestände festlegen. Wenn Sie Ihren eigenen Shop mit Ihren Produkten bestücken, werden diese weiterhin die von Ihnen festgelegten Preise und Lagerbestände widerspiegeln.
