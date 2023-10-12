@@ -1,14 +1,14 @@
 # Enterprise Fees
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 Enterprise fees are useful for producers and hubs who are working together: it allows costs associate with admin, packing, transport, sales and fundraising to be allocated to different parties.
 
-For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs \(storage of products prior to distribution, salaries of people who manage and coordinate sales...\)
+For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs (storage of products prior to distribution, salaries of people who manage and coordinate sales...)
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary. 
+For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary.&#x20;
 
 One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
 
@@ -21,7 +21,7 @@ Before you move on you might like to have a look at a quick demonstration of set
 ## Setting up an Enterprise Fee
 
 * Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create one now**  \(or **Manage Enterprise Fees** if you have already set one up and would like to edit it\). You will be directed to a page like this:
+* Click **Create one now**  (or **Manage Enterprise Fees** if you have already set one up and would like to edit it). You will be directed to a page like this:
 
 ![](../../.gitbook/assets/enterprisefeecreate.jpg)
 
@@ -35,10 +35,10 @@ Before you move on you might like to have a look at a quick demonstration of set
 
 **Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
 
-Click Update, to create the enterprise fee. 
+Click Update, to create the enterprise fee.&#x20;
 
 {% hint style="info" %}
-You will only be able to specify rates or values \(in the 'calculator values' column after the Enterprise Fee has been created.
+You will only be able to specify rates or values (in the 'calculator values' column after the Enterprise Fee has been created.
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpg)
@@ -49,11 +49,11 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 
 **Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.\)
+**Weight (per kg)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items (e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.)
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Flat Rate (per order)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached. 
+**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached.&#x20;
 
 * ‘First Item Cost’: The fee charged for the first item in the order.
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
@@ -61,13 +61,13 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 
 ![](../../.gitbook/assets/enterprisefeeflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees \(£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five\).
+> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
 
-**Flat Rate \(per item\):** This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.\)
+**Flat Rate (per item):** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.)
 
-**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased (Flexible Rate above)
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee. 
+* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee.&#x20;
 * 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
 * ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
 
@@ -76,4 +76,3 @@ You will only be able to specify rates or values \(in the 'calculator values' co
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
 {% endhint %}
-

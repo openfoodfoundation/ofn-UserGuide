@@ -1,156 +1,157 @@
-# Add products
+# Produkte hinzufügen
 
 {% hint style="danger" %}
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-You can either add products to your catalog one by one (detailed below) or by [bulk import](product-and-inventory-import.md), if you have all the relevant details in a .csv file.
+Sie können Ihrem Katalog entweder Produkte einzeln hinzufügen (siehe unten) oder per [Massenimport](product-and-inventory-import.md), wenn Sie alle relevanten Details in einer .csv-Datei haben.
 
-## Adding products
+## Hinzufügen von Produkten
 
-Once logged into the Admin Dashboard, select on **Products** on the horizontal blue menu, and then click **+ New Product**.
+Wenn Sie im Admin Dashboard eingeloggt sind, wählen Sie im horizontalen blauen Menü die Option **Produkte** und klicken Sie dann auf **+ Neues Produkt**.
 
 ![](../../.gitbook/assets/addnewproduct.jpg)
 
-This will take you to the New Product page.
+Dadurch gelangen Sie auf die Seite Neues Produkt.
 
 ![](../../.gitbook/assets/new-product2.png)
 
-**Supplier**&#x20;
+**Anbieter**&#x20;
 
-Select the enterprise who produces and supplies the product.
-
-{% hint style="info" %}
-If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) for more info.
-{% endhint %}
-
-**Product name:** This is the title of the product when displayed on the shop front.
+Wählen Sie das Unternehmen, das das Produkt herstellt und liefert.
 
 {% hint style="info" %}
-Products are listed on your shop front alphabetically by product name. This default ordering can be over ruled using the 'Shopfront Category Ordering' field in your [enterprise settings](../enterprise-profile/enterprise-settings.md#shop-preferences).
+Wenn Sie ein Produzent sind, werden Sie das sein. Wenn Sie ein Hub sind, denken Sie daran, dass Sie nur Produkte zu Produzentenprofilen hinzufügen können, die Sie erstellt haben, oder wenn Sie die Erlaubnis erhalten haben, die Produkte eines Produzentenprofils zu verwalten. Siehe [hier](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) für weitere Informationen.
 {% endhint %}
 
-**Units:** Choose the unit the product is sold in? (g, oz, lb, kg, L… or item (bunch, bag, packet))
-
-If you choose g and then enter 1000, the product will be displayed as 1kg for the buyer. Keep in mind that some units of measurement will impact on the operation of certain [enterprise fees](../shopfront/enterprise-fees.md).&#x20;
-
-For example, a [fixed fee by weight](../shopfront/enterprise-fees.md#fee-calculators) can only be applied to products with units of **kg**. In this case, you can enter non-integer unit numbers, such as 0.2 kg, and the product will be displayed as 200 g but will be recorded in kg on the reports and when prices are calculated.
-
-**Value:** Enter the value of units that this product is sold in (for example if it is sold as 100 g then enter '100' here and choose 'g' for 'units'; or if it is sold as bunches of flowers, enter '1' here and 'units= items'.
-
-**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. (i.e. units = kg, value = 2, Display as = 2kg)
+**Produktname:** Dies ist der Titel des Produkts, der auf der Schaufensterfront angezeigt wird.
 
 {% hint style="info" %}
-Note: If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. (i.e. jar, bottle, or bunch)
+Die Produkte werden in Ihrem Schaufenster alphabetisch nach Produktnamen geordnet. Diese Standardreihenfolge kann über das Feld "Schaufenster-Kategorie-Reihenfolge" in Ihren [Unternehmenseinstellungen](../enterprise-profile/enterprise-settings.md#shop-einstellungen) außer Kraft gesetzt werden.
 {% endhint %}
 
-**Product category:** Select the most appropriate category for this product.  Assigning a product category makes it easier for customers to locate the items they wish to buy; shoppers can filter your product list by category on your shop front.
+**Einheiten:** Wählen Sie die Einheit, in der das Produkt verkauft wird (g, oz, lb, kg, L... oder Artikel (Bündel, Beutel, Paket))
+
+Wenn Sie g wählen und dann 1000 eingeben, wird das Produkt für den Käufer als 1 kg angezeigt. Denken Sie daran, dass einige Maßeinheiten Auswirkungen auf den Betrieb bestimmter [Unternehmensgebühren](../shopfront/enterprise-fees.md) haben.
+
+Zum Beispiel kann eine [feste Gebühr nach Gewicht ](../shopfront/enterprise-fees.md#fee-calculators)nur auf Produkte mit der Einheit kg angewendet werden. In diesem Fall können Sie nicht-ganzzahlige Einheiten eingeben, z. B. 0,2 kg, und das Produkt wird als 200 g angezeigt, aber in den Berichten und bei der Preisberechnung in kg erfasst.
+
+**Wert:** Geben Sie den Wert der Einheiten ein, in denen dieses Produkt verkauft wird (wenn es z. B. als 100 g verkauft wird, geben Sie hier "100" ein und wählen Sie "g" für "Einheiten"; oder wenn es als Blumensträuße verkauft wird, geben Sie hier "1" ein und "Einheiten= Stück".&#x20;
+
+**Anzeigen als:** Dieses Feld zeigt Ihnen automatisch an, wie die Einheiten und Wertfelder angezeigt werden, sobald Sie die Einheiten und Wertfelder ausgefüllt haben. (d.h. Einheiten = kg, Wert = 2, Anzeige als = 2kg)
+
+{% hint style="info" %}
+Hinweis: Wenn Sie "**Artikel**" als Einheit ausgewählt haben, ändert sich das Feld "**Anzeige als**" in "**Artikelname**". Geben Sie hier die Art des Artikels an. (z. B. Glas, Flasche oder Bündel)
+{% endhint %}
+
+**Produktkategorie:** Wählen Sie die am besten geeignete Kategorie für dieses Produkt. Die Zuweisung einer Produktkategorie erleichtert es den Kunden, die gewünschten Artikel zu finden; Käufer können Ihre Produktliste auf der Startseite Ihres Shops nach Kategorien filtern.
 
 **Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer and the amount they will receive for each purchase. Mark-ups and fees (for distribution admin etc) are added in [Enterprise Fees](../shopfront/enterprise-fees.md), [Shipping Fees](../shopfront/shipping-methods.md#fee-calculators) and [Payment Methods](../shopfront/payment-methods.md#fee-calculators).&#x20;
 
+**Preis:** Geben Sie den Preis für den oben genannten Wert ein. Beachten Sie, dass dies der Grundpreis ist, den der Hersteller berechnet, und der Betrag, den er für jeden Kauf erhält. Aufschläge und Gebühren (für Vertrieb, Verwaltung usw.) werden unter "[Unternehmensgebühren](../shopfront/enterprise-fees.md)", "[Versandgebühren](../shopfront/enterprise-fees.md#fee-calculators)" und "[Zahlungsarten](../shopfront/enterprise-fees.md#fee-calculators)" angegeben.
+
 {% hint style="info" %}
-If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
+Wenn Ihr Unternehmen als steuerpflichtig registriert ist oder Sie auswählen, dass dieses Produkt steuerpflichtig ist, dann ist der Preis, den Sie hier eingeben, inklusive der Steuer. Wenn Sie auswählen, dass dieses Produkt steuerfrei ist, ist der Preis, den Sie eingeben, der steuerfreie Preis.
 {% endhint %}
 
-**On hand:** State how much/many of this product you have available and ready for sale.
+**Vorrätig:** Geben Sie an, wie viel Sie von diesem Produkt vorrätig und zum Verkauf bereit haben.&#x20;
 
-Use this field if you want to track your stock levels. As customers place orders, the stock level will reduce, and when the in stock amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
+Verwenden Sie dieses Feld, wenn Sie Ihre Lagerbestände verfolgen möchten. Wenn Kunden Bestellungen aufgeben, verringert sich der Lagerbestand, und wenn der Lagerbestand Null erreicht, wird das Produkt nicht mehr in Ihrem Shop angezeigt. Wenn Sie den Bestand nicht auf diese Weise verfolgen möchten, klicken Sie auf "auf Anfrage".
 
-**On demand:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+**Auf Anfrage:** Wenn Sie dieses Kontrollkästchen aktivieren, wird angezeigt, dass dieses Produkt immer verfügbar ist. Die Software verfolgt dann nicht mehr die Lagerbestände der Produkte, sondern zeigt immer an, dass das Produkt auf Lager ist.
 
-**Image:** Upload a photo of this product.
+**Bild:** Laden Sie ein Foto von diesem Produkt hoch.
 
 {% hint style="info" %}
-Product images will be displayed on the shopfront in **square (1:1) format**.  We recommend uploading photos with these dimensions.  Landscape and portrait photos will be cropped to square automatically.
+Die Produktbilder werden auf dem Schaufenster im **quadratischen (1:1) Format** angezeigt. Wir empfehlen, Fotos mit diesen Abmessungen hochzuladen. Fotos im Quer- und Hochformat werden automatisch auf ein quadratisches Format beschnitten.
 {% endhint %}
 
 ![](../../.gitbook/assets/bread.jpg)
 
 {% hint style="warning" %}
-High resolution images are resized (reduced in pixel dimension) automatically when displayed in your product list dependent on the customer's device.
+Hochauflösende Bilder werden automatisch verkleinert, wenn sie in Ihrer Produktliste angezeigt werden, abhängig vom Gerät des Kunden.
 {% endhint %}
 
 {% hint style="success" %}
-We recommend using good quality photos, preferably a real photo of your products rather than the standard image of the web. This makes the product more attractive to the consumer. Always take your photographs in good light.
-
-If you use an image of the web, check that it is free of rights.&#x20;
+Wir empfehlen, Fotos von guter Qualität zu verwenden, vorzugsweise ein echtes Foto Ihrer Produkte und nicht ein Standardbild aus dem Internet. Das macht das Produkt für den Verbraucher attraktiver. Machen Sie Ihre Fotos immer bei gutem Licht. Wenn Sie ein Bild aus dem Internet verwenden, prüfen Sie, ob es frei von Rechten ist.
 {% endhint %}
 
-**Tax category:** Select the applicable tax category from the drop-down list. Tax (VAT in the UK) depends on the nature of the product and the country in which you are retailing in.
+**Steuerkategorie:** Wählen Sie die zutreffende Steuerkategorie aus der Dropdown-Liste. Die Steuer (MwSt. im Vereinigten Königreich) hängt von der Art des Produkts und dem Land ab, in dem Sie den Einzelhandel betreiben.
 
 {% hint style="danger" %}
-Tax will only be collected when enterprises have selected 'charges VAT = yes' under their enterprise settings -> Business Details.
+Die Steuer wird nur erhoben, wenn Unternehmen in ihren Unternehmenseinstellungen -> Unternehmensdetails die Option "Mehrwertsteuer erheben = ja" gewählt haben.
 {% endhint %}
 
-**Product description:** Tell your customers a little bit about this product. You might like to include a story about the specific tomato variety, include hyperlinks to any certification it may have etc.
+**Beschreibung des Produkts:** Erzählen Sie Ihren Kunden ein wenig über dieses Produkt. Vielleicht möchten Sie eine Geschichte über die spezielle Tomatensorte erzählen, Hyperlinks zu eventuellen Zertifizierungen einfügen usw.
 
 {% hint style="info" %}
-Don't forget to click on the "create" or "create and add new" button at the bottom of the page once all mandatory fields have been entered (those indicated by a red asterisk).&#x20;
+Vergessen Sie nicht, auf die Schaltfläche "Erstellen" oder "Erstellen und neu hinzufügen" am unteren Ende der Seite zu klicken, sobald alle Pflichtfelder ausgefüllt sind (die mit einem roten Sternchen gekennzeichnet sind).
 {% endhint %}
 
-A short demonstration of the steps outlined above:
+Eine kurze Demonstration der oben beschriebenen Schritte:
 
 ![](../../.gitbook/assets/productsadd.gif)
 
-When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
+Wenn Sie die Erstellung eines Produkts abgeschlossen haben, werden Sie auf die Seite "Produkte" weitergeleitet, auf der Sie alle Ihre Produkte finden:
 
 ![](../../.gitbook/assets/productspage.jpg)
 
 {% hint style="success" %}
-Products listed in your admin panel can be sorted alphabetically by name (click on 'NAME' in the table to implement this).
+Die in Ihrem Verwaltungsbereich aufgelisteten Produkte können alphabetisch nach Namen sortiert werden (klicken Sie in der Tabelle auf 'NAME', um dies zu aktivieren).
 {% endhint %}
 
-This is how your products will display to your customers on the shop front:
+So werden Ihre Produkte den Kunden auf der Ladenfront präsentiert:
 
 ![](../../.gitbook/assets/productview.jpg)
 
-## Listing Similar / variations of a Product&#x20;
+## Auflistung ähnlicher/Variationen eines Produkts&#x20;
 
-If you are listing a product which comes in a number of different options (say different sizes or flavours, each of which may or may not have a different price), it is best to create a ‘variant’ for that product, rather than creating multiple, separate products.  Creating product variants is discussed fully on the [next page](product-variants.md).
+Wenn Sie ein Produkt anbieten, das in verschiedenen Varianten erhältlich ist (z. B. in verschiedenen Größen oder Geschmacksrichtungen, von denen jede einen anderen Preis haben kann oder auch nicht), ist es am besten, eine "Variante" für dieses Produkt zu erstellen, anstatt mehrere separate Produkte anzulegen. Die Erstellung von Produktvarianten wird auf der [nächsten Seite](product-variants.md) ausführlich behandelt.
 
 {% hint style="success" %}
-Variants are useful if, for example, you sell lemons singularly as well as in 'packs' of 5. Rather than have two product listings the two options can be available for the same product.
+Varianten sind nützlich, wenn Sie z. B. Zitronen sowohl einzeln als auch in 5er-Packungen verkaufen. Anstatt zwei Produkteintragungen zu haben, können die beiden Optionen für dasselbe Produkt verfügbar sein.
 {% endhint %}
 
-If you would like to create a SIMILAR product then you can duplicate products by selecting the double page icon to the right of an item (red box). By subsequently selecting the pencil and paper icon (green box) the copied product can be edited and the details amended for the second item.
+Wenn Sie ein GLEICHARTIGES Produkt erstellen möchten, können Sie Produkte duplizieren, indem Sie das Doppelseiten-Symbol rechts neben einem Artikel (roter Kasten) auswählen. Durch anschließendes Auswählen des Bleistift- und Papiersymbols (grüner Kasten) kann das kopierte Produkt bearbeitet und die Details für den zweiten Artikel geändert werden.
 
 ![](../../.gitbook/assets/productspagecopy.jpg)
 
-## Edit your products
+## Bearbeiten Sie Ihre Produkte
 
-Once a product is created, the best place to quickly edit its attributes, such as quantity, price and stock level, is through the listing products page shown above.
+Sobald ein Produkt erstellt ist, können Sie seine Attribute, wie z. B. Menge, Preis und Lagerbestand, am besten über die oben gezeigte Seite "Produkte auflisten" schnell bearbeiten.
 
-To edit images, product descriptions, categories and more you can select the edit symbol (pen on paper icon) to the right of the product in question in the table. This will bring up the following page:
+Um Bilder, Produktbeschreibungen, Kategorien und mehr zu bearbeiten, können Sie auf das Bearbeitungssymbol (Stift auf Papier) rechts neben dem betreffenden Produkt in der Tabelle klicken. Daraufhin wird die folgende Seite angezeigt:
 
 ![](../../.gitbook/assets/editproduct.jpg)
 
-From the right hand menu, you might like to add
+Im Menü auf der rechten Seite können Sie etwas hinzufügen:
 
-* **Properties or labels** to your products.  This allows customers to find your items when searching for specific criteria (eg. certified Organic) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
-* **Group Buy:** This enables you to manage and organise sales of products in bulk lots. Read more about this [here](group-buy-for-bulk-ordering.md).
+* **Eigenschaften oder Etiketten** für Ihre Produkte. Auf diese Weise können Kunden Ihre Artikel finden, wenn sie nach bestimmten Kriterien suchen (z. B. "Bio-zertifiziert"), und bestimmte Eigenschaften Ihrer Produkte hervorheben. Mehr dazu erfahren Sie [hier](product-properties.md).
+* **Gruppenkauf:** Damit können Sie den Verkauf von Produkten in großen Mengen verwalten und organisieren. Lesen Sie [hier](group-buy-for-bulk-ordering.md) mehr darüber.
 * **Search** terms described [below](products.md#search-keywords).
+* [Nachstehend](products.md#search-keywords) beschriebene Suchbegriffe.
 
-For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
+Tipps für die Verwaltung des Verkaufs "unregelmäßiger" Produkte wie Fleisch oder großes Gemüse, das in Einheiten verkauft, aber nach Gewicht berechnet wird, finden Sie [hier](pricing-irregular-items-kg.md).
 
 {% hint style="danger" %}
-**Do not edit** the **Permalink** field.  This connects your product internally to an entry in the OFN database.  Editing can corrupt the product entry.
+**Bearbeiten Sie nicht** das Feld **Permalink**. Dies verbindet Ihr Produkt intern mit einem Eintrag in der OFN-Datenbank. Eine Bearbeitung kann den Produkteintrag beschädigen.
 {% endhint %}
 
-### Search keywords
+### Suchbegriffe
 
-Customers can filter your products to identify what they wish to purchase based on their product category and product properties.  The filters are found to the right hand side of the shop page.
+Kunden können Ihre Produkte filtern, um anhand ihrer Produktkategorie und ihrer Produkteigenschaften herauszufinden, was sie kaufen möchten. Die Filter befinden sich auf der rechten Seite der Shop-Seite.
 
 ![](../../.gitbook/assets/searchfilter.jpg)
 
-Some customers will use the Search box at the top left of the page to locate their produce.  The following fields are searched by this box:
+Einige Kunden werden das Suchfeld oben links auf der Seite verwenden, um ihre Produkte zu finden. Die folgenden Felder werden über dieses Feld durchsucht:
 
-* Product name
-* Variant name
-* Producer name
-* Search keywords
+* Produktname
+* Variantenname
+* Herstellername
+* Suchbegriffe
 
-Keywords can be added by visiting **Edit Product -> Search**.  Keywords entered into the top box (in red below) are reviewed by the platform if the customer uses the 'Search' field on your shop front.  Those entered into the second box (in green below) are searched by external search engines on the internet (for example Google).&#x20;
+Schlüsselwörter können unter **Produkt bearbeiten -> Suche** hinzugefügt werden. Schlüsselwörter, die in das oberste Feld (unten in rot) eingegeben werden, werden von der Plattform überprüft, wenn der Kunde das Feld "Suchen" auf Ihrer Shopseite verwendet. Die in das zweite Feld (unten in grün) eingegebenen Stichwörter werden von externen Suchmaschinen im Internet (z. B. Google) durchsucht.
 
 ![](../../.gitbook/assets/searchedit.jpg)
 
-The 'Notes' section is not an active field. It is a handy box for you to 'make a note' of a seasonal search term which may be very effective/ineffective one year, so that you don't forget.
+Der Abschnitt "Anmerkungen" ist kein aktives Feld. Es ist ein praktisches Feld, in dem Sie einen saisonalen Suchbegriff notieren können, der in einem Jahr sehr wirksam/unwirksam sein kann, damit Sie ihn nicht vergessen.

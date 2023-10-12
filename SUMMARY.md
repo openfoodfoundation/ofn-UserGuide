@@ -19,7 +19,7 @@
     * [Unternehmensberechtigungen](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
     * [Änderungsprofil Manager/Besitzer](basic-features/enterprise-profile/transfer-ownership.md)
   * [Produkte](basic-features/products-1/README.md)
-    * [Add products](basic-features/products-1/products.md)
+    * [Produkte hinzufügen](basic-features/products-1/products.md)
     * [Product variants](basic-features/products-1/product-variants.md)
     * [Product properties](basic-features/products-1/product-properties.md)
     * [Pricing Meat & other 'complete' products of unknown weight](basic-features/products-1/pricing-irregular-items-kg.md)
