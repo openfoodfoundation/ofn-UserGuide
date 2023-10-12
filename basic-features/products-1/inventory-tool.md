@@ -1,132 +1,128 @@
-# Inventory tool
+# Werkzeug zur Bestandsaufnahme
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
-{% endhint %}
+## Einführung
 
-## Introduction
+Das "Inventar" gibt Unternehmen mehr Kontrolle und Flexibilität bei der Produktverwaltung, wenn sie dies wünschen. Die Funktion wird vor allem für Hubs und Hub-Manager von Interesse sein.
 
-The 'inventory' gives enterprises increased control and flexibility with their product management, if they require it. The feature will mainly be of interest to Hubs and Hub managers.
+Mit Hilfe der Funktion "Inventar" kann Hub A die Preise und Lagerbestände der Artikel ändern, für die es eine Verkaufsgenehmigung besitzt. Mit dieser Funktion kann Hub A auch nur eine Teilauswahl von Waren seiner Zulieferer für den Verkauf in seinem Laden zur Verfügung stellen, wenn er nicht die gesamte Produktpalette vertreiben möchte. All dies ist möglich, ohne die Masterkopie der Produkte zu verändern. Wenn also sowohl Hub A als auch Hub B dieselben Produkte vorrätig haben, kann Hub A mit Hilfe des Inventarisierungstools den Preis und andere grundlegende Informationen über die von ihm verkauften Artikel ändern, ohne dass dies Auswirkungen auf Hub B hat.
 
-By using the 'Inventory' Hub A can modify the price and stock levels of the items it has permission to retail.  The feature can also allow Hub A to make only a sub-selection of goods from its supplying producers available for sale on its shop front if they don't wish to distribute entire product ranges.  All this can be done without modifying the master copy of the products. Hence if both Hubs A and B stock the same products, then by using the inventory tool Hub A can alter price and other fundamental information about the items it sells without impacting on Hub B.
+## Profileinstellungen für die Bestandsaufnahme
 
-## Profile settings for the Inventory
-
-To access the Inventory, go to Entreprises \(on the blue horizontal menu\) and then 'Settings'. From the menu bar on the left hand side, select 'Inventory Settings'
+Um auf das Inventar zuzugreifen, gehen Sie auf "Unternehmen" (im blauen horizontalen Menü) und dann auf "Einstellungen". Wählen Sie in der Menüleiste auf der linken Seite "Inventareinstellungen".
 
 ![](../../.gitbook/assets/inventory-settings.png)
 
-You have two options: 
+Sie haben zwei Möglichkeiten:
 
-* **New products can be put into my shopfront \(recommended\):** Your supplier's products can be added to your online shop-front _without you having to add them in your shop/hub inventory beforehand_. When you create an order cycle, _all_ products from the selected producers will be available for you to add to the 'incoming' portion of it \(the order cycle\).  This is the default option and is recommended for hubs who do not wish to modify price or stock levels of the items they retail
+* **Neue Produkte können in mein Schaufenster gestellt werden (empfohlen):** Die Produkte Ihres Lieferanten können in Ihr Online-Schaufenster aufgenommen werden, _ohne dass Sie sie vorher in Ihrem Shop/Hub-Inventar hinzufügen müssen_. Wenn Sie einen Bestellzyklus erstellen, stehen Ihnen alle Produkte der ausgewählten Hersteller zur Verfügung, die Sie dem "eingehenden" Teil des Zyklus (dem Bestellzyklus) hinzufügen können. \
+  Dies ist die Standardoption und wird für Hubs empfohlen, die die Preise oder Lagerbestände der von ihnen verkauften Artikel nicht ändern möchten.
 
 {% hint style="warning" %}
-BE CAREFUL- if you keep your inventory settings in this default 'off' mode but at the same time upload products to your hub inventory and modify their prices or stock levels, then the modified information will be displayed on your shop front, not that in the master copy.
+VORSICHT - wenn Sie Ihre Inventareinstellungen in diesem Standardmodus belassen, aber gleichzeitig Produkte in Ihr Hub-Inventar hochladen und deren Preise oder Lagerbestände ändern, werden die geänderten Informationen auf Ihrer Shopfront angezeigt, nicht in der Masterkopie.
 {% endhint %}
 
-* **New products must be added to my inventory before they can be added to my shopfront:** When you create an order cycle, only those products which you previously added to the hub inventory will be visible for selection in the 'incoming' portion of the order cycle.
+* **Neue Produkte müssen zu meinem Inventar hinzugefügt werden, bevor sie zu meinem Schaufenster hinzugefügt werden können:** Wenn Sie einen Bestellzyklus erstellen, werden nur die Produkte, die Sie zuvor dem Hub-Inventar hinzugefügt haben, zur Auswahl im "eingehenden" Teil des Bestellzyklus angezeigt.
 
-## Visiting your Shop/Hub Inventory 
+## Besuchen Sie Ihren Shop/Hub-Bestand
 
-Click the Products menu on the top of your the admin dashboard, and then click Inventory in the green sub menu. If you manage multiple enterprises, you will be asked to select one because each inventory is managed independently.
+Klicken Sie oben im Admin-Dashboard auf das Menü Produkte und dann im grünen Untermenü auf Inventar. Wenn Sie mehrere Unternehmen verwalten, werden Sie aufgefordert, eines auszuwählen, da jedes Inventar unabhängig verwaltet wird.
 
 ![](../../.gitbook/assets/inventory1.jpg)
 
-If new products have been added by your suppliers between each visit to your shop/hub inventory then you will see the following message:
+Wenn Ihre Lieferanten zwischen den einzelnen Besuchen Ihres Shops/Hub-Inventars neue Produkte hinzugefügt haben, wird die folgende Meldung angezeigt:
 
 ![](../../.gitbook/assets/new-products-alert.png)
 
-Until you have added these products to the inventory they will remain in the '**New Products**' category and invisible for selection when creating an order cycle. By clicking on '**Review Now**' you will be redirected to the list of new products. 
+Solange Sie diese Produkte nicht in den Bestand aufgenommen haben, verbleiben sie in der Kategorie "**Neue Produkte**" und sind für die Auswahl bei der Erstellung eines Bestellzyklus nicht sichtbar. Wenn Sie auf "**Jetzt prüfen**" klicken, werden Sie zur Liste der neuen Produkte weitergeleitet.
 
-## Reviewing New Products
+## Überprüfung neuer Produkte
 
-New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add** it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide** it \(see **Hidden Products** section below\).
+Neue Produkte können entweder zu Ihrer Inventarliste **hinzugefügt** oder **ausgeblendet** werden. Wenn es ein Produkt in der Liste gibt, dessen Details Sie überschreiben oder für das Sie einen wiederkehrenden Lagerbestand festlegen möchten, müssen Sie es zu Ihrer Inventarliste **hinzufügen**. Wenn es ein Produkt gibt, das Sie nie in Ihrem Shop verkaufen oder zumindest in naher Zukunft nicht auf Lager haben möchten, können Sie es **ausblenden** (siehe Abschnitt **Ausgeblendete** **Produkte** unten).
 
 ![](../../.gitbook/assets/new-products.png)
 
 {% hint style="info" %}
-Remember, if your **Inventory Settings** are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
+Denken Sie daran: Wenn Ihre **Bestandseinstellungen** so festgelegt sind, dass "neue Produkte erst in den Bestand aufgenommen werden müssen, bevor sie in mein Schaufenster gestellt werden können", werden alle Produkte, die Sie in der Liste "Neue Produkte" belassen, effektiv ausgeblendet. Wenn Ihre Bestandseinstellungen auf "Neue Produkte können in mein Schaufenster gestellt werden" eingestellt sind, werden die Produkte in Ihrer Liste "Neue Produkte" weiterhin in Ihrem Bestellzyklus angezeigt.
 {% endhint %}
 
-## Managing Your Inventory Products
+## Verwaltung Ihres Lagerbestands Produkte
 
-Your inventory products list is where you can override product details, set up stock level resetting, and hide products. 
+In der Produktliste Ihres Inventars können Sie Produktdetails überschreiben, die Rücksetzung des Lagerbestands einrichten und Produkte ausblenden.
 
 ![](../../.gitbook/assets/viewing-inventory-settings.png)
 
-Via the columns button on the right of the table, you can choose which settings you would like to see and modify.
+Über die Schaltfläche "Spalten" auf der rechten Seite der Tabelle können Sie auswählen, welche Einstellungen Sie sehen und ändern möchten.
 
 ![](../../.gitbook/assets/columns-1.png)
 
-### Modify SKU, prices and stock levels for products in your shopfront
+### Ändern Sie SKU, Preise und Lagerbestände für Produkte in Ihrem Schaufenster
 
-Any changes you make here will be visible on your shop and will hence override details set by the supplier. You can modify the following fields: 
+Alle Änderungen, die Sie hier vornehmen, werden in Ihrem Shop sichtbar und überschreiben somit die vom Lieferanten festgelegten Details. Sie können die folgenden Felder ändern:
 
-* **SKU** – if you wish to use an alternative SKU \(reference number\) for a product, you can over-ride the producer’s SKU here by typing in an alternative.
-* **Price** – You can set a different price to show in your shop. Keep in mind the units of the product will remain the same. Hence if the product is priced per kg then you can only modify its cost per kg and not change it to a fixed cost per item.
-* **In Stock** – If your stock of this product differs from the available stock offered by the producers, you can indicate your stock. Your products will no longer be visible in the shop once the inventory stock level reaches zero.
+* **SKU** - wenn Sie eine alternative SKU (Referenznummer) für ein Produkt verwenden möchten, können Sie hier die SKU des Herstellers außer Kraft setzen, indem Sie eine Alternative eingeben.
+* **Preis** - Sie können einen anderen Preis festlegen, der in Ihrem Shop angezeigt wird. Beachten Sie, dass die Einheiten des Produkts gleich bleiben. Wenn das Produkt also einen Preis pro kg hat, können Sie nur die Kosten pro kg ändern, nicht aber die festen Kosten pro Artikel.
+* **Auf Lager** - Wenn Ihr Bestand an diesem Produkt von dem von den Herstellern angebotenen Bestand abweicht, können Sie Ihren Bestand angeben. Ihre Produkte werden im Shop nicht mehr sichtbar sein, sobald der Lagerbestand Null erreicht.
 
 {% hint style="info" %}
-This might be handy if you receive a bulk purchase of say 50 items per month and need to keep track of their sales before the next delivery. 
+Das kann praktisch sein, wenn Sie einen Großeinkauf von z. B. 50 Artikeln pro Monat erhalten und die Verkäufe vor der nächsten Lieferung im Auge behalten müssen.
 {% endhint %}
 
-* **Unlimited?** – You can select whether to inherit producer stock levels \(in which case the number in the 'in stock' column will remain grey\), to have unlimited stock 'yes' \(hence the item will never run out and will always be available, if added to an active order cycle\) or to define your own stock levels 'no' \(in which case the number in the 'in stock' column will be on a white background\).
+* **Unbegrenzt?** - Sie können wählen, ob Sie die Lagerbestände des Herstellers übernehmen möchten (in diesem Fall bleibt die Zahl in der Spalte "auf Lager" grau), ob Sie einen unbegrenzten Lagerbestand haben möchten (in diesem Fall geht der Artikel nie zur Neige und ist immer verfügbar, wenn er zu einem aktiven Auftragszyklus hinzugefügt wird) oder ob Sie Ihre eigenen Lagerbestände definieren möchten (in diesem Fall wird die Zahl in der Spalte "auf Lager" auf weißem Hintergrund angezeigt).
 
 ![](../../.gitbook/assets/inventorystock.jpg)
 
-Refresh yourself about 'in stock' and 'unlimited' [here](products.md#adding-products).
+Informieren Sie sich [hier](products.md#hinzufuegen-von-produkten) über "auf Lager" und "unbegrenzt".
 
 {% hint style="warning" %}
-It is not possible to alter product name, properties, description or image.
+Es ist nicht möglich, den Produktnamen, die Eigenschaften, die Beschreibung oder das Bild zu ändern.
 {% endhint %}
 
-### Enable Stock Reset?
+### Stock Reset aktivieren?
 
-The **enable stock level reset** column allows you to reset the 'In Stock' amount to a default value, ****for example at the start of each new order cycle. The **default amount** is the number entered in this column next to the check box. The checkbox allows you to select only those items that you want to reset at any give time. 
+In der Spalte "**Lagerbestand zurücksetzen**" können Sie die Menge "Auf Lager" auf einen Standardwert zurücksetzen, z. B. zu Beginn jedes neuen Auftragszyklus. Der **Standardwert** ist die Zahl, die in dieser Spalte neben dem Kontrollkästchen eingegeben wird. Mit dem Kontrollkästchen können Sie nur die Artikel auswählen, die Sie zu einem bestimmten Zeitpunkt zurücksetzen möchten.
 
-To reset the default stock for these products, click 'Actions' at the top left of the inventory table and then 'Reset stock levels to defaults'. Only products for which the enable stock reset box has been checked will be affected by this action. 
+Um den Standardlagerbestand für diese Produkte zurückzusetzen, klicken Sie oben links in der Bestandstabelle auf "Aktionen" und dann auf "Lagerbestände auf Standardwerte zurücksetzen". Von dieser Aktion sind nur Produkte betroffen, für die das Kästchen "Bestandsrücksetzung aktivieren" markiert wurde.&#x20;
 
 ![](../../.gitbook/assets/inventorystockreset.jpg)
 
-> In this example the default stock level of baked beans is 5. There are currently 2 left in stock. If the user, at the beginning of an order cycle wishes to reset to 5 then they must click on 'Reset stock levels to defaults' under 'Actions'
+> In diesem Beispiel ist der Standardlagerbestand an gebackenen Bohnen 5. Derzeit sind noch 2 Stück auf Lager. Wenn der Benutzer zu Beginn eines Bestellzyklus auf 5 zurücksetzen möchte, muss er unter "Aktionen" auf "Lagerbestände auf Standardwerte zurücksetzen" klicken.
 
 {% hint style="info" %}
-This is a useful feature for hubs who may receive deliveries of specific products once a month or on a regular schedule. 
+Dies ist eine nützliche Funktion für Hubs, die einmal im Monat oder in regelmäßigen Abständen bestimmte Produkte geliefert bekommen.
 {% endhint %}
 
-### Inherit?
+### Vererben?
 
-If you have not changed any of the values in the Inventory table for a product, the check box "inherit?" will be, by default, checked. This means that the information entered by the producer and visible in grey will be displayed on your shopfront.
+Wenn Sie keinen der Werte in der Inventartabelle für ein Produkt geändert haben, ist das Kontrollkästchen "Vererben?" standardmäßig aktiviert. Das bedeutet, dass die vom Hersteller eingegebenen und grau hinterlegten Informationen in Ihrem Schaufenster angezeigt werden.
 
 ![](../../.gitbook/assets/inventoryinherit.jpg)
 
-By modifying one or more of the fields, this check box will be automatically de-selected. To reset values \(price, stock, SKU etc\) to the producer's master copy values, you can re-select this box at any time.
+Wenn Sie eines oder mehrere der Felder ändern, wird dieses Kontrollkästchen automatisch deaktiviert. Um Werte (Preis, Bestand, SKU usw.) auf die Werte der Herstellervorlage zurückzusetzen, können Sie dieses Kästchen jederzeit wieder aktivieren.
 
-### Hide
+### Ausblenden
 
-As in the **New Products** list, you can also **hide** products from your **Inventory List**. Clicking on the hide button will move the product to your **Hidden Products** list. If you have your inventory profile set up as '**New products must be added to my inventory before they can be added to my shopfront'** \(see [here](inventory-tool.md#profile-settings-for-the-inventory)\) then the product you just hid will no longer be available for selection in your hub's order cycle and thus will not be visible on your shopfront.
+Wie in der Liste **Neue Produkte** können Sie auch Produkte aus Ihrer **Inventarliste ausblenden**. Wenn Sie auf die Schaltfläche "Ausblenden" klicken, wird das Produkt in Ihre Liste "**Ausgeblendete Produkte**" verschoben. Wenn Sie in Ihrem Inventarprofil die Einstellung "**Neue Produkte müssen meinem Inventar hinzugefügt werden, bevor sie meinem Schaufenster hinzugefügt werden können**" gewählt haben (siehe [hier](inventory-tool.md#profileinstellungen-fuer-die-bestandsaufnahme)), dann steht das Produkt, das Sie gerade ausgeblendet haben, im Bestellzyklus Ihres Hubs nicht mehr zur Auswahl und ist somit auch nicht in Ihrem Schaufenster sichtbar.
 
-## Hidden Products
+## Versteckte Produkte
 
-This is a list of all the products you have chosen to hide:
+Dies ist eine Liste mit allen Produkten, die Sie ausblenden möchten:
 
 ![](../../.gitbook/assets/hidden-products.png)
 
-When viewing your list of hidden products you can choose to make them visible once more by clicking the '**Add**' button to the right of the item.
+Wenn Sie Ihre Liste der ausgeblendeten Produkte ansehen, können Sie diese wieder sichtbar machen, indem Sie auf die Schaltfläche "**Hinzufügen**" rechts neben dem Artikel klicken.
 
 ![](../../.gitbook/assets/inventoryhidden.jpg)
 
-## Inventory and Order Cycles
+## Bestandsaufnahme und Auftragszyklen
 
-When setting up order cycles you can on a case by case basis choose between selecting from all available products or only those which are in your shop/hub inventory. 
+Beim Einrichten von Bestellzyklen können Sie von Fall zu Fall wählen, ob Sie aus allen verfügbaren Produkten oder nur aus denen, die sich in Ihrem Shop/Hub-Bestand befinden, auswählen möchten.
 
-This is controlled by visiting 'Advanced Settings' \(top right of order cycle page\):
+Dies wird unter "Erweiterte Einstellungen" (oben rechts auf der Seite des Bestellzyklus) gesteuert:
 
 ![](../../.gitbook/assets/advanced-oc-settings.png)
 
-This option has the same effect as changing our enterprise [profile settings for your inventory](inventory-tool.md#profile-settings-for-the-inventory), but unlike the latter it applies only to the order cycle in question.
+Diese Option hat dieselbe Wirkung wie die Änderung unserer [Unternehmensprofileinstellungen für Ihr Inventar](inventory-tool.md#profileinstellungen-fuer-die-bestandsaufnahme), aber im Gegensatz zu letzterem gilt sie nur für den betreffenden Auftragszyklus.
 
 {% hint style="danger" %}
-After making any changes always remember to click 'Update' or 'Save' before moving on!
+Wenn Sie Änderungen vorgenommen haben, denken Sie daran, auf "Aktualisieren" oder "Speichern" zu klicken, bevor Sie weitermachen!
 {% endhint %}
-
