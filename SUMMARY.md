@@ -25,7 +25,7 @@
     * [Preisgestaltung Fleisch und andere "vollständige" Produkte mit unbekanntem Gewicht](basic-features/products-1/pricing-irregular-items-kg.md)
     * [Werkzeug zur Bestandsaufnahme](basic-features/products-1/inventory-tool.md)
     * [Group Buy - für Großbestellungen](basic-features/products-1/group-buy-for-bulk-ordering.md)
-    * [Product and Inventory import](basic-features/products-1/product-and-inventory-import.md)
+    * [Import von Produkten und Beständen](basic-features/products-1/product-and-inventory-import.md)
   * [Shopfront](basic-features/shopfront/README.md)
     * [Shipping Methods](basic-features/shopfront/shipping-methods.md)
     * [Payment Methods](basic-features/shopfront/payment-methods.md)
