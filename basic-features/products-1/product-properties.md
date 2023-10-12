@@ -1,14 +1,14 @@
-# Product properties
+# Eigenschaften des Produkts
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
+Sie können Ihren Produkten Produkteigenschaften zuweisen, damit Ihre Kunden mehr darüber erfahren, wie Ihre Produkte hergestellt werden und welche Eigenschaften sie haben. Zu den aktuellen Produkteigenschaften, die angewendet werden können, gehören:
 
 {% tabs %}
-{% tab title="Australia" %}
-This is a list of product and enterprise properties available in Australia:
+{% tab title="Australien" %}
+Dies ist eine Liste der in Australien verfügbaren Produkt- und Unternehmenseigenschaften:
 
 * Free Range
 * Organic - Certified
@@ -54,11 +54,12 @@ This is a list of product and enterprise properties available in Australia:
 * Fgh
 * Free-range
 * My Pick Verified local farmer
-* Coupon 
+* Coupon\
+
 {% endtab %}
 
 {% tab title="UK" %}
-This is a list of product and enterprise properties available in the UK:
+Dies ist eine Liste der im Vereinigten Königreich verfügbaren
 
 * Certified Organic/ Fair Trade / Biodynamic
 * Produced within 15 / 30 / 50 miles
@@ -83,19 +84,19 @@ This is a list of product and enterprise properties available in the UK:
 
 
 * AB
-* Certified Organic 
+* Certified Organic&#x20;
 * Grass Fed and Finished
-* Pasture Raised 
+* Pasture Raised&#x20;
 * Biodynamic
-* Certified Naturally Grown 
+* Certified Naturally Grown&#x20;
 * Chemical-Free
-* Animal Welfare Approved 
-* Non-GMO 
-* Verified FSMA Compliant 
-* Plastic-free 
-* Certified Organic Ingredients 
-* Conventionally Grown 
-* Organically grown or raised, not certified 
+* Animal Welfare Approved&#x20;
+* Non-GMO&#x20;
+* Verified FSMA Compliant&#x20;
+* Plastic-free&#x20;
+* Certified Organic Ingredients&#x20;
+* Conventionally Grown&#x20;
+* Organically grown or raised, not certified&#x20;
 * Hand crafted
 {% endtab %}
 
@@ -120,88 +121,87 @@ This is a list of product and enterprise properties available in the UK:
 {% endtabs %}
 
 {% hint style="info" %}
-If you'd like to apply a property which is not listed above then please get in touch. We consider any new properties which might have widespread appeal.
+Wenn Sie sich für eine Immobilie bewerben möchten, die oben nicht aufgeführt ist, nehmen Sie bitte Kontakt mit uns auf. Wir berücksichtigen alle neuen Immobilien, die eine große Anziehungskraft haben könnten.
 {% endhint %}
 
-There are two ways to assign properties to your products:
+Es gibt zwei Möglichkeiten, Ihren Produkten Eigenschaften zuzuweisen:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties”** section below\).
+1\) Sie können einem Unternehmen eine Eigenschaft zuweisen, so dass alle Produkte, die zu diesem Unternehmen gehören, diese Eigenschaft tragen (es sei denn, sie wird manuell entfernt, was im Abschnitt **"Vererbte Eigenschaften"** weiter unten behandelt wird).
 
-2\) You can assign properties to particular products, on an individual basis.
+2\) Sie können bestimmten Produkten auf individueller Basis Eigenschaften zuweisen.
 
-## Assigning a property to an enterprise
+## Zuweisung einer Eigenschaft an ein Unternehmen
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).  
+Wenn Sie einem Unternehmen eine Eigenschaft zuweisen, werden alle Produkte, die zu diesem Unternehmen gehören, standardmäßig mit dieser Produkteigenschaft versehen. Wenn z. B. alle Ihre Produkte "Bio-zertifiziert" sind, können Sie diese Eigenschaft Ihrem Unternehmen zuweisen, damit Sie diese Eigenschaft nicht manuell auf jedes Produkt anwenden müssen. Wenn eine Eigenschaft nur auf einige Ihrer Produkte zutrifft, ist es besser, sie dem Produkt und nicht dem Unternehmen zuzuweisen (siehe Anleitung unten).&#x20;
 
-You can access enterprise properties in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md): in your Admin dashboard go to Enterprises -&gt; Settings -&gt; Properties
+Sie können auf die Unternehmenseigenschaften in Ihren [Unternehmenseinstellungen](../enterprise-profile/enterprise-settings.md) zugreifen: Gehen Sie in Ihrem Admin Dashboard zu Unternehmen -> Einstellungen -> Eigenschaften
 
 ![](../../.gitbook/assets/properties1.jpg)
 
 {% hint style="warning" %}
-Properties only apply to [Producer](../enterprise-profile/package-types.md#for-producers) profiles, shops and hubs.  This option will not be available to Non Producer Hubs.
+Eigenschaften gelten nur für [Produzentenprofile](../enterprise-profile/package-types.md#produzentenprofil), Shops und Hubs. Diese Option ist für Nicht- Produzenten-Hubs nicht verfügbar.
 {% endhint %}
 
-Next, there are 2 fields when applying an enterprise property:
+Bei der Anwendung einer Unternehmenseigenschaft gibt es 2 Felder:
 
-**Property Name:** You can select a pre-defined product property from the drop-down list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
+**Name der Eigenschaft:** Sie können eine vordefinierte Produkteigenschaft aus der Dropdown-Liste auswählen. Dies ist der Name der Eigenschaft, mit der Ihre Produkte gekennzeichnet werden und nach der Kunden in Ihrem Shop filtern können.
 
-**Description:** You can add a small description to give more information about your label. For example you may wish to add a certificate number.
+**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Etikett zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
 
 {% hint style="info" %}
-You can add as many properties as you wish to your enterprise.
+Sie können Ihrem Unternehmen so viele Immobilien hinzufügen, wie Sie möchten.
 {% endhint %}
 
 {% hint style="warning" %}
-Don't forget to save your changes by clicking 'Update' in the red box, bottom right.
+Vergessen Sie nicht, Ihre Änderungen zu speichern, indem Sie auf "Aktualisieren" in dem roten Feld unten rechts klicken.
 {% endhint %}
 
-## Assigning a property to a product
+## Zuweisung einer Eigenschaft zu einem Produkt
 
-To assign a property to a single product, rather than an enterprise’s entire product range, click on **Products** in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
+Um eine Eigenschaft einem einzelnen Produkt und nicht der gesamten Produktpalette eines Unternehmens zuzuweisen, klicken Sie auf **Produkte** im horizontalen blauen Banner und bearbeiten Sie dann ein vorhandenes Produkt (Sie können eine Produkteigenschaft nicht anwenden, wenn Sie ein Produkt zum ersten Mal erstellen).
 
-To edit a product, click on the edit icon \(pencil and paper\) on the right hand side of the table.
+Um ein Produkt zu bearbeiten, klicken Sie auf das Bearbeitungssymbol (Bleistift und Papier) auf der rechten Seite der Tabelle.
 
 ![](../../.gitbook/assets/property-to-product.png)
 
-Once editing the product you can add or change its properties by selecting 'Product Properties' from the right hand menu.
+Wenn Sie das Produkt bearbeitet haben, können Sie seine Eigenschaften hinzufügen oder ändern, indem Sie im Menü auf der rechten Seite "Produkteigenschaften" auswählen.
 
 ![](../../.gitbook/assets/properties2.jpg)
 
-There are 2 fields when applying a product property:
+Bei der Anwendung einer Produkteigenschaft gibt es 2 Felder:
 
-**Property Name:**You can select a pre-defined product property from the drop-down list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
+**Eigenschaftsname:** Sie können eine vordefinierte Produkteigenschaft aus der Dropdown-Liste auswählen. Dies ist der Name der Eigenschaft, mit der Ihr Produkt gekennzeichnet wird und nach der Kunden in Ihrem Shop filtern können.
 
-**Description:** You can add a small description to give more information about your label. For example you may wish to add a certificate number.
+**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Etikett zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
 
-You can apply multiple product properties by clicking “**+ Add Product Properties**“
+Sie können mehrere Produkteigenschaften anwenden, indem Sie auf "**+ Produkteigenschaften hinzufügen**" klicken.
 
 {% hint style="warning" %}
-Remember to click **update** when you are finished.
+Denken Sie daran, auf **Aktualisieren zu** klicken, wenn Sie fertig sind.
 {% endhint %}
 
-## Inherited Properties
+## Vererbte Eigenschaften
 
-As discussed [above](product-properties.md#assigning-a-property-to-an-enterprise), when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, it is possible to override this automatic inheritance.
+Wenn einem Unternehmen eine Eigenschaft zugewiesen wird, "erben" alle Produkte, die zu diesem Unternehmen gehören, diese Eigenschaft, wie [oben](product-properties.md#assigning-a-property-to-an-enterprise) beschrieben. Es ist jedoch möglich, diese automatische Vererbung außer Kraft zu setzen.
 
-When editing a product’s properties you will see a checkbox titled **“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.** By default, when an enterprise has a property, this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
+Wenn Sie die Eigenschaften eines Produkts bearbeiten, sehen Sie ein Kontrollkästchen mit der **Überschrift "Eigenschaften von (Unternehmensname) erben (sofern nicht oben überschrieben)**". Wenn ein Unternehmen eine Eigenschaft besitzt, ist dieses Kästchen standardmäßig für alle Produkte aktiviert, die zu diesem Unternehmen gehören. Wenn Sie die Markierung dieses Kästchens aufheben, werden alle geerbten Unternehmenseigenschaften entfernt.
 
 ![](../../.gitbook/assets/properties3.jpg)
 
 {% hint style="warning" %}
-If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level. 
+Wenn Sie das Kontrollkästchen aktiviert lassen und dem Produkt eine Eigenschaft hinzufügen, die bereits auf Unternehmensebene existiert, wird die Beschreibung der auf Produktebene hinzugefügten Eigenschaft der Beschreibung auf Unternehmensebene vorgezogen.&#x20;
 
-This is useful if you would like to modify only the description of a label on selected products. \(For example, if all your products are 'Certified Organic', but two products have a different certificate number to the rest then you can add the main certificate number to the enterprise property description and the other number to the two products which are different using these product property descriptions.\)
+Dies ist nützlich, wenn Sie nur die Beschreibung eines Etiketts auf ausgewählten Produkten ändern möchten. (Wenn z. B. alle Ihre Produkte "Bio-zertifiziert" sind, aber zwei Produkte eine andere Zertifikatsnummer haben als der Rest, können Sie die Hauptzertifikatsnummer zur Beschreibung der Unternehmenseigenschaft hinzufügen und die andere Nummer zu den beiden Produkten, die sich durch diese Produkteigenschaftsbeschreibungen unterscheiden).
 {% endhint %}
 
-## View Product Properties in online shop
+## Ansicht der Produkteigenschaften im Online Shop
 
-By clicking on the profile of a producer, Enterprise Properties appear on the pop out page:
+Wenn Sie auf das Profil eines Produzenten klicken, erscheinen die Unternehmenseigenschaften auf der Pop-up-Seite:
 
 ![](../../.gitbook/assets/viewproperty.jpg)
 
-Customers can also filter products in a shop based on their properties:
+Kunden können die Produkte in einem Shop auch nach ihren Eigenschaften filtern:
 
 ![](../../.gitbook/assets/searchfilter.jpg)
 
-![](../../.gitbook/assets/screenshot_20201027-152628.png)
-
+![](../../.gitbook/assets/screenshot\_20201027-152628.png)
