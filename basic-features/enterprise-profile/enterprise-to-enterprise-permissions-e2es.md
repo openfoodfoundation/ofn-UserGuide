@@ -6,7 +6,7 @@
 
 ## Unternehmensberechtigungen&#x20;
 
-Innerhalb der OFN-Unternehmensberechtigungen gibt es Regeln, die die Handelsbeziehungen zwischen Unternehmen regeln: Lieferanten und Händler. Diese Regeln müssen aufgestellt werden, bevor ein Unternehmen (Herstellerprofil oder Herstellershop) Lieferant eines anderen (Hub) werden kann oder umgekehrt. Eine Erlaubnis (oder ein "Recht") wird von einem Unternehmen an ein anderes erteilt, was den Zugang / die Änderung von Produkten und Profilen betrifft. Auf dieser Seite werden die verschiedenen Berechtigungen und deren Zuweisung beschrieben.
+Innerhalb der OFN-Unternehmensberechtigungen gibt es Regeln, die Handelsbeziehungen zwischen Unternehmen regeln: Lieferanten und Händler. Diese Regeln müssen aufgestellt werden, bevor ein Unternehmen (Herstellerprofil oder Herstellershop) Lieferant eines anderen (Hub) werden kann oder umgekehrt. Eine Erlaubnis (oder ein "Recht") wird von einem Unternehmen an ein anderes erteilt, was den Zugang / die Änderung von Produkten und Profilen betrifft. Auf dieser Seite werden die verschiedenen Berechtigungen und deren Zuweisung beschrieben.
 
 So greifen Sie auf Ihre Unternehmensberechtigungen zu:
 
