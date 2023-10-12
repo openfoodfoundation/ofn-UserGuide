@@ -49,18 +49,18 @@ Um Berechtigungen zu ändern, hinzuzufügen oder zu löschen, gehen Sie auf das 
 
 Erlaubnis erteilen:
 
-* Select your enterprise from the drop down menu in the first column (you are a producer who supplies others)
-* Select the name of the enterprise (hub) you wish to supply from the the second column.
-* Tick the permissions you wish to grant the distributor of your goods (hub) or to grant multiple permissions select 'everything'.
-* Click on 'Create'.
+* Wählen Sie Ihr Unternehmen aus dem Dropdown-Menü in der ersten Spalte aus (Sie sind ein Hersteller, der andere beliefert)
+* Wählen Sie in der zweiten Spalte den Namen des Unternehmens (Hub) aus, das Sie beliefern möchten.
+* Kreuzen Sie die Berechtigungen an, die Sie dem Händler Ihrer Waren (Hub) erteilen möchten, oder wählen Sie "alles", um mehrere Berechtigungen zu erteilen.
+* Klicken Sie auf "Erstellen".
 
-&#x20;Note that you can delete or change these permissions at any time.
+&#x20;Beachten Sie, dass Sie diese Berechtigungen jederzeit löschen oder ändern können.
 
 {% hint style="warning" %}
-Only users listed as [Managers](enterprise-settings.md#users) of an enterprise can change its permissions.
+Nur Benutzer, die als [Manager](enterprise-settings.md#benutzer) eines Unternehmens aufgeführt sind, können dessen Berechtigungen ändern.
 {% endhint %}
 
-If you need another enterprise to give you permissions, you need to contact them by email or phone. There is no online feature to do this.
+Wenn Sie von einem anderen Unternehmen Genehmigungen benötigen, müssen Sie dieses per E-Mail oder Telefon kontaktieren. Es gibt keine Online-Funktion, um dies zu tun.
 
 ## Automatisch generierte Berechtigungen
 
@@ -68,7 +68,7 @@ When a user is the main manager (owner) of several enterprises on the platform, 
 
 ## Perspektive der Hubs
 
-The following common scenarios demonstrate enterprise-enterprise permissions you may need to set up for your hub.
+Die folgenden häufigen Szenarien veranschaulichen die Berechtigungen für Unternehmen, die Sie möglicherweise für Ihren Hub einrichten müssen.
 
 > **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
 
