@@ -1,79 +1,77 @@
-# Pricing Meat & other 'complete' products of unknown weight
+# Preisgestaltung Fleisch und andere "vollständige" Produkte mit unbekanntem Gewicht
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Hier bezeichnen wir Produkte als "**unregelmäßig**", wenn sie nach Gewicht/Volumen verkauft werden, die genaue Menge aber erst zum Zeitpunkt der Ernte/Verteilung bekannt ist.
 
-Here we refer to products as _**'irregular'**_  if they are sold according to weight/volume but the exact quantity is not known until time of harvest/distribution. &#x20;
+Zum Beispiel Fleischstücke, Käsescheiben, großes Gemüse.
 
-For example joints of meat, slices of cheese, large vegetables.
+Auf der OFN-Plattform stehen verschiedene Tools zur Verfügung, um diese Verkäufe zu verwalten und zu organisieren.
 
-There are a number of different tools available on the OFN platform to help manage and organise these sales.&#x20;
+## Option eins: Festsetzung eines Durchschnittsgewichts/-preises und Erstattung
 
-## Option One: Set an average weight / price and reimburse
+Sie können den Durchschnittspreis des Produkts in Rechnung stellen und dem Kunden einen Aufschlag erstatten oder berechnen, wenn das tatsächliche Gewicht vom Mittelwert abweicht.
 
-You can charge the average price of the product, and then reimburse or charge the customer extra, if the actual weight deviates from the mean.&#x20;
-
-When you know the true weight of the products (ie. when you are preparing orders for collection by customers), log into "Bulk Order Management" (Orders -> Bulk Order Management) and add the Weight / Volume column to the table.
+Wenn Sie das tatsächliche Gewicht der Produkte kennen (z. B. wenn Sie Bestellungen für die Abholung durch Kunden vorbereiten), melden Sie sich bei der Massenbestellungsverwaltung an (Bestellungen -> Massenbestellungsverwaltung) und fügen Sie der Tabelle die Spalte Gewicht/Volumen hinzu.
 
 ![](../../.gitbook/assets/bom1.jpg)
 
-You can then change the weight shown for each buyer for a given order and a given product. The price will be recalculated automatically according to the quantity entered.
+Sie können dann das für jeden Käufer angezeigte Gewicht für eine bestimmte Bestellung und ein bestimmtes Produkt ändern. Der Preis wird automatisch entsprechend der eingegebenen Menge neu berechnet.
 
 {% hint style="info" %}
-Don't forget to resend an order confirmation email to the customer to notify them of the price difference and any monies they may subsequently owe.
+Vergessen Sie nicht, dem Kunden eine erneute Auftragsbestätigung per E-Mail zu schicken, um ihn über die Preisdifferenz und die eventuell noch ausstehenden Beträge zu informieren.
 {% endhint %}
 
-## Option Two: Display price ranges&#x20;
+## Option Zwei: Anzeige von Preisspannen&#x20;
 
-Same logic as Option One, but simply instead of displaying an average price initially, indicate a price range. This solution has the advantage of clearly indicating to the buyer that the final price is likely to be modified.&#x20;
+Gleiche Logik wie bei Option eins, aber statt eines Durchschnittspreises am Anfang wird einfach eine Preisspanne angegeben. Diese Lösung hat den Vorteil, dass sie dem Käufer deutlich signalisiert, dass der Endpreis wahrscheinlich geändert werden wird.&#x20;
 
-[Variants](product-variants.md) can also be utilised to create different ranges.&#x20;
+Es können auch [Varianten](product-variants.md) verwendet werden, um verschiedene Sortimente zu schaffen.
 
-> **Example 1** (single product and one variant): \
-> Product = Chicken (between 8 and 12 kg with price according to weight, £10 / kg)&#x20;
+> **Beispiel 1** (ein Produkt und eine Variante):\
+> Produkt = Hähnchen (zwischen 8 und 12 kg mit Preis je nach Gewicht, £10 / kg)
 >
-> **Example 2** (two variants for one product): \
-> Product = Chicken (£10 / kg)\
-> Variant 1 = Small chicken (between 8 and 12 kg, price according to actual weight)\
-> Variant 2 = Large chicken (between 13 and 20 kg, price according to actual weight) ...
+> **Beispiel 2** (zwei Varianten für ein Produkt):\
+> Produkt = Huhn (£10 / kg)
+>
+> Variante 1 = kleines Huhn (zwischen 8 und 12 kg, Preis nach tatsächlichem Gewicht)&#x20;
+>
+> Variante 2 = großes Huhn (zwischen 13 und 20 kg, Preis nach tatsächlichem Gewicht)...
 
-## Option Three: Create variants with fixed prices&#x20;
+## Option Drei: Varianten mit Festpreisen erstellen&#x20;
 
-A slightly simpler version of Option Two is to create variants for your products based on weight ranges but charge a **fixed price** for all items that fall within the range. \
-For example if butternut squash costs £1/kg then you could list the variants with the following fixed prices:
+Eine etwas einfachere Version von Option zwei besteht darin, Varianten für Ihre Produkte auf der Grundlage von Gewichtsspannen zu erstellen, aber einen **Festpreis** für alle Artikel zu berechnen, die in diese Spanne fallen.\
+Wenn z. B. Butternusskürbis £1/kg kostet, könnten Sie die Varianten mit den folgenden Festpreisen auflisten:
 
-* Small (0.7 - 0.9 kg)           £0.80
-* Medium (0.9 - 1.1 kg)      £1.00
-* Large (1.1 - 1.3 kg)           £1.20
-* Extra Large (1.3 - 1.5 kg) £1.40
+* Klein (0,7 - 0,9 kg) CHF 0.80
+* Mittel (0,9 - 1,1 kg) CHF 1.00
+* Groß (1,1 - 1,3 kg) CHF 1.20
+* Extra groß (1,3 - 1,5 kg) CHF 1.40
 
-## Option Four: Create variants with known weights
+## Option Vier: Varianten mit bekannten Gewichten erstellen
 
-If you know the weight of all your whole fish, for example, in advance you can use the variant functionality to directly display the precise price for each item. Example:
+Wenn Sie z.B. das Gewicht aller Ihrer Steaks im Voraus kennen, können Sie die Variantenfunktion nutzen, um direkt den genauen Preis für jeden Artikel anzuzeigen. Beispiel:
 
 ![](../../.gitbook/assets/bom2.jpg)
 
-## Editing Orders&#x20;
+## Bearbeiten von Aufträgen&#x20;
 
-It may be difficult for meat producers to know in advance about product availability or prepare their packaging accordingly. (Until slaughter the weight of a chicken or a leg of lamb maybe unknown.)
+Für Fleischproduzenten kann es schwierig sein, im Voraus über die Verfügbarkeit von Produkten Bescheid zu wissen oder ihre Verpackungen entsprechend vorzubereiten. (Bis zur Schlachtung ist das Gewicht eines Huhns oder einer Lammkeule vielleicht nicht bekannt).
 
-This is not a problem since orders can be modified (by adding, modifying or deleting products) if necessary. For more information, see [Orders](../orders/).&#x20;
+Dies stellt kein Problem dar, da Bestellungen bei Bedarf geändert werden können (durch Hinzufügen, Ändern oder Löschen von Produkten). Weitere Informationen finden Sie unter [Bestellungen](../orders/).
 
-## Reimbursing or Charging customers the difference: How does it work?&#x20;
+## Erstattung oder Verrechnung der Differenz an die Kunden: Wie funktioniert das?&#x20;
 
-If a customer _**pays for their goods on their collection**_ or delivery, then the hub manager will have been able to modify the order before payment according to the actual weight and the products actually delivered. Hence in this instance there will be no need to reimburse or re-bill customer.
+Wenn ein Kunde **seine Waren bei der Abholung** oder Lieferung **bezahlt**, kann der Hub-Manager die Bestellung vor der Zahlung entsprechend dem tatsächlichen Gewicht und den tatsächlich gelieferten Produkten ändern. Daher besteht in diesem Fall keine Notwendigkeit, dem Kunden die Kosten zu erstatten oder erneut in Rechnung zu stellen.
 
-If an order is _**paid online before delivery**_, then you must refund or invoice for the the difference between monies already received and that owing for the precise products to be delivered. Click here to see [how](../orders/refunds-and-adjusting-payments.md).&#x20;
+Wenn eine Bestellung vor der Lieferung online bezahlt wird, müssen Sie die Differenz zwischen den bereits erhaltenen Beträgen und den für die zu liefernden Produkte geschuldeten Beträgen erstatten oder in Rechnung stellen. Klicken Sie hier, um zu sehen, [wie](../orders/refunds-and-adjusting-payments.md).
 
 {% hint style="danger" %}
-An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated.&#x20;
+Eine Alternative ist die Verwendung eines Online-Zahlungssystems, das den Betrag vorübergehend als "ausstehend" speichert, bis die Bestellung bestätigt wurde.
 
-_This feature is not yet implemented in Open Food Network. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._&#x20;
+_Diese Funktion ist in Open Food Network noch nicht implementiert. Wir arbeiten auch an der automatischen Implementierung von "Gutschriften", die es einem Hub ermöglichen, in Form einer Gutschrift zu erstatten, die vom Kunden als Teilzahlung für seine nächste Bestellung verwendet werden kann._
 {% endhint %}
 
-## Inform the buyer about your pricing policy&#x20;
+## Informieren Sie den Käufer über Ihre Preispolitik&#x20;
 
-You can notify your customers about your pricing policies for variable weight items (such as meat) in the [message box](../enterprise-profile/enterprise-settings.md#shop-preferences) displayed at the top of your shop front. This is found in the Enterprise Settings -> Shop Preferences.&#x20;
+Sie können Ihre Kunden über Ihre Preispolitik für Artikel mit variablem Gewicht (z. B. Fleisch) in dem [Nachrichtenfeld](../enterprise-profile/enterprise-settings.md#shop-einstellungen) informieren, das oben auf Ihrer Shop-Front angezeigt wird. Sie finden diese Funktion unter Unternehmenseinstellungen -> Shop-Einstellungen.
 
-It might be useful to also add a reminder of these pricing policies in the description box of [Payment Methods](../shopfront/payment-methods.md).  For example, you may wish to add : "Remember that the final price may vary by 10% depending on weight if you have purchased non-divisible items such as meat or large vegetables.".
+Es könnte sinnvoll sein, einen Hinweis auf diese Preispolitik in das Beschreibungsfeld der [Zahlungsarten](../shopfront/payment-methods.md) aufzunehmen. Zum Beispiel könnten Sie hinzufügen: "Beachten Sie, dass der Endpreis je nach Gewicht um 10 % variieren kann, wenn Sie nicht teilbare Artikel wie Fleisch oder großes Gemüse gekauft haben.".
