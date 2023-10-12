@@ -4,11 +4,11 @@
 
 The 'inventory' gives enterprises increased control and flexibility with their product management, if they require it. The feature will mainly be of interest to Hubs and Hub managers.
 
-By using the 'Inventory' Hub A can modify the price and stock levels of the items it has permission to retail.  The feature can also allow Hub A to make only a sub-selection of goods from its supplying producers available for sale on its shop front if they don't wish to distribute entire product ranges.  All this can be done without modifying the master copy of the products. Hence if both Hubs A and B stock the same products, then by using the inventory tool Hub A can alter price and other fundamental information about the items it sells without impacting on Hub B.
+By using the Inventory, Hub A can modify the price and stock levels of the items it has permission to retail.  The feature can also allow Hub A to make only a sub-selection of goods from its supplying producers available for sale on its shop front if they don't wish to distribute entire product ranges.  All this can be done without modifying the master copy of the products. Hence if both Hubs A and B stock the same products, then by using the inventory tool Hub A can alter price and other fundamental information about the items it sells, without impacting on Hub B.
 
 ## Profile settings for the Inventory
 
-To access the Inventory, go to Entreprises (on the blue horizontal menu) and then 'Settings'. From the menu bar on the left hand side, select 'Inventory Settings'
+To access the Inventory, go to Enterprises (on the blue horizontal menu) and then 'Settings'. From the menu bar on the left hand side, select 'Inventory Settings'
 
 ![](../../.gitbook/assets/inventory-settings.png)
 
@@ -67,14 +67,18 @@ Any changes you make here will be visible on your shop and will hence override d
 This might be handy if you receive a bulk purchase of say 50 items per month and need to keep track of their sales before the next delivery.&#x20;
 {% endhint %}
 
-* **Unlimited?** – You can select whether to inherit producer stock levels (in which case the number in the 'in stock' column will remain grey), to have unlimited stock 'yes' (hence the item will never run out and will always be available, if added to an active order cycle) or to define your own stock levels 'no' (in which case the number in the 'in stock' column will be on a white background).
+* **Unlimited?** – You can select whether to 'use producer stock settings' (in which case the number in the 'in stock' column will remain grey and producer stock levels are inherited), to have unlimited stock by selecting 'yes' (where the item will never run out and will always be available, if added to an active order cycle) or to define your own stock levels by selecting 'no' (in which case the number in the 'in stock' column will be on a white background).
 
 ![](../../.gitbook/assets/inventorystock.jpg)
+
+When 'yes' or 'no' is selected in the Unlimited column of your inventory, you will see a warning triangle in the products list to indicate that the producer's stock levels are overridden by your inventory and a pop-up saying 'This variant has 1 override(s)'.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-12 at 15.53.00 (1).png" alt=""><figcaption></figcaption></figure>
 
 Refresh yourself about 'in stock' and 'unlimited' [here](products.md#adding-products).
 
 {% hint style="warning" %}
-It is not possible to alter product name, properties, description or image.
+It is not possible to alter product name, properties, description or image in the inventory.
 {% endhint %}
 
 ### Enable Stock Reset?
