@@ -6,24 +6,24 @@
 
 ## Berichte verpacken
 
-Some enterprises use their order confirmation emails as packing sheets, or download and modify the Order Cycle Customer Totals report to suit their specific needs. The two Packing Reports offer additional options for managing the packing process.
+Einige Unternehmen verwenden ihre Auftragsbestätigungs-E-Mails als Packzettel oder laden den Bericht Auftragszyklus-Kundensummen herunter und passen ihn an ihre spezifischen Anforderungen an. Die beiden Verpackungsberichte bieten zusätzliche Optionen für die Verwaltung des Verpackungsprozesses.
 
 ### Verpackung nach Lieferant
 
-This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered.&#x20;
+In diesem Bericht sind alle Lieferanten und ihre Produkte aufgeführt. Neben jedem Produkt steht der Name des Kunden, der das Produkt bestellt hat, und die Menge, die er bestellt hat.
 
 {% hint style="success" %}
-This reports is helpful to check in items delivered by suppliers- keeping track of goods which may have been missed or are supplied damaged.
+Dieser Bericht ist hilfreich, um die von den Lieferanten gelieferten Artikel zu überprüfen - so behalten Sie den Überblick über Waren, die möglicherweise fehlen oder beschädigt geliefert wurden.
 {% endhint %}
 
 ![Pack by Supplier Report](../../.gitbook/assets/pack-by-supplier.jpg)
 
 ### Packen nach Kunde&#x20;
 
-This report lists each customer who placed an order and shows each item ordered by the customer, including the quantities of each item.&#x20;
+Dieser Bericht listet jeden Kunden auf, der eine Bestellung aufgegeben hat, und zeigt jeden Artikel, den der Kunde bestellt hat, einschließlich der Mengen der einzelnen Artikel.
 
 {% hint style="success" %}
-This report is useful for packing all of a customer's shopping in a crate/bag/box so it is ready for them to collect or for you to deliver.
+Dieser Bericht ist nützlich, um alle Einkäufe eines Kunden in eine Kiste/Tasche/Karton zu verpacken, damit sie zur Abholung bereitstehen oder von Ihnen ausgeliefert werden können.
 {% endhint %}
 
 ![Pack by Customer Report](../../.gitbook/assets/pack-by-customer.jpg)
