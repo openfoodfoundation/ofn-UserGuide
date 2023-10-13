@@ -1,63 +1,59 @@
 # Berichte bestellen
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 ## Bericht über Bestellungen und Vertriebspartner
 
 {% hint style="success" %}
-This report is a useful way to view customer orders as they are placed in more detail than on the [Order](../orders/view-orders.md) list.
+Dieser Bericht ist eine nützliche Methode, um Kundenbestellungen detaillierter als in der [Bestellliste](../orders/view-orders.md) zu betrachten.
 {% endhint %}
 
-The Data fields you can see in this report are:
+Die Datenfelder, die Sie in diesem Bericht sehen können, sind
 
-* Date & time the order was placed along with order ID
-* Shipping method (and cost), payment method, customer notes
-* Customer name, email, phone number, city (but not full address)
-* For each product within an order, there is the name of the product, variant name, quantity (and Max quantity for bulk order items), cost
-* Hub (distributor) address
+* Datum und Uhrzeit der Bestellung zusammen mit der Bestell-ID
+* Versandart (und -kosten), Zahlungsart, Kundenhinweise
+* Kundenname, E-Mail, Telefonnummer, Stadt (aber keine vollständige Adresse)
+* Für jedes Produkt innerhalb einer Bestellung gibt es den Namen des Produkts, den Variantennamen, die Menge (und die maximale Menge bei Großbestellungen), die Kosten
+* Adresse des Hub (Verteiler)
 
 ![Orders and Distributors Report](../../.gitbook/assets/orders-and-distributors.jpg)
 
 {% hint style="info" %}
-Filter by date and time to enable swift download.
+Filtern Sie nach Datum und Uhrzeit, um ein schnelles Herunterladen zu ermöglichen.
 {% endhint %}
 
 ## Berichte zu Aufträgen und Auftragsabwicklung
 
-Under the Orders and Fulfillment Reports you will find four options: Order Cycle Supplier Totals, Order Cycle Supplier Totals by Distributor, Order Cycle Distributor Totals by Supplier and Order Cycle Customer Totals.
+Unter den Berichten zu Bestellungen und Fulfillment finden Sie vier Optionen: Bestellzyklus Lieferanten- Summen, Bestellzyklus Lieferanten-Summen nach Lieferant, Bestellzyklus Lieferanten-Summen nach Lieferant und Bestellzyklus Kunden-Summen.
 
 ### Bestellzyklus Lieferanten-Summen&#x20;
 
 {% hint style="success" %}
-As a **producer who supplies one or more hubs** these three reports are a great way to keep track of orders of your products which coming in **while an order cycle is open.**&#x20;
+Als **Hersteller, der einen oder mehrere Knotenpunkte beliefert**, sind diese drei Berichte eine gute Möglichkeit, den Überblick über die Bestellungen Ihrer Produkte zu behalten, die **während eines offenen Auftragszyklus eingehen**.
 {% endhint %}
 
-Unless you are also the coordinator or distributor of the order cycle these orders will not appear in your list of [Orders](../orders/view-orders.md) but you may want to start planning your baking/picking before you receive the [supplier notification email](../shopfront/order-cycle/order-cycles-for-hubs.md#notify-producers-button) from the distributing hub.
+Wenn Sie nicht gleichzeitig der Koordinator oder Verteiler des Auftragszyklus sind, erscheinen diese Aufträge nicht in Ihrer [Auftragsliste](../orders/view-orders.md), aber Sie sollten mit der Planung Ihres Backens/Kommissionierens beginnen, bevor Sie die[ E-Mail mit der Lieferantenbenachrichtigung ](../shopfront/order-cycle/order-cycles-for-hubs.md#notify-producers-button)vom Verteilerzentrum erhalten.
 
-A summary of the data found in each report is below:
+Nachstehend finden Sie eine Zusammenfassung der in den einzelnen Berichten enthaltenen Daten:
 
-| Report            | OC Sup Tots | OC Sup Tot by Dist | OC Dist Tot by Sup |
-| ----------------- | ----------- | ------------------ | ------------------ |
-| Producer          | Y           | Y                  | Y                  |
-| Hub               | N           | Y                  | Y                  |
-| Product           | Y           | Y                  | Y                  |
-| Variant           | Y           | Y                  | Y                  |
-| Amount            | Y           | Y                  | Y                  |
-| Tot Units         | Y           | N                  | N                  |
-| Current unit Cost | Y           | Y                  | Y                  |
-| Total Cost        | Y           | Y                  | Y                  |
-| Status            | Y           | N                  | N                  |
-| Shipping Method   | Y           | Y                  | Y                  |
-| Tot shipping cost | N           | N                  | Y                  |
+| Report                  | OC Sup Tots | OC Sup Tot nach Dist | OC Dist Tot nach Sup |
+| ----------------------- | ----------- | -------------------- | -------------------- |
+| Produzent               | J           | J                    | J                    |
+| Hub                     | N           | J                    | J                    |
+| Produkt                 | J           | J                    | J                    |
+| Variante                | J           | J                    | J                    |
+| Betrag                  | J           | J                    | J                    |
+| Gesamte Einheiten       | J           | N                    | N                    |
+| Aktuelle Einheit Kosten | J           | J                    | J                    |
+| Gesamtkosten            | J           | J                    | J                    |
+| Status                  | J           | N                    | N                    |
+| Versandart              | J           | J                    | J                    |
+| Gesamtversandkosten     | N           | N                    | J                    |
 
 {% hint style="warning" %}
-Note that the Total Cost is not a simple multiple of Current cost per unit and amount. &#x20;
+Beachten Sie, dass die Gesamtkosten nicht einfach ein Vielfaches der laufenden Kosten pro Einheit und des Betrags sind.&#x20;
 
-* The current cost per unit may vary over the time frame selected. &#x20;
+* Die aktuellen Kosten pro Einheit können innerhalb des gewählten Zeitrahmens variieren.
 * The value recorded in these reports is the current cost per unit at the time of the last order.
-* The Total Cost is a sum of product costs at the time when each item was purchased.
+* Die Gesamtkosten sind die Summe der Produktkosten zu dem Zeitpunkt, zu dem die einzelnen Artikel gekauft wurden.
 {% endhint %}
 
 ![Order Cycle Supplier Totals](../../.gitbook/assets/oc-supplier-totals.jpg)
@@ -67,31 +63,31 @@ Note that the Total Cost is not a simple multiple of Current cost per unit and a
 ![Order Cycle Distributor Totals by Supplier](../../.gitbook/assets/oc-distributor-totals-by-supplier.jpg)
 
 {% hint style="success" %}
-These reports are handy for calculating the amount to reimburse a producer for items supplied
+Diese Berichte sind nützlich, um den Betrag zu berechnen, der einem Hersteller für gelieferte Artikel zu erstatten ist
 {% endhint %}
 
 ### Auftragszyklus Kundensummen
 
 {% hint style="success" %}
-Useful for:
+Nützlich für:
 
-* Fulfilling orders on a individual basis&#x20;
-* Preparing individual orders in bulk
+* Erfüllung von Aufträgen auf individueller Basis
+* Vorbereitung von Einzelaufträgen in großen Mengen
 {% endhint %}
 
-This report which contains the most data:
+Dieser Bericht enthält die meisten Daten:
 
-* Date & time the order was placed along with order ID
-* Customer name, email, phone number, billing and shipping addresses
-* For each product within an order, there is the name of the product, variant name, quantity, cost, price paid by the customer (item cost + fees), a break down of fees (Enterprise, payment method and shipping method fee associated with each product), producer
-* Hub name.
-* Payment Method and status (ie. paid, unpaid)
-* Shipping Method, Delivery or Pick up
+* Datum und Uhrzeit der Bestellung zusammen mit der Bestell-ID
+* Kundenname, E-Mail, Telefonnummer, Rechnungs- und Lieferadresse
+* Für jedes Produkt innerhalb einer Bestellung gibt es den Namen des Produkts, den Variantennamen, die Menge, den Preis, den vom Kunden gezahlten Preis (Artikelpreis + Gebühren), eine Aufschlüsselung der Gebühren (Unternehmens-, Zahlungs- und Versandartgebühren für jedes Produkt), den Hersteller
+* Name des Hub.
+* Zahlungsmethode und Status (z. B. bezahlt, unbezahlt)
+* Versandart, Lieferung oder Abholung
 
 {% hint style="info" %}
-The Shipping Address displayed for an order where the chosen shipping method is 'pick up' will be the address of the distributing hub.
+Die Versandadresse, die für eine Bestellung angezeigt wird, bei der die Versandart "Abholung" gewählt wurde, ist die Adresse des Verteilzentrums.
 {% endhint %}
 
-The screenshot below shows the information contained in an Order Cycle Customer Totals report.&#x20;
+Die folgende Abbildung zeigt die Informationen, die in einem Bericht über die Gesamtzahl der Kunden im Auftragszyklus enthalten sind.
 
 ![Order Cycle Customer Totals](../../.gitbook/assets/oc-customer-totals.jpg)
