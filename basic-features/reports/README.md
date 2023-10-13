@@ -1,78 +1,74 @@
-# Reports
+# Berichte
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
-You can access reports by clicking on **Reports** in the blue horizontal menu. &#x20;
+Sie können auf Berichte zugreifen, indem Sie im blauen horizontalen Menü auf **Berichte** klicken.
 
 ![](../../.gitbook/assets/screen-shot-2019-12-04-at-2.17.42-pm.png)
 
 Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as a CSV file by selecting the **Download as CSV** checkbox when you specify the filters for each report. \
 
 
-## All Reports
+## Alle Berichte
 
-If you have opened an [Order Cycle](../shopfront/order-cycle/), you will be able to run reports to help with managing **packing,** **processing your orders**, and meet your **financial reporting** needs.
+Wenn Sie einen [Auftragszyklus](../shopfront/order-cycle/) eröffnet haben, können Sie Berichte erstellen, die Sie bei der Verwaltung der **Verpackung, der Bearbeitung Ihrer Aufträge** und der Erstellung von **Finanzberichten** unterstützen.
 
 ![Reports available to view and download](../../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
-For most reports you are able to filter data by:
+Bei den meisten Berichten können Sie die Daten nach bestimmten Kriterien filtern:
 
-* date range
-* hub name
-* producer name
-* order cycle name
+* Datumsbereich
+* Hub-Name
+* Herstellername
+* Name des Auftragszyklus
 
 {% hint style="info" %}
-Hubs and shops who operate [continuously open order cycles](../shopfront/order-cycle/) may find using the Date filter when viewing reports useful.
+Für Hubs und Geschäfte, die [ständig offene Auftragszyklen haben](../shopfront/order-cycle/), kann die Verwendung des Datumsfilters bei der Anzeige von Berichten nützlich sein.
 {% endhint %}
 
 {% hint style="success" %}
-Filtering data by Hub and Producer name can be especially useful if you manage multiple enterprises on the platform.
+Das Filtern von Daten nach Hub- und Producer-Namen kann besonders nützlich sein, wenn Sie mehrere Unternehmen auf der Plattform verwalten.
 {% endhint %}
 
-## Reports for Suppliers&#x20;
+## Berichte für Zulieferer&#x20;
 
-If you have set [Permissions](../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) for a Hub to sell your products, and they have opened an [Order Cycle ](../shopfront/order-cycle/order-cycles-for-hubs.md)with your products listed, you will be able to run reports to pack and process your orders.&#x20;
+Wenn Sie einem Hub die [Berechtigung](../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) erteilt haben, Ihre Produkte zu verkaufen, und dieser einen [Bestellzyklus](../shopfront/order-cycle/order-cycles-for-hubs.md) mit Ihren Produkten geöffnet hat, können Sie Berichte zum Verpacken und Bearbeiten Ihrer Bestellungen ausführen.
 
 {% hint style="success" %}
-If you need to see Customer names in these reports, you can ask the Hub to make them visible in these reports.&#x20;
+Wenn Sie die Kundennamen in diesen Berichten sehen möchten, können Sie den Hub bitten, sie in diesen Berichten sichtbar zu machen.&#x20;
 {% endhint %}
 
-Hubs can make this change in their [Enterprise Settings](../enterprise-profile/enterprise-settings.md).
+Hubs können diese Änderung in ihren [Unternehmenseinstellungen](../enterprise-profile/enterprise-settings.md) vornehmen.
 
 {% hint style="info" %}
-HINTS:&#x20;
+HINWEISE:&#x20;
 
-1. If you are a producer who supplies more than one food hub you can use the 'Hub' filter when viewing reports to identify which products you will be asked to deliver to each.
-2. As a supplying producer you may not know the names of current open order cycles.  Filtering orders in your reports by date range is an easy alternative.
+1. Wenn Sie als Produzent mehr als ein Lebensmittelzentrum beliefern, können Sie bei der Anzeige der Berichte den Filter "Zentrum" verwenden, um festzustellen, welche Produkte Sie an jedes Zentrum liefern müssen.
+2. Als liefernder Produzent kennen Sie vielleicht nicht die Namen der aktuell offenen Auftragszyklen. Das Filtern von Aufträgen in Ihren Berichten nach Datumsbereich ist eine einfache Alternative.
 {% endhint %}
 
-## Some Helpful Reports
+## Einige hilfreiche Berichte
 
-| Task                                                                                                               | Suggested Report(s)                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Product availability                                                                                               | [Order Cycle Supplier Totals](order-reports.md#order-cycle-supplier-totals)                                                                                                               |
-| Reviewing products stocked                                                                                         | <p><a href="reports-for-hub-management.md#product-management">All Products</a></p><p><a href="reports-for-hub-management.md#product-management">Inventory</a></p>                         |
-| Reimbursing suppliers                                                                                              | [Order Cycle Supplier Totals](order-reports.md#order-cycle-supplier-totals)                                                                                                               |
-| <p>Pack or process orders on an <br>individual or batch basis</p>                                                  | [Order Cycle Customer Totals](order-reports.md#order-cycle-customer-totals)                                                                                                               |
-| <p>Checking in products delivered</p><p>by suppliers</p>                                                           | [Pack by supplier](packing-reports.md#pack-by-supplier)                                                                                                                                   |
-| <p>Packing goods to be </p><p>collected by customer</p>                                                            | [Pack by customer](packing-reports.md#pack-by-customer)                                                                                                                                   |
-| Planning deliveries                                                                                                | <p><a href="reports-for-hub-management.md#addresses">Address List</a></p><p><a href="reports-for-hub-management.md#order-cycle-management">Delivery Report</a></p>                        |
-| View customer balance                                                                                              | <p><a href="reports-for-hub-management.md#order-cycle-management">Payment method &#x26;</a></p><p><a href="reports-for-hub-management.md#order-cycle-management">Delivery Reports</a></p> |
-| Integrating with [MailChimp](../../complementary-tools-software/communication.md#integrating-mailchimp-with-ofn)\* | [Mailing List](reports-for-hub-management.md#mailing-list)                                                                                                                                |
-| Calculating GST/VAT                                                                                                | [Sales Tax reports](payment-and-tax-reports.md#sales-tax)                                                                                                                                 |
-| Managing total revenue                                                                                             | [Payment Reports](payment-and-tax-reports.md#payment-reports)                                                                                                                             |
-| Enterprise Fee breakdown                                                                                           | [Enterprise Fee Report](reports-for-hub-management.md#enterprise-fees)                                                                                                                    |
-| Integrating with Xero                                                                                              | [Xero Invoices](payment-and-tax-reports.md#xero-invoices)                                                                                                                                 |
-| <p>Bulk Order Management </p><p>for buying groups</p>                                                              | [Bulk Coop Reports](reports-for-bulk-order-management.md)                                                                                                                                 |
+| Task                                                                                                              | Vorgeschlagene(r) Bericht(e)                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Verfügbarkeit der Produkte                                                                                        | [Bestellzyklus Lieferanten-Summen](order-reports.md#bestellzyklus-lieferanten-summen)                                                                                                     |
+| Überprüfung der gelagerten Produkte                                                                               | <p><a href="reports-for-hub-management.md#product-management">All Products</a></p><p><a href="reports-for-hub-management.md#product-management">Inventory</a></p>                         |
+| Erstattung der Kosten für Lieferanten                                                                             | [Order Cycle Supplier Totals](order-reports.md#order-cycle-supplier-totals)                                                                                                               |
+| Verpacken oder Bearbeiten von Aufträgen auf Einzel- oder Stapelverarbeitung                                       | [Order Cycle Customer Totals](order-reports.md#order-cycle-customer-totals)                                                                                                               |
+| Einchecken der gelieferten Produkte von Lieferanten                                                               | [Pack by supplier](packing-reports.md#pack-by-supplier)                                                                                                                                   |
+| Verpacken von Waren zur Abholung durch den Kunden                                                                 | [Pack by customer](packing-reports.md#pack-by-customer)                                                                                                                                   |
+| Planung von Lieferungen                                                                                           | <p><a href="reports-for-hub-management.md#addresses">Address List</a></p><p><a href="reports-for-hub-management.md#order-cycle-management">Delivery Report</a></p>                        |
+| Kundenguthaben anzeigen                                                                                           | <p><a href="reports-for-hub-management.md#order-cycle-management">Payment method &#x26;</a></p><p><a href="reports-for-hub-management.md#order-cycle-management">Delivery Reports</a></p> |
+| Integration mit [MailChimp](../../complementary-tools-software/communication.md#integrating-mailchimp-with-ofn)\* | [Mailing List](reports-for-hub-management.md#mailing-list)                                                                                                                                |
+| Berechnung der GST/VAT                                                                                            | [Sales Tax reports](payment-and-tax-reports.md#sales-tax)                                                                                                                                 |
+| Verwaltung der Gesamteinnahmen                                                                                    | [Payment Reports](payment-and-tax-reports.md#payment-reports)                                                                                                                             |
+| Aufschlüsselung der Unternehmensgebühren                                                                          | [Enterprise Fee Report](reports-for-hub-management.md#enterprise-fees)                                                                                                                    |
+| Integration mit Xero                                                                                              | [Xero Invoices](payment-and-tax-reports.md#xero-invoices)                                                                                                                                 |
+| Verwaltung von Großaufträgen für Einkaufsgemeinschaften                                                           | [Bulk Coop Reports](reports-for-bulk-order-management.md)                                                                                                                                 |
 
-\*Remember you will need to satisfy data protection legislation to use customer email and addresses data for a newsletter
+\*Denken Sie daran, dass Sie die Datenschutzgesetze einhalten müssen, wenn Sie E-Mail- und Adressdaten von Kunden für einen Newsletter verwenden wollen.
 
-## Data
+## Daten
 
-A summary of the data included in each report can be found in the following document:
+Eine Zusammenfassung der in den einzelnen Berichten enthaltenen Daten ist im folgenden Dokument zu finden:
 
 {% file src="../../.gitbook/assets/listing-of-all-the-reports-and-their-columns-listing-of-all-the-reports-and-their-columns.pdf" %}
 

@@ -1,7 +1,7 @@
 # Newsletters & Promotional Emails
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 A good way of keeping in touch with customers and potential customers is to set up a mailing list and periodically send out newsletters or information about product updates by email. For example, you may wish to send:
@@ -17,14 +17,14 @@ Be sure to follow local legal guidelines when storing and processing customer co
 
 ## Integrating MailChimp with OFN
 
-It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list. 
+It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list.&#x20;
 
 If you would like us to help you facilitate this automatic link between your OFN and MailChimp accounts please contact your local support team.
 
 ## Sending a weekly email to customers via MailChimp
 
 {% hint style="info" %}
-A regular email to customers to remind them your next order cycle has just open \(or is about to close\) can be an effective reminder for them to place an order!
+A regular email to customers to remind them your next order cycle has just open (or is about to close) can be an effective reminder for them to place an order!
 {% endhint %}
 
 This is a slight hack of the [standard MailChimp advice](https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/) for sending automated, regular emails.
@@ -34,11 +34,12 @@ This is a slight hack of the [standard MailChimp advice](https://mailchimp.com/h
 
 ![](../.gitbook/assets/mailchimp1.png)
 
-* You will be directed to add RSS feed and timing for your email updates to customers.  Select one of the following feeds: [https://www.lemonde.fr/rss/une.xml](https://www.lemonde.fr/rss/une.xml) [http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) [https://www.theatlantic.com/feed/all/](https://www.theatlantic.com/feed/all/) [https://www.politico.com/rss/politicopicks.xml](https://www.politico.com/rss/politicopicks.xml) The exact URL entered doesn't matter- the fact that these RSS feeds post every day means that you can use it to trigger a regular email to your customers.
+* You will be directed to add RSS feed and timing for your email updates to customers.  Select one of the following feeds:\
+  [https://www.lemonde.fr/rss/une.xml](https://www.lemonde.fr/rss/une.xml) [http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) [https://www.theatlantic.com/feed/all/](https://www.theatlantic.com/feed/all/) [https://www.politico.com/rss/politicopicks.xml](https://www.politico.com/rss/politicopicks.xml)\
+  The exact URL entered doesn't matter- the fact that these RSS feeds post every day means that you can use it to trigger a regular email to your customers.
 
-![](../.gitbook/assets/mailchimp2%20%281%29.png)
+![](<../.gitbook/assets/mailchimp2 (1).png>)
 
 * Then choose when you want the email to be sent.  If your order cycle opens every Monday at noon you may enter to use these days and times.  Select **Next** to move on.
-* Choose whether you would like the email to go to your entire audience \(all of your mailing list\) or just a segment of it \(specific customers who you may have sub-grouped\).
+* Choose whether you would like the email to go to your entire audience (all of your mailing list) or just a segment of it (specific customers who you may have sub-grouped).
 * From this point onwards, add details as you would normally in a MailChimp email or campaign.
-
