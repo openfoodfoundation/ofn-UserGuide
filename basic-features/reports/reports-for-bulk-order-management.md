@@ -1,40 +1,38 @@
 # Berichte für die Verwaltung von Großaufträgen
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Die im Bereich Bulk Coop verfügbaren Berichte sind ideal für Unternehmen auf der OFN-Plattform, z. B. Einkaufsgemeinschaften, die die [Funktion Group Buy](../products-1/group-buy-for-bulk-ordering.md) nutzen.
 
-The reports available in the Bulk Coop section are ideal for enterprises on the OFN platform, such as buying groups, who use the [Group Buy feature](../products-1/group-buy-for-bulk-ordering.md).
+Es gibt vier Berichte in diesem Abschnitt sind:
 
-There are four reports in this section are:
-
-|                 | Use                                                                                                                                                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Supplier Report | <p>List products by supplier.</p><p>A good place to look to see if</p><p>enough of a product has been </p><p>ordered to justify the supplier's<br>bulk size.</p>                                                               |
-| Allocation      | <p>Lists products by customer.</p><p>A good place to look to </p><p>ensure you over / under</p><p>allocate bulk buy items to</p><p>customers evenly (ie. one </p><p>person is not short on all</p><p>items in their order)</p> |
-| Packing Sheet   | <p>Re-packing products delivered <br>a supplier in bulk for customer </p><p>collection</p>                                                                                                                                     |
-| Customer totals | <p>Documents refunds to/extra</p><p>payment required by customer</p><p>after adjusting stock levels</p><p>to make up a bulk order</p>                                                                                          |
+|                    | Verwenden Sie                                                                                                                                                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lieferantenbericht | Produkte nach Anbieter auflisten. Ein guter Ort, um zu sehen, ob genug von einem Produkt bestellt wurde bestellt wurde, um die Größe des Lieferanten zu rechtfertigen Größe zu rechtfertigen.                                                      |
+| Zuteilung          | Listet die Produkte nach Kunden auf. Ein guter Ort, um zu prüfen sicherzustellen, dass Sie über/unter Artikel des Großeinkaufs den Kunden Kunden gleichmäßig verteilen (d.h. eine Person hat nicht zu wenig von allen Artikel in ihrer Bestellung) |
+| Packungsbeilage    | Umpacken der gelieferten Produkte einem Lieferanten in loser Schüttung für den Kunden Abholung                                                                                                                                                     |
+| Summen der Kunden  | Dokumente Erstattungen an/zusätzliche vom Kunden geforderte Zahlung nach Anpassung der Lagerbestände zur Zusammenstellung einer Großbestellung                                                                                                     |
 
 ## Daten
 
-The data in each report is as follows:
+Die Daten in jedem Bericht sind wie folgt:
 
-|                                                   | Supplier Report | Allocation | Packing | <p>Customer</p><p>Totals</p> |
-| ------------------------------------------------- | --------------- | ---------- | ------- | ---------------------------- |
-| Customer                                          | N               | Y          | Y       | Y                            |
-| Supplier                                          | Y               | N          | N       | N                            |
-| Product name                                      | Y               | Y          | Y       | N                            |
-| Variant details                                   | Y               | Y          | Y       | N                            |
-| Bulk unit                                         | Y               | Y          | N       | N                            |
-| Quantity Purchased                                | Y               | Y          | Y       | N                            |
-| Units required                                    | Y               | Y          | N       | N                            |
-| Unallocated                                       | Y               | Y          | N       | N                            |
-| Max excess quantity                               | Y               | Y          | N       | N                            |
-| Date of order                                     | N               | N          | N       | Y                            |
-| <p>Amount paid, owing</p><p>&#x26; total cost</p> | N               | N          | N       | Y                            |
+|                                               | Lieferantenbericht | Zuteilung | Verpacken | Kunde Summen |
+| --------------------------------------------- | ------------------ | --------- | --------- | ------------ |
+| Kunde                                         | N                  | J         | J         | J            |
+| Anbieter                                      | J                  | N         | N         | N            |
+| Name des Produkts                             | J                  | J         | J         | N            |
+| Details zur Variante                          | J                  | J         | J         | N            |
+| Schüttguteinheit                              | J                  | J         | N         | N            |
+| Gekaufte Menge                                | J                  | J         | J         | N            |
+| Erforderliche Einheiten                       | J                  | J         | N         | N            |
+| Nicht zugewiesene                             | J                  | J         | N         | N            |
+| Maximale Überschussmenge                      | J                  | J         | N         | N            |
+| Date of order                                 | N                  | N         | N         | J            |
+| Gezahlter, geschuldeter Betrag & Gesamtkosten | N                  | N         | N         | J            |
+
+
 
 {% hint style="warning" %}
-Products stocked by a hub which do not have bulk buy enabled will display with Bulk Unit = 0
+Produkte, die von einem Hub gelagert werden und bei denen der Großeinkauf nicht aktiviert ist, werden mit Bulk Unit = 0 angezeigt.
 {% endhint %}
 
 ![Bulk Coop Supplier Report](../../.gitbook/assets/bulksuppliertot.jpg)
@@ -47,22 +45,22 @@ Products stocked by a hub which do not have bulk buy enabled will display with B
 
 ## Beispiel: Bulk Co-op Suppliers Bericht
 
-This report will show the following information:
+Dieser Bericht enthält die folgenden Informationen:
 
-* Did customers order enough of a product to justify ordering the bulk size from the supplier?
-* How much extra product are customers willing to purchase to help the group reach the bulk size threshold (if [Group Buy](../products-1/group-buy-for-bulk-ordering.md#enabling-group-buy-for-a-product) is enabled)
-* How many bulk sizes are required to meet customer demand?
-* If the bulk size is ordered, how much stock will be left over.
-* How many customers will be disappointed if this product isn’t ordered?
+* Haben die Kunden genug von einem Produkt bestellt, um die Bestellung der Großpackung beim Lieferanten zu rechtfertigen?
+* Wie viele zusätzliche Produkte sind die Kunden bereit zu kaufen, damit die Gruppe die Mengenschwelle erreicht (wenn [Gruppenkauf](../products-1/group-buy-for-bulk-ordering.md#aktivieren-des-gruppenkaufs-fuer-ein-produkt) aktiviert ist)
+* Wie viele Bulk-Größen werden benötigt, um die Kundennachfrage zu befriedigen?
+* Wenn die Großpackung bestellt wird, wie viel Bestand bleibt dann noch übrig?
+* Wie viele Kunden werden enttäuscht sein, wenn dieses Produkt nicht bestellt wird?
 
-See the example below for an illustration of how the Bulk Co-op Totals by Supplier report can be used:
+Das nachstehende Beispiel veranschaulicht, wie der Bericht "Bulk Co-op Totals by Supplier" verwendet werden kann:
 
-Example 1: Where the bulk ordering quantity has been reached:
+Beispiel 1: Wenn die Großbestellmenge erreicht ist:
 
 ![Radishes](../../.gitbook/assets/radishess.png)
 
-Example 2: where the bulk order quantity has not been reached:
+Beispiel 2: Die Menge der Großbestellung ist noch nicht erreicht:
 
 ![Bok Choy](../../.gitbook/assets/bok-choy.png)
 
-* _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._
+* Beachten Sie, dass der Bericht "Co-op-Großzuteilungen" eine ähnliche Funktion wie dieser Bericht hat, aber die Bestellungen jedes einzelnen Kunden anzeigt und nicht die kumulierte Summe aller Kunden.
