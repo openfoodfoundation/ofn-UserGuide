@@ -41,7 +41,7 @@
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)
     * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
   * [Bestellungen](basic-features/orders/README.md)
-    * [View Orders](basic-features/orders/view-orders.md)
+    * [Aufträge verwalten](basic-features/orders/view-orders.md)
     * [Create orders manually](basic-features/orders/create-orders-manually.md)
     * [Refunds and Adjusting Payments](basic-features/orders/refunds-and-adjusting-payments.md)
     * [Thermally printed receipts](basic-features/orders/thermally-printed-receipts.md)
