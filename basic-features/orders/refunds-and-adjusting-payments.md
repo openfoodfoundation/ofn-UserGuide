@@ -1,234 +1,230 @@
-# Refunds and Adjusting Payments
+# Erstattungen und Anpassung der Zahlungen
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
-{% endhint %}
+Von Zeit zu Zeit kann ein Kunde verlangen, dass seine Bestellung angepasst wird, z. B. durch Hinzufügen oder Entfernen eines Artikels.
 
-From time to time, a customer may request that their order is adjusted, either to remove or add items. 
+In anderen Fällen kann es vorkommen, dass Sie als Geschäftsleiter einen Auftrag ändern müssen. Häufige Szenarien sind:
 
-On other occasions you, as a business manager, may need to change an order. Common scenarios include:
+1. Ein Produkt wurde von einem Lieferanten nicht geliefert
+2. Ein Produkt war von geringerer Qualität als erwartet
+3. Eine Bestellung enthält Produkte mit variablem Gewicht, wie z. B. [Fleisch oder große Gemüsesorten](../products-1/pricing-irregular-items-kg.md#option-eins-festsetzung-eines-durchschnittsgewichts-preises-und-erstattung) (d. h. ganze Artikel mit Preisangaben nach Gewicht).
 
-1. A product was not delivered by a supplier
-2. A product was of lower quality than expected
-3. An order contains products with variable weights such as [meat or large vegetables](../products-1/pricing-irregular-items-kg.md#option-one-set-an-average-weight-price-and-reimburse) \(ie. whole items priced by weight\).
-
-The process of issuing a refund or requesting further payment depends on the [payment method](../shopfront/payment-methods.md) employed.  
+Das Verfahren für die Rückerstattung oder die Aufforderung zur weiteren Zahlung hängt von der verwendeten [Zahlungsmethode](../shopfront/payment-methods.md) ab.
 
 {% hint style="warning" %}
-On the OFN platform, refunds and additional payments can only be taken **automatically** using the [Payment Method](../shopfront/payment-methods.md) Provider **Stripe/Stripe SCA**.
+Auf der OFN-Plattform können Rückerstattungen und zusätzliche Zahlungen nur automatisch über den Zahlungsmittelanbieter Stripe/Stripe SCA erfolgen.
 {% endhint %}
 
-## Refunds
+## Erstattungen
 
-Using the OFN Platform, you can either process a Total refund, or make an adjustment to the order to change the balance owing, and then process a Partial refund.
+Über die OFN-Plattform können Sie eine Gesamterstattung vornehmen, bei der der gesamte Betrag der Bestellung erstattet wird, oder eine Teilerstattung, die Sie z. B. verwenden können, wenn ein Artikel nicht verfügbar war.
 
 {% hint style="warning" %}
- If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
+Wenn Sie Stripe als Zahlungsmethode integriert haben, können Sie sich in Ihr Stripe-Konto einloggen und dem Kunden über Stripe eine Rechnung ausstellen. Der Kunde erhält eine E- Mail, in der er aufgefordert wird, mit einer Kredit- oder Debitkarte zu zahlen. Beachten Sie jedoch, dass OFN nicht über diese Transaktion benachrichtigt wird und Sie die Zahlung weiterhin manuell in OFN erfassen müssen.
 {% endhint %}
 
-### Total Refund
+### Erstattung insgesamt
 
-To issue a refund, select the relevant payment method from the tabs below:
+Um eine vollständige Rückerstattung vorzunehmen, wählen Sie die entsprechende Zahlungsmethode aus den nachstehenden Registerkarten aus:
 
 {% tabs %}
-{% tab title="Cash/BACS" %}
-For non-automated payment methods \(such as cash on collection or BACS\), there are two scenarios:
+{% tab title="Bargeld/BACS" %}
+Für nicht automatisierte Zahlungsmethoden (wie Barzahlung bei Abholung oder BACS) gibt es zwei Szenarien:
 
-  
-**The customer has not yet paid for the item.**  
-If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as:
+\
+**Der Kunde hat den Artikel noch nicht bezahlt.**\
+Wenn ein Kunde eine Bestellung aufgibt und eine Zahlungsmethode wie Barzahlung bei Abholung oder BACS auswählt und die Zahlung nicht im System erfasst wurde, wird dies angezeigt:
 
-![](https://lh6.googleusercontent.com/9lIYAkArDP1yllI88_N00rOQYiQqu9KG-piADA0hJtUvelv1NZAPNOx0Q9Ph3a6yu1gal9zUuFgJox0xiRC4RM4UlwmcfCdspcSlG9w_m23a8Cv_SnWI8yfgNIBnfClRx3MJ7Ru0)
+![](https://lh6.googleusercontent.com/9lIYAkArDP1yllI88\_N00rOQYiQqu9KG-piADA0hJtUvelv1NZAPNOx0Q9Ph3a6yu1gal9zUuFgJox0xiRC4RM4UlwmcfCdspcSlG9w\_m23a8Cv\_SnWI8yfgNIBnfClRx3MJ7Ru0)
 
-You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following steps below.
+Sie können die [Bestellung sofort stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled), indem Sie die folgenden Schritte ausführen.
 
-**The customer has paid for the item.**
+**Der Kunde hat den Artikel bezahlt.**
 
-When [viewing orders](view-orders.md#listing-orders) the order appears as:
+Wenn [Anzeigen von Bestellungen](view-orders.md#auflistung-der-auftraege) erscheint die Bestellung als:
 
-![](https://lh5.googleusercontent.com/7Uorian_j1n-fPDTQQSeSiHr1tcDQczsaCb_WSxIKRt1PRp1S3l4bKhaFA6WfMaiEsGgN0Qx5OdLfi_lBK9yz1r5-Oh0AcZKkM0MfrbfOzQCpejuQLWvAMRNFCom9-r-S2ZfqMjt)
+![](https://lh5.googleusercontent.com/7Uorian\_j1n-fPDTQQSeSiHr1tcDQczsaCb\_WSxIKRt1PRp1S3l4bKhaFA6WfMaiEsGgN0Qx5OdLfi\_lBK9yz1r5-Oh0AcZKkM0MfrbfOzQCpejuQLWvAMRNFCom9-r-S2ZfqMjt)
 
-1. Arrange for the customer to be reimbursed independently of the OFN platform.  
-2. Record this action by [**Orders -&gt; Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu.   Select the ‘X’ to the right hand side of the payment to void it.
+1. Veranlassen Sie, dass dem Kunden die Kosten unabhängig von der OFN-Plattform erstattet werden.
+2. Record this action by [**Orders -> Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu. &#x20;
+3. Erfassen Sie diese Aktion über [Aufträge -> Bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie im rechten Menü die Registerkarte "Zahlungen".\
+   Wählen Sie das "X" rechts neben der Zahlung, um sie zu stornieren.
 
-![Before marking the payment as void.](https://lh6.googleusercontent.com/1mhZhKoPtqPZVZIDz_VV4-8uBy5BefLVo9SftwfecciD7sJCGZhwgEWb-PeYAPI01w3AOZ0x_d7oWpMTQpLBqv201qb8VtmFjB1SaK0nChsy7knCt_EVQwlaioEPTtBZSUQLuLQa)
+![bevor Sie die Zahlung als ungültig markieren.](https://lh6.googleusercontent.com/1mhZhKoPtqPZVZIDz\_VV4-8uBy5BefLVo9SftwfecciD7sJCGZhwgEWb-PeYAPI01w3AOZ0x\_d7oWpMTQpLBqv201qb8VtmFjB1SaK0nChsy7knCt\_EVQwlaioEPTtBZSUQLuLQa)
 
-![After marking the payment as void.](https://lh6.googleusercontent.com/ui2lGGDHK7Pp6KZQ34UHg4KERF9eGDgQKHg3YIr20B8J0oyObiCVic5hOuvpR5HOK16dvvR8aCx70LYnPE-kKN2AKBfPkz3nXvhAM17oYgdPLmDhJiApl7-w_vfDKog2p8iFAKcY)
+![Nach der Kennzeichnung der Zahlung als ungültig.](https://lh6.googleusercontent.com/ui2lGGDHK7Pp6KZQ34UHg4KERF9eGDgQKHg3YIr20B8J0oyObiCVic5hOuvpR5HOK16dvvR8aCx70LYnPE-kKN2AKBfPkz3nXvhAM17oYgdPLmDhJiApl7-w\_vfDKog2p8iFAKcY)
 
-Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) using the steps below.
+[Markieren Sie dann die Bestellung als "storniert",](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) indem Sie die folgenden Schritte ausführen.
 {% endtab %}
 
 {% tab title="Stripe" %}
-Order payment is collected automatically on creation \(except for [subscriptions](../subscriptions/)\) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Die Zahlung für die Bestellung wird automatisch bei der Erstellung eingezogen (außer bei [Abonnements](../subscriptions/)), so dass die Bestellung in der [Liste der Bestellungen](view-orders.md#auflistung-der-auftraege) als solche erscheint:
 
-![](https://lh6.googleusercontent.com/9_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
+![](https://lh6.googleusercontent.com/9\_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
 
-Visit [**Orders -&gt; Edit**](view-orders.md#editing-an-order) and select ‘Payments’ from the right hand menu.   
-Click on the ‘**X**’ to the right of the payment to void it. 
+Gehen Sie zu [**Bestellungen -> Bearbeiten**](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie im rechten Menü "Zahlungen". Klicken Sie auf das "**X**" rechts neben der Zahlung, um sie zu stornieren.
 
 ![](../../.gitbook/assets/stripetotal.jpg)
 
-This will automatically send the payment back to the credit or debit card used by the customer.
+Dadurch wird die Zahlung automatisch an die vom Kunden verwendete Kredit- oder Debitkarte zurücküberwiesen.
 
 {% hint style="info" %}
-Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
+Beachten Sie, dass es 3 bis 5 Arbeitstage dauern kann, bis Stripe-Zahlungen auf dem Kontoauszug eines Kunden erscheinen.
 {% endhint %}
 
-Once you have issued a refund, follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled). 
+Wenn Sie eine Rückerstattung vorgenommen haben, gehen Sie wie folgt vor, um die [Bestellung zu stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
 {% endtab %}
 
 {% tab title="PayPal" %}
-Payment is collected automatically on checkout from the customer and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Die Zahlung wird automatisch an der Kasse vom Kunden eingezogen, so dass die [Bestellung in der Auflistung](view-orders.md#auflistung-der-auftraege) Aufträge als angezeigt wird:
 
-![](https://lh6.googleusercontent.com/9_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
+![](https://lh6.googleusercontent.com/9\_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
 
 {% hint style="danger" %}
-**Orders placed and paid for via PayPal can not be refunded through the OFN platform.**
+**Bestellungen, die über PayPal aufgegeben und bezahlt wurden, können nicht über die OFN-Plattform erstattet werden.**
 {% endhint %}
 
 ![](../../.gitbook/assets/pp.jpg)
 
-To refund the customer you will need to log into your [PayPal account](https://www.paypal.com/uk/home) and issue the money back to the customer’s account through their interface.
+Um dem Kunden das Geld zurückzuerstatten, müssen Sie sich in Ihr [PayPal-Konto ](https://www.paypal.com/)einloggen und das Geld über die Schnittstelle auf das Konto des Kunden zurücküberweisen.
 
-Once this has been done, you can [mark the order as cancelled](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) using the steps below.
+Danach können Sie die Bestellung mit den folgenden Schritten als [storniert markieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
 {% endtab %}
 {% endtabs %}
 
-#### Marking an order as cancelled
+#### Einen Auftrag als storniert markieren
 
-Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ \(top right hand blue button\)
+Sobald Sie eine Erstattung vorgenommen haben, können Sie die Bestellung stornieren.[ Bearbeiten Sie die Bestellung](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie "Bestellung stornieren" unter "Aktionen" (blaue Schaltfläche oben rechts)
 
-![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk_iLVrBwt9metOp_RqXmSKL8dRCxFtj6VqTEDjx7z_NHERFNJPw-CdOlNGGmBYp)
+![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk\_iLVrBwt9metOp\_RqXmSKL8dRCxFtj6VqTEDjx7z\_NHERFNJPw-CdOlNGGmBYp)
 
 {% hint style="success" %}
-The customer will receive an email to state that their order has been cancelled.
+Der Kunde erhält eine E-Mail, in der er darüber informiert wird, dass seine Bestellung storniert wurde.
 {% endhint %}
 
 {% hint style="danger" %}
-Note you can not cancel an order which has been marked as ‘Shipped’
+Beachten Sie, dass Sie eine Bestellung, die als 'Versendet' markiert wurde, nicht stornieren können.
 {% endhint %}
 
-### Partial Refund
+### Teilweise Erstattung
 
-To issue a partial refund, you first need to edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can either remove an item, or make an adjustment \(eg. to fees\):
+Um eine Teilerstattung auszustellen, müssen Sie zunächst die Bestellung bearbeiten, um den geschuldeten Betrag zu ändern. Es gibt zwei Möglichkeiten, [eine Bestellung zu bearbeiten](view-orders.md#einen-auftrag-bearbeiten), wenn Sie eine Teilerstattung vornehmen möchten. Sie können die Artikelmengen anpassen oder eine Anpassung vornehmen:
 
-**1.Edit by Removing an item which is not in stock or changing the quantity of an item** by going to[ Orders -&gt; edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon to the right of the item in question, as shown below:
+**1.Bearbeiten, indem Sie einen Artikel**, der nicht vorrätig ist, entfernen oder die Menge eines Artikels ändern, indem Sie zu [Bestellungen -> Bestellung bearbeiten](view-orders.md#hinzufuegen-und-entfernen-von-produkten-aus-einer-bestellung) gehen und auf das Symbol "Bearbeiten" rechts neben dem betreffenden Artikel klicken, wie unten dargestellt:
 
-![](https://lh3.googleusercontent.com/j2D8s2OgT-b37OoQHBIitKnWXP6nQ4kDv-EoR4uuFAAjUyulllo0thorXy0UkABcLpXgmunQNeDzNk2buHsOv-B7qt7ZdpH2JNoBW-b5cHDQKn6d1zct_wiRuhTXOJ91gGPm1zYQ)
-
-Select ‘Update and Recalculate Fees’ at the bottom of the page.
+Wählen Sie unten auf der Seite "Gebühren aktualisieren und neu berechnen".
 
 {% hint style="danger" %}
-If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
+Wenn das [Produkt](../products-1/) vom Lieferanten aus seiner Hauptproduktliste gelöscht wurde, ist es nicht möglich, diese Seite zu bearbeiten. Verwenden Sie in diesem Fall die unten stehende Methode "Anpassungen".
 {% endhint %}
 
-**2. Edit by Changing the Fees** in the [order](view-orders.md#modify-an-order) by visiting **Orders -&gt; Edit -&gt; Adjustments** from the right hand menu.
+**2. Ändern Sie die Gebühren** in der [Bestellung](view-orders.md#einen-auftrag-bearbeiten), indem Sie im Menü auf der rechten Seite Bestellungen -> Bearbeiten -> Anpassungen aufrufen.
 
-![](https://lh3.googleusercontent.com/qu1o7_GwVwvozkH-aSaxH7Pg9ZJ9mcd-jXM0VrNmUTGyMeOfKmdhf8WPa66FjVayQEryr1Bkv4Q_2UfVSlhSCDvvQcSaZ-ARj-gJG01cWPTRh4ktAMy1ofk4gyUiWQ4ZoK2OfkjB)
+![](https://lh3.googleusercontent.com/qu1o7\_GwVwvozkH-aSaxH7Pg9ZJ9mcd-jXM0VrNmUTGyMeOfKmdhf8WPa66FjVayQEryr1Bkv4Q\_2UfVSlhSCDvvQcSaZ-ARj-gJG01cWPTRh4ktAMy1ofk4gyUiWQ4ZoK2OfkjB)
 
-This will bring up a list of enterprise fees for each item in the order as well as shipping and payment method fees. You can adjust one of these fees by clicking on the ‘edit’ icon to the right of the item in question.  
+Daraufhin wird eine Liste der Unternehmensgebühren für jeden Artikel in der Bestellung sowie der Gebühren für Versand und Zahlungsmethode angezeigt. Sie können eine dieser Gebühren anpassen, indem Sie auf das Symbol "Bearbeiten" rechts neben dem betreffenden Artikel klicken.\
 
 
-**3. Edit by adding a new Adjustment** to the ****[**order**](view-orders.md#modify-an-order) ****by visiting **Orders -&gt; Edit -&gt; Adjustments** from the right hand menu and selecting **+New Adjustment** \(the top right hand button\) to make a separate adjustment that is unrelated to fees.
+**3. Bearbeiten Sie den Auftrag**, indem Sie eine neue Anpassung hinzufügen, indem Sie im rechten Menü **Aufträge -> Bearbeiten -> Anpassungen** aufrufen und **+Neue Anpassung** (die Schaltfläche oben rechts) wählen, um eine separate Anpassung vorzunehmen, die nichts mit den Gebühren zu tun hat.
 
-![](https://lh4.googleusercontent.com/EthxGvVJ3p4skPNpKYy4ivNt3e6xe3pJb4qtgfe_3Z3ESM3WxnkRXrGaXvKZIbKnJoNJ5lI-kn8J_sEe1Lwn-3VOiiSYtQ2OUcVu7LlKSVrjgoFo9UWyeBitqKXRFB1_5ccyuQdB)
+Fügen Sie die relevanten Details hinzu und denken Sie daran, dass der Wert für **eine Erstattung** eine **negative Zahl** sein muss. Wenn Sie fertig sind, klicken Sie auf "Weiter".
 
-Add the relevant details, remembering that for **a refund**,  the value needs to be a **negative number**. When finished, click ‘continue’.
-
-![](https://lh3.googleusercontent.com/RfvWyS1G6v7NVNIDGWTlpfK9hfZj7Vy5_Q6NxlEEyWYtAnebNEphT8XTCSPGvC2EaIGrxioqhcGfaBOIpgqjhjqtSiCwCMKcd4BLFV9M2YIWQ32XkpkAqz_fV-8GWI7CpkLteRpl)
+![](https://lh3.googleusercontent.com/RfvWyS1G6v7NVNIDGWTlpfK9hfZj7Vy5\_Q6NxlEEyWYtAnebNEphT8XTCSPGvC2EaIGrxioqhcGfaBOIpgqjhjqtSiCwCMKcd4BLFV9M2YIWQ32XkpkAqz\_fV-8GWI7CpkLteRpl)
 
 {% hint style="success" %}
-You can use ‘Adjustments’ to partially refund a customer for a substandard product.
+Sie können "Anpassungen" verwenden, um einem Kunden einen Teil der Kosten für ein minderwertiges Produkt zu erstatten.
 {% endhint %}
 
-Once the order has been amended to reflect either the missing / adjusted products, the adjusted fees, or the new adjustment, the order will appear with the payment state of ‘Credit Owing’ for the amount they no longer need to pay.
+Sobald die Bestellung geändert wurde, um entweder die fehlenden/angepassten Produkte oder die neue Anpassung zu berücksichtigen, erscheint die Bestellung mit dem Zahlungsstatus "Guthaben" für den Betrag, den der Kunde nicht mehr zahlen muss.
 
-**Process the Partial Refund**  
-To process a partial refund of the amount that is now owing on the order, see instructions by choosing the payment method from the following tabs:
+**Bearbeiten Sie die Teilerstattung**\
+Wenn Sie eine Teilerstattung des geschuldeten Betrags vornehmen möchten, lesen Sie die Anweisungen, indem Sie die Zahlungsmethode auf den folgenden Registerkarten auswählen:
 
 {% tabs %}
-{% tab title="Cash/BACS" %}
-1. Arrange for the refund to be made to the customer independently of the platform.  
-2. Record this action by **Orders -&gt; Edit** and select ‘Payments’ from the right hand menu
+{% tab title="Bargeld/BACS" %}
+1. Veranlassen Sie, dass die Erstattung an den Kunden unabhängig von der Plattform erfolgt.&#x20;
+2. Erfassen Sie diese Aktion, indem Sie zu **Aufträge -> Bearbeiten** gehen und im rechten Menü "Zahlungen" und dann "**+ Neue Zahlung**" auswählen:
 
-![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC_8lRzME6B9VGjJ2dB78rpPMeoIT_KBKpzA9GMncfpCXPc)
+![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC\_8lRzME6B9VGjJ2dB78rpPMeoIT\_KBKpzA9GMncfpCXPc)
 
-Select **+New Payment**
 
-![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c_F2AhbHNJY0BsABUPMm6603_ut7gqIpg)
 
-A **negative value** in the ‘Amount’ field means the refund is recorded. 
+![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5\_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c\_F2AhbHNJY0BsABUPMm6603\_ut7gqIpg)
+
+Geben Sie in das Feld "Betrag" einen **negativen Wert** ein, um die Erstattung als erfolgt zu verbuchen.
 {% endtab %}
 
 {% tab title="Stripe" %}
-Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
+Mit der OFN-Plattform können Sie einem Kunden, der mit Stripe bezahlt hat, automatisch Geld zurückerstatten. Die Erstattung wird direkt auf die Kredit- oder Debitkarte des Kunden überwiesen.
 
-1.Visit **Orders -&gt; Edit Order** and then select ‘Payments’ from the right hand menu
+1.Gehen Sie zu **Aufträge -> Auftrag bearbeiten** und wählen Sie dann "Zahlungen" aus dem rechten Menü.
 
-![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
+![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB\_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
 
-2.By clicking on the tick next to the payment, any credit owed to the customer will be automatically refunded. ****
+2.Da Sie die Anpassung im vorherigen Schritt vorgenommen haben, wird auf dem Zahlungsbildschirm nun "**Guthaben**" mit dem von Ihnen angegebenen Betrag angezeigt. Wenn Sie auf das Häkchen neben der Zahlung klicken, wird das dem Kunden geschuldete Guthaben automatisch zurückerstattet.
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 
 {% hint style="warning" %}
-Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
+Beachten Sie, dass es 3 bis 5 Arbeitstage dauern kann, bis Stripe-Zahlungen auf dem Kontoauszug eines Kunden erscheinen.
 {% endhint %}
 {% endtab %}
 
 {% tab title="PayPal" %}
-**You can not issue a partial refund to a customer who paid by PayPal automatically via the OFN platform at present.**  
+**Sie können einem Kunden, der mit PayPal automatisch über die OFN-Plattform bezahlt hat, derzeit keine Teilerstattung gewähren.**
 
-1. You will need to log into your business [PayPal account](https://www.paypal.com/uk/home) and refund the customer the correct amount through their interface.
-2. To record this action you will need to set up a new [Payment Method](../shopfront/payment-methods.md) as follows: Name= ‘Paypal refunds’ Display = ‘Back Office Only’ Payment provider = ‘cash/EFT/etc’.
-3. Visit **Orders - &gt; Edit Order-&gt; Payments** \(found in the right hand menu\).
-4. Select **+New Payment** and select ‘Paypal refunds’:
+1. Sie müssen sich in Ihr geschäftliches [PayPal-Konto](https://www.paypal.com/) einloggen und dem Kunden den korrekten Betrag über die Schnittstelle erstatten.
+2. Um diese Aktion zu erfassen, müssen Sie wie folgt eine neue [Zahlungsmethode](../shopfront/payment-methods.md) einrichten:\
+   Name= 'Paypal-Erstattungen'\
+   Anzeige = 'Nur Back Office'\
+   Zahlungsanbieter = "bar/EFT/etc".
+3. Besuchen Sie **Aufträge - > Auftrag bearbeiten-> Zahlungen** (im rechten Menü).
+4. Wählen Sie **+Neue Zahlung** und wählen Sie 'Paypal-Erstattungen':
 
-![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
+![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe\_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
 
-A negative value in the ‘Amount’ field means that a refund is recorded.
+Ein negativer Wert im Feld "Betrag" bedeutet, dass eine Erstattung erfasst wird.
 
 {% hint style="danger" %}
-If you opt to add a new payment with the payment method provider ‘Paypal’ this will not be possible:
+Wenn Sie sich dafür entscheiden, eine neue Zahlung mit dem Zahlungsmittelanbieter "Paypal" hinzuzufügen, ist dies nicht möglich:
 {% endhint %}
 
-![](../../.gitbook/assets/paypalnewpayment%20%281%29%20%281%29.jpg)
+![](<../../.gitbook/assets/paypalnewpayment (1) (1).jpg>)
 {% endtab %}
 {% endtabs %}
 
-## Collecting Additional Payments
+## Einziehung zusätzlicher Zahlungen
 
-Follow the steps above for [Partial refunds](refunds-and-adjusting-payments.md#partial-refund) to add extra items to a customer's order or make adjustments via the [Bulk Order Management](../products-1/group-buy-for-bulk-ordering.md#adjusting-orders-to-make-complete-batches) page.
+Führen Sie die oben beschriebenen Schritte für [Teilerstattungen aus](refunds-and-adjusting-payments.md#teilweise-erstattung), um der Bestellung eines Kunden weitere Artikel hinzuzufügen oder Anpassungen über die Seite [Verwaltung von Großaufträgen](../products-1/group-buy-for-bulk-ordering.md#anpassung-von-auftraegen-zur-erstellung-vollstaendiger-chargen) vorzunehmen.
 
-Orders will now display with the Payment State = ‘Balance Due’:
+Bestellungen werden jetzt mit dem Zahlungsstatus = "Restbetrag fällig" angezeigt:
 
-![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
+![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2\_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
 
-To record payment of the extra monies due visit [Orders -&gt; Edit Order](view-orders.md#editing-an-order) and then ‘Payments’.   
-Select **+New Payment** \(top right hand blue button\)
+Um die Zahlung der zusätzlich fälligen Beträge zu erfassen, besuchen Sie [Aufträge -> Auftrag bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und dann "Zahlungen". Wählen Sie + Neue Zahlung (blaue Schaltfläche oben rechts)
 
-1. If customer has given your business the money owing in **cash or BACS** payment then record this in the same manner as detailed for a refund, but use a positive value in the ‘Amount’ field.
-2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this:
+1. Wenn der Kunde Ihrem Unternehmen das geschuldete Geld in **bar oder als** BACS-Zahlung gegeben hat, erfassen Sie dies auf die gleiche Weise wie bei einer Rückerstattung, verwenden aber einen positiven Wert im Feld "Betrag".
+2. Wenn der Kunde anwesend ist oder am Telefon ist, können Sie die zusätzliche Zahlung über Stripe abwickeln. Hierfür benötigen Sie die Daten der Kredit-/Debitkarte des Kunden:
 
-![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
+![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ\_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd\_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
 
 {% hint style="danger" %}
-Note collection of the extra monies by PayPal through the platform is, at present, not possible.
+Beachten Sie, dass der Einzug der zusätzlichen Gelder durch PayPal über die Plattform derzeit nicht möglich ist.
 {% endhint %}
 
 {% hint style="warning" %}
-If a payment method has an associated fee attached then the fee will be recorded by the system every time you collect extra money from the customer or issue them a refund.
+Wenn eine Zahlungsmethode mit einer Gebühr verbunden ist, wird diese Gebühr vom System jedes Mal aufgezeichnet, wenn Sie zusätzliches Geld vom Kunden einziehen oder ihm eine Erstattung ausstellen.
 {% endhint %}
 
-## Keeping Track of Customer Payment Balances
+## Behalten Sie den Überblick über die Zahlungssalden Ihrer Kunden
 
-Monies owing \(credit\) or due \(debit\) for **individual orders** can be viewed on your [listing orders admin](view-orders.md) page.  
+Die fälligen Beträge (Guthaben) oder die fälligen Beträge (Lastschrift) für die einzelnen Aufträge können Sie auf der Verwaltungsseite Ihrer [Listingaufträge](view-orders.md) einsehen.
 
 {% hint style="warning" %}
-Remember that only payments for integrated payment methods \(PayPal and Stripe\) are automatically captured by the platform. If a customer pays your business by cash or BACS \(or similar\) you will need to [capture this payment](view-orders.md#capturing-a-payment) manually to keep your records up to date.
+Remember that only payments for integrated payment methods (PayPal and Stripe) are automatically captured by the platform. If a customer pays your business by cash or BACS (or similar) you will need to [capture this payment](view-orders.md#capturing-a-payment) manually to keep your records up to date.
+
+Denken Sie daran, dass nur Zahlungen für integrierte Zahlungsmethoden (PayPal und Stripe) automatisch von der Plattform erfasst werden. Wenn ein Kunde Ihr Unternehmen mit Bargeld oder BACS (oder ähnlichem) bezahlt, müssen Sie [diese Zahlung manuell erfassen](view-orders.md#payment-and-shipment-state), um Ihre Unterlagen auf dem neuesten Stand zu halten.
 {% endhint %}
 
-You may wish to allow your trusted customers to pay \(by BACS\) once a month for all their orders in that time period, or give those who have cash flow one week a bit of lee-way with their payments.  To keep track of individual **customer balances** with your business, visit your [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list.  The amount of credit/debit due is displayed to the right of each customer's entry.
+Vielleicht möchten Sie Ihren vertrauenswürdigen Kunden erlauben, einmal im Monat (per BACS) für alle ihre Bestellungen in diesem Zeitraum zu zahlen, oder denjenigen, die eine Woche Cashflow haben, etwas Spielraum bei ihren Zahlungen geben. Um die Salden der einzelnen Kunden Ihres Unternehmens zu verfolgen, besuchen Sie Ihre Kundenliste. Der fällige Kredit-/Lastschriftbetrag wird rechts neben dem Eintrag des jeweiligen Kunden angezeigt.
 
 ![](../../.gitbook/assets/customerbalance.jpg)
-

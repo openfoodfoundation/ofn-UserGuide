@@ -43,7 +43,7 @@
   * [Bestellungen](basic-features/orders/README.md)
     * [Aufträge verwalten](basic-features/orders/view-orders.md)
     * [Aufträge manuell erstellen](basic-features/orders/create-orders-manually.md)
-    * [Refunds and Adjusting Payments](basic-features/orders/refunds-and-adjusting-payments.md)
+    * [Erstattungen und Anpassung der Zahlungen](basic-features/orders/refunds-and-adjusting-payments.md)
     * [Thermally printed receipts](basic-features/orders/thermally-printed-receipts.md)
   * [Subscriptions](basic-features/subscriptions/README.md)
     * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
