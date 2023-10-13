@@ -1,10 +1,6 @@
-# Create orders manually
+# Aufträge manuell erstellen
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
-{% endhint %}
-
-Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders** and clicking on the **+ New Order** button.
+Es kann vorkommen, dass Sie einen Auftrag manuell in das System eingeben möchten. Dies kann im Namen eines Kunden geschehen oder damit Ihre Berichte eine Bestellung aus einem anderen Verkaufsstrom erfassen. Sie können eine Bestellung erstellen, indem Sie zu **Bestellungen** gehen und auf die Schaltfläche **+ Neue Bestellung** klicken.
 
 ![](../../.gitbook/assets/manorder1.jpg)
 
@@ -12,58 +8,57 @@ There you are then lead through a step-by-step process to place the order:
 
 ![](../../.gitbook/assets/manorder2.jpg)
 
-Firstly you will be prompted to select the distributor that the order will be placed with.   
-Next you will need to select the order cycle that you want the order to be placed in. You choice of order cycle will dictate which products will be available to be added into the order and the fees applied.  
-You will then be redirected to the following page where you can select products. You must type at least the first 3 characters of the product for it to appear as an option in the drop down list:
+Zunächst werden Sie aufgefordert, den Händler auszuwählen, bei dem die Bestellung aufgegeben werden soll.\
+Als nächstes müssen Sie den Bestellzyklus auswählen, in dem die Bestellung aufgegeben werden soll. Die Wahl des Bestellzyklus bestimmt, welche Produkte der Bestellung hinzugefügt werden können und welche Gebühren anfallen.\
+Sie werden dann auf die folgende Seite weitergeleitet, auf der Sie Produkte auswählen können. Sie müssen mindestens die ersten 3 Zeichen des Produkts eingeben, damit es als Option in der Auswahlliste erscheint:
 
 ![](../../.gitbook/assets/manorder3.jpg)
 
-After finding the product you'd like to order, enter the quantity and click the **+** button to the right of the product to add it to the cart.
+Wenn Sie das gewünschte Produkt gefunden haben, geben Sie die Menge ein und klicken Sie auf die Schaltfläche + rechts neben dem Produkt, um es in den Warenkorb zu legen.
 
 ![](../../.gitbook/assets/manorder4.jpg)
 
-Once a product is added you can edit \(quantity for example\) by selecting the pen and paper icon to the right of the item:
+Sobald ein Produkt hinzugefügt wurde, können Sie es bearbeiten (z. B. die Menge), indem Sie auf das Stift- und Papiersymbol rechts neben dem Artikel klicken:
 
 ![](../../.gitbook/assets/manorder5.jpg)
 
-After editing any aspect of the cart, click **update and recalculate fees** to update the price.
+Nachdem Sie einen beliebigen Aspekt des Warenkorbs bearbeitet haben, klicken Sie auf **Aktualisieren und Gebühren neu berechnen**, um den Preis zu aktualisieren.
 
-The next step is to add in the customer’s details \(right hand menu, second option down\). If it is a customer who is on your customer list, you can select them from the dropdown menu, otherwise you can fill in the customer’s details details and check them out as a guest.
+Der nächste Schritt besteht darin, die Kundendaten einzugeben (rechtes Menü, zweite Option unten). Wenn es sich um einen Kunden handelt, der auf Ihrer Kundenliste steht, können Sie ihn aus dem Dropdown-Menü auswählen, andernfalls können Sie die Details des Kunden ausfüllen und ihn als Gast auschecken.
 
 ![](../../.gitbook/assets/manorder6.jpg)
 
-Click **Update** and go back to Order Details \(top option on right hand menu\).  You will now be able to select a shipping method for the customer.
+Klicken Sie auf **Aktualisieren** und gehen Sie zurück zu den Auftragsdetails (oberste Option im rechten Menü). Sie können nun eine Versandart für den Kunden auswählen.
 
 ![](../../.gitbook/assets/manorder7.jpg)
 
-Tick to update changes and cross to cancel.
+Kreuzen Sie an, um Änderungen zu aktualisieren, und kreuzen Sie an, um sie zu verwerfen.
 
 {% hint style="danger" %}
-You can not select a shipping method prior to adding the customer's details.
+Sie können keine Versandart auswählen, bevor Sie die Daten des Kunden hinzugefügt haben.
 {% endhint %}
 
-The final step is to add the customer’s payment method.  This is found from the bottom option of the right hand menu:
+Der letzte Schritt besteht darin, die Zahlungsmethode des Kunden hinzuzufügen. Diese finden Sie in der unteren Option des rechten Menüs:
 
 ![](../../.gitbook/assets/manorder8.jpg)
 
 {% hint style="warning" %}
-Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.  
- ![](../../.gitbook/assets/stripeextra.jpg)  
+Hinweis: Wenn Sie sich für eine von Stripe angebotene [Zahlungsmethode](../shopfront/payment-methods.md) entscheiden, werden Sie zur Eingabe der Kartendaten des Kunden aufgefordert.\
+&#x20;<img src="../../.gitbook/assets/stripeextra.jpg" alt="" data-size="original"> &#x20;
 {% endhint %}
 
 {% hint style="danger" %}
-You should NEVER write down a customer's card details.
+Sie sollten NIEMALS die Kartendaten eines Kunden aufschreiben.
 {% endhint %}
 
 {% hint style="success" %}
-Best practice is to complete the above form directly into a computer/tablet/mobile device while the customer reads out the numbers over the phone.
+Am besten ist es, das obige Formular direkt in einen Computer/Tisch/Mobilgerät auszufüllen, während der Kunde die Zahlen am Telefon vorliest.
 {% endhint %}
 
 {% hint style="danger" %}
-You will not be able to opt for a [Payment Method](../shopfront/payment-methods.md) provided by **PayPal** for an order created manually.
+Für eine manuell erstellte Bestellung können Sie sich nicht für eine von PayPal bereitgestellte [Zahlungsmethode](../shopfront/payment-methods.md) entscheiden.
 
-![](../../.gitbook/assets/paypalnewpayment%20%281%29.jpg) 
+<img src="../../.gitbook/assets/paypalnewpayment (1).jpg" alt="" data-size="original">&#x20;
 {% endhint %}
 
-Clicking **update** will finalise this order and send an email confirmation to the customer.
-
+Wenn Sie auf **Aktualisieren** klicken, wird die Bestellung abgeschlossen und eine E-Mail-Bestätigung an den Kunden gesendet.
