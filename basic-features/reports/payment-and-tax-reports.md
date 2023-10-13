@@ -1,93 +1,89 @@
 ---
-description: Payment Reports, Tax reports, Xero
+description: Zahlungsberichte, Steuerberichte, Xero
 ---
 
 # Zahlungen und Steuerberichte
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 ## Zahlungsberichte
 
 {% hint style="success" %}
-The three Payment reports are good for keeping track of total incoming and outgoing revenue for your food hub within a time frame.
+Die drei Zahlungsberichte sind gut geeignet, um den Überblick über die gesamten ein- und ausgehenden Einnahmen Ihres Lebensmittelzentrums innerhalb eines bestimmten Zeitraums zu behalten.
 {% endhint %}
 
-### Payment by Type
+### Zahlung nach Art
 
-The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ (ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal).
+Der einfachste Zahlungsbericht. Dieser dokumentiert die Summe der gezahlten Beträge, den fälligen Saldo und das geschuldete Guthaben für die verschiedenen Zahlungsarten, die ein Hub verwenden kann (z. B. eine Summe für Stripe-Zahlungen, eine Summe für Bargeld/EFT-Zahlungen und eine für PayPal).
 
 ![Payment by Type](../../.gitbook/assets/payment-by-type.jpg)
 
-### Itemised Payment Totals
+### Einzelverbindungsnachweis Gesamtbetrag der Zahlungen
 
-Listed by payment status (paid, balance due, credit owing) rather than payment provider, this report gives a breakdown of revenue (product costs, shipping fees) as well as the total.  The Outstanding balance column will be 0.0 for the payment status of 'paid'
+Dieser Bericht ist nach Zahlungsstatus (bezahlt, fälliger Saldo, ausstehendes Guthaben) und nicht nach Zahlungsanbieter geordnet und enthält eine Aufschlüsselung der Einnahmen (Produktkosten, Versandgebühren) sowie der Gesamtsumme. Die Spalte Ausstehender Saldo ist 0,0 für den Zahlungsstatus "bezahlt".
 
 ![Itemised Payment Totals](../../.gitbook/assets/itemizedpayment.jpg)
 
-### Payment Totals
+### Zahlungssummen
 
-In addition to the Itemised Payment Totals this report states revenue coming from EFT (cash or bank transfer) and Paypal separately.
+Zusätzlich zu den Gesamtbeträgen der Einzelzahlungen werden in diesem Bericht die Einnahmen aus EFT (Bargeld oder Banküberweisung) und Paypal separat aufgeführt.
 
 ![Payment Totals](../../.gitbook/assets/payment-totals.jpg)
 
 ## Verkaufssteuer
 
-There are two sales tax reports: Tax Types and Tax Rates.
+Es gibt zwei Umsatzsteuermeldungen: Steuerarten und Steuersätze.
 
 {% hint style="success" %}
-The **Tax Type** report is useful for separating total tax per order into its different component elements: tax on products, tax on shipping method fee and tax on payment method fee.
+Der Bericht "**Steuerart**" ist nützlich, um die Gesamtsteuer pro Bestellung in ihre verschiedenen Bestandteile aufzuteilen: Steuer auf Produkte, Steuer auf Versandart und Steuer auf Zahlungsart.
 {% endhint %}
 
 ![Tax type report](../../.gitbook/assets/taxtype.jpg)
 
-The **tax rate** report gives an order-by-order break down of tax by it's tax rate (full, reduced or zero-rated).  Order totals inclusive and exclusive of tax are also given.
+Der Bericht über die **Steuersätze** enthält eine auftragsbezogene Aufschlüsselung der Steuern nach dem jeweiligen Steuersatz (voll, ermäßigt oder zum Nullsatz). Es werden auch die Auftragssummen einschließlich und ausschließlich der Steuer angegeben.
 
 ![Tax rate report](../../.gitbook/assets/taxrates.jpg)
 
 ## Xero-Rechnungen
 
-This report creates CSV files which can be imported into the accounting package ‘Xero’ to generate invoices for customers.
+Dieser Bericht erstellt CSV-Dateien, die in das Buchhaltungspaket "Xero" importiert werden können, um Rechnungen für Kunden zu erstellen.
 
-### Generating the report
+### Generierung des Berichts
 
 ![Xero Report Fields](../../.gitbook/assets/xero-report.png)
 
-**Date range:** You can filter orders by the date the order was placed.
+**Datumsbereich:** Sie können Bestellungen nach dem Datum filtern, an dem die Bestellung aufgegeben wurde.
 
-**Report type:** You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
+**Berichtstyp:** Sie können einen "detaillierten" Bericht herunterladen, der einen Einzelposten für jeden Artikel enthält, den der Kunde gekauft hat, einschließlich aller Gebühren und Anpassungen an seiner Bestellung.
 
-**Hub and order cycle:** You can specify which Hub and Order Cycle, the orders were placed through.
+**Hub und Auftragszyklus:** Sie können angeben, über welchen Hub und Auftragszyklus die Aufträge erteilt wurden.
 
-**Initial invoice number:** To ensure compatibility with your Xero invoice numbering system, enter the first invoice number you would like new invoices to be allocated. All subsequent invoices will be numbered from this point.
+**Erste Rechnungsnummer:** Um die Kompatibilität mit Ihrem Xero-Rechnungsnummerierungssystem zu gewährleisten, geben Sie die erste Rechnungsnummer ein, die neuen Rechnungen zugewiesen werden soll. Alle nachfolgenden Rechnungen werden ab diesem Punkt nummeriert.
 
-**Invoice date:** You can select the date that you want the invoices to be marked with in Xero. This is editable once you have the invoice in Xero, but doing it here allows you to batch date all the invoices in a single report.&#x20;
+**Rechnungsdatum:** Sie können das Datum auswählen, mit dem die Rechnungen in Xero gekennzeichnet werden sollen. Dieses Datum kann bearbeitet werden, sobald Sie die Rechnung in Xero haben, aber wenn Sie es hier eingeben, können Sie alle Rechnungen in einem einzigen Bericht datieren.
 
-**Due date:** You can select the due date to be marked on Xero invoices. Again this is editable in Xero.
+**Fälligkeitsdatum:** Sie können das Fälligkeitsdatum auswählen, das auf Xero-Rechnungen markiert werden soll. Auch dies ist in Xero bearbeitbar.
 
-**Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it editable in Xero.
+**Kontocode:** Wenn Sie hier einen Xero-Kontocode eingeben, werden alle Posten der Rechnung diesem Konto zugeordnet. Dieser Code kann in Xero bearbeitet werden.
 
-**Download as CSV:** When you are ready to download the file for import check the box and click **search**.
+**Als CSV herunterladen:** Wenn Sie bereit sind, die Datei für den Import herunterzuladen, aktivieren Sie das Kontrollkästchen und klicken Sie auf **Suchen**.
 
 ### Daten verfügbar
 
-* Customer name, email, billing address (no phone number)
-* Invoice number and date of purchase. Due date is one month after invoice date.  Reference number is the same as invoice number.
-* Product name, quantity, cost, tax rate, SKU, fee
-* Payment status (paid or balance due)
-* currency of transaction.
+* Kundenname, E-Mail, Rechnungsadresse (keine Telefonnummer)
+* Rechnungsnummer und Datum des Kaufs. Das Fälligkeitsdatum ist ein Monat nach Rechnungsdatum. Die Referenznummer ist dieselbe wie die Rechnungsnummer.
+* Produktname, Menge, Kosten, Steuersatz, SKU, Gebühr
+* Zahlungsstatus (bezahlt oder fälliger Saldo)
+* Währung der Transaktion.
 
-### Importing the report into Xero
+### Importieren des Berichts in Xero
 
-In Xero go to **Accounts**, **Sales** and click Import.
+Gehen Sie in Xero zu **Konten**, **Verkäufe** und klicken Sie auf Importieren.
 
 ![Xero Import](../../.gitbook/assets/xero-import.png)
 
-Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
+Als nächstes wählen Sie Ihren heruntergeladenen OFN Xero-Bericht zum Hochladen aus. Die Einstellungen, die Sie auswählen sollten, sind unten aufgeführt.
 
 ![Xero Import Steps](../../.gitbook/assets/xero-import-steps.png)
 
-Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered.&#x20;
+Durch die Auswahl von **Ignorieren der** Kontaktadressdaten wird sichergestellt, dass Ihre Xero- Kundendaten nicht verändert werden.
 
-Selecting **Tax Exclusive** will ensure that products you have set to include tax in the Open Food Network will include tax, but your tax free items will remain tax free.
+Wenn Sie die Option "**Steuerfrei**" auswählen, wird sichergestellt, dass die Produkte, die Sie im Open Food Network als steuerpflichtig gekennzeichnet haben, auch steuerpflichtig sind, während Ihre steuerfreien Artikel steuerfrei bleiben.
