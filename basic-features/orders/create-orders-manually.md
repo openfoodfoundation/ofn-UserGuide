@@ -4,7 +4,7 @@ Es kann vorkommen, dass Sie einen Auftrag manuell in das System eingeben möchte
 
 ![](../../.gitbook/assets/manorder1.jpg)
 
-There you are then lead through a step-by-step process to place the order:
+Dort werden Sie dann Schritt für Schritt durch den Bestellvorgang geführt:
 
 ![](../../.gitbook/assets/manorder2.jpg)
 
