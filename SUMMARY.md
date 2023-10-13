@@ -80,7 +80,7 @@
 * [Glossar der OFN-Begriffe](glossary-of-ofn-terms.md)
 * [Einkaufen mit Open Food Network!](shopping-with-open-food-network/README.md)
   * [Über Open Food Network](shopping-with-open-food-network/about-open-food-network.md)
-  * [How to find an online food shop near you!](shopping-with-open-food-network/how-to-find-an-online-food-shop-near-you.md)
+  * [Wie Sie einen Online-Lebensmittelladen in Ihrer Nähe finden!](shopping-with-open-food-network/how-to-find-an-online-food-shop-near-you.md)
   * [Shopping and Placing an Order](shopping-with-open-food-network/shopping-and-placing-an-order.md)
   * [The people & businesses who make/grow your food!](shopping-with-open-food-network/the-people-and-businesses-who-make-grow-your-food.md)
   * [Your OFN account](shopping-with-open-food-network/your-ofn-account.md)
