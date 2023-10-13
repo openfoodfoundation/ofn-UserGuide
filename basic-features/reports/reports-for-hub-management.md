@@ -1,40 +1,36 @@
 ---
-description: Order Cycle, Product, Customer and Enterprise Fee Management reports
+description: Berichte zu Auftragszyklus, Produkt, Kunde und Unternehmensgebührenmanagement
 ---
 
 # Berichte für das Hub-Management
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 ## Verwaltung der Auftragszyklen
 
-There are two reports in the Order Cycle Management section: Payment Methods and Delivery Report.&#x20;
+Im Bereich Auftragszyklusmanagement gibt es zwei Berichte: Zahlungsarten und Lieferbericht.
 
 {% hint style="success" %}
-A **Customer's Balance** (ie. the sum of monies paid and owed across all orders they have placed with your food enterprise) is listed in both the Payment Method and Delivery reports. These are a good place to see at a glance if a customer is running up a big debt.
+**Der Saldo eines Kunden** (d.h. die Summe der gezahlten und geschuldeten Beträge aller Bestellungen, die er bei Ihrem Lebensmittelunternehmen aufgegeben hat) wird sowohl in den Berichten zur Zahlungsweise als auch zur Lieferung aufgeführt. Hier können Sie auf einen Blick sehen, ob ein Kunde hohe Schulden hat.
 {% endhint %}
 
-At a glance, the data contained in these reports can be summarised:
+Die in diesen Berichten enthaltenen Daten lassen sich auf einen Blick zusammenfassen:
 
-|                       | Payment Method | Delivery Report |
-| --------------------- | -------------- | --------------- |
-| Customer name         | Y              | Y               |
-| Customer phone no     | Y              | Y               |
-| Customer email        | Y              | N               |
-| Hub                   | Y              | Y               |
-| Shipping Method       | Y              | Y               |
-| Delivery Address\*    | N              | Y               |
-| Shipping Category\*\* | N              | Y               |
-| Payment Method        | Y              | Y               |
-| Order Notes           | N              | Y               |
-| Order Total           | Y              | Y               |
-| Customer Balance      | Y              | Y               |
+|                            | Zahlungsmethode | Zustellungsbericht |
+| -------------------------- | --------------- | ------------------ |
+| Name des Kunden            | J               | J                  |
+| Telefon-Nr. des Kunden     | J               | J                  |
+| Kunden-E-Mail              | J               | N                  |
+| Hub                        | J               | J                  |
+| Versandart                 | J               | J                  |
+| Lieferadresse\*            | N               | J                  |
+| Versandkategorie\*\*       | N               | J                  |
+| Zahlungsmethode            | J               | J                  |
+| Anmerkungen zur Bestellung | N               | J                  |
+| Bestellung Gesamt          | J               | J                  |
+| Kundenbilanz               | J               | J                  |
 
-\*Delivery Address is either the hub/distributor address (for pick up) or an address submitted by the customer (for delivery)
+\*Lieferadresse ist entweder die Adresse des Drehkreuzes/Vertriebspartners (bei Abholung) oder eine vom Kunden angegebene Adresse (bei Lieferung)
 
-\*\*Shipping Category = default, frozen, refrigerated
+\*\*Versandkategorie = Standard, gefroren, gekühlt
 
 ![Payment Method report](../../.gitbook/assets/paymentmethods.jpg)
 
@@ -42,70 +38,70 @@ At a glance, the data contained in these reports can be summarised:
 
 ## Produktmanagement
 
-Under Products & Inventory you will find three reports which are useful if you wish to review items stocked by your hub from different producers.
+Unter Produkte & Inventar finden Sie drei Berichte, die nützlich sind, wenn Sie die von Ihrem Hub gelagerten Artikel verschiedener Hersteller überprüfen möchten.
 
-The **All Products and Inventory** reports differ only in that the latter (Inventory) contains only data for products with stock levels greater than zero. &#x20;
+Die Berichte "**Alle Produkte**" und "**Bestand**" unterscheiden sich nur dadurch, dass der letztere (Bestand) nur Daten für Produkte enthält, deren Lagerbestand größer als Null ist.
 
-The data they contain for each product is:
+Die Daten, die sie für jedes Produkt enthalten, sind:
 
-* Supplier name and city/suburb of supplier's address
-* Product name, variant name and SKU
-* Product property and category (taxon)
-* price
-* Group buy unit quantity (if applicable)
+* Name des Lieferanten und Stadt/Vorort der Adresse des Lieferanten
+* Produktname, Variantenname und SKU
+* Produkteigenschaft und Kategorie (Taxon)
+* Preis
+* Stückzahl des Gruppenkaufs (falls zutreffend)
 
-Below is an example of the All Products Report:
+Nachfolgend sehen Sie ein Beispiel für den Bericht Alle Produkte:
 
 ![All Products Report](../../.gitbook/assets/all-products.jpg)
 
-The **Lettuce Share** report gives more details about each product: It's name, variant name (listed under 'Description'), unit (g, l, item name etc), pack size (ie. for a product of '500g tomatoes' the unit = g, pack size = 500), price, tax included in cost, producer properties (not product properties) and product category (taxon).
+Der Bericht "**Salatanteil**" enthält weitere Einzelheiten zu jedem Produkt: Name, Variantenname (aufgeführt unter "Beschreibung"), Einheit (g, l, Artikelbezeichnung usw.), Packungsgröße (z. B. bei einem Produkt "500 g Tomaten" die Einheit = g, Packungsgröße = 500), Preis, in den Kosten enthaltene Steuer, Erzeugereigenschaften (nicht Produkteigenschaften) und Produktkategorie (Taxon).
 
 ![Lettuce Share report](../../.gitbook/assets/lettuce-share.jpg)
 
 ## Kundenmanagement
 
-### Mailing List&#x20;
+### Verteilerliste&#x20;
 
-The mailing list report shows the names and email addresses of customers who have placed orders in your shopfront. This report can help you contact customers who have purchased items from your shopfront.  For example, you may need to notify a customer (or set of customers) if a product they bought is not available or if you are unable (say, due to illness) make the delivery schedule they requested.&#x20;
+Der Verteilerlistenbericht zeigt die Namen und E-Mail-Adressen der Kunden, die in Ihrem Schaufenster Bestellungen aufgegeben haben. Dieser Bericht kann Ihnen helfen, Kunden zu kontaktieren, die Artikel in Ihrem Schaufenster gekauft haben. Sie müssen beispielsweise einen Kunden (oder eine Gruppe von Kunden) benachrichtigen, wenn ein von ihm gekauftes Produkt nicht verfügbar ist oder wenn Sie (z. B. aufgrund von Krankheit) nicht in der Lage sind, den von ihm gewünschten Liefertermin einzuhalten.
 
-See below for an example of the Mailing List Report:
+Nachstehend finden Sie ein Beispiel für den Mailinglistenbericht:
 
 ![](../../.gitbook/assets/mailing-list.jpg)
 
-### Addresses
+### Adressen
 
-The Addresses report includes Customer contact details, Hub and Shipping Method, and can be filtered by Order Cycle, Shopfront (**Distributor**) and **Supplier.**&#x20;
+Der Bericht "Adressen" enthält die Kontaktdaten des Kunden, den Hub und die Versandart und kann nach Bestellzyklus, Schaufenster (**Händler**) und **Lieferant** gefiltert werden.
 
 ![](../../.gitbook/assets/addresses.jpg)
 
 ## Gebühren für Unternehmen
 
-Enterprises can set up [Enterprise Fees](../shopfront/enterprise-fees.md) to identify and control allocation of costs / prices for different purposes. These fees enable price transparency to customers when they visit your shopfront.&#x20;
+Unternehmen können [Unternehmensgebühren](../shopfront/enterprise-fees.md) einrichten, um die Zuweisung von Kosten/Preisen für verschiedene Zwecke zu ermitteln und zu kontrollieren. Diese Gebühren ermöglichen eine Preistransparenz für Kunden, wenn sie Ihr Geschäft besuchen.
 
 {% hint style="success" %}
-The Enterprise Fee Summary report is used to summarise the amounts of fees that were charged, and to whom.&#x20;
+Der Bericht "Enterprise Fee Summary" gibt einen Überblick über die Höhe der Gebühren, die erhoben wurden, und an wen.
 {% endhint %}
 
-The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
+Der Bericht kann nach Schaufenster (**Hub**), **Produzent** und **Bestellzyklus** sowie nach Gebührennamen und Versand- und Zahlungsarten gefiltert werden.
 
 ![Enterprise Fee Summary Report](<../../.gitbook/assets/image (24).png>)
 
-**Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle.&#x20;
+**Beispiel 1:** Ein Shop erhebt bei jeder Bestellung eine Gebühr von 2 % für die Mittelbeschaffung. Mit dem Bericht "Unternehmensgebührenzusammenfassung" kann er die in einem bestimmten Bestellzyklus gesammelten Mittel ermitteln.
 
-**Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
+**Beispiel 2:** Ein Hub erhebt eine Transportgebühr, die er einem Erzeuger dafür zahlt, dass er Produkte von anderen Landwirten abholt und sie zum Hub bringt. Diese Gebühr wird als Prozentsatz für jedes Produkt im Auftragszyklus berechnet. Mit dem Bericht "Enterprise Fee Summary" kann er berechnen, wie viel er dem Produzenten für den Transport in jedem Auftragszyklus zahlen muss.
 
-**Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
+**Beispiel 3:** Ein Hub enthält eine Gebühr, um den Kunden den Betrag anzuzeigen, den sie an Open Food Network für die Nutzung der Plattform zahlen. Diese Gebühr wird als Prozentsatz aller aufgegebenen Bestellungen berechnet. Der folgende Screenshot ist ein Beispiel für dieses Szenario:
 
 ![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2).png>)
 
-### Data
+### Daten
 
-The data which found in an Enterprise Fee Summary Report includes:
+Die Daten, die in einem zusammenfassenden Bericht über Unternehmensgebühren enthalten sind, umfassen:
 
-* Fee type (Enterprise fee types are admin, packing, transport, fundraising, sales), name and tax rate of the fee.
-* Customer name
-* Where in the order cycle the fee is placed (incoming/outgoing products or order cycle coordinator fee)
-* Name of enterprise who set the fee ('Fee Calc on Transfer though')
-* Total value of enterprise fee collected for the sale of the line item.
+* Gebührenart (Unternehmensgebührenarten sind Verwaltung, Verpackung, Transport, Fundraising, Verkauf), Name und Steuersatz der Gebühr.
+* Name des Kunden
+* An welcher Stelle des Auftragszyklus wird die Gebühr erhoben (eingehende/ausgehende Produkte oder Gebühr des Koordinators des Auftragszyklus)
+* Name des Unternehmens, das die Gebühr festgelegt hat ("Fee Calc on Transfer though")
+* Gesamtwert der für den Verkauf der Position erhobenen Unternehmensgebühr.
 
 ![](../../.gitbook/assets/enterprise-fee-report.jpg)
