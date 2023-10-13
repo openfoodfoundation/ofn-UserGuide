@@ -1,18 +1,18 @@
 # How to find an online food shop near you!
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-A list of all food enterprises which are currently open in your country can be found under the **/shops** tab from the home page. 
+A list of all food enterprises which are currently open in your country can be found under the **/shops** tab from the home page.&#x20;
 
-In the UK this URL is [https://www.openfoodnetwork.org.uk/shops](https://www.openfoodnetwork.org.uk/shops%20) 
+In the UK this URL is [https://www.openfoodnetwork.org.uk/shops](https://www.openfoodnetwork.org.uk/shops)&#x20;
 
-![](https://lh6.googleusercontent.com/9rSox0x4H_A7tlOHbKW19Zq1g1gnLwp5wObbFsMEiuillQ_tA6O-bQS-tER58YSf1O-uzpAzf_ihFPbKSWCoaS8jdjcad_7cA4ctusw42NUBhmZpGnwpgG8lSCUeHEdBjyccMYOK)
+![](https://lh6.googleusercontent.com/9rSox0x4H\_A7tlOHbKW19Zq1g1gnLwp5wObbFsMEiuillQ\_tA6O-bQS-tER58YSf1O-uzpAzf\_ihFPbKSWCoaS8jdjcad\_7cA4ctusw42NUBhmZpGnwpgG8lSCUeHEdBjyccMYOK)
 
-You can search by **shop name, town, county or postcode.**  
+You can search by **shop name, town, county or postcode.** &#x20;
 
-The ‘**Filter By**’ box enables you to narrow down your search if you are looking for a shop which sells a particular type of item \(eg. fruit and veg\), one which offers delivery, or one which meets specific criteria in the type of products they stock \(eg. vegan, certified organic items\).
+The ‘**Filter By**’ box enables you to narrow down your search if you are looking for a shop which sells a particular type of item (eg. fruit and veg), one which offers delivery, or one which meets specific criteria in the type of products they stock (eg. vegan, certified organic items).
 
 ![](https://lh3.googleusercontent.com/dnm2kRMzJiL6vqv-kmxxzInW7WRW3khGBasMLY3QIXdJle4484Yoqsbhj74AV1zN4KI1qbo4igEFDdKdg03KJHtjxn3uh8RZ0TFdZHdVNjrKvilchQwNZBHvxp8xNAdVhndMarsG)
 
@@ -22,9 +22,8 @@ Some shops on the Open Food Network will be open cyclically each week or month, 
 
 If the shop you have heard about from a friend does not appear in your search then it might be closed at the time you are looking.  Click on the blue ‘**Show Closed Shops**’ button at the bottom of the page.
 
-![](https://lh4.googleusercontent.com/M2hcTHUJoLgk5HcFao-Q42IhObxOA3E0g3FpTSW9-2e1YISopqIuOmrplJbD34t_V2o0mOkQpB8pKDFs05XMSLnGnA3IOJ9eclimVSf4gEcSPQ8TZwrVqaIRLXOsQlnHQQcUaId0)
+![](https://lh4.googleusercontent.com/M2hcTHUJoLgk5HcFao-Q42IhObxOA3E0g3FpTSW9-2e1YISopqIuOmrplJbD34t\_V2o0mOkQpB8pKDFs05XMSLnGnA3IOJ9eclimVSf4gEcSPQ8TZwrVqaIRLXOsQlnHQQcUaId0)
 
 {% hint style="success" %}
 When you have found a shop, it is always a good idea to bookmark the URL which will take you directly to the outlet next time.
 {% endhint %}
-
