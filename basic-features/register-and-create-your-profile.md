@@ -1,9 +1,5 @@
 # Registrieren und Erstellen eines Unternehmenskontos
 
-{% hint style="danger" %}
-Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 ### Erstellen Sie Ihr Benutzerkonto
 
 * Klicken Sie auf der Startseite oben rechts auf "Login" und dann auf "Sign up".
