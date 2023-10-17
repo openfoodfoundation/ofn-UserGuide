@@ -16,13 +16,13 @@ _Die Flexibilität des Open Food Network erlaubt es Ihnen jederzeit zwischen Pro
 **Bauernmärkte** können die Plattform entweder als eine [Gruppe](basic-features/groups/) unabhängig geführter [Produzentenläden](your-quick-start-on-ofn-given-who-you-are.md#shop) oder als ein zentral organisierter [Laden](your-quick-start-on-ofn-given-who-you-are.md#hub) nutzen. Mehr dazu lesen Sie[ hier](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
-## Hub
+## Laden
 
 {% hint style="success" %}
 Bauernmärkte, SoLaWis, Gemüsekisten, Einkaufsgemeinschaften, Hofläden, Markt-/Stadtgärten, Lebensmittelkooperativen, soziale Lebensmittelgemeinschaften, Einzelhandelsgeschäfte, Tafeln, Großhändler ...
 {% endhint %}
 
-Hubs können viele Formen annehmen, aber im Grunde genommen ist Ihr Unternehmen ein **Laden**, wenn Sie **Produkte anderer Produzenten verkaufen** möchten. Sie können Ihre eigenen Produkte zusammen mit denen anderer Landwirte, Bäcker, Züchter usw. verkaufen oder nur als Händler fungieren, um Lebensmittel zu verkaufen, die von (lokalen) Unternehmen hergestellt wurden.
+Läden können viele Formen annehmen, aber im Grunde genommen ist Ihr Unternehmen ein **Laden**, wenn Sie **Produkte anderer Produzenten verkaufen** möchten. Sie können Ihre eigenen Produkte zusammen mit denen anderer Landwirte, Bäcker, Züchter usw. verkaufen oder nur als Händler fungieren, um Lebensmittel zu verkaufen, die von (lokalen) Unternehmen hergestellt wurden.
 
 {% hint style="info" %}
 Wenn Sie es vorziehen, nur Produkte zu verkaufen, die **Sie selbst herstellen**, dann ist die Erstellung eines [Produzentenladens](your-quick-start-on-ofn-given-who-you-are.md#shop) besser für Sie geeignet.
@@ -41,7 +41,7 @@ _Ein Laden ist der flexibelste der drei Unternehmenstypen im Open Food Network u
 
 Die **Einrichtung eines Ladens** im Open Food Network erfolgt in 5 Schritten, folgen Sie einfach unserer [Kurzanleitung für Läden](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Läden
+## Produzentenladen
 
 {% hint style="success" %}
 Landwirte, Gärtner, Bäcker, Züchter, Käsereien ...
