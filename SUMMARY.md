@@ -8,7 +8,7 @@
   * [Laden](quick-start-guides/producer-shop-quick-setup-guide.md)
   * [Profil](quick-start-guides/profile-only-quick-setup-guide.md)
   * [Digitale Bauernmärkte](quick-start-guides/digital-farmers-markets.md)
-* [Eigenschaften](basic-features/README.md)
+* [Funktionen](basic-features/README.md)
   * [Registrieren und Erstellen eines Unternehmenskontos](basic-features/register-and-create-your-profile.md)
   * [Dashboard](basic-features/dashboard.md)
   * [Unternehmensprofil](basic-features/enterprise-profile/README.md)
