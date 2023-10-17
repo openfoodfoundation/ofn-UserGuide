@@ -1,105 +1,109 @@
-# Shipping Methods
+# Versanmethoden
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">[customer-management-and-conditional-displays-prices](customer-management-and-conditional-displays-prices/ "mention")[customer-management-and-conditional-displays-prices](customer-management-and-conditional-displays-prices/ "mention")[enterprise-fees.md](enterprise-fees.md "mention")[enterprise-fees.md](enterprise-fees.md "mention")[customer-management-and-conditional-displays-prices](customer-management-and-conditional-displays-prices/ "mention")-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 {% hint style="warning" %}
- You **must** create at least one shipping method before you can open your shop.
+&#x20;You **must** create at least one shipping method before you can open your shop.
 {% endhint %}
 
-Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
+Bevor Sie weiterlesen, sollten Sie sich eine kurze Demonstration ansehen, wie Sie Ihre erste Versandmethode einrichten:
 
 ![](../../.gitbook/assets/shippingmethod.gif)
 
-## Setting up a shipping method
+**Einrichten einer Versandmethode**
 
-* Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
-* Click **Create new shipping method +** . You will be directed to a page like this:
+* Rufen Sie die Seite Versandmethoden auf, indem Sie im blauen horizontalen Menü auf **Unternehmen** klicken, und klicken Sie dann auf Einstellungen neben Ihrem Unternehmen. Die Seite "**Versandmethoden**" befindet sich im Menü auf der linken Seite.
+* Klicken Sie auf **Neue Versandart erstellen +** . Sie werden auf eine Seite wie diese weitergeleitet:
 
 ![](../../.gitbook/assets/shippingmethods.jpg)
 
-* Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
-* **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
+* Markieren Sie das Kästchen neben Ihrem Unternehmen rechts auf der Seite unter "Hubs". Dies zeigt an, dass die Versandmethode, die Sie gerade erstellen, für dieses Unternehmen gilt. Sie können mehrere Unternehmen auswählen, falls gewünscht.
+* **Name:** Wählen Sie einen Namen für die Methode. Dieser Name wird dem Kunden während des Kaufvorgangs und in den Bestellbestätigungs-E-Mails angezeigt. Beispiel:
 
 ![](../../.gitbook/assets/shippinginfo.jpg)
 
-* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name \(see screenshot above\).
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Beschreibung:** Fügen Sie zusätzliche Details hinzu, z. B. die genaue Adresse der Abholstelle. Diese Angaben sind für Kunden in grauer Schrift neben dem Namen (siehe Screenshot oben) und in der Auftragsbestätigungs-E-Mail sichtbar.
+* **Anzeige:** Wählen Sie entweder "Nur Back Office" oder "Sowohl Kasse als auch Back Office".
 
 {% hint style="info" %}
-If you want to inactivate a shipping method for a while but might want to offer it again in the future \(perhaps a summer only collection point that you don't want to be available to customers in the winter\) then change it to 'Back Office Only'.
+Wenn Sie eine Versandart für eine Weile deaktivieren möchten, sie aber in Zukunft wieder anbieten möchten (z. B. eine Abholstelle, die nur im Sommer verfügbar ist und im Winter nicht für Kunden zur Verfügung stehen soll), ändern Sie sie in "Nur Back Office".
 {% endhint %}
 
-* **Category:** Is this method a delivery or pick-up?
-* **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
-* **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
-* **Categories:** Transport conditions \(refrigeration, frozen, default\) associated with this shipping method.
+* **Kategorie:** Handelt es sich bei dieser Methode um eine Lieferung oder eine Abholung?
+* **Tags**: Geben Sie hier Etiketten ein, wenn Sie zwischen Kunden unterscheiden möchten. Tags können nützlich sein, wenn Sie einer bestimmten Gruppe von Kunden kostenlosen Versand anbieten wollen oder nur denjenigen eine Lieferung anbieten wollen, die eine registrierte Adresse in der Nähe haben. Lesen Sie hier mehr.
+* **Kalkulator:** Wählen Sie die Art und Weise aus, wie die Versandgebühren zu dieser Versandart hinzugefügt werden. Beachten Sie, dass eine Versandgebühr Null sein kann. Siehe unten für weitere Details.
+* **Steuer-Kategorie:** Hier können Sie die mit Ihrer Versandart/Einzugsgebühr verbundene Steuer unabhängig von der Steuer festlegen, die für steuerpflichtige Produkte Ihres Unternehmens gilt. Die Optionen sind: keine, voller Satz, Nullsatz, ermäßigter Satz oder Versand.
+* **Kategorien:** Transportbedingungen (gekühlt, gefroren, Standard), die mit dieser Versandart verbunden sind.
 
 {% hint style="danger" %}
-Under 'Categories' tick all boxes which apply to your food enterprise ie. if you sell products listed with a shipping category of 'frozen' then in order for the customer to be able to successfully checkout their shopping, the 'frozen' category will need to be checked in their desired shipping method.
+Under 'Categories' tick all boxes which apply to your food enterprise ie. if you sell proKreuzen Sie unter "Kategorien" alle Kästchen an, die auf Ihr Lebensmittelunternehmen zutreffen, d.h. wenn Sie Produkte mit der Versandkategorie "tiefgekühlt" verkaufen, muss die Kategorie "tiefgekühlt" in der gewünschten Versandart angekreuzt werden, damit der Kunde seinen Einkauf erfolgreich abschließen kann.
 {% endhint %}
 
-* **Zones:** Select the appropriate zone \(this is to enable correct tax calculations\).
+* **Zonen:** Wählen Sie die entsprechende Zone aus (dies dient der korrekten Steuerberechnung).
 
-By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected. 
+Wenn Sie auf **Erstellen** klicken, wird die Versandmethode erstellt, und Sie erhalten neue Felder, in denen Sie Einzelheiten zu den Kosten der Versandmethode eingeben können. Welche Felder angezeigt werden, hängt davon ab, welchen Versandgebührenrechner Sie ausgewählt haben.
 
 {% hint style="info" %}
-If you change the calculator type for a shipping method, you must **save first** before you can edit the calculator settings.
+Wenn Sie die Berechnungsart für eine Versandart ändern, müssen Sie zuerst speichern, bevor Sie die Berechnungseinstellungen bearbeiten können.
 {% endhint %}
 
-## Fee Calculators
+## Gebührenberechnungen
 
 ![](../../.gitbook/assets/shippingcalc.jpg)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount spent in the order.
+**Pauschaler Prozentsatz** - Diese Gebühr wird als Prozentsatz des Gesamtbetrages der Bestellung berechnet.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only. 
+Alle prozentualen Gebühren werden nur auf der Grundlage eines Prozentsatzes der Produktkosten berechnet.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
+Wenn Ihr Unternehmen allen Produkten eine pauschale [Unternehmensgebühr](enterprise-fees.md) hinzufügt, dann ist Ihr gewünschter **Prozentsatz** des Warenkorbs eines Kunden, um den "pauschalen Prozentsatz" zu erreichen
 
- $$= (100 + Enterprise Fee)*Desired Percent/100$$ 
+&#x20;$$= (100 + Unternehmensgebühr) ∗ GewünschterProzentsatz/100$$
 
-eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for shipping, the amount to enter in the flat percent of this shipping method is:
+&#x20;
 
-$$= (100 + 20) *5/100 = 6$$ 
+z.B. für ein Unternehmen mit einer Unternehmensgebühr von 20 %, das eine Gebühr von 5 % des gesamten Warenkorbs eines Kunden für den Versand erheben möchte, lautet der Betrag, der in den pauschalen Prozentsatz für diese Versandart einzugeben ist:
+
+$$= (100 + 20) *5/100 = 6$$&#x20;
 {% endhint %}
 
-**Weight \(per kg\)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items \(e.g. A product listed as ‘1 bunch of parsley’ will not contribute to the overall fee a customer is charged for shipping\)
+**Gewicht (pro kg)** - diese Gebühr wird auf Produkte pro kg angewendet. Die Gebühr wird nur auf Produkte angewandt, deren Preis pro kg angegeben ist, nicht auf Produkte, die als Artikel aufgeführt sind (z. B. trägt ein Produkt, das als "1 Bund Petersilie" aufgeführt ist, nicht zu der Gesamtgebühr bei, die einem Kunden für den Versand berechnet wird).
 
-**Flat Rate \(per order\)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Pauschale (pro Auftrag)** - Diese Gebühr wird als Standardgebühr für alle Aufträge erhoben, unabhängig vom Umfang des Auftrags.
 
-**Flat Rate \(per item\)** – This fee is a constant fee, applied to products listed as ‘items’. \(It is not applied to products sold by weight or volume. Hence there will be no associated shipping cost charged to a customer who, for example, buys rice by kg\).
+**Pauschalgebühr (pro Artikel)** - Diese Gebühr ist eine konstante Gebühr, die auf die als "Artikel" aufgeführten Produkte angewandt wird. (Sie wird nicht auf Produkte angewandt, die nach Gewicht oder Volumen verkauft werden. Daher werden einem Kunden, der z. B. Reis pro kg kauft, keine Versandkosten in Rechnung gestellt).
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached. 
+**Flexibler Tarif** - Dieser Gebührenrechner ist besonders nützlich, wenn Sie Ihre Kunden zu Großbestellungen ermutigen möchten: Die Versandkosten können reduziert oder auf Null gesetzt werden, wenn eine bestimmte Anzahl von Artikeln erreicht wird.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* Kosten für den "ersten Artikel": Die Gebühr, die für den ersten Artikel
+* in der Bestellung erhoben wird. Kosten für "zusätzliche Artikel": Die Gebühr, die für die über den ersten Artikel hinausgehenden Artikel berechnet wird.
+* "Max Anzahl Artikel": Die maximale Anzahl von Artikeln, auf die die Gebühr erhoben wird. Für Artikel, die über diese Anzahl hinaus gekauft werden, wird die Gebühr nicht erhoben.
 
 ![](../../.gitbook/assets/shippingfeeflex.jpg)
 
-> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3.   
-> A customer who purchases 5 items, will be charged £4 shipping \(£2 for the first item, £1 for items two and three, and £0 for items four and five\).
+> Zum Beispiel: Wenn die Versandgebühr für die "Kosten für den ersten Artikel" £2 beträgt, sind die "Kosten für zusätzliche Artikel" = £1 und die "Maximalen Artikel
+>
+> \= 3.\
+> Einem Kunden, der 5 Artikel kauft, werden £4 Versandkosten berechnet (£2 für den ersten Artikel, £1 für die Artikel zwei und drei und £0 für die Artikel vier und fünf).
 
-**Price Sack** – This is a flexible shipping fee method charged by _total monetary sale_, rather than number of items purchased \(Flexible Rate above\)
+**Preis nach Gesamtbetrag** - Dies ist eine flexible Versandgebührenmethode, die nach dem Gesamtbetrag des Verkaufs und nicht nach der Anzahl der gekauften Artikel berechnet wird (Flexible Rate oben).
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal shipping fee and Discounted shipping fee. 
-* 'Normal Amount': Shipping fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Shipping fee applied to sales above the threshold stated in 'Minimum Amount'.
+* "Mindestbetrag": Geldwert der Schwelle zwischen normaler Versandgebühr und ermäßigter Versandgebühr.
+* "Normaler Betrag": Versandgebühr für Verkäufe, die unter dem in "Mindestbetrag" angegebenen Schwellenwert liegen.&#x20;
+* "Rabatt-Betrag": Versandgebühr für Verkäufe, die über dem in "Mindestbetrag" angegebenen Schwellenwert liegen.
 
 {% hint style="danger" %}
-The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
+Der Mindestbetrag ist der Gesamtpreis der Produkte im Warenkorb eines Kunden und enthält keine Unternehmensgebühren.
 {% endhint %}
 
 {% hint style="warning" %}
-For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between free delivery \(Discount Amount = 0\) and, say, £5 delivery \(= Normal Amount\) to be a basket of £30 then the Minimum amount is
+Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen kostenloser Lieferung (Rabattbetrag = 0) und z. B. 5 £ Lieferung (= Normal Betrag) ein Korb von 30 £ sein, dann ist der Mindestbetrag
 
-$$= £30 * 100 /(100+20) = £25$$ 
+\= £30 ∗ 100/(100 + 20) = £25
 {% endhint %}
 
 ![](../../.gitbook/assets/shippingfeepc.jpg)
-

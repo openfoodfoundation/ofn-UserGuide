@@ -1,30 +1,29 @@
-# Shopfront
+# Schaufenster
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+[order-cycle](order-cycle/ "mention")[order-cycle](order-cycle/ "mention")-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-To open your online shop on Open Food Network and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub.  Read more about the different Enterprise profiles[ here](../../your-quick-start-on-ofn-given-who-you-are.md) and [here](../enterprise-profile/).
+Um Ihren Online-Shop auf Open Food Network zu eröffnen und mit dem Verkauf zu beginnen, muss Ihr Unternehmen entweder als Producer Shop oder als Producer/Non-Producer Hub registriert sein. Lesen Sie mehr über die verschiedenen Unternehmensprofile [hier](../../your-quick-start-on-ofn-given-who-you-are.md) und [hier](../enterprise-profile/).
 
-The next essential steps are to set up [Shipping](shipping-methods.md) and [Payment](payment-methods.md) Methods for your enterprise.  At this stage we also suggest creating [Enterprise Fees](enterprise-fees.md) \(a mark up added to the price each product charged by the supplying producer to cover admin and distribution costs\).
+Die nächsten wichtigen Schritte sind die Einrichtung von [Versand-](shipping-methods.md) und [Zahlungsarten ](payment-methods.md)für Ihr Unternehmen. In dieser Phase empfehlen wir auch die Einrichtung von [Unternehmensgebühren](enterprise-fees.md) (ein Aufschlag auf den Preis jedes Produkts, den der liefernde Hersteller zur Deckung der Verwaltungs- und Vertriebskosten berechnet).
 
-Opening and closing times of shop fronts on OFN, as well as the option to sub-select products for different dates and times of collection, are controlled by [Order Cycles](order-cycle/).
+Die Öffnungs- und Schließungszeiten der Schaufenster im OFN sowie die Möglichkeit, Produkte für verschiedene Abholtermine und -zeiten auszuwählen, werden über die [Bestellzyklen](order-cycle/) gesteuert.
 
-Shop fronts on OFN are highly flexible. Read more if you are interested in:
+Schaufenster im OFN sind sehr flexibel. Lesen Sie mehr, wenn Sie daran interessiert sind:
 
-* [Providing different products and services to different customer groups](customer-management-and-conditional-displays-prices/).
-* Would like only registered members to be able to place orders \([Private Shop](private-shopfront.md)\)
-* Would like a 'dummy' [display only](display-only-order-cycles.md) shop front
+* [Bereitstellung unterschiedlicher Produkte und Dienstleistungen für verschiedene Kundengruppen.](customer-management-and-conditional-displays-prices/)
+* Möchte, dass nur registrierte Mitglieder Bestellungen aufgeben können ([Privates Schaufenster](private-shopfront.md))
+* Möchten Sie dass trotzdem ein [Schaufenster](display-only-order-cycles.md) angezeit wird.&#x20;
 
-### Customer View
+### Kundenansicht
 
-When you have opened your shop front with an active [Order Cycle](order-cycle/), customers can view your products listed, search using the top left hand 'Search Box' and/or filter products by their [categories](../products-1/) or [properties](../products-1/product-properties.md):
+Wenn Sie Ihren Shop mit einem aktiven [Bestellzyklus](order-cycle/) geöffnet haben, können Kunden Ihre aufgelisteten Produkte ansehen, über das Suchfeld oben links suchen und/oder Produkte nach [Kategorien](../products-1/product-variants.md) oder [Eigenschaften](../products-1/product-properties.md) filtern:
 
 ![](../../.gitbook/assets/shopping2.gif)
 
-To add products to their basket, customers can click on 'Add' and then toggle the quantity of the item in their basket using the '+' and '-' keys.
+Um Produkte in den Warenkorb zu legen, können Kunden auf "Hinzufügen" klicken und dann mit den Tasten "+" und "-" die Menge des Artikels im Warenkorb ändern.
 
 {% hint style="info" %}
-Customers can view the items they have added to their basket by the drop down menu which appears when clicking on the basket in the top right corner.
+Die Kunden können die Artikel, die sie in ihren Warenkorb gelegt haben, über das Dropdown- Menü einsehen, das erscheint, wenn sie auf den Warenkorb in der oberen rechten Ecke klicken.
 {% endhint %}
-

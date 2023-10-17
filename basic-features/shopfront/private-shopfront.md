@@ -1,34 +1,34 @@
-# Private shopfront
+# Privates Schaufenster
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-If you don’t want your shopfront to be visible to the public \(ie. you would like to host a shop front from which only members can place orders\), there are two ways that you can make your shop more private:
+If you don’t want your shopfront to be visible to the public (ie. you would like to host a shop front from which only members can place orders), there are two ways that you can make your shop more private:
 
-* make you shop 'Invisible' and only share the shop website address \(URL\) with your desired customer base
+* make you shop 'Invisible' and only share the shop website address (URL) with your desired customer base
 * make your shop 'private' and only visible to registered customers.
 
 ## Make your shop front invisible
 
-In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), under Primary Details, you can set your profile to 'invisible'. 
+In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), under Primary Details, you can set your profile to 'invisible'.&#x20;
 
 ![](../../.gitbook/assets/visibleshop.jpg)
 
-When the **Visible in Search?** option is set to 'not visible' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines.   
-Your enterprise will not appear in the "shops" menu nor on the OFN map page. 
+When the **Visible in Search?** option is set to 'not visible' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines. \
+Your enterprise will not appear in the "shops" menu nor on the OFN map page.&#x20;
 
-The benefit of this method for making your OFN shop front invisible is that you can invite \(by email, perhaps\), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
+The benefit of this method for making your OFN shop front invisible is that you can invite (by email, perhaps), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
 
 {% hint style="warning" %}
-However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop \(URL\) will be able to visit the shop and place an order.  
+However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop (URL) will be able to visit the shop and place an order. &#x20;
 {% endhint %}
 
 Hence, if someone on your mailing list forwards an email from you to a friend, the friend can place an order without being a registered customer.  You will need to manually double check that all orders came from registered customers, posteroiri.
 
 ## Visible to registered customers only
 
-A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option \(under Enterprises-&gt; Settings-&gt; Shop Preferences\) to **Visible to Registered Customers Only**.
+A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option (under Enterprises-> Settings-> Shop Preferences) to **Visible to Registered Customers Only**.
 
 ![](../../.gitbook/assets/registered-customers-only.png)
 
@@ -36,7 +36,7 @@ Whilst your enterprise will be visible in a search of the OFN platform, your cus
 
 You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
 
-![](../../.gitbook/assets/customer1%20%281%29%20%281%29.jpg)
+![](<../../.gitbook/assets/customer1 (1) (1).jpg>)
 
 ![](../../.gitbook/assets/add-new-customer.png)
 
@@ -50,7 +50,6 @@ When visitors to your shop arrive at the shop, if they're not logged in yet, the
 
 From here there's 2 pathways:
 
-a\) If the customer logs in, or signs up with an email address that is on the shop's customer list, they'll be taken to the shopfront as usual.
+a) If the customer logs in, or signs up with an email address that is on the shop's customer list, they'll be taken to the shopfront as usual.
 
-b\) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
-
+b) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
