@@ -4,52 +4,51 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
-If you don’t want your shopfront to be visible to the public (ie. you would like to host a shop front from which only members can place orders), there are two ways that you can make your shop more private:
+Wenn Sie nicht möchten, dass Ihr Schaufenster für die Öffentlichkeit sichtbar ist (d.h. Sie möchten ein Schaufenster einrichten, in dem nur Mitglieder Bestellungen aufgeben können), gibt es zwei Möglichkeiten, Ihren Shop privater zu gestalten:
 
-* make you shop 'Invisible' and only share the shop website address (URL) with your desired customer base
-* make your shop 'private' and only visible to registered customers.
+* Ihren Shop "unsichtbar" machen und nur die Adresse der Shop-Website (URL) mit Ihrem gewünschten Kundenstamm teilen
+* Ihren Shop "privat" und nur für registrierte Kunden sichtbar machen.
 
-## Make your shop front invisible
+## Machen Sie Ihre Ladenfront unsichtbar
 
-In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), under Primary Details, you can set your profile to 'invisible'.&#x20;
+In Ihren [Unternehmenseinstellungen](../enterprise-profile/enterprise-settings.md) können Sie unter Primäre Details Ihr Profil auf "unsichtbar" setzen.
 
 ![](../../.gitbook/assets/visibleshop.jpg)
 
-When the **Visible in Search?** option is set to 'not visible' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines. \
-Your enterprise will not appear in the "shops" menu nor on the OFN map page.&#x20;
+Wenn die **Option Sichtbar in der Suche**? auf 'nicht sichtbar' eingestellt ist, wird Ihr OFN-Unternehmen sowohl in allen Suchen innerhalb der Plattform als auch in externen Web-Suchmaschinen ausgeblendet. Ihr Unternehmen wird weder im Menü "Geschäfte" noch auf der OFN-Kartenseite angezeigt.
 
-The benefit of this method for making your OFN shop front invisible is that you can invite (by email, perhaps), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
+Der Vorteil dieser Methode, Ihr OFN-Geschäft unsichtbar zu machen, ist, dass Sie Kunden einladen können (z. B. per E-Mail), indem Sie ihnen den direkten Link zum Geschäft schicken. Es ist auch eine einfache und effektive Art, Ihr Unternehmen zu verwalten.
 
 {% hint style="warning" %}
-However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop (URL) will be able to visit the shop and place an order. &#x20;
+**Der Zugang zum Shop ist jedoch nicht eingeschränkt**: Jeder, der die Internetadresse Ihres Shops (URL) kennt, kann den Shop besuchen und eine Bestellung aufgeben.
 {% endhint %}
 
-Hence, if someone on your mailing list forwards an email from you to a friend, the friend can place an order without being a registered customer.  You will need to manually double check that all orders came from registered customers, posteroiri.
+Wenn also jemand aus Ihrer Mailingliste eine E-Mail von Ihnen an einen Freund weiterleitet, kann dieser eine Bestellung aufgeben, ohne ein registrierter Kunde zu sein. Sie müssen manuell überprüfen, ob alle Bestellungen von registrierten Kunden stammen, Posteroiri.
 
-## Visible to registered customers only
+## Nur für registrierte Kunden sichtbar
 
-A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option (under Enterprises-> Settings-> Shop Preferences) to **Visible to Registered Customers Only**.
+Ein strengerer, aber möglicherweise zeitaufwändigerer Ansatz besteht darin, Ihr OFN-Unternehmen in den obigen Unternehmenseinstellungen sichtbar zu lassen, aber die Option "**Öffentlich sichtbares Schaufenster**" (unter Unternehmen-> Einstellungen-> Shop-Einstellungen) in "**Nur für registrierte Kunden sichtbar**" zu ändern.
 
 ![](../../.gitbook/assets/registered-customers-only.png)
 
-Whilst your enterprise will be visible in a search of the OFN platform, your customers would need to log into their OFN account in order to view your shop front and the products on offer.  Other registered OFN shoppers, who are not on your customer list, will not be able to see your shop front once logged into their OFN accounts.
+Während Ihr Unternehmen bei einer Suche auf der OFN-Plattform sichtbar sein wird, müssen sich Ihre Kunden in ihr OFN-Konto einloggen, um Ihre Schaufensterfront und die angebotenen Produkte sehen zu können. Andere registrierte OFN-Kunden, die nicht auf Ihrer Kundenliste stehen, können Ihre Schaufensterfront nicht sehen, wenn sie in ihrem OFN-Konto angemeldet sind.
 
-You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
+Sie müssen Ihre [Kundenliste](customer-management-and-conditional-displays-prices/customers.md) pflegen und alle neuen Kunden manuell hinzufügen, bevor diese ihre erste Bestellung aufgeben können.
 
 ![](<../../.gitbook/assets/customer1 (1) (1).jpg>)
 
 ![](../../.gitbook/assets/add-new-customer.png)
 
-You can also delete customers who you no longer want to be able to see your shop or place an order.
+Sie können auch Kunden löschen, die nicht mehr in der Lage sein sollen, Ihren Shop zu sehen oder eine Bestellung aufzugeben.
 
-### How does the shopping experience change when your shop is private?
+### Wie verändert sich das Einkaufserlebnis, wenn Ihr Geschäft privat ist?
 
-When visitors to your shop arrive at the shop, if they're not logged in yet, they'll see the message below.
+Wenn Besucher Ihres Shops den Shop betreten und noch nicht eingeloggt sind, sehen sie die unten stehende Meldung.
 
 ![](../../.gitbook/assets/privateshop.jpg)
 
-From here there's 2 pathways:
+Von hier aus gibt es 2 Wege:
 
-a) If the customer logs in, or signs up with an email address that is on the shop's customer list, they'll be taken to the shopfront as usual.
+a) Wenn sich der Kunde einloggt oder mit einer E-Mail-Adresse anmeldet, die in der Kundenliste des Shops enthalten ist, wird er wie gewohnt zum Schaufenster des Shops weitergeleitet.
 
-b) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
+b) Wenn sich der Kunde mit einer E-Mail anmeldet oder registriert, die nicht in der Kundenliste des Shops enthalten ist, wird ihm die unten stehende Meldung angezeigt. Er kann sich dann an den Shop wenden, um den Zugang zu beantragen.
