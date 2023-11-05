@@ -1,10 +1,6 @@
 # Zahlungsarten
 
 {% hint style="danger" %}
-[customer-management-and-conditional-displays-prices](customer-management-and-conditional-displays-prices/ "mention")[display-only-order-cycles.md](display-only-order-cycles.md "mention")[display-only-order-cycles.md](display-only-order-cycles.md "mention")[#fee-calculators](payment-methods.md#fee-calculators "mention")[payment-methods.md](payment-methods.md "mention")[[producer-shop-quick-setup-guide.md](../../quick-start-guides/producer-shop-quick-setup-guide.md "mention")](../../quick-start-guides/producer-shop-quick-setup-guide.md)<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line">[[refunds-and-adjusting-payments.md](../orders/refunds-and-adjusting-payments.md "mention")](../orders/refunds-and-adjusting-payments.md)[[#erstattungen](payment-methods.md#erstattungen "mention")](../orders/refunds-and-adjusting-payments.md)[https://stripe.com/au/pricing](https://stripe.com/au/pricing) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
-{% hint style="danger" %}
 Sie **müssen** mindestens eine Zahlungsmethode erstellen, bevor Sie Ihren Shop eröffnen können.
 {% endhint %}
 

@@ -49,7 +49,7 @@
     * [Konfiguration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Abonnements - Erstellen und Verwalten von Bestellungen](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Abonnements - die Perspektive des Kunden](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
-    * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
+    * [Abonnements - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
   * [Berichte](basic-features/reports/README.md)
     * [Berichte bestellen](basic-features/reports/order-reports.md)
     * [Berichte für das Hub-Management](basic-features/reports/reports-for-hub-management.md)

@@ -1,51 +1,47 @@
 # Subscriptions
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 {% hint style="info" %}
-Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
+Abonnements befinden sich im Betastadium, d.h. es handelt sich um eine neue Funktion, die noch einige Fehler aufweisen kann. Bitte [kontaktieren Sie uns](https://openfoodnetwork.org/find-your-local-open-food-network/), wenn Sie uns mitteilen möchten, was funktioniert, was verbessert werden muss oder wie es besser erklärt werden könnte.
 {% endhint %}
 
-## What are subscriptions? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
+## Was sind Abonnements? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
-Subscriptions are recurring or standing orders that can be set up for the customers of any Enterprise with a shopfront. Once set up, these orders will be automatically processed at defined intervals (eg. weekly, fortnightly, monthly).
+Abonnements sind wiederkehrende oder Daueraufträge, die für die Kunden jedes Unternehmens mit einem Schaufenster eingerichtet werden können. Einmal eingerichtet, werden diese Aufträge automatisch in bestimmten Abständen (z. B. wöchentlich, vierzehntägig, monatlich) bearbeitet.
 
 {% hint style="success" %}
-Subscriptions are convenient for customers, as they can know that their order will be processed without needing to remember to place their order.&#x20;
+Abonnements sind für die Kunden bequem, da sie wissen, dass ihre Bestellung bearbeitet wird, ohne dass sie daran denken müssen, ihre Bestellung aufzugeben.
 {% endhint %}
 
 {% hint style="success" %}
-Subscriptions are also a good way for an Enterprise to boost customer loyalty and make their order volumes more predictable.
+Abonnements sind auch eine gute Möglichkeit für ein Unternehmen, die Kundenbindung zu stärken und das Auftragsvolumen berechenbarer zu machen.
 {% endhint %}
 
-**Features of Subscriptions**
+**Merkmale von Abonnements**
 
-* Customers can choose to have their 'usual order' placed automatically.
-* Customers can set up an automatic credit card payment (using [Stripe](../shopfront/payment-methods.md#integrated-payment-providers)) for their subscription
-* Enterprises and/or customers can pause, cancel and/or add/remove products from their standard subscription order.
+* Die Kunden können wählen, ob ihre "normale Bestellung" automatisch aufgegeben werden soll.
+* Kunden können eine automatische Kreditkartenzahlung (über [Stripe](../shopfront/payment-methods.md#stripe)) für ihr Abonnement einrichten
+* Unternehmen und/oder Kunden können ihre Standardabonnementbestellung unterbrechen, kündigen und/oder Produkte hinzufügen/entfernen.
 
-## Set up subscriptions: Step-by-Step guide
+## Abonnements einrichten: Schritt-für-Schritt-Anleitung
 
-#### [Configuration](subscriptions-configuration.md): this page describes the steps to make your enterprise 'Subscription Ready'
+[**Konfiguration:**](subscriptions-configuration.md) **Diese Seite beschreibt die Schritte, um Ihr Unternehmen "abonnementfähig" zu machen**
 
-* [Enable Subscriptions](subscriptions-configuration.md#activate-subscriptions) in your Enterprise Settings.
-* Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions) setup for customers.
-* [Gather information from your customers](subscriptions-configuration.md#gather-information-from-your-customers), including their contact details, which items they'd like in their subscription and which shipping and payment methods they'll use.
-* [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
-* Setup [Schedules](subscriptions-configuration.md#schedules), which will dictate how frequently subscriptions are processed.
+* [Aktivieren Sie Abonnements](subscriptions-configuration.md#aktivieren-von-abonnements) in Ihren Unternehmenseinstellungen.
+* Stellen Sie sicher, dass Sie [Versand- und Zahlungsmethoden ](subscriptions-configuration.md#versand-und-zahlungsarten-fuer-abonnements)für Ihre Kunden eingerichtet haben.
+* [Sammeln Sie Informationen von Ihren Kunden](subscriptions-configuration.md#sammeln-sie-informationen-von-ihren-kunden), z. B. ihre Kontaktdaten, welche Artikel sie in ihrem Abonnement wünschen und welche Versand- und Zahlungsarten sie verwenden werden.
+* [Fügen Sie Ihre Abonnementkunden zu Ihrer Kundenliste hinzu](subscriptions-configuration.md#fuegen-sie-ihre-abonnenten-zu-ihrer-kundenliste-hinzu) und bitten Sie sie, sich bei OFN anzumelden.
+* Einrichten von [Zeitplänen](subscriptions-configuration.md#zeitplaene), die festlegen, wie häufig Abonnements bearbeitet werden.
 
-#### [**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**
+[**Erstellen und Verwalten von Aufträgen:**](subscriptions-creating-and-managing-orders.md) **Auf dieser Seite werden die Schritte beschrieben, die mit der Erstellung eines neuen Abonnements und der anschließenden Bearbeitung des Auftrags verbunden sind.**
 
-* [Create subscriptions](subscriptions-creating-and-managing-orders.md#create-subscriptions) for each customer.
-* [Edit](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) and [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) subscriptions.
-* Understand [How subscriptions are processed](subscriptions-creating-and-managing-orders.md#how-are-subscriptions-processed) (ie how they appear in your 'order list')
+* [Erstellen Sie Abonnements](subscriptions-creating-and-managing-orders.md#abonnements-erstellen) für jeden Kunden.
+* [Bearbeiten](subscriptions-creating-and-managing-orders.md#bearbeiten-sie-das-basisabonnement), [pausieren](subscriptions-creating-and-managing-orders.md#einen-bestimmten-auftrag-bearbeiten) und [löschen](subscriptions-creating-and-managing-orders.md#ein-abonnement-loeschen) Sie Abonnements.
+* Verstehen, [wie Abonnements verarbeitet werden](subscriptions-creating-and-managing-orders.md#wie-werden-die-abonnements-bearbeitet) (d.h. wie sie in Ihrer "Bestellliste" erscheinen)
 
-#### [**Customer Set Up**](subscriptions-the-customers-perspective.md)**: this page describes a customer's perspective of subscriptions.**
+[**Kundeneinrichtung:** ](subscriptions-the-customers-perspective.md)**Diese Seite beschreibt die Perspektive des Kunden auf die Abonnements.**
 
 {% hint style="info" %}
-If you struggle with any aspect of setting up subscriptions for your enterprise you may like to have a look at our [Frequently Asked Questions](subscriptions-faqs.md).
+Wenn Sie Probleme mit der Einrichtung von Abonnements für Ihr Unternehmen haben, sollten Sie einen Blick auf unsere [häufig gestellten Fragen werfen](subscriptions-faqs.md).
 {% endhint %}
 
 ####
