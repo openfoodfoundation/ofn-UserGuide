@@ -1,23 +1,19 @@
 # Nur Schaufenster
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+In manchen Fällen möchten Ladenbesitzer zwar Produkte in ihrem Geschäft anzeigen, den Kunden aber nicht die Möglichkeit geben, zur Kasse zu gehen. Zum Beispiel, um ihr gesamtes Produktsortiment zu zeigen (das saisonal variieren kann) oder um potenziellen Kunden eine Vorstellung von den Produkten zu geben, die im nächsten Bestellzyklus angeboten werden, bevor dieser eröffnet wird.
 
-In some cases, shop owners may want to be able to display products in their shop but not actually allow customers to checkout. For example to show their full product range (which may vary seasonally), or to give potential customers an idea of the products which will be on offer in the next order cycle, before it opens.
+So richten Sie einen Auftragszyklus nur für die Anzeige ein:
 
-To setup a display only order cycle:
-
-* Open an [Order Cycle](order-cycle/order-cycles-for-hubs.md) as usual, with the products you wish to display and date range for the order cycle to remain open.
-* Change the 'Display' state of all your [Payment Methods](payment-methods.md) to 'Back Office Only'.  This can be done from Enterprises -> Settings -> Payment Methods -> Edit:
+* Eröffnen Sie wie gewohnt einen [Auftragszyklus](order-cycle/order-cycles-for-hubs.md) mit den Produkten, die Sie anzeigen möchten, und dem Datumsbereich, in dem der Auftragszyklus geöffnet bleiben soll.
+* Ändern Sie den "Anzeige"-Status aller Ihrer [Zahlungsmethoden](payment-methods.md) auf "Nur Back Office". Dies kann über Unternehmen -> Einstellungen -> Zahlungsarten -> Bearbeiten erfolgen:
 
 ![](../../.gitbook/assets/displayonlyback.jpg)
 
-Your shop will now be in the ‘display only’ state. \
-Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range.
+Ihr Shop befindet sich nun im Zustand "Nur anzeigen".\
+Unten sehen Sie ein Beispiel dafür, wie der Laden für Kunden aussieht. Er ist eindeutig als geschlossen gekennzeichnet, aber die Kunden können die Produktpalette sehen.
 
 ![](../../.gitbook/assets/displayonly.jpg)
 
 {% hint style="warning" %}
-When you next open a live order cycle from which you wish to sell produce, you will need to change the Display state of at least one [payment method](payment-methods.md) to 'Checkout and Back Office' or 'Checkout only'.
+Wenn Sie das nächste Mal einen Live-Auftragszyklus öffnen, aus dem Sie Produkte verkaufen möchten, müssen Sie den Anzeigestatus von mindestens einer [Zahlungsmethode](payment-methods.md) auf "Kasse und Back Office" oder "Nur Kasse" ändern.
 {% endhint %}
