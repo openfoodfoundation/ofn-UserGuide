@@ -6,70 +6,70 @@ Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-o
 Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front ([hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub)).
 {% endhint %}
 
-In Open Food Network, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
+Im Open Food Network sind es die Bestellzyklen, in denen die Shopmanager ihren Shop eröffnen. Dabei wählen sie aus, welche ihrer Produkte vorrätig sind, welche Gebühren anfallen und zu welchen Terminen der Laden öffnet und schließt.
 
-**Why use Order Cycles?**\
-Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. \
-Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open (accepting orders) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
+**Warum Auftragszyklen verwenden?**\
+Viele Hersteller, die kleine Mengen von Produkten verkaufen, halten es für sinnvoll, einen ständig offenen Auftragszyklus zu haben und die Aufträge einzeln zu erfüllen, sobald sie erteilt werden. Andere Produzenten, die große Mengen von Produkten an mehrere Kunden verkaufen, halten es für sinnvoll, periodische Auftragszyklen einzurichten, die am Ende einer Periode gemeinsam erfüllt werden. Ein Landwirt kann zum Beispiel einen Auftragszyklus einrichten, der zwei Wochen lang offen ist (Aufträge annimmt). Am Ende dieses Auftragszyklus werden alle Aufträge gleichzeitig verpackt, sortiert und verteilt. Sobald diese Charge von Aufträgen erfüllt ist, wird ein neuer Auftragszyklus eröffnet. Durch eine solche Strukturierung der Auftragszyklen können die Aufgaben des Verpackens und Auslieferns der Aufträge effizienter gestaltet werden.
 
-## Access Order Cycles
+## Zugang Auftragszyklen
 
-When logged into your admin dashboard you can access order cycles from this button:
+Wenn Sie in Ihrem Admin-Dashboard angemeldet sind, können Sie über diese Schaltfläche auf die Auftragszyklen zugreifen:
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
-Or 'Order Cycles' on the blue horizontal menu across the top of the page.  Then click on **+New Order Cycle**
+Oder "Auftragszyklen" im blauen horizontalen Menü oben auf der Seite. Klicken Sie dann auf **+Neuer Auftragszyklus**
 
 ![](<../../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
 
 {% hint style="info" %}
-Note you cannot create an order cycle until you have set up at least one [shipping ](../shipping-methods.md)and one [payment method](../payment-methods.md).
+Beachten Sie, dass Sie erst dann einen Bestellzyklus erstellen können, wenn Sie mindestens eine [Versand](../shipping-methods.md)- und eine [Zahlungsmethode](../payment-methods.md) eingerichtet haben.
 {% endhint %}
 
-You will now be redirected to a new screen:
+Sie werden nun zu einem neuen Bildschirm weitergeleitet:
 
 ![](../../../.gitbook/assets/ordercyclep1.jpg)
 
 \
-**Name (**_**required**_**):** Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014.
+**Name (erforderlich):** Wählen Sie einen Namen für diesen Auftragszyklus. Dieser Name ist nur für Sie sichtbar. Sie können also einen Namen wählen, der für Sie sinnvoll ist. Wir empfehlen Ihnen, ein einheitliches Namensprotokoll zu verwenden, z. B. FoodHub\_Week27\_2014.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Bestellungen offen:** Dies ist das Datum, an dem Ihr OFN-Shop geöffnet ist und Bestellungen annimmt.
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Bestellungen schließen:** Dies ist das Datum, an dem Ihr OFN-Geschäft schließt und keine Bestellungen mehr annimmt. Wenn Sie beabsichtigen, einen Bestellzyklus zu haben, der ständig geöffnet ist, wählen Sie ein Schließungsdatum, das weit in der Zukunft liegt.
 
-**Schedules:** leave blank unless implementing [Subscriptions](../../subscriptions/).
+**Zeitpläne:** leer lassen, es sei denn, Sie implementieren [Abonnements](../../subscriptions/).
 
-**Ready for (ie Date/Time) (**_**required**_**):** This box tells the customer when their order will be ready for either collection or delivery.&#x20;
+**Bereit für (d.h. Datum/Uhrzeit) (erforderlich):** In diesem Feld wird dem Kunden mitgeteilt, wann seine Bestellung entweder zur Abholung oder zur Lieferung bereit ist.
 
 {% hint style="info" %}
-If your order cycle is constantly open, rather than periodic, then use this box to enter something like 'Two days after ordering'
+Wenn Ihr Bestellzyklus nicht periodisch, sondern ständig offen ist, geben Sie in dieses Feld etwas wie "Zwei Tage nach der Bestellung" ein.
 {% endhint %}
 
 {% hint style="info" %}
-If you have product or location specific order cycles running concurrently you may like to 'hack' this text field by adding extra information eg. 'Meat for Tues'
+Wenn Sie produkt- oder standortspezifische Bestellzyklen haben, die gleichzeitig laufen, können Sie dieses Textfeld mit zusätzlichen Informationen versehen, z. B. "Fleisch für Dienstag".
 {% endhint %}
 
-**Customer Instructions:** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method (see below). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc.&#x20;
+**Anweisungen für den Kunden:** Diese Nachricht wird in die Bestellbestätigungs-E-Mail des Kunden aufgenommen, und zwar unterhalb der Nachricht, die der gewählten Versandart entspricht (siehe unten). Dieser Hinweis ist nur für den Kunden sichtbar, so dass Sie auch sensiblere Informationen wie Adressen oder Telefonnummern usw. angeben können.
 
-**Products:** You must select the products which will be visible in your online store during this order cycle.&#x20;
+**Produkte:** Sie müssen die Produkte auswählen, die während dieses Bestellzyklus in Ihrem Online-Shop sichtbar sein sollen.
 
 {% hint style="info" %}
-Remember, if you add new products after an order cycle is underway, you will need to select them here else they won't appear online!
+Denken Sie daran, dass Sie neue Produkte, die Sie nach einem laufenden Bestellzyklus hinzufügen, hier auswählen müssen, da sie sonst nicht online erscheinen!
 {% endhint %}
 
-**Add Coordinator Fee:** There is the option of adding a coordinator fee. Here you can apply an [enterprise fee](../enterprise-fees.md) that has been created for your enterprise.&#x20;
+**Koordinator-Gebühr hinzufügen:** Es besteht die Möglichkeit, eine Koordinatorgebühr hinzuzufügen. Hier können Sie eine [Unternehmensgebühr](../enterprise-fees.md) anwenden, die für Ihr Unternehmen erstellt wurde.
 
-## Open the shopfront
+## Öffnen Sie das Schaufenster
 
-Click Create to save this order cycle.
+Klicken Sie auf Erstellen, um diesen Auftragszyklus zu speichern.
 
 {% hint style="warning" %}
-If the opening date of your order cycle has already lapsed then your shop front will be live immediately!\
-If you are not quite ready to open the shop, set the 'Opens At' date to a time in the future.
+Wenn das Eröffnungsdatum Ihres Bestellzyklus bereits verstrichen ist, wird Ihr Shop sofort online sein!&#x20;
+
+Wenn Sie noch nicht bereit sind, den Shop zu eröffnen, setzen Sie das Datum "Eröffnet am" auf einen Zeitpunkt in der Zukunft.
 {% endhint %}
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. Select the icon with two sheets of paper to the right of the table as highlighted below:
+Für periodische, sich wiederholende Auftragszyklen können Sie einen bestehenden Auftragszyklus kopieren und die Daten ändern, um den Prozess zu beschleunigen. Wählen Sie das Symbol mit den zwei Papierblättern rechts neben der Tabelle, wie unten hervorgehoben:
 
 ![](<../../../.gitbook/assets/occpy (1).jpg>)
 
-Order cycles will display as green when they are active, yellow when scheduled for a future date, and grey when they have closed. If an order cycle closed over one month ago, it will no longer display on this list. To view all of your past order cycles click **show 30 more days** or **show 90 more days** at the bottom of the list.
+Auftragszyklen werden grün angezeigt, wenn sie aktiv sind, gelb, wenn sie für ein zukünftiges Datum geplant sind, und grau, wenn sie geschlossen wurden. Wenn ein Auftragszyklus vor mehr als einem Monat abgeschlossen wurde, wird er in dieser Liste nicht mehr angezeigt. Um alle Ihre vergangenen Auftragszyklen anzuzeigen, klicken Sie unten in der Liste auf **30 weitere Tage anzeigen** oder **90 weitere Tage anzeigen**.
