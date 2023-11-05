@@ -70,7 +70,5 @@ Sie können erst dann Sätze oder Werte (in der Spalte "Rechnerwerte") angeben, 
 ![](../../.gitbook/assets/enterprisefeepc.jpg)
 
 {% hint style="warning" %}
-Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
-
-Nachdem Sie nun Ihre Unternehmensgebühr erstellt haben, denken Sie daran, dass sie nur dann in Ihrem Shop gilt, wenn sie einem Bestellzyklus hinzugefügt wird. Weitere Informationen finden Sie auf den Seiten zum Bestellzyklus für Produzenten oder Hubs.
+Nachdem Sie nun Ihre Unternehmensgebühr erstellt haben, denken Sie daran, **dass sie nur dann in Ihrem Shop gilt, wenn sie einem Bestellzyklus hinzugefügt wird**. Weitere Informationen finden Sie auf den Seiten zum Bestellzyklus für [Produzenten](order-cycle/order-cycles-for-producers.md) oder [Hubs](order-cycle/order-cycles-for-hubs.md).
 {% endhint %}
