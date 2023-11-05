@@ -31,7 +31,7 @@
     * [Zahlungsarten](basic-features/shopfront/payment-methods.md)
     * [Unternehmensgebühren](basic-features/shopfront/enterprise-fees.md)
     * [Bestellzyklen](basic-features/shopfront/order-cycle/README.md)
-      * [Order Cycles (for Hubs)](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)
+      * [Bestellzyklen (für Hubs)](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)
       * [Order Cycles (for Shops)](basic-features/shopfront/order-cycle/order-cycles-for-producers.md)
       * [Opening more than one order cycle](basic-features/shopfront/order-cycle/opening-more-than-one-order-cycle.md)
       * [Permissions in multi-enterprise order cycles](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)
