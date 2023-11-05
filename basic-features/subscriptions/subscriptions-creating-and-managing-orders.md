@@ -1,193 +1,193 @@
 # Abonnements - Erstellen und Verwalten von Bestellungen
 
-This page describes how shops can setup unique subscriptions for individual customers, including which items are included in their subscription, which [schedule](subscriptions-configuration.md#schedules) the subscription applies to (ie the rate at which they receive their order) and how to pause/edit their subscription.
+Auf dieser Seite wird beschrieben, wie Shops individuelle Abonnements für einzelne Kunden einrichten können. Dazu gehört auch, welche Artikel in ihrem Abonnement enthalten sind, für welchen [Zeitplan](subscriptions-configuration.md#zeitplaene) das Abonnement gilt (d. h. die Rate, zu der sie ihre Bestellung erhalten) und wie sie ihr Abonnement unterbrechen/bearbeiten können.
 
 {% hint style="danger" %}
-&#x20;In this first version of the subscriptions feature, **enterprises must setup subscriptions on behalf of their customers.** Customers can not setup their own subscriptions.
+In dieser ersten Version der **Abonnementfunktion müssen Unternehmen Abonnements im Namen ihrer Kunden einrichten**. Kunden können ihre eigenen Abonnements nicht einrichten.
 {% endhint %}
 
-**Checklist of things to do before you create subscriptions for you customers:**
+**Checkliste der Dinge, die zu tun sind, bevor Sie Abonnements für Ihre Kunden erstellen:**
 
-* Enable subscriptions in your [Enterprise Settings](subscriptions-configuration.md#activate-subscriptions)
-* Setup [shipping and payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions)
-* Have made contact with you customers to [get their details](subscriptions-configuration.md#gather-information-from-your-customers)
-* Added your subscription customers to your [customer list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list). &#x20;
-* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
-* Created at least one [Schedule](subscriptions-configuration.md#schedules)
+* Aktivieren Sie Abonnements in Ihren [Unternehmenseinstellungen](subscriptions-configuration.md#aktivieren-von-abonnements)
+* [Versand- und Zahlungsarten einrichten](subscriptions-configuration.md#versand-und-zahlungsarten-fuer-abonnements)
+* Kontakt mit Ihren Kunden aufgenommen haben, um deren [Daten zu erhalten](subscriptions-configuration.md#sammeln-sie-informationen-von-ihren-kunden)
+* Sie haben Ihre Abonnementkunden zu Ihrer [Kundenliste hinzugefügt](subscriptions-configuration.md#fuegen-sie-ihre-abonnenten-zu-ihrer-kundenliste-hinzu).
+* Sie haben Ihre Kunden kontaktiert, um sie zu bitten, sich für [ein Konto bei OFN anzumelden ](subscriptions-the-customers-perspective.md#anmeldung-bei-ofn)und, falls sie mit Stripe abgerechnet werden, sie zu bitten, [ihre Karte zu speichern und Ihren Shop zu ermächtigen](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren), sie zu belasten.
+* Mindestens einen [Zeitplan](subscriptions-configuration.md#zeitplaene) erstellt
 
 ## Abonnements erstellen
 
-Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
+Klicken Sie im blauen horizontalen Menü auf **Bestellungen** und dann im grünen Untermenü auf **Abonnements**.
 
 ![](<../../.gitbook/assets/sub1 (1) (1).jpg>)
 
-Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription. &#x20;
+Klicken Sie auf **+ Neues Abonnement**, um eine wiederkehrende Bestellung für Ihren Kunden einzurichten. Sie werden zunächst aufgefordert, den Shop auszuwählen, für den Sie das neue Abonnement erstellen möchten.
 
 {% hint style="danger" %}
-You must have created a schedule of order cycles before you can create a subscription. Read more [here](subscriptions-configuration.md#schedules).
+Bevor Sie ein Abonnement erstellen können, müssen Sie einen Zeitplan für die Auftragszyklen erstellt haben. Lesen Sie [hier](subscriptions-configuration.md#zeitplaene) mehr.
 {% endhint %}
 
 ### Grundlegende Details
 
 ![](../../.gitbook/assets/sub2.jpg)
 
-**Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription.&#x20;
+**Kunde:** Wählen Sie einen Kunden aus der Dropdown-Liste aus. Sie können nur aus den Personen wählen, die der [Kundenliste](subscriptions-configuration.md#fuegen-sie-ihre-abonnenten-zu-ihrer-kundenliste-hinzu) für das Unternehmen hinzugefügt wurden, für das Sie das Abonnement erstellen.
 
-**Schedule:** Select the schedule that this customer wants to subscribe to.
+**Zeitplan:** Wählen Sie den Zeitplan, den der Kunde abonnieren möchte.
 
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method (cash, cheque, bank transfer). See [here](subscriptions-configuration.md#payment-methods) for more information.&#x20;
+**Zahlungsmethode:** Wählen Sie die bevorzugte Zahlungsmethode des Kunden. Dies muss entweder Stripe oder eine manuelle Zahlungsmethode (Bargeld, Scheck, Banküberweisung) sein. Siehe [hier](subscriptions-configuration.md#zahlungsmoeglichkeiten) für weitere Informationen.
 
-**Shipping method:** Select the customer’s preferred shipping method.
+**Versandart:** Wählen Sie die vom Kunden bevorzugte Versandart.
 
-**Begins at:** This is the date that the customer’s first subscription generated order will be generated.&#x20;
+**Beginnt am:** Dies ist das Datum, an dem die erste Bestellung des Kunden im Rahmen des Abonnements generiert wird.
 
 {% hint style="danger" %}
-If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not, their first subscription order will be placed when the next order cycle to open in their schedule begins.
+Wenn dieses Datum in der Mitte eines offenen Auftragszyklus in ihrem Zeitplan liegt, wird ein Auftrag für diesen Auftragszyklus generiert. Andernfalls wird der erste Abonnementauftrag erteilt, wenn der nächste offene Auftragszyklus in ihrem Zeitplan beginnt.
 {% endhint %}
 
-**Ends at:** After this date the customer’s subscription orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely.&#x20;
+**Endet am:** Nach diesem Datum werden die Abonnementbestellungen des Kunden nicht mehr generiert. Dieses Feld ist optional, wenn es leer gelassen wird, wird der Auftrag weiterhin auf unbestimmte Zeit generiert.
 
 {% hint style="danger" %}
-If the 'Ends at' date falls in the middle of a future order cycle then no subscription order will be placed.For example:
+Wenn das Enddatum in der Mitte eines zukünftigen Bestellzyklus liegt, wird keine Abonnementbestellung aufgegeben, zum Beispiel:
 
-* If Ends at date is 10/01/2020 but closest order cycle in this customer's schedule is due to open 9/01/2020 and close 11/01/2020 then no order will be generated for the customer.
-* If Ends at date is 12/01/2020 then the above order cycle will generate a last subscription order for the customer.
+* Wenn das Endedatum der 01.10.2020 ist, aber der nächste Auftragszyklus im Zeitplan dieses Kunden am 01.09.2020 beginnt und am 01.11.2020 endet, wird kein Auftrag für den Kunden generiert.
+* Wenn das Enddatum der 01.12.2020 ist, wird der oben genannte Auftragszyklus einen letzten Abonnementauftrag für den Kunden erzeugen.
 {% endhint %}
 
 ### Addresse
 
-Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
+Füllen Sie die Rechnungs- und Versanddaten des Kunden aus. Die Adressdaten von Kunden, die bereits Bestellungen bei OFN aufgegeben haben, werden automatisch geladen.
 
 ![](../../.gitbook/assets/new-subscription-address.png)
 
 {% hint style="warning" %}
-If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
+Wenn Sie die Adress-/Kontaktdaten des [Kunden](../shopfront/customer-management-and-conditional-displays-prices/customers.md) auf der Kundenseite aktualisieren, wird die Änderung nicht automatisch auf sein Abonnement übertragen. Sie müssen die Daten auch hier aktualisieren.
 {% endhint %}
 
 ### Produkte hinzufügen
 
-Add the items the customer wishes to receive from your enterprise on a regular basis.
+Fügen Sie die Artikel hinzu, die der Kunde regelmäßig von Ihrem Unternehmen erhalten möchte.
 
 ![](../../.gitbook/assets/new-subscription-add-products.bin)
 
 {% hint style="warning" %}
-You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
+Sie können nur Produkte hinzufügen, die in zukünftigen Bestellzyklen für Ihr Unternehmen aufgeführt sind und die auch zum gewählten Abonnementplan des Kunden gehören.
 {% endhint %}
 
 ### Prüfen & Sparen
 
-Check that details are correct and then click **Create Subscription** or **Cancel**.
+Überprüfen Sie, ob die Angaben korrekt sind, und klicken Sie dann auf **Abonnement erstellen** oder **Abbrechen**.
 
 {% hint style="warning" %}
-If the schedule for which you have just created a customer's new subscription has an open order cycle then their first order will be generated immediately unless you change the 'Begins at' date to some point in the future.
+Wenn der Zeitplan, für den Sie gerade ein neues Kundenabonnement erstellt haben, einen offenen Auftragszyklus hat, wird der erste Auftrag sofort generiert, es sei denn, Sie ändern das Datum "Beginnt am" auf einen Zeitpunkt in der Zukunft.
 {% endhint %}
 
-#### **What happens if the price of a product changes after the subscription is made?**
+**Was passiert, wenn sich der Preis eines Produkts nach Abschluss des Abonnements ändert?**
 
-The prices of items within subscriptions will update and the customer will be charged according to the updated price.  At the start of each order cycle with which their subscription is generated they will receive an email with a summary of their order, including up-to-date prices.
+Die Preise der Artikel innerhalb der Abonnements werden aktualisiert und dem Kunden entsprechend dem aktualisierten Preis in Rechnung gestellt. Zu Beginn jedes Bestellzyklus, mit dem ihr Abonnement erstellt wird, erhalten sie eine E-Mail mit einer Zusammenfassung ihrer Bestellung, einschließlich der aktuellen Preise.
 
-#### **What if a product in a subscription is not available in an order cycle?**
+**Was ist, wenn ein Produkt eines Abonnements in einem Bestellzyklus nicht verfügbar ist?**
 
-When an item in a subscription is not available (for example if it is a seasonal product) the customer will be alerted in their confirmation emails.
+Wenn ein Artikel in einem Abonnement nicht verfügbar ist (z. B. wenn es sich um ein saisonales Produkt handelt), wird der Kunde in seinen Bestätigungs-E-Mails darauf hingewiesen.
 
 ## Das Abonnement eines Kunden bearbeiten
 
 ### Bearbeiten Sie das Basisabonnement
 
-To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (blue menu) -> **Subscriptions (**green sub-menu).&#x20;
+Um Änderungen am gesamten Abonnement vorzunehmen (d.h. an allen Bestellungen, die von nun an für den Kunden aufgegeben werden), gehen Sie zu **Bestellungen** (blaues Menü) -> **Abonnements** (grünes Untermenü).
 
-Select the enterprise with which the customer has a subscription from the drop-down menu. &#x20;
+Wählen Sie das Unternehmen, bei dem der Kunde ein Abonnement hat, aus dem Dropdown-Menü aus.
 
 ![](<../../.gitbook/assets/sub1 (1) (1) (1).jpg>)
 
-A table listing all your customers' subscriptions will be then visible.   Select the Edit (pen and paper) icon to the right of the customer:&#x20;
+Daraufhin wird eine Tabelle mit allen Abonnements Ihrer Kunden angezeigt. Wählen Sie das Symbol Bearbeiten (Stift und Papier) rechts neben dem Kunden:
 
 ![](../../.gitbook/assets/editsub.jpg)
 
 {% hint style="success" %}
-You can change the products the customer orders via subscription, their preferred shipping and payment methods and the start/end dates of their subscription.
+Sie können die Produkte, die der Kunde im Abonnement bestellt, seine bevorzugten Versand- und Zahlungsarten sowie das Start- und Enddatum seines Abonnements ändern.
 {% endhint %}
 
 {% hint style="danger" %}
-You can not change the schedule of the customer's subscription. Instead the subscription must be recreated in the new preferred schedule and the old version deleted.
+Sie können den Zeitplan des Abonnements des Kunden nicht ändern. Stattdessen muss das Abonnement mit dem neuen bevorzugten Zeitplan neu erstellt und die alte Version gelöscht werden.
 {% endhint %}
 
 ### Einen bestimmten Auftrag bearbeiten
 
-If you want to change a single upcoming order in a subscription you can click on the number in the customers’ _**orders**_ column.
+Wenn Sie einen einzelnen anstehenden Auftrag in einem Abonnement ändern möchten, können Sie auf die Nummer in der **Spalte** der Kundenaufträge klicken.
 
-This will reveal all upcoming orders in the schedule, and you can then edit a specific order.
+Dadurch werden alle anstehenden Aufträge im Zeitplan angezeigt, und Sie können dann einen bestimmten Auftrag bearbeiten.
 
 ![](../../.gitbook/assets/edit-single-subscription-order.bin)
 
 {% hint style="warning" %}
-Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
+Beachten Sie, dass Sie auf diese Weise zwar Artikel aus einer Bestellung entfernen, aber nicht hinzufügen können. Zusätzliche Artikel müssen hinzugefügt werden, indem Sie einen neuen Auftrag erstellen, wie [hier](../orders/create-orders-manually.md) beschrieben.
 {% endhint %}
 
 ### Ein Abonnement löschen
 
-To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
+Um ein Abonnement für einen Kunden zu löschen, der nicht mehr regelmäßig von Ihnen beliefert werden möchte, klicken Sie auf die Schaltfläche mit dem **Kreuz** rechts neben der Tabelle. Dadurch werden keine weiteren Abonnements mehr erstellt und dieses Abonnement wird endgültig gelöscht.
 
 ![](../../.gitbook/assets/cancelsub.jpg)
 
 {% hint style="warning" %}
-&#x20;If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
+Wenn Sie ein Abonnement löschen, während ein offener Auftragszyklus besteht, werden Sie gefragt, ob Sie den offenen Auftrag des Kunden beibehalten oder den aktuellen Auftrag löschen möchten.
 {% endhint %}
 
 ### Ein Abonnement anhalten
 
-A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button (two vertical lines) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.&#x20;
+Es kann sein, dass ein Kunde seine Bestellung pausieren möchte, wenn er zum Beispiel im Urlaub ist. In diesem Fall klicken Sie auf die Schaltfläche "**Pause**" (zwei vertikale Linien) rechts neben der Tabelle der Abonnements. Dadurch wird verhindert, dass alle zukünftigen Bestellungen in diesem Abonnement generiert werden, bis es wieder aktiviert wird.
 
 ![](../../.gitbook/assets/pausesub.jpg)
 
-To un-pause (re-activate) a subscription, click on the **play** (arrow) button.
+Um ein Abonnement zu deaktivieren (wieder zu aktivieren), klicken Sie auf die Schaltfläche "**Play**" (Pfeil).
 
 {% hint style="warning" %}
-If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.&#x20;
+Wenn Sie ein Abonnement unterbrechen, während ein Bestellzyklus noch offen ist, werden Sie gefragt, ob Sie die aktuelle Bestellung beibehalten möchten oder nicht.
 
-Subscriptions re-activated in the middle of an open order cycle will generate orders immediately.
+Abonnements, die in der Mitte eines offenen Auftragszyklus reaktiviert werden, erzeugen sofort Aufträge.
 {% endhint %}
 
 ## Wie werden die Abonnements bearbeitet?
 
-You have set up a subscription for a customer. What happens now, each time an order cycle opens and closes?
+Sie haben ein Abonnement für einen Kunden eingerichtet. Was passiert nun jedes Mal, wenn ein Auftragszyklus geöffnet und geschlossen wird?
 
 ### Der zum Abonnementplan gehörende Auftragszyklus öffnet sich:
 
-* Your customer's order will be created immediately.  They will receive an email notifying them of this.
-* Stock levels of products ordered by the subscription will be deducted accordingly at this time.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned summarising how many subscription have been placed, and how many had issues (e.g. insufficient stock).&#x20;
-* If your enterprise is configured such that 'Orders can be changed/canceled while an order cycle is open' (see [here](subscriptions-configuration.md#activate-subscriptions)) then customers with a subscription generated order can remove products from their order or cancel it.
+* Die Bestellung Ihres Kunden wird sofort erstellt. Er erhält eine E-Mail, die ihn darüber informiert.
+* Die Lagerbestände der im Rahmen des Abonnements bestellten Produkte werden zu diesem Zeitpunkt entsprechend abgezogen.
+* Der [Manager des Unternehmens](../enterprise-profile/enterprise-settings.md#benutzer), der den betreffenden Auftragszyklus koordiniert, erhält eine E-Mail, in der er zusammenfasst, wie viele Bestellungen aufgegeben wurden und bei wie vielen es Probleme gab (z. B. unzureichender Bestand).
+* Wenn Ihr Unternehmen so konfiguriert ist, dass "Bestellungen geändert/storniert werden können, während ein Bestellzyklus offen ist" (siehe [hier](subscriptions-creating-and-managing-orders.md#abonnements-erstellen)), können Kunden mit einer im Abonnement generierten Bestellung Produkte aus ihrer Bestellung entfernen oder diese stornieren.
 
 {% hint style="info" %}
-Note, if you create a subscription while there's an open order cycle in the schedule, _an order will be immediately created_ for that subscriber.
+Beachten Sie: Wenn Sie ein Abonnement erstellen, während ein Auftragszyklus im Zeitplan offen ist, wird sofort ein Auftrag für diesen Abonnenten erstellt.
 {% endhint %}
 
 {% hint style="warning" %}
-Customers are not able to add items to a subscription order once it has been generated, even if the 'Orders can be changed/canceled while an order cycle is open' button is enabled.  In doing so they will create a second order and taken to the checkout as normal.
+Kunden können keine Artikel zu einer Abonnementbestellung hinzufügen, sobald diese erstellt wurde, selbst wenn die Schaltfläche "Bestellungen können geändert/storniert werden, während ein Bestellzyklus offen ist" aktiviert ist. Wenn sie dies tun, erstellen sie eine zweite Bestellung und werden wie gewohnt zur Kasse geführt.
 {% endhint %}
 
 ### Der Auftragszyklus schließt sich
 
-* When the Order cycle closes the subscription orders will be _confirmed_.  Customers will be sent an _order confirmation email_.
-* Customers who opted to pay for their subscription by Stripe will have their credit/debit card debited at this point.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned confirming how many subscription have been processed. It will also detail possible errors (eg. a credit card that couldn't be billed).
+* Wenn der Bestellzyklus abgeschlossen ist, werden die Abonnementbestellungen bestätigt. Die Kunden erhalten eine Auftragsbestätigung per E-Mail.
+* Bei Kunden, die sich für die Bezahlung ihres Abonnements über Stripe entschieden haben, wird ihre Kredit-/Debitkarte an dieser Stelle belastet.
+* Der [Manager des Unternehmens](../enterprise-profile/enterprise-settings.md#benutzer), der den betreffenden Auftragszyklus koordiniert, erhält eine E-Mail, in der er bestätigt, wie viele Abonnements bearbeitet wurden. Sie enthält auch Angaben zu möglichen Fehlern (z. B. eine Kreditkarte, die nicht belastet werden konnte).
 
 ### Planung für künftige Abonnements
 
-There are several ways in which you may opt to plan future order cycles for your enterprise, now that you offer customers the option of a regular automated subscription order:
+Es gibt mehrere Möglichkeiten, wie Sie künftige Bestellzyklen für Ihr Unternehmen planen können, wenn Sie Ihren Kunden die Möglichkeit einer regelmäßigen automatisierten Abonnementbestellung bieten:
 
-* Create all order cycles for the season in advance. A quick way of doing this is to copy an order cycle and modify open/closing dates and name to span the period of time desired.  Add order cycles to the subscription schedules as desired.
+* Erstellen Sie alle Auftragszyklen für die Saison im Voraus. Das geht schnell, indem Sie einen Auftragszyklus kopieren und die Öffnungs- und Schließungsdaten sowie den Namen so ändern, dass sie den gewünschten Zeitraum abdecken. Fügen Sie die Auftragszyklen wie gewünscht zu den Abonnementplänen hinzu.
 
 {% hint style="info" %}
-If you set up lots of order cycles in advance, be sure to check with your suppliers about seasonal availability of items!
+Wenn Sie viele Bestellzyklen im Voraus einrichten, erkundigen Sie sich bei Ihren Lieferanten nach der saisonalen Verfügbarkeit von Artikeln!
 {% endhint %}
 
-* Create order cycles on a weekly (or monthly) basis. On creation, make sure you also add it to the relevant subscription schedule.
+* Erstellen Sie wöchentliche (oder monatliche) Auftragszyklen. Stellen Sie bei der Erstellung sicher, dass Sie den Auftrag auch dem entsprechenden Abonnementplan hinzufügen.
 
 {% hint style="success" %}
-Tips:
+Tipps:
 
-* You may like to promote the fact you offer subscriptions. This may attract potential customers to purchase items from your enterprise. Veg Box schemes are very popular and can be replicated using the subscription functionality.
-* If you notice a number of customers order the same items regularly then offering them the option of an automated order (subscription) might be greatly appreciated.
+* Vielleicht möchten Sie mit der Tatsache werben, dass Sie Abonnements anbieten. Dies kann potenzielle Kunden dazu bringen, Artikel von Ihrem Unternehmen zu kaufen. Veg-Boxen sind sehr beliebt und können mit der Abonnementfunktion nachgebildet werden.
+* Wenn Sie feststellen, dass eine Reihe von Kunden regelmäßig die gleichen Artikel bestellen, könnte es sehr nützlich sein, ihnen die Möglichkeit einer automatischen Bestellung (Abonnement) anzubieten.
 {% endhint %}
