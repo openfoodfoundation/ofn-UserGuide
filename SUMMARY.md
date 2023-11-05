@@ -46,7 +46,7 @@
     * [Erstattungen und Anpassung der Zahlungen](basic-features/orders/refunds-and-adjusting-payments.md)
     * [Thermisch gedruckte Quittungen](basic-features/orders/thermally-printed-receipts.md)
   * [Subscriptions](basic-features/subscriptions/README.md)
-    * [Configuration](basic-features/subscriptions/subscriptions-configuration.md)
+    * [Konfiguration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Subscriptions- Creating & Managing orders](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Subscriptions - the customer's perspective](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
