@@ -44,97 +44,95 @@ Den Kunden werden keine Kosten in Rechnung gestellt, wenn sie ihre Abonnementbes
 {% endhint %}
 
 {% hint style="warning" %}
-For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges). &#x20;
-
-Damit der Kunde korrekt belastet werden kann, muss er ein Konto auf der Open Food Network-Plattform haben. Auf ihrem OFN-Konto müssen sie eine Standard-Kreditkarte registriert und ihrem Unternehmen die Erlaubnis erteilt haben, von dieser Karte abzubuchen. Weitere Informationen finden Sie hier.
+Damit der Kunde korrekt belastet werden kann, muss er ein Konto auf der Open Food Network-Plattform haben. Auf ihrem OFN-Konto müssen sie eine Standard-Kreditkarte registriert und ihrem Unternehmen die Erlaubnis erteilt haben, von dieser Karte abzubuchen. Weitere Informationen finden Sie [hier](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren).
 {% endhint %}
 
 {% hint style="success" %}
-If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.\
+Wenn Sie Stripe als Zahlungsmethode für Abonnements verwenden, ist es für den Kunden hilfreich, wenn Sie eine klare, detaillierte Erklärung hinzufügen, wie die Zahlung abgewickelt wird, wenn er diese Option wählt.\
 \
-For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it details so the customer knows what to expect.
+Anstatt die [Zahlungsmethode](../shopfront/payment-methods.md) "Kreditkarte" zu nennen, könnten Sie sie zum Beispiel "automatische Kreditkartenabrechnung für Abonnements" nennen. Eine mögliche Beschreibung könnte lauten: "Ihre in Ihrem OFN-Konto gespeicherte Standardkreditkarte wird belastet, wenn Ihre Abonnementbestellung am Mittwochabend bestätigt wird". Dieser Name und die Beschreibung werden in der E-Mail-Bestätigung für Abonnement-Kunden erscheinen (siehe Beispiel unten), daher ist es gut, sie detailliert anzugeben, damit der Kunde weiß, was ihn erwartet.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (15).png>)
 
 ## Sammeln Sie Informationen von Ihren Kunden
 
-To setup a subscription for a customer you'll need to get some information from them, as detailed below:
+Um ein Abonnement für einen Kunden einzurichten, müssen Sie einige Informationen von ihm erhalten, wie unten beschrieben:
 
-**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order (subscription) with your enterprise MUST have a registered and confirmed user account on the OFN platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
+**Name, Telefonnummer und E-Mail Adresse:** Denken Sie daran, dass jeder Kunde, der eine automatisierte regelmäßige Bestellung (Abonnement) bei Ihrem Unternehmen aufgeben möchte, ein registriertes und bestätigtes Benutzerkonto auf der OFN-Plattform haben MUSS. Kunden mit Abonnements müssen auf der [Kundenliste](../shopfront/customer-management-and-conditional-displays-prices/customers.md) Ihres Unternehmens stehen. Siehe unten für [weitere](subscriptions-configuration.md#fuegen-sie-ihre-abonnenten-zu-ihrer-kundenliste-hinzu) Details.
 
-**Billing and shipping address**
+**Rechnungs- und Lieferadresse**
 
-**Products:** Which items do they want to include in their subscription?
+**Produkte:** Welche Produkte möchten sie in ihr Abonnement aufnehmen?
 
-**Shipping/Delivery method**: You need to assign a shipping/delivery/collection method to their subscription order.  How would they prefer to receive the goods?
+**Versand-/Zustellungsmethode:** Sie müssen der Abonnementbestellung eine Versand-/Liefer-/Abholmethode zuweisen. Wie möchten sie die Waren erhalten?
 
-**Payment method**: Customers can select from your manual payment methods (e.g. cash, bank transfer), or paying with their credit card through your shop's Stripe account. If the customer wishes to pay for their subscription orders by Stripe then they will need to add a default payment card and give authorisation. See [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for more details.
+Zahlungsmethode: Kunden können zwischen manuellen Zahlungsmethoden (z.B. Barzahlung, Banküberweisung) oder der Zahlung mit Kreditkarte über das Stripe-Konto Ihres Shops wählen. Wenn der Kunde seine Abonnementbestellungen über Stripe bezahlen möchte, muss er eine Standardzahlungskarte hinzufügen und eine Autorisierung erteilen. Siehe [hier](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren) für weitere Details.
 
-**Start and End Dates for their subscription orders:** Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the order cycle close date.
+**Start- und Enddatum für ihre Abonnementaufträge:** Damit ein Abonnementauftrag für einen bestimmten Auftragszyklus erstellt werden kann, muss er ein Startdatum haben, das entweder vor oder nach dem Eröffnungsdatum des Auftragszyklus liegt, und das Enddatum des Abonnements muss nach dem Abschlussdatum des Auftragszyklus liegen.
 
 ## Fügen Sie Ihre Abonnenten zu Ihrer Kundenliste hinzu
 
-Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).&#x20;
+Bevor Sie einen Abonnementauftrag für einen Kunden einrichten können, muss dieser zu Ihrer [Kundenliste](../shopfront/customer-management-and-conditional-displays-prices/customers.md) hinzugefügt werden.
 
-**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
+**Nachdem Sie Ihre Kunden zu Ihrer Kundenliste hinzugefügt haben**, schicken Sie ihnen eine E-Mail und bitten sie, [sich für ein OFN-Konto anzumelden](subscriptions-the-customers-perspective.md#anmeldung-bei-ofn). Wenn Sie vorhaben, Ihre Kunden über Stripe abzurechnen, müssen Sie sie außerdem auffordern, die [hier](subscriptions-the-customers-perspective.md#speichern-der-kreditkartendaten-im-kundenkonto) beschriebenen zusätzlichen Schritte zu befolgen, um ihrem OFN-Benutzerkonto eine Standard-Kredit-/Debitkarte hinzuzufügen und Ihrem Unternehmen die Genehmigung zu erteilen, Zahlungen entgegenzunehmen.
 
 {% hint style="info" %}
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their OFN account is registered.
+Sie können Kunden zu Ihrer Kundenliste hinzufügen, bevor oder nachdem sie sich für ein Konto bei OFN angemeldet haben. Bevor ein Abonnementauftrag erfolgreich eingerichtet werden kann, muss der Kunde jedoch die E-Mail-Adresse bestätigen, auf die sein OFN-Konto registriert ist.
 {% endhint %}
 
 {% hint style="warning" %}
-If you wish to debit a customer for their subscription order by Stripe then they must be added to your [Customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md) BEFORE they can [authorise your enterprise to take payments ](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges)from their credit/debit card.\
-Hence we recommend the following procedure:
+Wenn Sie einen Kunden für seine Abonnementbestellung über Stripe belasten möchten, muss er zu Ihrer [Kundenliste](../shopfront/customer-management-and-conditional-displays-prices/customers.md) hinzugefügt werden, BEVOR er Ihr [Unternehmen ermächtigen kann](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren), Zahlungen von seiner Kredit-/Debitkarte zu nehmen.\
+Wir empfehlen daher das folgende Verfahren:
 
-1. Contact the customer and obtain all the info you require (see [above](subscriptions-configuration.md#gather-information-from-your-customers))
-2. Add them to your [customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
-3. Email the customer, asking them to [register with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn) for an account and [add their credit/debit card details](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) to that account.
-4. [Create the subscription](subscriptions-creating-and-managing-orders.md).
+1. Setzen Sie sich mit dem Kunden in Verbindung und holen Sie alle erforderlichen Informationen ein (siehe [oben](subscriptions-configuration.md#sammeln-sie-informationen-von-ihren-kunden)).
+2. Fügen Sie sie zu Ihrer [Kundenliste](../shopfront/customer-management-and-conditional-displays-prices/customers.md) hinzu.
+3. Senden Sie dem Kunden eine E-Mail, in der Sie ihn auffordern, sich bei [OFN für ein Konto zu registrieren](subscriptions-the-customers-perspective.md#anmeldung-bei-ofn) und seine [Kredit-/Debitkartendaten zu diesem Konto hinzuzufügen](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren).
+4. [Erstellen Sie das Abonnement.](subscriptions-creating-and-managing-orders.md)
 {% endhint %}
 
 ## Zeitpläne
 
 {% hint style="info" %}
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](../shopfront/order-cycle/) before setting up schedules and subscriptions
+Wenn Sie neu bei OFN sind, empfehlen wir Ihnen, sich mit der Einrichtung von [Auftragszyklen](../shopfront/order-cycle/) vertraut zu machen, bevor Sie Zeitpläne und Abonnements einrichten.
 {% endhint %}
 
 ### Über Zeitpläne
 
-Subscriptions are setup so that every time an enterprise opens an order cycle, orders can be automatically generated for customers who have a subscription with that shop.  The frequency with which a subscription order is placed for a particular customer (ie which of your active order cycles triggers their subscription) is controlled by a facility called '**Schedules**'. &#x20;
+Abonnements sind so eingerichtet, dass jedes Mal, wenn ein Unternehmen einen Bestellzyklus öffnet, automatisch Bestellungen für Kunden generiert werden können, die ein Abonnement bei diesem Shop haben. Die Häufigkeit, mit der eine Abonnementbestellung für einen bestimmten Kunden aufgegeben wird (d. h. welcher Ihrer aktiven Bestellzyklen sein Abonnement auslöst), wird über eine Funktion namens "**Zeitpläne**" gesteuert.
 
-Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule. &#x20;
+Zeitpläne sind Gruppen, denen Auftragszyklen zugeordnet werden können. Sobald ein Zeitplan erstellt wurde, werden Kundenabonnements auf den Zeitplan angewendet, so dass eine Bestellung für ihr Abonnement nur für neue Auftragszyklen in diesem Zeitplan generiert wird.
 
 {% hint style="info" %}
-You may have some customers who would like a regular order every week, in which case you would add their subscriptions to a schedule which includes all of your weekly order cycles. For other groups of customers, desiring their orders only fortnightly/monthly you can create additional schedules which only include alternate/one-in-four of your weekly order cycles.
+In diesem Fall würden Sie ihre Abonnements zu einem Zeitplan hinzufügen, der alle Ihre wöchentlichen Bestellzyklen umfasst. Für andere Kundengruppen, die nur vierzehntägige/monatliche Bestellungen wünschen, können Sie zusätzliche Zeitpläne erstellen, die nur abwechselnd/einmal pro Woche einen Ihrer wöchentlichen Bestellzyklen enthalten.
 {% endhint %}
 
 {% hint style="success" %}
-There's lots of flexibility in this arrangement and so feel free to experiment to come up with the order cycle-schedule combination which works best for your enterprise.  For example you may wish to have 'odd week' and 'even week' schedules, 'wholesale' schedules, 'monthly meat' schedules....
+Dieses Arrangement ist sehr flexibel, so dass Sie ruhig experimentieren können, um die für Ihr Unternehmen am besten geeignete Kombination aus Bestellzyklus und Zeitplan zu finden. Sie können zum Beispiel "ungerade Wochen" und "gerade Wochen", "Großhandel", "monatliches Fleisch"....
 {% endhint %}
 
 ### Einen Zeitplan erstellen
 
-Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
+Wenn Sie alle oben beschriebenen Schritte durchgeführt haben, erscheint die Schaltfläche **+Neuer Zeitplan** oben in Ihrem Menü Auftragszyklen:
 
 ![](<../../.gitbook/assets/ordercycle1 (2) (2).jpg>)
 
 {% hint style="warning" %}
-You must have at least one open or due to open order cycle to be able to create a new schedule.
+Sie müssen mindestens einen offenen oder zu öffnenden Auftragszyklus haben, um einen neuen Zeitplan erstellen zu können.
 {% endhint %}
 
 ![](../../.gitbook/assets/new-schedule.bin)
 
-**Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
+**Name:** Geben Sie dem Zeitplan einen logischen Namen, der diese Gruppe von Auftragszyklen beschreibt. Z.B. 'wöchentlich', 'monatlich', 'Dienstagslieferungen', 'Großhandel' oder 'Einzelhandel'. Dieser Name ist für die Kunden nicht sichtbar.
 
 {% hint style="info" %}
-If you manage several OFN enterprises, with subscriptions being enabled in more than one, then naming your schedules clearly is essential eg. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.\
-Each enterprise will need a different schedule but when you create a subscription for a customer the schedules for all your enterprises will be visible. Hence, the descriptive name will help you make sure the subscription is created for the correct enterprise for that particular customer.
+Wenn Sie mehrere OFN-Unternehmen verwalten und die Abonnements in mehr als einem Unternehmen aktiviert sind, müssen Sie Ihre Zeitpläne eindeutig benennen, z. B. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.\
+Jedes Unternehmen benötigt einen anderen Zeitplan, aber wenn Sie ein Abonnement für einen Kunden erstellen, werden die Zeitpläne für alle Ihre Unternehmen angezeigt. Daher hilft Ihnen der beschreibende Name sicherzustellen, dass das Abonnement für das richtige Unternehmen für diesen bestimmten Kunden erstellt wird.
 {% endhint %}
 
-You can add existing order cycles into and out of the new schedule by clicking the < and > buttons.
+Sie können bestehende Auftragszyklen in den neuen Zeitplan einfügen und aus ihm herausnehmen, indem Sie auf die Schaltflächen < und > klicken.
 
-Click **create** when you are finished.
+Klicken Sie auf Erstellen, wenn Sie fertig sind.
 
 ### Bearbeiten oder Löschen eines Zeitplans
 
@@ -152,7 +150,7 @@ Sie können einen Zeitplan nicht löschen, wenn er mit Abonnements verbunden ist
 
 ### Hinzufügen oder Entfernen von Auftragszyklen aus Zeitplänen
 
-You can add and remove order cycles from schedules by either editing the schedule ([above](subscriptions-configuration.md#edit-or-delete-a-schedule)), or by editing the order cycle and adding/removing the schedule in the ‘schedules’ field:
+Sie können Auftragszyklen aus Zeitplänen hinzufügen und entfernen, indem Sie entweder den Zeitplan bearbeiten (siehe [oben](subscriptions-configuration.md#bearbeiten-oder-loeschen-eines-zeitplans)) oder den Auftragszyklus bearbeiten und den Zeitplan im Feld "Zeitpläne" hinzufügen/entfernen:
 
 ![](../../.gitbook/assets/ordercycle3.jpg)
 
