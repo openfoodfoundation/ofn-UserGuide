@@ -48,7 +48,7 @@
   * [Subscriptions](basic-features/subscriptions/README.md)
     * [Konfiguration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Abonnements - Erstellen und Verwalten von Bestellungen](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
-    * [Subscriptions - the customer's perspective](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
+    * [Abonnements - die Perspektive des Kunden](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Subscriptions - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
   * [Berichte](basic-features/reports/README.md)
     * [Berichte bestellen](basic-features/reports/order-reports.md)
