@@ -29,22 +29,24 @@ Wenn Sie das Abonnement des Kunden erstellen, müssen Sie die Versandart und die
 
 ### Versandmethoden
 
-You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) to a subscription.&#x20;
+Sie können jede [Versand-/Liefermethode](subscriptions-configuration.md#versandmethoden) für ein Abonnement verwenden.
 
 ### Zahlungsmöglichkeiten
 
-You can only assign two types of [payment methods](../shopfront/payment-methods.md) to subscriptions.
+Sie können Abonnements nur zwei Arten von [Zahlungsarten](../shopfront/payment-methods.md) zuordnen.
 
-1. **Manual payment methods:** Cash, cheque, bank transfer (ie. any method which does not involve automatic validation online by the OFN platform).
-2. **Stripe:** Stripe is a payment gateway that takes payment with credit cards.  Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers).&#x20;
+1. **Manuelle Zahlungsarten:** Bargeld, Scheck, Banküberweisung (d. h. jede Methode, die keine automatische Online-Validierung durch die OFN-Plattform beinhaltet).
+2. Stripe: Stripe ist ein Zahlungs-Gateway, das Zahlungen mit Kreditkarten entgegennimmt. Einzelheiten darüber, wie Sie Stripe-Zahlungen für Ihr Unternehmen konfigurieren, finden Sie [hier](../shopfront/payment-methods.md#integrierte-zahlungsanbieter).
 
 {% hint style="info" %}
-With each order automatically placed by a subscription, the customer's bank card will be debited for the order (on closure of the associated order cycle). The amount debited will reflect any modifications made by you or them to the order.\
-Customers will not be charged if they cancel their subscription order.
+Bei jeder Bestellung, die automatisch durch ein Abonnement aufgegeben wird, wird die Bankkarte des Kunden für die Bestellung belastet (bei Abschluss des entsprechenden Bestellzyklus). Der belastete Betrag spiegelt alle Änderungen wider, die Sie oder der Kunde an der Bestellung vorgenommen haben.\
+Den Kunden werden keine Kosten in Rechnung gestellt, wenn sie ihre Abonnementbestellung stornieren.
 {% endhint %}
 
 {% hint style="warning" %}
 For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges). &#x20;
+
+Damit der Kunde korrekt belastet werden kann, muss er ein Konto auf der Open Food Network-Plattform haben. Auf ihrem OFN-Konto müssen sie eine Standard-Kreditkarte registriert und ihrem Unternehmen die Erlaubnis erteilt haben, von dieser Karte abzubuchen. Weitere Informationen finden Sie hier.
 {% endhint %}
 
 {% hint style="success" %}
