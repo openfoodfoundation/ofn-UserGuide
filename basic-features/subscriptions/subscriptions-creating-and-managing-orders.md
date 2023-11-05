@@ -1,8 +1,4 @@
-# Subscriptions- Creating & Managing orders
-
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+# Abonnements - Erstellen und Verwalten von Bestellungen
 
 This page describes how shops can setup unique subscriptions for individual customers, including which items are included in their subscription, which [schedule](subscriptions-configuration.md#schedules) the subscription applies to (ie the rate at which they receive their order) and how to pause/edit their subscription.
 
@@ -19,7 +15,7 @@ This page describes how shops can setup unique subscriptions for individual cust
 * Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
 * Created at least one [Schedule](subscriptions-configuration.md#schedules)
 
-## Create subscriptions
+## Abonnements erstellen
 
 Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
 
@@ -31,7 +27,7 @@ Click **+ New Subscription** to setup a recurring order for your customer.  You 
 You must have created a schedule of order cycles before you can create a subscription. Read more [here](subscriptions-configuration.md#schedules).
 {% endhint %}
 
-### Basic Details
+### Grundlegende Details
 
 ![](../../.gitbook/assets/sub2.jpg)
 
@@ -58,7 +54,7 @@ If the 'Ends at' date falls in the middle of a future order cycle then no subscr
 * If Ends at date is 12/01/2020 then the above order cycle will generate a last subscription order for the customer.
 {% endhint %}
 
-### Address
+### Addresse
 
 Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
 
@@ -68,7 +64,7 @@ Fill out the customer’s billing and shipping details. Address details for cust
 If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
 {% endhint %}
 
-### **Add Products**
+### Produkte hinzufügen
 
 Add the items the customer wishes to receive from your enterprise on a regular basis.
 
@@ -78,7 +74,7 @@ Add the items the customer wishes to receive from your enterprise on a regular b
 You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
 {% endhint %}
 
-### Review & Save
+### Prüfen & Sparen
 
 Check that details are correct and then click **Create Subscription** or **Cancel**.
 
@@ -94,9 +90,9 @@ The prices of items within subscriptions will update and the customer will be ch
 
 When an item in a subscription is not available (for example if it is a seasonal product) the customer will be alerted in their confirmation emails.
 
-## Edit a customer’s subscription
+## Das Abonnement eines Kunden bearbeiten
 
-### Edit the base subscription
+### Bearbeiten Sie das Basisabonnement
 
 To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (blue menu) -> **Subscriptions (**green sub-menu).&#x20;
 
@@ -116,7 +112,7 @@ You can change the products the customer orders via subscription, their preferre
 You can not change the schedule of the customer's subscription. Instead the subscription must be recreated in the new preferred schedule and the old version deleted.
 {% endhint %}
 
-### Edit one specific order
+### Einen bestimmten Auftrag bearbeiten
 
 If you want to change a single upcoming order in a subscription you can click on the number in the customers’ _**orders**_ column.
 
@@ -128,7 +124,7 @@ This will reveal all upcoming orders in the schedule, and you can then edit a sp
 Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
 {% endhint %}
 
-### Delete a subscription
+### Ein Abonnement löschen
 
 To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
 
@@ -138,7 +134,7 @@ To delete a subscription for a customer who no longer wishes to receive the good
 &#x20;If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
 {% endhint %}
 
-### Pause a subscription
+### Ein Abonnement anhalten
 
 A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button (two vertical lines) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.&#x20;
 
@@ -152,11 +148,11 @@ If you pause a subscription while an order cycle is still open, you'll be asked 
 Subscriptions re-activated in the middle of an open order cycle will generate orders immediately.
 {% endhint %}
 
-## How are subscriptions processed?
+## Wie werden die Abonnements bearbeitet?
 
 You have set up a subscription for a customer. What happens now, each time an order cycle opens and closes?
 
-### **Order Cycle belonging to the subscription schedule opens:**
+### Der zum Abonnementplan gehörende Auftragszyklus öffnet sich:
 
 * Your customer's order will be created immediately.  They will receive an email notifying them of this.
 * Stock levels of products ordered by the subscription will be deducted accordingly at this time.
@@ -171,13 +167,13 @@ Note, if you create a subscription while there's an open order cycle in the sche
 Customers are not able to add items to a subscription order once it has been generated, even if the 'Orders can be changed/canceled while an order cycle is open' button is enabled.  In doing so they will create a second order and taken to the checkout as normal.
 {% endhint %}
 
-### **The Order Cycle Closes**
+### Der Auftragszyklus schließt sich
 
 * When the Order cycle closes the subscription orders will be _confirmed_.  Customers will be sent an _order confirmation email_.
 * Customers who opted to pay for their subscription by Stripe will have their credit/debit card debited at this point.
 * An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned confirming how many subscription have been processed. It will also detail possible errors (eg. a credit card that couldn't be billed).
 
-### Planning for future subscriptions
+### Planung für künftige Abonnements
 
 There are several ways in which you may opt to plan future order cycles for your enterprise, now that you offer customers the option of a regular automated subscription order:
 
