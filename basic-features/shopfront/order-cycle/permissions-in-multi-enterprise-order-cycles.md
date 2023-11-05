@@ -1,6 +1,6 @@
 # Berechtigungen in unternehmensübergreifenden Auftragszyk
 
-This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
+Diese Seite erläutert die unterschiedlichen Rechte, die jedes Unternehmen im Rahmen komplexer, unternehmensübergreifender Auftragszyklen hat. Sei es:
 
 * the producer ([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)) who supplies the order cycle only,
 * a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
@@ -10,14 +10,14 @@ For more details about simple order cycles involving a single producer selling t
 
 _**The coordinator has the highest degree of control over an order cycle. Other enterprises can view the order cycles they are involved in, but only edit settings which affect them.**_
 
-## The Coordinator
+## Der Koordinator
 
 {% hint style="info" %}
 **Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
 {% endhint %}
 
 {% hint style="warning" %}
-Once an order cycle has been created it is not possible to change the coordinator.
+Sobald ein Auftragszyklus erstellt wurde, ist es nicht mehr möglich, den Koordinator zu ändern.
 {% endhint %}
 
 The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
@@ -34,7 +34,7 @@ The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
 
 
 
-### **Outgoing**
+### Ausgehend von
 
 The coordinator can choose which enterprises the products listed in an order cycle are distributed through (including themselves).
 
@@ -52,7 +52,7 @@ The coordinator can choose from the complete list of incoming products, which wi
 
 The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each distributing hub if desired. This might be advantageous if one hub is further away from the coordinator than another, and hence would have a higher transport overhead associated with it.
 
-## Supplying (Incoming) Enterprises
+## Versorgung von (eingehenden) Unternehmen
 
 The supplier ([producer](../../enterprise-profile/package-types.md#for-producers)) can view all the order cycles they’re involved with by visiting the order cycle summary page (from the top horizontal blue menu), even if they haven't created the order cycles themselves. \
 By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle.  They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.\
@@ -64,12 +64,12 @@ In the Reports section (top horizontal blue menu) an incoming supplying producer
 An incoming supplying enterprise does not automatically see the names of customers who bought their products if they are not also the order cycle coordinator. This setting can be changed by the order cycle coordinator (enterprise that manages the order cycle). If you need to see customer names to facilitate packing and fulfilment of orders, you can contact your order cycle coordinator and ask them to select the Customer Names in Reports checkbox in [Enterprise Settings](../../enterprise-profile/enterprise-settings.md) under Shop Preferences.
 {% endhint %}
 
-### **Incoming**
+### Eingehend
 
 * A supplier can view, add and remove _**their**_ products from the 'Incoming Products' section of an order cycle.
 * A supplier can add/remove enterprise fees which are applied to _**their**_ products in the 'Incoming Products' section of the order cycle.  This might be useful for producers who supply several hubs, some of which are much further away from them than others. They may wish to add an extra levy to more distant hubs to cove transport costs.
 
-### **Outgoing**
+### Ausgehend von
 
 The degree of influence a supplier has over their products in the 'Outgoing Products' section of an order cycle depends on the specific enterprise permissions they granted the distributing hub and vice versa.
 
@@ -77,7 +77,7 @@ The degree of influence a supplier has over their products in the 'Outgoing Prod
 * If the distributing hub did not grant the supplying producer (profile, shop or hub) the right to 'add to \[the hub's] order cycle' then the supplier can view but NOT add and remove products from the list in the 'Outgoing Products' section of the order cycle.
 * A supplier is never able to change the pickup/delivery details, or the enterprise fees applied to the distributor.
 
-## Distributing (Outgoing) Enterprise
+## Verteilendes (ausgehendes) Unternehmen
 
 A distributor can view Order Cycles they’re involved with in their Order Cycle summary page, even if they did not create them themselves (ie. they are not the order cycle coordinator). \
 By clicking on an order cycle, the outgoing distributing enterprise can see the details of an order cycle which relate to them only.  (For example, if they are not the sole distributor of the order cycle they will not be able to see who the other distributing enterprises are nor the products they will offer on their shop front.)\
@@ -85,7 +85,7 @@ The outgoing distributing hub can view and edit details of their distribution- d
 
 In the 'Reports' menu, a order cycle distributor can view the orders which have been placed (along with customer names) to aid delivery/dispatch of goods.
 
-### **Incoming**
+### Eingehend
 
 A distributor can _**view**_ the incoming products of supplier who have granted them the enterprise permission 'add to order cycle' but they can not edit stock levels/availability nor apply/remove producer specific enterprise fees.
 
@@ -93,7 +93,7 @@ A distributor can _**view**_ the incoming products of supplier who have granted 
 At present, only the coordinator of an order cycle can add extra suppliers (producers) to it.
 {% endhint %}
 
-### **Outgoing**
+### Ausgehend von
 
 The degree of influence the distributing hub has over the products in the 'outgoing products' section of an order cycle, depends on the enterprise permissions between them and the supplying producer.
 

@@ -1,30 +1,30 @@
 # Eröffnung von mehr als einem Auftragszyklus
 
-It is possible to have more than one order cycle open at the same time. This has the effect of creating two (or more) open shopfronts, which the customer can choose between from the one website address (URL). \
-This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products (wholesale or retail), different enterprise fees (such a non-member mark-ups) or different order cycle opening and closing dates (for different deliver runs).
+Es ist möglich, mehr als einen Bestellzyklus gleichzeitig offen zu haben. Dies hat den Effekt, dass zwei (oder mehr) offene Schaufenster entstehen, zwischen denen der Kunde über die eine Website-Adresse (URL) wählen kann.\
+Diese Funktion ist hilfreich, wenn Sie unterschiedliche "Bedingungen" in den beiden Schaufenstern haben möchten, wie z. B. unterschiedliche Produkte (Groß- oder Einzelhandel), unterschiedliche Unternehmensgebühren (z. B. Aufschläge für Nicht-Mitglieder) oder unterschiedliche Öffnungs- und Schließungsdaten für den Auftragszyklus (für unterschiedliche Lieferläufe).
 
-When the customer first lands on your shopfront page they will be requested to choose an order cycle before products are visible:
+Wenn der Kunde das erste Mal auf Ihrer Shopseite landet, wird er aufgefordert, einen Bestellzyklus auszuwählen, bevor die Produkte sichtbar sind:
 
 ![](../../../.gitbook/assets/multioc.jpg)
 
-When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
+Wenn der Kunde einen Bestellzyklus auswählt, wird das Schaufenster mit den spezifischen Produkten, Gebühren und Eröffnungs- und Abschlussdaten dieses Bestellzyklus geladen.
 
 {% hint style="danger" %}
-**It is not possible to offer different** [**shipping**](../shipping-methods.md) **or** [**payment**](../payment-methods.md) **methods to different order cycles**; all order cycles will have all of your shipping/payment methods available.  Instead of setting up concurrent order cycles, use [tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) to offer differential rates for specific  customers.&#x20;
+**Es ist nicht möglich, für verschiedene Bestellzyklen unterschiedliche** [**Versand**](../shipping-methods.md)**- oder** [**Zahlungsmethoden**](../payment-methods.md) **anzubieten;** für alle Bestellzyklen stehen alle Ihre Versand-/Zahlungsmethoden zur Verfügung. Anstatt gleichzeitige Bestellzyklen einzurichten, verwenden Sie [Tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md), um unterschiedliche Tarife für bestimmte Kunden anzubieten.
 {% endhint %}
 
 {% hint style="success" %}
-[Tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) can also be used to make order cycles visible or invisible to specific customers. For example, if you tag your wholesale customers as 'pro', then you can make an order cycle with wholesale pricing visible only to 'pro'.&#x20;
+[**Tags**](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) können auch verwendet werden, um Bestellzyklen für bestimmte Kunden sichtbar oder unsichtbar zu machen. Wenn Sie z. B. Ihre Großhandelskunden als "pro" kennzeichnen, können Sie einen Auftragszyklus mit Großhandelspreisen nur für "pro" sichtbar machen.
 {% endhint %}
 
-## **Ordering your order cycles**
+## Bestellung Ihrer Auftragszyklen
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date (closing soonest first) or by opening date (opened earliest first).&#x20;
+Sie können wählen, ob Ihre Auftragszyklen im Dropdown-Menü nach Abschlussdatum (frühestes Abschlussdatum) oder nach Eröffnungsdatum (frühestes Eröffnungsdatum) aufgelistet werden sollen.
 
-This is setup in your [enterprise settings](../../enterprise-profile/enterprise-settings.md) -> Shop Preferences -> Sort Order Cycles On Shopfront By
+Dies wird in Ihren [Unternehmenseinstellungen](../../enterprise-profile/enterprise-settings.md) -> Shop-Einstellungen -> Sortierreihenfolge Zyklen auf der Schaufensterfront nach
 
 ![](../../../.gitbook/assets/ordercyclesort.jpg)
 
-Customers can navigate between order cycles:
+Die Kunden können zwischen den Bestellzyklen navigieren:
 
 ![](../../../.gitbook/assets/multioc2.jpg)
