@@ -1,78 +1,76 @@
-# Enterprise Fees
+# Unternehmensgebühren
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Unternehmensgebühren sind für Erzeuger und Drehscheiben, die zusammenarbeiten, nützlich: Sie ermöglichen es, die Kosten für Verwaltung, Verpackung, Transport, Verkauf und Fundraising verschiedenen Parteien zuzuordnen.
 
-Enterprise fees are useful for producers and hubs who are working together: it allows costs associate with admin, packing, transport, sales and fundraising to be allocated to different parties.
+Eine Drehscheibe kann beispielsweise eine Unternehmensgebühr von 10 % auf alle von ihr verkauften Produkte erheben, um ihre Verwaltungskosten zu decken (Lagerung der Produkte vor dem Vertrieb, Gehälter der Mitarbeiter, die den Verkauf verwalten und koordinieren...).
 
-For example a hub may choose to add an enterprise fee of 10% to all the products they sell, to cover their administration costs (storage of products prior to distribution, salaries of people who manage and coordinate sales...)
+Für Erzeuger, die ihre eigenen Produkte direkt verkaufen, sind diese Kosten bereits im Produktpreis enthalten, so dass die Anwendung von Unternehmensabgaben nicht unbedingt notwendig erscheint.
 
-For producers selling their own products directly, these costs are already present in the price of the product, so applying Enterprise Fees may not seem necessary.&#x20;
-
-One of the many benefits to OFN customers is price transparency.  Shoppers can see the percentage of an item's price assigned to admin, packing etc.  This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+Einer der vielen Vorteile für OFN-Kunden ist die Preistransparenz. Die Kunden können sehen, wie viel Prozent des Preises eines Artikels auf Verwaltung, Verpackung usw. entfallen. Diese Information wird durch Anklicken des Tortendiagramms neben dem Preis eines Produkts auf der Shopfront angezeigt:
 
 ![](../../.gitbook/assets/enterprisefee.jpg)
 
-Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
+Bevor Sie weitermachen, möchten Sie sich vielleicht eine kurze Demonstration der Einrichtung Ihrer ersten Unternehmensgebühr ansehen:
 
 ![](../../.gitbook/assets/enterprisefeefirst.gif)
 
-## Setting up an Enterprise Fee
+## Einrichtung einer Unternehmensgebühr
 
-* Go to the Enterprise Fee page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create one now**  (or **Manage Enterprise Fees** if you have already set one up and would like to edit it). You will be directed to a page like this:
+* Rufen Sie die Seite "Unternehmensgebühren" auf, indem Sie im blauen horizontalen Menü auf "**Unternehmen**" und dann auf "**Einstellungen**" neben Ihrem Unternehmen klicken. Die Seite "**Unternehmensgebühren**" befindet sich im Menü auf der linken Seite.
+* Klicken Sie auf **Jetzt erstellen** (oder **auf** **Unternehmensgebühren verwalten**, wenn Sie bereits eine eingerichtet haben und diese bearbeiten möchten). Sie werden auf eine Seite wie diese weitergeleitet:
 
 ![](../../.gitbook/assets/enterprisefeecreate.jpg)
 
-**Enterprise:** In the first column, select the enterprise to which the fee applies.
+**Unternehmen:** Wählen Sie in der ersten Spalte das Unternehmen aus, für das die Gebühr gilt.
 
-**Fee Type:** Select the service that this fee applied to.  The options are Packing Fee,  Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Gebührenart:** Wählen Sie die Dienstleistung aus, für die diese Gebühr gilt. Die Optionen sind Verpackungsgebühr, Transportgebühr, Verwaltungsgebühr, Verkaufsgebühr oder Fundraising-Gebühr.
 
-**Name:** Choose a name for this fee.
+**Name:** Wählen Sie einen Namen für diese Gebühr.
 
-**Tax Category:** Select the appropriate tax rate.  In most cases the VAT rate for the enterprise fee will be inherited from the product.  If the enterprise fee is associated with a service added to the product the fee may be subject to VAT but the product itself not. In which case choose between 'Zero rated', 'Full Rate' and 'Reduced Rate' of VAT to applied to Enterprise fees.
+**Steuerkategorie:** Wählen Sie den entsprechenden Steuersatz. In den meisten Fällen wird der Mehrwertsteuersatz für die Unternehmensgebühr vom Produkt übernommen. Wenn die Unternehmensgebühr mit einer zum Produkt hinzugefügten Dienstleistung verbunden ist, unterliegt die Gebühr möglicherweise der Mehrwertsteuer, das Produkt selbst jedoch nicht. In diesem Fall wählen Sie zwischen "Nullsatz", "Voller Satz" und "Ermäßigter Satz" für die auf die Unternehmensgebühr anzuwendende Mehrwertsteuer.
 
-**Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Rechner:** Die Gebühr kann auf verschiedene Weise berechnet werden. Wählen Sie den Rechner, der am besten passt.
 
-Click Update, to create the enterprise fee.&#x20;
+Klicken Sie auf Aktualisieren, um die Unternehmensgebühr zu erstellen.
 
 {% hint style="info" %}
-You will only be able to specify rates or values (in the 'calculator values' column after the Enterprise Fee has been created.
+Sie können erst dann Sätze oder Werte (in der Spalte "Rechnerwerte") angeben, wenn die Unternehmensgebühr erstellt wurde.
 {% endhint %}
 
 ![](../../.gitbook/assets/enterprisefee2.jpg)
 
-## Fee Calculators
+## Gebührenberechnungen
 
 ![](../../.gitbook/assets/enterprisefee3.jpg)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
+**Pauschaler Prozentsatz** - Diese Gebühr wird als Prozentsatz des Gesamtbetrages der Bestellung berechnet.
 
-**Weight (per kg)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items (e.g. A product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option.)
+**Gewicht (pro kg)** - diese Gebühr wird auf Produkte pro kg angewendet. Die Gebühr wird nur auf Produkte angewandt, deren Preis pro kg angegeben ist, nicht auf Produkte, die als Artikel aufgeführt sind (z. B. wird für ein Produkt, das als "1 Bund Petersilie" aufgeführt ist, mit dieser Option keine Unternehmensgebühr erhoben).
 
-**Flat Rate (per order)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Pauschale (pro Auftrag)** - Diese Gebühr wird als Standardgebühr für alle Aufträge erhoben, unabhängig vom Umfang des Auftrags.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise can be reduced or zero when the threshold number of items has been reached.&#x20;
+**Flexibler Tarif** - Dieser Tarifrechner ist besonders nützlich, wenn Sie Ihre Kunden zu Großbestellungen ermutigen möchten: Das Unternehmen kann reduziert werden oder auf Null gesetzt werden, wenn eine bestimmte Anzahl von Artikeln erreicht wird.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* Kosten für den ersten Artikel": Die Gebühr, die für den ersten Artikel im Auftrag erhoben wird.
+* Kosten für zusätzliche Artikel": Die Gebühr, die für die über den ersten Artikel hinausgehenden Artikel erhoben wird.
+* Max Items": Die maximale Anzahl von Artikeln, auf die die Gebühr erhoben wird. Für Artikel, die über diese Anzahl hinaus gekauft werden, wird die Gebühr nicht erhoben.
 
 ![](../../.gitbook/assets/enterprisefeeflex.jpg)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in enterprise fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
+> Beispiel: Wenn die "Kosten für den ersten Artikel" auf 0,20 £, die "Kosten für zusätzliche Artikel" auf 0,10 £ und die "Maximale Artikelanzahl" auf 3 festgelegt sind, werden einem Kunden, der 5 Artikel kauft, 0,40 £ an Unternehmensgebühren berechnet (0,20 £ für den ersten Artikel, 0,10 £ für die Artikel zwei und drei und 0,00 £ für die Artikel vier und fünf).
 
-**Flat Rate (per item):** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated enterprise fee charged to a customer who, for example, buys rice by kg.)
+**Pauschalgebühr (pro Artikel):** Diese Gebühr ist eine konstante Gebühr, die auf Produkte angewendet wird, die als "Artikel" aufgeführt sind. (Sie wird nicht auf Produkte angewandt, die nach Gewicht oder Volumen verkauft werden. Daher wird einem Kunden, der z. B. Reis pro kg kauft, keine entsprechende Unternehmensgebühr berechnet).
 
-**Price Sack:** This is a flexible enterprise fee method charged by _total monetary sale_, rather than number of items purchased (Flexible Rate above)
+**Preissack:** Hierbei handelt es sich um eine flexible Unternehmensgebührenmethode, die nach dem Gesamtumsatz und nicht nach der Anzahl der gekauften Artikel berechnet wird (siehe oben).
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal Enterprise fee and Discounted Enterprise fee.&#x20;
-* 'Normal Amount': Payment Method fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Payment Method fee applied to sales above the threshold stated in 'Minimum Amount'.
+* ‘Mindestbetrag": Geldwert des Schwellenwerts zwischen normaler Unternehmensgebühr und ermäßigter Unternehmensgebühr.
+* 'Normaler Betrag': Die Gebühr für die Zahlungsmethode wird für Verkäufe unter dem in "Mindestbetrag" angegebenen Schwellenwert erhoben.
+* Mindestbetrag'.'Rabattbetrag': Gebühr für die Zahlungsmethode, die auf Verkäufe oberhalb des unter "Mindestbetrag" angegebenen Schwellenwerts angewendet wird.
 
 ![](../../.gitbook/assets/enterprisefeepc.jpg)
 
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the order cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
+
+Nachdem Sie nun Ihre Unternehmensgebühr erstellt haben, denken Sie daran, dass sie nur dann in Ihrem Shop gilt, wenn sie einem Bestellzyklus hinzugefügt wird. Weitere Informationen finden Sie auf den Seiten zum Bestellzyklus für Produzenten oder Hubs.
 {% endhint %}
