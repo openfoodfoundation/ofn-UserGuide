@@ -1,11 +1,7 @@
 # Gruppen
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Eine Gruppe ist eine Untergruppe von Unternehmen auf der Open Food Network-Plattform. Eine Gruppenseite funktioniert wie ein Unterverzeichnis innerhalb des OFN. Sie können eine Gruppe erstellen, die Details Ihrer Gruppe angeben und die Unternehmen auswählen, die ihr angehören. Diese Angaben werden auf Ihrer öffentlichen Gruppenseite angezeigt.
 
-A group is a subset of enterprises on the Open Food Network platform. A group page acts as a sub-directory within the OFN. You can create a group, specify the details of your group and select the enterprises which are part of it. These details will appear on your public group page.&#x20;
-
-Enterprises within a group usually share some feature or characteristic in common. It could be a set of enterprises associated with a certification body, a regional producer group, producers in a farmers market network or a complex multi-hub network with several distributors and many producers.&#x20;
+Unternehmen innerhalb einer Gruppe haben in der Regel einige Merkmale oder Eigenschaften gemeinsam. Dabei kann es sich um eine Gruppe von Unternehmen handeln, die mit einer Zertifizierungsstelle verbunden sind, um eine regionale Erzeugergemeinschaft, um Erzeuger in einem Bauernmarktnetz oder um ein komplexes Netzwerk mit mehreren Händlern und vielen Erzeugern.
 
 In this section you can find out how to [create and manage a group page](group-page.md), and how to [embed your OFN group page in your website](embed-a-group-page.md).
