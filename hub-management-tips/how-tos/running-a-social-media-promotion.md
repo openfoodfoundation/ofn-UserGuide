@@ -1,16 +1,14 @@
 # Durchführung einer Social Media Promotion
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+## Einführung
 
-## Introduction
-
-To retain loyal customers and/or attract new ones you may from time to time like to run a social media promotion.  For example, you might post on Facebook and Instagram that for all orders received in the coming week over the value of £20, customers can claim a 5% discount on their shopping the following week.
+Um treue Kunden zu halten und/oder neue Kunden zu gewinnen, können Sie von Zeit zu Zeit eine Werbeaktion in den sozialen Medien durchführen. Sie könnten zum Beispiel auf Facebook und Instagram posten, dass Kunden für alle Bestellungen, die in der kommenden Woche im Wert von mehr als 20 Pfund eingehen, einen Rabatt von 5 % auf ihren Einkauf in der folgenden Woche erhalten.
 
 Below is a step-by-step guide to implementing the above example. The process relies on the highly flexible [Tag and Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods) rules facility on the OFN platform.  At the end of this page are tips on how to [adapt](running-a-social-media-promotion.md#you-might-also-like-to-consider-rewarding-repeat-customers-with-a-small-discount) this promotional offer.
 
-## Process
+Im Folgenden finden Sie eine schrittweise Anleitung zur Umsetzung des obigen Beispiels. Der Prozess basiert auf der äußerst flexiblen [Tag- und Tag-Regel-Funktion](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden) der OFN-Plattform. Am Ende dieser Seite finden Sie Tipps, wie Sie dieses Werbeangebot anpassen können.
+
+## Prozess
 
 {% hint style="warning" %}
 This is a THREE step process:
@@ -20,7 +18,7 @@ This is a THREE step process:
 3. Removing this discount after one week.
 {% endhint %}
 
-### Step One
+### Schritt eins
 
 * Review your [Orders](https://openfoodnetwork.org.uk/admin/orders) when the current order cycle has closed.  You can identify all the customers who have purchased above the threshold using the following:
   1. Filter by Order Cycle name
@@ -28,7 +26,7 @@ This is a THREE step process:
 
 ![](https://lh5.googleusercontent.com/WkOpNQ7tngre9J8YhYye8cP7a6-Cl5xdnc26z4Nd4TjCkUE2bozCPSKAo1IHiWFwIIITZ1l4h5sLzJmPjIfzpM1gKBu\_cS2-b877P8LOGm6r4Yre1S6uoVZeJh9oDmG\_g\_5e7JoG)
 
-### Step Two
+### Zweiter Schritt
 
 * Visit your [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
 * Use the ‘Quick Search’ box to find customers who spent above your threshold on last week’s order cycle.
@@ -83,7 +81,7 @@ For customers tagged ‘week2reward’ payment methods tagged ‘week2reward’ 
 
 ![Checkout view for eligible customer](https://lh4.googleusercontent.com/mYndbgcYtUAcWk0Hzf1fHmnnVYOK78o2CsUVpshoPmCHXQAh6M7r0UFWoYSrCNqxlwVzDIkPANPPbNJdGv5na7b64xVEs-vBrp32oRODlgDgKiTLqVIn4DKk-ODCiIFrWDZZRXF9)
 
-### Step Three
+### Dritter Schritt
 
 When the order cycle closes, as a hub, you may not want that particular set of customers to be eligible for a 5% discount on their future purchases (ie continue to have a discount for more than one week). In which case you will need to either:
 
@@ -94,7 +92,7 @@ When the order cycle closes, as a hub, you may not want that particular set of c
 
 ![](https://lh4.googleusercontent.com/ub-vearrc\_EX85fXpvGNyr1YQLTMvqd-5q8WNrLSDboGVu\_3kWh240orHjgqBElO-dGW4hf\_41p\_JQce4YBhbd1O7wW1B4ylqcw0JiY\_6qUirT6kerXo2tpitFKbrI7o\_j5QbamA)
 
-## **You might also like to consider rewarding repeat customers with a small discount.**&#x20;
+## Sie könnten auch in Erwägung ziehen, Stammkunden mit einem kleinen Rabatt zu belohnen.&#x20;
 
 Rewarding only those customers who spend over a threshold amount may exclude those who live on their own or have a more limited household budget.  You may like to run a social media campaign to encourage customer loyalty- whatever the value of their weekly/monthly spends are.
 
