@@ -1,31 +1,26 @@
 # Wie man Geschenkgutscheine erstellt
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 ## Introduction
 
 {% hint style="warning" %}
-Simple implementation of gift vouchers (selling and redeeming) is not a feature of the OFN platform at present, although it is something we hope to introduce in the future.
+Die einfache Implementierung von Geschenkgutscheinen (Verkauf und Einlösung) ist derzeit keine Funktion der OFN-Plattform, obwohl wir hoffen, sie in Zukunft einführen zu können.
 {% endhint %}
 
-In the meantime it is possible to use tags and tag rules to create vouchers.  The process is described below.  Vouchers are always popular around Christmas and other seasonal events and owing to the complexity of issuing them it may be worth considering only offering vouchers at specific times of year.
+In der Zwischenzeit ist es möglich, Gutscheine mit Hilfe von Tags und Tag-Regeln zu erstellen. Der Vorgang wird im Folgenden beschrieben. Gutscheine sind zu Weihnachten und anderen saisonalen Anlässen immer sehr beliebt, und aufgrund der Komplexität der Ausstellung könnte es sich lohnen, Gutscheine nur zu bestimmten Zeiten des Jahres anzubieten.
 
-An alternative 'gift' option which your enterprise may like to consider is to allow a customer (the gifter) to purchase a [subscription](../../basic-features/subscriptions/) (regular order) for a friend or family member (giftee).  For example the gifter could arrange for the giftee to receive their favourite handmade, local bread to be delivered to them (paid for by gifter), from your food enterprise, every week for a month.
+Eine alternative "Geschenk"-Option, die Ihr Unternehmen in Betracht ziehen könnte, ist die Möglichkeit, dass ein Kunde (der Schenkende) ein [Abonnement](../../basic-features/subscriptions/) (regelmäßige Bestellung) für einen Freund oder ein Familienmitglied (den Beschenkten) abschließt. Zum Beispiel könnte der Schenkende dafür sorgen, dass der Beschenkte einen Monat lang jede Woche sein Lieblingsbrot von Ihrem Lebensmittelunternehmen geliefert bekommt (auf Kosten des Schenkenden).
 
-This would have the extra advantage for the gifter that the cost of the gift would be spread weekly and not a lump payment: cash flow for everyone is tight at Christmas and other seasonal periods!
+Dies hätte für den Schenkenden den zusätzlichen Vorteil, dass die Kosten des Geschenks wöchentlich verteilt würden und nicht als Pauschalbetrag gezahlt werden müssten: Zu Weihnachten und in anderen Jahreszeiten ist der Geldfluss für alle knapp!
 
 ## Process
 
 {% hint style="warning" %}
-This is a multi-step process
+Dies ist ein mehrstufiger Prozess
 {% endhint %}
 
 ### Step One
 
-Create a [product listing](../../basic-features/products-1/products.md) for vouchers. We suggest that you keep it simple ie. having a maximum of three different denominations of voucher only (£10, £20, £50).\
-Remember:&#x20;
+Erstellen Sie ein [Produktverzeichnis](../../basic-features/products-1/products.md) für Gutscheine. Wir schlagen vor, dass Sie es einfach halten, d.h. nur maximal drei verschiedene Gutscheinwerte (£10, £20, £50). Denken Sie daran:
 
 * To include instructions to the customer on how they can redeem their voucher later (they will need to ask the recipient of the voucher to email your enterprise with their voucher ID number (see [step 2](how-to-create-gift-vouchers.md#step-two)) and email address ([step 5](how-to-create-gift-vouchers.md#step-five)) with which they have set up an OFN account.)
 
@@ -35,7 +30,7 @@ Remember:&#x20;
 
 ![](../../.gitbook/assets/voucher2.jpg)
 
-### Step Two
+### Zweiter Schritt
 
 Email a voucher to the customer or print off a paper one. Give each voucher a unique number (perhaps use their OFN order number with post fix of a, b, c etc if more than one voucher purchased in the same transaction).
 
@@ -45,7 +40,7 @@ Example:
 
 This voucher was made using the free online software [Canva](https://www.canva.com/).
 
-### Step Three
+### Dritter Schritt
 
 Make a spreadsheet to record sales and keep track of claims: name of customer (gifter), amount, date of issue, order number/voucher ID number, name of recipient (giftee), credit remaining**.**
 
@@ -55,14 +50,14 @@ Make a spreadsheet to record sales and keep track of claims: name of customer (g
 |                                  |                             |                |                   |                                  |                  |
 |                                  |                             |                |                   |                                  |                  |
 
-### Step Four
+### Vierter Schritt
 
 Customer who bought the voucher (gifter) gives it to a friend or family member at Christmas (giftee). For the giftee to redeem their voucher they need to contact your hub/shop informing you of:
 
 * The email address associated with their OFN account (for [step 5](how-to-create-gift-vouchers.md#step-five))
 * Their unique voucher ID number (for you to keep track of vouchers issued and redeemed).
 
-### Step Five
+### Schritt Fünf
 
 Add the giftee to your enterprise [Customer](https://openfoodnetwork.org.uk/admin/customers) list if they have not purchased from the shop in the past. If they have brought before then they will appear on the list already. &#x20;
 
@@ -70,7 +65,7 @@ Add the giftee to your enterprise [Customer](https://openfoodnetwork.org.uk/admi
 
 **Add a unique tag next to the customer’s name.** Perhaps use initials-underscore-last four digits of the voucher ID number (set up a consistent way of doing this).
 
-### Step Six
+### Schritt Sechs
 
 Set up a NEW [payment method](../../basic-features/shopfront/payment-methods.md#setting-up-a-payment-method) which will be UNIQUE to this customer (the giftee).  Payment Methods can be found by visiting **Enterprises -> Settings -> Payment Methods +New Payment Method**.
 
@@ -91,7 +86,7 @@ Amount: enter the value of their voucher prefixed by a negative sign.
 
 ![](../../.gitbook/assets/christmaspmcalc.jpg)
 
-### Step Seven
+### Schritt Sieben
 
 Set up a [Tag rule](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods) (visit **Enterprises -> Settings -> Tag Rules**):
 
@@ -100,17 +95,17 @@ Rule: for customers tagged initials\_digits payment methods tagged initials\_dig
 
 ![](https://lh5.googleusercontent.com/XNlPg1s5bgvq42adGiNAcJ6-1u4HAGDokwbp7jainIZM0RxROZMhW\_kKrfrbGIUIjKJleibB-5glFEGySi3Dc6bbkdKctyKsJgmu6mFiskNOAxqqxEhX4JQWSSuC2TpD4HgdGiOX)
 
-### **Customer (giftee) uses voucher and exceeds the value of credit remaining:**&#x20;
+### Der Kunde (Beschenkte) nutzt den Gutschein und überschreitet den Wert des Restguthabens:&#x20;
 
 * Delete their unique payment method, tag rule and tag associated with customer’s (giftee’s) name.
 * Obtain the balance of their order by cash payment or BACS
 
-### **Customer (giftee) uses voucher but doesn’t spend its entire value:**&#x20;
+### Der Kunde (Beschenkte) nutzt den Gutschein, gibt aber nicht den gesamten Wert aus:&#x20;
 
 Edit their unique payment method to adjust the ‘amount’ under Fee Calculator to their remaining voucher balance (eg. if the voucher’s original value was £20, they spent £15 then the original amount would be -20 and the amount after their first transaction would need to be edited to -5)\
 
 
-### **Things to note:**
+### Zu beachtende Punkte:
 
 * If a customer (giftee) makes a second purchase before you have had a chance to update their remaining credit or remove the unique payment option (if all their credit has been used up) then they will have the option to claim the voucher’s value twice. This relies on the customer being honest and not doing so. This should be mentioned on the voucher and in the description of their payment method ([step 6](how-to-create-gift-vouchers.md#step-six)). As an enterprise you could cancel orders if a voucher is redeemed inappropriately- always good to notify the customer (giftee) first though!
 * It is a good policy with vouchers to set an expiry date (say 12 months).

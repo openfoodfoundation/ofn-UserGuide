@@ -4,114 +4,113 @@
 
 Um treue Kunden zu halten und/oder neue Kunden zu gewinnen, können Sie von Zeit zu Zeit eine Werbeaktion in den sozialen Medien durchführen. Sie könnten zum Beispiel auf Facebook und Instagram posten, dass Kunden für alle Bestellungen, die in der kommenden Woche im Wert von mehr als 20 Pfund eingehen, einen Rabatt von 5 % auf ihren Einkauf in der folgenden Woche erhalten.
 
-Below is a step-by-step guide to implementing the above example. The process relies on the highly flexible [Tag and Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods) rules facility on the OFN platform.  At the end of this page are tips on how to [adapt](running-a-social-media-promotion.md#you-might-also-like-to-consider-rewarding-repeat-customers-with-a-small-discount) this promotional offer.
-
-Im Folgenden finden Sie eine schrittweise Anleitung zur Umsetzung des obigen Beispiels. Der Prozess basiert auf der äußerst flexiblen [Tag- und Tag-Regel-Funktion](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden) der OFN-Plattform. Am Ende dieser Seite finden Sie Tipps, wie Sie dieses Werbeangebot anpassen können.
+Im Folgenden finden Sie eine schrittweise Anleitung zur Umsetzung des obigen Beispiels. Der Prozess basiert auf der äußerst flexiblen [Tag- und Tag-Regel-Funktion](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden) der OFN-Plattform. Am Ende dieser Seite finden Sie Tipps, wie Sie dieses Werbeangebot [anpassen](running-a-social-media-promotion.md#sie-koennten-auch-in-erwaegung-ziehen-stammkunden-mit-einem-kleinen-rabatt-zu-belohnen.) können.
 
 ## Prozess
 
 {% hint style="warning" %}
-This is a THREE step process:
+Dies ist ein DREISTUFIGER Prozess:
 
-1. Identifying eligible customers who purchased above the threshold value.
-2. Enabling these customers to get a discount the following week.
-3. Removing this discount after one week.
+1. Identifizierung der zugelassenen Kunden, die über dem Schwellenwert gekauft haben.
+2. So können diese Kunden in der folgenden Woche einen Rabatt erhalten.
+3. Dieser Rabatt wird nach einer Woche aufgehoben.
 {% endhint %}
 
 ### Schritt eins
 
-* Review your [Orders](https://openfoodnetwork.org.uk/admin/orders) when the current order cycle has closed.  You can identify all the customers who have purchased above the threshold using the following:
-  1. Filter by Order Cycle name
-  2. Sort by total high to low (click on ‘Total’ twice)
+* Überprüfen Sie Ihre [Bestellungen](https://app.openfoodswitzerland.ch/admin/orders), wenn der aktuelle Bestellzyklus abgeschlossen ist. Sie können alle Kunden, die über dem Schwellenwert gekauft haben, wie folgt identifizieren:
+  1. Filter nach Auftragszyklusname
+  2. Sortieren nach Gesamtwert hoch bis niedrig (zweimal auf 'Gesamt' klicken)
 
 ![](https://lh5.googleusercontent.com/WkOpNQ7tngre9J8YhYye8cP7a6-Cl5xdnc26z4Nd4TjCkUE2bozCPSKAo1IHiWFwIIITZ1l4h5sLzJmPjIfzpM1gKBu\_cS2-b877P8LOGm6r4Yre1S6uoVZeJh9oDmG\_g\_5e7JoG)
 
 ### Zweiter Schritt
 
-* Visit your [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
-* Use the ‘Quick Search’ box to find customers who spent above your threshold on last week’s order cycle.
+* Besuchen Sie Ihre [Kundenseite](https://app.openfoodswitzerland.ch/admin/customers).
+* Verwenden Sie das Feld "Schnellsuche", um Kunden zu finden, die im Bestellzyklus der letzten Woche mehr als den von Ihnen festgelegten Schwellenwert ausgegeben haben.
 
 ![](../../.gitbook/assets/customers1.jpg)
 
-* Add the tag ‘week2reward’ to the customer’s entry.
+* Fügen Sie dem Eintrag des Kunden das Tag "week2reward" hinzu.
 
 ![](https://lh5.googleusercontent.com/msnCbxUJsibbhqjIkK8bWAGDaqgGcPWSiAdZQcNc0bi1h\_rx49qtGG4XxXLYyD9KIXaoS55kMXtHO3NXmghqUZn1EPv\_memdQqy4D07rugbzEculm-wSa4MpR9CpmboYi7CTZFnb)
 
-* Visit **Enterprises -> Settings** and then select ‘[Payment Methods](../../basic-features/shopfront/payment-methods.md)’ from the left hand menu.  Click **+ New Payment** Method.
+*
+* Gehen Sie zu **Unternehmen -> Einstellungen** und wählen Sie dann "[Zahlungsmethoden](../../basic-features/shopfront/payment-methods.md)" aus dem linken Menü. Klicken Sie auf **+ Neue Zahlungsmethode**.
 
 ![](<../../.gitbook/assets/thankyoupaymentmethod (1).jpg>)
 
 \
-Name: Thank you Discount\
-Description: a message of your choice (for example ‘As a small thank you for your support we would like to offer you 5% off this week’s shop’)\
-Display: Both Checkout and Back Office\
-Active: yes\
-**Tags: Add the tag ‘week2reward’ into this space.**\
-Provider: choose the most appropriate method for your business.\
-Fee Calculator: Flat Percent
+Name: Dankeschön Rabatt\
+Beschreibung: eine Nachricht Ihrer Wahl (z. B. "Als kleines Dankeschön für Ihre Unterstützung möchten wir Ihnen diese Woche einen Rabatt von 5 % auf Ihren Einkauf anbieten")\
+Anzeige: Sowohl Kasse als auch Back Office\
+Aktiv: ja\
+**Tags: Fügen Sie den Tag 'week2reward' an dieser Stelle ein.**\
+Anbieter: Wählen Sie die für Ihr Unternehmen am besten geeignete Methode.\
+Honorar-Rechner: Pauschaler Prozentsatz
 
-* After selecting Create, add ‘-5’ \* to the ‘Amount’ field of the ‘Fee Calculator’ Section.  (Negative sign results in a discount)\
+* Nachdem Sie "Erstellen" ausgewählt haben, fügen Sie in das Feld "Betrag" des Abschnitts "Gebührenrechner" ein "-5" \* ein. (Negatives Vorzeichen führt zu einem Rabatt)\
   \
-  \*-5 will result in a 5% discount if your enterprise does not use Enterprise Fees.
+  \*-5 führt zu einer Ermäßigung von 5 %, wenn Ihr Unternehmen keine Enterprise Fees verwendet.
 
 ![](../../.gitbook/assets/pmcalc.jpg)
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only.&#x20;
+Alle **prozentualen Gebühren** werden nur auf der Grundlage eines Prozentsatzes der **Produktkosten** berechnet.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent Enterprise Fee to all products then the amount you need to enter into the 'Flat Percent' field for this discount payment method is:
+Wenn Ihr Unternehmen eine pauschale Unternehmensgebühr auf alle Produkte erhebt, müssen Sie für diese Rabatt-Zahlungsmethode den folgenden Betrag in das Feld "Pauschaler Prozentsatz" eingeben:
 
-&#x20;$$= (100 + Enterprise Fee)*Desired Discount/100$$&#x20;
+&#x20;$$= (100 + Unternehmensgebühr)* Gewünschter Rabatt/100$$&#x20;
 
-eg. for a business with an enterprise fee of 20% who would like to offer a 5% discount to volunteers, the amount to enter in the flat percent of this payment method is:
+z. B. für ein Unternehmen mit einer Unternehmensgebühr von 20 %, das Freiwilligen einen Rabatt von 5 % gewähren möchte, lautet der Betrag, der in den pauschalen Prozentsatz für diese Zahlungsmethode einzugeben ist:
 
 $$= -(100 + 20) *5/100 = -6$$&#x20;
 {% endhint %}
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods)’ from the left hand menu.  Set up the following Tag rules:
+* Rufen Sie die Seite **Unternehmen -> Einstellungen** auf und wählen Sie im linken Menü die Option "Tag-Regeln" aus. Richten Sie die folgenden [Tag-Regeln](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden) ein:
 
-Default: Payment Methods tagged ‘week2reward’ are not visible.\
-For customers tagged ‘week2reward’ payment methods tagged ‘week2reward’ are visible.
+Standard: Zahlungsmethoden mit der Bezeichnung 'week2reward' sind nicht sichtbar.\
+Für Kunden mit dem Tag "week2reward" sind Zahlungsmethoden mit dem Tag "week2reward" sichtbar.
 
 ![](https://lh3.googleusercontent.com/VbTR4DNvEgEduOZz2DuJDeMZSjHC10XVPhFpVKEN6hN7t7L66B599oiTFuUvUKgfm4fAZtBhyHcBHjQtiqF0\_1N\_DJDiDi6XcVY3MjyZbTsXTtOBABp3jnoNcqww8oGBIZm-Z3ky)
 
-**Bingo!  Only those customers who spent more than your threshold amount last week will be offered a 5% discount when they shop with you this week**
+**Bingo! Nur die Kunden, die letzte Woche mehr als den Schwellenwert ausgegeben haben, erhalten diese Woche einen Rabatt von 5 %, wenn sie bei Ihnen einkaufen.**
 
 ![Checkout view for eligible customer](https://lh4.googleusercontent.com/mYndbgcYtUAcWk0Hzf1fHmnnVYOK78o2CsUVpshoPmCHXQAh6M7r0UFWoYSrCNqxlwVzDIkPANPPbNJdGv5na7b64xVEs-vBrp32oRODlgDgKiTLqVIn4DKk-ODCiIFrWDZZRXF9)
 
 ### Dritter Schritt
 
-When the order cycle closes, as a hub, you may not want that particular set of customers to be eligible for a 5% discount on their future purchases (ie continue to have a discount for more than one week). In which case you will need to either:
+Wenn der Bestellzyklus abgeschlossen ist, möchten Sie vielleicht nicht, dass diese bestimmte Gruppe von Kunden für einen 5%-Rabatt auf ihre zukünftigen Einkäufe in Frage kommt (d.h. dass der Rabatt länger als eine Woche gilt). In diesem Fall müssen Sie entweder:
 
-* Remove the ‘week2reward’ tag from all the customer names\
-  **Or**
-* Change the tag rule to:\
-  For Customers tagged ‘week2reward’ Payment Methods tagged ‘week2reward’ are NOT VISIBLE.
+* Entfernen Sie das "week2reward"-Tag aus allen Kundennamen\
+  **Oder**
+* Ändern Sie die Tag-Regel in:\
+  Für Kunden mit dem Tag 'week2reward' sind Zahlungsmethoden mit dem Tag 'week2reward' NICHT SICHTBAR.
 
 ![](https://lh4.googleusercontent.com/ub-vearrc\_EX85fXpvGNyr1YQLTMvqd-5q8WNrLSDboGVu\_3kWh240orHjgqBElO-dGW4hf\_41p\_JQce4YBhbd1O7wW1B4ylqcw0JiY\_6qUirT6kerXo2tpitFKbrI7o\_j5QbamA)
 
 ## Sie könnten auch in Erwägung ziehen, Stammkunden mit einem kleinen Rabatt zu belohnen.&#x20;
 
-Rewarding only those customers who spend over a threshold amount may exclude those who live on their own or have a more limited household budget.  You may like to run a social media campaign to encourage customer loyalty- whatever the value of their weekly/monthly spends are.
+Wenn Sie nur die Kunden belohnen, die mehr als einen bestimmten Betrag ausgeben, werden möglicherweise diejenigen ausgeschlossen, die allein leben oder ein begrenztes Haushaltsbudget haben. Vielleicht möchten Sie eine Kampagne in den sozialen Medien durchführen, um die Kundentreue zu fördern - unabhängig vom Wert der wöchentlichen/monatlichen Ausgaben.
 
-To do this you will need to keep an external record of how often each customer purchases from your OFN shopfront. The [support team in your local instance ](../../local-ofn-organizations-and-contacts.md)maybe able to help compile this data for you. &#x20;
+Dazu müssen Sie extern aufzeichnen, wie oft jeder Kunde in Ihrem OFN-Schaufenster einkauft. Das [Support-Team in Ihrer lokalen Instanz ](../../local-ofn-organizations-and-contacts.md)kann Ihnen vielleicht dabei helfen, diese Daten zusammenzustellen.
 
-With this information these are some ideas of campaigns you could run:
+Mit diesen Informationen können Sie einige Ideen für Kampagnen umsetzen:
 
-#### 5% discount off their next order to customers who order x number weeks/order cycles in a row.
+**5% Rabatt auf die nächste Bestellung für Kunden, die x Wochen/Bestellzyklen hintereinander bestellen.**
 
-In this case you would use the same steps outlined above to tag both the customer and the payment method (with a negative fee calculator) for one order cycle.
+In diesem Fall würden Sie dieselben Schritte wie oben beschrieben durchführen, um sowohl den Kunden als auch die Zahlungsmethode (mit einem negativen Gebührenrechner) für einen Auftragszyklus zu kennzeichnen.
 
-#### Free or discounted delivery of their next order to customers who have ordered x number of weeks in a row (akin to buy 3 lots of delivery and get the next free). 
+#### Kostenlose oder ermäßigte Lieferung der nächsten Bestellung für Kunden, die eine bestimmte Anzahl von Wochen hintereinander bestellt haben (z. B. 3 Lieferungen kaufen und die nächste kostenlos erhalten). 
 
-In this case you would tag the customer (say ‘thankyouweek1’) and then create a [shipping method](../../basic-features/shopfront/shipping-methods.md) with the same tag (which was at a discounted rate).&#x20;
+In diesem Fall würden Sie den Kunden mit einem Tag versehen (z. B. "thankyouweek1") und dann eine [Versandmethode](../../basic-features/shopfront/shipping-methods.md) mit demselben Tag erstellen (die zu einem ermäßigten Preis angeboten wird).
 
-The default and complementary tag rules would be:
+Die Standard- und ergänzenden Tag-Regeln lauten:
 
-Default: Shipping Methods tagged thankyouweek1 are NOT VISIBLE\
-Rule: For customers tagged thankyouweek1 Shipping Methods tagged thakyouweek1 are VISIBLE\
+Standard: Versandmethoden mit dem Tag thankyouweek1 sind NICHT SICHTBAR\
+Regel: Für Kunden, die mit thankyouweek1 gekennzeichnet sind, sind die mit thakyouweek1 gekennzeichneten Versandmethoden SICHTBAR\
 \
 \
 \
