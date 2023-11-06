@@ -18,94 +18,98 @@ Dies hätte für den Schenkenden den zusätzlichen Vorteil, dass die Kosten des 
 Dies ist ein mehrstufiger Prozess
 {% endhint %}
 
-### Step One
+### Schritt eins
 
 Erstellen Sie ein [Produktverzeichnis](../../basic-features/products-1/products.md) für Gutscheine. Wir schlagen vor, dass Sie es einfach halten, d.h. nur maximal drei verschiedene Gutscheinwerte (£10, £20, £50). Denken Sie daran:
 
-* To include instructions to the customer on how they can redeem their voucher later (they will need to ask the recipient of the voucher to email your enterprise with their voucher ID number (see [step 2](how-to-create-gift-vouchers.md#step-two)) and email address ([step 5](how-to-create-gift-vouchers.md#step-five)) with which they have set up an OFN account.)
+* Einfügen von Anweisungen für den Kunden, wie er seinen Gutschein später einlösen kann (Sie müssen den Empfänger des Gutscheins bitten, Ihrem Unternehmen eine E-Mail mit der Gutschein-ID-Nummer (siehe[ Schritt 2](how-to-create-gift-vouchers.md#zweiter-schritt)) und der E-Mail-Adresse ([Schritt 5](how-to-create-gift-vouchers.md#schritt-fuenf)), mit der er ein OFN-Konto eingerichtet hat, zu schicken).
 
 ![](../../.gitbook/assets/voucher1.jpg)
 
-* That [enterprise fees](../../basic-features/shopfront/enterprise-fees.md) are included in the price of the voucher.  The person who redeems the voucher will also have the enterprise fee added onto the products they purchase (ie. fees will be collected twice). The extra enterprise fee may be necessary to cover the added overheads of admin work, processing gift vouchers. Alternatively the product price can be adjusted so that the customer facing price (product price + fee) is the voucher’s value.
+* dass die Unternehmensgebühren im Preis des Gutscheins enthalten sind. Bei der Person, die den Gutschein einlöst, wird die Unternehmensgebühr ebenfalls auf die von ihr gekauften Produkte aufgeschlagen (d. h. die Gebühren werden zweimal erhoben). Die zusätzliche [Unternehmensgebühr](../../basic-features/shopfront/enterprise-fees.md) kann notwendig sein, um die zusätzlichen Verwaltungskosten für die Bearbeitung von Geschenkgutscheinen zu decken. Alternativ kann der Produktpreis so angepasst werden, dass der Wert des Gutscheins dem Preis des Kunden entspricht (Produktpreis + Gebühr).
 
 ![](../../.gitbook/assets/voucher2.jpg)
 
 ### Zweiter Schritt
 
-Email a voucher to the customer or print off a paper one. Give each voucher a unique number (perhaps use their OFN order number with post fix of a, b, c etc if more than one voucher purchased in the same transaction).
+Schicken Sie dem Kunden einen Gutschein per E-Mail oder drucken Sie einen Papiergutschein aus. Geben Sie jedem Gutschein eine eindeutige Nummer (verwenden Sie z. B. die OFN-Bestellnummer mit dem Postfix a, b, c usw., wenn mehrere Gutscheine in derselben Transaktion gekauft wurden).
 
-Example:
+Beispiel:
 
 ![](../../.gitbook/assets/1.png)
 
-This voucher was made using the free online software [Canva](https://www.canva.com/).
+Dieser Gutschein wurde mit der kostenlosen Online-Software [Canva](https://www.canva.com/) erstellt.
 
 ### Dritter Schritt
 
-Make a spreadsheet to record sales and keep track of claims: name of customer (gifter), amount, date of issue, order number/voucher ID number, name of recipient (giftee), credit remaining**.**
+Erstellen Sie eine Tabelle, um die Verkäufe zu erfassen und die Forderungen zu verfolgen: Name des Kunden (Schenkenden), Betrag, Ausstellungsdatum, Bestellnummer/Gutschein-ID-Nummer, Name des Empfängers (Beschenkten), Restguthaben.
 
-| Gifter email address             | Value of Voucher            | Date purchased | Voucher ID number | Giftee email address             | Credit remaining |
-| -------------------------------- | --------------------------- | -------------- | ----------------- | -------------------------------- | ---------------- |
-| <p>…@gmail.com<br>Joe Bloggs</p> | <p>£20</p><p>R185277652</p> | 10/10/20       | JB\_7652a         | <p>…@hotmail.com<br>Mr Baker</p> | £20              |
-|                                  |                             |                |                   |                                  |                  |
-|                                  |                             |                |                   |                                  |                  |
+| Gifter-E-Mail-Adresse            | Wert des Gutscheins         | Datum des Erwerbs | ID-Nummer des Gutscheins | Giftee email address             | Credit remaining |
+| -------------------------------- | --------------------------- | ----------------- | ------------------------ | -------------------------------- | ---------------- |
+| <p>…@gmail.com<br>Joe Bloggs</p> | <p>£20</p><p>R185277652</p> | 10/10/20          | JB\_7652a                | <p>…@hotmail.com<br>Mr Baker</p> | £20              |
+|                                  |                             |                   |                          |                                  |                  |
+|                                  |                             |                   |                          |                                  |                  |
 
 ### Vierter Schritt
 
-Customer who bought the voucher (gifter) gives it to a friend or family member at Christmas (giftee). For the giftee to redeem their voucher they need to contact your hub/shop informing you of:
+Der Kunde, der den Gutschein gekauft hat (Schenker), schenkt ihn zu Weihnachten einem Freund oder Familienmitglied (Beschenkter). Damit der Beschenkte seinen Gutschein einlösen kann, muss er Ihren Hub/Shop kontaktieren und Sie darüber informieren:
 
-* The email address associated with their OFN account (for [step 5](how-to-create-gift-vouchers.md#step-five))
-* Their unique voucher ID number (for you to keep track of vouchers issued and redeemed).
+* Die mit ihrem OFN-Konto verbundene E-Mail-Adresse (für [Schritt 5](how-to-create-gift-vouchers.md#schritt-fuenf))
+* Ihre eindeutige Gutschein-ID-Nummer (damit Sie den Überblick über ausgestellte und eingelöste Gutscheine behalten können).
 
 ### Schritt Fünf
 
 Add the giftee to your enterprise [Customer](https://openfoodnetwork.org.uk/admin/customers) list if they have not purchased from the shop in the past. If they have brought before then they will appear on the list already. &#x20;
 
+Fügen Sie den Beschenkten zu Ihrer [Unternehmenskundenliste](https://app.openfoodswitzerland.ch/admin/customers) hinzu, wenn er in der Vergangenheit noch nicht im Shop eingekauft hat. Wenn er schon einmal eingekauft hat, wird er bereits in der Liste erscheinen.
+
 ![](https://lh6.googleusercontent.com/kQ9p8e9MwV59o9bnXYdzS2yZCPduKmJrBr3PF0y--YxnUSCgTPlYvXgWgHVVv45T6RFCVfeuVZO32H2TggixTTkP\_zzKitwD3Q3PeR70OrCWApmCVvJRUZtzQavLaADi6hYd-wsZ)
 
-**Add a unique tag next to the customer’s name.** Perhaps use initials-underscore-last four digits of the voucher ID number (set up a consistent way of doing this).
+**Fügen Sie eine eindeutige Kennzeichnung neben dem Namen des Kunden hinzu.** Verwenden Sie vielleicht die Initialen und die letzten vier Ziffern der Gutschein-ID-Nummer (legen Sie eine einheitliche Vorgehensweise fest).
 
 ### Schritt Sechs
 
-Set up a NEW [payment method](../../basic-features/shopfront/payment-methods.md#setting-up-a-payment-method) which will be UNIQUE to this customer (the giftee).  Payment Methods can be found by visiting **Enterprises -> Settings -> Payment Methods +New Payment Method**.
+
+
+Richten Sie eine NEUE [Zahlungsmethode](../../basic-features/shopfront/payment-methods.md#einrichte-einer-zahlungsmethode) ein, die für diesen Kunden (den Beschenkten) EINZIGARTIG sein wird. Zahlungsarten finden Sie unter **Unternehmen -> Einstellungen -> Zahlungsarten +Neue Zahlungsart**.
 
 ![](https://lh3.googleusercontent.com/6ByGcLUnW\_rDqrBloGtym1i64JhDcMEVFospqUCR7BZc1vk5lbpiqZREU3LhN8iU9bqKPyM\_Wnd4YJwkkvgPWX4JIP9yHszyboX5rnZagwiaFMs0jbKage3z\_\_gVKGDG2fLFPch\_)
 
-Description- use the description box to explain to the customer the value of the voucher they have received from their friend/family, that any balance on their order will need to be made up by cash or BACS (provide bank details on how to do this) if necessary. It is also worth explaining any terms and conditions- for example that the voucher is single use (ie. once the value has been claimed then if they use the voucher again immediately the 2nd order will be cancelled or full payment will be required) and expiry date for the voucher.\
-Display = Both Checkout and Backoffice\
-Active = yes\
-**Add tag to payment method (same as used for the customer).**\
-Provider- cash (if the customer spends more than the value of their voucher then they will need to pay the remainder by cash or BACS)
+Beschreibung - Verwenden Sie das Beschreibungsfeld, um dem Kunden den Wert des Gutscheins zu erklären, den er von seinem Freund/Familie erhalten hat, und dass der Restbetrag der Bestellung gegebenenfalls in bar oder per BACS beglichen werden muss (geben Sie die Bankdaten an, wie Sie dies tun können). Es lohnt sich auch, alle Bedingungen zu erklären - zum Beispiel, dass der Gutschein nur einmalig verwendet werden kann (d.h. wenn der Wert des Gutscheins einmal in Anspruch genommen wurde, wird die zweite Bestellung storniert oder es muss der volle Betrag bezahlt werden) und das Ablaufdatum des Gutscheins.\
+Anzeige = Sowohl Kasse als auch Backoffice\
+Aktiv = ja\
+**Fügen Sie der Zahlungsmethode eine Markierung hinzu (dieselbe wie für den Kunden).**\
+Anbieter - Bargeld (wenn der Kunde mehr als den Wert seines Gutscheins ausgibt, muss er den Restbetrag in bar oder per BACS bezahlen)
 
 {% hint style="danger" %}
-Do not use an automated payment provider (Stripe or PayPal) here as this will result in a payment being made from your enterprise into the giftee's bank account if they spend less than the voucher value.
+Verwenden Sie hier keinen automatischen Zahlungsanbieter (Stripe oder PayPal), da dies dazu führt, dass eine Zahlung von Ihrem Unternehmen auf das Bankkonto des Beschenkten erfolgt, wenn dieser weniger als den Gutscheinwert ausgibt.
 {% endhint %}
 
-Fee Calculator: Flat Rate\
-Amount: enter the value of their voucher prefixed by a negative sign.
+Honorar-Rechner: Pauschalpreis\
+Betrag: Geben Sie den Wert ihres Gutscheins mit einem vorangestellten negativen Vorzeichen ein.
 
 ![](../../.gitbook/assets/christmaspmcalc.jpg)
 
 ### Schritt Sieben
 
-Set up a [Tag rule](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods) (visit **Enterprises -> Settings -> Tag Rules**):
+Richten Sie eine[ Tag-Regel ](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden)ein (besuchen Sie **Unternehmen -> Einstellungen -> Tag-Regeln**):
 
-Default: Payment Methods tagged initials\_digits are not visible\
-Rule: for customers tagged initials\_digits payment methods tagged initials\_digits are visible.
+Standard: Zahlungsmethoden mit dem Tag initials\_digits sind nicht sichtbar\
+Regel: Für Kunden mit dem Tag initials\_digits sind Zahlungsmethoden mit dem Tag initials\_digits sichtbar.
 
 ![](https://lh5.googleusercontent.com/XNlPg1s5bgvq42adGiNAcJ6-1u4HAGDokwbp7jainIZM0RxROZMhW\_kKrfrbGIUIjKJleibB-5glFEGySi3Dc6bbkdKctyKsJgmu6mFiskNOAxqqxEhX4JQWSSuC2TpD4HgdGiOX)
 
 ### Der Kunde (Beschenkte) nutzt den Gutschein und überschreitet den Wert des Restguthabens:&#x20;
 
-* Delete their unique payment method, tag rule and tag associated with customer’s (giftee’s) name.
-* Obtain the balance of their order by cash payment or BACS
+* Löschen Sie die eindeutige Zahlungsmethode, die Tag-Regel und das Tag, das mit dem Namen des Kunden (des Beschenkten) verbunden ist.
+* den Restbetrag ihrer Bestellung durch Barzahlung oder BACS zu erhalten
 
 ### Der Kunde (Beschenkte) nutzt den Gutschein, gibt aber nicht den gesamten Wert aus:&#x20;
 
-Edit their unique payment method to adjust the ‘amount’ under Fee Calculator to their remaining voucher balance (eg. if the voucher’s original value was £20, they spent £15 then the original amount would be -20 and the amount after their first transaction would need to be edited to -5)\
+Bearbeiten Sie die individuelle Zahlungsmethode, um den "Betrag" unter Gebührenrechner an das verbleibende Guthaben des Gutscheins anzupassen (z. B. wenn der ursprüngliche Wert des Gutscheins 20 £ betrug und Sie 15 £ ausgegeben haben, wäre der ursprüngliche Betrag -20 und der Betrag nach der ersten Transaktion müsste auf -5 geändert werden).\
 
 
 ### Zu beachtende Punkte:
 
-* If a customer (giftee) makes a second purchase before you have had a chance to update their remaining credit or remove the unique payment option (if all their credit has been used up) then they will have the option to claim the voucher’s value twice. This relies on the customer being honest and not doing so. This should be mentioned on the voucher and in the description of their payment method ([step 6](how-to-create-gift-vouchers.md#step-six)). As an enterprise you could cancel orders if a voucher is redeemed inappropriately- always good to notify the customer (giftee) first though!
-* It is a good policy with vouchers to set an expiry date (say 12 months).
+* Wenn ein Kunde (der Beschenkte) einen zweiten Kauf tätigt, bevor Sie die Möglichkeit hatten, sein verbleibendes Guthaben zu aktualisieren oder die einmalige Zahlungsoption zu entfernen (wenn sein Guthaben aufgebraucht ist), hat er die Möglichkeit, den Wert des Gutscheins zweimal zu beanspruchen. Dies setzt voraus, dass der Kunde ehrlich ist und dies nicht tut. Dies sollte auf dem Gutschein und in der Beschreibung der Zahlungsmethode ([Schritt 6](how-to-create-gift-vouchers.md#schritt-sechs)) erwähnt werden. Als Unternehmen können Sie Bestellungen stornieren, wenn ein Gutschein unberechtigterweise eingelöst wird - es ist jedoch immer gut, den Kunden (den Beschenkten) vorher zu informieren!
+* Bei Gutscheinen ist es sinnvoll, ein Verfallsdatum festzulegen (z. B. 12 Monate).
