@@ -4,7 +4,7 @@ In diesem Abschnitt möchten wir Ihnen anhand einer Reihe von Beispielen Schritt
 
 Diese Liste erhebt keinen Anspruch auf Vollständigkeit und deckt möglicherweise Ihr spezielles Szenario nicht ab. Denken Sie daran, dass Sie sich jederzeit an Ihr [lokales Instanz-Supportteam](../../local-ofn-organizations-and-contacts.md) wenden können, wenn Sie weitere Hilfe benötigen
 
-* [Delete an enterprise](delete-an-enterprise.md)
+* [Ein Unternehmen löschen](delete-an-enterprise.md)
 * [Early Shopping 'Hour' for priority groups](early-shopping-hour-for-priority-groups.md)
 * [Discounted/Free Delivery for vulnerable customers](discounted-free-delivery-for-vulnerable-customers.md)
 * [Reward your volunteers](reward-your-volunteers.md)
