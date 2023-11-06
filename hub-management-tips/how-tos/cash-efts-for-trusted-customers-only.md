@@ -1,48 +1,44 @@
 # Bargeld/EFTs nur für vertrauenswürdige Kunden
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+## Einführung
 
-## Introduction
+Es ist immer sehr enttäuschend, wenn Ihr Lieferant Zeit und Ressourcen aufgewendet hat, um Waren für einen Kunden vorzubereiten, und dieser dann nicht kommt, um seine Einkäufe abzuholen. Dies ist besonders dann ein Risiko, wenn die Waren nicht im Voraus bezahlt werden.
 
-It’s always really disappointing if your supplier has spent time and resources to prepare goods for a customer and then they don’t arrive to collect their shopping.  This is especially a risk when payment is not taken up front for goods. &#x20;
+Mit [Stripe (Kartenzahlung) oder PayPal](../../basic-features/shopfront/payment-methods.md) können Unternehmen automatisch Zahlungen von ihren Käufern zum Zeitpunkt der Kasse über die OFN-Plattform einziehen. Diese Kartenzahlungsmethoden sind jedoch nicht für alle Kunden geeignet: Einige haben Angst vor Online-Zahlungen, andere haben kein Bankkonto und wieder andere nutzen Bargeld, um ihr Wochenbudget im Auge zu behalten.
 
-Using [Stripe (card payment) or PayPal ](../../basic-features/shopfront/payment-methods.md)businesses can automatically collect payment from their shoppers at the time of checkout using the OFN platform.  These card payment methods may not suit all your customers though: some people are afraid of online payments, some may not have a bank account and others might use cash as a way of keeping track of their weekly budgets.
+Als Geschäftsführer eines lokalen Lebensmittelunternehmens kennen Sie die Bedürfnisse Ihrer Kunden. Vielleicht möchten Sie, dass die Mehrheit Ihrer Kunden mit Karte bezahlt (weniger Verwaltungsaufwand für Sie, um Zahlungen per BACS oder Bargeld zu verfolgen/einzuziehen, die Gewissheit, dass Sie die Zahlung für die Waren im Voraus haben, anstatt auf den Tag der Abholung zu warten .... usw.), aber einer kleinen Auswahl, die Sie kennen und der Sie vertrauen, erlauben Sie, mit Bargeld oder BACS zu bezahlen. Sie können [Tags und Tag-Regeln](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#zahlungsarten-anzeigen-ausblenden) verwenden, um dies wie unten beschrieben umzusetzen.
 
-As a manager of a local food enterprise you are in tune with your customers’ needs.  You might like the majority of your customers to pay by card (less admin time for you to chase/collect payments by BACS or cash, peace of mind that you have payment upfront for goods rather than waiting for the day of collection …. etc) but allow a small selection who you know and trust to pay by cash or BACS.  You can use [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods) to implement this as described below.
+## Prozess
 
-## Process
-
-* Set up a [Stripe](../../basic-features/shopfront/payment-methods.md#integrated-payment-providers) (or PayPal) payment method which will be your only option for the majority of shoppers. (Visit **Enterprises -> Settings -> Payment Method** and ‘**Create New Payment Method+**’. See [this guide](https://guide.openfoodnetwork.org/basic-features/shopfront/payment-methods) for more information.)
-* Create a second payment method with the following settings:\
-  Name: ‘Cash or BACS payment’\
-  Description: provide relevant details here such as bank information required for a trusted customer to make direct payment to your bank account\
-  Display: Both checkout and back office\
-  Active: yes\
-  **Tags: ‘trusted’**\
-  Provider: Cash/EFT/etc
+* Richten Sie eine [Stripe](../../basic-features/shopfront/payment-methods.md#stripe)- (oder PayPal-) Zahlungsmethode ein, die für die meisten Kunden die einzige Option sein wird. (Besuchen Sie **Unternehmen -> Einstellungen -> Zahlungsmethode** und "**Neue Zahlungsmethode+ erstellen**". Weitere Informationen finden Sie in diesem [Leitfaden](../../basic-features/shopfront/payment-methods.md)).
+* Erstellen Sie eine zweite Zahlungsmethode mit den folgenden Einstellungen:\
+  Name: Barzahlung oder BACS-Zahlung".\
+  Beschreibung: Geben Sie hier relevante Details an, z. B. die Bankinformationen, die ein vertrauenswürdiger Kunde benötigt, um eine direkte Zahlung auf Ihr Bankkonto vorzunehmen.\
+  Anzeige: Sowohl Kasse als auch Backoffice\
+  Aktiv: ja\
+  **Tags: 'vertrauenswürdig'**\
+  Anbieter: Bargeld/EFT/etc
 
 ![](https://lh6.googleusercontent.com/jybdqQT\_WgpCQfNB6v6DCWrE\_iMN7og0wwK43P\_1H89CJknrwUuqtArffusumwVmjj9mMalf90DIfRG-3xFnnzPbiMT0EyjrxlakDAhzkvqHXxzyKmBsY7VynAYQgYCau-dsRyzC)
 
-* Visit your  [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
-* Use the ‘Quick Search’ box to find your regular and trusted customer’s details:&#x20;
+* Besuchen Sie Ihre [Kundenseite](https://app.openfoodswitzerland.ch/admin/customers).
+* Verwenden Sie das Feld "Schnellsuche", um die Daten Ihrer Stammkunden und vertrauenswürdigen Kunden zu finden:
 
 ![](https://lh6.googleusercontent.com/DcRo1W18G7l7JKxuhHybJB4gIEzZWQIX-3kynCMX79RwtrKFpMR8b6SYI4uyoQjGOOlmrV1rv7oIbsYS55UkfeH1yfu4SJntTnO1vMPmwuTMljBhkX\_kRhYLiI5fKzKjxYBR\_uCO)
 
-* Add the Tag ‘trusted’ to their entry:
+* Fügen Sie ihrem Eintrag die Markierung "vertrauenswürdig" hinzu:
 
 ![](../../.gitbook/assets/trustedcust.jpg)
 
-* Visit **Enterprises -> Settings -> Tag Rules** and add the following:
+* Gehen Sie zu **Unternehmen -> Einstellungen -> Tag-Regeln** und fügen Sie Folgendes hinzu:
 
-Default: Payment Methods tagged ‘trusted’ are NOT VISIBLE\
-Rule: For Customers tagged ‘trusted’ Payment Methods tagged ‘trusted’ are visible.
+Standard: Als "vertrauenswürdig" gekennzeichnete Zahlungsarten sind NICHT SICHTBAR\
+Regel: Für Kunden, die als "vertrauenswürdig" gekennzeichnet sind, sind Zahlungsmethoden mit der Kennzeichnung "vertrauenswürdig" sichtbar.
 
 ![](../../.gitbook/assets/trustedtags.jpg)
 
-**Bingo!  Only your trusted customers will be offered the choice of payment by cash or BACS.**&#x20;
+**Bingo! Nur Ihren vertrauenswürdigen Kunden wird die Wahl zwischen Barzahlung und BACS angeboten.**
 
 {% hint style="success" %}
-If you find a customer regularly fails to pay on collection or is repeatedly late with BACS payments then you can always remove this option by deleting the tag ‘trusted’ on their [Customer](https://openfoodnetwork.org.uk/admin/customers) record.  The shopper will then only be able to pay by card upfront, like your other customers.
+Wenn Sie feststellen, dass ein Kunde regelmäßig nicht bei Abholung zahlt oder wiederholt mit BACS-Zahlungen in Verzug ist, können Sie diese Option jederzeit entfernen, indem Sie die Markierung "vertrauenswürdig" in seinem [Kundendatensatz](https://app.openfoodswitzerland.ch/admin/customers) löschen. Der Kunde kann dann nur noch im Voraus mit Karte bezahlen, wie Ihre anderen Kunden auch.
 {% endhint %}
