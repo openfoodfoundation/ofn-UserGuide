@@ -1,62 +1,58 @@
 # Erstellen und Verwalten einer Gruppenseite
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+**Was ist eine Gruppenseite?** Gruppenseiten sind eine Möglichkeit für eine Sammlung von Unternehmen, die in der realen Welt existieren, ihr eigenes anpassbares Verzeichnis auf OFN zu haben. Gruppenseiten sind geeignet für:
 
-**What is a group page?** Group pages are a way for a collection of businesses which exist in the real world to have their own customisable directory on OFN. Group pages are suited to:
+* regionale Erzeugergemeinschaften
+* Unternehmen mit einer gemeinsamen Zertifizierung
+* Bauernmärkte
+* große Unternehmen mit mehreren Hubs.
 
-* regional producer groups
-* enterprises with a common certification
-* farmer's markets
-* large multi-hub enterprises.
+Jede Ansammlung von Unternehmen im OFN kann eine Gruppenseite erstellen.
 
-Any collection of enterprises on the OFN can create a group page.&#x20;
+**Wie sieht eine Gruppenseite aus?** Sie können einige Gruppenseiten auf [Open Food Network Australia sehen](https://openfoodnetwork.org.au/groups).
 
-**What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
-
-**How can I create a group page?** To create and manage a group, you’ll need to [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)so we can set you up as an administrator.
+**Wie kann ich eine Gruppenseite erstellen?** Um eine Gruppe zu erstellen und zu verwalten, müssen Sie sich an Ihr [örtliches OFN](https://openfoodnetwork.org/find-your-local-open-food-network/) wenden, damit wir Sie als Administrator einrichten können.
 
 ## Verwalten einer Gruppenseite
 
-Once you’ve been set up as the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
+Sobald Sie als Administrator einer Gruppe eingerichtet sind, können Sie Ihre **Gruppe** anzeigen und bearbeiten, indem Sie im horizontalen blauen Menü auf Gruppen klicken. Klicken Sie dann auf das **Bearbeitungssymbol** neben Ihrer Gruppe.
 
 ![](../../.gitbook/assets/screen-shot-2019-11-14-at-11.28.47-am.png)
 
 ### Primäre Details
 
-This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).&#x20;
+Hier können Sie die Details Ihrer Gruppe eingeben und bearbeiten und ändern, was auf der Seite Ihrer Gruppe im Open Food Network erscheinen soll. Ein Beispiel für eine bestehende Gruppenseite finden Sie unter [Gruppenseiten auf Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
 ![](../../.gitbook/assets/screen-shot-2019-11-14-at-11.31.45-am.png)
 
-**Name:** Enter a name for your group, to appear as the title of your group page on the OFN.
+**Name:** Geben Sie einen Namen für Ihre Gruppe ein, der als Titel Ihrer Gruppenseite im OFN erscheinen soll.
 
-**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN.&#x20;
+**Beschreibung:** Schreiben Sie eine kurze Beschreibung Ihrer Gruppe, die unter dem Titel Ihrer Gruppenseite im OFN erscheinen soll.
 
-**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet. &#x20;
+**Auf der Titelseite:** Aktivieren Sie dieses Kontrollkästchen, um Ihre Gruppe auf dem OFN sichtbar zu machen. Vergewissern Sie sich zuvor, dass Sie Ihrer Gruppe einige Unternehmen hinzugefügt und Inhalte in den Abschnitt "Über" eingegeben haben. Aktivieren Sie dieses Kontrollkästchen nicht, wenn Ihre Gruppenseite noch nicht sichtbar sein soll.
 
-**Enterprises:** Select the enterprises that you want to add to your group. You can search through all of the enterprises currently on the OFN and add them to your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer appear in the search box. These enterprises will be listed on your group page on the OFN in the **Our Producers** and **Our Hubs** sections, and each listing will include a link to their OFN profile
+**Unternehmen:** Wählen Sie die Unternehmen aus, die Sie zu Ihrer Gruppe hinzufügen möchten. Sie können alle Unternehmen durchsuchen, die derzeit im OFN enthalten sind, und sie zu Ihrer Gruppe hinzufügen. Vergewissern Sie sich, dass Sie berechtigt sind, Unternehmen zu Ihrer Gruppe hinzuzufügen, bevor Sie dies tun. Wenn Sie bereits ein Unternehmen zu Ihrer Gruppe hinzugefügt haben, wird es nicht mehr im Suchfeld angezeigt. Diese Unternehmen werden auf Ihrer Gruppenseite im OFN in den Abschnitten "**Unsere Produzenten**" und "**Unsere Hubs**" aufgeführt, und jeder Eintrag enthält einen Link zu ihrem OFN-Profil
 
-**Permalink:** This is where you can customise the URL for your group page. What you enter here will be added to the end of the following URL: www.openfoodnetwork.org.au/groups/ For example if you enter **regional-hub** here, your group page URL will be: www.openfoodnetwork.org.au/groups/**regional-hub**
+**Permalink:** Hier können Sie die URL für Ihre Gruppenseite anpassen. Was Sie hier eingeben, wird an das Ende der folgenden URL angehängt: www.openfoodnetwork.org.au/groups/ Wenn Sie hier zum Beispiel **regional-hub** eingeben, lautet die URL Ihrer Gruppenseite: www.openfoodnetwork.org.au/groups/regional-hub
 
 ### Benutzer
 
-**Owner:** This is the owner of the group page. Only this user has permission to edit the page and manage the enterprises in the group. Please [contact your local OFN](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if you wish to change the owner of your group.
+**Eigentümer:** Dies ist der Eigentümer der Gruppenseite. Nur dieser Benutzer hat die Berechtigung, die Seite zu bearbeiten und die Unternehmen in der Gruppe zu verwalten. Bitte wenden Sie sich an Ihr [örtliches OFN](https://openfoodnetwork.org/find-your-local-open-food-network/), wenn Sie den Eigentümer Ihrer Gruppe ändern möchten.
 
 ### Über
 
-This is where you can provide more detailed information about your group to appear in the **About Us** section of your group page on the OFN. You can use the formatting buttons to add headings and paragraphs, and edit the layout and appearance of the content you enter here.
+Hier können Sie detailliertere Informationen über Ihre Gruppe angeben, die im Abschnitt "**Über uns**" auf Ihrer Gruppenseite im OFN erscheinen sollen. Mit den Formatierungsschaltflächen können Sie Überschriften und Absätze hinzufügen und das Layout und das Aussehen des Inhalts, den Sie hier eingeben, bearbeiten.
 
 ### Bilder
 
-**Logo:** This is where you can add a logo for your group page. It should be a square image. It will show in the main group listing page on the OFN and to the left of the **Title** and **Description** on your group’s page on the OFN.
+**Logo:** Hier können Sie ein Logo für Ihre Gruppenseite hinzufügen. Es sollte ein quadratisches Bild sein. Es wird auf der Hauptseite der Gruppenliste im OFN und links neben dem **Titel** und der **Beschreibung** auf der Seite Ihrer Gruppe im OFN angezeigt.
 
-**Promo Image:** This is a banner style image and will sit across the top of your group page. It’s best if this image is wide and not too tall. We recommend 1200 x 260 pixels.
+**Promo-Bild:** Dies ist ein Bild im Banner-Stil, das oben auf Ihrer Gruppenseite angezeigt wird. Es ist am besten, wenn dieses Bild breit und nicht zu hoch ist. Wir empfehlen 1200 x 260 Pixel.
 
 ### Kontakt
 
-This is where you can enter contact details for your group to appear on the right side of your group page on the OFN. You can enter a phone number, email address and physical address for your group.
+Hier können Sie Kontaktinformationen für Ihre Gruppe eingeben, die auf der rechten Seite Ihrer Gruppenseite im OFN erscheinen. Sie können eine Telefonnummer, eine E-Mail-Adresse und eine physische Adresse für Ihre Gruppe eingeben.
 
 ### Web
 
-This is where you can provide links to any websites and social media channels you may have for your group. These links will appear as either URLs or social media icons on the right side of your group page on the OFN.
+Hier können Sie Links zu allen Websites und Social-Media-Kanälen angeben, die Sie für Ihre Gruppe haben. Diese Links werden entweder als URLs oder als Symbole für soziale Medien auf der rechten Seite Ihrer Gruppenseite im OFN angezeigt.

@@ -1,51 +1,51 @@
 # Einbetten einer Gruppenseite in eine Website
 
-It is now possible to embed a group page into a website external to OFN. Here you will find step by step instructions for setting this up.  This feature is relatively new, and has not been comprehensively tested across all platforms. Please [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)if you experience issues with embedding a group page in your website.&#x20;
+Es ist jetzt möglich, eine Gruppenseite in eine Website außerhalb von OFN einzubinden. Hier finden Sie eine Schritt-für-Schritt-Anleitung, wie Sie dies einrichten können. Diese Funktion ist relativ neu und wurde noch nicht umfassend auf allen Plattformen getestet. Bitte kontaktieren Sie[ Ihr lokales OFN](https://openfoodnetwork.org/find-your-local-open-food-network/), wenn Sie Probleme mit der Einbindung einer Gruppenseite in Ihre Website haben.
 
 ## Voraussetzungen für das Einbetten einer Gruppenseite&#x20;
 
 ### Plattform
 
-It is possible to embed a group page on any website where you can add custom html to the destination page, including platforms such as WordPress, Squarespace or Wix.
+Es ist möglich, eine Gruppenseite auf jeder Website einzubetten, auf der Sie der Zielseite benutzerdefiniertes HTML hinzufügen können, einschließlich Plattformen wie WordPress, Squarespace oder Wix.
 
-Below are some platform specific resources:
+Im Folgenden finden Sie einige plattformspezifische Ressourcen:
 
-* [Go to Squarespace](https://support.squarespace.com/hc/en-us/articles/206543167) for more information about adding custom html using “codeblocks”&#x20;
+* Weitere Informationen zum Hinzufügen von benutzerdefiniertem HTML mit "Codeblocks" finden Sie bei [Squarespace](https://support.squarespace.com/hc/en-us/articles/206543167).
 
 ### Sicherheit
 
-Because OFN is an eCommerce platform, and handles monetary transactions, it has a higher security requirement than some websites. Therefore, you’ll need to have SSL/TLS set up on the website you want to embed your group page into. You can get a free security certificate from [Let’s Encrypt](https://letsencrypt.org/) or for around $10-$30 for other paid service.
+Da OFN eine eCommerce-Plattform ist und Geldtransaktionen abwickelt, hat es höhere Sicherheitsanforderungen als andere Websites. Daher müssen Sie auf der Website, in die Sie Ihre Gruppenseite einbetten möchten, SSL/TLS einrichten lassen. Sie können ein kostenloses Sicherheitszertifikat von [Let's Encrypt](https://letsencrypt.org/) oder für etwa $10-$30 einen anderen kostenpflichtigen Dienst erhalten.
 
 ### Seite der OFN-Fraktion
 
-Before proceeding, you should complete [setting up your group page on the Open Food Network](group-page.md). You’ll need to know your OFN group page URL to complete the setup steps below.
+Bevor Sie fortfahren, sollten Sie Ihre [Gruppenseite im Open Food Network einrichten](group-page.md). Sie müssen die URL Ihrer OFN-Gruppenseite kennen, um die folgenden Einrichtungsschritte durchführen zu können.
 
 ## Wie man eine Gruppenseite einbettet
 
 **1) Kontaktieren Sie Ihr lokales OFN-Team**
 
-First of all, you’ll need to contact [your local OFN team](https://openfoodnetwork.org/ofn-local/) and let them know you want to embed your OFN group page in your website. You’ll need to provide them with your external domain. eg. regionalgroup.com.au so they can grant permission for your website to communicate with OFN.
+Zunächst müssen Sie Ihr [lokales OFN-Team ](https://openfoodnetwork.org/find-your-local-open-food-network/)kontaktieren und ihm mitteilen, dass Sie Ihre OFN-Gruppenseite in Ihre Website einbinden möchten. Sie müssen ihnen Ihre externe Domain mitteilen, z. B. regionalgroup.com.au, damit sie die Erlaubnis erteilen können, dass Ihre Website mit OFN kommunizieren kann.
 
 **2) Hinzufügen von benutzerdefiniertem HTML zu Ihrer Website**
 
-Embedding your group page is as simple as inserting a line of code into your website. Below is an example of the HTML that you should insert into the page where you want to embed your OFN group page. You will need to replace ‘flavour-crusader’ with your shop’s unique OFN permalink.&#x20;
+Das Einbinden Ihrer Gruppenseite ist so einfach wie das Einfügen einer Codezeile in Ihre Website. Nachstehend finden Sie ein Beispiel für den HTML-Code, den Sie in die Seite einfügen müssen, in die Sie Ihre OFN-Gruppenseite einbetten möchten. Sie müssen "flavour-crusader" durch den eindeutigen OFN-Permalink Ihres Shops ersetzen.
 
 ```
 <iframe src="https://openfoodnetwork.org.au/groups/flavour-crusader?embedded_shopfront=true" style="width:100%;min-height:35em"></iframe>
 ```
 
-Once you’ve done this, you should see your OFN group page appear within your website at the location where you inserted the HTML.
+Sobald Sie dies getan haben, sollte Ihre OFN-Gruppenseite auf Ihrer Website an der Stelle erscheinen, an der Sie den HTML-Code eingefügt haben.
 
-NOTE: See the instructions on [creating and managing a group page](group-page.md) to find out how to edit your unique OFN permalink.
+HINWEIS: Lesen Sie die Anweisungen zum [Erstellen und Verwalten einer Gruppenseite](group-page.md), um herauszufinden, wie Sie Ihren einzigartigen OFN-Permalink bearbeiten können.
 
 **3) Styling**
 
-Depending on the styling of your website you may need to edit the CSS. If you are not familiar with CSS you may need to engage the services of your website administrator. CSS may be needed to avoid having two scroll bars, and to make sure the length and width of the embedded group page is visually appealing. Make sure to test the display of your group page on a mobile device as well as this may require further changes.
+Je nach der Gestaltung Ihrer Website müssen Sie möglicherweise das CSS bearbeiten. Wenn Sie mit CSS nicht vertraut sind, müssen Sie möglicherweise die Dienste Ihres Website-Administrators in Anspruch nehmen. CSS kann erforderlich sein, um zwei Bildlaufleisten zu vermeiden und um sicherzustellen, dass die Länge und Breite der eingebetteten Gruppenseite optisch ansprechend ist. Stellen Sie sicher, dass Sie die Anzeige Ihrer Gruppenseite auch auf einem mobilen Gerät testen, da dies möglicherweise weitere Änderungen erfordert.
 
 ## Anweisungen für Besucher
 
 ### Cookies
 
-Most people have cookies enabled on their web browsers. But if a visitor doesn’t enable cookies they may see an error message similar to the one below, and not be able to view the embedded group.
+Die meisten Menschen haben Cookies in ihren Webbrowsern aktiviert. Wenn ein Besucher jedoch keine Cookies aktiviert hat, kann es sein, dass er eine ähnliche Fehlermeldung wie die unten stehende erhält und die eingebettete Gruppe nicht anzeigen kann.
 
 ![](../../.gitbook/assets/cookies.png)
