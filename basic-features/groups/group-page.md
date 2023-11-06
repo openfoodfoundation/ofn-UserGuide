@@ -1,7 +1,7 @@
-# Create and manage a Group page
+# Erstellen und Verwalten einer Gruppenseite
 
 {% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
+<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
 {% endhint %}
 
 **What is a group page?** Group pages are a way for a collection of businesses which exist in the real world to have their own customisable directory on OFN. Group pages are suited to:
@@ -11,53 +11,52 @@
 * farmer's markets
 * large multi-hub enterprises.
 
-Any collection of enterprises on the OFN can create a group page. 
+Any collection of enterprises on the OFN can create a group page.&#x20;
 
 **What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
 **How can I create a group page?** To create and manage a group, you’ll need to [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)so we can set you up as an administrator.
 
-## Managing a Group Page
+## Verwalten einer Gruppenseite
 
 Once you’ve been set up as the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
 
 ![](../../.gitbook/assets/screen-shot-2019-11-14-at-11.28.47-am.png)
 
-### **Primary Details**
+### Primäre Details
 
-This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups). 
+This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).&#x20;
 
 ![](../../.gitbook/assets/screen-shot-2019-11-14-at-11.31.45-am.png)
 
 **Name:** Enter a name for your group, to appear as the title of your group page on the OFN.
 
-**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN. 
+**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN.&#x20;
 
-**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet.  
+**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet. &#x20;
 
 **Enterprises:** Select the enterprises that you want to add to your group. You can search through all of the enterprises currently on the OFN and add them to your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer appear in the search box. These enterprises will be listed on your group page on the OFN in the **Our Producers** and **Our Hubs** sections, and each listing will include a link to their OFN profile
 
 **Permalink:** This is where you can customise the URL for your group page. What you enter here will be added to the end of the following URL: www.openfoodnetwork.org.au/groups/ For example if you enter **regional-hub** here, your group page URL will be: www.openfoodnetwork.org.au/groups/**regional-hub**
 
-### Users
+### Benutzer
 
 **Owner:** This is the owner of the group page. Only this user has permission to edit the page and manage the enterprises in the group. Please [contact your local OFN](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if you wish to change the owner of your group.
 
-### About
+### Über
 
 This is where you can provide more detailed information about your group to appear in the **About Us** section of your group page on the OFN. You can use the formatting buttons to add headings and paragraphs, and edit the layout and appearance of the content you enter here.
 
-### Images
+### Bilder
 
 **Logo:** This is where you can add a logo for your group page. It should be a square image. It will show in the main group listing page on the OFN and to the left of the **Title** and **Description** on your group’s page on the OFN.
 
 **Promo Image:** This is a banner style image and will sit across the top of your group page. It’s best if this image is wide and not too tall. We recommend 1200 x 260 pixels.
 
-### Contact
+### Kontakt
 
 This is where you can enter contact details for your group to appear on the right side of your group page on the OFN. You can enter a phone number, email address and physical address for your group.
 
 ### Web
 
 This is where you can provide links to any websites and social media channels you may have for your group. These links will appear as either URLs or social media icons on the right side of your group page on the OFN.
-
