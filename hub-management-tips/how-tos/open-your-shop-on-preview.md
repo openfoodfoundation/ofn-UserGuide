@@ -1,65 +1,61 @@
 # Öffnen Sie Ihren Shop auf 'Vorschau'.
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+## Einführung
 
-## Introduction
+Als Hub-Manager werden Sie oft von Ihren Lieferanten gebeten, zu sehen, wie ihre Produkte auf Ihrer Shopfront aussehen, bevor der Bestellzyklus für die Kunden "live" geht. Es kann sein, dass die Lieferanten ihre Angebote optimieren möchten, z. B. ein Foto ändern oder ihre Produktbeschreibungen ergänzen möchten. Dies ist besonders in den ersten Tagen (Wochen und Monaten) eines neuen Hubs üblich.
 
-As a hub manager you may often be asked by your suppliers to see what their products look like on your shop front before the order cycle goes 'live' to customers.  Suppliers may wish to tweak their listings- change a photo or add to their product descriptions for example.  This is especially common in the early days (weeks and months) of a new hub.
-
-The process below outlines how to implement a 'Preview' Order Cycle. It draws on the highly flexible feature of Tag and Tag Rules on the OFN platform.
+Der nachstehende Prozess beschreibt, wie ein "Vorschau"-Auftragszyklus implementiert werden kann. Er stützt sich auf die äußerst flexible Funktion von Tag und Tag-Regeln auf der OFN-Plattform.
 
 {% hint style="info" %}
 Your enterprise will need to be listed as a Hub on the OFN platform to add a tag to order cycles.
 {% endhint %}
 
-## Process
+## Prozess
 
 {% hint style="warning" %}
-This is a **TWO** step process:&#x20;
+Dies ist ein zweistufiger Prozess:
 
-1. Opening an Order Cycle which only you and suppliers can view.
-2. Removing the tag which facilitates (1) when the order cycle goes 'live' to customers.
+1. Eröffnung eines Auftragszyklus, den nur Sie und Ihre Lieferanten einsehen können.
+2. Entfernen der Markierung, die (1) erleichtert, wenn der Bestellzyklus für die Kunden "live" geht.
 {% endhint %}
 
-### Step one
+### Schritt eins
 
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
-* Click **+ New Customer** and add the email addresses of your suppliers. (If they have placed an order with your shop/hub in the past then they will already be a customer of your enterprise and so this step is not necessary.)
-* In the ‘tags’ column type in ‘producer’ for that customer.
+* Melden Sie sich bei Ihrem OFN-Geschäftskonto an und besuchen Sie die Seite [Kunden](https://app.openfoodswitzerland.ch/admin/customers).
+* Klicken Sie auf **+ Neuer Kunde** und fügen Sie die E-Mail-Adressen Ihrer Lieferanten hinzu. (Wenn sie in der Vergangenheit eine Bestellung bei Ihrem Shop/Hub aufgegeben haben, sind sie bereits Kunden Ihres Unternehmens und dieser Schritt ist nicht erforderlich).
+* Geben Sie in der Spalte "Tags" den Begriff "Hersteller" für diesen Kunden ein.
 
 ![](https://lh3.googleusercontent.com/azVPv6QfS6nyjTC5QnHE3ATsDnrZxYO1bttYGxkAvYH1BItAuYpj1cT73ZYjipftqUH2zWcYP2VU4kgD9l9npPe6wDjfuSteCmJUSwFvauK1mFIEwlDK6cAaE7rJgXQ19ycdCHwx)
 
-* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) page. &#x20;
-* Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md). Set the opening time as ‘now’ and the closing time your usual closing time.
-* On page 3 (‘Outgoing Products’) add ‘preview’ into the tag section:
+* Besuchen Sie die Seite [Auftragszyklen](https://app.openfoodswitzerland.ch/admin/order\_cycles).
+* Richten Sie Ihren nächsten [Auftragszyklus](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) ein. Legen Sie die Öffnungszeit auf "jetzt" und die Schließzeit auf Ihre übliche Schließzeit fest.
+* Auf Seite 3 ("Ausgehende Produkte") fügen Sie "Vorschau" in den Tag-Bereich ein:
 
 ![](../../.gitbook/assets/previewtagoc.jpg)
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:\
-  Default: Order Cycles tagged ‘preview’ are not visible.\
-  For Customers tagged ‘producer’, Order Cycles tagged ‘preview’ are visible.
+* Rufen Sie die Seite **Unternehmen -> Einstellungen** auf und wählen Sie im linken Menü die Option "[Tag-Regeln](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#bestellzyklen-in-meinem-schaufenster-anzeigen-ausblenden)" aus. Richten Sie die folgenden Tag-Regeln ein:\
+  Standard: Mit "Vorschau" gekennzeichnete Auftragszyklen sind nicht sichtbar.\
+  Für Kunden, die als "Produzent" gekennzeichnet sind, sind Auftragszyklen mit der Bezeichnung "Vorschau" sichtbar.
 
 ![](../../.gitbook/assets/previewtags.jpg)
 
-**Bingo!  Your order cycle is now open for your producers to view their products on your shop front but general customers will not be able to view (or shop).**
+**Bingo! Ihr Auftragszyklus ist jetzt für Ihre Produzenten geöffnet, damit sie ihre Produkte auf Ihrer Ladenfront ansehen können, aber die allgemeinen Kunden können sie nicht ansehen (oder einkaufen).**
 
 {% hint style="warning" %}
-Producers/suppliers can make purchases during this time
+Erzeuger/Lieferanten können in dieser Zeit Einkäufe tätigen
 {% endhint %}
 
-### Step Two
+### Zweiter Schritt
 
-* **Set a reminder on your phone/calendar to edit your order cycles at the time and day you wish shopping to commence.**
-* At this time visit your [order cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) and select ‘Edit’ next to the one you wish to make ‘live’ to customers:
+* **Stellen Sie eine Erinnerung auf Ihrem Telefon/Kalender ein, um Ihre Bestellzyklen zu der Zeit und an dem Tag zu bearbeiten, an dem Sie mit dem Einkaufen beginnen möchten.**
+* Rufen Sie zu diesem Zeitpunkt Ihre [Auftragszyklen](https://app.openfoodswitzerland.ch/admin/order\_cycles) auf und wählen Sie "Bearbeiten" neben dem Auftrag, den Sie den Kunden zur Verfügung stellen möchten:
 
 ![](../../.gitbook/assets/previewocedit.jpg)
 
-* Visit ‘Outgoing Products’ section on page 3 and remove the tag:
+* Besuchen Sie den Abschnitt "Ausgehende Produkte" auf Seite 3 und entfernen Sie das Etikett:
 
 ![](https://lh6.googleusercontent.com/dMsKV7a4YiCbY5NwxB7ijwgZVZCT8uHvzTrEgjzkJzfePixGehUtZA3vIyel0knRI8c5nThtPCn50-3bUEgrb\_o9zJbp7uV5HqeGdOimAmj08UMOhgAxqWsQy4UePE8-xksAS9DO)
 
-**All your customers will be able to view your shop and make purchases now!**
+**Alle Ihre Kunden können jetzt Ihren Shop sehen und einkaufen!**
 
 ###
