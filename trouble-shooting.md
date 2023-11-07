@@ -1,117 +1,113 @@
-# Trouble shooting
-
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+# Fehlersuche
 
 {% hint style="success" %}
-Always save or update at the end of every change you make. Changes will be lost if you move to a different page without saving.  Sometimes you will not be prompted to save.
+Speichern oder aktualisieren Sie immer am Ende jeder Änderung, die Sie vornehmen. Die Änderungen gehen verloren, wenn Sie zu einer anderen Seite wechseln, ohne zu speichern. Manchmal werden Sie nicht zum Speichern aufgefordert.
 {% endhint %}
 
-## It won't 'let me' set up an order cycle
+## Es lässt mich keinen Auftragszyklus einrichten
 
-* Do you have an active [payment method](basic-features/shopfront/payment-methods.md) set up for your shop or hub?
-* Do you have an active [shipping method](basic-features/shopfront/shipping-methods.md) set up for your shop or hub?
-* Are all the [relevant required fields complete](basic-features/shopfront/order-cycle/)? You need to set open and closing times for the order cycle, give it a unique name, and complete the 'Ready for' field box.
+* Haben Sie eine aktive [Zahlungsmethode](basic-features/shopfront/payment-methods.md) für Ihren Shop oder Hub eingerichtet?
+* Haben Sie eine aktive [Versandmethode](basic-features/shopfront/shipping-methods.md) für Ihren Shop oder Hub eingerichtet?
+* Sind alle [relevanten Pflichtfelder ausgefüllt](basic-features/shopfront/order-cycle/)? Sie müssen Öffnungs- und Schließzeiten für den Auftragszyklus festlegen, ihm einen eindeutigen Namen geben und das Feld "Bereit für" ausfüllen.
 
-## I want to sell whole chickens but don't know the weight of individual birds until day of slaughter.
+## Ich möchte ganze Hühner verkaufen, kenne aber das Gewicht der einzelnen Tiere erst am Tag der Schlachtung.
 
-* This is not a problem! Read [here](basic-features/products-1/pricing-irregular-items-kg.md) for a range of ways the OFN platform has been designed to be flexible to meet the specific needs of food producers.
+* Das ist kein Problem! Lesen Sie [hier](basic-features/products-1/pricing-irregular-items-kg.md) eine Reihe von Möglichkeiten, wie die OFN-Plattform so flexibel gestaltet wurde, dass sie den spezifischen Bedürfnissen von Lebensmittelherstellern gerecht wird.
 
-## I supply 'Farmshop A' with potatoes which cost £1/kg. My potatoes are displaying for sale to customers at £1.20/kg
+## Ich liefere dem "Hofladen A" Kartoffeln zum Preis von 1 £/kg. Meine Kartoffeln werden zum Verkauf an Kunden zu 1,20 £/kg angeboten.
 
-Farmshop A may need to generate extra revenue from every sale to cover their overhead costs.  They can do this in a number of ways:
+Hofladen A muss möglicherweise bei jedem Verkauf zusätzliche Einnahmen erzielen, um seine Gemeinkosten zu decken. Dies kann auf verschiedene Weise geschehen:
 
-* If you set up an [enterprise permission](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) whereby your business permits Farmshop A to add your products to their inventory then they can modify the prices a customer pays for your products that way.&#x20;
-* Farmshop A may add an [enterprise fee](basic-features/shopfront/enterprise-fees.md) to your cost price for the potatoes. If this is the case then customers purchasing the items will be able to see a break down of the price they pay by clicking on the pie chart icon to the right of the product price on the shop front.
+* Wenn Sie eine [Unternehmensgenehmigung](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) einrichten, mit der Ihr Unternehmen dem Hofladen A erlaubt, Ihre Produkte in seinen Bestand aufzunehmen, kann er auf diese Weise die Preise ändern, die ein Kunde für Ihre Produkte bezahlt.
+* Farmshop A kann auf Ihren [Selbstkostenpreis](basic-features/shopfront/enterprise-fees.md) für die Kartoffeln eine Unternehmensgebühr aufschlagen. Wenn dies der Fall ist, können Kunden, die die Artikel kaufen, eine Aufschlüsselung des Preises sehen, den sie zahlen, indem sie auf das Tortendiagramm-Symbol rechts neben dem Produktpreis auf der Ladenfront klicken.
 
-Good working relationships are key to any sustainable food network. Chat to Farmshop A about how they have organised their sales of your produce (either in person, over the phone or by email).
+Gute Arbeitsbeziehungen sind der Schlüssel zu jedem nachhaltigen Lebensmittelnetzwerk. Sprechen Sie mit Hofladen A darüber, wie er den Verkauf Ihrer Produkte organisiert hat (entweder persönlich, telefonisch oder per E-Mail).
 
-Farmshop A should (morally) pay you £1/kg for every kg of potatoes you supply to meet their sales.  Payment of goods (from distributor to supplier) is a private arrangement organised outside of the OFN platform.
+Hofladen A sollte Ihnen (aus moralischen Gründen) für jedes Kilogramm Kartoffeln, das Sie liefern, 1 £/kg zahlen, um seine Verkäufe zu decken. Die Bezahlung der Waren (vom Händler an den Lieferanten) ist eine private Vereinbarung, die außerhalb der OFN-Plattform getroffen wird.
 
-## I've added new products but they aren't displaying on the shopfront.
+## Ich habe neue Produkte hinzugefügt, aber sie werden nicht im Schaufenster angezeigt.
 
-Newly added products must be added to an active order cycle before they are visible on a shopfront for customers to purchase.
+Neu hinzugefügte Produkte müssen einem aktiven Bestellzyklus hinzugefügt werden, bevor sie im Schaufenster für die Kunden sichtbar sind und gekauft werden können.
 
-* If you are _**supplying the goods to a hub**_, then you must get in touch with the person who is coordinating the order cycle in question.  This has to be done externally to the OFN platform (drop them an email or phone/speak in person).
-* If you are a **Shop**, then you must add the new products to your[ active, open order cycle](basic-features/shopfront/order-cycle/order-cycles-for-producers.md).
-* If you are a **Hub**, then:
-  * Make sure the new products are added to both the incoming and outgoing sections of the [active order cycle](basic-features/shopfront/order-cycle/order-cycles-for-hubs.md)
-  * If the new products are not available for selection to add to either incoming/outgoing sections then check your [inventory settings](basic-features/enterprise-profile/enterprise-settings.md#inventory-settings). You may have to [add the products to your inventory](basic-features/products-1/inventory-tool.md#reviewing-new-products) before they can be added to the shop front.
+* Wenn Sie die **Waren an einen Hub liefern**, müssen Sie sich mit der Person in Verbindung setzen, die den betreffenden Auftragszyklus koordiniert. Dies muss außerhalb der OFN-Plattform geschehen (per E-Mail oder telefonisch/persönlich).
+* Wenn Sie ein **Shop** sind, müssen Sie die neuen Produkte zu Ihrem [aktiven, offenen Bestellzyklus hinzufügen](basic-features/shopfront/order-cycle/).
+* Wenn Sie ein Hub sind, dann:
+  * Stellen Sie sicher, dass die neuen Produkte sowohl dem Eingangs- als auch dem Ausgangsbereich des [aktiven Auftragszyklus](basic-features/shopfront/order-cycle/) hinzugefügt werden.
+  * Wenn die neuen Produkte nicht für die Auswahl verfügbar sind, um sie entweder in den Eingangs- oder Ausgangsbereich aufzunehmen, überprüfen Sie Ihre [Bestandseinstellungen](basic-features/enterprise-profile/enterprise-settings.md#inventar-einstellungen). Möglicherweise müssen Sie die Produkte erst zu [Ihrem Inventar hinzufügen](basic-features/products-1/inventory-tool.md#ueberpruefung-neuer-produkte), bevor sie der Shopfront hinzugefügt werden können.
 
 {% hint style="info" %}
-In all cases, check the stock level of the new products. Only items with an **In Stock?** value of 1 or greater or those marked as **Unlimited** will be visible for a customer to purchase.
+Überprüfen Sie in jedem Fall den Lagerbestand der neuen Produkte. Nur Artikel mit einem Wert von 1 oder höher auf Lager oder solche, die als **unbegrenzt** markiert sind, werden für einen Kunden zum Kauf angezeigt.
 {% endhint %}
 
-## Not all of my supplier's products are available for me to add to my order cycle.
+## Nicht alle Produkte meines Lieferanten sind für mich verfügbar, um sie in meinen Bestellzyklus aufzunehmen.
 
-You may have your [Inventory settings](basic-features/enterprise-profile/enterprise-settings.md#inventory-settings) set to 'New products must be added to my inventory before they can be added to my shopfront'.\
-In which case, you must review your product inventory, [add new/hidden products](basic-features/products-1/inventory-tool.md#managing-your-inventory-products) to the inventory for them to be available for selection in the order cycle.
+Möglicherweise haben Sie in Ihren [Inventareinstellungen](basic-features/enterprise-profile/enterprise-settings.md#inventar-einstellungen) die Option "Neue Produkte müssen meinem Inventar hinzugefügt werden, bevor sie meinem Schaufenster hinzugefügt werden können" eingestellt.\
+In diesem Fall müssen Sie Ihren Produktbestand überprüfen und [neue/ausgeblendete Produkte](basic-features/products-1/inventory-tool.md#verwaltung-ihres-lagerbestands-produkte) zum Bestand hinzufügen, damit sie im Bestellzyklus zur Auswahl stehen.
 
-If you are coordinating an order cycle involving multiple suppliers and distributors, some or all of which may use their product inventory to stock their shop fronts, double check all the relevant enterprise permissions have been granted.  Read more [here](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md).
+Wenn Sie einen Bestellzyklus koordinieren, an dem mehrere Lieferanten und Händler beteiligt sind, von denen einige oder alle ihren Produktbestand für die Bestückung ihrer Schaufenster verwenden können, sollten Sie überprüfen, ob alle relevanten Unternehmensgenehmigungen erteilt wurden. Lesen Sie [hier](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md) mehr.
 
-## A new Producer has started up nearby but I can't add their products to my hub shop front.
+## Ein neuer Produzent hat in der Nähe eröffnet, aber ich kann seine Produkte nicht in meine Hub-Shopfront aufnehmen.
 
-You must seek their permission before you are able to retail the goods they make or supply.  This is done formally on the OFN platform by the new producer through [Enterprise Permissions](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md).
+Sie müssen deren Erlaubnis einholen, bevor Sie die von ihnen hergestellten oder gelieferten Waren verkaufen können. Dies geschieht formell auf der OFN-Plattform durch den neuen Hersteller über [Unternehmensgenehmigungen](basic-features/shopfront/enterprise-fees.md).
 
-## I have a veg box scheme but would like to allow customers to add extra items, if desired, each week to their order.
+## Ich habe ein Gemüsekistenprogramm, möchte aber den Kunden die Möglichkeit geben, ihrer Bestellung jede Woche zusätzliche Artikel hinzuzufügen, wenn sie dies wünschen.
 
-**Scenario One:** _The customer purchases the veg box each week through an automated_ [_subscription_](basic-features/subscriptions/) _set up on the OFN platform:_\
-Change your [Enterprise Settings](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)-> Shop Preferences-> Change Orders? to 'Customers can change/cancel orders while order cycle is open'.\
-When the order cycle opens, the customer will be sent an automated email to say that their veg box order has been created. They then have until the order cycle closes to login to their OFN account, edit their order and add extra items from your shop front to their basket.
+**Szenario eins:** Der Kunde kauft jede Woche die Gemüsekiste über ein automatisches [Abonnement](basic-features/subscriptions/), das auf der OFN-Plattform eingerichtet ist:\
+Ändern Sie Ihre [Unternehmenseinstellungen](basic-features/enterprise-profile/enterprise-settings.md#zugriff-auf-ihre-unternehmenseinstellungen)-> Shop-Einstellungen-> Bestellungen ändern? auf 'Kunden können Bestellungen ändern/stornieren, während der Bestellzyklus offen ist'.\
+Wenn der Bestellzyklus eröffnet wird, erhält der Kunde eine automatische E-Mail, in der er darüber informiert wird, dass seine Gemüsekisten-Bestellung erstellt worden ist. Er hat dann bis zum Ende des Bestellzyklus Zeit, sich in sein OFN-Konto einzuloggen, seine Bestellung zu bearbeiten und zusätzliche Artikel aus Ihrem Shop in den Warenkorb zu legen.
 
 {% hint style="info" %}
-The additional items will be processed as a separate order. The customer will be directed to the checkout to pay for these items. Payment for their subscription order will be taken at the end of the order cycle automatically.
+Die zusätzlichen Artikel werden als separate Bestellung bearbeitet. Der Kunde wird zur Kasse geleitet, um für diese Artikel zu bezahlen. Die Zahlung für die Abonnementbestellung wird am Ende des Bestellvorgangs automatisch eingezogen.
 {% endhint %}
 
-**Scenario Two:** _The customer purchases a veg box through an external platform._ In this case, perhaps set up a [private shopfront](basic-features/shopfront/private-shopfront.md) which is only visible to customers registered to your external veg box scheme. Use external software or spreadsheets to match additional items brought through the OFN shop front to customers' veg boxes so that you only have to make deliveries once!
+**Szenario zwei:** Der Kunde kauft eine Gemüsekiste über eine externe Plattform. Richten Sie in diesem Fall vielleicht ein [privates Schaufenster](basic-features/shopfront/private-shopfront.md) ein, das nur für Kunden sichtbar ist, die bei Ihrem externen Gemüsekistenprogramm angemeldet sind. Verwenden Sie externe Software oder Tabellenkalkulationen, um zusätzliche Artikel, die über die OFN-Schaufensterfront gebracht werden, den Gemüsekisten der Kunden zuzuordnen, so dass Sie nur einmal liefern müssen!
 
-## There's been a crop failure and we have fewer tomatoes supplied than we need to meet everyone's order
+## Es gab eine Missernte und wir haben weniger Tomaten geliefert, als wir brauchen, um alle Bestellungen zu erfüllen.
 
-Not a problem - happens to everyone once in a while!  Read [here](basic-features/orders/view-orders.md#example-1-you-have-a-stock-shortage-and-must-reduce-customer-order-quantities-for-a-certain-product) for steps to adjust all your customers' orders at once.
+Kein Problem - das passiert jedem ab und zu! Lesen Sie [hier](basic-features/orders/view-orders.md#beispiele-fuer-die-verwendung-von-bulk-order-management), wie Sie alle Bestellungen Ihrer Kunden auf einmal anpassen können.
 
-## A producer is only willing to supply my hub if their orders meet a minimum criteria&#x20;
+## Ein Produzent ist nur dann bereit, meinen Hub zu beliefern, wenn seine Bestellungen ein Mindestkriterium erfüllen
 
-The 'group buy' functionality described [here](basic-features/products-1/group-buy-for-bulk-ordering.md) can be used for this purpose too!
+Die [hier](basic-features/products-1/group-buy-for-bulk-ordering.md) beschriebene Funktion des "Gruppeneinkaufs" kann auch für diesen Zweck genutzt werden!
 
-## I can't refund a customer who paid by PayPal
+## Ich kann einem Kunden, der mit PayPal bezahlt hat, kein Geld zurückerstatten.
 
-Currently you are not able to issue refunds to customers who purchased goods by PayPal directly through the OFN platform. You will need to visit your business PayPal account and manually make the refund to the customer there.  This is a functionality we hope to develop in the future, should user sufficient users demand it.
+Derzeit können Sie keine Rückerstattungen an Kunden ausstellen, die Waren per PayPal direkt über die OFN-Plattform gekauft haben. Sie müssen Ihr geschäftliches PayPal-Konto besuchen und dort die Rückerstattung an den Kunden manuell vornehmen. Wir hoffen, dass wir diese Funktion in Zukunft entwickeln können, wenn genügend Nutzer dies wünschen.
 
 {% hint style="warning" %}
-If none of these steps help, or there is another problem that you would like advice with, then please contact your[ local OFN support team](local-ofn-organizations-and-contacts.md), who will do their best to get back to you with solutions and help as soon as they can.
+Wenn keiner dieser Schritte hilft oder Sie ein anderes Problem haben, wenden Sie sich bitte an Ihr [örtliches OFN-Supportteam](local-ofn-organizations-and-contacts.md), das sein Bestes tun wird, um Ihnen so schnell wie möglich Lösungen und Hilfe anzubieten.
 {% endhint %}
 
-## How can my customer's edit their orders after they have been placed?
+## Wie können meine Kunden ihre Bestellungen bearbeiten, nachdem sie aufgegeben wurden?
 
-On occasion, a customer may place an order with your food enterprise and then change their mind or remember they forgot to add a few items.  There are a few scenarios:
+Gelegentlich kommt es vor, dass ein Kunde eine Bestellung bei Ihrem Lebensmittelunternehmen aufgibt und es sich dann anders überlegt oder sich erinnert, dass er vergessen hat, ein paar Artikel hinzuzufügen. Es gibt einige Szenarien:
 
-#### Allow the customer to edit their own orders
+#### Dem Kunden die Möglichkeit geben, seine eigenen Bestellungen zu bearbeiten
 
-In your Enterprise Settings, under the [Shop Preferences](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences) tab, you can enable 'Change Orders'
+In Ihren [Unternehmenseinstellungen](basic-features/enterprise-profile/enterprise-settings.md#shop-einstellungen) können Sie auf der Registerkarte "Shop-Einstellungen" die Option "Änderungsaufträge" aktivieren.
 
 ![](.gitbook/assets/changeorders.jpg)
 
-This will mean customers can:
+Das bedeutet, dass die Kunden dies tun können:
 
-* Remove items from their basket or cancel their order altogether.
-* Increase the quantity of products already in their basket, provided the order was not placed by the subscription system.
-
-{% hint style="warning" %}
-Customers will not be able to add additional products to their basket. On doing so they will be taken to the checkout again to pay for these items.  The two orders will appear in your reports one after another if sorted by customer name though, so they can be packed together (if you wish) when you are preparing for collection.
-{% endhint %}
-
-#### Edit orders on your customer's behalf only
-
-You can add a message to your [Shopfront Notices page](basic-features/enterprise-profile/enterprise-settings.md#shop-preferences) asking customers to contact you by email or phone if they wish to adjust their orders.  Products can be added or removed from orders using the steps outlined [here](basic-features/orders/view-orders.md#editing-an-order).
+* Artikel aus dem Warenkorb entfernen oder die Bestellung ganz stornieren.
+* die Menge der bereits im Warenkorb befindlichen Produkte erhöhen, sofern die Bestellung nicht über das Abonnement-System erfolgt ist.
 
 {% hint style="warning" %}
-Note that adding items to an order will invoke the need for [additional payments](basic-features/orders/refunds-and-adjusting-payments.md#collecting-additional-payments) to be collected.
+Die Kunden können keine weiteren Produkte in den Warenkorb legen. Wenn sie dies tun, werden sie erneut zur Kasse geleitet, um für diese Artikel zu bezahlen. Die beiden Bestellungen erscheinen jedoch nacheinander in Ihren Berichten, wenn sie nach Kundennamen sortiert sind, so dass sie zusammen verpackt werden können (wenn Sie es wünschen), wenn Sie die Abholung vorbereiten.
 {% endhint %}
 
-#### The order was placed by a subscription.
+#### Aufträge nur im Namen Ihres Kunden bearbeiten
 
-For information about editing an order placed by the subscription system see:
+Sie können eine Nachricht auf Ihrer [Schaufenster-Seite hinzufügen](basic-features/enterprise-profile/enterprise-settings.md#shop-einstellungen), in der Sie Ihre Kunden bitten, sich per E-Mail oder Telefon mit Ihnen in Verbindung zu setzen, wenn sie ihre Bestellungen ändern möchten. Mit den [hier](basic-features/orders/view-orders.md#einen-auftrag-bearbeiten) beschriebenen Schritten können Sie Produkte zu Bestellungen hinzufügen oder aus ihnen entfernen.
 
-* [here](basic-features/subscriptions/subscriptions-faqs.md#can-i-or-the-customer-edit-an-order-which-has-been-placed-by-subscription-system) for one off orders
-* [here](basic-features/subscriptions/subscriptions-faqs.md#what-if-i-change-the-subscription-while-its-open) for editing the base subscription order.
+{% hint style="warning" %}
+Beachten Sie, dass das Hinzufügen von Artikeln zu einer Bestellung [zusätzliche Zahlungen](basic-features/orders/refunds-and-adjusting-payments.md#einziehung-zusaetzlicher-zahlungen) erforderlich macht.
+{% endhint %}
+
+#### Der Auftrag wurde durch ein Abonnement erteilt.
+
+Informationen zur Bearbeitung einer Bestellung, die über das Abonnement-System aufgegeben wurde, finden Sie unter:
+
+* [hier](basic-features/subscriptions/subscriptions-faqs.md#kann-ich-oder-der-kunde-eine-bestellung-bearbeiten-die-ueber-das-abonnement-system-aufgegeben-wurde) für einmalige Bestellungen
+* [hier](basic-features/subscriptions/subscriptions-faqs.md#was-passiert-wenn-ich-das-abonnement-aendere-waehrend-es-offen-ist) für die Bearbeitung des Basisabonnementauftrags.

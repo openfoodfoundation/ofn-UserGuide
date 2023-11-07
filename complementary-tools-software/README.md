@@ -1,9 +1,5 @@
 # Ergänzende Software und Tools
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Als Lebensmittelunternehmen, das auf der Open Food Network-Plattform arbeitet, möchten Sie vielleicht auch externe Software für bestimmte, zusätzliche Funktionen nutzen. Zum Beispiel für mehr Flexibilität bei der Rechnungsstellung, für eine detailliertere Buchhaltung, für Marketing oder sogar für die Analyse Ihrer OFN-Verkäufe.
 
-As a food enterprise operating on the Open Food Network platform, you may wish to also use external software for specific, additional functionalities.  For example, for increased flexibility over invoicing, more in depth accounting, marketing or even analysing your OFN sales.
-
-Some users have already found ingenious ways to use the platform's data with other software, some interesting uses of which we will describe to you. We are also gradually developing integration possibilities, so do not hesitate to contact us if you have a specific need so that we can study it!
+Einige Nutzer haben bereits geniale Wege gefunden, um die Daten der Plattform mit anderer Software zu nutzen, von denen wir Ihnen einige interessante Anwendungen vorstellen werden. Wir entwickeln auch nach und nach Integrationsmöglichkeiten. Zögern Sie also nicht, uns zu kontaktieren, wenn Sie einen speziellen Bedarf haben, damit wir ihn untersuchen können!

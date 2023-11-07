@@ -1,45 +1,37 @@
-# Newsletters & Promotional Emails
+# Newsletter und Werbe-E-Mails
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+Eine gute Möglichkeit, mit Kunden und potenziellen Kunden in Kontakt zu bleiben, ist die Einrichtung einer Mailingliste und der regelmäßige Versand von Newslettern oder Informationen über Produktaktualisierungen per E-Mail. Zum Beispiel können Sie senden:
 
-A good way of keeping in touch with customers and potential customers is to set up a mailing list and periodically send out newsletters or information about product updates by email. For example, you may wish to send:
+* einen monatlichen Newsletter über die Entwicklung Ihres Unternehmens, neue Produkte, Neuigkeiten von Herstellern usw.
+* eine E-Mail-Benachrichtigung, wenn ein neuer Verkaufszyklus gestartet wird.
 
-* a monthly newsletter on the progress of your enterprise, new products, news from producers, etc.
-* an email notification each time a new sales cycle is launched.
+Eines der gängigsten Online-Tools ist heute [Mailchimp](https://mailchimp.com/). Hier finden Sie einige Tipps und Tricks zur Verwendung von Mailchimp für den Versand Ihrer Newsletter.
 
-One of the most common tools online today is [Mailchimp](https://mailchimp.com/), so here are some tips and tricks for using Mailchimp to send your newsletters.
+## Integration von MailChimp mit OFN
 
-{% hint style="danger" %}
-Be sure to follow local legal guidelines when storing and processing customer contact information.  For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
-{% endhint %}
+Es ist möglich, Ihre Open Food Network- und MailChimp-Konten zu "verbinden". Dadurch wird die Kontaktadresse jedes neuen Kunden, der eine Bestellung in Ihrem Shop aufgibt, automatisch der MailChimp-Kontaktliste Ihres Unternehmens hinzugefügt.
 
-## Integrating MailChimp with OFN
+Wenn Sie möchten, dass wir Ihnen helfen, diese automatische Verbindung zwischen Ihren OFN- und MailChimp-Konten herzustellen, wenden Sie sich bitte an Ihr lokales Support-Team.
 
-It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list.&#x20;
-
-If you would like us to help you facilitate this automatic link between your OFN and MailChimp accounts please contact your local support team.
-
-## Sending a weekly email to customers via MailChimp
+## Wöchentliches Versenden einer E-Mail an Kunden über MailChimp
 
 {% hint style="info" %}
-A regular email to customers to remind them your next order cycle has just open (or is about to close) can be an effective reminder for them to place an order!
+Eine regelmäßige E-Mail an Kunden, um sie daran zu erinnern, dass Ihr nächster Bestellzyklus gerade begonnen hat (oder kurz vor dem Abschluss steht), kann eine effektive Erinnerung für sie sein, eine Bestellung aufzugeben!
 {% endhint %}
 
-This is a slight hack of the [standard MailChimp advice](https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/) for sending automated, regular emails.
+Dies ist ein kleiner Hack der [Standardempfehlungen von MailChimp](https://mailchimp.com/de/help/share-your-blog-posts-with-mailchimp/) für den Versand automatisierter, regelmäßiger E-Mails.
 
-* Once you have logged into your MailChimp account, select **Campaigns** and then **Create a Campaign**. Opt for the subcategory '**Email**'
-* Click **Automated** and then **Share Blog Updates**.
+* Nachdem Sie sich in Ihr MailChimp-Konto eingeloggt haben, wählen Sie "**Kampagnen**" und dann "**Eine Kampagne erstellen**". Entscheiden Sie sich für die Unterkategorie "**E-Mail**".
+* Klicken Sie auf **Automatisch** und dann auf **Blog-Updates freigeben**.
 
 ![](../.gitbook/assets/mailchimp1.png)
 
-* You will be directed to add RSS feed and timing for your email updates to customers.  Select one of the following feeds:\
+* Sie werden aufgefordert, einen RSS-Feed und einen Zeitpunkt für Ihre E-Mail-Updates für Kunden hinzuzufügen. Wählen Sie einen der folgenden Feeds:\
   [https://www.lemonde.fr/rss/une.xml](https://www.lemonde.fr/rss/une.xml) [http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) [https://www.theatlantic.com/feed/all/](https://www.theatlantic.com/feed/all/) [https://www.politico.com/rss/politicopicks.xml](https://www.politico.com/rss/politicopicks.xml)\
-  The exact URL entered doesn't matter- the fact that these RSS feeds post every day means that you can use it to trigger a regular email to your customers.
+  Die genaue URL spielt dabei keine Rolle - die Tatsache, dass diese RSS-Feeds jeden Tag veröffentlicht werden, bedeutet, dass Sie damit eine regelmäßige E-Mail an Ihre Kunden auslösen können.
 
 ![](<../.gitbook/assets/mailchimp2 (1).png>)
 
-* Then choose when you want the email to be sent.  If your order cycle opens every Monday at noon you may enter to use these days and times.  Select **Next** to move on.
-* Choose whether you would like the email to go to your entire audience (all of your mailing list) or just a segment of it (specific customers who you may have sub-grouped).
-* From this point onwards, add details as you would normally in a MailChimp email or campaign.
+* Wählen Sie dann aus, wann die E-Mail gesendet werden soll. Wenn Ihr Auftragszyklus jeden Montagmittag beginnt, können Sie diese Tage und Uhrzeiten eingeben. Wählen Sie Weiter, um fortzufahren.
+* Wählen Sie aus, ob die E-Mail an die gesamte Zielgruppe (die gesamte Mailingliste) oder nur an einen Teil davon (bestimmte Kunden, die Sie eventuell in Untergruppen eingeteilt haben) gehen soll.
+* Ab diesem Punkt fügen Sie Details hinzu, wie Sie es normalerweise in einer MailChimp-E-Mail oder -Kampagne tun würden.
