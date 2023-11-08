@@ -22,80 +22,85 @@ Wenn Sie als Gast einkaufen möchten, sich aber an der Kasse anmelden müssen, k
 
 ### Was sind die Vorteile eines OFN-Kontos**?**
 
-* Your [transaction](your-ofn-account.md#transactions) and [order](your-ofn-account.md#orders) history are saved. You will be able to see what you have purchased in the past. Useful if you really liked that jar of jam and can’t remember the exact brand or flavour.
-* Ihr Transaktions- und Bestellverlauf wird gespeichert. So können Sie sehen, was Sie in der Vergangenheit gekauft haben. Das ist nützlich, wenn Ihnen ein Glas Marmelade besonders gut geschmeckt hat, Sie sich aber nicht mehr an die genaue Marke oder den Geschmack erinnern können.
+* Ihr [Transaktions](your-ofn-account.md#transaktionen)- und [Bestellverlauf](your-ofn-account.md#bestellungen) wird gespeichert. So können Sie sehen, was Sie in der Vergangenheit gekauft haben. Das ist nützlich, wenn Ihnen ein Glas Marmelade besonders gut geschmeckt hat, Sie sich aber nicht mehr an die genaue Marke oder den Geschmack erinnern können.
 * Wenn Sie sich anmelden, können Sie ganz einfach zu dem Shop navigieren, den Sie zuletzt besucht und in dem Sie eingekauft haben: Klicken Sie auf die Schaltfläche "Einkaufen @" in der rechten Ecke des Bildschirms.
 
 ![](https://lh6.googleusercontent.com/VvMP-IUXl3XVA1lD89c\_1gpxNqe4fVC6bPwOKF6yX\_Cia2U4ePjLlXHuTEB8Pdtm2Q2LFGDeCrdzj4jm7c6V-JYv5cbLJixPycT12BM\_XGCtbbnpWbC95TZyCeZjZp4QvC63nKkE)
 
-* Having an OFN account will enable the business you shop from to give you special privileges. For example some businesses will offer early ‘opening times’ for loyal customers, discounted delivery for groups who live close to one another, money off purchases for volunteers… etc. \
-  To access any of these things (should they exist) you will need to have an OFN account.
+* Mit einem OFN-Konto können die Geschäfte, bei denen Sie einkaufen, Ihnen besondere Vergünstigungen gewähren. Einige Geschäfte bieten zum Beispiel frühe Öffnungszeiten für treue Kunden, vergünstigte Lieferungen für Gruppen, die in der Nähe wohnen, Preisnachlässe für Freiwillige usw. Um in den Genuss dieser Vergünstigungen zu kommen (sofern es sie gibt), benötigen Sie ein OFN-Konto.
 
 ### Gibt es Zeiten, in denen ich ein OFN-Konto haben muss, um einzukaufen?
 
-This depends on how the business you are shopping with operates.  You will need to register for an OFN account if:
+Dies hängt davon ab, wie das Unternehmen, bei dem Sie einkaufen, arbeitet. Sie müssen sich für ein OFN-Konto anmelden, wenn:
 
-* The shop you would like to access is ‘**private**’. For example a member’s only buying group.
-* You would like the shop you purchase from to set you up with a **regular, automated order** (called a subscription).
+* Der Shop, auf den Sie zugreifen möchten, ist "**privat**". Zum Beispiel eine Einkaufsgruppe nur für Mitglieder.
+* Sie möchten, dass der Shop, bei dem Sie einkaufen, eine **regelmäßige**, **automatische Bestellung** (ein so genanntes Abonnement) für Sie einrichtet.
 
 {% hint style="success" %}
-**Information in your account (such as card details and password) will not be accessible to anyone other than yourself. Card details and passwords are stored encrypted and securely.**
+**Die Informationen in Ihrem Konto (z. B. Kartendaten und Passwort) sind nur für Sie selbst zugänglich. Kartendaten und Passwörter werden verschlüsselt und sicher gespeichert.**
 {% endhint %}
 
 {% hint style="warning" %}
-When [making a purchase ](shopping-and-placing-an-order.md#checkout)through the platform you will be asked for a billing and shipping address, whether you have an OFN account or are checking out as a guest.  \
-Businesses are required to collect billing address information by law for the traceability of payments.  If you have an account, this information will be filled in automatically for you. If you checkout as a guest you will need to type it in each time you make a purchase.
+Wenn Sie [einen Kauf](shopping-and-placing-an-order.md#kasse) über die Plattform tätigen, werden Sie nach einer Rechnungs- und Lieferadresse gefragt, unabhängig davon, ob Sie ein OFN-Konto haben oder als Gast einkaufen.\
+Unternehmen sind gesetzlich verpflichtet, die Rechnungsadresse zu erfassen, um die Rückverfolgbarkeit von Zahlungen zu gewährleisten. Wenn Sie ein Konto haben, werden diese Informationen automatisch für Sie ausgefüllt. Wenn Sie als Gast zur Kasse gehen, müssen Sie sie bei jedem Einkauf eingeben.
 {% endhint %}
 
 ## Was ist auf Ihrem Konto?
 
-To view your OFN account, log in and then click on the orange person in the top right of the screen.  This will reveal a drop down menu from which you can navigate to your account.
+Um Ihr OFN-Konto einzusehen, melden Sie sich an und klicken Sie dann auf die orangefarbene Person oben rechts auf dem Bildschirm. Daraufhin wird ein Dropdown-Menü angezeigt, über das Sie zu Ihrem Konto navigieren können.
 
 ![](https://lh6.googleusercontent.com/7\_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl\_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU\_mZ2dOMTUaiLe8Fg9N5tYCNs\_FxYMMXO-35rl)
 
 ### Bestellungen
 
-Under this tab you will be able to see all the orders you have made in the past.  Clicking on ‘View’ will bring up an order summary in a new tab. This is handy if you can’t remember the name of something you brought in the past which you really liked and would like to purchase again!
+Auf dieser Registerkarte können Sie alle Bestellungen sehen, die Sie in der Vergangenheit aufgegeben haben. Wenn Sie auf "Anzeigen" klicken, wird eine Zusammenfassung der Bestellung in einer neuen Registerkarte angezeigt. Das ist praktisch, wenn Sie sich nicht mehr an den Namen eines Produkts erinnern können, das Sie in der Vergangenheit gekauft haben, das Ihnen aber sehr gut gefallen hat und das Sie gerne wieder kaufen würden!
 
-In the UK the direct URL to view your past orders is [https://openfoodnetwork.org.uk/account#/orders](https://openfoodnetwork.org.uk/account#/orders)
+Für die Schweizer Instanz lautet die direkte URL, um Ihre vergangenen Bestellungen einzusehen
+
+[https://app.openfoodswitzerland.ch/account#/orders](https://app.openfoodswitzerland.ch/account#/orders)
+
+![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
+
+###
 
 ![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
 
 ### Kreditkarten
 
-If you check the ‘Remember this card?’ box at checkout when you are logged into your OFN account then the card will be saved to this tab. &#x20;
+Wenn Sie an der Kasse das Kästchen "Diese Karte merken?" ankreuzen, wenn Sie in Ihr OFN-Konto eingeloggt sind, wird die Karte auf dieser Registerkarte gespeichert.
 
 {% hint style="warning" %}
-The full card number and details are **not visible**.&#x20;
+Die vollständige Kartennummer und die Details sind **nicht sichtbar**.
 {% endhint %}
 
 {% hint style="success" %}
-You can delete a card at any time (say if it becomes out of date).
+Sie können eine Karte jederzeit löschen (z. B. wenn sie veraltet ist).
 {% endhint %}
 
-In the UK this is the direct URL to your credit card information:\
-[https://openfoodnetwork.org.uk/account#/cards](https://openfoodnetwork.org.uk/account#/cards)
+In der Schweiz ist dies die direkte URL zu Ihren Kreditkarteninformationen:\
+[https://app.openfoodswitzerland.ch/account#/cards](https://app.openfoodswitzerland.ch/account#/cards)
 
-Details of the card saved as ‘default’ will be automatically entered at checkout. You will be able to delete these and enter the details of an alternative card if desired.  Saving your card number in your account can save you time but is not necessary unless you have an automated order set up with a shop you purchase from.
+Die Daten der als "Standard" gespeicherten Karte werden beim Bezahlvorgang automatisch eingegeben. Sie haben die Möglichkeit, diese zu löschen und die Daten einer anderen Karte einzugeben, falls gewünscht. Die Speicherung Ihrer Kartennummer in Ihrem Konto kann Ihnen Zeit sparen, ist aber nicht notwendig, es sei denn, Sie haben eine automatische Bestellung bei einem Geschäft eingerichtet, bei dem Sie einkaufen.
 
 ![](https://lh5.googleusercontent.com/A1Ems2pmtUzuoMU7ky6MtFZDgb1lV8VTimsShEnhFUZIKD4KsaiZm6xHpa3e1UtNSXBMYHrPz5Uw9zcl6i1wxnrvquf3Li8SGoA3383ui3DqZgCrI3-0JWomTuJJ3Q7-bXY1LOTv)
 
 If you have a [regular, automated order ](regular-automated-orders.md)(subscription) with a shop on the platform which you would like to pay for by card (credit or debit) then **you will need to add a card** here, **and tick the ‘Allow charges’ box** next to the shop’s name.
 
+Wenn Sie eine [regelmäßige, automatisierte Bestellung](regular-automated-orders.md) (Abonnement) bei einem Shop auf der Plattform haben, die Sie **per Karte (Kreditkarte oder Lastschrift) bezahlen möchten**, müssen Sie hier eine Karte hinzufügen und das Kästchen "**Gebühren zulassen**" neben dem Namen des Shops ankreuzen.
+
 ![](<../.gitbook/assets/newcard2 (1).gif>)
 
 ### Transaktionen
 
-Under this tab you will be able to see all the different businesses on the platform with which you have placed an order in the past.
+Auf dieser Registerkarte können Sie alle Unternehmen auf der Plattform sehen, bei denen Sie in der Vergangenheit eine Bestellung aufgegeben haben.
 
-In the UK the direct URL to view your past transactions is:\
-[https://openfoodnetwork.org.uk/account#/transactions](https://openfoodnetwork.org.uk/account#/transactions)
+Im Falle der Schweiz lautet die direkte URL, um Ihre vergangenen Transaktionen einzusehen: [https://app.openfoodswitzerland.ch/account#/transactions](https://app.openfoodswitzerland.ch/account#/transactions)
 
 ![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN\_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
 
 ### Kontoeinstellungen
 
-This is where you can reset your password.
+Hier können Sie Ihr Passwort zurücksetzen.
 
-In the UK, the direct URL to visit your account settings is:\
-[https://openfoodnetwork.org.uk/account#/settings](https://openfoodnetwork.org.uk/account#/settings)\
+In der Schweiz lautet die direkte URL, um Ihre Kontoeinstellungen aufzurufen:\
+https://app.openfoodswitzerland.ch/account#/settings\
