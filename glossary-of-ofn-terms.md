@@ -1,29 +1,23 @@
 # Glossar der OFN-Begriffe
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+* [Verwaltung von Großaufträgen](basic-features/orders/view-orders.md#verwaltung-von-grossauftraegen): Diese Funktion ermöglicht es Ihnen, mehrere Aufträge gleichzeitig zu bearbeiten. Sie ist nützlich für:
+  * Einkaufsgemeinschaften, die eine Mindestbestellmenge für einen Artikel erreichen müssen, bevor sie die Ware kaufen können, um sie an ihre Kunden weiterzuverteilen
+  * Anpassung der Bestellungen in der Masse (z. B. bei Ernteausfall/Krankheitsausbruch), wodurch die Lieferung eines oder mehrerer Erzeugnisse verhindert wird.
+* [Unternehmensabgabe](basic-features/shopfront/enterprise-fees.md): Eine Marge oder Provision, die auf den Grundpreis eines Artikels aufgeschlagen wird, um die Gemeinkosten des Unternehmens zu decken oder das Unternehmen rentabel zu machen.
+* [Erlaubnis für Unternehmen](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): Eine Verbindung zwischen Anbietern und Händlern auf der Plattform. Ohne Genehmigung (die vom Anbieter erteilt werden muss) kann ein anderes Unternehmen Ihre Einstellungen nicht bearbeiten oder Ihre Produkte zum Verkauf auflisten.
+* [Gruppenkauf](basic-features/products-1/group-buy-for-bulk-ordering.md): Organisation von Verkäufen an Kunden, bei denen die Waren vom Vertriebszentrum in großen Mengen gekauft werden oder für die eine Mindestbestellmenge erforderlich ist, bevor ein Lieferant bereit ist, die Waren an eine Abholstelle zu liefern.
+* [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub): Ein Lebensmitteleinzelhandelsgeschäft im OFN, das Waren verkauft, die von anderen geliefert werden. Ein Hub kann auch Waren verkaufen, die er selbst herstellt oder anbaut (ein Producer Hub). Ein analoges Unternehmen auf der Hauptstraße könnte ein Geschäft sein, das von vielen verschiedenen Erzeugern auf Vorrat kauft, um sie weiterzuverkaufen (z. B. Brot vom Bäcker, Gemüse vom örtlichen Großmarkt, Fleisch vom örtlichen Bauernhof usw.).
+* [Inventory](basic-features/products-1/inventory-tool.md): Eine Liste von Produkten, die Sie in Ihrem Schaufenster anbieten möchten. Mit Hilfe der OFN-Bestandsfunktion kann ein Schaufenster einige der Produkteinstellungen von Produkten eines Drittanbieters ändern.
+* [Order Cycle](basic-features/shopfront/order-cycle/): Ein Zeitraum, in dem Kunden/Käufer eine Bestellung aufgeben können, die zu einem bestimmten Zeitpunkt geliefert oder abgeholt werden soll. Der Bestellzyklus steuert, wann Ihr Online-Shop geöffnet/geschlossen ist und welche Produkte zu einem bestimmten Zeitpunkt für einen Kunden zum Kauf verfügbar sind.
+* [Private Shopfront](basic-features/shopfront/private-shopfront.md): Ein Online-Shop, der nicht für die Allgemeinheit zugänglich ist. Ohne Registrierung kann niemand sehen, welche Artikel zum Verkauf stehen, deren Preise einsehen oder eine Bestellung aufgeben.
+* [Producer](basic-features/enterprise-profile/package-types.md#for-producers): Ein Lebensmittelunternehmen, das Lebensmittel herstellt, anbaut, backt, kocht, ..., die es an andere Unternehmen zum Verkauf liefert (oder direkt auf der OFN-Plattform an Kunden verkauft).
+* [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile): Ein Lebensmittelunternehmen auf der OFN-Plattform, das ausschließlich andere beliefert. Sie organisieren keine eigenen Verkäufe an Kunden im OFN.
+* [Non-producer](basic-features/enterprise-profile/package-types.md#for-non-producers-hubs): Ein Lebensmittelunternehmen, das ausschließlich Lebensmittel und Waren vertreibt, die von anderen hergestellt und geliefert werden.
+* [Shop](your-quick-start-on-ofn-given-who-you-are.md#shop): Ein Lebensmittelunternehmen im OFN, das Lebensmittel herstellt, anbaut, kocht, ... und diese an Kunden in einem Laden verkauft, in dem nur die eigenen Produkte angeboten werden. OFN-Läden können auch als Lieferanten für größere OFN-Vertriebsstellen (Hubs) fungieren.
+* [Subscription](basic-features/subscriptions/): Eine regelmäßige, sich automatisch wiederholende Bestellung von Waren durch einen Kunden (z. B. eine Gemüsekiste)
+* [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Etiketten für Kunden, Bestellzyklen, Zahlungs- und/oder Versandmethoden, die verwendet werden können, um das Einkaufserlebnis der Käufer individuell zu gestalten.
 
-* [Bulk Order Management](basic-features/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
-  * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers
-  * Adjusting orders en-mass (e.g. in the case of a crop failure/outbreak of illness) preventing delivery of one or more items of produce.
-* [Enterprise Fee](basic-features/shopfront/enterprise-fees.md): A margin or commission added to the base price of an item to cover business overhead costs or to make the enterprise profitable.
-* [Enterprise Permission](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): A connection between suppliers and distributors on the platform. Without permission (which needs to be granted by the supplier), another enterprise can not edit your settings or list your products for sale.
-* [Group Buy](basic-features/products-1/group-buy-for-bulk-ordering.md): Organising sales to customers where the goods are bought by the distributing hub in bulk, or for which there is a minimum order before a supplier is happy to deliver goods to a collection point.
-* [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub): A food retail outlet on OFN which sells items supplied by others.  A hub can also sell goods which it makes or grows (a Producer Hub).  Analogous businesses on the high street might be a shop which buys in stock for re-sale from lots of different producers (e.g. they might buy bread from a baker, vegetables from the local wholesale market, meat from the local farm...).&#x20;
-* [Inventory](basic-features/products-1/inventory-tool.md): A list of products which you wish to stock on your shop front.  By using the OFN inventory function a shopfront can change some of the product settings of produce from a third party supplier.
-* [Order Cycle](basic-features/shopfront/order-cycle/): A period during which shoppers/buyers can place an order for delivery or collection at a specific time.  The order cycle controls when your online shop front is open/closed and which products are available at any one time for a customer to purchase.
-* [Private Shopfront](basic-features/shopfront/private-shopfront.md): An online shop which is not open to for the general public.  Unless registered, no one can see what items are for sale, their prices or place an order.
-* [Producer](basic-features/enterprise-profile/package-types.md#for-producers): A food enterprise which makes, grows, bakes, cooks, ... food which it can supply to other businesses for sale (or sell directly on the OFN platform to customers).
-* [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile): A food enterprise on the OFN platform which supplies others only. They do not organise their own sales to customers on OFN.&#x20;
-*   [Non-producer](basic-features/enterprise-profile/package-types.md#for-non-producers-hubs): A food enterprise which only
-
-    distributes food and goods made and supplied by others.
-* [Shop](your-quick-start-on-ofn-given-who-you-are.md#shop): A food enterprise on OFN which makes, grows, cooks, ... food which they sell to customers in a shop front which lists only their items. OFN Shops can also act as suppliers to larger OFN distributors (hubs).
-* [Subscription](basic-features/subscriptions/): A regular automated repeating order of goods from a customer (e.g. a veg box)
-* [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Labels given to customers, order cycles, payment methods and/or shipping methods which can be used to customise buyers' shopping experiences.
-
-## Common Symbols Used on OFN&#x20;
+## Gebräuchliche Symbole auf OFN&#x20;
 
 ![Copy](.gitbook/assets/copy.jpg)
 

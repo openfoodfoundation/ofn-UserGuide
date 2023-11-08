@@ -24,7 +24,7 @@
     * [Eigenschaften des Produkts](basic-features/products-1/product-properties.md)
     * [Preisgestaltung Fleisch und andere "vollständige" Produkte mit unbekanntem Gewicht](basic-features/products-1/pricing-irregular-items-kg.md)
     * [Werkzeug zur Bestandsaufnahme](basic-features/products-1/inventory-tool.md)
-    * [Group Buy - für Großbestellungen](basic-features/products-1/group-buy-for-bulk-ordering.md)
+    * [Gruppenkauf - für Großbestellungen](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Import von Produkten und Beständen](basic-features/products-1/product-and-inventory-import.md)
   * [Schaufenster](basic-features/shopfront/README.md)
     * [Versandmethoden](basic-features/shopfront/shipping-methods.md)
