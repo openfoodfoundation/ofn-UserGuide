@@ -1,4 +1,8 @@
-# Subscriptions
+---
+coverY: 0
+---
+
+# Abonnements
 
 {% hint style="info" %}
 Abonnements befinden sich im Betastadium, d.h. es handelt sich um eine neue Funktion, die noch einige Fehler aufweisen kann. Bitte [kontaktieren Sie uns](https://openfoodnetwork.org/find-your-local-open-food-network/), wenn Sie uns mitteilen möchten, was funktioniert, was verbessert werden muss oder wie es besser erklärt werden könnte.

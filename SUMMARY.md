@@ -45,7 +45,7 @@
     * [Aufträge manuell erstellen](basic-features/orders/create-orders-manually.md)
     * [Erstattungen und Anpassung der Zahlungen](basic-features/orders/refunds-and-adjusting-payments.md)
     * [Thermisch gedruckte Quittungen](basic-features/orders/thermally-printed-receipts.md)
-  * [Subscriptions](basic-features/subscriptions/README.md)
+  * [Abonnements](basic-features/subscriptions/README.md)
     * [Konfiguration](basic-features/subscriptions/subscriptions-configuration.md)
     * [Abonnements - Erstellen und Verwalten von Bestellungen](basic-features/subscriptions/subscriptions-creating-and-managing-orders.md)
     * [Abonnements - die Perspektive des Kunden](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
