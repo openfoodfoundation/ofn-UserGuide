@@ -31,7 +31,7 @@ Wenn Sie als Gast einkaufen möchten, sich aber an der Kasse anmelden müssen, k
 * Having an OFN account will enable the business you shop from to give you special privileges. For example some businesses will offer early ‘opening times’ for loyal customers, discounted delivery for groups who live close to one another, money off purchases for volunteers… etc. \
   To access any of these things (should they exist) you will need to have an OFN account.
 
-### **Are there any times when I must have an OFN account to shop?**
+### Gibt es Zeiten, in denen ich ein OFN-Konto haben muss, um einzukaufen?
 
 This depends on how the business you are shopping with operates.  You will need to register for an OFN account if:
 
@@ -47,13 +47,13 @@ When [making a purchase ](shopping-and-placing-an-order.md#checkout)through the 
 Businesses are required to collect billing address information by law for the traceability of payments.  If you have an account, this information will be filled in automatically for you. If you checkout as a guest you will need to type it in each time you make a purchase.
 {% endhint %}
 
-## **What’s in your Account?**
+## Was ist auf Ihrem Konto?
 
 To view your OFN account, log in and then click on the orange person in the top right of the screen.  This will reveal a drop down menu from which you can navigate to your account.
 
 ![](https://lh6.googleusercontent.com/7\_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl\_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU\_mZ2dOMTUaiLe8Fg9N5tYCNs\_FxYMMXO-35rl)
 
-### **Orders**
+### Bestellungen
 
 Under this tab you will be able to see all the orders you have made in the past.  Clicking on ‘View’ will bring up an order summary in a new tab. This is handy if you can’t remember the name of something you brought in the past which you really liked and would like to purchase again!
 
@@ -61,7 +61,7 @@ In the UK the direct URL to view your past orders is [https://openfoodnetwork.or
 
 ![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
 
-### **Credit cards**
+### Kreditkarten
 
 If you check the ‘Remember this card?’ box at checkout when you are logged into your OFN account then the card will be saved to this tab. &#x20;
 
@@ -84,7 +84,7 @@ If you have a [regular, automated order ](regular-automated-orders.md)(subscript
 
 ![](<../.gitbook/assets/newcard2 (1).gif>)
 
-### **Transactions**
+### Transaktionen
 
 Under this tab you will be able to see all the different businesses on the platform with which you have placed an order in the past.
 
@@ -93,7 +93,7 @@ In the UK the direct URL to view your past transactions is:\
 
 ![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN\_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
 
-### **Account Settings**
+### Kontoeinstellungen
 
 This is where you can reset your password.
 
