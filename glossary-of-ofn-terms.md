@@ -14,7 +14,7 @@
 * [Profil](your-quick-start-on-ofn-given-who-you-are.md#profil): Ein Lebensmittelunternehmen auf der OFN-Plattform, das ausschließlich andere beliefert. Sie organisieren keine eigenen Verkäufe an Kunden im OFN.
 * [Nicht-Erzeuger](basic-features/enterprise-profile/package-types.md#fuer-nicht-produzenten-hubs): Ein Lebensmittelunternehmen, das ausschließlich Lebensmittel und Waren vertreibt, die von anderen hergestellt und geliefert werden.
 * [Laden](your-quick-start-on-ofn-given-who-you-are.md#laden): Ein Lebensmittelunternehmen im OFN, das Lebensmittel herstellt, anbaut, kocht, ... und diese an Kunden in einem Laden verkauft, in dem nur die eigenen Produkte angeboten werden. OFN-Läden können auch als Lieferanten für größere OFN-Vertriebsstellen (Hubs) fungieren.
-* Abonnement[Subscription](basic-features/subscriptions/): Eine regelmäßige, sich automatisch wiederholende Bestellung von Waren durch einen Kunden (z. B. eine Gemüsekiste)
+* [Abonnement](basic-features/subscriptions/): Eine regelmäßige, sich automatisch wiederholende Bestellung von Waren durch einen Kunden (z. B. eine Gemüsekiste)
 * [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Etiketten für Kunden, Bestellzyklen, Zahlungs- und/oder Versandmethoden, die verwendet werden können, um das Einkaufserlebnis der Käufer individuell zu gestalten.
 
 ## Gebräuchliche Symbole auf OFN&#x20;
