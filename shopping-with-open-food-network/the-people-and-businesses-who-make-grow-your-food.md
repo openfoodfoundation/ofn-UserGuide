@@ -1,10 +1,6 @@
-# The people & businesses who make/grow your food!
+# Die Menschen und Unternehmen, die Ihre Lebensmittel
 
-{% hint style="danger" %}
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&token=aef3eea2-4d60-4d24-99ec-6edbda36b45c)--&gt;​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&token=9bbe895b-2aa1-40da-8221-01fb74558b92) Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
-{% endhint %}
-
-When you land on the home page of the shop you would like to buy from, you will see a number of tabs across the top of the page: \(to find a local shop read more [here](how-to-find-an-online-food-shop-near-you.md)\)
+Wenn Sie auf der Homepage des Geschäfts landen, bei dem Sie einkaufen möchten, sehen Sie oben auf der Seite eine Reihe von Registerkarten: (um ein lokales Geschäft zu finden, lesen Sie [hier](how-to-find-an-online-food-shop-near-you.md) mehr)
 
 * [Notices](the-people-and-businesses-who-make-grow-your-food.md#notices-not-visible-on-all-shop-fronts)
 * [Shop](shopping-and-placing-an-order.md)
@@ -13,31 +9,30 @@ When you land on the home page of the shop you would like to buy from, you will 
 * [Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)
 * [Groups](the-people-and-businesses-who-make-grow-your-food.md#groups-not-visible-on-all-shop-fronts)
 
-Under each tab is more information about the food business you are purchasing from: the story of the people behind your local produce, how to connect to them on social media, their contact details and more...
+Unter jeder Registerkarte finden Sie weitere Informationen über das Lebensmittelunternehmen, bei dem Sie einkaufen: die Geschichte der Menschen, die hinter Ihren lokalen Produkten stehen, wie Sie über soziale Medien mit ihnen in Kontakt treten können, ihre Kontaktdaten und vieles mehr...
 
-![](https://lh3.googleusercontent.com/FO_Mz9fdEd6U7pEYqO5wLAym-C8scKdbQvCdiq2E8Jbzh406GrorXXV7BGY1j9U_REVQyR2fiDr207PljroSbJ0NT_JjAJhLrjydcKo_f5P3vQfvuD36X7c5thKy9gqENe2E0nMy)
+![](https://lh3.googleusercontent.com/FO\_Mz9fdEd6U7pEYqO5wLAym-C8scKdbQvCdiq2E8Jbzh406GrorXXV7BGY1j9U\_REVQyR2fiDr207PljroSbJ0NT\_JjAJhLrjydcKo\_f5P3vQfvuD36X7c5thKy9gqENe2E0nMy)
 
-**To buy items go directly to ‘**[**Shop**](shopping-and-placing-an-order.md)**’!**
+**Um Artikel zu kaufen, gehen Sie direkt zu '**[**Shop**](shopping-and-placing-an-order.md)**'!**
 
-### **Notices \(not visible on all shop fronts\)**
+### Aushänge (nicht an allen Ladenfronten sichtbar)
 
-This section will inform you about how the shop operates.  For example, you may find information about the different delivery/collection times the business offers, what their seasonal promotions are, conditions for collection \(eg. bring a bag with you\) and/or any other services they offer.
+Dieser Abschnitt informiert Sie über die Arbeitsweise des Geschäfts. Hier finden Sie zum Beispiel Informationen über die verschiedenen Liefer- und Abholzeiten, die das Geschäft anbietet, über saisonale Aktionen, die Bedingungen für die Abholung (z. B. eine Tasche mitbringen) und/oder andere Dienstleistungen, die das Geschäft anbietet.
 
-### **About**
+### Über
 
-This section is all about the food business who runs the shop front you are looking at.  The business may make or produce some or all the food that they offer for sale, or they may source from local suppliers. Learn more about how the business operates, how they choose their suppliers or make the food they sell or their vision for the local community.
+In diesem Abschnitt geht es um das Lebensmittelunternehmen, das den Laden betreibt, den Sie sich ansehen. Das Unternehmen kann einige oder alle Lebensmittel, die es zum Verkauf anbietet, selbst herstellen oder produzieren, oder es bezieht sie von lokalen Lieferanten. Erfahren Sie mehr darüber, wie das Unternehmen arbeitet, wie es seine Lieferanten auswählt oder die Lebensmittel herstellt, die es verkauft, oder welche Vision es für die lokale Gemeinschaft hat.
 
-### **Producers**
+### Erzeuger
 
-Here you will find a list of all the businesses and individuals who supply the shop you are looking at.  By clicking on each name will bring up a pop up window where you can read more about the producer. This is a great place to find out more information about who and where your food comes from.  You can also see which other local shops on the platform stock that producer’s items.
+Hier finden Sie eine Liste aller Unternehmen und Einzelpersonen, die das von Ihnen gesuchte Geschäft beliefern. Wenn Sie auf den jeweiligen Namen klicken, öffnet sich ein Pop-up-Fenster, in dem Sie mehr über den Hersteller lesen können. Hier können Sie mehr darüber erfahren, von wem und woher Ihre Lebensmittel stammen. Sie können auch sehen, welche anderen lokalen Geschäfte auf der Plattform die Produkte dieses Herstellers führen.
 
-### **Contact**
+### Kontakt
 
-Do you want to get in touch with the shop?  Perhaps you would like to find out more information about one of their items, or you ordered something for collection this week and now you are unable to make the collection time and date….
+Möchten Sie sich mit dem Geschäft in Verbindung setzen? Vielleicht möchten Sie weitere Informationen zu einem der Artikel erhalten oder Sie haben diese Woche etwas zur Abholung bestellt und können nun nicht zum Abholtermin kommen....
 
-Whatever the reason, this is the best place to look. You will find a contact phone and email address for the shop along with links to their social media accounts and any external website they may host.
+Was auch immer der Grund ist, dies ist der beste Ort, um zu suchen. Hier finden Sie eine Kontakttelefon- und E-Mail-Adresse für das Geschäft sowie Links zu seinen Konten in den sozialen Medien und zu externen Websites, die er möglicherweise betreibt.
 
-### **Groups \(not visible on all shop fronts\)**
+### Gruppen (nicht an allen Ladenfronten sichtbar)
 
-Some food businesses on our platform team together to be part of a group.  Businesses within the same group often have shared beliefs, suppliers in common or are geographically close by.  
-
+Einige Lebensmittelunternehmen auf unserer Plattform schließen sich zu einer Gruppe zusammen. Die Unternehmen innerhalb einer Gruppe haben oft gemeinsame Überzeugungen, gemeinsame Lieferanten oder liegen geografisch nah beieinander.
