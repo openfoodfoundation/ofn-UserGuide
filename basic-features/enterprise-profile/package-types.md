@@ -1,9 +1,5 @@
 # Paket-/Profiltypen
 
-{% hint style="danger" %}
-Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
-
 Nachdem Sie Ihre [Unternehmensregistrierung](../register-and-create-your-profile.md) abgeschlossen haben, haben Sie die Möglichkeit, direkt zur Seite mit den [Unternehmenseinstellungen](enterprise-settings.md) zu gelangen.
 
 ![](../../.gitbook/assets/newregister.jpg)

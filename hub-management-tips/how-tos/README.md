@@ -5,11 +5,11 @@ In diesem Abschnitt möchten wir Ihnen anhand einer Reihe von Beispielen Schritt
 Diese Liste erhebt keinen Anspruch auf Vollständigkeit und deckt möglicherweise Ihr spezielles Szenario nicht ab. Denken Sie daran, dass Sie sich jederzeit an Ihr [lokales Instanz-Supportteam](../../local-ofn-organizations-and-contacts.md) wenden können, wenn Sie weitere Hilfe benötigen
 
 * [Ein Unternehmen löschen](delete-an-enterprise.md)
-* [Early Shopping 'Hour' for priority groups](early-shopping-hour-for-priority-groups.md)
-* [Discounted/Free Delivery for vulnerable customers](discounted-free-delivery-for-vulnerable-customers.md)
-* [Reward your volunteers](reward-your-volunteers.md)
-* [Open your shop on 'preview'](open-your-shop-on-preview.md)
-* [Soft close an order cycle](soft-close-an-order-cycle.md)
-* [Cash/EFT for trusted customers only](cash-efts-for-trusted-customers-only.md)
-* [Running a social media promotion](running-a-social-media-promotion.md)
-* [How to Create Gift Vouchers](how-to-create-gift-vouchers.md).
+* [Frühshoppen-Stunde" für vorrangige Gruppen](early-shopping-hour-for-priority-groups.md)
+* [Ermäßigte/freie Lieferung für sozial schwache Kunden](discounted-free-delivery-for-vulnerable-customers.md)
+* [Belohnen Sie Ihre Freiwilligen](reward-your-volunteers.md)
+* [Öffnen Sie Ihren Shop auf "Vorschau".](open-your-shop-on-preview.md)
+* [Soft Close eines Auftragszyklus](soft-close-an-order-cycle.md)
+* [Bargeld/EFT nur für vertrauenswürdige Kunden](cash-efts-for-trusted-customers-only.md)
+* [Durchführung einer Werbeaktion in den sozialen Medien](running-a-social-media-promotion.md)
+* [Wie man Geschenkgutscheine erstellt](how-to-create-gift-vouchers.md)
