@@ -2,12 +2,12 @@
 
 Wenn Sie auf der Homepage des Geschäfts landen, bei dem Sie einkaufen möchten, sehen Sie oben auf der Seite eine Reihe von Registerkarten: (um ein lokales Geschäft zu finden, lesen Sie [hier](how-to-find-an-online-food-shop-near-you.md) mehr)
 
-* [Notices](the-people-and-businesses-who-make-grow-your-food.md#aushaenge-nicht-an-allen-ladenfronten-sichtbar)
+* [Notizen](the-people-and-businesses-who-make-grow-your-food.md#aushaenge-nicht-an-allen-ladenfronten-sichtbar)
 * [Shop](shopping-and-placing-an-order.md)
-* [About](the-people-and-businesses-who-make-grow-your-food.md#ueber)
-* [Producers](the-people-and-businesses-who-make-grow-your-food.md#erzeuger)
-* [Contact](the-people-and-businesses-who-make-grow-your-food.md#kontakt)
-* [Groups](the-people-and-businesses-who-make-grow-your-food.md#gruppen-nicht-an-allen-ladenfronten-sichtbar)
+* [Über](the-people-and-businesses-who-make-grow-your-food.md#ueber)
+* [Erzeuger](the-people-and-businesses-who-make-grow-your-food.md#erzeuger)
+* [Kontakt](the-people-and-businesses-who-make-grow-your-food.md#kontakt)
+* [Gruppen](the-people-and-businesses-who-make-grow-your-food.md#gruppen-nicht-an-allen-ladenfronten-sichtbar)
 
 Unter jeder Registerkarte finden Sie weitere Informationen über das Lebensmittelunternehmen, bei dem Sie einkaufen: die Geschichte der Menschen, die hinter Ihren lokalen Produkten stehen, wie Sie über soziale Medien mit ihnen in Kontakt treten können, ihre Kontaktdaten und vieles mehr...
 
