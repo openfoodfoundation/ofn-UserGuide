@@ -84,6 +84,6 @@
   * [Einkaufen und Auftragserteilung](shopping-with-open-food-network/shopping-and-placing-an-order.md)
   * [Die Menschen und Unternehmen, die Ihre Lebensmittel](shopping-with-open-food-network/the-people-and-businesses-who-make-grow-your-food.md)
   * [Ihr OFN-Konto](shopping-with-open-food-network/your-ofn-account.md)
-  * [Regular Automated Orders](shopping-with-open-food-network/regular-automated-orders.md)
+  * [Regelmäßige automatisierte Bestellungen](shopping-with-open-food-network/regular-automated-orders.md)
   * [Frequently Asked Questions](shopping-with-open-food-network/frequently-asked-questions.md)
 * [Rückmeldung](feedback.md)

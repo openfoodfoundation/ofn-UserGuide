@@ -1,126 +1,124 @@
-# Regular Automated Orders
+# Regelmäßige automatisierte Bestellungen
 
-{% hint style="danger" %}
-<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-LpeYcYHvFT89zDzVlG4%2F-LpeZq2i0oaAbNYfYfu5%2FCapture%20du%202019-09-26%2000-38-19.png?alt=media&#x26;token=aef3eea2-4d60-4d24-99ec-6edbda36b45c" alt="" data-size="line">-->​<img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line"> Diese Seite ist noch nicht ins Deutsche übersetzt. Wenn du mithelfen möchtest, melde dich gerne bei uns [per E-Mail](mailto:konrad@openfoodnetwork.de) oder [im Slack](https://join.slack.com/t/openfoodnetwork/shared\_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF\~A)!
-{% endhint %}
+## Was sind "Abonnements"?
 
-## **What are ‘Subscriptions’?**
+Abonnements" sind ein Service, der von einigen Geschäften auf der OFN-Plattform angeboten wird. Wenn Sie als Kunde ein "Abonnement" bei einem Geschäft abgeschlossen haben, wird in regelmäßigen Abständen eine Bestellung in Ihrem Namen aufgegeben.
 
-‘Subscriptions’ are a service offered by some shops on the OFN platform.  As a customer, if you have a ‘subscription’ from a shop then you will have an order placed on your behalf at a regular interval. &#x20;
+Wenn Sie jede Woche, vierzehntägig oder monatlich die gleichen Produkte in Ihrem örtlichen OFN-Laden kaufen, sollten Sie fragen, ob Sie ein Abonnement bestellen können. Das kann Ihnen Zeit sparen, und Abonnements können der lokalen Lebensmittelwirtschaft Sicherheit bieten, wenn die Erzeuger wissen, dass sie jeden Monat mit einem Mindesteinkommen rechnen können.
 
-If you buy the same items from your local OFN shop every week, fortnight or month it is worth asking them if you can have a subscription order. It may save you time and subscriptions can offer security to the local food economy if producers know they can expect a minimum income each month.
+## Wie richte ich eine solche ein?
 
-## **How do I set one up?**
-
-To set up a subscription you will need to get in touch with the shop you normally purchase from. Their contact details are found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab.
+Um ein Abonnement einzurichten, müssen Sie sich mit dem Geschäft, bei dem Sie normalerweise einkaufen, in Verbindung setzen. Die Kontaktdaten finden Sie unter der Registerkarte "[Kontakt](the-people-and-businesses-who-make-grow-your-food.md#kontakt)".
 
 {% hint style="info" %}
-Not all shops offer subscriptions and for those who do, the range of products available on subscription may be more limited than their entire range. But it is always worth asking, if this is something you would like!
+Nicht alle Geschäfte bieten ein Abonnement an, und bei denjenigen, die ein Abonnement anbieten, kann die Auswahl an Produkten, die im Abonnement erhältlich sind, begrenzter sein als ihr gesamtes Sortiment. Aber es lohnt sich immer, danach zu fragen, wenn Sie das möchten!
 {% endhint %}
 
-If a shop is able to organise a subscription for you, they will need to know the following information:
+Wenn ein Geschäft in der Lage ist, ein Abonnement für Sie zu organisieren, muss es die folgenden Informationen kennen:
 
-* The email address associated with your OFN account.
-* The items you would like to purchase on a regular basis.
-* Your preferred collection/delivery time/day for your regular order.
-* Your preferred method of payment for your regular order.
-* The frequency which you would like the order (weekly, fortnightly, monthly…)
-* Start and end date (if you are giving a subscription as a gift you may like it to run for a limited time rather than indefinitely).
+* Die mit Ihrem OFN-Konto verbundene E-Mail-Adresse.
+* Die Artikel, die Sie regelmäßig kaufen möchten.
+* Ihre bevorzugte Abhol-/Lieferzeit/Tag für Ihre reguläre Bestellung.
+* Ihre bevorzugte Zahlungsmethode für Ihre reguläre Bestellung.
+* Die Häufigkeit der Bestellung (wöchentlich, vierzehntägig, monatlich...)
+* Anfangs- und Enddatum (wenn Sie ein Abonnement verschenken, möchten Sie vielleicht, dass es nur für eine begrenzte Zeit läuft und nicht auf unbestimmte Zeit).
 
 {% hint style="info" %}
-You will need to register for an [OFN account](your-ofn-account.md) and have an active email address in order for the business to set your subscription up.
+Sie müssen sich für ein[ OFN-Konto ](your-ofn-account.md)anmelden und eine aktive E-Mail-Adresse haben, damit das Unternehmen Ihr Abonnement einrichten kann.
 {% endhint %}
 
-## **Paying for a Subscription by card**
+## Bezahlen eines Abonnements mit Karte
 
-If you would like to pay for your subscription order by card then it is necessary to add and save a card to your [OFN account](your-ofn-account.md#credit-cards) and tick the box to ‘Allow Charges?’ to the shop you would like the subscription with:
+Wenn Sie Ihre Abo-Bestellung per Karte bezahlen möchten, müssen Sie eine Karte zu Ihrem [OFN-Konto](your-ofn-account.md#kreditkarten) hinzufügen und speichern und das Kästchen "Gebühren zulassen" bei dem Shop ankreuzen, bei dem Sie das Abo bestellen möchten:
 
 ![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="warning" %}
-If you have **more than one card saved** in your account then it is the one with the ‘**default**’ box checked which will be debited when payment for your subscription order is requested.
+Wenn Sie **mehr als eine Karte in Ihrem Konto gespeichert haben**, wird diejenige Karte, bei der das Kästchen "**Standard**" markiert ist, belastet, wenn die Zahlung für Ihre Abonnementbestellung angefordert wird.
 {% endhint %}
 
 {% hint style="warning" %}
-If you **change your default card** then it will be necessary to re-check the 'Allow Charges to Default Card' box under' Authorised Shops to for payments for any subscriptions you have with those shops to be processed.
+Wenn Sie **Ihre Standardkarte ändern**, müssen Sie unter "Autorisierte Shops" das Kästchen "Abbuchungen von der Standardkarte zulassen" erneut ankreuzen, damit Zahlungen für Abonnements, die Sie bei diesen Shops abgeschlossen haben, bearbeitet werden können.
 {% endhint %}
 
-## **What to expect**
+## Was zu erwarten ist
 
-Every time an order is automatically generated for you, an email will be sent to inform you of its contents.  If one of the items in your subscription is not in stock that week/month (perhaps the baker is ill and is unable to bake bread) then the quantity in your email confirmation will read ‘0’.
+Jedes Mal, wenn eine Bestellung automatisch für Sie erstellt wird, erhalten Sie eine E-Mail, um Sie über den Inhalt zu informieren. Wenn einer der Artikel in Ihrem Abonnement in der betreffenden Woche/im betreffenden Monat nicht vorrätig ist (z. B. weil der Bäcker krank ist und kein Brot backen kann), wird die Menge in Ihrer E-Mail-Bestätigung mit "0" angegeben.
 
-The email will also inform you of the current price of each item.  Over time prices may fluctuate. The cost of your subscription will reflect the current cost and not the cost when the subscription was first created.
+In der E-Mail werden Sie auch über den aktuellen Preis der einzelnen Artikel informiert. Im Laufe der Zeit können die Preise schwanken. Die Kosten für Ihr Abonnement spiegeln die aktuellen Kosten wider und nicht die Kosten zum Zeitpunkt der Erstellung des Abonnements.
 
 ![](https://lh3.googleusercontent.com/3VwcWoSeYJegbFp-87a1578lu2oKbmy2hxeWw1FryuDmAU2lCDeaOxo5I2Z7Qymk691VCfcgBqWG0-dpFxIObWGsbscBUXL6SaoCX9yVypGJZiVuQe7p67sLBXKxD8-E5HS-ZELJ)
 
-### Changing your subscription order
+### Ändern Sie Ihre Abonnementbestellung
 
-Some shops may allow customers to remove items from their orders or cancel them altogether, within a limited time frame.  In which case you will be sent two emails. The first will notify you that your automated order has been placed and give you a link to follow if you wish to change your order:
+In einigen Geschäften können Kunden innerhalb eines bestimmten Zeitraums Artikel aus ihrer Bestellung streichen oder sie ganz stornieren. In diesem Fall werden Ihnen zwei E-Mails zugeschickt. Die erste benachrichtigt Sie, dass Ihre automatische Bestellung aufgegeben wurde, und enthält einen Link, dem Sie folgen können, wenn Sie Ihre Bestellung ändern möchten:
 
 ![](https://lh3.googleusercontent.com/M1rkMedLCXm6w6ZRMQrT\_7nz9R9u6nsMBfVAj2CWAAd3D5JiSDz9\_0TwFE7gco0saGtWbibcjrdqRabfNpEQcQ9InI0-AbqOfbcsk2HOkmHES-e9eBAq0cPJZB-uCZm7IJS7mEh8)
 
 {% hint style="warning" %}
-Adding to your basket by following this link will generate a second order and you will be directed to the checkout to pay for your additional items separately from those in your subscription.
+Wenn Sie diesen Link in Ihren Warenkorb legen, wird eine zweite Bestellung generiert und Sie werden zur Kasse weitergeleitet, um die zusätzlichen Artikel getrennt von denen in Ihrem Abonnement zu bezahlen.
 {% endhint %}
 
-When orders close for that week/fortnight/month, you will be sent a second email confirming your final order contents and informing you that payment has been taken (if you are paying for your subscription by card- payment will not be automatically taken if you pay for your subscription by cash or bank transfer).
+Wenn die Bestellungen für die betreffende Woche/Woche/Monat abgeschlossen sind, erhalten Sie eine zweite E-Mail, die den endgültigen Inhalt Ihrer Bestellung bestätigt und Sie darüber informiert, dass die Zahlung erfolgt ist (wenn Sie Ihr Abonnement mit Karte bezahlen - bei Barzahlung oder Überweisung wird die Zahlung nicht automatisch eingezogen).
 
 ![](https://lh3.googleusercontent.com/ow7-Yw4Wh8kxOHnVqHIPhaKsK7vywZqUx00kcWb9IcYgnIRbkVJpATfOM-fA3Y9Mj6NOSgQtFchPotByuOgmn6zvVz3IUBM1-UAhFSc0lTqozpA-9NHuGe2y6yRZkzbFPNyM5GT6)
 
-## **Common questions**
+## Allgemeine Fragen
 
-### **I pay by card for my subscription. When will the payment be taken?**
+### Ich bezahle mit Karte für mein Abonnement. Wann wird die Zahlung eingezogen?
 
-The shop you purchase from on the OFN platform opens and closes periodically in what we call ‘order cycles’.  You will be sent an email to say your subscription order has been placed when the order cycle corresponding to your subscription opens (ie weekly, fortnightly, monthly).  Payment will be taken when the order cycle closes.
+Der Shop, in dem Sie auf der OFN-Plattform einkaufen, wird in regelmäßigen Abständen in so genannten "Bestellzyklen" geöffnet und geschlossen. Sie erhalten eine E-Mail, in der Sie über die Bestellung Ihres Abonnements informiert werden, wenn der Ihrem Abonnement entsprechende Bestellzyklus beginnt (z. B. wöchentlich, vierzehntägig, monatlich). Die Zahlung erfolgt, wenn der Bestellzyklus geschlossen wird.
 
-### I have received an email stating that the payment for my subscription order failed. What should I do?
+### Ich habe eine E-Mail erhalten, die besagt, dass die Zahlung für meine Abonnementbestellung fehlgeschlagen ist. Was soll ich tun?
 
-From time to time, if you pay for your subscription by card, you may receive the following email. Don't worry!&#x20;
+Wenn Sie Ihr Abonnement mit Karte bezahlen, kann es sein, dass Sie von Zeit zu Zeit die folgende E-Mail erhalten. Machen Sie sich keine Sorgen!
 
 ![](../.gitbook/assets/cardemail.jpg)
 
-#### What to do next:
+#### Was ist als nächstes zu tun?
 
-* Get [in touch](the-people-and-businesses-who-make-grow-your-food.md#contact) with the business with whom you have a subscription and they will be able to let you know how to pay for this particular week's/month's order.&#x20;
-* Before your next order, [log into your OFN account](your-ofn-account.md#whats-in-your-account) and visit the 'Credit Cards' tab.  In the UK you can follow this link: [https://openfoodnetwork.org.uk/account#/cards](https://openfoodnetwork.org.uk/account#/cards)
-* Check that the 'Allow Charges to Default Card' box is checked next to the business with whom you have a subscription.
+* [Setzen Sie sich mit dem Unternehmen](the-people-and-businesses-who-make-grow-your-food.md#kontakt), bei dem Sie ein Abonnement haben, in Verbindung, und man wird Ihnen mitteilen können, wie Sie die Bestellung für die betreffende Woche/den betreffenden Monat bezahlen können.
+* Loggen Sie sich vor Ihrer nächsten Bestellung in [Ihr OFN-Konto](your-ofn-account.md#was-sind-die-vorteile-eines-ofn-kontos) ein und besuchen Sie die Registerkarte "Kreditkarten". Im Falle der Schweiz können Sie diesem Link folgen: https://app.openfoodswitzerland.ch/account#/cards
+* Vergewissern Sie sich, dass das Kästchen "Abbuchungen von der Standardkarte zulassen" neben dem Unternehmen, bei dem Sie ein Abonnement haben, aktiviert ist.
 
 ![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="info" %}
-You will be asked to periodically re-visit this page and re-check this box.  This is an extra security measure brought in by European banks called Strong Card Authentication (SCA). You can read more [here](https://en.wikipedia.org/wiki/Strong\_customer\_authentication).
+Sie werden aufgefordert, diese Seite in regelmäßigen Abständen erneut aufzurufen und dieses Kästchen erneut zu markieren. Dies ist eine zusätzliche Sicherheitsmaßnahme, die von europäischen Banken eingeführt wurde und Strong Card Authentication (SCA) heißt. Sie können [hier](https://en.wikipedia.org/wiki/Strong\_customer\_authentication) mehr darüber lesen.
 {% endhint %}
 
-* Check that your card registered as 'Default' is in date.  Add a new card if necessary.
+* Überprüfen Sie, ob Ihre als "Standard" registrierte Karte noch aktuell ist. Fügen Sie bei Bedarf eine neue Karte hinzu.
 
 ![](../.gitbook/assets/newcard.gif)
 
-### **Can I top up my order by adding extra products?**
+### Kann ich meine Bestellung durch zusätzliche Produkte aufstocken?
 
-You can certainly purchase more items each week from your local food enterprise.  These extra items will be added to a new order, however, which you will need to pay for via the [regular checkout system](shopping-and-placing-an-order.md#checkout).&#x20;
+Sie können natürlich jede Woche weitere Artikel bei Ihrem örtlichen Lebensmittelunternehmen kaufen. Diese zusätzlichen Artikel werden jedoch einer neuen Bestellung hinzugefügt, die Sie über das [normale Kassensystem bezahlen](shopping-and-placing-an-order.md#kasse) müssen.
 
-If your local shop charges a small fixed fee per order for delivery/collection then get in touch with them (email and phone number can be found under ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’). They will be able to remove this fee for your top up second order for you, so that you are not paying twice!
+Wenn Ihr Geschäft vor Ort eine kleine Pauschalgebühr pro Bestellung für die Lieferung/Abholung erhebt, setzen Sie sich mit ihm in Verbindung (E-Mail und Telefonnummer finden Sie unter "[Kontakt](the-people-and-businesses-who-make-grow-your-food.md#kontakt)"). Dort kann man Ihnen diese Gebühr für Ihre zweite Bestellung abnehmen, so dass Sie nicht zweimal zahlen müssen!
 
-### **This week I don’t need to have X. Can this be removed for just one week?**
+### Diese Woche brauche ich kein X. Kann man das für nur eine Woche absetzen?
 
-Yes, this is certainly possible. The best way to do this is to [contact](the-people-and-businesses-who-make-grow-your-food.md#contact) the shop who you are purchasing with and they can adjust your subscription order accordingly.
+Ja, das ist durchaus möglich. Wenden Sie sich dazu am besten an den Shop, bei dem Sie einkaufen, und er kann Ihre Abonnementbestellung entsprechend anpassen.
 
-### **I would like to add/remove X from my regular order**
-
-This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call](the-people-and-businesses-who-make-grow-your-food.md#contact) and they can arrange the rest.
-
-### **I would like to change my regular order to weekly rather than fortnightly.**
-
-This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call ](the-people-and-businesses-who-make-grow-your-food.md#contact)and they can arrange the rest.
-
-### **I’m going on holiday and don’t want my subscription for the next two weeks.**
+### Ich möchte X zu meiner regulären Bestellung hinzufügen/entfernen
 
 This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call](the-people-and-businesses-who-make-grow-your-food.md#contact) and they can arrange the rest.
 
-### **There is a zero next to one of the products in my subscription. What does this mean?**
 
-The beauty of locally grown and made produce is that it is seasonal.  If an item in your regular order is out of stock (for instance lettuce in the winter or bread if the baker is ill that week and can’t bake) then your [order confirmation email ](regular-automated-orders.md#what-to-expect)will have a zero in the quantity column next to it.  The balance of your order will be adjusted accordingly.
 
-### **Will the cost of my subscription remain the same forever?**
+### Ich möchte meine regelmäßige Bestellung auf wöchentlich statt vierzehntägig ändern.
 
-No. The cost of your subscription will fluctuate based on the current price of the items within it.  This is to ensure small producers always receive a fair price for their products.  \
+Das ist durchaus möglich. Schicken Sie einfach eine [E-Mail oder einen Anruf](the-people-and-businesses-who-make-grow-your-food.md#kontakt) an das Geschäft, in dem Sie das Abonnement haben, und sie können den Rest organisieren.
+
+### Ich fahre in den Urlaub und möchte mein Abonnement in den nächsten zwei Wochen nicht nutzen.
+
+Das ist durchaus möglich. Schicken Sie einfach eine [E-Mail oder einen Anruf](the-people-and-businesses-who-make-grow-your-food.md#kontakt) an das Geschäft, in dem Sie das Abonnement haben, und sie können den Rest organisieren.
+
+### Neben einem der Produkte in meinem Abonnement steht eine Null. Was bedeutet das?
+
+Das Schöne an lokal angebauten und hergestellten Produkten ist, dass sie saisonal sind. Wenn ein Artikel Ihrer regulären Bestellung nicht vorrätig ist (z. B. Salat im Winter oder Brot, wenn der Bäcker in dieser Woche krank ist und nicht backen kann), wird in der[ E-Mail mit der Auftragsbestätigung ](regular-automated-orders.md#was-zu-erwarten-ist)eine Null in der Spalte mit der Menge angegeben. Der Restbetrag Ihrer Bestellung wird dann entsprechend angepasst.
+
+### Bleiben die Kosten für mein Abonnement für immer gleich?
+
+Nein. Die Kosten für Ihr Abonnement schwanken je nach dem aktuellen Preis der darin enthaltenen Artikel. Damit soll sichergestellt werden, dass kleine Erzeuger immer einen fairen Preis für ihre Produkte erhalten.\
