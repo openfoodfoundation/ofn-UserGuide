@@ -40,6 +40,7 @@
       * [Tags and Tag Rules](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Private shopfront](basic-features/shopfront/private-shopfront.md)
     * [Display only shopfront](basic-features/shopfront/display-only-order-cycles.md)
+    * [Vouchers](basic-features/shopfront/vouchers.md)
     * [White Label site](basic-features/shopfront/white-label-site.md)
   * [Orders](basic-features/orders/README.md)
     * [Manage Orders](basic-features/orders/view-orders.md)
