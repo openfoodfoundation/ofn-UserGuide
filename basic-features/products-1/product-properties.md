@@ -57,7 +57,7 @@ This is a list of product and enterprise properties available in Australia:
 {% tab title="UK" %}
 This is a list of product and enterprise properties available in the UK:
 
-* Certified Organic/ Fair Trade / Biodynamic
+* Certified Organic / Fair Trade / Biodynamic / Grassfed
 * Produced within 15 / 30 / 50 miles
 * RSPCA assured
 * Grown in Polycultures
@@ -74,6 +74,7 @@ This is a list of product and enterprise properties available in the UK:
 * Certified Halal
 * Christmas
 * Imported
+* Chocolate
 {% endtab %}
 
 {% tab title="USA" %}

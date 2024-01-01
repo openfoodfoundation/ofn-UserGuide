@@ -1,4 +1,4 @@
-# White Label site
+# White Label shopfront
 
 The White Label function allows users to customise their shopfront branding to replace the Open Food Network defaults. These changes will apply across shopfront and checkout screens.
 
@@ -45,5 +45,11 @@ The image will be resized to 217 x 44.
 Add a custom link to the top-left logo, for example your business website or social media.&#x20;
 
 Enter the link in the field 'Link For Logo Used In Shopfront' in the White Label section of the menu in your Enterprise Settings.
+
+<figure><img src="../../.gitbook/assets/white label.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Note: The field to add the link for the logo to be used in the shop front only becomes available AFTER a logo image has been uploaded.  It is necessary to select 'Update' after adding the image to reveal this option.
+{% endhint %}
 
 Click Update to save.

@@ -105,7 +105,7 @@ You then have access to all available shipping methods. Select the one your cust
 
 To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
 
-**Additional options available under 'Actions'**
+### **Additional options available under 'Actions'**
 
 ![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)
 
@@ -116,7 +116,7 @@ To save changes select the 'tick' icon to the right hand side. To discard, selec
 
 * Below is an example of the invoice that is generated:
 
-![](../../.gitbook/assets/invoicenew.jpg)
+![](<../../.gitbook/assets/invoice basics.jpg>)
 
 {% hint style="danger" %}
 Please check regional regulations regarding the information legally required to be on an invoice.  Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.\

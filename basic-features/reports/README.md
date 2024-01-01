@@ -6,6 +6,8 @@ You can access reports by clicking on **Reports** in the blue horizontal menu. &
 
 To customise your report there are two sections: filters and rendering options, which will allow you to access the relevant data from your report.
 
+<figure><img src="../../.gitbook/assets/basic orders and distributers options.jpg" alt=""><figcaption></figcaption></figure>
+
 Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as in CSV, PDF and Excel and OpenOffice format. To select which file type you would like to download click the **Generate** **Report** drop down box where you specify the filters for each report.&#x20;
 
 Reports displayed on the screen can be printed using the blue **Print Report** button in the top right corner of the report results:<img src="../../.gitbook/assets/print report.JPG" alt="" data-size="line">&#x20;
