@@ -33,14 +33,14 @@ In addition to the Itemised Payment Totals this report states revenue coming fro
 There are two sales tax reports: Tax Types and Tax Rates.
 
 {% hint style="success" %}
-The **Tax Type** report is useful for separating total tax per order into its different component elements: tax on products, tax on shipping method fee and tax on payment method fee.
+The **Tax Type** report is useful for separating total tax per order into its different component elements: tax on products, tax on shipping method fee and tax on fees- enterprise and/or payment method fees.
 {% endhint %}
 
-![Tax type report](../../.gitbook/assets/taxtype.jpg)
+![Tax type report](<../../.gitbook/assets/tax types report.jpg>)
 
-The **tax rate** report gives an order-by-order break down of tax by it's tax rate (full, reduced or zero-rated).  Order totals inclusive and exclusive of tax are also given.
+The **tax rate** report gives an **order-by-order break down** of tax by it's tax rate (full, reduced or zero-rated PRODUCTS and tax from delivery fees).  Order totals inclusive and exclusive of tax are also given.
 
-![Tax rate report](../../.gitbook/assets/taxrates.jpg)
+![Tax rate report](<../../.gitbook/assets/tax rates report.jpg>)
 
 ## Xero Invoices
 
