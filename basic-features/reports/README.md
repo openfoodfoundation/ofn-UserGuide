@@ -10,9 +10,9 @@ To customise your report there are two sections: filters and rendering options, 
 
 Here you will find a list of the pre-defined data exports that are available to view and download. All reports are available to download as in CSV, PDF and Excel and OpenOffice format. To select which file type you would like to download click the **Generate** **Report** drop down box where you specify the filters for each report.&#x20;
 
-Reports displayed on the screen can be printed using the blue **Print Report** button in the top right corner of the report results:<img src="../../.gitbook/assets/print report.JPG" alt="" data-size="line">&#x20;
+You can use the **Columns** filter to make your reports easier to read you can remove unnecessary data. To do this, just tick or untick boxes in the drop down menu (by default all columns will be ticked):
 
-You can use the **Columns to hide** filter to make your reports easier to read you can remove unnecessary data from your report. To do this just specify which information you don't want displayed in the text box: <img src="https://lh3.googleusercontent.com/Qh0uJbt76cQh-ryGCchdYybWp5X8KMdnG-VHLH-V1dU9pEniHMHOZc6mvuKzOdYM-NX4psrML2FhiLVTi45MCuKHDSD2UgQgo_Q5JsgEWRB-96m4jFbcRX1uQpUWpePstKXozJLW4efJD8P2D1rNMA4Bv8SSU3DhAQlMdX-Soq91r2qBf3l33XpS" alt="" data-size="line">
+<figure><img src="../../.gitbook/assets/columns fliter.jpg" alt=""><figcaption></figcaption></figure>
 
 The **summary row** is a filter that adds totals to the bottom of each type of report and the **header row** gives you the name of the customer and order number above the data. This feature is available for **Packing reports** and **Orders & Fulfillment** reports.
 
@@ -27,7 +27,11 @@ The **summary row** is a filter that adds totals to the bottom of each type of r
 
 If you have opened an [Order Cycle](../shopfront/order-cycle/), you will be able to run reports to help with managing **packing,** **processing your orders**, and meet your **financial reporting** needs.
 
-![Reports available to view and download](../../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
+![Reports available to view and download](<../../.gitbook/assets/all reports listed.jpg>)
+
+{% hint style="danger" %}
+Reports written with ~~a line through them~~ are no longer maintained and will be removed from the platform in future updates.
+{% endhint %}
 
 For most reports you are able to filter data by:
 
@@ -66,7 +70,7 @@ HINTS:&#x20;
 | Task                                                                                                               | Suggested Report(s)                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Product availability                                                                                               | [Order Cycle Supplier Totals](order-reports.md#order-cycle-supplier-totals)                                                                                                               |
-| Reviewing products stocked                                                                                         | <p><a href="reports-for-hub-management.md#product-management">All Products</a></p><p><a href="reports-for-hub-management.md#product-management">Inventory</a></p>                         |
+| Reviewing products stocked                                                                                         | [All Products](reports-for-hub-management.md#product-management)                                                                                                                          |
 | Reimbursing suppliers                                                                                              | [Order Cycle Supplier Totals](order-reports.md#order-cycle-supplier-totals)                                                                                                               |
 | <p>Pack or process orders on an <br>individual or batch basis</p>                                                  | [Order Cycle Customer Totals](order-reports.md#order-cycle-customer-totals)                                                                                                               |
 | <p>Checking in products delivered</p><p>by suppliers</p>                                                           | [Pack by supplier](packing-reports.md#pack-by-supplier)                                                                                                                                   |
@@ -87,8 +91,6 @@ HINTS:&#x20;
 A summary of the data included in each report can be found in the following document:
 
 {% file src="../../.gitbook/assets/listing-of-all-the-reports-and-their-columns-listing-of-all-the-reports-and-their-columns.pdf" %}
-
-
 
 ##
 
