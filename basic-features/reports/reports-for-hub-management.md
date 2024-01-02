@@ -4,6 +4,13 @@ description: Order Cycle, Product, Customer and Enterprise Fee Management report
 
 # Reports for Hub Management
 
+On this page you can find more information about reports listed in the following sections:
+
+* [Order Cycle Management](reports-for-hub-management.md#order-cycle-management)
+* [Products & Inventory](reports-for-hub-management.md#product-management)
+* [Customers](reports-for-hub-management.md#customer-management)
+* [Enterprise Fee Management](reports-for-hub-management.md#enterprise-fees)
+
 ## Order Cycle Management
 
 There are two reports in the Order Cycle Management section: Payment Methods and Delivery Report.&#x20;
@@ -61,19 +68,9 @@ The **Lettuce Share** report gives more details about each product: It's name, v
 
 ## Customer Management
 
-### Mailing List&#x20;
+You can use this report to view the number of orders placed by a customer per order cycle- particularly useful if someone orders more than once but wants to collect everything in one box.
 
-The mailing list report shows the names and email addresses of customers who have placed orders in your shopfront. This report can help you contact customers who have purchased items from your shopfront.  For example, you may need to notify a customer (or set of customers) if a product they bought is not available or if you are unable (say, due to illness) make the delivery schedule they requested.&#x20;
-
-See below for an example of the Mailing List Report:
-
-![](../../.gitbook/assets/mailing-list.jpg)
-
-### Addresses
-
-The Addresses report includes Customer contact details, Hub and Shipping Method, and can be filtered by Order Cycle, Shopfront (**Distributor**) and **Supplier.**&#x20;
-
-![](../../.gitbook/assets/addresses.jpg)
+<figure><img src="../../.gitbook/assets/customers report.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Enterprise Fees
 

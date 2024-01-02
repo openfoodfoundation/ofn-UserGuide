@@ -1,5 +1,10 @@
 # Order Reports
 
+On this page you can find more details about reports listed under the following sections:
+
+* [Orders & Distributors](order-reports.md#orders-and-distributors-report)&#x20;
+* [Orders & Fulfillment](order-reports.md#orders-and-fulfillment-reports)
+
 ## Orders and Distributors Report
 
 {% hint style="success" %}

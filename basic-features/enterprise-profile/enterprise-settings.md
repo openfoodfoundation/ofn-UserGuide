@@ -147,7 +147,9 @@ Selling as VAT registered enterprise
 {% endtab %}
 {% endtabs %}
 
-
+{% hint style="danger" %}
+If your enterprise is **Tax Registered** or supplies a tax registered food hub then it is important to select the correct 'Tax Zone' when prompted (for example when setting up a Shipping Method fee).
+{% endhint %}
 
 **Terms and Conditions** (pdf files only) : Let your customers know any terms and conditions associated with purchasing from your business (for example your refund policy) by uploading a .pdf file here.
 
