@@ -167,7 +167,7 @@ The legally registered address, along with company registration number and tax i
 
 #### Invoice sorting
 
-There is an option here to sort the items in each customer's invoice by supplier name.  This can be helpful if you print [invoices](../orders/view-orders.md) for all orders to aid with packing.
+There is an option here to sort the items in each customer's invoice by supplier name.  This can be helpful if you print [invoices](../reports/view-orders.md#hints-and-tips) for all orders to aid with packing.
 
 <figure><img src="../../.gitbook/assets/invoice sorting.jpg" alt=""><figcaption></figcaption></figure>
 

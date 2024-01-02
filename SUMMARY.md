@@ -57,6 +57,7 @@
     * [Packing Reports](basic-features/reports/packing-reports.md)
     * [Payment and Tax Reports](basic-features/reports/payment-and-tax-reports.md)
     * [Reports for Bulk Order Management](basic-features/reports/reports-for-bulk-order-management.md)
+    * [OFN Invoices](basic-features/reports/view-orders.md)
   * [Groups](basic-features/groups/README.md)
     * [Create and manage a Group page](basic-features/groups/group-page.md)
   * [API](basic-features/api.md)

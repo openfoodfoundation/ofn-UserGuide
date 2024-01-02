@@ -110,20 +110,13 @@ To save changes select the 'tick' icon to the right hand side. To discard, selec
 ![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)
 
 * **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
-* **Send Invoice**: This will automatically send the customer an invoice (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
-*   **Print Invoice:** This will generate the invoice in the form of a pdf for printing.
-
-
-* Below is an example of the invoice that is generated:
-
-![](<../../.gitbook/assets/invoice basics.jpg>)
-
-{% hint style="danger" %}
-Please check regional regulations regarding the information legally required to be on an invoice.  Currently our invoices are not compliant to French law. Invoices for enterprises which are registered for VAT are not compliant under UK law.\
-We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
-{% endhint %}
-
+* **Send Invoice**: This will automatically send the customer an [invoice](../reports/view-orders.md) (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
+* **Print Invoice:** This will generate the[ invoice](../reports/view-orders.md) in the form of a pdf for printing.
 * **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
+
+{% hint style="info" %}
+More information can be found about OFN [invoices](../reports/view-orders.md) here.
+{% endhint %}
 
 #### **View customer details**
 
@@ -144,26 +137,6 @@ You may wish to use this functionality to:
 * refund a customer&#x20;
 * record a partial payment
 * see [Refunding and Adjusting Payments](refunds-and-adjusting-payments.md) for more information about making adjustments to orders
-
-### Batch Print Invoices
-
-To save time you can print multiple invoices at once (rather than visiting each order in turn and selecting Actions-> Print Invoice).\
-On the Listing Orders page check the box to the left of orders for which you would like to send an invoice. You can increase the number of orders per page from 15 to 100 and select all at once, if desired.\
-Then click 'Print Invoices' button to the top right of the table:
-
-![](../../.gitbook/assets/batchprint1.jpg)
-
-A Loading page will pop up while the invoices are generated. On completion you will be able to view (and download) a file containing all the invoices for the orders selected:
-
-![](../../.gitbook/assets/compileinvoice.jpg)
-
-{% hint style="info" %}
-By default the invoices selected will be printed in sequence in which the orders were completed.
-{% endhint %}
-
-{% hint style="info" %}
-To print invoices only for those orders associated with a specific Shipping Method (or collection point) then sort by 'Shipping Method' prior to batch printing.
-{% endhint %}
 
 ## Bulk order management
 
