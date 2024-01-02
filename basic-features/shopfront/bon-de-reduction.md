@@ -21,8 +21,6 @@ Vous pouvez configurer des bons de réduction depuis l'espace [Paramètres de l'
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 11.49.52.png" alt=""><figcaption></figcaption></figure>
 
-
-
 * **CODE PROMO** - Le code que vous allez saisir ici bénéficiera d'une réduction. Le code correspond à une chaine de caractère alors vérifiez l’orthographe, les majuscules/minuscules et les espaces avant l'enregistrement.&#x20;
 * **TYPE DE PROMO** - Vous allez pouvoir ici choisir entre un mode de calcul de la remise en pourcentage ou en montant fixe.
   * **fixe ou pourcentage** - En fonction du choix, le bon ajoutera un montant fixe de réduction ou un pourcentage de réduction à l'ensemble de la commande à laquelle le bon sera appliqué.
@@ -35,7 +33,7 @@ Les bons de réduction sont automatiquement actifs dès leur création, si vous 
 
 ## Gérer les bons de réduction
 
-Les bons de réduction peuvent être activés ou désactivés de manière illimitée par l'administrateur de la boutique. Un bon restera actif tant que l’administrateur de la boutique ne l'aura pas manuellement désactivé. Un bon actif peut être utilisé sur plusieurs commandes par un seul ou plusieurs clients. Les clients sont limité à l'usage d'un bon de réduction par commande.&#x20;
+Les bons de réduction peuvent être activés ou désactivés de manière illimitée par l'administrateur de la boutique. Un bon restera actif tant que l’administrateur de la boutique ne l'aura pas manuellement désactivé. Un bon actif peut être utilisé sur plusieurs commandes par un seul ou plusieurs clients. Les clients sont limités à l'usage d'un unique bon de réduction par commande.&#x20;
 
 {% hint style="warning" %}
 Les bons de réduction ne se désactivent pas automatiquement après utilisation par le.s client.s
@@ -70,5 +68,5 @@ Si le bon de réduction appliqué ramène la valeur de la commande à un montant
 <figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 15.26.45.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Si seulement une partie du bon de réduction est utilisé et que le montant de la commande devient négatif, le montant du crédit ne sera pas crédité sur le compte client et donc, sera perdu.&#x20;
+Si seulement une partie du bon de réduction est utilisé et que le montant de la commande devient négatif, le crédit restant ne sera pas crédité sur le compte client et donc, sera perdu.&#x20;
 {% endhint %}
