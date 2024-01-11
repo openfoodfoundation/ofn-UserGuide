@@ -98,12 +98,6 @@ Geben Sie "Mark" ein, wenn Sie möchten, dass die Benutzer ein Paypal-Konto hab
 Geben Sie "Login" ein, um den Kunden zum Anmeldeformular für PayPal zu leiten (wenn Sie oben "Mark" ausgewählt haben). Oder geben Sie "Abrechnung" ein, um Kunden ein Formular zu zeigen, in dem sie ihre Kreditkartendaten eingeben und sich möglicherweise für ein PayPal-Konto anmelden können (wenn Sie oben "Sole" ausgewählt haben).
 {% endtab %}
 
-{% tab title="MIGS" %}
-&#x20;MasterCard Internet Gateway Service (MIGS)
-
-Die Einrichtung dieses Dienstes muss über Ihre Bank erfolgen. Bislang wurde er mit der Bendigo Bank getestet.
-{% endtab %}
-
 {% tab title="Stripe" %}
 [Stripe](https://stripe.com/au) ist eine Online-Zahlungsplattform ähnlich wie Paypal. Sie ermöglicht es Ihnen, Kreditkartenzahlungen von Ihren Kunden zu akzeptieren. Stripe ist eine globale Plattform, die jedoch nur auf bestimmten OFN-Instanzen verfügbar ist. Wenden Sie sich an Ihr lokales OFN- Team, um zu erfahren, ob es in Ihrem OFN verfügbar ist.
 
@@ -164,18 +158,6 @@ Wenn ein Kunde seine Bestellung mit Stripe bezahlt, wird das Geld (abzüglich d
 Wenn Sie von einem Kunden eine zusätzliche Zahlung verlangen müssen, weil er einen weiteren Betrag schuldet, können Sie in Stripe eine Rechnung erstellen. Der Kunde erhält eine E-Mail, in der er aufgefordert wird, mit Kredit-/Debitkarte zu zahlen. Dies wird nicht an OFN weitergeleitet, so dass Sie die Zahlung manuell abbuchen müssen.
 
 ![](<../../.gitbook/assets/image (31).png>)
-{% endtab %}
-
-{% tab title="Pin Payments" %}
-Für Pin Payments benötigen Sie nur Ihren API-Schlüssel. Sie müssen zuerst ein Konto bei Pin Payments einrichten und können einen Rabatt erhalten, wenn Sie sich als OFN-Mitglied anmelden ([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup))
-
-API-Schlüssel: Geben Sie hier Ihren "Live Secret API Key" ein - Sie finden diesen in Ihrem PinPayments-Konto (siehe unten). Wählen Sie zunächst in Ihrem Konto die Option API-Schlüssel. Sobald Sie einen API-Schlüssel generiert haben, kopieren Sie den "Live Secret API Key" und fügen ihn in das API-Schlüsselfeld in OFN ein.
-
-![](../../.gitbook/assets/api-keys.png)
-
-![](../../.gitbook/assets/api-2.png)
-
-**Server:** Geben Sie 'live' ein - Groß- und Kleinschreibung ist zu beachten.
 {% endtab %}
 {% endtabs %}
 
