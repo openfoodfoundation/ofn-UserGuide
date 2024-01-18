@@ -180,7 +180,7 @@ Alle **prozentualen Gebühren** werden nur auf der Grundlage eines **Prozentsat
 {% endhint %}
 
 {% hint style="warning" %}
-Wenn Ihr Unternehmen allen Produkten eine pauschale Unternehmensgebühr hinzufügt, dann ist Ihr gewünschter Prozentsatz des Warenkorbs eines Kunden, um den "pauschalen Prozentsatz" zu erreichen
+Wenn Ihr Unternehmen allen Produkten eine pauschale Unternehmensgebühr hinzufügt und Sie den "pauschalen Prozentsatz" anwenden möchten, dann ist Ihr gewünschter Prozentsatz des Warenkorbs eines Kunden:
 
 &#x20;\= (100 + Unternehmensgebühr) ∗ GewünschterProzentsatz/100&#x20;
 
@@ -199,24 +199,24 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 
 ![](../../.gitbook/assets/paymentflex.jpg)
 
-> Beispiel: Wenn die "Kosten für den ersten Artikel" auf 0,20 £, die "Kosten für weitere Artikel" auf 0,10 £ und die "Maximale Artikelanzahl" auf 3 festgelegt ist, werden einem Kunden, der 5 Artikel kauft, 0,40 £ an Zahlungsgebühren berechnet (0,20 £ für den ersten Artikel), 0,10 £ für die Posten zwei und drei und 0,00 £ für die Posten vier und fünf).
+> Beispiel: Wenn die "Kosten für den ersten Artikel" auf 0,20 CHF, die "Kosten für weitere Artikel" auf 0,10 CHF und die "Maximale Artikelanzahl" auf 3 festgelegt ist, werden einem Kunden, der 5 Artikel kauft, 0,40 CHF an Zahlungsgebühren berechnet (0,20 CHF für den ersten Artikel), 0,10 CHF für die Posten zwei und drei und 0,00 CHF für die Posten vier und fünf).
 
 **Pauschalgebühr (pro Artikel):** Diese Gebühr ist eine konstante Gebühr, die auf Produkte angewendet wird, die als "Artikel" aufgeführt sind. (Sie wird nicht auf Produkte angewandt, die nach Gewicht oder Volumen verkauft werden. Daher wird einem Kunden, der z. B. Reis pro kg kauft, keine Gebühr für die Zahlungsmethode berechnet).
 
-**Preissack:** Dies ist eine flexible Versandgebührenmethode, die es Ihnen ermöglicht, Kunden, die mehr als einen "Mindestbetrag" ausgeben, mit einem Rabatt zu belohnen. Wenn der Kunde weniger als den "Mindestbetrag" ausgibt, können Sie festlegen, wie hoch die Versandgebühren sind.
+**Mengenrabatt:** Dies ist eine flexible Versandgebührenmethode, die es Ihnen ermöglicht, Kunden, die mehr als einen "Mindestbetrag" ausgeben, mit einem Rabatt zu belohnen. Wenn der Kunde weniger als den "Mindestbetrag" ausgibt, können Sie festlegen, wie hoch die Versandgebühren sind.
 
 * "Minimaler Betrag": Wenn der Gesamtbetrag der Bestellung unter diesem Betrag liegt, wird kein Rabatt gewährt. Liegt die Bestellung über diesem Betrag, wird der Rabatt an der Kasse gewährt.&#x20;
 * "Normaler Betrag": Dies ist die Versandgebühr, die für Verkäufe unterhalb des "Mindestbetrags" gilt.
 * "Rabatt-Betrag": Dies ist die Versandgebühr, die für Verkäufe über dem "Mindestbetrag" erhoben wird.
 
 {% hint style="danger" %}
-Der **Mindestbetrag** ist der **Gesamtpreis der Produkte** im Warenkorb eines Kunden und enthält keine UnternehmenWenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen keiner Gebühr für die Zahlung (Rabattbetrag = 0) und z. B. einer Gebühr von 0,50 £ (= normaler Betrag) auf einen Korb von 30 £ festlegen möchte, lautet der Mindestbetragsgebühren.
+Der **Mindestbetrag** ist der **Gesamtpreis der Produkte** im Warenkorb eines Kunden und enthält keine Unternehmensgebühren.
 {% endhint %}
 
 {% hint style="warning" %}
-Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen keiner Gebühr für die Zahlung (Rabattbetrag = 0) und z. B. einer Gebühr von 0,50 £ (= normaler Betrag) auf einen Korb von 30 £ festlegen möchte, lautet der Mindestbetrag
+Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen keiner Gebühr für die Zahlung (Rabattbetrag = 0) und z. B. einer Gebühr von 0,50 CHF (= normaler Betrag) auf einen Korb von 30 CHF festlegen möchte, lautet der Mindestbetrag
 
-$$= £30 * 100 /(100+20) = £25$$&#x20;
+$$= CHF 30 * 100 /(100+20) = CHF25$$&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/paymentpc.jpg)
@@ -229,4 +229,4 @@ Die Rechner "Flexible Rate" und "Preissack", die auf die Gebühren für Zahlun
 
 ## Erstattungen
 
-Die Ausstellung und Verwaltung von Rückerstattungen hängt davon ab, wie ein Kunde ursprünglich für seine Bestellung bezahlt hat. Weitere Einzelheiten finden Sie hier.
+Die Ausstellung und Verwaltung von Rückerstattungen hängt davon ab, wie ein Kunde ursprünglich für seine Bestellung bezahlt hat. Weitere Einzelheiten finden Sie [hier](../orders/refunds-and-adjusting-payments.md).
