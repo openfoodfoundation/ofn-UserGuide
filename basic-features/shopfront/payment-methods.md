@@ -4,7 +4,7 @@
 Sie **müssen** mindestens eine Zahlungsmethode erstellen, bevor Sie Ihren Shop eröffnen können.
 {% endhint %}
 
-Bevor Sie weiter lesen, sollten Sie sich eine kurze Demonstration ansehen, wie Sie Ihre erste Zahlungsmethode einrichten:
+Bevor Sie weiterlesen, sollten Sie sich eine kurze Demonstration ansehen, wie Sie Ihre erste Zahlungsmethode einrichten:
 
 ![](../../.gitbook/assets/paymentmethod.gif)
 
@@ -21,22 +21,22 @@ Bevor Sie weiter lesen, sollten Sie sich eine kurze Demonstration ansehen, wie S
 ![](../../.gitbook/assets/paymentmethod2.jpg)
 
 * **Beschreibung:** Geben Sie weitere Einzelheiten über die Zahlungsmethode an. Bei einer Banküberweisung geben Sie in diesem Feld beispielsweise die Bankverbindung an, auf die der Kunde die BACS-Zahlung leisten soll. Diese Beschreibung wird an der Kasse und in den Bestellbestätigungs-E-Mails angezeigt.
-* **Anzeige:** Wählen Sie entweder "Nur Back Office" oder "Sowohl Kasse als auch Back Office".
+* **Anzeige:** Wählen Sie entweder "Nur Back Office" oder "Sowohl Kasse als auch Back Office". Wenn Sie nur "Nur Back Office" wählen, können nur Sie diese Zahlungsoption sehen und auf "Sowohl Kasse als auch Back Office wechseln, wenn Sie diese Zahlungsoption für Kunden sichbar machen möchten.
 
 {% hint style="info" %}
-Wenn Sie eine Zahlungsmethode für eine Weile deaktivieren möchten, sie aber in Zukunft vielleicht wieder anbieten möchten (vielleicht müssen Sie aufgrund eines COVID-Ausbruchs vorübergehend keine Nachnahme mehr anbieten), dann ändern Sie sie in "Nur Back Office"
+Wenn Sie eine Zahlungsmethode für eine Weile deaktivieren möchten, sie aber in Zukunft vielleicht wieder anbieten möchten, dann ändern Sie sie in "Nur Back Office"
 {% endhint %}
 
 {% hint style="warning" %}
-Wenn Sie alle Zahlungsmethoden Ihres Unternehmens auf "Nur Back Office" umstellen, wird das Schaufenster für aktive Bestellzyklen nur noch angezeigt.
+Wenn Sie alle Zahlungsmethoden Ihres Unternehmens auf "Nur Back Office" umstellen, wird das Schaufenster nur noch für aktive Bestellzyklen angezeigt.
 {% endhint %}
 
 * **Aktiv:** Wählen Sie aus, ob diese Zahlungsmethode derzeit sichtbar und verfügbar ist oder nicht.
 * **Markierungen**: Verwenden Sie Tag-Regeln, wenn Sie bestimmte Zahlungsmethoden für bestimmte Kunden verfügbar/nicht verfügbar machen möchten (z.B. möchten Sie nur Großhandelskunden erlauben, per BACS zu zahlen, aber Privatkunden "zwingen", per Kreditkarte oder PayPal zu zahlen). Für weitere Informationen lesen Sie bitte [hier](customer-management-and-conditional-displays-prices/).
 * **Zahlungsanbieter:** Wählen Sie die Option, die für die von Ihnen erstellte Zahlungsmethode relevant ist. Es gibt drei Optionen:
   * PayPal Express &#x20;
-  * Stripe SCA
-  * Cash / EFT / etc. (Bargeld, Scheck oder Banküberweisung. Diese Zahlungen laufen nicht über ein Online-Zahlungsportal und werden nicht automatisch validiert)Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
+  * Stripe SCA (Kredit- und Debitkarten)
+  * Cash / EFT / etc. (Bargeld, Twint in Person anwesend, Scheck oder Banküberweisung. Diese Zahlungen laufen nicht über ein Online-Zahlungsportal und werden nicht automatisch validiert)Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
 
 ![](../../.gitbook/assets/payment-methods1.jpg)
 
@@ -44,7 +44,7 @@ Wenn Sie alle Zahlungsmethoden Ihres Unternehmens auf "Nur Back Office" umstelle
 Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
 {% endhint %}
 
-* **Kalkulator:** Wählen Sie aus, wie die mit der Zahlungsmethode verbundenen Gebühren auf eine Bestellung angerechnet werden sollen. Beachten Sie, dass die Gebühren für die Zahlungsmethode auf Null gesetzt werden können. Weitere Informationen zu den Gebühren für Zahlungsarten finden Sie weiter unten.
+* **Berechnung:** Wählen Sie aus, wie die mit der Zahlungsmethode verbundenen Gebühren auf eine Bestellung angerechnet werden sollen. Beachten Sie, dass die Gebühren für die Zahlungsmethode auf Null gesetzt werden können. Weitere Informationen zu den Gebühren für Zahlungsarten finden Sie weiter unten.
 
 Wenn Sie auf "Erstellen" klicken, wird die Zahlungsmethode erstellt und Sie erhalten neue Felder zur Festlegung der Gebühren für die Zahlungsmethode. Die sichtbaren Felder hängen davon ab, welchen "Rechner" Sie ausgewählt haben.
 
