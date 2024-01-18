@@ -13,13 +13,10 @@ Bevor Sie weiterlesen, sollten Sie sich eine kurze Demonstration ansehen, wie Si
 * Rufen Sie die Seite Zahlungsmethoden auf, indem Sie im blauen horizontalen Menü auf **Unternehmen** klicken und dann auf **Einstellungen** neben Ihrem Unternehmen. Die Seite "**Zahlungsarten**" finden Sie im Menü auf der linken Seite.
 * Klicken Sie auf **Neue Zahlungsmethode erstellen +** . Sie werden auf eine Seite wie diese weitergeleitet:
 
-![](../../.gitbook/assets/paymentmethods2.jpg)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.29.22.png>)
 
 * Kreuzen Sie Ihr Unternehmen in dem Feld rechts auf der Seite mit der Überschrift Hubs an. Dies zeigt an, für welches Unternehmen die Zahlungsmethode, die Sie erstellen wollen, gelten soll. Sie können mehr als ein Unternehmen auswählen.
 * **Name:** Wählen Sie einen Namen für diese Zahlungsmethode. (z. B. "Mit Kreditkarte über Paypal bezahlen"). Dieser Name wird an der Kasse und in den Bestellbestätigungs-E-Mails der Kunden angezeigt.
-
-![](../../.gitbook/assets/paymentmethod2.jpg)
-
 * **Beschreibung:** Geben Sie weitere Einzelheiten über die Zahlungsmethode an. Bei einer Banküberweisung geben Sie in diesem Feld beispielsweise die Bankverbindung an, auf die der Kunde die BACS-Zahlung leisten soll. Diese Beschreibung wird an der Kasse und in den Bestellbestätigungs-E-Mails angezeigt.
 * **Anzeige:** Wählen Sie entweder "Nur Back Office" oder "Sowohl Kasse als auch Back Office". Wenn Sie nur "Nur Back Office" wählen, können nur Sie diese Zahlungsoption sehen und auf "Sowohl Kasse als auch Back Office wechseln, wenn Sie diese Zahlungsoption für Kunden sichbar machen möchten.
 
@@ -38,7 +35,7 @@ Wenn Sie alle Zahlungsmethoden Ihres Unternehmens auf "Nur Back Office" umstelle
   * Stripe SCA (Kredit- und Debitkarten)
   * Cash / EFT / etc. (Bargeld, Twint in Person anwesend, Scheck oder Banküberweisung. Diese Zahlungen laufen nicht über ein Online-Zahlungsportal und werden nicht automatisch validiert)Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
 
-![](../../.gitbook/assets/payment-methods1.jpg)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.34.35.png>)
 
 {% hint style="warning" %}
 Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
@@ -46,7 +43,7 @@ Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen a�
 
 * **Berechnung:** Wählen Sie aus, wie die mit der Zahlungsmethode verbundenen Gebühren auf eine Bestellung angerechnet werden sollen. Beachten Sie, dass die Gebühren für die Zahlungsmethode auf Null gesetzt werden können. Weitere Informationen zu den Gebühren für Zahlungsarten finden Sie weiter unten.
 
-Wenn Sie auf "Erstellen" klicken, wird die Zahlungsmethode erstellt und Sie erhalten neue Felder zur Festlegung der Gebühren für die Zahlungsmethode. Die sichtbaren Felder hängen davon ab, welchen "Rechner" Sie ausgewählt haben.
+Wenn Sie auf "Speichern"  oder "Neu" klicken, wird die Zahlungsmethode erstellt und Sie erhalten neue Felder zur Festlegung der Gebühren für die Zahlungsmethode. Die sichtbaren Felder hängen davon ab, welchen "Rechner" Sie ausgewählt haben.
 
 {% hint style="info" %}
 Wenn Sie das Feld "Rechner" für die Zahlungsmethode ändern, müssen Sie Ihre Änderungen erst speichern (Aktualisieren), damit die neuen zugehörigen Felder sichtbar werden.
@@ -87,7 +84,7 @@ Vergewissern Sie sich, dass Sie **in OFN** als Ihr Unternehmensbenutzer angemeld
 
 **Signatur:** Geben Sie die API-Signatur in dieses Feld ein.&#x20;
 
-![](../../.gitbook/assets/paypal3.jpg)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.50.58.png>)
 
 **Lösung:** Die Lösung bestimmt, ob ein Benutzer ein PayPal-Konto benötigt, um zur Kasse zu gehen oder nicht.
 
@@ -163,7 +160,7 @@ Wenn Sie von einem Kunden eine zusätzliche Zahlung verlangen müssen, weil er
 
 ## Gebühren für die Zahlungsmethode
 
-![](../../.gitbook/assets/fee-calculators.png)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.53.17.png>)
 
 Sie können den Zahlungsmethoden eine Gebühr hinzufügen. Meistens wird dies verwendet, um die Gebühren eines Zahlungsportals an den Kunden weiterzugeben. Zum Beispiel können Sie dem Kunden für die Bequemlichkeit der Zahlung mit PayPal eine Gebühr in Rechnung stellen, um die von PayPal erhobene Gebühr zu decken.
 
@@ -173,7 +170,7 @@ Zahlungsmethode Die Gebühren enthalten KEINE Steuern (VAT)
 
 ### Gebührenberechnungen
 
-**Pauschaler Prozentsatz:** Diese Gebühr wird als Prozentsatz des Gesamtbetrages der Bestellung berechnet.
+**Pauschaler Prozentsatz:** Diese Gebühr wird als Prozentsatz des Gesamtbetrages der Bestellung berechnet. Wenn Sie die Gebührenberechnung gewählt haben, müssen Sie "Speichern" oder "Neu" klicken, damit weitere Optionen zur Festlegung der gewählten Berechnung angezeigt werden.
 
 {% hint style="danger" %}
 Alle **prozentualen Gebühren** werden nur auf der Grundlage eines **Prozentsatzes** der Produktkosten berechnet.
@@ -197,7 +194,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 * Kosten für "zusätzliche Artikel": Die Gebühr, die für die über den ersten Artikel hinausgehenden Artikel berechnet wird.
 * "Maximale Artikel": Die maximale Anzahl von Artikeln, auf die die Gebühr erhoben wird. Für Artikel, die über diese Anzahl hinaus gekauft werden, wird die Gebühr nicht erhoben.
 
-![](../../.gitbook/assets/paymentflex.jpg)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.55.30.png>)
 
 > Beispiel: Wenn die "Kosten für den ersten Artikel" auf 0,20 CHF, die "Kosten für weitere Artikel" auf 0,10 CHF und die "Maximale Artikelanzahl" auf 3 festgelegt ist, werden einem Kunden, der 5 Artikel kauft, 0,40 CHF an Zahlungsgebühren berechnet (0,20 CHF für den ersten Artikel), 0,10 CHF für die Posten zwei und drei und 0,00 CHF für die Posten vier und fünf).
 
@@ -219,7 +216,7 @@ Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle 
 $$= CHF 30 * 100 /(100+20) = CHF25$$&#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/paymentpc.jpg)
+![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.59.43.png>)
 
 {% hint style="info" %}
 Zahlungsportale berechnen Unternehmen oft einen festen Betrag pro Transaktion plus einen kleinen Prozentsatz der Gesamtkosten. Daher sind die Gebühren, die einem Hub oder Shop für Kunden entstehen, die denselben Gesamtbetrag in mehreren kleinen Verkäufen erwerben, höher, als wenn der Kunde alle seine Einkäufe auf einmal tätigt.
