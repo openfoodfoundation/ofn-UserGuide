@@ -70,4 +70,6 @@
   * [Hub](trouble-shooting/hub.md)
 * [Conseils aux acheteurs](shopping-with-open-food-network/README.md)
   * [Créer un compte et passer commande](shopping-with-open-food-network/about-open-food-network.md)
+  * [Modifier ses coordonnées](shopping-with-open-food-network/modifier-ses-coordonnees.md)
   * [Modifier une commande](shopping-with-open-food-network/modifier-une-commande.md)
+* [Page 1](page-1.md)
