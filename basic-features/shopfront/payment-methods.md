@@ -156,6 +156,70 @@ Wenn Sie von einem Kunden eine zusätzliche Zahlung verlangen müssen, weil er
 
 ![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
+
+{% tab title="Twint (Nur für die Schweiz)" %}
+
+
+Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration von Twint-Zahlungen in die Open Food Network-Plattform mit Raisenow. Twint ist eine weit verbreitete Zahlungslösung für Hofläden und bietet eine QR-Code-Zahlungsmethode. Diese Integration ermöglicht es Landwirten oder Hubs, Twint-Zahlungen nahtlos in ihren digitalen Workflow zu integrieren.
+
+**Möglichkeit 1**: Payment Link Integration über Raisenow
+
+*   Erstellen Sie ein Raisenow-Konto:
+
+    &#x20;  \-> Besuchen Sie Raisenow Signup und erstellen Sie ein Konto.
+
+<figure><img src="../../.gitbook/assets/signup1.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;      \-> Konfigurieren Sie die Second-Factor-Identifikation für zusätzliche Sicherheit.
+
+* Raisenow-Einrichtung abschliessen :
+
+&#x20;      \-> Klicken Sie im 3-Optionen-Menü, um die Konfiguration abzuschließen, auf "bestätige deine Organisation" und geben Sie die erforderlichen Details ein.
+
+<figure><img src="../../.gitbook/assets/registerOrganization.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;      \-> Füllen Sie die wichtigsten Informationen über Ihre Organisation aus.
+
+<figure><img src="../../.gitbook/assets/organization.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;      \-> Bei gemeinnützigen Organisationen reichen Sie einen Nachweis (Satzung) zur Überprüfung ein.
+
+&#x20;      \-> Nach der Verifizierung (bis zu zwei Tage) klicken Sie auf "Zahlungsarten aktivieren", um Twint-Zahlungen zu aktivieren.
+
+* Aktivieren Sie Twint-Zahlungen:
+
+&#x20;      \-> Aktivieren Sie unter "zahlungsarten aktivieren" Twint-Zahlungen.
+
+<figure><img src="../../.gitbook/assets/payments.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;      \-> Klicken Sie auf "Erstelle deine erste Touchpoint-Losung" und wählen Sie "Twint Zahlungen".
+
+<figure><img src="../../.gitbook/assets/twint.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;     \-> Wählen Sie die Option "Paylink" für die Freigabe von Zahlungsinformationen.
+
+<figure><img src="../../.gitbook/assets/paylink.png" alt=""><figcaption></figcaption></figure>
+
+* &#x20;Link Integration auf Open Food Network:
+
+&#x20;      \-> Kehren Sie zur Open Food Network-Plattform zurück.
+
+&#x20;      \-> Erstellen Sie eine Twint-Zahlung und fügen Sie den von Raisenow generierten Paylink in den Text der Zahlungsbeschreibung ein.
+
+<figure><img src="../../.gitbook/assets/paymentMethod.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;      \-> Der Link wird nun in der Bestellbestätigungs-E-Mail sichtbar sein.
+
+<figure><img src="../../.gitbook/assets/email.png" alt=""><figcaption></figcaption></figure>
+
+**Möglichkeit** 2: QR-Code-Sharing über E-Mail-Tool
+
+*   Direkte QR-Code-Weitergabe:
+
+    Generieren Sie einen Twint-QR-Code auf der Twint-Plattform. Teilen Sie diesen QR-Code direkt mit Kunden über das E-Mail-Tool der Initiative (nicht über Open Food Network). Hinweis: Wenn Sie eine stärker integrierte Lösung wünschen, kontaktieren Sie uns, um alternative Optionen zu erkunden.
+
+Wählen Sie die Option, die am besten zu Ihrem Arbeitsablauf und Ihren Präferenzen passt. Die erste Option bietet eine nahtlose Integration über Raisenow's Paylink, während die zweite Option die direkte Weitergabe von QR-Codes per E-Mail beinhaltet. Wenn Sie weitere Unterstützung benötigen oder alternative Lösungen erkunden möchten, können Sie uns gerne kontaktieren.
+{% endtab %}
 {% endtabs %}
 
 ## Gebühren für die Zahlungsmethode
