@@ -188,11 +188,11 @@ Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration vo
 
 * Aktivieren Sie Twint-Zahlungen:
 
-&#x20;      \-> Aktivieren Sie unter "zahlungsarten aktivieren" Twint-Zahlungen.
+&#x20;      \-> Aktivieren Sie unter "Zahlungsarten aktivieren" Twint-Zahlungen.
 
 <figure><img src="../../.gitbook/assets/payments.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Klicken Sie auf "Erstelle deine erste Touchpoint-Losung" und wählen Sie "Twint Zahlungen".
+&#x20;      \-> Klicken Sie auf "Erstelle deine erste Touchpoint-Lösung" und wählen Sie "Twint Zahlungen".
 
 <figure><img src="../../.gitbook/assets/twint.png" alt=""><figcaption></figcaption></figure>
 
