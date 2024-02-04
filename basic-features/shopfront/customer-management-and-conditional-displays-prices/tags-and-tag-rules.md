@@ -13,7 +13,7 @@ Une fois les acheteurs regroupés par catégories, c'est à dire une fois qu'un 
 
 Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag.**
 
-Cliquez sur "**Ajouter une c par défaut**".
+Cliquez sur "**Ajouter une règle par défaut**".
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.28.31.png" alt=""><figcaption></figcaption></figure>
 
