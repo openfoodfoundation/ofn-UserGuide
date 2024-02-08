@@ -72,3 +72,4 @@
   * [Créer un compte et passer commande](shopping-with-open-food-network/about-open-food-network.md)
   * [Modifier ses coordonnées](shopping-with-open-food-network/modifier-ses-coordonnees.md)
   * [Modifier une commande](shopping-with-open-food-network/modifier-une-commande.md)
+  * [Contacter le gestionnaire de votre boutique](shopping-with-open-food-network/contacter-le-gestionnaire-de-votre-boutique.md)
