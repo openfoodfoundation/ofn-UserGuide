@@ -35,7 +35,7 @@ Si le hub a omis de paramétrer une méthode de paiement ou une méthode de livr
 {% endhint %}
 
 * Il peut sélectionner, au sein de l'ensemble des produits précédemment sélectionnés dans la catégorie "produits entrants", les produits qui seront distribués dans la boutique du distributeur en question. Pour qu'un distributeur puisse voir apparaitre dans la liste des produits disponibles les produits d'un fournisseur donné, ce dernier doit avoir donné [la permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) à ce distributeur de vendre ses produits.
-* Il peut appliquer des commissions différenciées par distributeur. Par exemple, il se peut qu'il applique une marge supérieur pour un distributeur plus éloigné pour couvrir de coûts de transport supérieurs.
+* Il peut appliquer des commissions différenciées par distributeur. Par exemple, il se peut qu'il applique une marge supérieur pour un distributeur plus éloigné pour couvrir de couts de transport supérieurs.
 
 ## Le fournisseur du cycle de vente (ajouté dans la section "produits entrants")
 
@@ -43,9 +43,10 @@ Le fournisseur d'un cycle de vente va voir dans le menu "cycles de vente" les cy
 
 Aussi, dans le menu "rapports", le fournisseur pourra là aussi voir les commandes qu'il a reçu pour ce cycle de vente.
 
-{% hint style="warning" %}
-Le fournisseur n'a pas accès aux noms des acheteurs ayant passé commande via un cycle de vente pour lequel ils ne sont pas coordinateurs. Nous espérons pouvoir prochainement faire évoluer cette fonctionnalité pour permettre au coordinateur d'autoriser les fournisseurs à voir le nom des acheteurs leur ayant passé commande.
-{% endhint %}
+Le gestionnaire du cycle de vente peut choisir de laisser le fournisseur du cycle de vente visualiser le nom des **acheteurs**. Ce choix se fait dans les préférences Boutiques.\
+
+
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Option "Affichage du nom des acheteurs"</p></figcaption></figure>
 
 ### Produits entrants
 
