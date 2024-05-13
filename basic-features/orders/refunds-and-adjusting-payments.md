@@ -52,11 +52,11 @@ When [viewing orders](view-orders.md#listing-orders) the order appears as 'payme
 
 
 
-![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47 (1).png>)
+![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47.png>)
 
 
 
-![After marking the payment as void, the payment status changes to 'void'](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40.png>)
+![After marking the payment as void, the payment status changes to 'void'](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40 (1).png>)
 
 
 
@@ -66,7 +66,7 @@ Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking
 {% tab title="Stripe" %}
 Order payment is collected automatically on creation (except for [subscriptions](../subscriptions/)) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12 (1).png>)
+!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12.png>)
 
 
 
@@ -87,7 +87,7 @@ Once you have issued a refund, follow the steps below to [cancel the order](refu
 {% tab title="PayPal" %}
 Payment is collected automatically on checkout from the customer and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12.png>)
+!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12 (1).png>)
 
 
 
@@ -173,7 +173,7 @@ To process a partial refund of the amount that is now owed, see instructions by 
 1. Arrange for the refund to be made to the customer independently of the platform. &#x20;
 2. Record this action by going to **Orders -> Edit** and selecting ‘Payments’ from the right hand menu, then '**+ New Payment**':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15.png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (1).png>)
 
 Enter a **negative value** in the ‘Amount’ field to record the refund as having been made.
 

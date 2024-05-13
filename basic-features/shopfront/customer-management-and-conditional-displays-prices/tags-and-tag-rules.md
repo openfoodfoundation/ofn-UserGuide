@@ -30,7 +30,7 @@ Once you have defined default rules, you can then set up exceptions to these rul
 * First define the customer group to which the exception will occur.  In the example above, the exception was applied to all customers with the tag 'wholesalecustomer'.
 * Then, for this customer group, you can choose to customise their shopping experience in one of four ways:
 
-![](../../../.gitbook/assets/rule-typess.png)
+![](../../../.gitbook/assets/Rule-Typess.png)
 
 {% hint style="warning" %}
 Remember to add the relevant tags to variants, shipping or payment methods, or order cycles, as well as to customers after you have set up a default or conditional tag rule!
@@ -44,7 +44,7 @@ This rule lets you make particular variants visible/invisible to tagged customer
 
 In the example below the 1 kg variant of delux muesli has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the smaller 500 g (non-tagged) variant of delux muesli appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' (in which case they would be able to view the 1 kg option too).
 
-![](<../../../.gitbook/assets/varianttags (1).jpg>)
+![](../../../.gitbook/assets/varianttags.jpg)
 
 ### **Show/Hide shipping methods**
 

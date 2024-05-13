@@ -18,7 +18,7 @@ Before you read on, you might like to have look at a quick demonstration of how 
 * Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
 * **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
 
-![](../../.gitbook/assets/shippinginfo.jpg)
+![](<../../.gitbook/assets/shippinginfo (1).jpg>)
 
 * **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name (see screenshot above) and in their order confirmation email.
 * **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'

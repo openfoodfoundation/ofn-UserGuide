@@ -13,11 +13,11 @@ Next you will need to select the order cycle that you want the order to be place
 
 You'll then see the customer details screen where you can choose a customer from your [customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list. Enter three or more characters in the 'choose a customer' drop down box and select your customer:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Selecting a customer will autofill the customer's saved shipping & billing address, saving you time. You can also enter the customer's details manually if they're not saved in your customer list by completing the fields on the screen:
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Click 'Update' to save your progress, then go to 'Order details' from the menu on the right to start entering products:
 

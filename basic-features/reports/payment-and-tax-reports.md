@@ -14,7 +14,7 @@ The three Payment reports are good for keeping track of total incoming and outgo
 
 The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ (ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal).
 
-![Payment by Type](../../.gitbook/assets/payment-by-type.jpg)
+![Payment by Type](<../../.gitbook/assets/payment by type.jpg>)
 
 ### Itemised Payment Totals
 
@@ -26,5 +26,5 @@ Listed by payment status (paid, balance due, credit owing) rather than payment p
 
 In addition to the Itemised Payment Totals this report states revenue coming from EFT (cash or bank transfer) and Paypal separately.
 
-![Payment Totals](../../.gitbook/assets/payment-totals.jpg)
+![Payment Totals](<../../.gitbook/assets/payment totals.jpg>)
 

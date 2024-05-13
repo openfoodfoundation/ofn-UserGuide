@@ -41,7 +41,7 @@ At a glance, the data contained in these reports can be summarised:
 
 ![Payment Method report](../../.gitbook/assets/paymentmethods.jpg)
 
-![Delivery Methods](../../.gitbook/assets/delivery-methods.jpg)
+![Delivery Methods](<../../.gitbook/assets/delivery methods.jpg>)
 
 ## Product Management
 
@@ -60,11 +60,11 @@ The data they contain for each product is:
 
 Below is an example of the All Products Report:
 
-![All Products Report](../../.gitbook/assets/all-products.jpg)
+![All Products Report](<../../.gitbook/assets/all products.jpg>)
 
 The **Lettuce Share** report gives more details about each product: It's name, variant name (listed under 'Description'), unit (g, l, item name etc), pack size (ie. for a product of '500g tomatoes' the unit = g, pack size = 500), price, tax included in cost, producer properties (not product properties) and product category (taxon).
 
-![Lettuce Share report](../../.gitbook/assets/lettuce-share.jpg)
+![Lettuce Share report](<../../.gitbook/assets/lettuce share.jpg>)
 
 ## Customer Management
 
@@ -82,7 +82,7 @@ The Enterprise Fee Summary report is used to summarise the amounts of fees that 
 
 The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
 
-![Enterprise Fee Summary Report](<../../.gitbook/assets/image (24).png>)
+![Enterprise Fee Summary Report](<../../.gitbook/assets/image (31).png>)
 
 **Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle.&#x20;
 
@@ -90,7 +90,7 @@ The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **
 
 **Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
 
-![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2).png>)
+![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (32).png>)
 
 ### Data
 
@@ -102,4 +102,4 @@ The data which found in an Enterprise Fee Summary Report includes:
 * Name of enterprise who set the fee ('Fee Calc on Transfer though')
 * Total value of enterprise fee collected for the sale of the line item.
 
-![](../../.gitbook/assets/enterprise-fee-report.jpg)
+![](<../../.gitbook/assets/enterprise fee report.jpg>)

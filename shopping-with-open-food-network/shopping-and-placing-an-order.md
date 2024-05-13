@@ -93,5 +93,5 @@ Underneath the name of a product there will be the name of the **producer**- the
 
 Under the price will be the **unit cost** of the product. This enables you to compare the price of products independently of packaging sizes and weights.
 
-![](../.gitbook/assets/productweightunit-price2.jpg)
+![](<../.gitbook/assets/productweightunit price2.jpg>)
 

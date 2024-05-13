@@ -55,10 +55,10 @@ See the example below for an illustration of how the Bulk Co-op Totals by Suppli
 
 Example 1: Where the bulk ordering quantity has been reached:
 
-![Radishes](../../.gitbook/assets/radishess.png)
+![Radishes](../../.gitbook/assets/Radishess.png)
 
 Example 2: where the bulk order quantity has not been reached:
 
-![Bok Choy](../../.gitbook/assets/bok-choy.png)
+![Bok Choy](../../.gitbook/assets/Bok-Choy.png)
 
 * _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._

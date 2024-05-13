@@ -20,7 +20,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 ### Generating the report
 
-![Xero Report Fields](../../.gitbook/assets/xero-report.png)
+![Xero Report Fields](../../.gitbook/assets/Xero-Report.png)
 
 **Date range:** You can filter orders by the date the order was placed.
 
@@ -50,11 +50,11 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales** and click Import.
 
-![Xero Import](../../.gitbook/assets/xero-import.png)
+![Xero Import](../../.gitbook/assets/Xero-Import.png)
 
 Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
-![Xero Import Steps](../../.gitbook/assets/xero-import-steps.png)
+![Xero Import Steps](../../.gitbook/assets/Xero-import-steps.png)
 
 Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered.&#x20;
 

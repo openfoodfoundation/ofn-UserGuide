@@ -67,7 +67,7 @@ You will only be able to specify rates or values (in the 'calculator values' col
 * **Normal Amount** - This is the shipping fee applied to sales below the 'Minimal Amount'.
 * **Discount Amount** - This is the shipping fee applied to orders above the 'Minimal Amount'. You can set this to 0 for free shipping, or use a minus symbol to apply a discount, eg. -5 for $5 cheaper.
 
-![](<../../.gitbook/assets/Price Sack Image (1).png>)
+![](<../../.gitbook/assets/Price Sack Image.png>)
 
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the Order Cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.

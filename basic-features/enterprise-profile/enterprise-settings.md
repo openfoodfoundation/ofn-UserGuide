@@ -129,7 +129,7 @@ These differ from country to country and they depend on local regulations and la
 
 For advise on selling as a VAT registered enterprise please see this document:
 
-{% file src="../../.gitbook/assets/vat-for-open-food-network-enterprises.pdf" %}
+{% file src="../../.gitbook/assets/VAT for Open Food Network Enterprises.pdf" %}
 Selling as VAT registered enterprise
 {% endfile %}
 
@@ -153,7 +153,7 @@ If your enterprise is **Tax Registered** or supplies a tax registered food hub t
 
 **Terms and Conditions** (pdf files only) : Let your customers know any terms and conditions associated with purchasing from your business (for example your refund policy) by uploading a .pdf file here.
 
-![](../../.gitbook/assets/tandc.jpg)
+![](../../.gitbook/assets/tandC.jpg)
 
 If you opt to add a file here, the customer will be required to check the box to say that they have read and agreed with your terms and conditions before they can submit their order.
 

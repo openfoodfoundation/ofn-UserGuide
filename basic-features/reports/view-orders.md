@@ -30,7 +30,7 @@ On this page you can find details on:
 
 When you visit the 'Orders' page of your Dashboard there is a drop down menu to the left of the screen 'Actions'.  By checking the tick box next to the order you wish to print or send the invoice for, the Actions menu becomes active and you can opt to either send the invoice (by email) to the customer or download and print the pdf document yourself:
 
-![](../../.gitbook/assets/screen-shot-2020-09-24-at-3.20.25-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 3.20.25 PM.png>)
 
 ### Batch Print Invoices
 

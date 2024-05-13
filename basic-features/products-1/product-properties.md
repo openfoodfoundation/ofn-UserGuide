@@ -159,7 +159,7 @@ To assign a property to a single product, rather than an enterprise’s entire p
 
 To edit a product, click on the edit icon (pencil and paper) on the right hand side of the table.
 
-![](../../.gitbook/assets/property-to-product.png)
+![](../../.gitbook/assets/Property-to-product.png)
 
 Once editing the product you can add or change its properties by selecting 'Product Properties' from the right hand menu.
 
@@ -201,4 +201,4 @@ Customers can also filter products in a shop based on their properties:
 
 ![](<../../.gitbook/assets/searchfilter (1).jpg>)
 
-![](../../.gitbook/assets/screenshot\_20201027-152628.png)
+![](../../.gitbook/assets/Screenshot\_20201027-152628.png)

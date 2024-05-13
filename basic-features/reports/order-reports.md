@@ -19,7 +19,7 @@ The Data fields you can see in this report are:
 * For each product within an order, there is the name of the product, variant name, quantity (and Max quantity for bulk order items), cost
 * Hub (distributor) address
 
-![Orders and Distributors Report](../../.gitbook/assets/orders-and-distributors.jpg)
+![Orders and Distributors Report](<../../.gitbook/assets/orders and distributors.jpg>)
 
 {% hint style="info" %}
 Filter by date and time to enable swift download.
@@ -61,11 +61,11 @@ Note that the Total Cost is not a simple multiple of Current cost per unit and a
 * The Total Cost is a sum of product costs at the time when each item was purchased.
 {% endhint %}
 
-![Order Cycle Supplier Totals](../../.gitbook/assets/oc-supplier-totals.jpg)
+![Order Cycle Supplier Totals](<../../.gitbook/assets/OC supplier totals.jpg>)
 
-![Order Cycle Supplier Totals by Distributor](../../.gitbook/assets/oc-supplier-totals-by-distributor.jpg)
+![Order Cycle Supplier Totals by Distributor](<../../.gitbook/assets/OC supplier totals by distributor.jpg>)
 
-![Order Cycle Distributor Totals by Supplier](../../.gitbook/assets/oc-distributor-totals-by-supplier.jpg)
+![Order Cycle Distributor Totals by Supplier](<../../.gitbook/assets/OC distributor totals by supplier.jpg>)
 
 {% hint style="success" %}
 These reports are handy for calculating the amount to reimburse a producer for items supplied
@@ -95,4 +95,4 @@ The Shipping Address displayed for an order where the chosen shipping method is 
 
 The screenshot below shows the information contained in an Order Cycle Customer Totals report.&#x20;
 
-![Order Cycle Customer Totals](../../.gitbook/assets/oc-customer-totals.jpg)
+![Order Cycle Customer Totals](<../../.gitbook/assets/OC customer totals.jpg>)
