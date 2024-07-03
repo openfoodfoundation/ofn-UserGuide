@@ -12,7 +12,7 @@ To customise your report there are two sections: filters and rendering options, 
 
 The **list of filters** available varies from report to report but for most you will be able to select specific data according to date range, hub and/or supplier name and order cycle:
 
-<figure><img src="../../.gitbook/assets/filtering options.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/filters.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Hubs and shops who operate [continuously open order cycles](../shopfront/order-cycle/) may find using the Date filter when viewing reports useful.
@@ -30,15 +30,15 @@ All reports are available to download as in CSV, PDF and Excel and OpenOffice fo
 
 You can use the **Columns** filter to make your reports easier to read you can remove unnecessary data. To do this, just tick or untick boxes in the drop down menu (by default all columns will be ticked):
 
-<figure><img src="../../.gitbook/assets/columns fliter.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rendering3.jpg" alt=""><figcaption></figcaption></figure>
 
 For selected reports (**Packing** and **Orders & fulfillment**) there is an additional option to select 'Header Row' and/or 'Summary Row'.
 
-<figure><img src="../../.gitbook/assets/header and summary row.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rendering2.jpg" alt=""><figcaption></figcaption></figure>
 
 The **summary row** is a filter that adds totals to the bottom of each type of report and the **header row** gives you the name of the customer and order number (for Order and Fulfillment reports) or phone number (for packing reports) above the data.&#x20;
 
-<figure><img src="../../.gitbook/assets/header and summary.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/HEADER AND SUMMARY.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Reports for Suppliers&#x20;
 

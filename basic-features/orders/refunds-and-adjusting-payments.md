@@ -34,7 +34,7 @@ For non-automated payment methods (such as cash on collection or BACS), there ar
 **The customer has not yet paid for the item.**\
 If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.05.45.png>)
+![](../../.gitbook/assets/balance.jpg)
 
 You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following the steps below for 'Marking an order as cancelled'.
 
@@ -42,9 +42,9 @@ You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as
 
 **The customer has paid for the item.**
 
-When [viewing orders](view-orders.md#listing-orders) the order appears as 'payment state: paid':
+When [viewing orders](view-orders.md#listing-orders) the order appears as 'payment state: paid' and the 'Shipment State: Ready':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.18.35.png>)
+![](<../../.gitbook/assets/paid not shipped.jpg>)
 
 1. Arrange for the customer to be reimbursed independently of the OFN platform. &#x20;
 2. Record this action by [**Orders -> Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu.  \
@@ -52,11 +52,11 @@ When [viewing orders](view-orders.md#listing-orders) the order appears as 'payme
 
 
 
-![Before marking the payment as void](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.20.47.png>)
+![Before marking the payment as void](../../.gitbook/assets/void1.jpg)
 
 
 
-![After marking the payment as void, the payment status changes to 'void'](<../../.gitbook/assets/Screenshot 2022-04-01 at 16.22.40 (1).png>)
+![After marking the payment as void, the payment status changes to 'void'](../../.gitbook/assets/void2.jpg)
 
 
 
@@ -66,14 +66,14 @@ Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking
 {% tab title="Stripe" %}
 Order payment is collected automatically on creation (except for [subscriptions](../subscriptions/)) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12.png>)
+!['Payment state = paid'](<../../.gitbook/assets/paid not shipped.jpg>)
 
 
 
 To process the total refund, visit [**Orders -> Edit**](view-orders.md#editing-an-order) and select ‘Payments’ from the right hand menu. \
 Click on the ‘**X**’ to the right of the payment to void it.&#x20;
 
-![](../../.gitbook/assets/stripetotal.jpg)
+![](../../.gitbook/assets/void1.jpg)
 
 This will automatically send the payment back to the credit or debit card used by the customer.
 
@@ -87,13 +87,13 @@ Once you have issued a refund, follow the steps below to [cancel the order](refu
 {% tab title="PayPal" %}
 Payment is collected automatically on checkout from the customer and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
 
-!['Payment state = paid'](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.27.12 (1).png>)
+!['Payment state = paid'](<../../.gitbook/assets/paid not shipped.jpg>)
 
 
 
 Going to the 'payments' screen from Orders -> Edit will show the payment method used:
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.02.33.png>)
+![](<../../.gitbook/assets/paypal (2).jpg>)
 
 {% hint style="danger" %}
 **Orders placed and paid for via PayPal can not be refunded through the OFN platform.**
@@ -109,7 +109,7 @@ Once this has been done, you can [mark the order as cancelled](refunds-and-adjus
 
 Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ (top right hand blue button).
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.24.59.png>)
+![](<../../.gitbook/assets/cancel order.jpg>)
 
 {% hint style="success" %}
 The customer will receive an email to state that their order has been cancelled.
@@ -129,17 +129,13 @@ Note that you cannot cancel an order which has been marked as ‘Shipped’
 
 To issue a partial refund, you must first edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can adjust item quantities, or make an adjustment:
 
-**1. Edit the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon next to the item:
+**1. Edit the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon next to the item (highlighted in red below) or delete the item completely using the 'bin' icon (highlighted in green below):
 
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.22.52 (1).png>)
-
-You can _remove_ an item from an order completely by clicking the 'delete' button:
-
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.21.53.png>)
+<figure><img src="../../.gitbook/assets/adjust order.jpg" alt=""><figcaption></figcaption></figure>
 
 Or you can _reduce_ the quantity by editing the quantity value, remembering to click the 'tick' button to save your changes:
 
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 10.25.57.png>)
+<figure><img src="../../.gitbook/assets/edit quant.jpg" alt=""><figcaption></figcaption></figure>
 
 Select **‘Update and Recalculate Fees’** at the bottom of the page to save your changes.
 
@@ -149,13 +145,13 @@ If the product has been deleted by the supplier from their master [product](../p
 
 **2. Edit by adding a new Adjustment** to the [**order**](view-orders.md#modify-an-order) by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+ New Adjustment**  at the top right.
 
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 15.46.10.png>)
+<figure><img src="../../.gitbook/assets/adjustments 1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 Add the relevant details, remembering that for **a refund**,  the value needs to be a **negative number**. When finished, click ‘continue’:
 
-![](<../../.gitbook/assets/Screenshot 2022-04-04 at 15.51.09.png>)
+<figure><img src="../../.gitbook/assets/adjustments 2.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -173,7 +169,7 @@ To process a partial refund of the amount that is now owed, see instructions by 
 1. Arrange for the refund to be made to the customer independently of the platform. &#x20;
 2. Record this action by going to **Orders -> Edit** and selecting ‘Payments’ from the right hand menu, then '**+ New Payment**':
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (1).png>)
+<figure><img src="../../.gitbook/assets/manual8.jpg" alt=""><figcaption></figcaption></figure>
 
 Enter a **negative value** in the ‘Amount’ field to record the refund as having been made.
 
@@ -186,12 +182,9 @@ The button for **+ New Payment** will only be visible if you have already added 
 Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
 
 1. Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu.
+2. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded.&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 18.06.15 (2).png>)
-
-2\. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded.&#x20;
-
-![](../../.gitbook/assets/refundfeast2.jpg)
+![](<../../.gitbook/assets/stripe credit owe.jpg>)
 
 {% hint style="danger" %}
 Clicking the 'X' will **void the whole payment** and issue a **full refund** to the customer.
@@ -211,9 +204,7 @@ Note that Stripe payments can take 3-5 working days to appear on a customer’s 
    Display = ‘Back Office Only’\
    Payment provider = ‘cash/EFT/etc’.
 3. Visit **Orders - > Edit Order-> Payments** (found in the right hand menu).
-4. Select **+New Payment** and select ‘Paypal refunds’:
-
-![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe\_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
+4. Select **+New Payment** and select ‘Paypal refunds’.
 
 A negative value in the ‘Amount’ field means that a refund is recorded.
 
@@ -221,7 +212,7 @@ A negative value in the ‘Amount’ field means that a refund is recorded.
 If you opt to add a new payment with the payment method provider ‘Paypal’ this will not be possible:
 {% endhint %}
 
-![](<../../.gitbook/assets/paypalnewpayment (1) (1).jpg>)
+![](<../../.gitbook/assets/paypal refund hack.jpg>)
 {% endtab %}
 {% endtabs %}
 
@@ -231,7 +222,7 @@ Follow the steps above for [Partial refunds](refunds-and-adjusting-payments.md#p
 
 Orders will now display with the Payment State = ‘Balance Due’:
 
-![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2\_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
+<figure><img src="../../.gitbook/assets/balance.jpg" alt=""><figcaption></figcaption></figure>
 
 To record payment of the extra monies due visit [Orders -> Edit Order](view-orders.md#editing-an-order) and then ‘Payments’. \
 Select **+ New Payment** (top right hand blue button)
@@ -257,4 +248,4 @@ Remember that only payments for integrated payment methods (PayPal and Stripe) a
 
 You may wish to allow your trusted customers to pay (by BACS) once a month for all their orders in that time period, or give those who have cash flow one week a bit of lee-way with their payments.  To keep track of individual **customer balances** with your business, visit your [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list.  The amount of credit/debit due is displayed to the right of each customer's entry.
 
-![](../../.gitbook/assets/customerbalance.jpg)
+![](<../../.gitbook/assets/customer add tag (1).jpg>)

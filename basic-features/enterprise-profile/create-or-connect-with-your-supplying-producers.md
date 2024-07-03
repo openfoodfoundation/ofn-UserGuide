@@ -1,7 +1,5 @@
 # Create or connect with your supplying producers
 
-
-
 {% hint style="success" %}
 &#x20;This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
 {% endhint %}
@@ -41,13 +39,13 @@ By default you can create up to **5 enterprise profiles** on the platform. This 
 
 ### Creating a producer profile:
 
-You can create a new profile for a producer by clicking on **Enterprises** in the horizontal blue banner, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
+You can create a new profile for a producer by clicking on **Enterprises** main horizonal menu, and then clicking **+ New Enterprise**. Remember ‘enterprise’ is a general term used for any producer or hub profile on the OFN.
 
-![](../../.gitbook/assets/newenterpriseadd.jpg)
+![](<../../.gitbook/assets/add new enterprise.jpg>)
 
 This will take you to this page:
 
-![](../../.gitbook/assets/newenterprise.jpg)
+![](<../../.gitbook/assets/new enterprise.jpg>)
 
 A few things to note:
 

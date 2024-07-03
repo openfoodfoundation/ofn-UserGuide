@@ -4,7 +4,7 @@ A list of all customers who have placed an order with your enterprise can be vie
 
 You can also manually add a customer by the **+New Customer** button.&#x20;
 
-![](../../../.gitbook/assets/customer1.jpg)
+![](<../../../.gitbook/assets/customers (1).jpg>)
 
 {% hint style="warning" %}
 Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.\
@@ -16,7 +16,7 @@ _Hence if you have a_ [_private shop_](../private-shopfront.md) _front you will 
 Each customer can have a default billing and shipping address.  If a customer has a registered OFN account and has completed their details fully their addresses will be copied to this section automatically.\
 Storing a default billing and shipping address can make online purchases quicker for the customer.
 
-![](../../../.gitbook/assets/customeraddress.jpg)
+![](<../../../.gitbook/assets/customer address.jpg>)
 
 ## Tags (to group customers in to categories)
 
@@ -29,6 +29,6 @@ To add a tag, simply type its name in the 'Tags' column on the Customers page. A
 Careful when you are adding the same tag to multiple customers (so that they belong to a common group) to select the identical word (tags are case sensitive) from the drop down menu on offer.
 {% endhint %}
 
-![](../../../.gitbook/assets/customertags.jpg)
+![](<../../../.gitbook/assets/customer add tag.jpg>)
 
 Tags also appear in [reports](../../reports/). You can use them during csv / excel exports to quickly filter data.

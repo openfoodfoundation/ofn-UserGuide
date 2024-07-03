@@ -4,21 +4,17 @@
 &#x20;You **must** create at least one shipping method before you can open your shop.
 {% endhint %}
 
-Before you read on, you might like to have look at a quick demonstration of how to set up your first shipping method:
-
-![](../../.gitbook/assets/shippingmethod.gif)
-
 ## Setting up a shipping method
 
-* Go to the Shipping Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
+* Go to the Shipping Methods page by clicking on **Enterprises** in the main horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
 * Click **Create new shipping method +** . You will be directed to a page like this:
 
-![](../../.gitbook/assets/shippingmethods.jpg)
+![](<../../.gitbook/assets/new shipping method.jpg>)
 
 * Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
 * **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
 
-![](<../../.gitbook/assets/shippinginfo (1).jpg>)
+![](<../../.gitbook/assets/shipping checkout multi.jpg>)
 
 * **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name (see screenshot above) and in their order confirmation email.
 * **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
@@ -47,7 +43,7 @@ If you change the calculator type for a shipping method, you must **save first**
 
 ## Fee Calculators
 
-![](../../.gitbook/assets/shippingcalc.jpg)
+![](<../../.gitbook/assets/shipping fee calc.jpg>)
 
 **Flat Percent** – This fee is charged as a percentage of the total amount spent in the order.
 
@@ -77,7 +73,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
 * ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
 
-![](../../.gitbook/assets/shippingfeeflex.jpg)
+![](<../../.gitbook/assets/fee- flexible rate.jpg>)
 
 > For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3. \
 > A customer who purchases 5 items, will be charged £4 shipping (£2 for the first item, £1 for items two and three, and £0 for items four and five).
@@ -98,4 +94,4 @@ For example, if a business adds an Enterprise Fee of 20% to all products and the
 $$= £30 * 100 /(100+20) = £25$$&#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/shippingfeepc.jpg)
+![](<../../.gitbook/assets/fees price sack (1).jpg>)

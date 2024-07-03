@@ -13,7 +13,7 @@ Most often this feature is required by enterprises who have different shop setup
 
 To access Tag Rules go to Enterprises -> Settings -> Tag Rules
 
-![](../../../.gitbook/assets/newtagrule1.jpg)
+![](../../../.gitbook/assets/tag1.jpg)
 
 ## By Default
 
@@ -21,7 +21,7 @@ By default, _**all items** will be visible to **all customers**_ whether they ar
 You can change the default display rules by selecting **+add new default rule**. Int the example below, by default, all Order Cycles which are tagged 'wholesale' will be invisible.\
 (For this example, only those customers who are tagged with the label 'wholesalecustomer' can view (and hence purchase from) Order Cycles tagged 'wholesale'.)
 
-![](../../../.gitbook/assets/defaulttag.jpg)
+![](../../../.gitbook/assets/tag2.jpg)
 
 ## Tag Rules
 
@@ -30,7 +30,7 @@ Once you have defined default rules, you can then set up exceptions to these rul
 * First define the customer group to which the exception will occur.  In the example above, the exception was applied to all customers with the tag 'wholesalecustomer'.
 * Then, for this customer group, you can choose to customise their shopping experience in one of four ways:
 
-![](../../../.gitbook/assets/Rule-Typess.png)
+![](../../../.gitbook/assets/tag3.jpg)
 
 {% hint style="warning" %}
 Remember to add the relevant tags to variants, shipping or payment methods, or order cycles, as well as to customers after you have set up a default or conditional tag rule!
@@ -42,22 +42,22 @@ We now look at each option, one-by-one:
 
 This rule lets you make particular variants visible/invisible to tagged customers. For this rule to operate you need to have tagged the customer and the product variant **in your inventory** (not in the producer's product list) with the same tag.&#x20;
 
-In the example below the 1 kg variant of delux muesli has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the smaller 500 g (non-tagged) variant of delux muesli appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' (in which case they would be able to view the 1 kg option too).
+In the example below the Granny Smith variant of the product 'Apples' has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the Golden Delicious (non-tagged) variant of apples appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' (in which case they would be able to view both the Granny Smith and Golden Delicious options).
 
-![](../../../.gitbook/assets/varianttags.jpg)
+![](<../../../.gitbook/assets/tag product.jpg>)
 
 ### **Show/Hide shipping methods**
 
 This rule lets you make particular shipping methods specifically available or unavailable to certain customers. For this rule to operate you need to have tagged the customer and the shipping method with the same tag. To tag a shipping method, go to **edit** [**shipping method**](../shipping-methods.md) and apply the relevant tag.&#x20;
 
-![](../../../.gitbook/assets/tagshipping.jpg)
+![](<../../../.gitbook/assets/tag shipping.jpg>)
 
-In this example, the shipping method 'Collect in Person' has been assigned to customers with the tag 'member'. One could then set up the following:
+In this example, the shipping method 'Free local collection for members' has been assigned to customers with the tag 'member'. One could then set up the following:
 
-* a default tag rule: shipping methods tagged 'member' is invisible
+* a default tag rule: shipping methods tagged 'member' are invisible
 * a conditional tag rule: for customers tagged 'member' the shipping method tagged 'member' is visible
 
-Thus, only members would be able to opt to collect their purchases in person.
+Thus, only members would be able to opt to collect their purchases for free.
 
 ### **Show/Hide payment methods**
 
@@ -69,14 +69,14 @@ This tag rule might be useful if you only wish to offer members the option to pa
 
 For this conditional tag rule to operate you first need to have tagged the customer and the payment method with the same tag. To apply a tag to a [payment method](../payment-methods.md) visit go to Enterprises-> Settings -> Payment methods and select edit.
 
-![](../../../.gitbook/assets/tagspayment.jpg)
+![](<../../../.gitbook/assets/tag payment meth.jpg>)
 
-In this example, the payment method 'Cash' has been assigned to customers with the tag 'member'. One could then set up the following:
+In this example, the payment method 'BACS payment' has been assigned to customers with the tag 'member'. One could then set up the following:
 
-* a default tag rule: payment methods tagged 'member' is invisible
+* a default tag rule: payment methods tagged 'member' are invisible
 * a conditional tag rule: for customers tagged 'member' the payment method tagged 'member' is visible
 
-Thus, only members would be able to opt to pay for their purchases in cash on collection.
+Thus, only members would be able to opt to pay for their purchases by BACS.
 
 ### **Show/Hide order cycles at my shopfront**
 
@@ -88,14 +88,14 @@ This rule lets you make certain order cycles visible only to certain customers.&
 
 For this rule to operate you need to have tagged the customer and the order cycle with the same tag. To tag an order cycle, see the Tags tab in the outgoing section of an order cycle (page 3 of the [Order Cycle](../order-cycle/order-cycles-for-hubs.md#3-outgoing-products)).
 
-![](../../../.gitbook/assets/tagsorder.jpg)
+![](<../../../.gitbook/assets/tag oc.jpg>)
 
-In this example, the above Order Cycle has been assigned to customers with the tag 'member'. One could then set up the following:
+In this example, the above Order Cycle has been assigned to customers with the tag 'wholesale'. One could then set up the following:
 
-* a default tag rule: order cycles tagged 'member' are invisible
-* a conditional tag rule: for customers tagged 'member' an order cycle tagged 'member' is visible
+* a default tag rule: order cycles tagged 'wholesale' are invisible
+* a conditional tag rule: for customers tagged 'wholesale' an order cycle tagged 'wholesale' is visible
 
-Thus, only members would be able to purchase goods from this order cycle.
+Thus, only wholesale customers would be able to purchase goods from this order cycle.
 
 ## Customer Specific Pricing
 

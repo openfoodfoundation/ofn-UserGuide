@@ -10,16 +10,12 @@ One of the many benefits to OFN customers is price transparency. Shoppers can se
 
 ![](../../.gitbook/assets/feebreakdown.jpg)
 
-Before you move on you might like to have a look at a quick demonstration of setting up your first enterprise fee:
-
-![](../../.gitbook/assets/enterprisefeefirst.gif)
-
 ## Setting up an Enterprise Fee
 
-* Go to 'Enterprise Fees' by clicking on **Enterprises** in the blue bar at the top of the page and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
+* Go to 'Enterprise Fees' by clicking on **Enterprises** in the main menu at the top of the page and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
 * Click **Create One Now** (or **Manage Enterprise Fees** if you have already set one up). You will be directed to a page like this:
 
-![](../../.gitbook/assets/enterprisefeecreate.jpg)
+![](<../../.gitbook/assets/list of enterprise fees.jpg>)
 
 **Enterprise:** In the first column, select the enterprise to which the fee applies.
 
@@ -31,17 +27,19 @@ Before you move on you might like to have a look at a quick demonstration of set
 
 **Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
 
+{% hint style="warning" %}
+Note: if the Tax Category for an Enterprise Fee is set to 'Inherit from product' then the only two fee calculators which can be used are 'Flat Percent (per item)' and 'Flat Rate (per item)'
+{% endhint %}
+
 Click **Update** to save your enterprise fee. The 'calculator values' column will now contain input fields relevant to the calculator.
 
 {% hint style="success" %}
 You will only be able to specify rates or values (in the 'calculator values' column) after the Enterprise Fee has been saved. Don't forget to click **Update** after entering a calculator value to save your changes.
 {% endhint %}
 
-![](../../.gitbook/assets/enterprisefee2.jpeg)
-
 ## Fee Calculators
 
-![](../../.gitbook/assets/enterprisefee3.jpg)
+![](<../../.gitbook/assets/enterprise fee calc.jpg>)
 
 **Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
 
@@ -55,7 +53,7 @@ You will only be able to specify rates or values (in the 'calculator values' col
 * **Additional Item Cost** - the fee charged for items beyond the first item.
 * **Max Items** - the maximum number of items on which the fee will be applied. Items purchased beyond this amount will not be charged the fee.
 
-![](../../.gitbook/assets/enterprisefeeflex.jpg)
+![](<../../.gitbook/assets/flexible rate ent fee.jpg>)
 
 > For example, if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' to £0.10 and 'Max Items' to 3, then a customer who purchases 5 items will be charged £0.40 in enterprise fees. This is comprised of £0.20 for the first item, £0.10 for the second and third, and £0.00 for the fourth and fifth.
 
@@ -67,7 +65,7 @@ You will only be able to specify rates or values (in the 'calculator values' col
 * **Normal Amount** - This is the shipping fee applied to sales below the 'Minimal Amount'.
 * **Discount Amount** - This is the shipping fee applied to orders above the 'Minimal Amount'. You can set this to 0 for free shipping, or use a minus symbol to apply a discount, eg. -5 for $5 cheaper.
 
-![](<../../.gitbook/assets/Price Sack Image.png>)
+![](<../../.gitbook/assets/price sack ent fee.jpg>)
 
 {% hint style="warning" %}
 Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the Order Cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.

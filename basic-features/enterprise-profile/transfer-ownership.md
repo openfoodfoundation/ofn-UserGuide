@@ -6,7 +6,7 @@ To add a new manager and eventually transfer ownership, here is the procedure to
 
 * On the admin dashboard, go to the Users menu of your Enterprise settings (Enterprise > Settings > Users):
 
-![](../../.gitbook/assets/changeowner.jpg)
+![](../../.gitbook/assets/users.jpg)
 
 * Under "Managers", search for the email of the producer you would like to add as a manager.
 

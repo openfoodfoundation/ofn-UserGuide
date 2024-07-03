@@ -8,26 +8,14 @@ Access your dashboard from the homepage by first logging in and then clicking on
 
 The options you will see on your dashboard will depend on which enterprise type you choose on [registration](register-and-create-your-profile.md). The screenshots below show the dashboard view for different types of users.
 
-### Producers
-
 {% tabs %}
-{% tab title="Producer Profile Only" %}
-![](../.gitbook/assets/Dashboard-Profile-Only.png)
+{% tab title="Profile Only" %}
+![](<../.gitbook/assets/producer profile.jpg>)
 {% endtab %}
 
-{% tab title="Producer Profile and Shop" %}
-![](../.gitbook/assets/Dashboard-Shop.png)
+{% tab title="Shop or Hub" %}
+![](<../.gitbook/assets/producer hub.jpg>)
 {% endtab %}
 {% endtabs %}
 
-### Hubs
-
-{% tabs %}
-{% tab title="Hub Profile Only" %}
-![](../.gitbook/assets/Hub-dashboard-profile-only.png)
-{% endtab %}
-
-{% tab title="Hub Profile and Shop" %}
-![](../.gitbook/assets/Hub-dashboard-shopfront.png)
-{% endtab %}
-{% endtabs %}
+###

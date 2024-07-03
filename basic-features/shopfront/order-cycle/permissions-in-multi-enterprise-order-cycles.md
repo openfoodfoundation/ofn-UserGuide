@@ -54,11 +54,11 @@ The coordinator can apply differential [enterprise fees](../enterprise-fees.md) 
 
 ## Supplying (Incoming) Enterprises
 
-The supplier ([producer](../../enterprise-profile/package-types.md#for-producers)) can view all the order cycles they’re involved with by visiting the order cycle summary page (from the top horizontal blue menu), even if they haven't created the order cycles themselves. \
+The supplier ([producer](../../enterprise-profile/package-types.md#for-producers)) can view all the order cycles they’re involved with by visiting the order cycle summary page (from the top horizontal main menu), even if they haven't created the order cycles themselves. \
 By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle.  They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.\
 A supplying enterprise can not alter the name nor dates of an order cycle.
 
-In the Reports section (top horizontal blue menu) an incoming supplying producer can view the orders they have received for the order cycle
+In the Reports section (top horizontal main menu) an incoming supplying producer can view the orders they have received for the order cycle
 
 {% hint style="warning" %}
 An incoming supplying enterprise does not automatically see the names of customers who bought their products if they are not also the order cycle coordinator. This setting can be changed by the order cycle coordinator (enterprise that manages the order cycle). If you need to see customer names to facilitate packing and fulfilment of orders, you can contact your order cycle coordinator and ask them to select the Customer Names in Reports checkbox in [Enterprise Settings](../../enterprise-profile/enterprise-settings.md) under Shop Preferences.

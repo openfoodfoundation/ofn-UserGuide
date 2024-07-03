@@ -30,19 +30,19 @@ On this page you can find details on:
 
 When you visit the 'Orders' page of your Dashboard there is a drop down menu to the left of the screen 'Actions'.  By checking the tick box next to the order you wish to print or send the invoice for, the Actions menu becomes active and you can opt to either send the invoice (by email) to the customer or download and print the pdf document yourself:
 
-![](<../../.gitbook/assets/Screen Shot 2020-09-24 at 3.20.25 PM.png>)
+![](<../../.gitbook/assets/actions (2).jpg>)
 
 ### Batch Print Invoices
 
 To save time you can print multiple invoices at once (rather than visiting each order in turn and selecting Actions-> Print Invoice).\
 On the Listing Orders page check the box to the left of orders for which you would like to send an invoice. You can increase the number of orders per page from 15 to 100 and select all at once, if desired.\
-Then click 'Print Invoices' button to the top right of the table:
+Then click 'Print Invoices' from the Actions menu.
 
-![](../../.gitbook/assets/batchprint1.jpg)
+![](<../../.gitbook/assets/bulk print invoices.jpg>)
 
 A Loading page will pop up while the invoices are generated. On completion you will be able to view (and download) a file containing all the invoices for the orders selected:
 
-![](../../.gitbook/assets/compileinvoice.jpg)
+![](<../../.gitbook/assets/bulk print.jpg>)
 
 ### Hints & tips
 

@@ -6,7 +6,7 @@ To activate the subscription functionality for your enterprise, go to Enterprise
 
 At the bottom of the page change the Subscriptions setting to 'enabled'.
 
-![](../../.gitbook/assets/subscriptions1.jpg)
+![](<../../.gitbook/assets/shop pref.jpg>)
 
 **Guest orders**: For enterprises with subscriptions enabled, we recommend that you change this setting to 'require login to order'. This ensures that customers see any active subscription orders once logged in, minimising the risk of them placing a duplicate order by mistake.
 
@@ -52,7 +52,7 @@ If you use Stripe as the payment method for subscriptions it is helpful to the c
 For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it detailed so the customer knows what to expect.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 ## Gather information from your customers
 
@@ -114,13 +114,13 @@ There's lots of flexibility in this arrangement and so feel free to experiment t
 
 Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
 
-![](<../../.gitbook/assets/ordercycle1 (2) (2) (1).jpg>)
+![](<../../.gitbook/assets/new sched.jpg>)
 
 {% hint style="warning" %}
 You must have at least one open or due to open order cycle to be able to create a new schedule.
 {% endhint %}
 
-![](<../../.gitbook/assets/New Schedule>)
+![](../../.gitbook/assets/sched1.jpg)
 
 **Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
 
@@ -137,11 +137,11 @@ Click **create** when you are finished.
 
 To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.  (The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.)
 
-![](<../../.gitbook/assets/Show Schedules>)
+![](../../.gitbook/assets/sched2.jpg)
 
 You can change the name of the schedule, add/remove order cycles from it or delete the schedule.
 
-![](<../../.gitbook/assets/Delete Schedule>)
+![](../../.gitbook/assets/sched3.jpg)
 
 {% hint style="danger" %}
 You can not delete a schedule if there are subscriptions associated with it.
@@ -151,7 +151,7 @@ You can not delete a schedule if there are subscriptions associated with it.
 
 You can add and remove order cycles from schedules by either editing the schedule ([above](subscriptions-configuration.md#edit-or-delete-a-schedule)), or by editing the order cycle and adding/removing the schedule in the ‘schedules’ field:
 
-![](<../../.gitbook/assets/ordercycle3 (1).jpg>)
+![](<../../.gitbook/assets/oc sched.jpg>)
 
 {% hint style="success" %}
 Order cycles can be in more than one schedule.  For example if your order cycles are weekly but you have three schedules (weekly, fortnightly-odd weeks and fortnightly-even weeks) then one order cycle might be associated with both the 'weekly' and 'fortnightly-odd' week schedules.

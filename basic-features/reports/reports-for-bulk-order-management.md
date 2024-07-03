@@ -33,13 +33,13 @@ The data in each report is as follows:
 Products stocked by a hub which do not have bulk buy enabled will display with Bulk Unit = 0
 {% endhint %}
 
-![Bulk Coop Supplier Report](../../.gitbook/assets/bulksuppliertot.jpg)
+![Bulk Coop Supplier Report](<../../.gitbook/assets/bulk suppliers report.jpg>)
 
-![Bulk Coop Allocation](../../.gitbook/assets/bulkallocation.jpg)
+![Bulk Coop Allocation](<../../.gitbook/assets/bulk allocation report.jpg>)
 
-![Bulk Coop Packing](../../.gitbook/assets/bulkpacking.jpg)
+![Bulk Coop Packing](<../../.gitbook/assets/bulk coop packing sheets.jpg>)
 
-![Bulk Coop Customer Totals](../../.gitbook/assets/bulkpayment.jpg)
+![Bulk Coop Customer Payments](<../../.gitbook/assets/bulk coop customer payment.jpg>)
 
 ## Example: Bulk Co-op Suppliers Report
 
@@ -55,10 +55,10 @@ See the example below for an illustration of how the Bulk Co-op Totals by Suppli
 
 Example 1: Where the bulk ordering quantity has been reached:
 
-![Radishes](../../.gitbook/assets/Radishess.png)
+![Radishes](../../.gitbook/assets/radishess.png)
 
 Example 2: where the bulk order quantity has not been reached:
 
-![Bok Choy](../../.gitbook/assets/Bok-Choy.png)
+![Bok Choy](../../.gitbook/assets/bok-choy.png)
 
 * _Note the ‘Bulk Co-op Allocations’ report is similar in function to this report, but shows each customer’s order individually, rather than the cumulative total across all customers._

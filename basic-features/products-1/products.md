@@ -4,13 +4,13 @@ You can either add products to your catalog one by one (detailed below) or by [b
 
 ## Adding products
 
-Once logged into the Admin Dashboard, select **Products** on the horizontal blue menu and then click **+ New Product**.
+Once logged into the Admin Dashboard, select **Products** on the main horizontal menu and then click **+ New Product**.
 
-![](../../.gitbook/assets/addnewproduct.jpg)
+![](<../../.gitbook/assets/add product.jpg>)
 
 This will take you to the New Product page.
 
-![](../../.gitbook/assets/newproduct.jpg)
+![](<../../.gitbook/assets/new product.jpg>)
 
 **Supplier**&#x20;
 
@@ -64,9 +64,9 @@ Use this field if you want to track your stock levels. As customers place orders
 Product images will be displayed on the shopfront in **square (1:1) format**.  We recommend uploading photos with these dimensions. Landscape and portrait photos will be cropped to square automatically.
 {% endhint %}
 
-![Product with units of weight](<../../.gitbook/assets/productweightunit price.jpg>)
+![Product with units of weight](../../.gitbook/assets/productweightunit-price.jpg)
 
-![Product with units of 'items' (pie)](<../../.gitbook/assets/productitemunit price.jpg>)
+![Product with units of 'items' (pie)](../../.gitbook/assets/productitemunit-price.jpg)
 
 {% hint style="warning" %}
 High resolution images are resized (reduced in pixel dimension) automatically when displayed in your product list dependent on the customer's device.
@@ -81,7 +81,7 @@ If you use an image off the internet, check that it is free of rights.&#x20;
 **Tax category:** Select the applicable tax category from the drop-down list. Tax (VAT in the UK) depends on the nature of the product and the country in which you are retailing.
 
 {% hint style="danger" %}
-Tax will only be collected when enterprises have selected 'charges VAT = yes' under their enterprise settings -> Business Details.
+Tax will only be collected when enterprises have selected 'charges VAT = yes' under their Enterprise Settings -> Business Details.
 {% endhint %}
 
 **Product description:** Tell your customers a little bit about this product. You might like to include a story about the specific tomato variety, include hyperlinks to any certification it may have etc.
@@ -92,14 +92,18 @@ Don't forget to click on the "create" or "create and add new" button at the bott
 
 A short demonstration of the steps outlined above:
 
-![](../../.gitbook/assets/productsadd.gif)
+![](<../../.gitbook/assets/create product.gif>)
 
 When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
 
-![](../../.gitbook/assets/productspage.jpg)
+![](<../../.gitbook/assets/bulk page edit new.jpg>)
 
-{% hint style="success" %}
-Products listed in your admin panel can be sorted alphabetically by name (click on 'NAME' in the table to implement this).
+To customise the format of this table to only display information relevant to your organisation you can choose which columns are shown using the drop down menu under 'Columns'
+
+<figure><img src="../../.gitbook/assets/bulk edit columns.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+SKU (or product codes) can be added in the 'Product Code' column for each item if desired (for example this may be useful if stocking dried/bulk/toiletry items from a wholesale catalogue).
 {% endhint %}
 
 This is how your products will display to your customers on the shop front:
@@ -114,17 +118,17 @@ If you are listing a product which comes in a number of different options (say d
 Variants are useful if, for example, you sell lemons singularly as well as in 'packs' of 5. Rather than have two product listings the two options can be available for the same product.
 {% endhint %}
 
-If you would like to create a SIMILAR product then you can duplicate products by selecting the double page icon to the right of an item (red box). By subsequently selecting the pencil and paper icon (green box) the copied product can be edited and the details amended for the second item.
+To edit or replicate a product, simply click on the three vertical dots in the 'Actions' column for the product row in question.  The two options: Edit (highlighted in green below) and Clone (highlighted in red below) become available.
 
-![](../../.gitbook/assets/productspagecopy.jpg)
+![](<../../.gitbook/assets/edit or clone.jpg>)
 
 ## Edit your products
 
 Once a product is created the best place to quickly edit its attributes, such as quantity, price and stock level, is through the listing products page shown above.
 
-To edit images, product descriptions, categories and more you can select the edit symbol (pen on paper icon) to the right of the product in question in the table. This will bring up the following page:
+To edit images, product descriptions, categories and more you can select edit, from the actions column to the right of the product in question in the table. This will bring up the following page:
 
-![](../../.gitbook/assets/editproduct.jpg)
+![](<../../.gitbook/assets/edit product.jpg>)
 
 From the right hand menu, you might like to add:
 
@@ -151,8 +155,8 @@ Some customers will use the Search box at the top left of the page to locate the
 * Producer name
 * Search keywords
 
-Keywords can be added by visiting **Edit Product -> Search**.  Keywords entered into the top box (in red below) are reviewed by the platform if the customer uses the 'Search' field on your shop front.  Those entered into the second box (in green below) are searched by external search engines on the internet (for example Google).&#x20;
+Keywords can be added by visiting **Edit Product -> Search**.  Keywords entered into the top box (in red below) are reviewed by the platform if the customer uses the 'Search' field on your shop front. &#x20;
 
-![](../../.gitbook/assets/searchedit.jpg)
+![](<../../.gitbook/assets/search keywords.jpg>)
 
 The 'Notes' section is not an active field. It is a handy box for you to 'make a note' of a seasonal search term which may be very effective/ineffective one year, so that you don't forget.

@@ -1,12 +1,10 @@
 ---
 description: >-
-  This page explains how both producers can to import product details and
-  distributors can set up their hub inventory in bulk.
+  This page explains how both producers can import product details, and
+  distributors can set up their hub inventory, in bulk.
 ---
 
 # Product and Inventory import
-
-
 
 The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
 
@@ -69,7 +67,7 @@ In the import process, variants are distinguished by the units (such as raspberr
 
 The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field and/or the units becomes the secondary heading.
 
-![](../../.gitbook/assets/samedisplayname.jpg)
+![](<../../.gitbook/assets/samedisplayname (1).jpg>)
 
 ![](../../.gitbook/assets/differentdisplaynames.jpg)
 
@@ -133,8 +131,6 @@ Once complete, the .csv can be [imported](product-and-inventory-import.md#import
 If you select this tickbox the system will set the 'In Stock' value to zero for _all products already in your product list that are not in the product import file._\
 If a product was 'Unlimited', removing it from the import will mark the item as 0 in stock.
 {% endhint %}
-
-## Import New Inventory or update your inventory
 
 ## Import New Inventory or update your inventory
 

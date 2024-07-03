@@ -1,28 +1,34 @@
 # Vouchers
 
+Voucher codes can be created to offer shopping discounts to new or existing customers. Voucher functionality is still relatively limited, please read through [this guide before implementing vouchers in your shop process](../../hub-management-tips/how-tos/vouchers-v.-tags.md).&#x20;
+
 {% hint style="info" %}
 Vouchers is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
 {% endhint %}
 
-Voucher codes can be created to offer shopping discounts to new or existing customers. Voucher functionality is still relatively limited, please read through this guide before implementing vouchers in your shop process.
+{% hint style="success" %}
+Visit these pages for a step-by-step guide to using the Vouchers feature to:
+
+* offer a percentage discount via a[ social media campaign](../../hub-management-tips/how-tos/running-a-social-media-promotion.md)
+* [sell and manage gift vouchers](../../hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
+{% endhint %}
 
 Set up and manage vouchers in the **Vouchers** tab in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md).
 
-<figure><img src="../../.gitbook/assets/vouchers 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vouchers1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Setting up a voucher
 
-* Go to 'Vouchers' by clicking on **Enterprises** in the blue bar at the top of the page and then click **Settings** next to your enterprise. The **Vouchers** page is found in the menu on the left hand side
+* Go to 'Vouchers' by clicking on **Enterprises** in the main menu at the top of the page and then click **Settings** next to your enterprise. The **Vouchers** page is found in the menu on the left hand side
 * Click **Add New** in the top right of the vouchers page to be taken to the new vouchers page
 
-<figure><img src="../../.gitbook/assets/vouchers 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/voucher add.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/voucher 3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new voucher.jpg" alt=""><figcaption></figcaption></figure>
 
-* **Voucher Code** - the code customers will enter to recieve a discount. Code is string matched, so double check the spelling, spaces and numbers.&#x20;
-* **Voucher Type**
-  * **Percentage:** The voucher will add a percentage discount to the entire order the code is applied to.
-  * **Amount:** The numeric percentage or flate rate you wish the discount to apply
+* **Voucher Code** - the code customers will enter to receive a discount. Code is string matched, so double check the spelling, spaces and numbers.&#x20;
+* **Voucher Type-** There are two options here: Flat (for a flat rate discount) and Percentage (so someone can have a percentage discount).
+* **Amount** - The numeric percentage or flat rate you wish the discount to apply.
 * Click **save** to create the voucher.
 
 {% hint style="warning" %}
@@ -41,7 +47,7 @@ In the **Vouchers** page in Enterprise Settings, use the checkbox against each v
 
 Click **update** to save changes
 
-<figure><img src="../../.gitbook/assets/voucher edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/voucher deactivate.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Customer facing use
 

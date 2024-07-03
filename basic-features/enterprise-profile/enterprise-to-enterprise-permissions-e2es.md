@@ -6,17 +6,13 @@ Within the OFN, Enterprise Permissions are rules which govern the trading relati
 
 There are two ways in which to access your enterprise permissions-&#x20;
 
-* By visiting Dashboard > Enterprises and then selecting 'Permissions' from the green sub-menu.
+* By visiting Dashboard > Enterprises and then selecting 'Permissions' from the sub-menu.
 
-<figure><img src="../../.gitbook/assets/permissions access one.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ent permissions 1.jpg" alt=""><figcaption></figcaption></figure>
 
 * OR by visiting Dashboard > Enterprises > Settings and selecting 'Enterprise Permissions' from the left hand menu.
 
-<figure><img src="../../.gitbook/assets/permissions access two.jpg" alt=""><figcaption></figcaption></figure>
-
-This short clip shows a demonstration of the first method:
-
-![](../../.gitbook/assets/permissions.gif)
+<figure><img src="../../.gitbook/assets/ent permissions 2.jpg" alt=""><figcaption></figcaption></figure>
 
 Lastly, we explore this topic from the point of view of:
 
@@ -27,7 +23,7 @@ Lastly, we explore this topic from the point of view of:
 
 There are 4 different types of Enterprise permissions. They can combine in different ways to give companies more or less rights according to their profiles.
 
-![](../../.gitbook/assets/e2emenu2.jpg)
+![](<../../.gitbook/assets/ent per.jpg>)
 
 **Permission to add to order cycle**: the supplier (producer) allows the distributor (an OFN Hub) to add products to the latter's order cycles.  Thus, products from the supplier can appear on the hub's shopfront.
 
@@ -49,9 +45,9 @@ If a producer supplies more than one hub with goods, then to allow each of these
 
 ## Granting and Managing Permissions
 
-To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.&#x20;
+To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the main menu and 'Permissions' on the sub-menu.&#x20;
 
-![](../../.gitbook/assets/e2emenu.jpg)
+![](<../../.gitbook/assets/grant per.jpg>)
 
 To give permission:
 

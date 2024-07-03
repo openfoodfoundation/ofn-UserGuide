@@ -21,13 +21,13 @@ If your enterprise is **Tax Registered** then it is important that the correct '
 
 The **Tax Type** report is useful for separating total tax per order into its different component elements: tax on products, tax on shipping method fee and tax on fees- enterprise and/or payment method fees.
 
-![Tax type report](<../../.gitbook/assets/tax types report.jpg>)
+![Tax type report](<../../.gitbook/assets/tax types.jpg>)
 
 ### Tax Rate Reports
 
 The tax rate report gives an **order-by-order break down** of tax by it's tax rate (full, reduced or zero-rated PRODUCTS and tax from delivery fees).  Order totals inclusive and exclusive of tax are also given.
 
-![Tax rate report](<../../.gitbook/assets/tax rates report.jpg>)
+![Tax rate report](<../../.gitbook/assets/tax rates.jpg>)
 
 {% hint style="warning" %}
 The exact tax rates for Full, Reduced and Zero, along with the legislation which governs which category a product belongs to, varies from instance to instance.
@@ -49,11 +49,11 @@ The above screen shot was taken from a UK enterprise.  The columns shown corresp
 
 For the time period or order cycle used to filter results, this report gives the tax status of each supplier, and the total revenue they sold for each available tax rate.  (Only tax rates for which they sold produce are shown).
 
-<figure><img src="../../.gitbook/assets/sales tax by producer.jpg" alt=""><figcaption><p>Sales Tax by Producer Report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tax by producer.jpg" alt=""><figcaption><p>Sales Tax by Producer Report</p></figcaption></figure>
 
 ### Sales Tax Totals by Order
 
 For the time period or order cycle used to filter results, this report gives the contribution of products or services in each tax rate to the overall tax paid by the customer for that order. &#x20;
 
-<figure><img src="../../.gitbook/assets/sales tax by order.jpg" alt=""><figcaption><p>Sales Tax by Order</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tax by order.jpg" alt=""><figcaption><p>Sales Tax by Order</p></figcaption></figure>
 

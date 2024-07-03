@@ -47,7 +47,7 @@ Your address will be used to add your business to our map of OFN enterprises and
 
 **The next step is to** [**choose the OFN package**](enterprise-profile/package-types.md) **(= profile type) which best represents your** [**business model**](../your-quick-start-on-ofn-given-who-you-are.md)**.** &#x20;
 
-![](../.gitbook/assets/newchoose.jpg)
+![](../.gitbook/assets/choosing.jpg)
 
 **After doing so, your enterprise will added to the OFN map!** &#x20;
 

@@ -2,7 +2,7 @@
 
 If your enterprise is a "producer" type (you checked the corresponding box in your profile settings), you can now [add products](products.md) and [related variants](product-variants.md) to your producer catalog. These products can be [added in bulk by importing a csv file ](product-and-inventory-import.md)(Excel file saved in csv format).
 
-![](../../.gitbook/assets/products1.jpg)
+![](../../.gitbook/assets/producer.jpg)
 
 The price entered for each product in the producer catalog is the full amount the producer will receive from a sale - hence a 'wholesale' price. Hubs (distributors) can add their fees for admin, transport and packing etc on top using fee options in [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) or [Enterprise Fees](../shopfront/enterprise-fees.md).
 

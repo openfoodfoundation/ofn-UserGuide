@@ -2,25 +2,39 @@
 
 If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
 
-![](<../../.gitbook/assets/productweightunit price.jpg>)
+![](../../.gitbook/assets/productweightunit-price.jpg)
 
 ## How do I create a Product Variant?&#x20;
 
 First of all, it is necessary to create a product, which will automatically be also the first variant of this product. For more details on adding simple products, click [here](products.md).&#x20;
 
-In your admin dashboard, go to the products page where you will find the list of products for companies of "producer" nature that you manage. To see **all the variants** associated with your products, click on "Expand All" in red at the top left of the table.
+In your admin dashboard, go to the products page where you will find the list of products (highlighted in green below) and their associated variants (highlighted in red below) for companies of "producer" nature that you manage.&#x20;
 
-![](../../.gitbook/assets/variants1.jpg)
+![](<../../.gitbook/assets/product and variants.jpg>)
 
-To see see the variants of a specific product only, click on the angle ">" to the left of the first column of the table. If you wish to create a new variant for this product, click on the small plus "+" which is displayed just below as shown above.
+The variants of all products are shown. If a product has only one variant (option) then there will be only one line underneath the product row.
 
-This will add a new line allowing you to quickly enter information about the second variant:
+To add or delete variants, the simplest way is to click on the '**+**' sign at the bottom of the product row in question.
 
-![](../../.gitbook/assets/variants2.jpg)
+<figure><img src="../../.gitbook/assets/varients new.jpg" alt=""><figcaption></figcaption></figure>
 
-The first line corresponds to the 'parent product' which will be offered for sale to customers in the form of several variants. Some product-level information will therefore apply to all variants, such as the unit of measure, the name of the unit if the product is sold individually, the properties, the conditions of transport, etc.&#x20;
+This will bring up a new variant row which can be edited for the specific properties of the item in question.&#x20;
 
-The 2nd and 3rd lines are here the 2 variants of the product. Each variant is distinguished from the others by at least one differentiating element, such as the unit (eg. packaging per 500g instead of 100g for the first variant) and, very often, the associated price.  Slight variations in the nature of a product (eg. flavour) can be detailed by changing the name of each variant (eg. variant one has name = 'goats cheese- herbs' and variant two has name=  'goats cheese- garlic').&#x20;
+<figure><img src="../../.gitbook/assets/varients new2.jpg" alt=""><figcaption></figcaption></figure>
+
+**Properties of a variant which can be edited:**
+
+**Display name**: name of the variant.  For example, for a product of 'Apples' the display names may be 'Granny Smith', 'Golden Delicious', .... or you may opt for a product named 'Granny Smith Apples' and name the variants 'small bag full', 'medium bag full'....
+
+**Product code:** Often enterprises may add an SKU code here for management purposes.
+
+**Display as/Unit**: the unit of a variant is always inherited from it's parent product.  Hence if the unit of the product 'Apples' is in kg, then the variants will all have units of kg.
+
+**Price and Stock Level**
+
+**NOTE:**
+
+**Tax** and **shipping categories** of a variant must always be the same as those of its parent product.
 
 {% hint style="info" %}
 To avoid errors when reading reports, we strongly recommend that you always name each variant differently.
@@ -39,3 +53,15 @@ There is no maximum number of variants for a product. You can add as many as you
 {% hint style="info" %}
 When you are finished always select 'save changes' in the red box at the bottom right of the screen.
 {% endhint %}
+
+## Edit an existing variant
+
+To edit stock levels, prices and variant names it is easiest to do this from your main Products page which lists all products and their variants:
+
+<figure><img src="../../.gitbook/assets/bulk page edit.jpg" alt=""><figcaption></figcaption></figure>
+
+To edit other properties of a variant (such as its weight), choose 'Edit' from the 'Actions' column of the associated product and then visit the 'Variants' page from the right hand menu.
+
+By selecting the pen and paper symbol next to a variant (highlighted in red below) you can edit the variant.  To delete it, select the 'bin' symbol:
+
+<figure><img src="../../.gitbook/assets/edit variant.jpg" alt=""><figcaption></figcaption></figure>

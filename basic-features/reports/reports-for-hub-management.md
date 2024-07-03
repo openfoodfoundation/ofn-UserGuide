@@ -39,9 +39,9 @@ At a glance, the data contained in these reports can be summarised:
 
 \*\*Shipping Category = default, frozen, refrigerated
 
-![Payment Method report](../../.gitbook/assets/paymentmethods.jpg)
+![Payment Method report](<../../.gitbook/assets/payment method (1).jpg>)
 
-![Delivery Methods](<../../.gitbook/assets/delivery methods.jpg>)
+![Delivery Methods](<../../.gitbook/assets/delivery method.jpg>)
 
 ## Product Management
 
@@ -70,7 +70,7 @@ The **Lettuce Share** report gives more details about each product: It's name, v
 
 You can use this report to view the number of orders placed by a customer per order cycle- particularly useful if someone orders more than once but wants to collect everything in one box.
 
-<figure><img src="../../.gitbook/assets/customers report.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/customer report.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Enterprise Fees
 
@@ -82,15 +82,15 @@ The Enterprise Fee Summary report is used to summarise the amounts of fees that 
 
 The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
 
-![Enterprise Fee Summary Report](<../../.gitbook/assets/image (31).png>)
+![Enterprise Fee Summary Report](<../../.gitbook/assets/ent fee summary.jpg>)
 
-**Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle.&#x20;
+**Example 1**: a Hub adds a mark up fee of 18% to selected suppliers.  These fees are added in the 'Incoming' section of the order cycle.&#x20;
+
+<figure><img src="../../.gitbook/assets/example1.jpg" alt=""><figcaption></figcaption></figure>
 
 **Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
 
-**Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
-
-![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (32).png>)
+<figure><img src="../../.gitbook/assets/example2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Data
 
@@ -101,5 +101,3 @@ The data which found in an Enterprise Fee Summary Report includes:
 * Where in the order cycle the fee is placed (incoming/outgoing products or order cycle coordinator fee)
 * Name of enterprise who set the fee ('Fee Calc on Transfer though')
 * Total value of enterprise fee collected for the sale of the line item.
-
-![](<../../.gitbook/assets/enterprise fee report.jpg>)

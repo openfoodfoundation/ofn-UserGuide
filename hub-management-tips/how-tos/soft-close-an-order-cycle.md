@@ -1,6 +1,6 @@
 # Soft Close an Order Cycle
 
-From time to time you might find that your enterprise receives more orders than you can physically process (for example during the panic buying March 2020 or at Christmas). &#x20;
+From time to time you might find that your enterprise receives more orders than you can physically process (for example at Christmas or in the case of staff illness/storm damage). &#x20;
 
 {% hint style="success" %}
 It is always better to know the limits of your business and shut your order cycle early than over sell and then have to let people down.&#x20;
@@ -23,19 +23,19 @@ Therefore we recommend the following method- this way customers who are paying a
 Visit Orders in your admin panel and filter results by distributor and order cycle (highlighted in green below). The number of orders received is shown under the 'Filter Results' heading (highlighted in red).
 {% endhint %}
 
-![](../../.gitbook/assets/orders.jpg)
+![](<../../.gitbook/assets/soft close 1.jpg>)
 
 * Add a new default [tag rule](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) by visiting **Enterprises -> Settings -> Tag Rules**.\
   Default: Order cycles tagged '**Closed**' are not visible.
 
-![](../../.gitbook/assets/closedtagrule.jpg)
+![](<../../.gitbook/assets/soft close 2.jpg>)
 
 \
 No other tag rules are necessary.
 
 * Edit the [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) which is open currently and on page 3 ('Outgoing Products') add the tag '**Closed**'
 
-![](../../.gitbook/assets/softcloseoc.jpg)
+![](<../../.gitbook/assets/soft close 3.jpg>)
 
 **Update** and your order cycle will close without disrupting customers in the process of checking out.
 

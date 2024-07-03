@@ -17,9 +17,9 @@ This page describes how shops can setup unique subscriptions for individual cust
 
 ## Create subscriptions
 
-Click on **Orders** in the blue horizontal menu and then select **Subscriptions** in the green sub-menu.
+Click on **Orders** on the main horizontal menu and then select **Subscriptions** in the sub-menu.
 
-![](<../../.gitbook/assets/sub1 (1) (1).jpg>)
+![](../../.gitbook/assets/sub1.jpg)
 
 Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription. &#x20;
 
@@ -29,7 +29,7 @@ You must have created a schedule of order cycles before you can create a subscri
 
 ### Basic Details
 
-![](../../.gitbook/assets/sub2.jpg)
+![](<../../.gitbook/assets/sub2 (1).jpg>)
 
 **Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription.&#x20;
 
@@ -58,7 +58,7 @@ If the 'Ends at' date falls in the middle of a future order cycle then no subscr
 
 Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
 
-![](<../../.gitbook/assets/New Subscription Address.png>)
+![](../../.gitbook/assets/sub3.jpg)
 
 {% hint style="warning" %}
 If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
@@ -68,7 +68,7 @@ If you update the customer's address/contact details in the [Customer](../shopfr
 
 Add the items the customer wishes to receive from your enterprise on a regular basis.
 
-![](<../../.gitbook/assets/New subscription add products>)
+![](../../.gitbook/assets/sub4.jpg)
 
 {% hint style="warning" %}
 You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
@@ -94,7 +94,7 @@ When an item in a subscription is not available (for example if it is a seasonal
 
 ### Edit the base subscription
 
-To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (blue menu) -> **Subscriptions (**green sub-menu).&#x20;
+To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (main menu) -> **Subscriptions** (sub-menu).&#x20;
 
 Select the enterprise with which the customer has a subscription from the drop-down menu. &#x20;
 
@@ -102,7 +102,7 @@ Select the enterprise with which the customer has a subscription from the drop-d
 
 A table listing all your customers' subscriptions will be then visible.   Select the Edit (pen and paper) icon to the right of the customer:&#x20;
 
-![](<../../.gitbook/assets/editsub (1).jpg>)
+![](../../.gitbook/assets/sub5.jpg)
 
 {% hint style="success" %}
 You can change the products the customer orders via subscription, their preferred shipping and payment methods and the start/end dates of their subscription.
@@ -118,7 +118,7 @@ If you want to change a single upcoming order in a subscription you can click on
 
 This will reveal all upcoming orders in the schedule, and you can then edit a specific order.
 
-![](<../../.gitbook/assets/Edit single subscription order>)
+![](<../../.gitbook/assets/sub6 (1).jpg>)
 
 {% hint style="warning" %}
 Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
@@ -128,7 +128,7 @@ Note that you will be able to remove items from an order in this manner, but not
 
 To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
 
-![](../../.gitbook/assets/cancelsub.jpg)
+![](../../.gitbook/assets/sub7.jpg)
 
 {% hint style="warning" %}
 &#x20;If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
@@ -138,9 +138,11 @@ To delete a subscription for a customer who no longer wishes to receive the good
 
 A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button (two vertical lines) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.&#x20;
 
-![](../../.gitbook/assets/pausesub.jpg)
+![](../../.gitbook/assets/sub8.jpg)
 
 To un-pause (re-activate) a subscription, click on the **play** (arrow) button.
+
+<figure><img src="../../.gitbook/assets/sub9.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.&#x20;

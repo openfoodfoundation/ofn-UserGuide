@@ -1,5 +1,9 @@
 # Cash/EFTs for trusted customers only
 
+{% hint style="info" %}
+This functionality is best achieved using the [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) feature of the platform.
+{% endhint %}
+
 ## Introduction
 
 It’s always really disappointing if your supplier has spent time and resources to prepare goods for a customer and then they don’t arrive to collect their shopping.  This is especially a risk when payment is not taken up front for goods. &#x20;
@@ -19,23 +23,25 @@ As a manager of a local food enterprise you are in tune with your customers’ n
   **Tags: ‘trusted’**\
   Provider: Cash/EFT/etc
 
-![](https://lh6.googleusercontent.com/jybdqQT\_WgpCQfNB6v6DCWrE\_iMN7og0wwK43P\_1H89CJknrwUuqtArffusumwVmjj9mMalf90DIfRG-3xFnnzPbiMT0EyjrxlakDAhzkvqHXxzyKmBsY7VynAYQgYCau-dsRyzC)
+![](<../../.gitbook/assets/trusted 3.jpg>)
 
 * Visit your  [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
 * Use the ‘Quick Search’ box to find your regular and trusted customer’s details:&#x20;
 
-![](https://lh6.googleusercontent.com/DcRo1W18G7l7JKxuhHybJB4gIEzZWQIX-3kynCMX79RwtrKFpMR8b6SYI4uyoQjGOOlmrV1rv7oIbsYS55UkfeH1yfu4SJntTnO1vMPmwuTMljBhkX\_kRhYLiI5fKzKjxYBR\_uCO)
+![](../../.gitbook/assets/customers.jpg)
 
 * Add the Tag ‘trusted’ to their entry:
 
-![](../../.gitbook/assets/trustedcust.jpg)
+![](<../../.gitbook/assets/trusted 2.jpg>)
 
 * Visit **Enterprises -> Settings -> Tag Rules** and add the following:
 
 Default: Payment Methods tagged ‘trusted’ are NOT VISIBLE\
 Rule: For Customers tagged ‘trusted’ Payment Methods tagged ‘trusted’ are visible.
 
-![](../../.gitbook/assets/trustedtags.jpg)
+![](<../../.gitbook/assets/trusted 1.jpg>)
+
+* When you open an [order cycle](../../basic-features/shopfront/order-cycle/), on page 4 '**Checkout Options**' select at least one automatic payment method which is visable for the majority of your customers (Stripe and/or PayPal) as well as the new tagged payment method set up above 'BACS payment'.
 
 **Bingo!  Only your trusted customers will be offered the choice of payment by cash or BACS.**&#x20;
 

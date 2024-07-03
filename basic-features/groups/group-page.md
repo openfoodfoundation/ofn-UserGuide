@@ -11,19 +11,21 @@ Any collection of enterprises on the OFN can create a group page.&#x20;
 
 **What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
 
+<figure><img src="../../.gitbook/assets/group front.jpg" alt=""><figcaption></figcaption></figure>
+
 **How can I create a group page?** To create and manage a group, you’ll need to [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)so we can set you up as an administrator.
 
 ## Managing a Group Page
 
 Once you’ve been set up as the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-14 at 11.28.47 AM.png>)
+![](../../.gitbook/assets/group1.jpg)
 
 ### **Primary Details**
 
 This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-14 at 11.31.45 AM.png>)
+![](<../../.gitbook/assets/edit groups.jpg>)
 
 **Name:** Enter a name for your group, to appear as the title of your group page on the OFN.
 
@@ -56,3 +58,19 @@ This is where you can enter contact details for your group to appear on the righ
 ### Web
 
 This is where you can provide links to any websites and social media channels you may have for your group. These links will appear as either URLs or social media icons on the right side of your group page on the OFN.
+
+## Customer view
+
+The details added above by editing your group will appear to customers under the different tabs from your main group landing page (which has the group's location shown on a map).
+
+<figure><img src="../../.gitbook/assets/group about.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/gorup hubs.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+If an enterprise belongs to a Group then there will be a 'Group' tab on its shop front with a link to the group.  This is a way in which a collection of online OFN 'Shops' (or hubs) can 'club' together and promote each other.  Customers might find that they can't collect from their normal 'shop' one week and hence use the fact that the shop is part of a local group to find another shop with a collection time and date that better suites them.
+
+<figure><img src="../../.gitbook/assets/group on hub.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The 'Group' tab can be hidden from your Enterprise shopfront by using the [White Label function](../shopfront/white-label-site.md).
+{% endhint %}

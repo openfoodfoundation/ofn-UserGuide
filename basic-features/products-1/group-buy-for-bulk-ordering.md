@@ -27,13 +27,13 @@ The group buy function can **not** be applied to products listed with units = **
 
 ## Enabling Group Buy for a product
 
-On the admin dashboard, go to '**Products**' on the blue horizontal menu.  Select to **Edit** a product by clicking on the pencil and paper icon to the right of the product in question:
+On the admin dashboard, go to '**Products**' on the main horizontal menu.  Select to **Edit** a product under the 'Actions' column to the right of the product in question:
 
-![](../../.gitbook/assets/productedit.jpg)
+![](<../../.gitbook/assets/listing products.jpg>)
 
 Then select **Group Buy Options** in the menu to the right.
 
-![](../../.gitbook/assets/groupbuy.jpg)
+![](<../../.gitbook/assets/group buy1.jpg>)
 
 Select **Yes** under **Group Buy? to activate this feature for the product.**
 
@@ -54,13 +54,13 @@ If the product is sold by:
 Under Orders-> [bulk order management](../orders/view-orders.md#bulk-order-management) you can view and edit customer orders for Bulk Buy products to make the combined order from all customers reach your required threshold.
 
 1. Select the order cycle or date range of interest.
-2. Search for the product (Fish in the example below).
+2. Search for the product (Apples in the example below).
 3. Make sure the ‘Max’ column is displayed so you can see the upper limit each customers is prepared to purchase.
-4. Next, click on the value ('test fish: Fish One' in the example below) in the **Product : Unit** column, to display the orders total box (in blue) for the product in question.&#x20;
+4. Next, click on the value ('Apples: Granny Smith' in the example below) in the **Product : Unit** column, to display the orders total box (in blue) for the product in question.&#x20;
 5. Using the information in the column **Max**, you can increase the quantities ordered to reach the threshold for a complete batch.&#x20;
 6. Click update to save changes to customer orders.
 
-![](../../.gitbook/assets/bulkorder2.jpg)
+![](<../../.gitbook/assets/group buy2.jpg>)
 
 **Current Fulfilled Units** divides your total quantity ordered by the group buy unit size. If this figure is greater than 1, it tells you that the existing customer orders satisfy or exceed your required group buy unit size. If this figure is less than 1, existing customer orders don’t meet that threshold. As you raise the quantity of customer orders, this figure will raise.
 

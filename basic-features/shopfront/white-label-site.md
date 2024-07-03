@@ -4,49 +4,41 @@ The White Label function allows users to customise their shopfront branding to r
 
 Access White Label functions through the Enterprise Settings menu in your Dashboard
 
-\
-<img src="../../.gitbook/assets/whitelabel (1).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/white label 1.jpg" alt=""><figcaption></figcaption></figure>
 
-### **Hide Open Food Network navigation menu**
+## **Hide Open Food Network navigation menu**
 
 Check the ‘Hide OFN navigation’ box to remove the header links to other parts of the Open Food Network site on your shopfront.
 
-**OFN Navigation visible:**
+**OFN Navigation visible:**\
 
-![](../../.gitbook/assets/whitelabelnavvisible.png)\
 
+<figure><img src="../../.gitbook/assets/normal shop front.jpg" alt=""><figcaption></figcaption></figure>
 
 **OFN Navigation hidden:**
 
-![](../../.gitbook/assets/whitelabelnoheaderlink.png)
+<figure><img src="../../.gitbook/assets/navigation hidden.jpg" alt=""><figcaption></figcaption></figure>
 
-### Customise logo in site header
+## Customise logo in site header
 
 To replace the Open Food Network header logo with your own logo:
 
-'Hide OFN Navigation' must be ticked to customise the header logo.
-
-In White Label settings, next to 'Logo Used on Shopfront', click ‘Choose File’ to upload a logo file from your computer.&#x20;
-
-The name of the file to be uploaded will display next to the Choose File button.
-
-Click Update at the bottom of the screen to save changes and see your image file displayed.
+* Enterprise settings -> White label
+* Check 'Hide OFN Navigation'
+* Choose a file to upload and click 'update' at the bottom of the screen.
 
 The image will be resized to 217 x 44.
 
-<figure><img src="../../.gitbook/assets/saveimage.png" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/customlogo.png" alt=""><figcaption><p>White labelled site header with OFN navigation removed and custom logo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/white label shop front.jpg" alt=""><figcaption><p>White labelled site header with OFN navigation removed and custom logo</p></figcaption></figure>
 
 &#x20;
 
-### Custom link on logo click
+## Custom link on logo click
 
-Add a custom link to the top-left logo, for example your business website or social media.&#x20;
+* Follow the [steps above](white-label-site.md#customise-logo-in-site-header) to add a bespoke image.
+* When you revisit 'White Label' from your Enterprise settings you will now be able to add a URL to which you wish the bespoke logo to link&#x20;
 
-Enter the link in the field 'Link For Logo Used In Shopfront' in the White Label section of the menu in your Enterprise Settings.
-
-<figure><img src="../../.gitbook/assets/white label.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/logo link.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note: The field to add the link for the logo to be used in the shop front only becomes available AFTER a logo image has been uploaded.  It is necessary to select 'Update' after adding the image to reveal this option.

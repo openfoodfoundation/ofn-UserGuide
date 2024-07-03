@@ -1,10 +1,14 @@
 # Early Shopping 'Hour' for Priority Groups
 
+{% hint style="info" %}
+This functionality is best achieved using the [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) feature of the platform.
+{% endhint %}
+
 ## Introduction
 
-The outbreak of COVID-19 in March 2020 saw a wave of panic buying by consumers prior to \(or in the early days of\) national 'lockdowns'.  This left vulnerable groups and key workers short of food.
+The outbreak of COVID-19 in March 2020 saw a wave of panic buying by consumers prior to (or in the early days of) national 'lockdowns'.  This left vulnerable groups and key workers short of food.
 
-Below is a step-by-step guide to enable selected customers \(you may choose as a business for this to just be people you know to be over 80 years or perhaps include key workers as well\) to shop before others and hence get the first choice of products \(should they run out later in your order cycle\).
+Below is a step-by-step guide to enable selected customers (you may choose as a business for this to just be people you know to be over 80 years or perhaps include key workers as well) to shop before others and hence get the first choice of products (should they run out later in your order cycle).
 
 The process uses the Customer Management feature which is described in[ full here](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
 
@@ -14,50 +18,48 @@ Your enterprise will need to be registered as a [Hub](../../your-quick-start-on-
 
 ## Process
 
-* Set up a policy as a business on which group\(s\) you would like to offer this service to.
+The process is much the same as that you would use for opening your [shop early on 'Preview'](open-your-shop-on-preview.md) but only this time you make the shop visible to a different subset of customer.
+
+* Set up a policy as a business on which group(s) you would like to offer this service to.
 * Keep a record of the customer’s name and the email address linked to their OFN account.
 * Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) [page](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
-* Use the ‘Quick Search’ box to identify if the person has shopped with you before. 
+* Use the ‘Quick Search’ box to identify if the person has shopped with you before.&#x20;
 
-![](https://lh6.googleusercontent.com/DcRo1W18G7l7JKxuhHybJB4gIEzZWQIX-3kynCMX79RwtrKFpMR8b6SYI4uyoQjGOOlmrV1rv7oIbsYS55UkfeH1yfu4SJntTnO1vMPmwuTMljBhkX_kRhYLiI5fKzKjxYBR_uCO)
+![](../../.gitbook/assets/customers.jpg)
 
 * If their email address doesn’t appear then click **+ New Customer** and add their address.
 * In the ‘tags’ column type in ‘priority’ for that customer.
 
-![](https://lh6.googleusercontent.com/VFTwYU6Ow2KWM0ob7Nckswqd3avBblRUSPR27JTDbpjGi8_H5wxCfeWzhGgm5dhuJg-y9rdfGVcVMLIGYgQm6QGuPdGhGWXa-53PXaPFXHP3dYy4EMjgkW023aXkQdBiJOYZxJB7)
+![](<../../.gitbook/assets/priority 2.jpg>)
 
-* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order_cycles) page.  Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) as you normally would: opening and closing time being those you would like to offer to all customers.
+**Step One: Before the order cycle opens**
 
-![General Settings for your &apos;Regular Order Cycle&apos;](https://lh3.googleusercontent.com/jhi3BrlJJ7-Z3zfc_VHW6M5h2Sldi1u2EhlsoBFu8IJRacq9M6P3ZPEi3Kem780jXD_smQ_tZZiodWmws-dWL1VrWS9tHrdB6G4NZZ4Chnmr-Okb9K58t6TcA4sMgOpD00u5ROFw)
+* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) page.  Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) as you normally would, **setting the opening time to be one hour (or more) before** that you would like it to be open to all customers.
+* On page 3 of the order cycle add ‘priority’ into the tags section:
 
-* Copy this order cycle.  
-* Change the name of the copied order cycle by adding the appendix ‘early’. 
-* Change the opening time to an hour/day \(your choice\) before that of the normal order cycle and the closing time to that of the opening time for your regular shopping.
+![](<../../.gitbook/assets/priority 3.jpg>)
 
-![General Settings for your &apos;Early Order Cycle&apos;](https://lh6.googleusercontent.com/57HzSN9rk3Bw6Hg4Oo6R4qf-NeC9cKRiPKxm5aD8VQkaDJ5xNAXM7CMHTc9-3KsmZ9r4TMUhHFZw3qSfJ1RsVqpHN0bQm0DLyXKTSPcz27mYahCd7xcoNyxrj4dhfSlFyji1-4J0)
+* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:
 
-On page 3 of the ‘Early’ order cycle add ‘priority’ into the tags section:
-
-![](https://lh6.googleusercontent.com/CZi2Nx92QTL8RKL_ZXhnpoAPmirgfAHN-wL3jSnMCNdWxn9PCeu-tzVwj03kcvjp8YYt5-y0ijpyXAkfsWAwKuEGNOWKxCVuLFLtTZ41Vg3s2z9ljo9KcLPTIma5upHeWHUzbmZp)
-
-* Visit your **Enterprise -&gt; Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:
-
-Default: Order Cycles tagged ‘priority’ are not visible.  
+Default: Order Cycles tagged ‘priority’ are not visible.\
 For Customers tagged ‘priority’, Order Cycles tagged ‘priority’ are visible.
 
-![](https://lh4.googleusercontent.com/e497XI88RMtx_CFBOq8mbKxktOlZo7uhYcf6Cb9_Pzrs6ZhaetjwRuFtrXIfMVN1C6_mCG3DaP6Djhmok9j0Ux__zscrPiU2fe4sOuDQjcmbqf2utdMPwpeftmTLiuPzSDpLDK7g)
+![](<../../.gitbook/assets/priority 1.jpg>)
 
-**Bingo!  Your shop front will be open early for a subset of your customers only.**  
+**Step Two: On the day of the order cycle**
 
-{% hint style="warning" %}
-Remember that you will need to notify your suppliers about orders generated in both order cycles each week 
-{% endhint %}
+* Set a reminder on your phone or in a calendar at the time of day which you wish your shop front to be visible to all your customers.
+* At this time, log into the OFN platform and edit the order cycle which is currently only open for priority customers.&#x20;
+* Visit Page 3 'Outgoing Products' and remove the tag.  Remember to save your changes.
+
+<figure><img src="../../.gitbook/assets/preview 6.jpg" alt=""><figcaption></figcaption></figure>
+
+**Your shop front will now be visible for all your customers to view and purchase from.**
 
 ## **You might also like to: Add a message to your customers on your shop Notice page.**
 
-Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)’ \(found from **Enterprises -&gt; Settings -&gt; Shop Preferences**\) to invite new elderly/vulnerable/keyworker customers to contact you so they can be prioritised.
+Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)’ (found from **Enterprises -> Settings -> Shop Preferences**) to invite new elderly/vulnerable/keyworker customers to contact you so they can be prioritised.
 
-![Admin View](https://lh5.googleusercontent.com/Wg3e_guD-P5zbZE1oa6OFb36YU-csR35WpZD9Hxn0cT3O05jXDDihtHH2EL9CIP7atYsXXK3va9gUSvyfNka_ovDGDtSG2uRqreA2nW4cp8IjCnL3eodEv12iZ5QkA2eRIGaCkzD)
+![Admin View](<../../.gitbook/assets/priority 4.jpg>)
 
 ![](../../.gitbook/assets/notices2.jpg)
-

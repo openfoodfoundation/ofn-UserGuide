@@ -16,15 +16,13 @@ Please contact Xero directly if you would like further advice on how to use thei
 
 ## Xero Invoices
 
-This report creates CSV files which can be imported into the accounting package ‘Xero’ to generate invoices for customers.
+This report creates CSV files which can be imported into the accounting package ‘Xero’ to generate invoices for customers.  There are two options: a summary report and a detailed report; the latter includes a line item for each item the customer purchased, including any fees and adjustments to their order.
 
 ### Generating the report
 
-![Xero Report Fields](../../.gitbook/assets/Xero-Report.png)
+![Xero Report Fields](<../../.gitbook/assets/xero summary.jpg>)
 
 **Date range:** You can filter orders by the date the order was placed.
-
-**Report type:** You can select to download a ‘detailed’ report, which includes a line item for each item the customer purchased, including any fees and adjustments to their order.
 
 **Hub and order cycle:** You can specify which Hub and Order Cycle, the orders were placed through.
 
@@ -36,7 +34,7 @@ This report creates CSV files which can be imported into the accounting package 
 
 **Account code:** If you place a Xero account code here, all items in the invoice will be assigned to this account. This it editable in Xero.
 
-**Download as CSV:** When you are ready to download the file for import check the box and click **search**.
+**Rendering options:** These are the same as other reports (on screen, PDF, Formatted or .csv; as well as choice of columns and specific data you wish to download)
 
 ### Data Available
 
@@ -50,11 +48,11 @@ This report creates CSV files which can be imported into the accounting package 
 
 In Xero go to **Accounts**, **Sales** and click Import.
 
-![Xero Import](../../.gitbook/assets/Xero-Import.png)
+![Xero Import](../../.gitbook/assets/xero-import.png)
 
 Next you will select your downloaded OFN Xero report for upload. The settings you should select are shown below.
 
-![Xero Import Steps](../../.gitbook/assets/Xero-import-steps.png)
+![Xero Import Steps](../../.gitbook/assets/xero-import-steps.png)
 
 Selecting **Ignore contact address detail**s will ensure your Xero customer data is unaltered.&#x20;
 

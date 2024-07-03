@@ -12,7 +12,7 @@ This report lists each supplier and their products. Next to each product is the 
 This report is helpful to check in items delivered by suppliers - keeping track of goods which may have been missed or are supplied damaged.
 {% endhint %}
 
-![Pack by Supplier Report](<../../.gitbook/assets/pack by supplier.jpg>)
+![Pack by Supplier Report](<../../.gitbook/assets/pack by supplier (1).jpg>)
 
 ### **Pack by Customer**&#x20;
 
@@ -22,11 +22,11 @@ This report lists each customer who placed an order and shows each item ordered 
 This report is useful for packing all of a customer's shopping in a crate/bag/box so it is ready for them to collect or for you to deliver.
 {% endhint %}
 
-![Pack by Customer Report](<../../.gitbook/assets/pack by customer.jpg>)
+![Pack by Customer Report](<../../.gitbook/assets/pack by customer (1).jpg>)
 
 ### Pack by Product
 
 This report lists the products ordered with a list of the customers who have ordered each product and the quantity ordered.
 
-<figure><img src="../../.gitbook/assets/pack by product.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pack by product (1).jpg" alt=""><figcaption></figcaption></figure>
 

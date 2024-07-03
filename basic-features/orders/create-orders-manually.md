@@ -2,47 +2,43 @@
 
 Sometimes you may wish to manually put an order into the system. This may be on behalf of a customer, or so that your reports will capture an order from a different sales stream. You can create an order by going to **Orders** and clicking on the **+ New Order** button.
 
-![](../../.gitbook/assets/manorder1.jpg)
+![](../../.gitbook/assets/manual1.jpg)
 
 You are then lead through a step-by-step process to place the order:
 
-![](../../.gitbook/assets/manorder2.jpg)
+![](../../.gitbook/assets/manual2.jpg)
 
 Firstly you will be prompted to select the distributor that the order will be placed with. \
 Next you will need to select the order cycle that you want the order to be placed in. Your choice of order cycle will dictate which products will be available to be added into the order and the fees applied. Click next once you've completed these fields.
 
 You'll then see the customer details screen where you can choose a customer from your [customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list. Enter three or more characters in the 'choose a customer' drop down box and select your customer:
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manual3.jpg" alt=""><figcaption></figcaption></figure>
 
-Selecting a customer will autofill the customer's saved shipping & billing address, saving you time. You can also enter the customer's details manually if they're not saved in your customer list by completing the fields on the screen:
-
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+Selecting a customer will autofill the customer's saved shipping & billing address, saving you time. You can also enter the customer's details manually if they're not saved in your customer list by completing the fields on the screen.
 
 Click 'Update' to save your progress, then go to 'Order details' from the menu on the right to start entering products:
 
-<img src="../../.gitbook/assets/Screenshot 2023-04-06 at 09.14.40.png" alt="" data-size="original">\
+<img src="../../.gitbook/assets/order details man.jpg" alt="" data-size="original">\
 You will then be redirected to the Order Details page where you can select products. You must type at least the first 3 characters of the product for it to appear as an option in the drop down list:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-06 at 09.31.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manual5.jpg" alt=""><figcaption></figcaption></figure>
 
 After finding the product you'd like to order, enter the quantity and click the **+** button to the right of the product to add it to the cart.
 
-![](../../.gitbook/assets/manorder4.jpg)
+![](../../.gitbook/assets/manual6.jpg)
 
 Once a product is added you can edit the quantity by selecting the pen and paper icon to the right of the item:
 
-![](../../.gitbook/assets/manorder5.jpg)
+![](../../.gitbook/assets/manual7.jpg)
 
-After editing any aspect of the cart, click **update and recalculate fees** to update the price. You will also need to select a shipping method for the customer's order:
+After editing any aspect of the cart, click **update and recalculate fees** to update the price.&#x20;
 
-![](../../.gitbook/assets/manorder7.jpg)
+One of the available shipping methods which the distributing enterprise offers will be selected for the order by default. You can edit this, along with add tracking details or a note in the same manner as for [editing an existing order](view-orders.md#editing-an-order).
 
-Click the tick button to update changes and the cross button to cancel.
+The final step is to add the customer’s payment method.  This is found from the right hand menu:
 
-The final step is to add the customer’s payment method.  This is found from the bottom option of the right hand menu:
-
-![](../../.gitbook/assets/manorder8.jpg)
+![](../../.gitbook/assets/manual8.jpg)
 
 {% hint style="warning" %}
 Note, if you opt for a [payment method](../shopfront/payment-methods.md) provided by **Stripe** then you will be directed to input the customer's card details.\

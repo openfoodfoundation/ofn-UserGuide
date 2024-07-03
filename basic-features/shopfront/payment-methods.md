@@ -4,21 +4,17 @@
 You **must** create at least one payment method before you can open your shop.
 {% endhint %}
 
-Before you read on, you might like to look at a quick demonstration of how to set up your first payment method:
-
-![](../../.gitbook/assets/paymentmethod.gif)
-
 ## Setting up a Payment Method
 
-* Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
+* Go to the Payment Methods page by clicking on **Enterprises** on the main horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
 * Click **Create new payment method +** . You will be directed to a page like this:
 
-![](../../.gitbook/assets/paymentmethods2.jpg)
+![](<../../.gitbook/assets/payment method.jpg>)
 
 * Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 * **Name:** Choose a name for this payment method. (eg 'Pay with credit card using Paypal'). This name is displayed at checkout and on customers' order confirmation emails.
 
-![](../../.gitbook/assets/paymentmethod2.jpg)
+![](<../../.gitbook/assets/payment checkout2.jpg>)
 
 * **Description:** provide further details about the payment method. For example, for a bank transfer, you would enter the bank account details in this box into which you would like a customer to make the BACS payment. This description is displayed at checkout and in order confirmation emails.
 * **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
@@ -35,11 +31,10 @@ Changing all your enterprise's payment methods to 'Back Office Only' will result
 * **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers (for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.). For more information read [here](customer-management-and-conditional-displays-prices/).
 * **Payment providers**: Select the option which is relevant to the payment method you are creating. There are three options:
   * PayPal Express&#x20;
-  * ~~Stripe/ Stripe Connect~~ (This payment has been deprecated and will be removed. Use Stripe SCA)
   * Stripe SCA
   * Cash / EFT / etc. (Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation)&#x20;
 
-![](<../../.gitbook/assets/Untitled design (1).png>)
+![](<../../.gitbook/assets/payment provider.jpg>)
 
 {% hint style="warning" %}
 Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled (found in Enterprises -> Settings -> [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...)
@@ -88,7 +83,7 @@ From here you will be able to access your API username, password and signature.
 
 **Signature:**Type the API Signature in this field.
 
-![](../../.gitbook/assets/paypal3.jpg)
+![](../../.gitbook/assets/paypal.jpg)
 
 **Solution:** Solution determines whether or not a user needs a PayPal account to check out.
 
@@ -122,7 +117,7 @@ Stripe is the recommended payment method for shops who wish to use [**subscripti
 
 Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
 
-![](../../.gitbook/assets/Connect-with-Stripe.png)
+![](../../.gitbook/assets/connect-with-stripe.png)
 
 You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
 
@@ -144,7 +139,7 @@ Select the enterprise that has a Stripe account connected.
 
 If you select an enterprise that is not Connected to Stripe (see above) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
 
-![](../../.gitbook/assets/Stripe-connect.png)
+![](../../.gitbook/assets/stripe-connect.png)
 
 #### Stripe Payments for Customers
 
@@ -152,7 +147,7 @@ When customers checkout in a shop and pay with a Stripe payment method, they’l
 
 Customer can also save a credit card in their Account, or delete saved ones.
 
-![](../../.gitbook/assets/Add-card.png)
+![](../../.gitbook/assets/add-card.png)
 
 When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
 
@@ -164,7 +159,7 @@ When a customer pays for their order with Stripe, the funds (minus Stripe's fees
 
 If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
@@ -172,9 +167,9 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 **API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
 
-![](../../.gitbook/assets/API-Keys.png)
+![](../../.gitbook/assets/api-keys.png)
 
-![](../../.gitbook/assets/API-2.png)
+![](../../.gitbook/assets/api-2.png)
 
 **Server:**Type ‘live’ – this is case sensitive.
 {% endtab %}
@@ -182,7 +177,7 @@ For Pin Payments you only require your API key. You need to set up an account wi
 
 ## Payment Method Fees
 
-![](../../.gitbook/assets/Fee-calculators.png)
+![](<../../.gitbook/assets/fee calculator.jpg>)
 
 You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
 
@@ -216,7 +211,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 * ‘Additional Item Cost’: The fee charged for items beyond the first item.
 * ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
 
-![](../../.gitbook/assets/paymentflex.jpg)
+![](<../../.gitbook/assets/fee- flexible rate.jpg>)
 
 > For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
 
@@ -232,7 +227,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
 {% endhint %}
 
-![](<../../.gitbook/assets/Price Sack.png>)
+![](<../../.gitbook/assets/fees price sack (1).jpg>)
 
 {% hint style="warning" %}
 For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment (Discount Amount = 0) and, say, a £0.50 fee (= Normal Amount) to be a basket of £30 then the Minimum amount is
