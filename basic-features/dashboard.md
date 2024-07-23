@@ -24,4 +24,4 @@ Retrouvez ci-dessous les captures du tableau de bord pour chaque profil d'utilis
 
 Si votre compte utilisateur gère plusieurs entreprises, vous verrez aussi la liste de vos entreprises pour y accéder rapidement :&#x20;
 
-![](<../.gitbook/assets/image (59) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/Tableau de bord.jpg" alt=""><figcaption></figcaption></figure>
