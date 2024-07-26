@@ -15,7 +15,7 @@ description: >-
 
 Vous accéderez alors à un menu comportant plusieurs options. Les options varient selon le type d'entreprise. Cet exemple est pour une boutique multi-producteurs (hub) :&#x20;
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Entreprises - OFN Administration_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Pour enregistrer vos modifications, cliquez sur "mettre à jour" en bas de la page.&#x20;
