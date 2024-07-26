@@ -107,7 +107,7 @@ Ils diffèrent d'un pays à l'autre et dépendent des réglementations et lois l
 
 **CGU & CGV** : Indiquez vos propres CGV, associées à votre boutique, en chargeant un fichier .pdf ici :&#x20;
 
-<figure><img src="../../.gitbook/assets/Juridique-CGU-CGC cadre.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Juridique-CGU-CGC cadre (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Une fois le document sauvegardé. Il s'affichera pour l'acheteur au moment de la commande :&#x20;
 
@@ -232,6 +232,6 @@ Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
 
 **Inviter un gestionnaire :** Cliquez sur le bouton "Ajouter un nouvel utilisateur", entrez l'email de la personne à inviter, et cliquez sur "Inviter"
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 18.53.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ajouter un nouvel utilisateur cadres.jpg" alt=""><figcaption></figcaption></figure>
 
 Un email lui est automatiquement envoyé, contenant un lien de confirmation. Tant que ce lien n'a pas été ouvert, l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 18.56.51.png>)apparaît à côté de l'email de l'utilisateur. Dès que l'utilisateur clique sur ce lien, cela le renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Quand son compte est créé, vous verrez apparaître l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 19.00.08.png>) : l'utilisateur est bien devenu co-gestionnaire de l'entreprise concernée.
