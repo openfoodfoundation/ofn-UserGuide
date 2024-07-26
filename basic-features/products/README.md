@@ -8,11 +8,11 @@ Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) 
 
 Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "Import produits en lot" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
-![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Ajouter nouveau produit.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous serez redirigé vers la page suivante :
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Page création de produit.jpg" alt=""><figcaption></figcaption></figure>
 
 &#x20;**Fournisseurs :** Sélectionnez le fournisseur à l'origine du produit.
 
@@ -77,7 +77,7 @@ Lorsque vous créez un produit, vous êtes redirigé sur la page "**Produits**" 
 
 
 
-![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54 (1).png>)
+<figure><img src="../../.gitbook/assets/Catalogue produit.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Créer un produit similaire / une déclinaison du produit
 
@@ -87,9 +87,11 @@ Si vous créez deux produits similaires dont seul le prix ou la taille ou les in
 Les variantes sont un gain de temps, par exemple si vous vendez des citrons individuellement et par pack de 5 et de 10, vous aurez un produit à 3 variantes plutôt que 3 produits.
 {% endhint %}
 
-Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau grâce aux icônes à droite de celui-ci.
+Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le produit initial puis modifier le nouveau en cliquant sur l'icône de la dernière colonne du tableau.
 
-![](<../../.gitbook/assets/image (43) (1) (1) (1) (1) (2).png>)
+<figure><img src="../../.gitbook/assets/Modifier un produit cadre.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Modifer produit 2 cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Affiner les attributs des produits
 
@@ -113,6 +115,6 @@ Les champs suivants peuvent être recherchés depuis l'encart "rechercher.."\
 
 Vous pouvez définir des **mots clés de recherche** en vous rendant dans **produits > modifier > rechercher.** Les mots clés renseignés dans l'encart rouge sont examinés par la plateforme si l'acheteur utilise ce mot clé lors de sa recherche. Ceux renseignés dans l'encart vert sont examinés par des moteurs de recherche externes sur internet (ex : Google).
 
-![](<../../.gitbook/assets/image (67) (1).png>)
+<figure><img src="../../.gitbook/assets/Rechercher un produit cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 La partie Commentaires est dédié à votre usage interne, elle vous permet une prise de note associée à chaque produit.
