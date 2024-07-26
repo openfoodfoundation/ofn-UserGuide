@@ -32,11 +32,11 @@ Par défaut vous pouvez créer jusqu'à 5 profils entreprises sur la plateforme.
 
 Une fois connecté à l'interface d'administration, rendez-vous dans le menu "entreprises" et cliquez sur "nouvelle entreprise" :&#x20;
 
-![](<../../.gitbook/assets/image (43) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Nouvelle entreprise cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 Cette action vous amènera sur cette page :&#x20;
 
-![](<../../.gitbook/assets/image (46) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Entreprises - Nouvelle entreprise_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
 **Nom :** Renseignez le nom du producteur. Si vous voyez un message d'erreur vous indiquant que le nom existe déjà, cela signifie que ce producteur a déjà un compte. Dans ce cas passez directement  à l'étape 2.
 
