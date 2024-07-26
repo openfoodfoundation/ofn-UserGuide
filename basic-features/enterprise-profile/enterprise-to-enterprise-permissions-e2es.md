@@ -2,20 +2,20 @@
 
 Ces permissions doivent être octroyées pour qu'une entreprise deviennent fournisseur d'une autre ou inversement qu'une entreprise puisse distribuer les produits d'une autre. Un "droit" est accordé par une entreprise à une autre concernant l'accès / la modification des produits et du profil.
 
-![](<../../.gitbook/assets/image (61) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Permissions inter-entreprise_cadres.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 Ensuite deux paragraphes vont plus loin en présentant les permissions depuis deux points de vue différents :
 
-* ****[**Celui du hub**](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es#pour-les-hubs)****
-* ****[**Celui du producteur**](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es#pour-les-producteurs)****
+* [**Celui du hub**](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es#pour-les-hubs)
+* [**Celui du producteur**](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es#pour-les-producteurs)
 
 ## Les différentes permissions
 
 Il existe 4 différentes permissions. Elles peuvent se combiner de différentes manières afin de donner aux entreprises plus ou moins de droits suivant leurs profils.&#x20;
 
-![](<../../.gitbook/assets/image (40) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Permission inter-entreprise autorise.jpg" alt=""><figcaption></figcaption></figure>
 
 * **Permission de vendre les produits (= ajouter au cycle de vente) :** le fournisseur autorise le hub à ajouter ses produits à ses cycles de vente, donc à la vendre.
 * **Permission d'ajouter les produits au catalogue boutique :** le fournisseur autorise le hub à ajouter ses produits au [catalogue boutique](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) du hub. Le hub pourra alors modifier les prix et stock des produits _uniquement pour sa boutique à lui_, cela n'affectera pas le catalogue du fournisseur.
@@ -32,7 +32,7 @@ Pour modifier, ajouter ou supprimer des permissions, rendez-vous sur l'interface
 
 Pour accorder une permission, dans la première colonne, sélectionnez votre entreprise et dans la seconde l'entreprise à qui vous donnez des droits. Cliquez ensuite sur le type de permissions que vous souhaitez accorder. Vous pouvez sélectionner plusieurs permissions ou les sélectionner toutes en cliquant sur "TOUT". Puis cliquez sur "Créer". Notez que vous pouvez supprimer ou modifier ces permissions à tout moment.
 
-![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/permission inter entreprise_autorise 2_cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Les permissions gérées automatiquement
 
