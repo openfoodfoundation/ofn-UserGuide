@@ -232,6 +232,6 @@ Il est nécessaire qu'ils aient tout d'abord créé un compte sur la plateforme.
 
 **Inviter un gestionnaire :** Cliquez sur le bouton "Ajouter un nouvel utilisateur", entrez l'email de la personne à inviter, et cliquez sur "Inviter"
 
-<figure><img src="../../.gitbook/assets/Ajouter un nouvel utilisateur cadres.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ajouter un nouvel utilisateur cadres (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Un email lui est automatiquement envoyé, contenant un lien de confirmation. Tant que ce lien n'a pas été ouvert, l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 18.56.51.png>)apparaît à côté de l'email de l'utilisateur. Dès que l'utilisateur clique sur ce lien, cela le renverra vers le choix d'un mot de passe et lui permettra de créer son compte. Quand son compte est créé, vous verrez apparaître l'icône ![](<../../.gitbook/assets/Screen Shot 2022-09-20 at 19.00.08.png>) : l'utilisateur est bien devenu co-gestionnaire de l'entreprise concernée.

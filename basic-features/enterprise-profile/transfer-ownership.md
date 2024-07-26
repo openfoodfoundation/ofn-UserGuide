@@ -21,7 +21,7 @@ Pour ajouter un nouveau gestionnaire et éventuellement transférer la propriét
 
 Cliquez sur "Ajouter un nouvel utilisateur", entrez l'email et cliquez sur "Inviter". Un e-mail de notre part sera envoyé à l'adresse indiquée. &#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 12.59.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ajouter un nouvel utilisateur cadres.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous voyez que l'email est en attente de confirmation grâce à l'icone orange :
 
@@ -29,13 +29,13 @@ Vous voyez que l'email est en attente de confirmation grâce à l'icone orange :
 
 Dès que la personne aura confirmé son adresse et créé son mot de passe, l'icone passe au vert et la personne devient automatiquement co-gestionnaire de l'entreprise.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.00.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Nouveaux utilisateurs acceptés (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Cas 2 : La personne à ajouter possède déjà un compte utilisateur :**
 
 Cliquez sur "Ajouter un utilisateur existant", tapez l'adresse de la personne. Comme l'adresse est déjà enregistrée dans notre base de données, vous pourrez la sélectionner. C**liquez ensuite sur Mettre à jour** (bouton rouge, en bas à droite) pour enregistrer.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.06.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ajouter un gestionnaire existant_cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Changer le gestionnaire principal / transférer la propriété
 
@@ -53,4 +53,4 @@ Cette mesure est destinée à éviter la création massive de profils par des ro
 
 Il faut d'abord ajouter l'e-mail comme co-gestionnaire de l'entreprise (voir section précédente). Dès que ce sera fait, vous pourrez le sélectionner dans la liste déroulante en face de la ligne "Notifications".
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-14 at 13.14.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Notifications cadre.jpg" alt=""><figcaption></figcaption></figure>
