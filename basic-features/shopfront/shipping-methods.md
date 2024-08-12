@@ -8,11 +8,11 @@ La définition d'au moins une méthode de livraison est obligatoire avant l'ouve
 
 Pour définir une méthode de livraison, dans votre espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis sur l'onglet "**Méthodes de livraison"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.00.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Méthode de livraison_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous serez redirigé sur la page suivante :
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.05.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/formulaire_méthode de livraison_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 **1) Nom :** Choisissez un nom pour la méthode de livraison. Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande. **Le nom de la méthode est le seul champ obligatoire.**
 
@@ -39,7 +39,7 @@ _**9) Zone :** Vous pouvez spécifier une zone géographique (généralement EU\
 * Vous pouvez en créer d'autres en cliquant sur le bouton "+ Nouveau"
 * Et vous pouvez retrouver toutes les méthodes créées en cliquant sur le bouton "Retour à la liste des méthodes de livraison".
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.25.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fiche_méthode de livraison.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
