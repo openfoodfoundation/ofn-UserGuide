@@ -21,7 +21,7 @@ Dans le menu de [gestion des commandes par lot,](https://guide.openfoodnetwork.o
 
 Sur l'interface d'administration, allez dans le menu Produits, cliquez sur Modifier pour un produit donné, puis rendez-vous sur le sous-menu vertical "options d'achat par lot" :
 
-![](<../../.gitbook/assets/image (59) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Activer option d&#x27;achat par lot.jpg" alt=""><figcaption></figcaption></figure>
 
 Sélectionnez "oui". La quantité totale du lot est le nombre exact d'unités que la commande collective doit atteindre si le produit est vendu à la pièce, ou le poids total **en GRAMMES pour les produits vendus au poids et en LITRES pour les produits vendus au volume.**
 
@@ -36,7 +36,7 @@ Dans le menu commandes > [gestion des commandes par lot](https://guide.openfoodn
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter les quantités commandées pour atteindre le lot complet.
 6. Sauvegardez vos modifications
 
-![](<../../.gitbook/assets/image (69) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Gestion des commandes par lot_détails.jpg" alt=""><figcaption></figcaption></figure>
 
 **Nombre d'unités commandées** divise le total des quantités commandées par la quantité totale du lot. Si le nombre est supérieur à 1, cela signifie que la commande de l'acheteur est équivalente ou supérieure au maximum d'unités du lot. A l'inverse, si le nombre est inférieur à 1, cela signifie que le lot n'est pas encore complet. Plus vous augmentez les quantités commandées, plus ce nombre augmentera également.&#x20;
 
