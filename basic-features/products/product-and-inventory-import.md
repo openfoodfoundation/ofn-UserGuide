@@ -76,7 +76,15 @@ Comment mettre à jour des produits existants ?
 
 Le processus est similaire à la création de produit.  6 champs sont obligatoires pour que l'import fonctionne et seul 5 champs sont modifiables via l'import :
 
-<table data-header-hidden><thead><tr><th>Champs obligatoires (non modifiables)</th><th width="278.3333333333333">Champs modifiables</th><th>Champs non modifiables et non obligatoires</th></tr></thead><tbody><tr><td>Champs obligatoires (non modifiables)</td><td>Champs modifiables</td><td>Champs non modifiables et non obligatoires</td></tr><tr><td>producer</td><td>sku</td><td>variant_unit_name</td></tr><tr><td>name</td><td>price</td><td>tax_category</td></tr><tr><td>category</td><td>on_hand</td><td>shipping_category</td></tr><tr><td>units</td><td>on_demand</td><td>​description</td></tr><tr><td>unit_type (si applicable)</td><td></td><td>​</td></tr><tr><td>variant_unit_name (si applicable)</td><td>​</td><td>​</td></tr><tr><td>display_name</td><td></td><td></td></tr></tbody></table>
+| Champs obligatoires (non modifiables) | Champs modifiables | Champs non modifiables et non obligatoires |
+| ------------------------------------- | ------------------ | ------------------------------------------ |
+| producer                              | sku                | variant\_unit\_name                        |
+| name                                  | price              | tax\_category                              |
+| category                              | on\_hand           | shipping\_category                         |
+| units                                 | on\_demand         | ​description                               |
+| unit\_type (si applicable)            |                    | ​                                          |
+| variant\_unit\_name (si applicable)   | ​                  | ​                                          |
+| display\_name                         |                    |                                            |
 
 ## Importer ou mettre à jour des produits dans le [catalogue boutiques](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) <a href="#import-new-inventory" id="import-new-inventory"></a>
 
