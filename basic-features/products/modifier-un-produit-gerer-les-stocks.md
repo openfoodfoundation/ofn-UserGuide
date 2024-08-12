@@ -2,11 +2,11 @@
 
 
 
-Sur la page "**Produits**", vous retrouvez sur chaque ligne les informations générales des produits que vous avez créés.&#x20;
+Sur la page "**Produits**", vous retrouvez sur chaque ligne les informations générales des produits que vous avez créés et leurs variantes.&#x20;
 
-Pour pouvoir modifier les stocks, prix et unités, cliquez sur les flèches à gauche de chaque ligne produit afin d'afficher ses variantes.
+Pour pouvoir modifier, le producteur, les stocks, le prix, la TVA et les unités de chaque produit, cliquez sur les champs correspondants de la ligne.&#x20;
 
-![](<../../.gitbook/assets/Capture d’écran 2022-06-20 à 12.01.54.png>)
+<figure><img src="../../.gitbook/assets/Modifier un produit direct sur page produit cadres.jpg" alt=""><figcaption></figcaption></figure>
 
 Pour chaque variante, vous pouvez facilement :
 
@@ -15,10 +15,10 @@ Pour chaque variante, vous pouvez facilement :
 * Modifier le prix&#x20;
 * Modifier les stocks
 
-Pour les autres paramètres, cliquez sur l'icône "crayon", à droite de la ligne produit.
+Pour les autres paramètres, cliquez sur l'icône "Actions", à droite de la ligne produit.
 
-![](<../../.gitbook/assets/Screen Shot 2022-07-22 at 17.01.26.png>)
+<figure><img src="../../.gitbook/assets/Modifier un produit cadre (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Vous pourrez alors accéder à l'édition de tous les paramètres concernant ce produit.
 
-![](<../../.gitbook/assets/Screen Shot 2022-07-22 at 16.59.35 (1).png>)
+<figure><img src="../../.gitbook/assets/Modifier les produits en détail cadrés.jpg" alt=""><figcaption></figcaption></figure>
