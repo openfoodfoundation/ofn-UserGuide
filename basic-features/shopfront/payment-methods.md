@@ -10,11 +10,11 @@ La définition d'au moins une méthode de paiement est obligatoire avant l'ouver
 
 Dans l'espace administration, allez dans l'onglet **Entreprises** puis cliquez sur "**Paramètres",** puis  sur l'onglet "**Méthodes de paiement"** dans le menu vertical de gauche. Cliquez sur le bouton "En créer une maintenant".
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.28.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Méthode de paiement_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous serez redirigé sur la page suivante :
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.31.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/créer une méthode de paiement_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 **1) Nom :** Choisissez un nom pour la méthode de paiement (par exemple : "chèques ou espèces", ou  "Paiement en ligne par carte bancaire"). Ce nom sera affiché au client durant son processus d'achat et sur les emails de confirmation de commande.&#x20;
 
@@ -43,7 +43,7 @@ _**7) Calculateur :** à utiliser si vous souhaitez ajouter des frais de paiemen
 * Vous pouvez en créer d'autres en cliquant sur le bouton "+ Nouveau"
 * Et vous pouvez retrouver toutes les méthodes créées en cliquant sur le bouton "Retour à la liste des méthodes de paiement".
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 11.50.16 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liste méthode de paiement.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Proposer le paiement en ligne
 
@@ -65,7 +65,7 @@ Vous pouvez appliquer une commission sur la méthode de paiement si vous souhait
 
 Il faut d'abord connecter votre entreprise à un compte marchand Stripe. Si vous n'avez pas encore de compte, il faudra le créer. Pour commencer, cliquez sur le bouton "Connecter avec Stripe" (dans l'onglet Entreprises > Paramètres >  Méthodes de paiements).
 
-![](<../../.gitbook/assets/image (82) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Connexion Stripe_cadré.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous serez redirigé vers un formulaire : si vous avez déjà un compte Stripe, il suffit de vous connecter, sinon vous devez vous créer un compte. Les informations demandées incluent votre pays, votre activité, votre numéro SIREN, de TVA, votre adresse...
 
@@ -104,7 +104,7 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 5\. Sur Open Food Network, assurez-vous d'être connecté en tant que gestionnaire de l'entreprise concernée. Allez dans l'interface d'administration, puis dans le menu **Entreprises** et créez un méthode de paiement (voir ci-dessus). Sélectionnez Paypal et intégrer les informations :&#x20;
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (2).png>)
+<figure><img src="../../.gitbook/assets/Connexion Paypal.jpg" alt=""><figcaption></figcaption></figure>
 
 **Les champs suivants sont à renseigner, les autres peuvent rester vides :**
 
@@ -124,7 +124,7 @@ De là vous pouvez accéder au username de l'API, le mot de passe et la signatur
 
 ## Associer des frais aux méthodes de paiements
 
-![](<../../.gitbook/assets/image (73).png>)
+<figure><img src="../../.gitbook/assets/Calulateur_paiement_cadré.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez associer des frais aux méthodes de paiement.
 
@@ -144,7 +144,7 @@ Les frais du mode de paiement ne comprennent pas les taxes (TVA).
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (43) (1) (1) (1) (3).png>)
+<figure><img src="../../.gitbook/assets/calculateur2_paiement.jpg" alt=""><figcaption></figcaption></figure>
 
 Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 1 € et le nombre maximum d'objet est de 3. Si un client en commande 5, il paiera 2 € pour le premier, 1€ pour le second et aucune commission pour les objets 3 et 4.
 
