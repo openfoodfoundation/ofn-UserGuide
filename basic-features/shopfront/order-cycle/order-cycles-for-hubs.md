@@ -8,9 +8,9 @@ Certaines entreprises choisissent d'avoir un cycle de vente  ouvert en continu e
 
 ## Créer un nouveau cycle de vente
 
-Dans l'onglet "Cycles de vente", cliquez sur "Nouveau cycle de vente" :&#x20;
+<figure><img src="../../../.gitbook/assets/Créer nouveau cycle de vente_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.39.13.png" alt=""><figcaption></figcaption></figure>
+Dans l'onglet "Cycles de vente", cliquez sur "Nouveau cycle de vente" :&#x20;
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods) et une [méthode de paiement](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/payment-methods)
