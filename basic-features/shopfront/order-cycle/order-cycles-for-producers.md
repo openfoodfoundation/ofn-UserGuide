@@ -10,9 +10,9 @@ En créant un cycle de vente, vous définissez les périodes d'ouverture de votr
 
 Connecté en administrateur, rendez-vous sur le menu Cycle de vente ou depuis votre tableau de bord, cliquer sur le bouton suivant :
 
-![](<../../../.gitbook/assets/image (44) (1).png>)
+<figure><img src="../../../.gitbook/assets/Cycle de vente producteur_cadré.jpg" alt=""><figcaption></figcaption></figure>
 
-Puis cliquez sur "Nouveau cycle de vente".
+Puis cliquez sur "Nouveau cycle de vente" ou sur "Gérer les cycles de vente".
 
 {% hint style="info" %}
 **Attention !** Vos cycles de vente seront inactifs tant que vous n'aurez pas créé au moins une [méthode de livraison ](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods)et une méthode de paiement
@@ -20,7 +20,11 @@ Puis cliquez sur "Nouveau cycle de vente".
 
 Vous êtes alors redirigé vers l'écran suivant :&#x20;
 
-![](<../../../.gitbook/assets/image (41) (1).png>)
+<figure><img src="../../../.gitbook/assets/Nouveau cycle de vente_1.jpg" alt=""><figcaption></figcaption></figure>
+
+Choisissez votre boutique "coordinateur" puis cliquez sur "suivant". Vous allez être redirigé vers cette page&#x20;
+
+<figure><img src="../../../.gitbook/assets/Nouveau cycle de vente.jpg" alt=""><figcaption></figcaption></figure>
 
 **Commandes jusqu'au :** La date à laquelle votre boutique arrêtera d'accepter des commandes pour ce cycle de vente. Si vous souhaitez laisser votre boutique ouverte en continue, indiquer une date dans un futur très lointain.
 
