@@ -20,7 +20,7 @@ Dans l'onglet "Cycles de vente", cliquez sur "Nouveau cycle de vente" :&#x20;
 
 La première chose à faire est de sélectionner un coordinateur pour votre cycle de vente.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.41.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Coordinateur cycle de vente.jpg" alt=""><figcaption></figcaption></figure>
 
 Cette entreprise aura toutes les permissions pour modifier et gérer le cycle de vente. Les autres entreprises impliquées dans le cycle de vente (les fournisseurs ou les autres hubs) auront des accès restreints. Pour plus d'informations sur les gestions des droits entre entreprises dans le contexte des cycles de vente, cliquez [ici](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings#gestionnaires).
 
@@ -28,7 +28,7 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 4 étapes
 
 ### Étape 1. Informations générales
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.48.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Infos générales_cycle de vente_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 **1/ Nom :** Choisissez un nom pour le cycle de vente. Il sera visible uniquement de vous, donc indiquez quelque chose qui vous permettra de le retrouver facilement ensuite. Par exemple vous pouvez écrire "_Semaine 36"._
 
@@ -42,7 +42,7 @@ Une fois le coordinateur choisi vous êtes redirigé vers un écran en 4 étapes
 
 Cette section vous permet de sélectionner les produits des fournisseurs qui seront vendus durant le cycle de vente. Les producteurs visibles dans la liste déroulante sont uniquement les producteurs vous [ayant autorisé à vendre leurs produits](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es).&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 16.30.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_produits_entrants_cadrés (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **1/ Le bouton** **"Ajouter un fournisseur"** vous permet de sélectionner les produits associés à ce fournisseur.&#x20;
 
@@ -56,7 +56,7 @@ Les produits qui sont en rupture de stock s'afficheront également dans la liste
 
 **4/ Le bouton marge et commission** vous permet d'appliquer une marge différenciée selon le producteur. Par exemple, le producteur de farine achemine ses produits d'assez loin et les coûts de transport sont particulièrement élevés sur ces produits. Le hub souhaite refléter ce coût de manière transparente sur les produits de ce producteur : il va pouvoir ajouter une marge spécifique pour ce producteur, qui s’additionnera aux autres marges figurant au niveau du coordinateur ou des distributeurs (étape 3). Sélectionnez le nom de l'entreprise, puis le nom de la marge comme dans l'exemple ci-dessous:
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 16.47.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_commission_cadré.jpg" alt=""><figcaption></figcaption></figure>
 
 Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calculée en fonction du calculateur sélectionné au moment de sa création (voir page [marges et commissions](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/enterprise-fees)).
 
@@ -64,7 +64,7 @@ Cette marge s'appliquera à tous les produits du fournisseur. La marge sera calc
 
 Cette étape permet de définir les distributeurs qui vont vendre les produits du cycle de vente, et d'affiner la sélection produits selon ces distributeurs.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 14.33.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_produits sortants_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 **1/ Ajouter un distributeur** Vous pouvez ici sélectionner un ou plusieurs hubs-distributeurs, dont les boutiques respectives seront ouvertes à la commande pour ce cycle de vente. Dans un modèle simple, il n'y a qu'un seul hub-distributeur. Dans un modèle plus complexe avec plusieurs distributeurs, vous avez la possibilité de sélectionner des produits différents pour chacun et de paramétrer des dates de livraison différentes.
 
@@ -94,7 +94,7 @@ Les cycles de vente sont présentés en :
 
 :thumbsup: **gris** lorsqu'ils sont **fermés**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.08.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_tableau_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 **1/ Nom de votre cycle de vente**. Ce nom n'est visible que par vous, il n'est pas affiché au consommateur. Vous pouvez le modifier directement.
 
@@ -112,7 +112,7 @@ A noter qu'un mois après sa fermeture, un cycle de vente n’apparaît plus dir
 
 ### Etape 4. Options de commande <a href="#options-commande" id="options-commande"></a>
 
-<figure><img src="../../../.gitbook/assets/OC_link.png" alt=""><figcaption><p>Personnaliser vos méthodes de paiement et de livraison par cycle de vente</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_fin.jpg" alt=""><figcaption></figcaption></figure>
 
 La dernière étape vous permet de sélectionner les méthodes de livraison ou de paiement qui doivent s'afficher lors du parcours d'achat du cycle de vente. Par défaut, toutes vos méthodes sont sélectionnées.
 
@@ -122,9 +122,9 @@ Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoi
 
 &#x20;Pour notifier les producteurs des commandes en cours, vous avez deux choix :
 
-:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition d'un cycle de vente :
+:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition nommée "Informations générales", du cycle de vente :
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.29.08 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_notification immédiate_cadré.jpg" alt=""><figcaption></figcaption></figure>
 
 En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).
 
@@ -132,7 +132,7 @@ En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevron
 
 L'email sera envoyé automatiquement à la fin du cycle de vente (dernier jour de la prise de commandes). Cliquez sur "Paramètres avancés", puis cochez la case "Notifications automatiques", et cliquez sur "Sauvegarder" :
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-08-29 at 15.35.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle de vente_notification automatique_cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
 Le mail envoyé ressemble à ceci :
 
