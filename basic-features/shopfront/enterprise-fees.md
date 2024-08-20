@@ -13,13 +13,13 @@ Lorsqu'une marge est appliquée, le consommateur est capable de voir la **consti
 
 **1) Allez sur la page marges et commissions**
 
-En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
+<figure><img src="../../.gitbook/assets/Accéder marge et commissions-cadrés.jpg" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
+En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez sur **paramètres** et enfin sur **marges et commissions** dans le menu vertical de gauche :&#x20;
 
 **2)** Cliquez sur "**Créer une commission**". Vous êtes redirigé·e vers la page suivante :&#x20;
 
-![](<../../.gitbook/assets/image (77) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Création marge et commission .jpg" alt=""><figcaption></figcaption></figure>
 
 **Entreprise :** Dans la première colonne, sélectionnez l'entreprise qui collectera la marge.
 
@@ -33,11 +33,11 @@ En tant qu'administrateur, allez sur le menu bleu **Entreprises** puis cliquez s
 
 **Pour faire apparaître les champs de valeurs, cliquez sur "Mettre à jour"**. Vous pouvez maintenant indiquer les montants nécessaires au calcul de la marge dans la colonne **"Montant pour calculs"**.
 
-![](<../../.gitbook/assets/image (84) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Créer une marge et commission .jpg" alt=""><figcaption></figcaption></figure>
 
 ## Le calculateur
 
-![](<../../.gitbook/assets/image (51) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/Calculateur - cadré.jpg" alt=""><figcaption></figcaption></figure>
 
 **Pourcentage net** – Cette marge/commission correspond à un pourcentage pris sur le montant total de la commande.
 
@@ -55,7 +55,7 @@ Pour reporter parfaitement les frais Stripe il faudrait pouvoir cumuler les calc
 * ‘Coût des produits suivants’ : Le montant de commission pris pour les articles suivants
 * 'Produits max’ : Le nombre maximum d'articles dans le panier sur lesquels la commission va s'appliquer. Aucune commission ne sera prise sur les articles suivants.
 
-![](<../../.gitbook/assets/image (43) (1) (1) (1) (2).png>)
+<figure><img src="../../.gitbook/assets/Marge et commission_montant variable.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
