@@ -1,6 +1,6 @@
 # Wie man Geschenkgutscheine erstellt
 
-## Introduction
+## Einleitung
 
 {% hint style="warning" %}
 Die einfache Implementierung von Geschenkgutscheinen (Verkauf und Einlösung) ist derzeit keine Funktion der OFN-Plattform, obwohl wir hoffen, sie in Zukunft einführen zu können.
@@ -12,7 +12,7 @@ Eine alternative "Geschenk"-Option, die Ihr Unternehmen in Betracht ziehen könn
 
 Dies hätte für den Schenkenden den zusätzlichen Vorteil, dass die Kosten des Geschenks wöchentlich verteilt würden und nicht als Pauschalbetrag gezahlt werden müssten: Zu Weihnachten und in anderen Jahreszeiten ist der Geldfluss für alle knapp!
 
-## Process
+## Prozess
 
 {% hint style="warning" %}
 Dies ist ein mehrstufiger Prozess
