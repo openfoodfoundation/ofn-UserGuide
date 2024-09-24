@@ -72,6 +72,7 @@
     * [Wie man Geschenkgutscheine erstellt](hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
     * [Bestellungen auf Kredit annehmen](hub-management-tips/how-tos/bestellungen-auf-kredit-annehmen.md)
     * [Gutscheine vs. Etiketten](hub-management-tips/how-tos/gutscheine-vs.-etiketten.md)
+    * [Gutscheine](hub-management-tips/how-tos/gutscheine.md)
   * [Marketing-Tipps](hub-management-tips/marketing-tips.md)
   * [Soziale Medien](hub-management-tips/social-media.md)
 * [Ergänzende Software und Tools](complementary-tools-software/README.md)
