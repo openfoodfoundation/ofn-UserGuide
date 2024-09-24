@@ -56,7 +56,7 @@
   * [Newsletters & Promotional Emails](complementary-tools-software/communication.md)
   * [Accounting and Invoicing Packages](complementary-tools-software/finances/README.md)
     * [Paying suppliers with ABA files (Australia)](complementary-tools-software/finances/paying-suppliers.md)
-* [Hub management tips](hub-management-tips/README.md)
+* [Consejos para la gestión de hubs](hub-management-tips/README.md)
   * [Facebook tips](hub-management-tips/facebook-tips.md)
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
