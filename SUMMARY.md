@@ -70,6 +70,8 @@
     * [Bargeld/EFTs nur für vertrauenswürdige Kunden](hub-management-tips/how-tos/cash-efts-for-trusted-customers-only.md)
     * [Durchführung einer Social Media Promotion](hub-management-tips/how-tos/running-a-social-media-promotion.md)
     * [Wie man Geschenkgutscheine erstellt](hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
+    * [Bestellungen auf Kredit annehmen](hub-management-tips/how-tos/bestellungen-auf-kredit-annehmen.md)
+    * [Gutscheine vs. Etiketten](hub-management-tips/how-tos/gutscheine-vs.-etiketten.md)
   * [Marketing-Tipps](hub-management-tips/marketing-tips.md)
   * [Soziale Medien](hub-management-tips/social-media.md)
 * [Ergänzende Software und Tools](complementary-tools-software/README.md)
