@@ -16,7 +16,7 @@ Wenn Sie nicht sofort eine Bestätigungs-E-Mail von uns erhalten, kann es sein, 
 
 ### Erstellen Sie Ihr erstes "Unternehmens"-Konto
 
-* Sobald Sie eingeloggt sind, klicken Sie auf das obere graue Banner "Interessiert am Verkauf über das Open Food Network? **Hier registrieren!**"
+* Sobald Sie eingeloggt sind, klicken Sie auf das obere graue Banner "Sie möchten selbst im Open Food Schweiz verkaufen?   **Hier registrieren!"**
 
 ![](../.gitbook/assets/registerenterprise.jpg)
 
@@ -54,6 +54,6 @@ Ihre Adresse wird verwendet, um Ihr Unternehmen in unsere Karte der OFN-Unterneh
 
 ![](../.gitbook/assets/registration.gif)
 
-### Zugriff auf Ihr Enterprise Administration Dashboard
+### Zugriff auf die Verwaltung Ihres Unternehmens - Dashboard
 
 Sobald Sie ein Unternehmen erstellt haben, können Sie Ihr Profil über das Dashboard verwalten. Um auf das Dashboard Ihres Unternehmens zuzugreifen, melden Sie sich beim Open Food Network an und klicken Sie auf "Profil > Verwaltung" in der oberen rechten Ecke. Siehe [Dashboard](dashboard.md) für weitere Informationen.

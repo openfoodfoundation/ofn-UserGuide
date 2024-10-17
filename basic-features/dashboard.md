@@ -11,11 +11,11 @@ Die Optionen, die Sie auf Ihrem Dashboard sehen, hängen davon ab, welchen Unter
 ### Produzenten
 
 {% tabs %}
-{% tab title="Producer Profile Only" %}
+{% tab title="Nur Produzentenprofil" %}
 ![](../.gitbook/assets/dashboard-profile-only.png)
 {% endtab %}
 
-{% tab title="Producer Profile and Shop" %}
+{% tab title="Produzentenprofil und Shop" %}
 ![](../.gitbook/assets/dashboard-shop.png)
 {% endtab %}
 {% endtabs %}
@@ -23,11 +23,11 @@ Die Optionen, die Sie auf Ihrem Dashboard sehen, hängen davon ab, welchen Unter
 ### Hubs
 
 {% tabs %}
-{% tab title="Hub Profile Only" %}
+{% tab title="Nur Hub Profil" %}
 ![](../.gitbook/assets/hub-dashboard-profile-only.png)
 {% endtab %}
 
-{% tab title="Hub Profile and Shop" %}
+{% tab title="Hub Profil und Shop" %}
 ![](../.gitbook/assets/hub-dashboard-shopfront.png)
 {% endtab %}
 {% endtabs %}

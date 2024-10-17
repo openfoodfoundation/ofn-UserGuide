@@ -159,7 +159,7 @@ Wenn Sie sich dafür entscheiden, hier eine Datei hinzuzufügen, muss der Kunde 
 
 **Logo-Bild:** Es wird sichtbar sein, wenn Ihr Profil in einem Pop-up-Fenster kurz angesehen wird. Es wird auch in Ihrem Profil angezeigt. Dieses Bild muss quadratisch sein (d.h. 100 x 100), sonst wird es verzerrt dargestellt. Alle hier eingefügten Bilder werden auf 100 x 100 Pixel verkleinert.
 
-**Promo-Bild:** Dieses Bild wird horizontal am oberen Rand Ihrer Profilseite angebracht. Es sollte 1200 x 260 Pixel groß sein.
+**Promo-Bild:** Dieses Bild wird horizontal am oberen Rand Ihrer Profilseite angebracht. Es sollte 1200 x 260 Pixel gross sein.
 
 Nachfolgend ist ein Beispielprofil in seiner vollständigen Version (von der Karte oder den Schaufensterseiten) dargestellt.
 
@@ -188,7 +188,7 @@ Sichtbar nur für in Shops oder Hubs registrierte Unternehmen (d.h. unsichtbar f
 Die [Versandarten](../shopfront/shipping-methods.md), [Zahlungsarten](../shopfront/payment-methods.md) und [Unternehmensgebühren](../shopfront/enterprise-fees.md) werden in späteren Kapiteln dieses Benutzerhandbuchs ausführlicher behandelt.
 
 {% hint style="danger" %}
-Mindestens eine Zahlungs- und Liefermethode muss eingerichtet sein, damit Sie Ihr Online-Schaufenster öffnen können.
+Mindestens eine Zahlungs- und Liefermethode muss eingerichtet sein, damit Sie Ihren Online-Shop öffnen können.
 {% endhint %}
 
 ### Inventar-Einstellungen
@@ -199,53 +199,53 @@ Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 
 Für die meisten Unternehmen kann die empfohlene Einstellung verwendet werden.
 
-Fortgeschrittene Benutzer, die eine größere Flexibilität bei der Produktverwaltung benötigen, sollten die Seite "[Inventar](../products-1/inventory-tool.md)" in diesem Handbuch konsultieren, bevor sie die Einstellungen ändern.
+Fortgeschrittene Benutzer, die eine grössere Flexibilität bei der Produktverwaltung benötigen, sollten die Seite "[Inventar](../products-1/inventory-tool.md)" in diesem Handbuch konsultieren, bevor sie die Einstellungen ändern.
 
-### Tag-Regeln
+### **Stichwortregeln**&#x20;
 
 {% hint style="warning" %}
 Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 {% endhint %}
 
-In diesem Menü finden Sie alle "Tags", die den Kunden Ihres Unternehmens zugewiesen wurden.
+In diesem Menü finden Sie alle "Stichwörter", die den Kunden Ihres Unternehmens zugewiesen wurden.
 
-Tags" sind Etiketten, die Sie Kunden, Produkten und anderen Einstellungen zuweisen, um bestimmten Gruppen unterschiedlichen Zugang, Preise oder andere Vorteile zu gewähren. Sie sind besonders nützlich, wenn Sie treuen Kunden oder "Mitgliedern" Ihres Lebensmittelzentrums Vorzugspreise gewähren oder ihnen erlauben möchten, per BACS statt per PayPal/Stripe zu bezahlen.
+"Stichwörter" sind Etiketten, die Sie Kunden, Produkten und anderen Einstellungen zuweisen, um bestimmten Gruppen unterschiedlichen Zugang, Preise oder andere Vorteile zu gewähren. Sie sind besonders nützlich, wenn Sie treuen Kunden oder "Mitgliedern" Ihres Lebensmittelzentrums Vorzugspreise gewähren oder ihnen erlauben möchten, per BACS statt per PayPal/Stripe zu bezahlen.
 
 Weitere Informationen finden Sie im Abschnitt "[Kundenverwaltung und bedingte Anzeigen/Preise](../shopfront/customer-management-and-conditional-displays-prices/)".
 
-### Shop-Einstellungen
+### Laden - Einstellungen
 
 {% hint style="warning" %}
 Nur für im Shop und Hub registrierte Unternehmen sichtbar.
 {% endhint %}
 
-**Schaufenster-Nachricht:** Diese Nachricht ist optional. Wenn Sie die Nachricht ausfüllen, wird sie unter der Registerkarte "Mitteilungen" in der oberen Menüleiste angezeigt. Ihr Shop (und seine Produkte) werden unter der Registerkarte "Shop" angezeigt.
+**Willkommen-Nachricht im Laden:** Diese Nachricht ist optional. Wenn Sie die Nachricht ausfüllen, wird sie unter der Registerkarte "Mitteilungen" in der oberen Menüleiste angezeigt. Ihr Shop (und seine Produkte) werden unter der Registerkarte "Shop" angezeigt.
 
 ![Registerkarte "Mitteilungen" für Schaufenster mit einem offenen Auftragszyklus](../../.gitbook/assets/notices-one-oc.jpg)
 
 ![Registerkarte "Bekanntmachungen" für Schaufenster mit gleichzeitigen Bestellzyklen](<../../.gitbook/assets/noiticesmulitoc (2) (1).jpg>)
 
-Die Shop-Front-Nachricht oder der "Hinweis" ist eine Gelegenheit, dem Kunden grundlegende Informationen darüber zu geben, wie Ihr Geschäft funktioniert. Sie können zum Beispiel erklären, wie Ihre Bestellzyklen strukturiert sind oder welche Voraussetzungen für eine Mitgliedschaft gelten. Es könnte auch eine freundliche Begrüßung sein oder eine Gelegenheit, um für Sonderangebote zu werben. Sie können Links zu externen Websites (vielleicht um zu zeigen, wo Ihre Produkte angebaut werden), zu sozialen Medien und mehr einfügen.
+Die Willkommen-Nachricht oder der "Hinweis" ist eine Gelegenheit, dem Kunden grundlegende Informationen darüber zu geben, wie Ihr Geschäft funktioniert. Sie können zum Beispiel erklären, wie Ihre Bestellzyklen strukturiert sind oder welche Voraussetzungen für eine Mitgliedschaft gelten. Es könnte auch eine freundliche Begrüssung sein oder eine Gelegenheit, um für Sonderangebote zu werben. Sie können Links zu externen Websites (vielleicht um zu zeigen, wo Ihre Produkte angebaut werden), zu sozialen Medien und mehr einfügen.
 
 Wenn Sie dieses Feld leer lassen, wird die Registerkarte "Bekanntmachungen" nicht auf der Startseite Ihres Shops angezeigt.
 
 ![](../../.gitbook/assets/nonoticestab.jpg)
 
-**Schaufenster geschlossen Nachricht:** Diese Nachricht wird sowohl unter den Registerkarten "Mitteilungen" als auch "Shop" angezeigt, wenn Ihr Schaufenster geschlossen ist (kein aktiver Bestellzyklus). So können Sie Ihren Kunden mitteilen, wann der Shop das nächste Mal geöffnet sein wird und Bestellungen entgegennimmt.
+**"Laden geschlossen" - Nachricht:** Diese Nachricht wird sowohl unter den Registerkarten "Mitteilungen" als auch "Shop" angezeigt, wenn Ihr Laden geschlossen ist (kein aktiver Bestellzyklus). So können Sie Ihren Kunden mitteilen, wann der Shop das nächste Mal geöffnet sein wird und Bestellungen entgegennimmt.
 
 {% hint style="success" %}
-TIPP: Kopieren Sie Ihre "ShopFront Message" und fügen Sie sie in die "Shopfront Closed Message" ein. Dann können Sie Ihre Kunden darüber informieren, wie Ihr Shop funktioniert, auf externe Websites mit weiteren Informationen über Ihre Produkte und Ethik usw. verlinken und ihnen mitteilen, wann der nächste Bestellzyklus eröffnet wird.
+TIPP: Kopieren Sie Ihre "Willkommen - Nachricht" und fügen Sie sie in die "Laden geschlossen - Nachricht" ein. Dann können Sie Ihre Kunden darüber informieren, wie Ihr Shop funktioniert, auf externe Websites mit weiteren Informationen über Ihre Produkte und Ethik usw. verlinken und ihnen mitteilen, wann der nächste Bestellzyklus eröffnet wird.
 {% endhint %}
 
 ![Geschlossene Schaufensterfront mit individueller Botschaft](../../.gitbook/assets/closedmessageyes.jpg)
 
 ![Geschlossene Schaufenster mit Standardmeldung](../../.gitbook/assets/closedmessageno.jpg)
 
-**Schaufenster Kategorie Bestellung:** Standardmäßig sind die Produkte in Ihrem Shop alphabetisch geordnet. Sie können wählen, ob Sie die Produkte in der Reihenfolge ihrer Kategorie anzeigen lassen möchten. In diesem Fall werden die Produkte in der Reihenfolge der Kategorie und dann in alphabetischer Reihenfolge innerhalb ihrer Kategorie angezeigt. So können Sie z. B. Ihre Fleisch- und Fischprodukte ganz oben anzeigen lassen, während Ihre weniger wichtigen Produkte wie Essiggurken und Konserven weiter unten im Schaufenster erscheinen.
+**Produkteanordnung nach Kategorie :** Standardmässig sind die Produkte in Ihrem Shop alphabetisch geordnet. Sie können wählen, ob Sie die Produkte in der Reihenfolge ihrer Kategorie anzeigen lassen möchten. In diesem Fall werden die Produkte in der Reihenfolge der Kategorie und dann in alphabetischer Reihenfolge innerhalb ihrer Kategorie angezeigt. So können Sie z. B. Ihre Fleisch- und Fischprodukte ganz oben anzeigen lassen, während Ihre weniger wichtigen Produkte wie Essiggurken und Konserven weiter unten im Schaufenster erscheinen.
 
-**Sortieren der Bestellzyklen im Schaufenster nach:** Wenn in Ihrem Schaufenster [mehrere Bestellzyklen gleichzeitig geöffnet sind](../shopfront/order-cycle/opening-more-than-one-order-cycle.md), können Sie die Reihenfolge auswählen, in der sie im Schaufenster erscheinen. Sie können sie nach Schließungsdatum (Schließung am frühesten) oder nach Öffnungsdatum (Öffnung am frühesten) sortieren.
+**Sortieren der Bestellzyklen im Laden nach:** Wenn in Ihrem Online - Shop [mehrere Bestellzyklen gleichzeitig geöffnet sind](../shopfront/order-cycle/opening-more-than-one-order-cycle.md), können Sie die Reihenfolge auswählen, in der sie im Schaufenster erscheinen. Sie können sie nach Schliessungsdatum (Schliessung am frühesten) oder nach Öffnungsdatum (Öffnung am frühesten) sortieren.
 
-**Öffentlich sichtbares Schaufenster?** Wenn Sie "öffentlich" wählen, kann jeder Käufer auf Ihr Schaufenster zugreifen und eine Bestellung aufgeben. Wenn Sie "nur für registrierte Kunden sichtbar" wählen, werden Kunden, die Ihren Shop besuchen, aufgefordert, sich anzumelden, und nur die Benutzer, die auf Ihrer Kundenliste stehen, erhalten Zugang zu Ihrem Shop. Erfahren Sie mehr über die [Funktion des privaten Shops](../shopfront/private-shopfront.md).
+**Öffentlich sichtbarer Laden?** Wenn Sie "öffentlich" wählen, kann jeder Käufer auf Ihren Laden zugreifen und eine Bestellung aufgeben. Wenn Sie "nur für registrierte Kunden sichtbar" wählen, werden Kunden, die Ihren Laden besuchen, aufgefordert, sich anzumelden, und nur die Benutzer, die auf Ihrer Kundenliste stehen, erhalten Zugang zu Ihrem Shop. Erfahren Sie mehr über die [Funktion des privaten Shops](../shopfront/private-shopfront.md).
 
 **Gastbestellungen?** Wenn Sie die Option "Gastbestellungen zulassen" wählen, müssen sich Ihre Kunden nicht beim OFN anmelden, um bei Ihnen einkaufen zu können, d.h. sie brauchen kein Benutzerkonto. Wenn Sie die zusätzliche Sicherheit haben möchten, dass Ihre Kunden ein OFN-Konto haben müssen, um eine Bestellung aufzugeben, wählen Sie "Anmeldung für die Bestellung erforderlich".
 
@@ -255,7 +255,7 @@ Damit ein Kunde ein OFN-Konto hat, muss er die E-Mail bestätigen, die er bei de
 Die Einstellung "Gastbestellungen" ist nicht anwendbar, wenn Sie sich für "nur für registrierte Kunden sichtbar" entschieden haben.
 {% endhint %}
 
-**Bestellungen ändern:** Wir empfehlen die Standardeinstellung "Erteilte Aufträge können nicht geändert oder storniert werden", insbesondere wenn Sie "Gastkunden" (d.h. Personen ohne OFN-Konto) erlauben, Aufträge zu erteilen. Dies dient nur dazu, dass Sie als Shop- oder Hub-Manager den Überblick über Zahlungseingänge und Rückerstattungen behalten können. Wenn ein Kunde seine Bestellung ändern möchte, können Sie dies in seinem Namen über die Funktion "[Bestellung bearbeiten](../orders/view-orders.md#editing-an-order)" tun.
+**Bestellungen ändern:** Wir empfehlen die Standardeinstellung "Erteilte Aufträge können nicht geändert oder storniert werden", insbesondere wenn Sie "Gastkunden" (d.h. Personen ohne OFN-Konto) erlauben, Aufträge zu erteilen. Dies dient nur dazu, dass Sie als Laden- oder Hub-Manager den Überblick über Zahlungseingänge und Rückerstattungen behalten können. Wenn ein Kunde seine Bestellung ändern möchte, können Sie dies in seinem Namen über die Funktion "[Bestellung bearbeiten](../orders/view-orders.md#editing-an-order)" tun.
 
 {% hint style="success" %}
 Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist. Dies ist NUR möglich, wenn Sie den Anbieter der [Zahlungsmethode](../shopfront/payment-methods.md) 'Bargeld/EFT/...' verwenden.
@@ -271,7 +271,7 @@ Wenn Sie sich für die Option "Kunden können Bestellungen ändern oder stornier
 Es werden weder automatisch [Rückerstattungen](../orders/refunds-and-adjusting-payments.md) an den Kunden ausgestellt, noch werden automatisch zusätzliche Gelder eingezogen.
 {% endhint %}
 
-**Abonnements:** Wenn Sie Ihren Kunden anbieten möchten, regelmäßig wiederkehrende Bestellungen aufzugeben, können Sie hier die [Abonnementfunktion](../subscriptions/) aktivieren.
+**Abonnements:** Wenn Sie Ihren Kunden anbieten möchten, regelmässig wiederkehrende Bestellungen aufzugeben, können Sie hier die [Abonnementfunktion](../subscriptions/) aktivieren.
 
 **Kundennamen in Berichten.** Wenn Sie Produkte von anderen Lieferanten/Herstellern vertreiben, können diese Berichte erstellen, die Details zu ihren Produkten zeigen, die über Ihre Auftragszyklen verkauft wurden.Mit dieser Option können Sie die Namen der Kunden in diesen Berichten sichtbar machen. Je nach Ihrem Vertriebsmodell kann dies für Produzenten notwendig sein, um Bestellungen zu verpacken und an die Kunden zu verteilen.
 
@@ -279,10 +279,10 @@ Es werden weder automatisch [Rückerstattungen](../orders/refunds-and-adjusting-
 
 ### Benutzer
 
-**Eigentümer:** Dies ist die E-Mail-Adresse des Hauptnutzers, der für dieses Unternehmen verantwortlich ist. Er hat die Befugnis, alle Aspekte des Profils zu ändern. Nur der Besitzer kann den Besitzer ändern, indem er aus der Liste der Unternehmensmanager auswählt. Dieser Benutzer hat ein Sternchen neben seinem Namen im Feld "Manager".
+**Eigentümer/in:** Dies ist die E-Mail-Adresse des Hauptnutzers, der für dieses Unternehmen verantwortlich ist. Er/sie hat die Befugnis, alle Aspekte des Profils zu ändern. Nur der Besitzer kann den Besitzer ändern, indem er/sie aus der Liste einen Unternehmensmanager auswählt. Diese/r Benutzer/in hat ein Sternchen neben seinem Namen im Feld "Manager".
 
 **Benachrichtigungen:** Dies ist die E-Mail des Benutzers, an den die Korrespondenz des OFN-Systems gerichtet wird, z. B. Auftragsbestätigungen usw. Nur der Eigentümer kann den Benutzer, der die Benachrichtigungen erhalten soll, in der Liste der Unternehmensmanager benennen. Dieser Benutzer hat ein Briefumschlagsymbol neben seinem Namen im Managerfeld.
 
-**Verwalter:** Andere OFN-Benutzer, denen die Erlaubnis erteilt wurde, dieses Konto zu verwalten. Möchten Sie einen neuen Manager hinzufügen? Sie können nach vorhandenen E-Mails von Benutzern suchen, die sich für ein OFN-Konto registriert haben, und sie als Manager hinzufügen. Wenn Sie keinen Benutzer für die gesuchte E-Mail finden, existiert der Benutzer noch nicht im OFN, Sie müssen ihn einladen (siehe nächster Punkt).
+**Verwalter/in:** Andere OFN-Benutzer, denen die Erlaubnis erteilt wurde, dieses Konto zu verwalten. Möchten Sie einen neuen Manager hinzufügen? Sie können nach vorhandenen E-Mails von Benutzern suchen, die sich für ein OFN-Konto registriert haben, und sie als Manager/in hinzufügen. Wenn Sie keinen Benutzer für die gesuchte E-Mail finden, existiert der Benutzer noch nicht im OFN, Sie müssen ihn/sie einladen (siehe nächster Punkt).
 
-**Manager einladen:** Hier können Sie einen Manager hinzufügen, der nicht bei OFN registriert ist.Wenn Sie ihn hinzufügen, erhält er eine E-Mail-Bestätigung. Wenn er seine E-Mail bestätigt, kann er ein Passwort festlegen und sich anmelden, um dieses Unternehmen zu verwalten.
+**Manager/in einladen:** Hier können Sie eine/n Manager/in hinzufügen, der nicht bei OFN registriert ist. Wenn Sie ihn hinzufügen, erhält er eine E-Mail-Bestätigung. Wenn er seine E-Mail bestätigt, kann er ein Passwort festlegen und sich anmelden, um dieses Unternehmen zu verwalten.

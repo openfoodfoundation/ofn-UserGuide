@@ -37,7 +37,7 @@ Mit dieser Option können Sie ein Schaufenster betreiben, in dem nur die Produkt
 Weitere Informationen über die Schnellanleitung für diese Art von Profil finden Sie [hier](../../quick-start-guides/).
 {% endtab %}
 
-{% tab title="Producer Hub (Multi-Produzenten-Shop)" %}
+{% tab title="Produzenten Hub (Multi-Produzenten-Shop)" %}
 #### Sie möchten sowohl Ihre Produkte als auch die anderer Hersteller/Lieferanten verkaufen
 
 Mit dieser Option können Sie ein Geschäft verwalten, in dem Sie sowohl eigene Produkte als auch Produkte anderer lokaler Hersteller verkaufen. Sie können Produkte von jedem Produzenten verkaufen, der Ihnen die [Erlaubnis](create-or-connect-with-your-supplying-producers.md) dazu erteilt hat.
@@ -46,7 +46,7 @@ Weitere Informationen über die Schnellanleitung für diese Art von Profil finde
 {% endtab %}
 {% endtabs %}
 
-## Für Nicht-produzenten (Hubs)
+## Für Nicht-Produzenten (Hubs)
 
 Zwei Arten von Profilen stehen den Nicht-Produzenten (Händlern/Hubs) zur Verfügung:
 
