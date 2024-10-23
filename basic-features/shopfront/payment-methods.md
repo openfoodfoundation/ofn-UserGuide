@@ -76,7 +76,7 @@ Von hier aus können Sie auf Ihren API-Benutzernamen, Ihr Passwort und Ihre Sig
 
 Vergewissern Sie sich, dass Sie **in OFN** als Ihr Unternehmensbenutzer angemeldet sind. Gehen Sie zu einem Unternehmen und erstellen Sie eine Zahlungsmethode. Wählen Sie PayPal und geben Sie die Details von der PayPal-Website ein.
 
-**Server:** Ändern Sie das Feld "Server" in "Live" - Groß- und Kleinschreibung ist zu beachten.
+**Server:** Ändern Sie das Feld "Server" in "live" - Groß- und Kleinschreibung ist zu beachten.
 
 **Login:** Geben Sie den API-Benutzernamen ein.
 
