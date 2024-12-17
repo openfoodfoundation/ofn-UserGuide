@@ -86,6 +86,14 @@ Le processus est similaire à la création de produit.  6 champs sont obligatoir
 | variant\_unit\_name (si applicable)   | ​                  | ​                                          |
 | display\_name                         |                    |                                            |
 
+{% hint style="info" %}
+**Attention aux unités de volume :** Avant d'importer votre fichier de produits, vérifiez que les unités de volume (_unit\_type)_ des produits affichés sur le fichier soient similaires aux unités de volume de ces mêmes produits, dans votre boutique.
+
+Ex: (mL sur votre boutique = mL sur votre fichier d'import)\
+\
+
+{% endhint %}
+
 ## Importer ou mettre à jour des produits dans le [catalogue boutiques](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/inventory-tool) <a href="#import-new-inventory" id="import-new-inventory"></a>
 
 Tout d'abord, téléchargez le modèle sur la page d'import et ouvrez-le avec Libre Office (ou Excel ou équivalent).
