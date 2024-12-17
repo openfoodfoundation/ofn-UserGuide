@@ -46,7 +46,7 @@ Aussi, dans le menu "rapports", le fournisseur pourra là aussi voir les command
 Le gestionnaire du cycle de vente peut choisir de laisser le fournisseur du cycle de vente visualiser le nom des **acheteurs**. Ce choix se fait dans les préférences Boutiques.\
 
 
-<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Option "Affichage du nom des acheteurs"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cycle_de_vente_nom_acheteur_annoté.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Produits entrants
 
