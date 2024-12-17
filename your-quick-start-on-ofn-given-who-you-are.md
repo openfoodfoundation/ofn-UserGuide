@@ -60,7 +60,7 @@ Attention, les marchés fermiers peuvent être définis soit comme un groupe de 
 Agriculteurs, boulangers, cultivateurs, entreprises artisanales, petits exploitants...
 {% endhint %}
 
-Vous choisirez cette catégorie si vous êtes vous-même producteur et souhaitez **vendre** _**uniquement**_** les produits** **que vous fabriquez.**
+Vous choisirez cette catégorie si vous êtes vous-même producteur et souhaitez **vendre** _**uniquement**_**&#x20;les produits** **que vous fabriquez.**
 
 Vous pourrez&#x20;
 

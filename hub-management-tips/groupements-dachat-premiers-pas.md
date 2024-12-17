@@ -1,9 +1,9 @@
 # Groupements d'achat / groupement de producteurs : premiers pas
 
 Un groupement permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les client·e·s/adhérent·e·s/membres). Sur CoopCircuits, il y a trois types d'"**entreprise"** :\
-**- une boutique simple** : un producteur qui vend ses propres produits\
-**- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
-**- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
+&#xNAN;**- une boutique simple** : un producteur qui vend ses propres produits\
+&#xNAN;**- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
+&#xNAN;**- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
 
 Un Groupement d'Achat (GA) ou un groupement de producteurs est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
 
@@ -21,7 +21,7 @@ Nous allons vous guider pas à pas pour la mise en place de la boutique multi-pr
 
 <figure><img src="../.gitbook/assets/schéma GA - uniquement GA.png" alt=""><figcaption></figcaption></figure>
 
-* Il faut d'abord créer un compte. Rendez-vous sur [cette page](https://coopcircuits.fr/register/auth?after\_login=%2Fregister#/signup) et entrez votre email et mot de passe. (si vous avez déjà un compte, cliquez sur l'onglet "Se connecter")
+* Il faut d'abord créer un compte. Rendez-vous sur [cette page](https://coopcircuits.fr/register/auth?after_login=%2Fregister#/signup) et entrez votre email et mot de passe. (si vous avez déjà un compte, cliquez sur l'onglet "Se connecter")
 * Dans votre client de messagerie, ouvrez l’e-mail de CoopCircuits et **cliquez sur le lien d'activation** de votre compte
 * Connectez-vous et suivez les étapes d'inscription :
 

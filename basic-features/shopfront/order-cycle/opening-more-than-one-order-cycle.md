@@ -10,7 +10,7 @@ L'acheteur pourra naviguer facilement de l'un à l'autre en cliquant sur la list
 
 Depuis l'onglet "Cycles de vente", créez un nouveau cycle de vente grâce au bouton "Nouveau cycle de vente", ou en dupliquant un autre cycle de vente.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.27.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Nouveau cycle de vente_annoté.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez :
 
@@ -19,7 +19,7 @@ Vous pouvez :
 * Choisir des commissions différentes si vous souhaitez que les prix soient variables selon les cycles de vente
 * Définir différentes dates de retrait : c'est ce qui apparaîtra dans l'encart "Prêt pour", comme dans l'image ci-dessous pour un cycle de vente d'une boutique (pour les boutiques multi-producteurs, c'est à l'étape 3 du cycle de vente, dans la colonne "Détails de livraison) :
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2022-11-14 à 17.27.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cycle_de_vente_pret_pour_annoté (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Définir l'ordre d'affichage de vos cycles de vente dans la liste déroulante**
 
@@ -27,7 +27,7 @@ Vous pouvez choisir si vous souhaitez les afficher par date de fermeture ou par 
 
 Il suffit de vous rendre dans le menu Entreprises > Gérer > Préférences boutique :&#x20;
 
-![](<../../../.gitbook/assets/image (35) (1).png>)
+<figure><img src="../../../.gitbook/assets/cycle_de_vente_paramètres_annoté.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Masquer les cycles de vente pour certains acheteurs**
 
