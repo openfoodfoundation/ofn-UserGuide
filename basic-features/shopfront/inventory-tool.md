@@ -16,7 +16,7 @@ La fonctionnalité catalogue boutique permet à un hub-distributeur A de modifie
 
 Pour y accéder, rendez-vous sur **Entreprises**, puis "**paramètres**" et enfin "c**atalogue boutique**" dans le menu vertical de gauche :
 
-![](<../../.gitbook/assets/image (42) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/catalogue_boutique_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous avez deux options :&#x20;
 
@@ -27,11 +27,9 @@ Vous avez deux options :&#x20;
 
 Cliquez sur le menu **Produits** dans l'interface d'administration, puis sur **Catalogue** **boutique** dans le sous menu vert. Si vous gérez plusieurs boutiques, il vous sera demandé d'en sélectionner une car chaque catalogue est géré indépendamment.&#x20;
 
-![](<../../.gitbook/assets/image (65) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/catalogue_boutique2_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
-
-![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
+Lors de chaque visite de ce catalogue boutique, si de nouveaux produits ont été ajoutés par vos fournisseurs, **un message vous alertera sur le fait que vous avez de nouveaux produits disponibles pouvant être ajoutés à votre catalogue**. Tant que ce ne sera pas fait, ils resteront dans la catégorie "**Nouveaux produits**".
 
 En cliquant sur "**vérifier maintenant**" vous serez redirigé vers la liste des **nouveaux produits**.
 
@@ -49,7 +47,7 @@ Pour rappel, si l'option choisie dans les [paramètres](https://guide.openfoodne
 
 Via le bouton colonnes à droite, vous pouvez choisir les éléments de paramétrage que vous souhaitez pouvoir voir et modifier lorsque cela est permis.&#x20;
 
-![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/catalogue_boutique_colonne_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Modifier pour votre boutique les prix, stocks et références produits
 
@@ -66,11 +64,15 @@ Cette colonne permet de revenir à un stock par défaut, par exemple au début d
 
 C'est utile par exemple pour les hubs-distributeurs qui savent que chaque mois ils auront de nouveaux arrivages définis pour certains produits pour remettre leur stock défini à niveau avant la prochaine vente.
 
+<figure><img src="../../.gitbook/assets/catalogue_boutique_stock_edit.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Hériter ?
 
 Si vous n'avez rien modifié sur un produit, la case à cocher "hériter?" est sélectionnée par défaut. Cela signifie que les informations entrées par le producteur et visibles en gris seront reprises et publiées sur la boutique. En modifiant tous les champs ou juste certains, cette case à cocher se dé-sélectionnera automatiquement.
 
 Pour revenir aux informations producteurs, vous pouvez à tout moment re-sélectionner cette case.
+
+<figure><img src="../../.gitbook/assets/catalogue_boutique_herite_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Masquer des produits
 
@@ -79,6 +81,8 @@ En cliquant sur le bouton masquer, les produits en question disparaîtront de la
 {% hint style="warning" %}
 N'oubliez pas de sauvegarder vos modifications !
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/catalogue_boutique_masquer_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Produits masqués
 
@@ -94,4 +98,4 @@ Sur cette page, vous pouvez décider d'ajouter à votre catalogue boutique certa
 
 Dans le menu Cycle de vente > Modifier un cycle de vente, si vous cliquez sur "paramètres avancés" vous disposez d'une option pour choisir si - sur ce cycle en particulier - les informations viennent de votre catalogue ou directement des fournisseurs :
 
-![](<../../.gitbook/assets/image (46) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/cycle_de_vente_CBO_edit.jpg" alt=""><figcaption></figcaption></figure>
