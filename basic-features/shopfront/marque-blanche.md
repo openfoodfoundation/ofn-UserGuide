@@ -5,7 +5,7 @@ Ces changements s'appliqueront à tous les écrans de la boutique.&#x20;
 
 Vous pouvez accéder aux fonctions de marque blanche via le menu Paramètres d'entreprise de votre tableau de bord.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.48.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/marque_blanche_edit (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Masquer la navigation du site
 
@@ -13,11 +13,11 @@ Cochez la case "Masquer la navigation du site" pour supprimer les liens d'en-tê
 
 **Lorsque la navigation du site est visible, votre boutique affiche cette en-tête :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.41.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/logoCC.jpg" alt=""><figcaption></figcaption></figure>
 
 **Lorsque la navigation du site est invisible, votre boutique affiche cette en-tête :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-31 à 15.40.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/logoCC_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Personnaliser le logo utilisé pour la boutique
 
@@ -25,15 +25,21 @@ Pour remplacer le logo d'en-tête Open Food Network (CoopCircuits, Open Food Net
 
 Dans les paramètres de marque blanche, à côté de "Logo utilisé pour la boutique", cliquez sur "Choisir un fichier" pour télécharger un fichier de logo depuis votre ordinateur. Le nom du fichier à télécharger s'affichera à côté du bouton "Choisir un fichier". Cliquez sur "Mettre à jour" en bas de l'écran pour enregistrer les modifications et voir votre fichier image affiché. L'image sera redimensionnée en format 217 x 44.
 
+<figure><img src="../../.gitbook/assets/marque_blanche_nav.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Personnaliser le lien du logo
 
 Ajouter un lien personnalisé à votre logo. Par exemple le site Web de votre entreprise ou les médias sociaux afin que, lorsqu'un client clique sur votre logo, il soit redirigé vers le site de votre choix.
 
 Entrez le lien dans le champ "Lien vers le logo utilisé pour la boutique" dans la section Marque blanche. Cliquez sur Mettre à jour pour enregistrer.
 
+<figure><img src="../../.gitbook/assets/marque_blanche_lien.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Cacher l'onglet GROUPES de votre boutique
 
 Si votre boutique est associée à un [Groupe](https://guide.openfoodnetwork.org/v/fr/basic-features/groups) et qu'elle dispose de l'onglet "Groupes" et que vous n'y voyez pas d'intérêt, vous pouvez sélectionner la case "cacher l'onglet groupe dans la boutique" afin que celui-ci n'apparaisse plus dans votre boutique
+
+<figure><img src="../../.gitbook/assets/marque_blanche_groupe (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Créer un onglet personnalisé dans la boutique
 
@@ -45,7 +51,7 @@ Enfin, vous pouvez saisir le texte de l'onglet dans "contenu de l'onglet personn
 
 Exemple : création d'un onglet "FAQ" (Foire aux questions)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-20 à 09.47.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/marque_blanche_faq (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Affichage de l'onglet personnalisé "FAQ" sur la boutique&#x20;
 

@@ -8,7 +8,7 @@ Des bons de réductions peuvent être créés afin de faire bénéficier vos cli
 
 Vous pouvez configurer des bons de réduction depuis l'espace [Paramètres de l'Entreprise](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-settings).
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 11.24.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bon_reduction_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -17,9 +17,9 @@ Vous pouvez configurer des bons de réduction depuis l'espace [Paramètres de l'
 * Cliquez sur "Bon de réduction" depuis le menu de gauche de l'espace paramètres d'entreprise
 * Cliquez sur le bouton "Ajouter Nouveau" qui se situe en haut à droite de la page
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 11.48.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bon_reduction_creer_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 11.49.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bon_reduction_creer2_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 * **CODE PROMO** - Le code que vous allez saisir ici bénéficiera d'une réduction. Le code correspond à une chaine de caractère alors vérifiez l’orthographe, les majuscules/minuscules et les espaces avant l'enregistrement.&#x20;
 * **TYPE DE PROMO** - Vous allez pouvoir ici choisir entre un mode de calcul de la remise en pourcentage ou en montant fixe.
@@ -43,7 +43,7 @@ Depuis la page bon de réduction de l'espace paramètres d'entreprise, utilisez 
 
 Pensez à cliquer sur "Mettre à jour" pour enregistrer les modifications apportées.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-02 à 15.01.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bon_reduction-maj_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
