@@ -6,7 +6,7 @@ Tous les acheteurs ayant passé une commande sur votre boutique se trouvent sur 
 
 Vous pouvez également ajouter manuellement un acheteur via le bouton "nouvel acheteur". Seul les acheteurs dans cette liste peuvent se voir attribuer un tag, donc être associés à une catégorie d'acheteur donnée.
 
-![](<../../../.gitbook/assets/image (42).png>)
+<figure><img src="../../../.gitbook/assets/Acheteurs.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Adresse de facturation et de livraison par défaut
 
@@ -22,6 +22,6 @@ Les acheteurs peuvent être associés à des catégories spécifiques, qui vont 
 
 Vous pouvez créer une nouvelle catégorie d'acheteur en créant directement un nouveau tag, en l'associant à un acheteur donné. Pour ajouter un tag, il vous suffit de taper ce tag dans la colonne dédiée (menu **Acheteurs**). Un acheteur peut avoir plusieurs tags et bien évidemment un tag peut être lié à plusieurs acheteurs. Pour ce deuxième point, la seconde fois que vous taperez le tag dans la colonne correspondante, il vous sera suggéré via une liste déroulante. Faites bien attention à le sélectionner dans cette liste (les tags sont sensibles à la casse donc à l'usage de majuscules / minuscules).
 
-![](<../../../.gitbook/assets/image (52) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/Acheteurs_tags.jpg" alt=""><figcaption></figcaption></figure>
 
 Notez que les tags apparaissent également dans les [rapports](https://guide.openfoodnetwork.org/v/fr/basic-features/reports). Vous pouvez donc les utilisez lors des exports csv/excel pour filtrer rapidement les données.

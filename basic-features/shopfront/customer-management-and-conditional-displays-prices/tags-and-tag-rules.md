@@ -15,23 +15,23 @@ Allez sur le menu **Entreprises** > **Paramètres** > **Règles de tag.**
 
 Cliquez sur "**Ajouter une règle par défaut**".
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.28.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Régles de tags_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-Choisir le type de règle et validez.
+Choisir le type de règle et validez.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.27.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Choix_règles de tag.jpg" alt=""><figcaption></figcaption></figure>
 
 Entrez le tag pour lequel vous souhaitez rendre invisible la fonctionnalité. Par exemple ici, nous rendons invisible par défaut les cycles de vente tagués "ce-entreprise" :
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 13.32.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tags_pardéfaut_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-Maintenant, cliquez sur le bouton rouge "**Ajouter une règle conditionnelle**", puis sur "**Ajouter une nouvelle règle**".&#x20;
+Maintenant, cliquez sur le bouton "**Ajouter une règle conditionnelle**", puis sur "**Ajouter une nouvelle règle**".&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.38.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tags_régleconditionnelle_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Entrez les noms des tags désirés dans les champs disponibles. Par exemple, dans l'exemple ci-dessous, nous définissons que seuls les acheteurs ayant le tag "ce-entreprise", pourront voir les cycles de vente tagués "ce-entreprise". Ces cycles de vente seront invisibles pour tous les acheteurs ne disposant pas de ce tag.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.37.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tags_ceentreprise_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -41,7 +41,7 @@ Nous devons maintenant ajouter les tags au niveau des fonctionnalités à rendre
 
 Dans l'onglet "Cycle de vente", modifiez votre cycle de vente et entrez le nom du tag dans le champ "tag".
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-11-24 at 12.47.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tags_cycledevente_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Pour les boutiques multi-producteurs, le tag est à l'étape 3 du cycle de vente.
 
@@ -51,13 +51,13 @@ Pour cette règle, modifiez votre méthode de livraison dans l'onglet Entreprise
 
 Dans l'exemple ci-dessous, la méthode de livraison "à domicile" est taggée "vip".
 
-![](<../../../.gitbook/assets/image (53) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/tags_livraison (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### Afficher ou masquer des méthodes de paiement&#x20;
 
 Pour cette règle, modifiez votre méthode de livraison dans l'onglet Entreprise > bouton Paramètres > onglet Méthodes de paiement.  Dans l'exemple ci-dessous, un paiement sur facture sera une option proposée uniquement aux acheteurs professionnels.&#x20;
 
-![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/tags_paiement (2).jpg" alt=""><figcaption></figcaption></figure>
 
 #### Afficher ou masquer des variantes dans ma boutique
 
