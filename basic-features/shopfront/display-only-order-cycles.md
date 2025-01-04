@@ -10,7 +10,7 @@ Si vous utilisez la même méthode de paiement pour plusieurs boutiques, ce para
 
 
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-21 at 14.42.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/boutique_invisible_paiement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Et le tour est joué ! Vos produits s'affichent sur votre boutique, mais la boutique est bien affichée comme fermée à la commande. Exemple ci-dessous :&#x20;
 

@@ -16,7 +16,7 @@ Dans l'onglet Entreprises, cliquez sur les Paramètres de votre entreprise. Puis
 
     Le bénéfices de cette option, est que vous pouvez inviter (par email par exemple), vos clients en leur envoyant le lien URL direct de votre entreprise. L'inconvénient est que si l'url est partagée, vous pouvez avoir des commandes par des personnes à qui vous n'aviez pas donné le lien vers votre boutique.
 
-![](<../../.gitbook/assets/Screen Shot 2022-08-11 at 15.57.21.png>)
+<figure><img src="../../.gitbook/assets/boutique_privee_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,15 +28,17 @@ Voici ce que verra un utilisateur non-connecté ou non-membre de votre liste d'a
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 00.19.08.png" alt=""><figcaption></figcaption></figure>
 
+{% include "../../.gitbook/includes/recommendations.md" %}
+
 Pour activer cette fonctionnalité, allez dans les préférences de votre boutique (**onglet** **Entreprises** > **Paramètres** > **Préférences Boutique),** puis cochez l'option "Visible uniquement pour les acheteurs connectés et figurant sur la liste "acheteurs" de la boutique (boutique privée)"
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-20 at 00.40.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/preference_boutique_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Pour gérer votre liste d'acheteurs, allez sur l'onglet "**Acheteurs**" du menu principal :&#x20;
 
-![](<../../.gitbook/assets/image (65).png>)
+<figure><img src="../../.gitbook/assets/Acheteurs.jpg" alt=""><figcaption></figcaption></figure>
 
 Ajoutez de nouveaux acheteurs manuellement via le bouton "nouvel acheteur". Vous pouvez supprimer les acheteurs auxquels vous ne souhaitez plus donner accès à votre boutique.
 
