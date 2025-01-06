@@ -176,7 +176,17 @@ Les étapes seront les suivantes :
 
 Vous pouvez alors ajuster la quantité, dans la colonne quantité, ou supprimer des produits. Le total affiché au-dessus se modifiera automatiquement en conséquence. Il peut s'avérer pertinent d'envoyer une alerte email aux clients : **la plateforme ne génère pas automatiquement une alerte lors de la modification d'une commande**.
 
+<figure><img src="../../.gitbook/assets/commandes_lot_quantité_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 #### **La case à cocher "ressource partagée"**&#x20;
+
+Pour accéder à cette fonctionnalité, cliquez sur le nom d'un des produits qui apparait dans la colonne "produit /unité" de votre tableau de commandes par lot.&#x20;
+
+<figure><img src="../../.gitbook/assets/commandes_produit_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 Cette case à cocher permet d'appliquer les modifications à toutes les variantes des produits. En la laissant décochée vous pouvez modifier variante par variante. Dans l'exemple ci-dessous, on voit que les variantes "1kg" et "3kg" du produit carotte sont bien affichées.&#x20;
 
@@ -194,7 +204,7 @@ Nous allons prendre l'exemple d'une caisse de viande de 10 kg :
 4. Modifiez les valeurs de poids (le prix changera automatiquement) dans la colonne correspondante
 5. Cliquez sur "mettre à jour" dans la barre de bas de page
 
-![](<../../.gitbook/assets/image (62).png>)
+<figure><img src="../../.gitbook/assets/commande_lot2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Vue acheteur des commandes
 
