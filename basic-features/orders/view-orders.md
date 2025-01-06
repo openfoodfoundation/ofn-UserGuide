@@ -8,7 +8,7 @@ Cette page liste toutes les commandes passées sur la plateforme pour votre /vos
 
 Les filtres présents sur la page peuvent vous aider à accéder plus rapidement à la / aux commande(s) recherchée(s). Vous pouvez filtrer par date, statut, distributeur concerné, cycle de vente, ou via l'email ou le nom de l'acheteur.
 
-![](<../../.gitbook/assets/image (64) (1).png>)
+<figure><img src="../../.gitbook/assets/commandes_edit (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Distributeur :** Il s'agit de l'entreprise (distributeur) via laquelle les commandes recherchées ont été passées.
 
@@ -49,7 +49,7 @@ Cliquez sur l’icône "check" pour indiquer que la commande a été payée (mon
 
 ![](<../../.gitbook/assets/image (68) (1).png>)
 
-![](<../../.gitbook/assets/image (71) (1).png>)
+<figure><img src="../../.gitbook/assets/Commandes2_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 **Capturer la commande comme étant expédiée :**&#x20;
 
@@ -65,13 +65,13 @@ Remarque : le statut de paiement et de livraison peut aussi être modifié depui
 
 A droite de la ligne de commande, le bouton suivant vous permet d'accéder à la page de modification / gestion générale de la commande
 
-![](<../../.gitbook/assets/image (76).png>)
+<figure><img src="../../.gitbook/assets/commandes_modifier_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez aussi y accéder en cliquant sur le numéro de commande depuis le tableau.
 
 Voici l'affichage de la page de gestion d'une commande :&#x20;
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+<figure><img src="../../.gitbook/assets/Commandes_page_edit (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### **Ajouter et supprimer des produits d'une commande**
 
@@ -79,7 +79,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée (vous de
 
 #### Diverses fonctionnalités sont disponibles via le bouton "actions"
 
-![](<../../.gitbook/assets/image (52) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/commandes_actions_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 * **Renvoyer la confirmation :** Si vous avez modifié le contenu d'une commande, il peut être pertinent de renvoyer une nouvelle confirmation de commande - mise à jour - à l'acheteur.
 * **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
@@ -97,7 +97,7 @@ Attention : ce document appelé "facture" doit pour la Belgique être modifié p
 
 Les informations acheteur (email, adresses de facturation et livraison) sont accessibles depuis le menu de droite.
 
-![](<../../.gitbook/assets/image (77) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/commandes_acheteur_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 **Modifier le montant d'une commande**
 
@@ -109,13 +109,21 @@ Un ajustement peut aussi servir à capturer un remboursement effectué à un ach
 
 Un paiement partiel par exemple peut être capturer via le menu "paiement" en sélectionnant "nouveau paiement", ce qui ne peut pas être fait par l'action rapide de capture du paiement via l'icône "check".
 
+<figure><img src="../../.gitbook/assets/commandes_paiements_edit (1).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/commande_nv paiement_edit.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Impression des factures par lot
 
 Il est possible de sélectionner les commandes visibles sur la page (vous pouvez utiliser l'outil de sélection pour afficher jusqu'à 100 commandes) afin de générer un PDF agrégeant les factures des commandes sélectionnées via le bouton "imprimer les factures".
 
 Une fois le bouton cliqué, une fenêtre de chargement s'ouvrira. Lorsque le chargement est terminé un bouton sera affiché afin d'ouvrir dans une nouvelle page le fichier PDF agrégeant toutes les factures correspondantes aux commandes sélectionnées :&#x20;
 
-![](<../../.gitbook/assets/image (84) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/commandes_factures_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/commandes_factures2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Par défaut, les commandes seront classées par date de commande. Vous pouvez également les classer par une autre variante (statut livraison, statut du paiement, etc.) en sélectionnant la variante souhaitée.
@@ -125,9 +133,11 @@ Par défaut, les commandes seront classées par date de commande. Vous pouvez é
 
 La liste des commandes présente les commandes alors que cette page liste les produits commandés. Cela permet de modifier en masse plusieurs commandes qui contiennent le même produit (changement de quantité, produit en rupture, etc). La page se présente la manière suivante :&#x20;
 
-![](<../../.gitbook/assets/image (80).png>)
+<figure><img src="../../.gitbook/assets/commandes_lot_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-**Date de début et de fin** **:** Vous pouvez filtrer l'affichage des produits en fonction des dates de commandes.
+
+
+**Recherche rapide :** Sans aller jusqu'à l'utilisation des filtres, vous pouvez aussi tout simplement taper un mot-clé dans ce champ (cela peut être le nom d'un acheteur ou d'un produit).
 
 **Producteur :** Vous pouvez filtrer sur un producteur en particulier.
 
@@ -135,13 +145,13 @@ La liste des commandes présente les commandes alors que cette page liste les pr
 
 **Cycle de vente** **:** Vous pouvez filtrer sur un cycle de vente en particulier.
 
-**Quick Search :** Sans aller jusqu'à l'utilisation des filtres, vous pouvez aussi tout simplement taper un mot-clé dans ce champ (cela peut être le nom d'un acheteur ou d'un produit).
+**Période** **:** Vous pouvez filtrer l'affichage des produits en fonction des dates de commandes.
 
 **Actions :** En cochant les cases à gauche des lignes, vous pouvez appliquer des modifications en masse en passant par le bouton action (ex : vous souhaitez supprimer toutes les commandes liées à un produit).
 
 **Colonnes :** Vous pouvez gérer vous-même l'affichage des colonnes qui vous sont utiles (voir ci-dessous).
 
-![](<../../.gitbook/assets/image (37).png>)
+<figure><img src="../../.gitbook/assets/commandes_lot_colonne_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Notez que vous pouvez également trier chaque colonne en cliquant sur son titre. Un clic pour un ordre de A à Z, un second pour l'ordre inverse.
 
