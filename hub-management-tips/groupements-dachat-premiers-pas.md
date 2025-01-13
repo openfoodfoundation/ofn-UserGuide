@@ -84,7 +84,7 @@ Vous devez ensuite leur demander de vous [**donner la permission de vendre leurs
 
 Une fois que vos fournisseurs vous auront donné les permissions, elles apparaîtront dans votre onglet Entreprises > Permissions.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-09-20 at 12.57.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Permissions inter-entreprise_cadres.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Si vous souhaitez trouver de nouveaux fournisseurs, vous pouvez consulter la [carte de CoopCircuits](https://coopcircuits.fr/map) et contacter les producteurs qui vous intéressent.
