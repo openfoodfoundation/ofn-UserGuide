@@ -2,12 +2,12 @@
 
 
 
-## 1) Activez les commandes récurrentes <a href="#1-enable-subscriptions" id="1-enable-subscriptions"></a>
+## 1) Activez les commandes récurrentes <a href="#id-1-enable-subscriptions" id="id-1-enable-subscriptions"></a>
 
-Activez le module en vous rendant sur les paramètres de votre profil > préférences boutique : \
+Activez le module en vous rendant sur les paramètres de votre profil > **préférences boutique** : \
 
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+<figure><img src="../../.gitbook/assets/Abonnement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 **Abonnements (= commande récurrente) :** Pour activer, sélectionnez "Activée".
 
@@ -18,7 +18,7 @@ Activez le module en vous rendant sur les paramètres de votre profil > préfér
 * Si vous permettez à l'acheteur de modifier la commande il va pouvoir à chaque nouvelle commande automatiquement passée en son nom modifier les quantités achetées et retirer des produits. Pour en ajouter, il devra faire une nouvelle commande.
 * Dans le cas contraire, ils devront vous contacter pour réaliser des modifications. Ils pourront cependant toujours réaliser une nouvelle commande.
 
-## 2) Vérifiez les méthodes de paiement et de livraison <a href="#2-make-sure-you-have-shipping-and-payment-methods-setup" id="2-make-sure-you-have-shipping-and-payment-methods-setup"></a>
+## 2) Vérifiez les méthodes de paiement et de livraison <a href="#id-2-make-sure-you-have-shipping-and-payment-methods-setup" id="id-2-make-sure-you-have-shipping-and-payment-methods-setup"></a>
 
 Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous indiquiez les méthodes de paiement et de livraison choisies, qui s'appliqueront donc automatiquement à chaque commande passée en leur nom par le système.
 
@@ -44,7 +44,7 @@ Par exemple, au lieu de l'appeler "Paiement par carte bancaire", vous pouvez l'a
 
 ![](<../../.gitbook/assets/image (89) (1).png>)
 
-## 3) Récupérer les informations auprès de vos acheteurs <a href="#3-gather-information-from-your-customers" id="3-gather-information-from-your-customers"></a>
+## 3) Récupérer les informations auprès de vos acheteurs <a href="#id-3-gather-information-from-your-customers" id="id-3-gather-information-from-your-customers"></a>
 
 Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certaines informations :
 
@@ -60,7 +60,7 @@ Pour créer un abonnement pour vos acheteurs, vous allez avoir besoin de certain
 
 **Dates** : la date de début et de fin de la commande récurrente. Pour rappel, pour qu'une commande récurrente soit passée pour un acheteur sur un cycle de vente donné, la date de début de la commande récurrente peut être située avant ou après la date de début du cycle de vente, en revanche la date de fin de la commande récurrente doit obligatoirement se situer après la date de fin du cycle de vente.
 
-## 4) Ajoutez les nouveaux acheteurs à votre liste <a href="#4-add-your-subscribers-to-your-customer-list" id="4-add-your-subscribers-to-your-customer-list"></a>
+## 4) Ajoutez les nouveaux acheteurs à votre liste <a href="#id-4-add-your-subscribers-to-your-customer-list" id="id-4-add-your-subscribers-to-your-customer-list"></a>
 
 Avant de mettre en place une commande récurrente pour un utilisateur, vous devez l'ajouter à votre [liste d'acheteurs. ](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-configuration#4-add-your-subscribers-to-your-customer-list)
 
@@ -74,7 +74,7 @@ Ainsi, nous recommandons le processus suivant :\
 3- Ecrivez-lui en lui demandant de se créer un compte sur la plateforme (et si vous utilisez le prélèvement automatique par Stripe d'enregistrer une carte et vous autoriser à prélever dessus)\
 4- Créer ensuite seulement leur [commande récurrente ](https://guide.openfoodnetwork.org/v/fr/basic-features/subscriptions/subscriptions-creating-and-managing-orders#6-create-subscriptions)
 
-## 5) Les rythmes d'abonnement <a href="#5-schedules" id="5-schedules"></a>
+## 5) Les rythmes d'abonnement <a href="#id-5-schedules" id="id-5-schedules"></a>
 
 {% hint style="info" %}
 S'il s'agit de votre première utilisation d'Open Food Network, nous vous conseillons de vous familiariser tout d'abord avec le concept de [cycle de vente](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/order-cycle).
