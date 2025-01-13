@@ -92,13 +92,13 @@ Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récur
 
 Une fois les premières étapes réalisées, vous allez voir apparaître le bouton "rythme d'abonnement" dans le menu Cycle de vente. Cliquez dessus pour créer un nouveau rythme d'abonnement :&#x20;
 
-![](<../../.gitbook/assets/image (77).png>)
+<figure><img src="../../.gitbook/assets/rythme_abonnement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Attention, vous devez au moins avoir un cycle de vente ouvert ou à venir pour pouvoir configurer un rythme d'abonnement.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (83) (1).png>)
+<figure><img src="../../.gitbook/assets/rythme_abonnement2.jpg" alt=""><figcaption></figcaption></figure>
 
 **Nom :** Pensez à donner un nom logique au rythme d'abonnement. Par exemple : "hebdomadaire", "mensuel", "un jeudi sur deux"... Ce nom n'est pas visible pour les acheteurs.
 
@@ -114,7 +114,7 @@ Cliquez sur "Créer" lorsque vous avez terminé.
 
 Pour modifier ou supprimer un rythme, cliquez sur son nom dans la colonne correspondante du tableau des cycles de vente. Cette colonne peut être être rendue visible grâce à ce menu sur la page Cycle de vente :&#x20;
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+<figure><img src="../../.gitbook/assets/rythme_abonnement3_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrentes y sont associées.
@@ -124,7 +124,7 @@ Vous ne pouvez pas supprimer un rythme d'abonnement si des commandes récurrente
 
 Soit vous utilisez la fonctionnalité de modification d'un rythme décrite ci-dessus, soit vous pouvez utiliser la fonction présente dans la modification d'un cycle de vente, en ajoutant ou supprimant un rythme d'abonnement :&#x20;
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+<figure><img src="../../.gitbook/assets/rythme_abonnement4.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Un même cycle de vente peut se retrouver dans plusieurs rythmes d'abonnement !
