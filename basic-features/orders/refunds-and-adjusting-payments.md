@@ -27,13 +27,20 @@ Si le paiement a été effectué via votre compte marchand Stripe, le remboursem
 
 La commande que vous souhaitez ajuster est notée comme "payée" :&#x20;
 
-![](<../../.gitbook/assets/image (58).png>)
+<figure><img src="../../.gitbook/assets/Commande_payé_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-Vous allez vouloir soit saisir l'ajustement en édition de cette commande, soit modifier le poids du produit réel dans "gestion des commandes par lot, par exemple". Ici nous prenons le cas d'une modification de poids livré réellement à un acheteur :&#x20;
+Vous allez vouloir soit saisir l'ajustement en édition de cette commande, c'est à dire modifier le poids du produit réel dans "**gestion des commandes par lot**, par exemple". Ici nous prenons le cas d'une modification de poids livré réellement à un acheteur : \
+\
+**Avant ajustement**&#x20;
 
-![](<../../.gitbook/assets/image (43).png>)
+<figure><img src="../../.gitbook/assets/Gestion C_poids_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-&#x20;Vous constatez ensuite la commande modifiée avec le crédit sur la commande, et vous pouvez alors cliquer sur le symbole "Créditer" ici encadré sur l'image pour lancer le remboursement par Stripe sur le compte du client du crédit dû :&#x20;
+**Après ajustement** \
+
+
+<figure><img src="../../.gitbook/assets/Gestion C_poids2_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+Vous constatez ensuite la commande modifiée avec le crédit sur la commande, et vous pouvez alors cliquer sur le symbole "Créditer" ici encadré sur l'image pour lancer le remboursement par Stripe sur le compte du client du crédit dû :&#x20;
 
 ![](<../../.gitbook/assets/image (39).png>)
 
@@ -51,7 +58,9 @@ Les frais prélevés par Stripe (1,4% + 0,25 cts par transaction - voir les mont
 
 Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :&#x20;
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+<figure><img src="../../.gitbook/assets/Commande annulée_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Commande annulée2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### b- Paiement via Paypal
 
