@@ -16,9 +16,11 @@ Vous pouvez voir les groupes existants en cliquant sur le lien "Groupes" dans le
 
 Une fois administrateur du groupe, vous aurez accès au menu groupe. Vous visualisez alors les groupes pour lesquels vous êtes administrateur et pouvez aller modifier le paramétrage du groupe.&#x20;
 
-![](<../../.gitbook/assets/image (59).png>)
+<figure><img src="../../.gitbook/assets/groupes_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-### ![](<../../.gitbook/assets/image (54).png>)
+###
+
+<figure><img src="../../.gitbook/assets/groupes2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Informations de base
 
@@ -32,9 +34,9 @@ Une fois administrateur du groupe, vous aurez accès au menu groupe. Vous visual
 
 **Permalink (unique, no space) :** C'est l'élément qui s'affichera dans le lien url de la page de votre groupe, après le début d'url suivant : https://www.openfoodnetwork.be/groups/permalink
 
-### Utilisateurs
+### Gestionnaires
 
-**Gestionnaire principal :** Cet utilisateur a les droits d'administration du groupe (modification, ...) Contactez-nous si vous souhaitez changer le gestionnaire.
+**Le gestionnaire principal** a les droits d'administration du groupe (modification, ...). Contactez-nous si vous souhaitez changer le gestionnaire.
 
 ### A propos
 
