@@ -14,15 +14,13 @@ Rappel : dans la première version du module, seuls les gestionnaires de boutiqu
 * [Ajoutez vos acheteurs à votre liste d'acheteurs](broken-reference)
 * Créez au moins un [rythme d'abonnement​](broken-reference)
 
-## 6) Créer une commande récurrente <a href="#6-create-subscriptions" id="6-create-subscriptions"></a>
+## 6) Créer une commande récurrente <a href="#id-6-create-subscriptions" id="id-6-create-subscriptions"></a>
 
-Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Abonnements**.&#x20;
+Allez dans le menu général "Commandes" puis cliquez sur le sous-menu vert **Abonnements**. Cliquez ensuite sur "**Nouvel abonnement**", pour renseigner les informations demandées.&#x20;
 
-![](<../../.gitbook/assets/image (68).png>)
+<figure><img src="../../.gitbook/assets/Commande_abonnement_edit (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Cliquez ensuite sur "Nouvel abonnement" :&#x20;
-
-![](<../../.gitbook/assets/image (70).png>)
+<figure><img src="../../.gitbook/assets/Nouvel_abonnement2.jpg" alt=""><figcaption></figcaption></figure>
 
 **Acheteur :** Sélectionnez un acheteur dans la liste déroulante (seuls les acheteurs présents dans votre liste d'acheteurs peuvent être sélectionnés).
 
@@ -46,7 +44,7 @@ Si la date de fin de la commande récurrente de l'acheteur se situe après la da
 
 **Adresse :** Complétez les coordonnées de votre acheteur (s'il était déjà connu de la plateforme, donc si l'acheteur a un compte et à déjà passé commande et rempli son adresse donc, les champs seront pré-remplis).&#x20;
 
-![](<../../.gitbook/assets/image (82).png>)
+<figure><img src="../../.gitbook/assets/Abonnement_adresse.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Attention : si vous mettez à jour les coordonnées d'un acheteur depuis votre liste d'acheteurs, ces modifications ne seront pas répercutées sur les commandes récurrentes paramétrées. Vous devrez donc aussi préciser ces changements ici.
@@ -54,7 +52,7 @@ Attention : si vous mettez à jour les coordonnées d'un acheteur depuis votre l
 
 **Ajouter des produits :** Vous pouvez ajouter des produits proposé par le distributeur à condition que ces produits soient planifiés à la vente dans un cycle de vente à venir, et que ce cycle de vente corresponde au rythme d'abonnement choisi par l'acheteur.&#x20;
 
-![](<../../.gitbook/assets/image (47).png>)
+<figure><img src="../../.gitbook/assets/Abonnement_ajout.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Vous ne pouvez pas ajouter un produit si ce dernier n'est pas proposé à la vente dans un cycle de vente futur correspondant au rythme d'abonnement de l'acheteur ! Un message d'erreur s'affichera le cas échéant.
@@ -74,13 +72,13 @@ Les prix des produits dans les commandes récurrentes seront mis à jour selon l
 
 Dans ce cas, l'acheteur sera alerté de l'indisponibilité de certains produits dans sa confirmation de commande.&#x20;
 
-## 7) Modifier la commande récurrente d'un acheteur <a href="#7-edit-a-customers-subscription" id="7-edit-a-customers-subscription"></a>
+## 7) Modifier la commande récurrente d'un acheteur <a href="#id-7-edit-a-customers-subscription" id="id-7-edit-a-customers-subscription"></a>
 
 ### Modifier tout l'abonnement <a href="#edit-the-base-subscription" id="edit-the-base-subscription"></a>
 
 Depuis la page **Abonnements**, cliquez sur le bouton "modifier" à côté de la commande que vous souhaitez modifier.
 
-![](<../../.gitbook/assets/image (89).png>)
+<figure><img src="../../.gitbook/assets/abonnement_myriam_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 A partir de là vous pouvez modifier les produits de la commande récurrente, la méthode de livraison ou de paiement, ainsi que les dates de début et de fin.&#x20;
 
@@ -102,7 +100,7 @@ Si vous supprimez une commande alors qu'un cycle de vente est toujours ouvert, u
 \
 
 
-![](<../../.gitbook/assets/image (55).png>)
+<figure><img src="../../.gitbook/assets/abonnement_myriam2_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Mettre en pause une commande récurrente <a href="#pause-a-subscription" id="pause-a-subscription"></a>
 
@@ -112,7 +110,7 @@ Si vous mettez en pause une commande alors qu'un cycle de vente est toujours ouv
 
 
 
-## 8) Comment sont traitées les commandes récurrentes par la plateforme ? <a href="#8-how-subscriptions-are-processed" id="8-how-subscriptions-are-processed"></a>
+## 8) Comment sont traitées les commandes récurrentes par la plateforme ? <a href="#id-8-how-subscriptions-are-processed" id="id-8-how-subscriptions-are-processed"></a>
 
 Une fois une commande récurrente en place pour un acheteur donné, comment cette commande est-elle traitée par le système à chaque ouverture / fermeture d'un cycle de vente ?
 
