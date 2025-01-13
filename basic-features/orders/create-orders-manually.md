@@ -26,15 +26,17 @@ Indiquez les quantités. Une fois tous les produits ajoutés, cliquez sur **mett
 
 
 
-Cliquez sur **Ajustements** ou directement sur **Paiements** (à droite de l'écran) avant de continuer et sélectionner une méthode de livraison :&#x20;
+Ensuite, cliquez sur l'icône "modifier" à droite de la ligne "Expédition" pour modifier la méthode de livraison :&#x20;
 
-![](<../../.gitbook/assets/image (63).png>)
+<figure><img src="../../.gitbook/assets/Commande_livraison_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-Ensuite vous pouvez réaliser des ajustements comme l'ajout d'une commission. Continuez.
+Ensuite, cliquez sur **"Ajustements"** dans le menu de droite **puis sur l'onglet "Nouvel ajustement"** pour réaliser des ajustements comme l'ajout d'une commission. Continuez.
 
-La dernière étape est le choix de la méthode de paiement : \
+<figure><img src="../../.gitbook/assets/Commande_ajustement_edit.jpg" alt=""><figcaption></figcaption></figure>
+
+La dernière étape est le choix de la méthode de paiement. Cliquez sur **"Paiements"** dans le menu de droite **puis sur l'onglet "Nouveau paiement"** pour modifier la méthode de paiement. \
 
 
-![](<../../.gitbook/assets/image (50).png>)
+<figure><img src="../../.gitbook/assets/Commande_paiement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Cliquez sur **mettre à jour** et envoyez un email de confirmation à l'acheteur.
