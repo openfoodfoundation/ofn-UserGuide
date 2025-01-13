@@ -2,14 +2,14 @@
 
 Vous pouvez accéder à la page de génération de rapport via le menu **Rapports.** Ce qu'on appelle "rapport" est en réalité une liste prédéfinie d'exports de données. Chaque rapport peut être afficher en ligne ou téléchargé au format PDF, Tableur (Excel, Libre Office,...) ou CSV.
 
-![](<../../.gitbook/assets/image (71).png>)
+<figure><img src="../../.gitbook/assets/rapports_edit.jpg" alt=""><figcaption></figcaption></figure>
 
 Des options de mises en forme sont disponibles sur tous les rapports de la même manière :&#x20;
 
-1. Vous avez des filtres par date, boutiques, producteurs et cycle de vente
-2. Vous pouvez choisir des options de mises en forme
+1. Vous avez des **filtres** par date, boutiques, producteurs et cycle de vente
+2. Vous pouvez choisir des options de **mises en forme**
 
-![](<../../.gitbook/assets/image (66).png>)
+<figure><img src="../../.gitbook/assets/rapports2.jpg" alt=""><figcaption></figcaption></figure>
 
 * **Afficher une ligne titre ou une ligne total** : la ligne titre permet de voir plus rapidement comment les données sont regroupées. La ligne total affiche en générale les totaux de commandes
 * **Colonnes à masquer** : vous pouvez choisir les colonnes que vous ne souhaitez pas afficher
