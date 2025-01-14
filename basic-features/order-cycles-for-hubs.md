@@ -14,7 +14,9 @@ Per exemple, cada dilluns al matí, un grup obre la seva botiga i incorpora els 
 
 Podeu crear un cicle de comandes i veure els cicles de comanda anteriors fent clic a ‘**Gestiona los ciclos de pedido**’ al tauler d’administració:
 
-![](../.gitbook/assets/order_cycle.png)
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-01-14 a les 9.48.21.png" alt=""><figcaption></figcaption></figure>
+
+
 
 O des del menú horitzontal que hi ha a la part superior de la pàgina:
 
@@ -100,7 +102,9 @@ Els cicles de comanda es mostraran de color verd quan estiguin actius, grocs qua
 
 **Botó ‘Notificar a la productora’**
 
-Algunes organitzacions utilitzen aquesta eina com una manera de notificar als seus proveïdors quins productes s'han demanat, en quines quantitats i també per donar-los instruccions de recepció. En fer clic en aquest botó s'enviarà un correu electrònic a l’adreça de contacte del perfil de la productora. S’enviarà a totes les productores incloses en aquest cicle de comandes i sumarà totes les comandes incloses en aquest cicle de comandes:
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-01-14 a les 9.39.04.png" alt=""><figcaption></figcaption></figure>
+
+Algunes organitzacions utilitzen aquesta eina com una manera de notificar als seus proveïdors quins productes s'han demanat, en quines quantitats i també per donar-los instruccions de recepció. En fer clic en aquest botó s'enviarà un correu electrònic a **l’adreça de contacte del perfil de la productora**. S’enviarà a totes les productores incloses en aquest cicle de comandes i sumarà totes les comandes incloses en aquest cicle de comandes:
 
 Benvolgut \<nom de la productora>,
 
