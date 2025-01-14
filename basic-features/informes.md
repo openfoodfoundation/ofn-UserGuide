@@ -1,14 +1,8 @@
 # Informes
 
-Accediu als informes fent clic a **Informes** en el menú horitzontal.
+Accediu als informes fent clic a **Informes** en el menú horitzontal. Això us portarà a una taula que inclou tots els informes disponibles.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-01-14 a les 9.53.56.png" alt=""><figcaption></figcaption></figure>
-
-
-
-Això us portarà a una taula que inclou tots els informes disponibles.
-
-![](../.gitbook/assets/informes.png)
 
 Els dos informes més útils i d'ús general són el **Total de proveïdors del cicle de comandes** i els **Totals de consumidors del cicle de comandes**. Si teniu previst atendre les vostres comandes de forma individual, l'informe **Total de consumidors del cicle de comandes** us serà més rellevant. Si teniu intenció de realitzar comandes en lots corresponents a un cicle de comandes, també us serà útil el **Total de proveïdors de cicles de comandes**. Els informes de **Llista de correu** i **Adreces** també són útils per gestionar els detalls dels vostres clients. L'informe **% d’impostos** és útil per a les organitzacions que treballen amb informes amb IVA. Finalment, l'informe **Bulk Co-op (comandes en bloc)** ajuda a la presa de decisions de comandes en grup, en bloc.
 
