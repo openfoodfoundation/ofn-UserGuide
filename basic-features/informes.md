@@ -2,7 +2,9 @@
 
 Accediu als informes fent clic a **Informes** en el menú horitzontal.
 
-![](../.gitbook/assets/informess.png)
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-01-14 a les 9.53.56.png" alt=""><figcaption></figcaption></figure>
+
+
 
 Això us portarà a una taula que inclou tots els informes disponibles.
 
