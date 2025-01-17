@@ -36,7 +36,7 @@ Dans le menu commandes > [gestion des commandes par lot](https://guide.openfoodn
 5. Grâce à l'information dans la colonne "nombre max d'unité commandées", vous pouvez augmenter les quantités commandées pour atteindre le lot complet.
 6. Sauvegardez vos modifications
 
-<figure><img src="../../.gitbook/assets/Gestion des commandes par lot_détails.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2025-01-17_07-45-28.jpg" alt="Copie d&#x27;écran pour la gestion des commandes configurées en achat par lots"><figcaption></figcaption></figure>
 
 **Nombre d'unités commandées** divise le total des quantités commandées par la quantité totale du lot. Si le nombre est supérieur à 1, cela signifie que la commande de l'acheteur est équivalente ou supérieure au maximum d'unités du lot. A l'inverse, si le nombre est inférieur à 1, cela signifie que le lot n'est pas encore complet. Plus vous augmentez les quantités commandées, plus ce nombre augmentera également.&#x20;
 
