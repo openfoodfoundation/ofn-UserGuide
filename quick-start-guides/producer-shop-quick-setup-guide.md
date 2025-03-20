@@ -11,7 +11,7 @@ Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Sch
 1. [Registrieren Sie Ihr Unternehmen.](../basic-features/register-and-create-your-profile.md)\
    Wählen Sie die [Pakettypen ](../basic-features/enterprise-profile/package-types.md)"Produzent" und "Laden" und vervollständigen Sie Ihre [Unternehmenseinstellungen](../basic-features/enterprise-profile/enterprise-settings.md) mit Ihren Unternehmensdaten.
 2. Listen Sie Ihre [Produkte](../basic-features/products-1/) auf.
-3. Richten Sie eine Auswahl an [Zahlungsarten](../basic-features/shopfront/payment-methods.md) ein, die Ihren Kunden zur Verfügung stehen (Nachnahme, Online-Zahlung per Kreditkarte, usw.).
+3. Richten Sie eine Auswahl an [Zahlungsarten](../basic-features/shopfront/payment-methods.md) ein, die Ihren Kunden zur Verfügung stehen (Barbezahlung, Online-Zahlung per Kreditkarte, usw.).
 4. Richten Sie eine Auswahl an [Lieferoptionen ](../basic-features/shopfront/shipping-methods.md)für Ihre Kunden ein\
    ("Click and Collect"-Service mit Abholzeit und -ort, Lieferung nach Hause usw.).
 5. Richten Sie einen [Bestellzyklus](../basic-features/shopfront/order-cycle/) ein: Dieser öffnet Ihren Shop zu dem von Ihnen festgelegten Startdatum!
@@ -26,7 +26,7 @@ Alle Daten, die Sie für die Vorbereitung und Lieferung der Lebensmittel an Ihr
 
 Ihr Unternehmensprofil:
 
-* Sie möchten nicht nur Ihre Produkte verkaufen, sondern auch einem anderen Verkäufer, der das OFN (einen lokalen OFN-Laden) nutzt, erlauben, Ihre Produkte in seinem Shop anzubieten?[ Geben Sie ihnen die Erlaubnis, Ihre Produkte zu verkaufen.](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
+* Sie möchten nicht nur Ihre Produkte verkaufen, sondern auch einem anderen Verkäufer, der das OFN (einen lokalen OFN-Laden) nutzt, erlauben, Ihre Produkte in seinem Shop anzubieten?[ Geben Sie ihm die Erlaubnis, Ihre Produkte zu verkaufen.](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
 
 Ihre Produkte:
 
@@ -37,6 +37,6 @@ Ihre Produkte:
 
 Ihr Shop:
 
-* Sie können den [Zugang ](../basic-features/shopfront/private-shopfront.md)zu Ihrem Shop so einschränken, dass Ihr Shop nur für "Mitglieder" oder eingeladene Kunden zugänglich ist. So können Sie z. B. Mitgliedern Ihrer Organisation, die alle zu Ihrem Erfolg beigetragen haben, vergünstigte Produkte anbieten oder Sie können nur an bestimmte gewerbliche Kunden verkaufen.
+* Sie können den [Zugang ](../basic-features/shopfront/private-shopfront.md)zu Ihrem Shop so einschränken, dass Ihr Shop nur für "Mitglieder" oder eingeladene Kunden zugänglich ist. So können Sie z. B. Mitgliedern Ihrer Organisation, die alle zum Funktionieren ihres Shops beigetragen haben, vergünstigte Produkte anbieten oder Sie können nur an bestimmte gewerbliche Kunden verkaufen.
 * Sie können bestimmten Kundengruppen unterschiedliche Preise anbieten oder unterschiedliche Waren anzeigen, indem Sie [Kundengruppen (mittels "Stichwörtern")](../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) festlegen und [benutzerdefinierte Anzeigen und Preise verwenden.](../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
 * Wenn Sie nur auf OFN sichtbar sein, aber keine Waren über die Plattform verkaufen möchten, können Sie ein [reines Profil](../basic-features/shopfront/) einrichten.

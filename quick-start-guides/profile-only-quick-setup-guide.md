@@ -6,7 +6,7 @@ description: Einfache Schritte für den Einstieg in ein OFN-Profil.
 
 Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Schritten:
 
-![Vier Schritte, um Ihre OFN-Reise zu beginnen.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Vier Schritte zur Eröffnung Ihres OFN-Profils.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
 1. [Registrieren Sie Ihr Unternehmen.](../basic-features/register-and-create-your-profile.md)\
    Wählen Sie die [Pakettypen](../basic-features/enterprise-profile/package-types.md) "Produzent" und "Profil" und vervollständigen Sie Ihre [Unternehmenseinstellungen](../basic-features/enterprise-profile/enterprise-settings.md) mit Ihren Unternehmensdaten.
@@ -29,7 +29,7 @@ Sie können Ihr Produzentenprofil nach Produktkategorien durchsuchbar machen, au
 ## Erweiterte Funktionen, die Sie möglicherweise benötigen
 
 * Ihre Produkte:
-  * Geben Sie besondere [Referenzen](../basic-features/products-1/product-properties.md) an (z. B. Bio, plastikfrei...)
+  * Geben Sie besondere [Eigenschaften](../basic-features/products-1/product-properties.md) an (z. B. Bio, plastikfrei...)
   * Wenn Sie ein Produkt haben, das in verschiedenen Formen verkauft werden kann (z. B. Kartoffeln, die in Mengen von 500 g, 1 kg und 2 kg verkauft werden), können Sie Ihre Angebote vereinfachen, indem Sie [Varianten](../basic-features/products-1/product-variants.md) hinzufügen.
   * Wenn Sie unregelmäßige Artikel wie Fleisch oder Gemüse (z. B. ein ganzes Huhn, einen großen Kürbis) verkaufen, die nach Gewicht berechnet werden, [erfahren Sie hier](../basic-features/products-1/pricing-irregular-items-kg.md), wie Sie dies tun können.
   * Sie können alle Ihre Produktlisten auf einmal [importieren](../basic-features/products-1/product-and-inventory-import.md#import-new-products), wenn sie in einer Excel-Tabelle vorliegen.

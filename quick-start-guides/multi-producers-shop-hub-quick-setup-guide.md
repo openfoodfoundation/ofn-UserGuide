@@ -6,13 +6,13 @@ description: Einfache Schritte, um Ihre OFN-Reise mit einem Produzentenladen zu 
 
 Der Einstieg in OFN ist ganz einfach, folgen Sie einfach den unten stehenden Schritten:
 
-![Five steps to opening your OFN hub.](../.gitbook/assets/set-up-in-5-steps-draft.png)
+![Fünf Schritte zur Eröffnung Ihres OFN-Produzentenladens.](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
 1. [Registrieren Sie Ihr Unternehmen.](../basic-features/register-and-create-your-profile.md)\
    Wenn Sie sowohl selbst hergestellte als auch fremde Waren verkaufen möchten, wählen Sie die [Pakettypen](../basic-features/enterprise-profile/package-types.md) "Produzent" und dann "Produzentenladen"; wenn Sie hingegen nur von anderen hergestellte Waren verkaufen möchten, wählen Sie die Paketoptionen "Händler" und "Laden". Vervollständigen Sie Ihre [Unternehmenseinstellungen](../basic-features/enterprise-profile/enterprise-settings.md) mit Ihren Unternehmensdaten.
 2. Listen Sie Ihre Produkte auf.\
    Wenn Sie ein "Produzentenladen" sind, [erstellen](../basic-features/products-1/products.md) (oder[ importieren](../basic-features/products-1/product-and-inventory-import.md)) Sie Produktlisten für die Waren, die Sie selbst herstellen. Für alle Läden gilt: Kontaktieren Sie lokale OFN-Unternehmen, die ihre Waren in Ihrem Shop anbieten möchten. Bitten Sie sie, [Unternehmensberechtigungen](../basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) einzurichten, um eine Verbindung zu ihrem Unternehmen über OFN herzustellen.
-3. Richten Sie eine Auswahl an [Zahlungsarten ](../basic-features/shopfront/payment-methods.md)ein, die Ihren Kunden zur Verfügung stehen (Nachnahme, Online-Zahlung per Kreditkarte, usw.).
+3. Richten Sie eine Auswahl an [Zahlungsarten ](../basic-features/shopfront/payment-methods.md)ein, die Ihren Kunden zur Verfügung stehen (Barbezahlung, Online-Zahlung per Kreditkarte, usw.).
 4. Richten Sie eine Auswahl an [Lieferoptionen ](../basic-features/shopfront/shipping-methods.md)für Ihre Kunden ein\
    ("Click and Collect"-Service mit Abholzeit und -ort, Lieferung nach Hause usw.).
 5. Richten Sie einen[ Bestellzyklus](../basic-features/shopfront/order-cycle/) ein: Damit wird Ihr Shop zu dem von Ihnen festgelegten Startdatum geöffnet! Ein Bestellzyklus ist ein Zeitraum, in dem Kunden Bestellungen zur Abholung oder Lieferung zu einer bestimmten Zeit aufgeben können. Einige Unternehmen haben einen wöchentlichen Bestellzyklus. Andere haben einen ständig geöffneten Bestellzyklus.
