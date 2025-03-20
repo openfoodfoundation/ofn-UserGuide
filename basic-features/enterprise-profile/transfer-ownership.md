@@ -11,14 +11,14 @@ So fügen Sie einen neuen Verwalter hinzu und übertragen schließlich den Besit
 * Suchen Sie unter "Manager" nach der E-Mail des Produzenten, den Sie als Manager hinzufügen möchten.
 
 **Fall 1: Der betreffende Erzeuger hat bereits ein Benutzerkonto bei OFN:**\
-Ihre E-Mail-Adresse ist bereits bei uns registriert und wird angezeigt, wenn Sie mit der Eingabe beginnen. Wählen Sie und klicken Sie auf "Aktualisieren" (rote Schaltfläche unten rechts), um zu speichern.
+Seine E-Mail-Adresse ist bereits bei uns registriert und wird angezeigt, wenn Sie mit der Eingabe beginnen. Wählen Sie das entsprechende Benutzerkonto aus und klicken Sie auf "Aktualisieren" (rote Schaltfläche unten rechts), um zu speichern.
 
 {% hint style="warning" %}
 Achtung: Sie müssen genau nach der vollständigen E-Mail-Adresse suchen. Wir empfehlen, unsere Nutzerliste zu durchsuchen, indem Sie die gesamte E-Mail-Adresse kopieren und einfügen.
 {% endhint %}
 
 **Fall 2: Der betreffende Erzeuger verfügt noch nicht über ein Benutzerkonto bei OFN:**\
-In diesem Fall können Sie die E-Mail-Adresse des Benutzers nicht finden, wenn Sie in das Feld "Bestehenden Benutzer hinzufügen" eingeben. Sie müssen dann auf "Unregistrierten Benutzer hinzufügen" klicken, direkt unter dem Feld "Manager einladen". Der Produzent erhält dann eine E-Mail von uns, um seine Registrierung zu bestätigen. Wenn er den Anweisungen in der E-Mail folgt, kann er die Einrichtung seines OFN-Kontos abschließen und ein Passwort hinzufügen.
+In diesem Fall können Sie die E-Mail-Adresse des Benutzers nicht finden, wenn Sie die Adresse in das Feld "Bestehenden Benutzer hinzufügen" eingeben. Sie müssen dann auf "Unregistrierten Benutzer hinzufügen" klicken, direkt unter dem Feld "Manager einladen". Der Produzent erhält dann eine E-Mail von uns, um seine Registrierung zu bestätigen. Wenn er den Anweisungen in der E-Mail folgt, kann er die Einrichtung seines OFN-Kontos abschließen und ein Passwort hinzufügen.
 
 Sobald der Produzent ein Manager des Unternehmensprofils ist, das Sie in seinem Namen erstellt haben, können Sie ihn zum Hauptmanager und/oder zur Kontaktperson für die Auftragsbenachrichtigung machen. In diesem Stadium können Sie sich als Hub-Manager selbst aus der Liste der Manager entfernen.
 

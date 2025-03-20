@@ -2,16 +2,16 @@
 
 ## Unternehmensberechtigungen&#x20;
 
-Innerhalb der OFN-Unternehmensberechtigungen gibt es Regeln, die Handelsbeziehungen zwischen Unternehmen regeln: Lieferanten und Händler. Diese Regeln müssen aufgestellt werden, bevor ein Unternehmen (Herstellerprofil oder Herstellershop) Lieferant eines anderen (Hub) werden kann oder umgekehrt. Eine Erlaubnis (oder ein "Recht") wird von einem Unternehmen an ein anderes erteilt, was den Zugang / die Änderung von Produkten und Profilen betrifft. Auf dieser Seite werden die verschiedenen Berechtigungen und deren Zuweisung beschrieben.
+Innerhalb der OFN-Unternehmensberechtigungen gibt es Regeln, die Handelsbeziehungen zwischen Unternehmen regeln. Diese Regeln müssen aufgestellt werden, bevor ein Unternehmen (Herstellerprofil oder Produzentenladen) Lieferant eines anderen (Hub) werden kann oder umgekehrt. Eine Erlaubnis (oder ein "Recht") wird von einem Unternehmen an ein anderes erteilt, was den Zugang / die Änderung von Produkten und Profilen betrifft. Auf dieser Seite werden die verschiedenen Berechtigungen und deren Zuweisung beschrieben.
 
 So greifen Sie auf Ihre Unternehmensberechtigungen zu:
 
 ![](../../.gitbook/assets/permissions.gif)
 
-Schließlich untersuchen wir dieses Thema unter dem Gesichtspunkt der:
+Schließlich untersuchen wir dieses Thema unter dem Gesichtspunkt des:
 
-* [ein Hub](enterprise-to-enterprise-permissions-e2es.md#perspektive-der-hubs) (der Verteiler)
-* [ein Herstellerprofil oder ein Geschäft](enterprise-to-enterprise-permissions-e2es.md#die-perspektive-des-produzenten) (der Lieferant)
+* [Hubs](enterprise-to-enterprise-permissions-e2es.md#perspektive-der-hubs) (der Verteiler)
+* [Herstellerprofils oder des Geschäfts](enterprise-to-enterprise-permissions-e2es.md#die-perspektive-des-produzenten) (der Lieferant)
 
 ## Die vier Erlaubnisse
 
@@ -24,14 +24,14 @@ Es gibt 4 verschiedene Arten von Unternehmensberechtigungen. Sie können auf unt
 **Berechtigung zur Verwaltung von Produkten:** Der Lieferant ermächtigt ein anderes im OFN registriertes Unternehmen (in der Regel ein Hub), Produkte direkt in seinem Lieferantenkatalog anzulegen, zu löschen und zu ändern.
 
 {% hint style="danger" %}
-Dies kann sich potenziell auf alle Drehkreuze auswirken, die der Hersteller über OFN mit Waren beliefert.
+Dies kann sich potenziell auf alle Hubs auswirken, die der Hersteller über OFN mit Waren beliefert.
 {% endhint %}
 
 > Wenn Landwirt Jo beispielsweise Kartoffeln an die Hubs A und B liefert, aber Hub A die Erlaubnis erteilt, seine Produkte zu verwalten, dann wird sich diese Preisänderung (bei Standardeinstellungen) an den Schaufenstern der Hubs A und B widerspiegeln, wenn Hub A den Preis der Kartoffeln ändert.
 
 **Berechtigung zur Profilbearbeitung:** Ein Unternehmen erlaubt einem anderen, Details in seinem [Unternehmensprofil](./) zu ändern (Kontaktdaten, Adresse, Beschreibung, ...).
 
-Erlaubnis, Produkte zum Inventar hinzuzufügen: Der Lieferant (Hersteller) ermächtigt den Händler (Hub), seine Produkte in den Shop-Katalog (oder "[Inventar](../products-1/inventory-tool.md)") des Hubs aufzunehmen.
+**Erlaubnis, Produkte zum Inventar hinzuzufügen:** Der Lieferant (Hersteller) ermächtigt den Händler (Hub), seine Produkte in den Laden-Katalog (oder "[Inventar](../products-1/inventory-tool.md)") des Hubs aufzunehmen.
 
 {% hint style="info" %}
 Wenn ein Hersteller mehr als einen Hub mit Waren beliefert, empfehlen wir, diese Berechtigung zwischen den beiden Unternehmen einzufügen, damit jeder dieser Hubs die Preise und Lagerbestände seiner Produkte unabhängig verwalten kann und die Hubs ihre [Bestandseinstellungen](enterprise-settings.md#inventar-einstellungen) ändern können.
@@ -81,7 +81,7 @@ Wenn der Anbieter möchte, dass Sie als Hub-Manager ihm bei der Organisation sei
 > **Mein Hub vertreibt über Einkaufsgemeinschaften. Welche Berechtigungen benötigt die Einkaufsgemeinschaft mit meinem Hub und meinen Produzenten?**
 
 {% hint style="warning" %}
-Dies ist ein Beispiel dafür, dass sich die Drehscheibe, die einen Auftragszyklus verwaltet (koordiniert), von dem Unternehmen unterscheidet, bei dem die Kunden ihre Einkäufe abholen.
+Dies ist ein Beispiel dafür, dass sich der Hub, der einen Auftragszyklus verwaltet (koordiniert), von dem Unternehmen unterscheidet, bei dem die Kunden ihre Einkäufe abholen.
 
 _Wenn Hub A einen Auftragszyklus für eine Einkaufsgemeinschaft (Hub B) verwaltet (koordiniert), wird der Auftragszyklus auf dem OFN-Schaufenster von Hub B angezeigt._
 {% endhint %}
@@ -96,18 +96,18 @@ Wenn ein Produzent seine Produkte über andere Unternehmen (Hubs oder Einkaufsge
 
 Diese Beispiele zeigen einige gängige Szenarien.
 
-> **Ich bin Produzent und möchte, dass ein lokales OFN-Zentrum meine Produkte lagert und verkauft.**
+> **Ich bin Produzent und möchte, dass ein lokaler OFN-Hub meine Produkte lagert und verkauft.**
 
 **Unerlässlich:** Damit der Hub Ihre Produkte zu seinem Schaufenster hinzufügen kann, müssen Sie ihm die "_Erlaubnis zum Hinzufügen zum Bestellzyklus_" erteilen.
 
 **Optional:** Sie können dem Hub auch die Erlaubnis erteilen, Ihre Produkte zu verwalten, Ihr Profil zu bearbeiten oder zum Inventar hinzuzufügen.
 
-> **Eine von mir belieferte Drehscheibe vertreibt über Einkaufsgemeinschaften.**
+> **Ein von mir belieferter Hub vertreibt über Einkaufsgemeinschaften.**
 
 Damit Ihre Produkte von den Einkaufsgemeinschaften vertrieben werden können, müssen Sie sowohl für das Unternehmen der Einkaufsgemeinschaft als auch für den Hub, den Sie direkt beliefern, mindestens die Berechtigung "zum Bestellzyklus hinzufügen" hinzufügen.
 
-> **Ich bin ein Producer Shop, der ein lokales Hub beliefert und auch mein eigenes Schaufenster betreibt. Die Drehscheibe würde gerne die Lagerbestände und Preise meiner Produkte verwalten. Ich möchte auch die Lagerbestände und Preise meiner Produkte verwalten.**
+> **Ich bin ein Produzentenladen, der einen lokalen Hub beliefert. Zuden betreibe ich auch mein eigenes Schaufenster. Der Hub würde gerne die Lagerbestände und Preise meiner Produkte verwalten. Ich möchte auch die Lagerbestände und Preise meiner Produkte verwalten.**
 
 Dieses Szenario kann gelöst werden, indem man dem Hub die Erlaubnis erteilt, die Produkte zum Inventar hinzuzufügen, sowie die Erlaubnis, sie dem Bestellzyklus hinzuzufügen.
 
-Dadurch kann der Hub Ihre Produkte in seinem Shop lagern, aber seine eigenen Preise und Lagerbestände festlegen. Wenn Sie Ihren eigenen Shop mit Ihren Produkten bestücken, werden diese weiterhin die von Ihnen festgelegten Preise und Lagerbestände widerspiegeln.
+Dadurch kann der Hub Ihre Produkte in seinem Laden lagern, aber seine eigenen Preise und Lagerbestände festlegen. Wenn Sie Ihren eigenen Produzentenladen mit Ihren Produkten bestücken, werden diese weiterhin die von Ihnen festgelegten Preise und Lagerbestände widerspiegeln.

@@ -16,7 +16,7 @@ Da Sie kein OFN-Schaufenster haben, wird dieses Produkt nirgendwo sichtbar sein.
 
 ![](../../.gitbook/assets/dummy-meat-product.png)
 
-In ihrem Kurzprofil wird auch angegeben, dass sie Fleischprodukte verkaufen (siehe unten).
+In ihrem Profil wird auch angegeben, dass sie Fleischprodukte verkaufen (siehe unten).
 
 ![](../../.gitbook/assets/meat.png)
 
