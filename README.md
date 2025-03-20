@@ -4,6 +4,8 @@ description: Herzlich Willkommen!
 
 # Benutzerhandbuch Open Food Network (OFN)
 
+
+
 {% hint style="info" %}
 <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9rgk4wEweX_zxXIzmW%2F-MdHZQzZkj-9uNA4c3qD%2F-MdIF6yxdsNWC5BK3awW%2FFlagge%20Deutschland.jpg?alt=media&#x26;token=9bbe895b-2aa1-40da-8221-01fb74558b92" alt="" data-size="line">_Dies ist die deutsche Version des Benutzerhandbuchs zum Open Food Network (OFN)!_
 {% endhint %}
@@ -26,15 +28,15 @@ Das folgende Video gibt Ihnen eine kurze Einführung in die Funktionsweise des O
 
 ## Wie ist dieser Leitfaden zu verwenden?
 
-### > Auf Ihr Unternehmen zugeschnittene Kurzanleitungen
+### Auf Ihr Unternehmen zugeschnittene Kurzanleitungen
 
-Beginnen Sie bei Null und eröffnen Sie [in wenigen Schritten](your-quick-start-on-ofn-given-who-you-are.md) einen Online-Shop, der perfekt auf Ihre Bedürfnisse zugeschnitten ist! !&#x20;
+Beginnen Sie bei Null und eröffnen Sie [in wenigen Schritten](your-quick-start-on-ofn-given-who-you-are.md) einen Online-Shop, der perfekt auf Ihre Bedürfnisse zugeschnitten ist!
 
 {% hint style="info" %}
 Wir empfehlen diese Leitfäden für Benutzer, die zum ersten Mal auf der Open Food Network-Plattform arbeiten.
 {% endhint %}
 
-### > Funktionen für Ihre Bedürfnisse
+### Funktionen für Ihre Bedürfnisse
 
 Hier finden Sie eine ausführliche Erläuterung aller Funktionen unserer Plattform, damit Sie Ihr Open Food Network-Unternehmen so einrichten können, dass es genau Ihren lokalen Bedürfnissen entspricht.
 
@@ -46,15 +48,15 @@ Wir empfehlen diese Leitfäden allen Nutzern, die ihr Open Food Network Unterneh
 Sie sind auch eine hervorragende Quelle für die Beantwortung Ihrer Fragen.
 {% endhint %}
 
-### _>_ Leitlinien für ergänzende Software, die Sie vielleicht in Kombination mit dem Open Food Network verwenden möchten
+### Leitlinien für ergänzende Software, die Sie vielleicht in Kombination mit dem Open Food Network verwenden möchten
 
 Das Open Food Network bietet viele Möglichkeiten, aber ein einziges Tool kann nicht alle Anforderungen erfüllen. Wir haben einige Anforderungen aufgelistet,[ für die Sie möglicherweise ergänzende Software benötigen, und wie Sie diese so einrichten können](complementary-tools-software/), dass sie Hand in Hand mit Ihrer lokalen Open Food Network-Plattform arbeitet.
 
-### > Fehlersuche
+### Fehlersuche
 
 Finden Sie immer noch nicht, was Sie brauchen? Schauen Sie im [Abschnitt Fehlerbehebung](trouble-shooting.md) nach, ob andere die gleichen Fragen hatten wie Sie!
 
-### > Suche
+### Suche
 
 Suchen Sie nach Informationen zu einem bestimmten Thema? Verwenden Sie die Suchleiste oben links, um die gewünschten Informationen zu finden.
 
