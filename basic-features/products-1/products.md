@@ -32,19 +32,17 @@ Wenn Sie g wählen und dann 1000 eingeben, wird das Produkt für den Käufer als
 
 Zum Beispiel kann eine [feste Gebühr nach Gewicht ](../shopfront/enterprise-fees.md#fee-calculators)nur auf Produkte mit der Einheit kg angewendet werden. In diesem Fall können Sie nicht-ganzzahlige Einheiten eingeben, z. B. 0,2 kg, und das Produkt wird als 200 g angezeigt, aber in den Berichten und bei der Preisberechnung in kg erfasst.
 
-**Wert:** Geben Sie den Wert der Einheiten ein, in denen dieses Produkt verkauft wird (wenn es z. B. als 100 g verkauft wird, geben Sie hier "100" ein und wählen Sie "g" für "Einheiten"; oder wenn es als Blumensträuße verkauft wird, geben Sie hier "1" ein und "Einheiten= Stück".&#x20;
+**Menge:** Geben Sie die Menge der Einheiten ein, in denen dieses Produkt verkauft wird (wenn es z. B. als 100 g verkauft wird, geben Sie hier "100" ein und wählen Sie "g" für "Einheiten"; oder wenn es als Blumensträuße verkauft wird, geben Sie hier "1" ein und "Einheiten= Stück".&#x20;
 
-**Anzeigen als:** Dieses Feld zeigt Ihnen automatisch an, wie die Einheiten und Wertfelder angezeigt werden, sobald Sie die Einheiten und Wertfelder ausgefüllt haben. (d.h. Einheiten = kg, Wert = 2, Anzeige als = 2kg)
+**Anzeigen als:** Dieses Feld zeigt Ihnen automatisch an, wie die Einheiten und Mengen angezeigt werden, sobald Sie die Einheiten- und Mengenfelder ausgefüllt haben. (d.h. Einheiten = kg, Menge = 2, Anzeige als = 2kg)
 
 {% hint style="info" %}
-Hinweis: Wenn Sie "**Artikel**" als Einheit ausgewählt haben, ändert sich das Feld "**Anzeige als**" in "**Artikelname**". Geben Sie hier die Art des Artikels an. (z. B. Glas, Flasche oder Bündel)
+Hinweis: Wenn Sie "**Artikel**" als Einheit ausgewählt haben, ändert sich das Feld "**Anzeige als**" in "**Einheitenname**". Geben Sie hier die Art des Artikels an. (z. B. Glas, Flasche oder Bündel)
 {% endhint %}
 
 **Produktkategorie:** Wählen Sie die am besten geeignete Kategorie für dieses Produkt. Die Zuweisung einer Produktkategorie erleichtert es den Kunden, die gewünschten Artikel zu finden; Käufer können Ihre Produktliste auf der Startseite Ihres Shops nach Kategorien filtern.
 
-**Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer and the amount they will receive for each purchase. Mark-ups and fees (for distribution admin etc) are added in [Enterprise Fees](../shopfront/enterprise-fees.md), [Shipping Fees](../shopfront/shipping-methods.md#fee-calculators) and [Payment Methods](../shopfront/payment-methods.md#fee-calculators).&#x20;
-
-**Preis:** Geben Sie den Preis für den oben genannten Wert ein. Beachten Sie, dass dies der Grundpreis ist, den der Hersteller berechnet, und der Betrag, den er für jeden Kauf erhält. Aufschläge und Gebühren (für Vertrieb, Verwaltung usw.) werden unter "[Unternehmensgebühren](../shopfront/enterprise-fees.md)", "[Versandgebühren](../shopfront/enterprise-fees.md#fee-calculators)" und "[Zahlungsarten](../shopfront/enterprise-fees.md#fee-calculators)" angegeben.
+**Preis:** Geben Sie den Preis für die oben genannte Menge ein. Beachten Sie, dass dies der Grundpreis ist, den der Hersteller berechnet, und der Betrag, den er für jeden Kauf erhält. Aufschläge und Gebühren (für Vertrieb, Verwaltung usw.) werden unter "[Unternehmensgebühren](../shopfront/enterprise-fees.md)", "[Versandgebühren](../shopfront/enterprise-fees.md#fee-calculators)" und "[Zahlungsarten](../shopfront/enterprise-fees.md#fee-calculators)" angegeben.
 
 {% hint style="info" %}
 Wenn Ihr Unternehmen als steuerpflichtig registriert ist oder Sie auswählen, dass dieses Produkt steuerpflichtig ist, dann ist der Preis, den Sie hier eingeben, inklusive der Steuer. Wenn Sie auswählen, dass dieses Produkt steuerfrei ist, ist der Preis, den Sie eingeben, der steuerfreie Preis.
@@ -52,9 +50,9 @@ Wenn Ihr Unternehmen als steuerpflichtig registriert ist oder Sie auswählen, da
 
 **Vorrätig:** Geben Sie an, wie viel Sie von diesem Produkt vorrätig und zum Verkauf bereit haben.&#x20;
 
-Verwenden Sie dieses Feld, wenn Sie Ihre Lagerbestände verfolgen möchten. Wenn Kunden Bestellungen aufgeben, verringert sich der Lagerbestand, und wenn der Lagerbestand Null erreicht, wird das Produkt nicht mehr in Ihrem Shop angezeigt. Wenn Sie den Bestand nicht auf diese Weise verfolgen möchten, klicken Sie auf "auf Anfrage".
+Verwenden Sie dieses Feld, wenn Sie Ihre Lagerbestände verfolgen möchten. Wenn Kunden Bestellungen aufgeben, verringert sich der Lagerbestand, und wenn der Lagerbestand Null erreicht, wird das Produkt nicht mehr in Ihrem Shop angezeigt. Wenn Sie den Bestand nicht auf diese Weise verfolgen möchten, klicken Sie auf "Unbegrenzt/auf Bestellung".
 
-**Auf Anfrage:** Wenn Sie dieses Kontrollkästchen aktivieren, wird angezeigt, dass dieses Produkt immer verfügbar ist. Die Software verfolgt dann nicht mehr die Lagerbestände der Produkte, sondern zeigt immer an, dass das Produkt auf Lager ist.
+**Unbegrenzt/auf Bestellung:** Wenn Sie dieses Kontrollkästchen aktivieren, wird angezeigt, dass dieses Produkt immer verfügbar ist. Die Software verfolgt dann nicht mehr die Lagerbestände der Produkte, sondern zeigt immer an, dass das Produkt auf Lager ist.
 
 **Bild:** Laden Sie ein Foto von diesem Produkt hoch.
 
@@ -72,7 +70,7 @@ Hochauflösende Bilder werden automatisch verkleinert, wenn sie in Ihrer Produkt
 Wir empfehlen, Fotos von guter Qualität zu verwenden, vorzugsweise ein echtes Foto Ihrer Produkte und nicht ein Standardbild aus dem Internet. Das macht das Produkt für den Verbraucher attraktiver. Machen Sie Ihre Fotos immer bei gutem Licht. Wenn Sie ein Bild aus dem Internet verwenden, prüfen Sie, ob es frei von Rechten ist.
 {% endhint %}
 
-**Steuerkategorie:** Wählen Sie die zutreffende Steuerkategorie aus der Dropdown-Liste. Die Steuer (MwSt. im Vereinigten Königreich) hängt von der Art des Produkts und dem Land ab, in dem Sie den Einzelhandel betreiben.
+**Steuerkategorie:** Wählen Sie die zutreffende Steuerkategorie aus der Dropdown-Liste. Die Steuer hängt von der Art des Produkts und dem Land ab, in dem Sie den Einzelhandel betreiben.
 
 {% hint style="danger" %}
 Die Steuer wird nur erhoben, wenn Unternehmen in ihren Unternehmenseinstellungen -> Unternehmensdetails die Option "Mehrwertsteuer erheben = ja" gewählt haben.
@@ -93,14 +91,14 @@ Wenn Sie die Erstellung eines Produkts abgeschlossen haben, werden Sie auf die S
 ![](../../.gitbook/assets/productspage.jpg)
 
 {% hint style="success" %}
-Die in Ihrem Verwaltungsbereich aufgelisteten Produkte können alphabetisch nach Namen sortiert werden (klicken Sie in der Tabelle auf 'NAME', um dies zu aktivieren).
+Die in Ihrem Verwaltungsbereich aufgelisteten Produkte können alphabetisch nach Namen sortiert werden (klicken Sie in der Tabelle auf "Name", um dies zu aktivieren).
 {% endhint %}
 
-So werden Ihre Produkte den Kunden auf der Ladenfront präsentiert:
+So werden Ihre Produkte den Kunden im Schaufenster präsentiert:
 
 ![](../../.gitbook/assets/productview.jpg)
 
-## Auflistung ähnlicher/Variationen eines Produkts&#x20;
+## Auflistung ähnlicher Variationen eines Produkts&#x20;
 
 Wenn Sie ein Produkt anbieten, das in verschiedenen Varianten erhältlich ist (z. B. in verschiedenen Größen oder Geschmacksrichtungen, von denen jede einen anderen Preis haben kann oder auch nicht), ist es am besten, eine "Variante" für dieses Produkt zu erstellen, anstatt mehrere separate Produkte anzulegen. Die Erstellung von Produktvarianten wird auf der [nächsten Seite](product-variants.md) ausführlich behandelt.
 
@@ -122,9 +120,8 @@ Um Bilder, Produktbeschreibungen, Kategorien und mehr zu bearbeiten, können Sie
 
 Im Menü auf der rechten Seite können Sie etwas hinzufügen:
 
-* **Eigenschaften oder Etiketten** für Ihre Produkte. Auf diese Weise können Kunden Ihre Artikel finden, wenn sie nach bestimmten Kriterien suchen (z. B. "Bio-zertifiziert"), und bestimmte Eigenschaften Ihrer Produkte hervorheben. Mehr dazu erfahren Sie [hier](product-properties.md).
+* **Produkteigenschaften** für Ihre Produkte. Auf diese Weise können Kunden Ihre Artikel finden, wenn sie nach bestimmten Kriterien suchen (z. B. "Bio-zertifiziert"), und bestimmte Eigenschaften Ihrer Produkte hervorheben. Mehr dazu erfahren Sie [hier](product-properties.md).
 * **Gruppenkauf:** Damit können Sie den Verkauf von Produkten in großen Mengen verwalten und organisieren. Lesen Sie [hier](group-buy-for-bulk-ordering.md) mehr darüber.
-* **Search** terms described [below](products.md#search-keywords).
 * [Nachstehend](products.md#search-keywords) beschriebene Suchbegriffe.
 
 Tipps für die Verwaltung des Verkaufs "unregelmäßiger" Produkte wie Fleisch oder großes Gemüse, das in Einheiten verkauft, aber nach Gewicht berechnet wird, finden Sie [hier](pricing-irregular-items-kg.md).

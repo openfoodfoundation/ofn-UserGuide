@@ -4,7 +4,7 @@ Wenn Ihr Unternehmen vom Typ "Hersteller" ist (Sie haben das entsprechende Käst
 
 ![](../../.gitbook/assets/products1.jpg)
 
-Der für jedes Produkt im Herstellerkatalog eingegebene Preis ist der volle Betrag, den der Hersteller bei einem Verkauf erhält - also ein "Großhandelspreis". Hubs (Händler) können ihre Gebühren für Verwaltung, Transport und Verpackung usw. über die Gebührenoptionen in [Versandmethoden](../shopfront/shipping-methods.md), [Zahlungsmethoden](../shopfront/payment-methods.md) oder [Unternehmensgebühren aufschlagen](../shopfront/enterprise-fees.md).
+Der für jedes Produkt im Herstellerkatalog eingegebene Preis ist der volle Betrag, den der Hersteller bei einem Verkauf erhält - also ein "Großhandelspreis". Hubs (Händler) können ihre Gebühren für Verwaltung, Transport und Verpackung usw. über die Gebührenoptionen in [Versandmethoden](../shopfront/shipping-methods.md), [Zahlungsmethoden](../shopfront/payment-methods.md) oder [Unternehmensgebühren ](../shopfront/enterprise-fees.md)aufschlagen.
 
 {% hint style="info" %}
 Wenn Sie ein Hub sind, der das Unternehmensprofil eines Produzenten in dessen Namen verwaltet, empfehlen wir Ihnen, Ihren Preisaufschlag **nicht** in die Produktpreise einzubeziehen, sondern die oben genannten Gebührenmethoden zu verwenden. Dies macht den Produktkatalog flexibler für zukünftige Änderungen.
