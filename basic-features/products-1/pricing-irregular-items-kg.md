@@ -27,19 +27,19 @@ Gleiche Logik wie bei Option eins, aber statt eines Durchschnittspreises am Anfa
 Es können auch [Varianten](product-variants.md) verwendet werden, um verschiedene Sortimente zu schaffen.
 
 > **Beispiel 1** (ein Produkt und eine Variante):\
-> Produkt = Hähnchen (zwischen 8 und 12 kg mit Preis je nach Gewicht, £10 / kg)
+> Produkt = Hähnchen (zwischen 8 und 12 kg mit Preis je nach Gewicht, CHF 10 / kg)
 >
 > **Beispiel 2** (zwei Varianten für ein Produkt):\
-> Produkt = Huhn (£10 / kg)
+> Produkt = Huhn (CHF 10 / kg)
 >
 > Variante 1 = kleines Huhn (zwischen 8 und 12 kg, Preis nach tatsächlichem Gewicht)&#x20;
 >
-> Variante 2 = großes Huhn (zwischen 13 und 20 kg, Preis nach tatsächlichem Gewicht)...
+> Variante 2 = großes Huhn (zwischen 13 und 20 kg, Preis nach tatsächlichem Gewicht)
 
 ## Option Drei: Varianten mit Festpreisen erstellen&#x20;
 
 Eine etwas einfachere Version von Option zwei besteht darin, Varianten für Ihre Produkte auf der Grundlage von Gewichtsspannen zu erstellen, aber einen **Festpreis** für alle Artikel zu berechnen, die in diese Spanne fallen.\
-Wenn z. B. Butternusskürbis £1/kg kostet, könnten Sie die Varianten mit den folgenden Festpreisen auflisten:
+Wenn z. B. Butternusskürbis CHF 1/kg kostet, könnten Sie die Varianten mit den folgenden Festpreisen auflisten:
 
 * Klein (0,7 - 0,9 kg) CHF 0.80
 * Mittel (0,9 - 1,1 kg) CHF 1.00

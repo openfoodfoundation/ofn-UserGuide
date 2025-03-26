@@ -6,7 +6,7 @@ Obwohl diese Funktion noch nicht in OFN integriert ist, ist es mit ein paar schn
 
 ## Prozess
 
-Erstellen Sie zunächst ein Kreditprodukt im Backend. Wenn Sie das Produkt im Backend erstellen, legen Sie auch eine Variante mit dem Namen „Platzhalterguthaben“ für $0 und mit „0“ für „vorrätig“ an. Diese Variante wird später in der Bestellverwaltung im Backend nützlich sein. Fügen Sie dann alle Varianten zu einem Bestellzyklus hinzu, um das Prepaid-Guthaben an Ihre Kunden zu verkaufen.
+Erstellen Sie zunächst ein Kreditprodukt im Backend. Wenn Sie das Produkt im Backend erstellen, legen Sie auch eine Variante mit dem Namen „Platzhalterguthaben“ für CHF 0 und mit „0“ für „vorrätig“ an. Diese Variante wird später in der Bestellverwaltung im Backend nützlich sein. Fügen Sie dann alle Varianten zu einem Bestellzyklus hinzu, um das Prepaid-Guthaben an Ihre Kunden zu verkaufen.
 
 Hier ist ein Beispiel für ein Kreditprodukt im Schaufenster, das der Kunde auswählen kann, um seinem Konto „Kredit“ hinzuzufügen.
 
@@ -30,7 +30,7 @@ In Ihrer Auftragsliste wird der Zahlungsstatus für den Auftrag nun auf „Gutha
 
 So sieht es auch in Ihrer Kundenliste auf der Registerkarte Kunden für diesen Kunden aus.
 
-Und wenn Sie einen **Order Cycle Management - Delivery Report** erstellen, wird dieser einen positiven Saldo für den Kunden ausweisen.
+Und wenn Sie unter **Berichte** einen Lieferbericht für einen Bestellzyklus (Bestellzyklusverwaltung -> Lieferungen) erstellen, wird dieser einen positiven Saldo für den Kunden ausweisen.
 
 Und wenn sich der Kunde bei seinem Konto auf OFN anmeldet und zu den Transaktionen geht, sieht er den laufenden Saldo seines Kontos bei Ihnen.
 
@@ -58,13 +58,13 @@ Der Zahlungsstatus der Bestellung lautet nun „bezahlt“ in Ihrer Auftragslist
 
 Im Kundendatensatz und in Ihrer Kundenliste wird der laufende Saldo jedoch wieder auf den vollen im Voraus bezahlten Kreditbetrag zurückgesetzt.
 
-Um die Zahlung für den 2. Auftrag dem laufenden Guthaben gutzuschreiben, müssen wir nun den ursprünglichen Kreditauftrag aufrufen und eine negative Zahlung in Höhe des 2. Auftrags vornehmen (d. h. - 5,70 €).
+Um die Zahlung für den 2. Auftrag dem laufenden Guthaben gutzuschreiben, müssen wir nun den ursprünglichen Kreditauftrag aufrufen und eine negative Zahlung in Höhe des 2. Auftrags vornehmen (d. h. - 5,70 CHF).
 
 Bearbeiten Sie zunächst den ursprünglichen Kreditauftrag.
 
 Wählen Sie dann Zahlungen aus dem Menü auf der rechten Seite. Wählen Sie Neue Zahlung aus dem Menü oben rechts.
 
-Geben Sie den Betrag der bezahlten Bestellung ein, dem ein Minuszeichen vorangestellt ist (z. B. -£5,70), und wählen Sie „Per Kredit bezahlen“, dann „Aktualisieren“.
+Geben Sie den Betrag der bezahlten Bestellung ein, dem ein Minuszeichen vorangestellt ist (z. B. -CHF 5,70), und wählen Sie „Per Kredit bezahlen“, dann „Aktualisieren“.
 
 Erfassen“ Sie diese Zahlung mit dem grünen Häkchen.
 

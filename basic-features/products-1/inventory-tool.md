@@ -18,7 +18,7 @@ Sie haben zwei Möglichkeiten:
   Dies ist die Standardoption und wird für Hubs empfohlen, die die Preise oder Lagerbestände der von ihnen verkauften Artikel nicht ändern möchten.
 
 {% hint style="warning" %}
-VORSICHT - wenn Sie Ihre Inventareinstellungen in diesem Standardmodus belassen, aber gleichzeitig Produkte in Ihr Hub-Inventar hochladen und deren Preise oder Lagerbestände ändern, werden die geänderten Informationen auf Ihrer Shopfront angezeigt, nicht in der Masterkopie.
+VORSICHT - wenn Sie Ihre Inventareinstellungen in diesem Standardmodus belassen, aber gleichzeitig Produkte in Ihr Hub-Inventar hochladen und deren Preise oder Lagerbestände ändern, werden die geänderten Informationen auf Ihrer Shopfront angezeigt, nicht diejenigen der Masterkopie.
 {% endhint %}
 
 * **Neue Produkte müssen zu meinem Inventar hinzugefügt werden, bevor sie zu meinem Schaufenster hinzugefügt werden können:** Wenn Sie einen Bestellzyklus erstellen, werden nur die Produkte, die Sie zuvor dem Hub-Inventar hinzugefügt haben, zur Auswahl im "eingehenden" Teil des Bestellzyklus angezeigt.
@@ -77,11 +77,11 @@ Informieren Sie sich [hier](products.md#hinzufuegen-von-produkten) über "auf La
 Es ist nicht möglich, den Produktnamen, die Eigenschaften, die Beschreibung oder das Bild zu ändern.
 {% endhint %}
 
-### Stock Reset aktivieren?
+### "Lagerbestände auf Standardbestände zurücksetzen" aktivieren?
 
-In der Spalte "**Lagerbestand zurücksetzen**" können Sie die Menge "Auf Lager" auf einen Standardwert zurücksetzen, z. B. zu Beginn jedes neuen Auftragszyklus. Der **Standardwert** ist die Zahl, die in dieser Spalte neben dem Kontrollkästchen eingegeben wird. Mit dem Kontrollkästchen können Sie nur die Artikel auswählen, die Sie zu einem bestimmten Zeitpunkt zurücksetzen möchten.
+In der Spalte "Lagerbestände auf Standardbestände zurücksetzen" können Sie die Menge "Auf Lager" auf einen Standardwert zurücksetzen, z. B. zu Beginn jedes neuen Auftragszyklus. Der **Standardwert** ist die Zahl, die in dieser Spalte neben dem Kontrollkästchen eingegeben wird. Mit dem Kontrollkästchen können Sie nur die Artikel auswählen, die Sie zu einem bestimmten Zeitpunkt zurücksetzen möchten.
 
-Um den Standardlagerbestand für diese Produkte zurückzusetzen, klicken Sie oben links in der Bestandstabelle auf "Aktionen" und dann auf "Lagerbestände auf Standardwerte zurücksetzen". Von dieser Aktion sind nur Produkte betroffen, für die das Kästchen "Bestandsrücksetzung aktivieren" markiert wurde.&#x20;
+Um den Standardlagerbestand für diese Produkte zurückzusetzen, klicken Sie oben links in der Bestandstabelle auf "Aktionen" und dann auf "Lagerbestände auf Standardwerte zurücksetzen". Von dieser Aktion sind nur Produkte betroffen, für die das Kästchen "Lagerbestand zurücksetzbar?" markiert wurde.&#x20;
 
 ![](../../.gitbook/assets/inventorystockreset.jpg)
 
@@ -91,9 +91,9 @@ Um den Standardlagerbestand für diese Produkte zurückzusetzen, klicken Sie obe
 Dies ist eine nützliche Funktion für Hubs, die einmal im Monat oder in regelmäßigen Abständen bestimmte Produkte geliefert bekommen.
 {% endhint %}
 
-### Vererben?
+### Eigenschaften übernehmen?
 
-Wenn Sie keinen der Werte in der Inventartabelle für ein Produkt geändert haben, ist das Kontrollkästchen "Vererben?" standardmäßig aktiviert. Das bedeutet, dass die vom Hersteller eingegebenen und grau hinterlegten Informationen in Ihrem Schaufenster angezeigt werden.
+Wenn Sie keinen der Werte in der Inventartabelle für ein Produkt geändert haben, ist das Kontrollkästchen "Eigenschaften übernehmen?" standardmäßig aktiviert. Das bedeutet, dass die vom Hersteller eingegebenen und grau hinterlegten Informationen in Ihrem Schaufenster angezeigt werden.
 
 ![](../../.gitbook/assets/inventoryinherit.jpg)
 
