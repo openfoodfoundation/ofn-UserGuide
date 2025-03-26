@@ -111,13 +111,15 @@ Dies ist eine Liste der im Vereinigten Königreich verfügbaren
 * Tinda
 {% endtab %}
 
-{% tab title="" %}
-
+{% tab title="Schweiz" %}
+* Bundes Bio
+* Demeter
+* BioSuisse
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
-Wenn Sie sich für eine Immobilie bewerben möchten, die oben nicht aufgeführt ist, nehmen Sie bitte Kontakt mit uns auf. Wir berücksichtigen alle neuen Immobilien, die eine große Anziehungskraft haben könnten.
+Wenn Sie eine Eigenschaft hinzufügen möchten, die oben nicht aufgeführt ist, nehmen Sie bitte Kontakt mit uns auf.&#x20;
 {% endhint %}
 
 Es gibt zwei Möglichkeiten, Ihren Produkten Eigenschaften zuzuweisen:
@@ -135,17 +137,17 @@ Sie können auf die Unternehmenseigenschaften in Ihren [Unternehmenseinstellunge
 ![](../../.gitbook/assets/properties1.jpg)
 
 {% hint style="warning" %}
-Eigenschaften gelten nur für [Produzentenprofile](../enterprise-profile/package-types.md#produzentenprofil), Shops und Hubs. Diese Option ist für Nicht- Produzenten-Hubs nicht verfügbar.
+Eigenschaften gelten nur für [Produzentenprofile](../enterprise-profile/package-types.md#produzentenprofil), Shops und Hubs. Diese Option ist für Nicht-Produzenten Hubs nicht verfügbar.
 {% endhint %}
 
 Bei der Anwendung einer Unternehmenseigenschaft gibt es 2 Felder:
 
 **Name der Eigenschaft:** Sie können eine vordefinierte Produkteigenschaft aus der Dropdown-Liste auswählen. Dies ist der Name der Eigenschaft, mit der Ihre Produkte gekennzeichnet werden und nach der Kunden in Ihrem Shop filtern können.
 
-**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Etikett zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
+**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Unternehmen zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
 
 {% hint style="info" %}
-Sie können Ihrem Unternehmen so viele Immobilien hinzufügen, wie Sie möchten.
+Sie können Ihrem Unternehmen so viele Eigenschaften  hinzufügen, wie Sie möchten.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -168,12 +170,12 @@ Bei der Anwendung einer Produkteigenschaft gibt es 2 Felder:
 
 **Eigenschaftsname:** Sie können eine vordefinierte Produkteigenschaft aus der Dropdown-Liste auswählen. Dies ist der Name der Eigenschaft, mit der Ihr Produkt gekennzeichnet wird und nach der Kunden in Ihrem Shop filtern können.
 
-**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Etikett zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
+**Beschreibung:** Sie können eine kleine Beschreibung hinzufügen, um weitere Informationen über Ihr Produkt zu geben. Zum Beispiel können Sie eine Zertifikatsnummer hinzufügen.
 
 Sie können mehrere Produkteigenschaften anwenden, indem Sie auf "**+ Produkteigenschaften hinzufügen**" klicken.
 
 {% hint style="warning" %}
-Denken Sie daran, auf **Aktualisieren zu** klicken, wenn Sie fertig sind.
+Denken Sie daran, auf **Aktualisieren** zu klicken, wenn Sie fertig sind.
 {% endhint %}
 
 ## Vererbte Eigenschaften
@@ -200,4 +202,4 @@ Kunden können die Produkte in einem Shop auch nach ihren Eigenschaften filtern:
 
 ![](../../.gitbook/assets/searchfilter.jpg)
 
-![](../../.gitbook/assets/screenshot\_20201027-152628.png)
+![](../../.gitbook/assets/screenshot_20201027-152628.png)
