@@ -1,6 +1,6 @@
 # Schaufenster
 
-Um Ihren Online-Shop auf Open Food Network zu eröffnen und mit dem Verkauf zu beginnen, muss Ihr Unternehmen entweder als Producer Shop oder als Producer/Non-Producer Hub registriert sein. Lesen Sie mehr über die verschiedenen Unternehmensprofile [hier](../../your-quick-start-on-ofn-given-who-you-are.md) und [hier](../enterprise-profile/).
+Um Ihren Online-Shop auf Open Food Network zu eröffnen und mit dem Verkauf zu beginnen, muss Ihr Unternehmen entweder als Produzentenladen oder als Hub registriert sein. Lesen Sie mehr über die verschiedenen Unternehmensprofile [hier](../../your-quick-start-on-ofn-given-who-you-are.md) und [hier](../enterprise-profile/).
 
 Die nächsten wichtigen Schritte sind die Einrichtung von [Versand-](shipping-methods.md) und [Zahlungsarten ](payment-methods.md)für Ihr Unternehmen. In dieser Phase empfehlen wir auch die Einrichtung von [Unternehmensgebühren](enterprise-fees.md) (ein Aufschlag auf den Preis jedes Produkts, den der liefernde Hersteller zur Deckung der Verwaltungs- und Vertriebskosten berechnet).
 
@@ -9,8 +9,8 @@ Die Öffnungs- und Schließungszeiten der Schaufenster im OFN sowie die Mögli
 Schaufenster im OFN sind sehr flexibel. Lesen Sie mehr, wenn Sie daran interessiert sind:
 
 * [Bereitstellung unterschiedlicher Produkte und Dienstleistungen für verschiedene Kundengruppen.](customer-management-and-conditional-displays-prices/)
-* Möchte, dass nur registrierte Mitglieder Bestellungen aufgeben können ([Privates Schaufenster](private-shopfront.md))
-* Möchten Sie dass trotzdem ein [Schaufenster](display-only-order-cycles.md) angezeit wird.&#x20;
+* Ich möchte, dass nur registrierte Mitglieder Bestellungen aufgeben können ([Privates Schaufenster](private-shopfront.md))
+* Ich möchte, dass nur ein [Schaufenster](display-only-order-cycles.md) angezeit wird.&#x20;
 
 ### Kundenansicht
 

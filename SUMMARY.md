@@ -27,7 +27,7 @@
     * [Gruppenkauf - für Grossbestellungen](basic-features/products-1/group-buy-for-bulk-ordering.md)
     * [Import von Produkten und Beständen](basic-features/products-1/product-and-inventory-import.md)
   * [Schaufenster](basic-features/shopfront/README.md)
-    * [Versandmethoden](basic-features/shopfront/shipping-methods.md)
+    * [Lieferoptionen](basic-features/shopfront/shipping-methods.md)
     * [Zahlungsarten](basic-features/shopfront/payment-methods.md)
     * [Unternehmensgebühren](basic-features/shopfront/enterprise-fees.md)
     * [Bestellzyklen](basic-features/shopfront/order-cycle/README.md)

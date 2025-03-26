@@ -1,7 +1,7 @@
 # Zahlungsarten
 
 {% hint style="danger" %}
-Sie **müssen** mindestens eine Zahlungsmethode erstellen, bevor Sie Ihren Shop eröffnen können.
+Sie **müssen** mindestens eine Zahlungsmethode erstellen, bevor Sie Ihren Laden oder Hub eröffnen können.
 {% endhint %}
 
 Bevor Sie weiterlesen, sollten Sie sich eine kurze Demonstration ansehen, wie Sie Ihre erste Zahlungsmethode einrichten:
@@ -29,11 +29,11 @@ Wenn Sie alle Zahlungsmethoden Ihres Unternehmens auf "Nur Back Office" umstelle
 {% endhint %}
 
 * **Aktiv:** Wählen Sie aus, ob diese Zahlungsmethode derzeit sichtbar und verfügbar ist oder nicht.
-* **Markierungen**: Verwenden Sie Tag-Regeln, wenn Sie bestimmte Zahlungsmethoden für bestimmte Kunden verfügbar/nicht verfügbar machen möchten (z.B. möchten Sie nur Großhandelskunden erlauben, per BACS zu zahlen, aber Privatkunden "zwingen", per Kreditkarte oder PayPal zu zahlen). Für weitere Informationen lesen Sie bitte [hier](customer-management-and-conditional-displays-prices/).
+* **Stichwörter**: Verwenden Sie Stichwort-Regeln, wenn Sie bestimmte Zahlungsmethoden für bestimmte Kunden verfügbar/nicht verfügbar machen möchten (z.B. möchten Sie nur Großhandelskunden erlauben, per BACS zu zahlen, aber Privatkunden "zwingen", per Kreditkarte oder PayPal zu zahlen). Für weitere Informationen lesen Sie bitte [hier](customer-management-and-conditional-displays-prices/).
 * **Zahlungsanbieter:** Wählen Sie die Option, die für die von Ihnen erstellte Zahlungsmethode relevant ist. Es gibt drei Optionen:
   * PayPal Express &#x20;
   * Stripe SCA (Kredit- und Debitkarten)
-  * Cash / EFT / etc. (Bargeld, Twint in Person anwesend, Scheck oder Banküberweisung. Diese Zahlungen laufen nicht über ein Online-Zahlungsportal und werden nicht automatisch validiert)Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen ändern oder stornieren, während ein Bestellzyklus offen ist" aktiviert hat (zu finden unter Unternehmen -> Einstellungen -> Shop-Einstellungen), dann ist der einzige empfohlene Zahlungsanbieter, der mit dieser Funktion kompatibel ist, "Bargeld, EFTs, ...".)
+  * Cash / EFT / etc. (Bargeld, Twint in Person anwesend, Scheck oder Banküberweisung. Diese Zahlungen laufen nicht über ein Online-Zahlungsportal und werden nicht automatisch validiert).&#x20;
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.34.35.png>)
 
@@ -43,7 +43,7 @@ Zur Erinnerung! Wenn Ihr Unternehmen die Option "Kunden können Bestellungen a�
 
 * **Berechnung:** Wählen Sie aus, wie die mit der Zahlungsmethode verbundenen Gebühren auf eine Bestellung angerechnet werden sollen. Beachten Sie, dass die Gebühren für die Zahlungsmethode auf Null gesetzt werden können. Weitere Informationen zu den Gebühren für Zahlungsarten finden Sie weiter unten.
 
-Wenn Sie auf "Speichern"  oder "Neu" klicken, wird die Zahlungsmethode erstellt und Sie erhalten neue Felder zur Festlegung der Gebühren für die Zahlungsmethode. Die sichtbaren Felder hängen davon ab, welchen "Rechner" Sie ausgewählt haben.
+Wenn Sie auf "Speichern" oder "Neu" klicken, wird die Zahlungsmethode erstellt und Sie erhalten neue Felder zur Festlegung der Gebühren für die Zahlungsmethode. Die sichtbaren Felder hängen davon ab, welchen "Rechner" Sie ausgewählt haben.
 
 {% hint style="info" %}
 Wenn Sie das Feld "Rechner" für die Zahlungsmethode ändern, müssen Sie Ihre Änderungen erst speichern (Aktualisieren), damit die neuen zugehörigen Felder sichtbar werden.
@@ -166,49 +166,49 @@ Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration vo
 
 *   Erstellen Sie ein Raisenow-Konto:
 
-    &#x20;  \-> Besuchen Sie Raisenow Signup und erstellen Sie ein Konto.
+    &#x20;  -> Besuchen Sie Raisenow Signup und erstellen Sie ein Konto.
 
 <figure><img src="../../.gitbook/assets/signup1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Konfigurieren Sie die Second-Factor-Identifikation für zusätzliche Sicherheit.
+&#x20;      -> Konfigurieren Sie die Second-Factor-Identifikation für zusätzliche Sicherheit.
 
 * Raisenow-Einrichtung abschliessen :
 
-&#x20;      \-> Klicken Sie im 3-Optionen-Menü, um die Konfiguration abzuschließen, auf "bestätige deine Organisation" und geben Sie die erforderlichen Details ein.
+&#x20;      -> Klicken Sie im 3-Optionen-Menü, um die Konfiguration abzuschließen, auf "bestätige deine Organisation" und geben Sie die erforderlichen Details ein.
 
 <figure><img src="../../.gitbook/assets/registerOrganization.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Füllen Sie die wichtigsten Informationen über Ihre Organisation aus.
+&#x20;      -> Füllen Sie die wichtigsten Informationen über Ihre Organisation aus.
 
 <figure><img src="../../.gitbook/assets/organization.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Bei gemeinnützigen Organisationen reichen Sie einen Nachweis (Satzung) zur Überprüfung ein.
+&#x20;      -> Bei gemeinnützigen Organisationen reichen Sie einen Nachweis (Satzung) zur Überprüfung ein.
 
-&#x20;      \-> Nach der Verifizierung (bis zu zwei Tage) klicken Sie auf "Zahlungsarten aktivieren", um Twint-Zahlungen zu aktivieren.
+&#x20;      -> Nach der Verifizierung (bis zu zwei Tage) klicken Sie auf "Zahlungsarten aktivieren", um Twint-Zahlungen zu aktivieren.
 
 * Aktivieren Sie Twint-Zahlungen:
 
-&#x20;      \-> Aktivieren Sie unter "Zahlungsarten aktivieren" Twint-Zahlungen.
+&#x20;      -> Aktivieren Sie unter "Zahlungsarten aktivieren" Twint-Zahlungen.
 
 <figure><img src="../../.gitbook/assets/payments.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Klicken Sie auf "Erstelle deine erste Touchpoint-Lösung" und wählen Sie "Twint Zahlungen".
+&#x20;      -> Klicken Sie auf "Erstelle deine erste Touchpoint-Lösung" und wählen Sie "Twint Zahlungen".
 
 <figure><img src="../../.gitbook/assets/twint.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;     \-> Wählen Sie die Option "Paylink" für die Freigabe von Zahlungsinformationen.
+&#x20;     -> Wählen Sie die Option "Paylink" für die Freigabe von Zahlungsinformationen.
 
 <figure><img src="../../.gitbook/assets/paylink.png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Link Integration auf Open Food Network:
 
-&#x20;      \-> Kehren Sie zur Open Food Network-Plattform zurück.
+&#x20;      -> Kehren Sie zur Open Food Network-Plattform zurück.
 
-&#x20;      \-> Erstellen Sie eine Twint-Zahlung und fügen Sie den von Raisenow generierten Paylink in den Text der Zahlungsbeschreibung ein.
+&#x20;      -> Erstellen Sie eine Twint-Zahlung und fügen Sie den von Raisenow generierten Paylink in den Text der Zahlungsbeschreibung ein.
 
 <figure><img src="../../.gitbook/assets/paymentMethod.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      \-> Der Link wird nun in der Bestellbestätigungs-E-Mail sichtbar sein.
+&#x20;      -> Der Link wird nun in der Bestellbestätigungs-E-Mail sichtbar sein.
 
 <figure><img src="../../.gitbook/assets/email.png" alt=""><figcaption></figcaption></figure>
 
