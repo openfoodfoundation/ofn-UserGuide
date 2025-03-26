@@ -32,11 +32,11 @@ Wenn ein Kunde mehr als eine Debit-/Kreditkarte registriert, wird die als "Stand
 Wenn keine ihrer Karten als "Standard" ausgewählt ist, werden ihre Kreditkartenzahlungen nicht bearbeitet.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 Wenn Ihr Kunde Kreditkarten in seinem Konto speichert, kann er diese auch beim Einkauf in Ihrem Shop an der Kasse schnell auswählen.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ### Einem Geschäft die Genehmigung erteilen, seine Standardkarte zu belasten
 

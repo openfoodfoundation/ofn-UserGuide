@@ -84,7 +84,7 @@ Der Bericht "Enterprise Fee Summary" gibt einen Überblick über die Höhe der G
 
 Der Bericht kann nach Schaufenster (**Hub**), **Produzent** und **Bestellzyklus** sowie nach Gebührennamen und Versand- und Zahlungsarten gefiltert werden.
 
-![Enterprise Fee Summary Report](<../../.gitbook/assets/image (24).png>)
+![Enterprise Fee Summary Report](<../../.gitbook/assets/image (24) (1).png>)
 
 **Beispiel 1:** Ein Shop erhebt bei jeder Bestellung eine Gebühr von 2 % für die Mittelbeschaffung. Mit dem Bericht "Unternehmensgebührenzusammenfassung" kann er die in einem bestimmten Bestellzyklus gesammelten Mittel ermitteln.
 
@@ -92,7 +92,7 @@ Der Bericht kann nach Schaufenster (**Hub**), **Produzent** und **Bestellzyklus*
 
 **Beispiel 3:** Ein Hub enthält eine Gebühr, um den Kunden den Betrag anzuzeigen, den sie an Open Food Network für die Nutzung der Plattform zahlen. Diese Gebühr wird als Prozentsatz aller aufgegebenen Bestellungen berechnet. Der folgende Screenshot ist ein Beispiel für dieses Szenario:
 
-![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2).png>)
+![Enterprise Fee Summary Report for a specified Fee (Open Food Network Fee) ](<../../.gitbook/assets/image (2) (1).png>)
 
 ### Daten
 

@@ -20,12 +20,12 @@ In vielen Geschäften auf der Plattform können Kunden als Gast auschecken. Ob d
 
 Wenn Sie als Gast einkaufen möchten, sich aber an der Kasse anmelden müssen, können Sie dem Management-Team (Kontaktdaten finden Sie unter der Registerkarte "[Kontakte](the-people-and-businesses-who-make-grow-your-food.md#kontakt)" oben auf der Seite) eine E-Mail schicken oder anrufen.
 
-### Was sind die Vorteile eines OFN-Kontos**?**
+### Was sind die Vorteile eines OFN-Konto&#x73;**?**
 
 * Ihr [Transaktions](your-ofn-account.md#transaktionen)- und [Bestellverlauf](your-ofn-account.md#bestellungen) wird gespeichert. So können Sie sehen, was Sie in der Vergangenheit gekauft haben. Das ist nützlich, wenn Ihnen ein Glas Marmelade besonders gut geschmeckt hat, Sie sich aber nicht mehr an die genaue Marke oder den Geschmack erinnern können.
 * Wenn Sie sich anmelden, können Sie ganz einfach zu dem Shop navigieren, den Sie zuletzt besucht und in dem Sie eingekauft haben: Klicken Sie auf die Schaltfläche "Einkaufen @" in der rechten Ecke des Bildschirms.
 
-![](https://lh6.googleusercontent.com/VvMP-IUXl3XVA1lD89c\_1gpxNqe4fVC6bPwOKF6yX\_Cia2U4ePjLlXHuTEB8Pdtm2Q2LFGDeCrdzj4jm7c6V-JYv5cbLJixPycT12BM\_XGCtbbnpWbC95TZyCeZjZp4QvC63nKkE)
+![](https://lh6.googleusercontent.com/VvMP-IUXl3XVA1lD89c_1gpxNqe4fVC6bPwOKF6yX_Cia2U4ePjLlXHuTEB8Pdtm2Q2LFGDeCrdzj4jm7c6V-JYv5cbLJixPycT12BM_XGCtbbnpWbC95TZyCeZjZp4QvC63nKkE)
 
 * Mit einem OFN-Konto können die Geschäfte, bei denen Sie einkaufen, Ihnen besondere Vergünstigungen gewähren. Einige Geschäfte bieten zum Beispiel frühe Öffnungszeiten für treue Kunden, vergünstigte Lieferungen für Gruppen, die in der Nähe wohnen, Preisnachlässe für Freiwillige usw. Um in den Genuss dieser Vergünstigungen zu kommen (sofern es sie gibt), benötigen Sie ein OFN-Konto.
 
@@ -49,7 +49,7 @@ Unternehmen sind gesetzlich verpflichtet, die Rechnungsadresse zu erfassen, um d
 
 Um Ihr OFN-Konto einzusehen, melden Sie sich an und klicken Sie dann auf die orangefarbene Person oben rechts auf dem Bildschirm. Daraufhin wird ein Dropdown-Menü angezeigt, über das Sie zu Ihrem Konto navigieren können.
 
-![](https://lh6.googleusercontent.com/7\_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl\_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU\_mZ2dOMTUaiLe8Fg9N5tYCNs\_FxYMMXO-35rl)
+![](https://lh6.googleusercontent.com/7_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU_mZ2dOMTUaiLe8Fg9N5tYCNs_FxYMMXO-35rl)
 
 ### Bestellungen
 
@@ -59,11 +59,11 @@ Für die Schweizer Instanz lautet die direkte URL, um Ihre vergangenen Bestellun
 
 [https://app.openfoodswitzerland.ch/account#/orders](https://app.openfoodswitzerland.ch/account#/orders)
 
-![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
+![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq_K6I7iUQIx17AfUdc349wTQqbxQ)
 
 ###
 
-![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
+![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq_K6I7iUQIx17AfUdc349wTQqbxQ)
 
 ### Kreditkarten
 
@@ -96,7 +96,7 @@ Auf dieser Registerkarte können Sie alle Unternehmen auf der Plattform sehen, b
 
 Im Falle der Schweiz lautet die direkte URL, um Ihre vergangenen Transaktionen einzusehen: [https://app.openfoodswitzerland.ch/account#/transactions](https://app.openfoodswitzerland.ch/account#/transactions)
 
-![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN\_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
+![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
 
 ### Kontoeinstellungen
 

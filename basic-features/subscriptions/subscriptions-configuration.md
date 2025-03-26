@@ -49,7 +49,7 @@ Wenn Sie Stripe als Zahlungsmethode für Abonnements verwenden, ist es für den 
 Anstatt die [Zahlungsmethode](../shopfront/payment-methods.md) "Kreditkarte" zu nennen, könnten Sie sie zum Beispiel "automatische Kreditkartenabrechnung für Abonnements" nennen. Eine mögliche Beschreibung könnte lauten: "Ihre in Ihrem OFN-Konto gespeicherte Standardkreditkarte wird belastet, wenn Ihre Abonnementbestellung am Mittwochabend bestätigt wird". Dieser Name und die Beschreibung werden in der E-Mail-Bestätigung für Abonnement-Kunden erscheinen (siehe Beispiel unten), daher ist es gut, sie detailliert anzugeben, damit der Kunde weiß, was ihn erwartet.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 ## Sammeln Sie Informationen von Ihren Kunden
 
