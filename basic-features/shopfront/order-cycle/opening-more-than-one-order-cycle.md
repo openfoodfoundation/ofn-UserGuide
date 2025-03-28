@@ -1,4 +1,4 @@
-# Eröffnung von mehr als einem Auftragszyklus
+# Eröffnung von mehr als einem Bestellzyklus
 
 Es ist möglich, mehr als einen Bestellzyklus gleichzeitig offen zu haben. Dies hat den Effekt, dass zwei (oder mehr) offene Schaufenster entstehen, zwischen denen der Kunde über die eine Website-Adresse (URL) wählen kann.\
 Diese Funktion ist hilfreich, wenn Sie unterschiedliche "Bedingungen" in den beiden Schaufenstern haben möchten, wie z. B. unterschiedliche Produkte (Groß- oder Einzelhandel), unterschiedliche Unternehmensgebühren (z. B. Aufschläge für Nicht-Mitglieder) oder unterschiedliche Öffnungs- und Schließungsdaten für den Auftragszyklus (für unterschiedliche Lieferläufe).
@@ -17,9 +17,9 @@ Wenn der Kunde einen Bestellzyklus auswählt, wird das Schaufenster mit den spez
 [**Tags**](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) können auch verwendet werden, um Bestellzyklen für bestimmte Kunden sichtbar oder unsichtbar zu machen. Wenn Sie z. B. Ihre Großhandelskunden als "pro" kennzeichnen, können Sie einen Auftragszyklus mit Großhandelspreisen nur für "pro" sichtbar machen.
 {% endhint %}
 
-## Bestellung Ihrer Auftragszyklen
+## Bestellung Ihrer Bestellzyklen
 
-Sie können wählen, ob Ihre Auftragszyklen im Dropdown-Menü nach Abschlussdatum (frühestes Abschlussdatum) oder nach Eröffnungsdatum (frühestes Eröffnungsdatum) aufgelistet werden sollen.
+Sie können wählen, ob Ihre Bestellzyklen im Dropdown-Menü nach Abschlussdatum (frühestes Abschlussdatum) oder nach Eröffnungsdatum (frühestes Eröffnungsdatum) aufgelistet werden sollen.
 
 Dies wird in Ihren [Unternehmenseinstellungen](../../enterprise-profile/enterprise-settings.md) -> Shop-Einstellungen -> Sortierreihenfolge Zyklen auf der Schaufensterfront nach
 

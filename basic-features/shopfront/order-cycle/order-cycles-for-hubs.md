@@ -1,25 +1,25 @@
-# Bestellzyklen (für Hubs)
+# Bestellzyklen (für Läden/Hubs)
 
 {% hint style="warning" %}
-Lesen Sie weiter, wenn Sie das Unternehmensprofil '[Producer oder Non Producer Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#produzentenladen)' gewählt haben.
+Lesen Sie weiter, wenn Sie das Unternehmenspaket '[Laden](../../../your-quick-start-on-ofn-given-who-you-are.md#produzentenladen)' gewählt haben.
 
-Besuchen Sie diese [Seite](order-cycles-for-producers.md), wenn Sie sich als '[Producer Shop](../../../your-quick-start-on-ofn-given-who-you-are.md#laden)' registriert haben und einen Bestellzyklus für Ihre Schaufensterfront einrichten möchten.
+Besuchen Sie diese [Seite](order-cycles-for-producers.md), wenn Sie sich als '[Produzentenladen](../../../your-quick-start-on-ofn-given-who-you-are.md#laden)' registriert haben und einen Bestellzyklus für Ihre Schaufensterfront einrichten möchten.
 {% endhint %}
 
-Sie eröffnen Ihren Shop, indem Sie einen Bestellzyklus erstellen. Wenn Sie einen Bestellzyklus erstellen, wählen Sie aus, wann Ihr Shop geöffnet ist (von und bis), welche Produkte in den Shop aufgenommen werden und welche Gebühren Sie erheben möchten.
+Sie eröffnen Ihren Laden, indem Sie einen Bestellzyklus erstellen. Wenn Sie einen Bestellzyklus erstellen, wählen Sie aus, wann Ihr Laden geöffnet ist (von und bis), welche Produkte in den Laden aufgenommen werden und welche Gebühren Sie erheben möchten.
 
-**Warum Fahrräder bestellen?**  \
-Einige Drehkreuze möchten vielleicht einen ständig geöffneten Online-Shop haben und die Bestellungen einzeln nach Eingang bearbeiten. Viele Hubs arbeiten jedoch mit einem periodischen Bestellsystem, das es ihnen ermöglicht, Aufträge in großen Mengen zu bearbeiten, was ihre Produktions-, Verpackungs- und Vertriebsaktivitäten effizienter macht (und die damit verbundenen Gemeinkosten senkt).
+**Warum in Bestellzyklen bestellen?**  \
+Einige Hubs möchten vielleicht einen ständig geöffneten Online-Shop haben und die Bestellungen einzeln nach Eingang bearbeiten. Viele Hubs arbeiten jedoch mit einem periodischen Bestellsystem, das es ihnen ermöglicht, Aufträge in großen Mengen zu bearbeiten, was ihre Produktions-, Verpackungs- und Vertriebsaktivitäten effizienter macht (und die damit verbundenen Gemeinkosten senkt).
 
 Ein Bestellzyklus kann zum Beispiel zwei Wochen lang offen sein. Am Ende der zwei Wochen werden alle Bestellungen verpackt und am folgenden Mittwoch zur gleichen Zeit ausgeliefert. Sobald dieser Stapel von Bestellungen ausgeliefert wurde, kann ein neuer Bestellzyklus eröffnet werden.
 
-Eine kurze Demonstration der Einrichtung eines neuen Auftragszyklus:
+Eine kurze Demonstration der Einrichtung eines neuen Bestellzyklus:
 
 ![](../../../.gitbook/assets/ordercyclehub.gif)
 
-## Auftragszyklen anzeigen
+## Bestellzyklen anzeigen
 
-Sie können einen Auftragszyklus erstellen und frühere Auftragszyklen einsehen, indem Sie in Ihrem [Dashboard](../../dashboard.md) auf Auftragszyklen verwalten klicken.
+Sie können einen Bestellzyklus erstellen und frühere Bestellzyklen einsehen, indem Sie in Ihrem [Dashboard](../../dashboard.md) auf Bestellzyklen verwalten klicken.
 
 ![](../../../.gitbook/assets/ordercycledash.jpg)
 
@@ -31,14 +31,14 @@ Oder über das horizontale Menü am oberen Rand der Seite.
 Sie können erst dann einen laufenden Bestellzyklus veröffentlichen, wenn Sie mindestens eine [Zahlungs](../payment-methods.md)- und [Versandmethode](../shipping-methods.md) für Ihr Unternehmen eingerichtet haben.
 {% endhint %}
 
-## Einen neuen Auftragszyklus erstellen
+## Einen neuen Bestellzyklus erstellen
 
-Der erste Schritt besteht darin, einen Koordinator für Ihren Auftragszyklus auszuwählen. Nur das Unternehmen, das einen Auftragszyklus koordiniert, ist berechtigt, **alle** Aspekte des Verkaufszyklus zu ändern und zu verwalten. Andere Unternehmen, die an einem Auftragszyklus beteiligt sind (nur als Lieferanten oder Händler), haben nur eingeschränkten Zugriff.\
-Weitere Informationen zum unternehmensübergreifenden Management im Rahmen von Auftragszyklen finden Sie [hier](permissions-in-multi-enterprise-order-cycles.md).
+Der erste Schritt besteht darin, einen Koordinator für Ihren Bestellzyklus auszuwählen. Nur das Unternehmen, das einen Bestellzyklus koordiniert, ist berechtigt, **alle** Aspekte des Bestellzyklus zu ändern und zu verwalten. Andere Unternehmen, die an einem Bestellzyklus beteiligt sind (nur als Lieferanten oder Händler), haben nur eingeschränkten Zugriff.\
+Weitere Informationen zum unternehmensübergreifenden Management im Rahmen von Bestellzyklen finden Sie [hier](permissions-in-multi-enterprise-order-cycles.md).
 
 ![](../../../.gitbook/assets/ordercycle2.jpg)
 
-Nach der Auswahl des Koordinators für den Auftragszyklus ist der Einrichtungsprozess in drei Schritte unterteilt:
+Nach der Auswahl des Koordinators für den Bestellzyklus ist der Einrichtungsprozess in drei Schritte unterteilt:
 
 ### 1) Allgemeine Einstellungen
 
@@ -46,20 +46,20 @@ Nach der Auswahl des Koordinators für den Auftragszyklus ist der Einrichtungspr
 
 **Name (erforderlich):** Geben Sie dem Bestellzyklus einen für Sie aussagekräftigen Namen. Wir empfehlen Ihnen, ein einheitliches Namensprotokoll zu verwenden, z. B. FoodHub\_Woche27\_2014. Wir empfehlen Ihnen auch, den Namen Ihres Hubs in den Namen des Bestellzyklus aufzunehmen, damit der OFN-Support Ihre Bestellzyklen identifizieren kann, falls Sie Hilfe benötigen.
 
-**Bestellungen öffnen um:** Dies ist das Datum und die Uhrzeit, zu der Ihr OFN-Shop geöffnet und sichtbar ist und Bestellungen von Kunden annimmt.
+**Bestellungen öffnen um:** Dies ist das Datum und die Uhrzeit, zu der Ihr OFN-Laden geöffnet und sichtbar ist und Bestellungen von Kunden annimmt.
 
-**Bestellungen schließen:** Dies ist das Datum (und die Uhrzeit), an dem Ihr OFN-Geschäft schließt und keine Bestellungen mehr annimmt. Wenn Sie beabsichtigen, einen Bestellzyklus zu haben, der ständig geöffnet ist, wählen Sie ein Schließungsdatum, das weit in der Zukunft liegt.
+**Bestellungen schließen:** Dies ist das Datum (und die Uhrzeit), an dem Ihr OFN-Laden schließt und keine Bestellungen mehr annimmt. Wenn Sie beabsichtigen, einen Bestellzyklus zu haben, der ständig geöffnet ist, wählen Sie ein Schließungsdatum, das weit in der Zukunft liegt.
 
 **Zeitpläne:** Leer lassen, es sei denn, Sie verwenden [Abonnements](../../subscriptions/).
 
-**Koordinator-Gebühr hinzufügen:** Als Knotenpunkt sind Sie höchstwahrscheinlich der Koordinator. Hier können Sie Ihre Unternehmensgebühr anwenden, die als Aufschlag dient. Die Gebühr wird anhand des unter Unternehmensgebühren ausgewählten Rechners berechnet. Sie können nur eine [Unternehmensgebühr](../enterprise-fees.md) anwenden, die zuvor erstellt wurde.
+**Koordinator-Gebühr hinzufügen:** Als Hub sind Sie höchstwahrscheinlich der Koordinator. Hier können Sie Ihre Unternehmensgebühr anwenden, die als Aufschlag dient. Die Gebühr wird anhand des unter Unternehmensgebühren ausgewählten Rechners berechnet. Sie können nur eine [Unternehmensgebühr](../enterprise-fees.md) anwenden, die zuvor erstellt wurde.
 
 ### 2) Eingehende Produkte
 
 ![](../../../.gitbook/assets/ordercycle4.jpg)
 
-On this page you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle (See [Enterprise Permissions](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) section). \
-After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all.**&#x20;
+Auf dieser Seite können Sie die Produzenten und ihre Produkte auswählen, die in diesem Bestellzyklus verfügbar sein sollen. Im Dropdown-Menü sehen Sie alle Produzenten, die Ihnen die Erlaubnis erteilt haben, ihre Produkte zu Ihrem Bestellzyklus hinzuzufügen (siehe Abschnitt [Unternehmensberechtigungen](https://guide.openfoodnetwork.org/deutsch/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es)).\
+Nachdem Sie einen Lieferanten ausgewählt und auf **Lieferant hinzufügen** geklickt haben, werden alle mit diesem Lieferanten verbundenen Produkte angezeigt. Markieren Sie die Produkte, die Sie dem Laden hinzufügen möchten, oder klicken Sie auf **Alle auswählen**.
 
 {% hint style="info" %}
 Produkte, die nicht vorrätig sind (d.h. deren "auf Lager"-Wert gleich Null ist), sind in dieser Liste enthalten. Wenn sie zu einem Bestellzyklus hinzugefügt werden, erscheinen sie nicht auf der Startseite unseres Shops. Es ist immer gut, die Lagerbestände zu überprüfen.
@@ -79,15 +79,15 @@ Diese Gebühr wird auf alle gekauften Erzeugnisse des Obsterzeugers erhoben. Die
 
 ### 3) Ausgehende Produkte
 
-Hier können Sie einen oder mehrere Hub-Vertriebspartner auswählen. Alle Hubs, die in diesem Auftragszyklus als Händler ausgewählt werden, haben für die Dauer des Auftragszyklus eine offene Schaufensterfront.\
+Hier können Sie einen oder mehrere Hub-Vertriebspartner auswählen. Alle Hubs, die in diesem Bestellzyklus als Händler ausgewählt werden, haben für die Dauer des Bestellzyklus eine offene Schaufensterfront.\
 In einem **einfachen Modell** ist nur ein Hub als einziger Händler für den Bestellzyklus aufgeführt. Wählen Sie den Hub aus, und markieren Sie das Kästchen "Alle auswählen", um alle eingehenden Produkte zur Shopfront hinzuzufügen.\
-Für mehr Flexibilität kann derselbe Auftragszyklus **mehrere Hub-Vertriebspartner** haben. In diesem Fall möchten Sie vielleicht für jeden Verteiler eine andere Teilmenge der verfügbaren eingehenden Produkte auswählen und/oder für jeden Verteiler unterschiedliche Liefertermine hinzufügen.
+Für mehr Flexibilität kann derselbe **Bestellzyklus mehrere Hub-Vertriebspartner** haben. In diesem Fall möchten Sie vielleicht für jeden Verteiler eine andere Teilmenge der verfügbaren eingehenden Produkte auswählen und/oder für jeden Verteiler unterschiedliche Liefertermine hinzufügen.
 
 ![](../../../.gitbook/assets/oc3.jpg)
 
 In der Spalte **Tags** können Sie Ihre Auftragszyklen kennzeichnen, um festzulegen, ob sie für bestimmte Kunden sichtbar oder unsichtbar sind. Weitere Informationen finden Sie unter [Tags und Tag-Regeln](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
 
-**Bereit für (d.h. Datum/Uhrzeit)" (erforderlich):** In diesem Feld wird dem Kunden mitgeteilt, wann seine Bestellung entweder zur Abholung oder zur Lieferung bereit ist. Wenn es sich bei Ihrem Auftragszyklus um einen immerwährenden Zyklus handelt, bei dem Aufträge auf individueller Basis und nicht in großen Mengen ausgeführt werden, sollten Sie etwas wie "Zwei Tage nach Auftragseingang" eingeben. Das nachstehende Beispiel zeigt, wie ein Kunde zwischen verschiedenen Auftragszyklen wechseln kann, um das für ihn am besten geeignete Datum auszuwählen.
+**Bereit für (d.h. Datum/Uhrzeit)" (erforderlich):** In diesem Feld wird dem Kunden mitgeteilt, wann seine Bestellung entweder zur Abholung oder zur Lieferung bereit ist. Wenn es sich bei Ihrem Bestellzyklus um einen immerwährenden Zyklus handelt, bei dem Aufträge auf individueller Basis und nicht in großen Mengen ausgeführt werden, sollten Sie etwas wie "Zwei Tage nach Auftragseingang" eingeben. Das nachstehende Beispiel zeigt, wie ein Kunde zwischen verschiedenen Auftragszyklen wechseln kann, um das für ihn am besten geeignete Datum auszuwählen.
 
 ![](../../../.gitbook/assets/multipleoc3.jpg)
 
@@ -103,17 +103,17 @@ Die Nachricht mit den **Abholanweisungen** wird in der Bestellbestätigungs-E-Ma
 
 ![collection details message](../../../.gitbook/assets/collection-details.png)
 
-**Gebühr hinzufügen:** Auch diesem Verteiler kann eine zuvor erstellte Unternehmensgebühr zugewiesen werden. Bei einfachen Modellen (mit einem Hub-Vertriebspartner, der auch der Koordinator des Auftragszyklus ist) ist das Hinzufügen einer Gebühr in diesem Stadium dasselbe wie das Hinzufügen einer "Koordinatorgebühr" (sie gilt für alle Produkte). Bei komplexen Modellen kann der Koordinator für alle Produkte, die über jeden Vertriebshändler verkauft werden, unterschiedliche Gebühren festlegen. Diese Funktion lässt sich am besten hier implementieren.
+**Gebühr hinzufügen:** Auch diesem Verteiler kann eine zuvor erstellte Unternehmensgebühr zugewiesen werden. Bei einfachen Modellen (mit einem Hub-Vertriebspartner, der auch der Koordinator des Bestellzyklus ist) ist das Hinzufügen einer Gebühr in diesem Stadium dasselbe wie das Hinzufügen einer "Koordinatorgebühr" (sie gilt für alle Produkte). Bei komplexen Modellen kann der Koordinator für alle Produkte, die über jeden Vertriebshändler verkauft werden, unterschiedliche Gebühren festlegen. Diese Funktion lässt sich am besten hier implementieren.
 
 ### Öffnen Sie das Schaufenster
 
 Klicken Sie auf **Speichern**, um den Bestellzyklus zu planen. Wenn das Eröffnungsdatum bereits überschritten ist, ist Ihr Shop sofort geöffnet! Wenn Sie nicht sofort eröffnen wollen, geben Sie Termine in der Zukunft ein, die Sie später ändern können.
 
-Für periodische, sich wiederholende Auftragszyklen können Sie einen bestehenden Auftragszyklus kopieren und die Daten ändern, um den Prozess zu beschleunigen. Siehe unten.
+Für periodische, sich wiederholende Bestellzyklen können Sie einen bestehenden Bestellzyklus kopieren und die Daten ändern, um den Prozess zu beschleunigen. Siehe unten.
 
 ![](../../../.gitbook/assets/occpy.jpg)
 
-Auftragszyklen werden grün angezeigt, wenn sie aktiv sind, gelb, wenn sie für ein zukünftiges Datum geplant sind, und grau, wenn sie geschlossen wurden. Wenn ein Auftragszyklus vor mehr als einem Monat geschlossen wurde, wird er in dieser Liste nicht mehr angezeigt. Um alle Ihre vergangenen Auftragszyklen zu sehen, klicken Sie oben in der Liste auf "Mehr anzeigen".
+Auftragszyklen werden grün angezeigt, wenn sie aktiv sind, gelb, wenn sie für ein zukünftiges Datum geplant sind, und grau, wenn sie geschlossen wurden. Wenn ein Bestellzyklus vor mehr als einem Monat geschlossen wurde, wird er in dieser Liste nicht mehr angezeigt. Um alle Ihre vergangenen Bestellzyklen zu sehen, klicken Sie oben in der Liste auf "Mehr anzeigen".
 
 ## Schaltfläche "Produzenten benachrichtigen
 
