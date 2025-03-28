@@ -164,51 +164,43 @@ Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration vo
 
 **Möglichkeit 1**: Payment Link Integration über Raisenow
 
-*   Erstellen Sie ein Raisenow-Konto:
-
-    &#x20;  -> Besuchen Sie Raisenow Signup und erstellen Sie ein Konto.
+* Erstellen Sie ein Raisenow-Konto:
+  * Besuchen Sie Raisenow Signup und erstellen Sie ein Konto.
 
 <figure><img src="../../.gitbook/assets/signup1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      -> Konfigurieren Sie die Second-Factor-Identifikation für zusätzliche Sicherheit.
-
-* Raisenow-Einrichtung abschliessen :
-
-&#x20;      -> Klicken Sie im 3-Optionen-Menü, um die Konfiguration abzuschließen, auf "bestätige deine Organisation" und geben Sie die erforderlichen Details ein.
+* Konfigurieren Sie die Second-Factor-Identifikation für zusätzliche Sicherheit.
+* Raisenow-Einrichtung abschliessen:&#x20;
+  * Klicken Sie im 3-Optionen-Menü, um die Konfiguration abzuschließen, auf "Bestätige deine Organisation" und geben Sie die erforderlichen Details ein.
 
 <figure><img src="../../.gitbook/assets/registerOrganization.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      -> Füllen Sie die wichtigsten Informationen über Ihre Organisation aus.
+* Füllen Sie die wichtigsten Informationen über Ihre Organisation aus.
 
 <figure><img src="../../.gitbook/assets/organization.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      -> Bei gemeinnützigen Organisationen reichen Sie einen Nachweis (Satzung) zur Überprüfung ein.
-
-&#x20;      -> Nach der Verifizierung (bis zu zwei Tage) klicken Sie auf "Zahlungsarten aktivieren", um Twint-Zahlungen zu aktivieren.
-
+* Bei gemeinnützigen Organisationen reichen Sie einen Nachweis (Satzung) zur Überprüfung ein.
+* Nach der Verifizierung (bis zu zwei Tage) klicken Sie auf "Zahlungsarten aktivieren", um Twint-Zahlungen zu aktivieren.
 * Aktivieren Sie Twint-Zahlungen:
-
-&#x20;      -> Aktivieren Sie unter "Zahlungsarten aktivieren" Twint-Zahlungen.
+  * Aktivieren Sie unter "Zahlungsarten aktivieren" Twint-Zahlungen.
 
 <figure><img src="../../.gitbook/assets/payments.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      -> Klicken Sie auf "Erstelle deine erste Touchpoint-Lösung" und wählen Sie "Twint Zahlungen".
+* Klicken Sie auf "Erstelle deine erste Touchpoint-Lösung" und wählen Sie "Twint Zahlungen".
 
 <figure><img src="../../.gitbook/assets/twint.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;     -> Wählen Sie die Option "Paylink" für die Freigabe von Zahlungsinformationen.
+* Wählen Sie die Option "Paylink" für die Freigabe von Zahlungsinformationen.
 
 <figure><img src="../../.gitbook/assets/paylink.png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Link Integration auf Open Food Network:
-
-&#x20;      -> Kehren Sie zur Open Food Network-Plattform zurück.
-
-&#x20;      -> Erstellen Sie eine Twint-Zahlung und fügen Sie den von Raisenow generierten Paylink in den Text der Zahlungsbeschreibung ein.
+  * Kehren Sie zur Open Food Network-Plattform zurück.
+  * Erstellen Sie eine Twint-Zahlung und fügen Sie den von Raisenow generierten Paylink in den Text der Zahlungsbeschreibung ein.
 
 <figure><img src="../../.gitbook/assets/paymentMethod.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;      -> Der Link wird nun in der Bestellbestätigungs-E-Mail sichtbar sein.
+* Der Link wird nun in der Bestellbestätigungs-E-Mail sichtbar sein.
 
 <figure><img src="../../.gitbook/assets/email.png" alt=""><figcaption></figcaption></figure>
 
@@ -229,7 +221,7 @@ Wählen Sie die Option, die am besten zu Ihrem Arbeitsablauf und Ihren Präferen
 Sie können den Zahlungsmethoden eine Gebühr hinzufügen. Meistens wird dies verwendet, um die Gebühren eines Zahlungsportals an den Kunden weiterzugeben. Zum Beispiel können Sie dem Kunden für die Bequemlichkeit der Zahlung mit PayPal eine Gebühr in Rechnung stellen, um die von PayPal erhobene Gebühr zu decken.
 
 {% hint style="danger" %}
-Zahlungsmethode Die Gebühren enthalten KEINE Steuern (VAT)
+Die Gebühren für Zahlungsmethoden enthalten KEINE Steuern (MWST.)
 {% endhint %}
 
 ### Gebührenberechnungen
@@ -252,7 +244,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 
 **Pauschalpreis (pro Auftrag)**: Diese Gebühr wird als Standardgebühr für alle Bestellungen erhoben, unabhängig vom Umfang der Bestellung.
 
-**Flexibler Tarif** - Dieser Gebührenrechner ist besonders nützlich, wenn Sie Ihre Kunden zu Großbestellungen ermutigen möchten: Die Kosten für die Zahlung können reduziert werden oder entfallen, wenn eine bestimmte Anzahl von Artikeln erreicht wird.
+**Flexibler Tarif:** Dieser Gebührenrechner ist besonders nützlich, wenn Sie Ihre Kunden zu Großbestellungen ermutigen möchten: Die Kosten für die Zahlung können reduziert werden oder entfallen, wenn eine bestimmte Anzahl von Artikeln erreicht wird.
 
 * Kosten für den "ersten Artikel": Die Gebühr, die für den ersten Artikel in der Bestellung erhoben wird.
 * Kosten für "zusätzliche Artikel": Die Gebühr, die für die über den ersten Artikel hinausgehenden Artikel berechnet wird.
@@ -260,7 +252,7 @@ $$= (100 + 20) *5/100 = 6$$&#x20;
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.55.30.png>)
 
-> Beispiel: Wenn die "Kosten für den ersten Artikel" auf 0,20 CHF, die "Kosten für weitere Artikel" auf 0,10 CHF und die "Maximale Artikelanzahl" auf 3 festgelegt ist, werden einem Kunden, der 5 Artikel kauft, 0,40 CHF an Zahlungsgebühren berechnet (0,20 CHF für den ersten Artikel), 0,10 CHF für die Posten zwei und drei und 0,00 CHF für die Posten vier und fünf).
+> Beispiel: Wenn die "Kosten für den ersten Artikel" auf € 0,20, die "Kosten für weitere Artikel" auf € 0,10 und die "Maximale Artikelanzahl" auf 3 festgelegt ist, werden einem Kunden, der 5 Artikel kauft, € 0,40 an Zahlungsgebühren berechnet (€ 0,20 für den ersten Artikel), € 0,10 für die Posten zwei und drei und € 0,00 für die Posten vier und fünf).
 
 **Pauschalgebühr (pro Artikel):** Diese Gebühr ist eine konstante Gebühr, die auf Produkte angewendet wird, die als "Artikel" aufgeführt sind. (Sie wird nicht auf Produkte angewandt, die nach Gewicht oder Volumen verkauft werden. Daher wird einem Kunden, der z. B. Reis pro kg kauft, keine Gebühr für die Zahlungsmethode berechnet).
 
@@ -275,17 +267,17 @@ Der **Mindestbetrag** ist der **Gesamtpreis der Produkte** im Warenkorb eines Ku
 {% endhint %}
 
 {% hint style="warning" %}
-Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen keiner Gebühr für die Zahlung (Rabattbetrag = 0) und z. B. einer Gebühr von 0,50 CHF (= normaler Betrag) auf einen Korb von 30 CHF festlegen möchte, lautet der Mindestbetrag
+Wenn ein Unternehmen beispielsweise eine Unternehmensgebühr von 20 % auf alle Produkte erhebt und den Schwellenwert zwischen keiner Gebühr für die Zahlung (Rabattbetrag = 0) und z. B. einer Gebühr von € 0,50 (= normaler Betrag) auf einen Korb von € 30 festlegen möchte, lautet der Mindestbetrag
 
-$$= CHF 30 * 100 /(100+20) = CHF25$$&#x20;
+$$= € 30 * 100 /(100+20) = € 25$$&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/Bildschirmfoto 2024-01-18 um 14.59.43.png>)
 
 {% hint style="info" %}
-Zahlungsportale berechnen Unternehmen oft einen festen Betrag pro Transaktion plus einen kleinen Prozentsatz der Gesamtkosten. Daher sind die Gebühren, die einem Hub oder Shop für Kunden entstehen, die denselben Gesamtbetrag in mehreren kleinen Verkäufen erwerben, höher, als wenn der Kunde alle seine Einkäufe auf einmal tätigt.
+Zahlungsportale berechnen Unternehmen oft einen festen Betrag pro Transaktion plus einen kleinen Prozentsatz der Gesamtkosten. Daher sind die Gebühren, die einem Hub oder Produzentenladen für Kunden entstehen, die denselben Gesamtbetrag in mehreren kleinen Verkäufen erwerben, höher, als wenn der Kunde alle seine Einkäufe auf einmal tätigt.
 
-Die Rechner "Flexible Rate" und "Preissack", die auf die Gebühren für Zahlungsmethoden angewandt werden, können sich als nützlich erweisen, um dies auszugleichen.
+Die Rechner "Flexible Rate" und "Mengenrabatt", die auf die Gebühren für Zahlungsmethoden angewandt werden, können sich als nützlich erweisen, um dies auszugleichen.
 {% endhint %}
 
 ## Erstattungen
