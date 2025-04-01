@@ -1,13 +1,5 @@
 # Abonnements / commandes récurrentes
 
-
-
-{% hint style="info" %}
-Le module abonnements est en version béta, c'est-à-dire qu'il s'agit d'une nouvelle fonctionnalité qui peut avoir encore certains défauts. N'hésitez pas à nous contacter afin de nous dire ce qui a fonctionné / pas fonctionné pour vous et ce que vous aimeriez pouvoir réaliser avec cette fonctionnalité \
-\- support@coopcircuits.fr pour la France \
-\- support@openfoodnetwork.be pour la Belgique.
-{% endhint %}
-
 ## A quoi sert ce module ? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
 Ce module vous permet de mettre en place des commandes récurrentes pour vos acheteurs. Une fois mises en place, ces commandes seront automatiquement traitées selon le rythme prévu : toutes les semaines, toutes les deux semaines, etc. Cette fonctionnalité permet aux clients de ne pas avoir à repasser manuellement une commande qu'ils font régulièrement.
