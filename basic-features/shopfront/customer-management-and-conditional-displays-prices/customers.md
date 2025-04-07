@@ -8,7 +8,7 @@ Sie können einen Kunden auch manuell über die Schaltfläche **+Neuer Kunde** h
 
 {% hint style="warning" %}
 Nur Personen, die sich in Ihrer Kundenliste befinden, können mit einem Stichwort versehen werden und somit einer Kategorie zugeordnet werden.\
-Wenn Sie also eine [private Shopfront](../private-shopfront.md) haben, müssen Sie alle neuen Kunden manuell hinzufügen und ihnen das richtige Stichwort zuweisen, bevor sie einkaufen können.
+Wenn Sie also ein [Privates Schaufenster](../private-shopfront.md) haben, müssen Sie alle neuen Kunden manuell hinzufügen und ihnen das richtige Stichwort zuweisen, bevor sie einkaufen können.
 {% endhint %}
 
 ## Rechnungs- und Lieferadresse des Kunden
