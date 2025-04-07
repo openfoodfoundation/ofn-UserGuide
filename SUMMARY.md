@@ -37,7 +37,7 @@
       * [Berechtigungen in unternehmensübergreifenden Auftragszyk](basic-features/shopfront/order-cycle/permissions-in-multi-enterprise-order-cycles.md)
     * [Kundenverwaltung und bedingte Anzeigen/Preise](basic-features/shopfront/customer-management-and-conditional-displays-prices/README.md)
       * [Kundenmanagement](basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md)
-      * [Tags und Tag-Regeln](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
+      * [Stichwörter und Stichwort-Regeln](basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)
     * [Privates Schaufenster](basic-features/shopfront/private-shopfront.md)
     * [Nur Schaufenster](basic-features/shopfront/display-only-order-cycles.md)
   * [Bestellungen](basic-features/orders/README.md)
