@@ -19,15 +19,15 @@ Der Vorteil dieser Methode, Ihr OFN-Geschäft unsichtbar zu machen, ist, dass Si
 **Der Zugang zum Shop ist jedoch nicht eingeschränkt**: Jeder, der die Internetadresse Ihres Shops (URL) kennt, kann den Shop besuchen und eine Bestellung aufgeben.
 {% endhint %}
 
-Wenn also jemand aus Ihrer Mailingliste eine E-Mail von Ihnen an einen Freund weiterleitet, kann dieser eine Bestellung aufgeben, ohne ein registrierter Kunde zu sein. Sie müssen manuell überprüfen, ob alle Bestellungen von registrierten Kunden stammen, Posteroiri.
+Wenn also jemand aus Ihrer Mailingliste eine E-Mail von Ihnen an einen Freund weiterleitet, kann dieser eine Bestellung aufgeben, ohne ein registrierter Kunde zu sein. Sie müssen manuell überprüfen, ob alle Bestellungen von registrierten Kunden stammen.
 
 ## Nur für registrierte Kunden sichtbar
 
-Ein strengerer, aber möglicherweise zeitaufwändigerer Ansatz besteht darin, Ihr OFN-Unternehmen in den obigen Unternehmenseinstellungen sichtbar zu lassen, aber die Option "**Öffentlich sichtbares Schaufenster**" (unter Unternehmen-> Einstellungen-> Shop-Einstellungen) in "**Nur für registrierte Kunden sichtbar**" zu ändern.
+Ein strengerer, aber möglicherweise zeitaufwändigerer Ansatz besteht darin, Ihr OFN-Unternehmen in den obigen Unternehmenseinstellungen sichtbar zu lassen, aber die Option "**Geöffnet für alle Nutzer?**" (unter Unternehmen-> Einstellungen-> Laden) in **"Nur Kunden auf der Kundenliste"** zu ändern.
 
 ![](../../.gitbook/assets/registered-customers-only.png)
 
-Während Ihr Unternehmen bei einer Suche auf der OFN-Plattform sichtbar sein wird, müssen sich Ihre Kunden in ihr OFN-Konto einloggen, um Ihre Schaufensterfront und die angebotenen Produkte sehen zu können. Andere registrierte OFN-Kunden, die nicht auf Ihrer Kundenliste stehen, können Ihre Schaufensterfront nicht sehen, wenn sie in ihrem OFN-Konto angemeldet sind.
+Während Ihr Unternehmen bei einer Suche auf der OFN-Plattform sichtbar sein wird, müssen sich Ihre Kunden in ihr OFN-Konto einloggen, um Ihre Schaufensterfront und die angebotenen Produkte sehen zu können. Andere registrierte OFN-Kunden, die nicht auf Ihrer Kundenliste stehen, können Ihre angebotenen Produkte nicht sehen, wenn sie in ihrem OFN-Konto angemeldet sind.
 
 Sie müssen Ihre [Kundenliste](customer-management-and-conditional-displays-prices/customers.md) pflegen und alle neuen Kunden manuell hinzufügen, bevor diese ihre erste Bestellung aufgeben können.
 
