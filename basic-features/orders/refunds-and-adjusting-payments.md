@@ -34,32 +34,31 @@ Für nicht automatisierte Zahlungsmethoden (wie Barzahlung bei Abholung oder BAC
 **Der Kunde hat den Artikel noch nicht bezahlt.**\
 Wenn ein Kunde eine Bestellung aufgibt und eine Zahlungsmethode wie Barzahlung bei Abholung oder BACS auswählt und die Zahlung nicht im System erfasst wurde, wird dies angezeigt:
 
-![](https://lh6.googleusercontent.com/9lIYAkArDP1yllI88\_N00rOQYiQqu9KG-piADA0hJtUvelv1NZAPNOx0Q9Ph3a6yu1gal9zUuFgJox0xiRC4RM4UlwmcfCdspcSlG9w\_m23a8Cv\_SnWI8yfgNIBnfClRx3MJ7Ru0)
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Sie können die [Bestellung sofort stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled), indem Sie die folgenden Schritte ausführen.
+Sie können die [Bestellung sofort stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled), indem Sie die nachfolgenden Schritte unter "Einen Auftrag als storniert markieren" ausführen.
 
 **Der Kunde hat den Artikel bezahlt.**
 
-Wenn [Anzeigen von Bestellungen](view-orders.md#auflistung-der-auftraege) erscheint die Bestellung als:
+Wenn unter [Bestellungen](view-orders.md#auflistung-der-auftraege) die Bestellung als "Zahlungsstatus: bezahlt" und "Lieferstatus: bereit" erscheint:
 
-![](https://lh5.googleusercontent.com/7Uorian\_j1n-fPDTQQSeSiHr1tcDQczsaCb\_WSxIKRt1PRp1S3l4bKhaFA6WfMaiEsGgN0Qx5OdLfi\_lBK9yz1r5-Oh0AcZKkM0MfrbfOzQCpejuQLWvAMRNFCom9-r-S2ZfqMjt)
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-1. Veranlassen Sie, dass dem Kunden die Kosten unabhängig von der OFN-Plattform erstattet werden.
-2. Record this action by [**Orders -> Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu. &#x20;
-3. Erfassen Sie diese Aktion über [Aufträge -> Bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie im rechten Menü die Registerkarte "Zahlungen".\
+1. Veranlassen Sie, dass dem Kunden die Kosten unabhängig von der OFN-Plattform erstattet werden. &#x20;
+2. Erfassen Sie diese Aktion über [Aufträge -> Bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie im rechten Menü die Registerkarte "Zahlungen".\
    Wählen Sie das "X" rechts neben der Zahlung, um sie zu stornieren.
 
-![bevor Sie die Zahlung als ungültig markieren.](https://lh6.googleusercontent.com/1mhZhKoPtqPZVZIDz\_VV4-8uBy5BefLVo9SftwfecciD7sJCGZhwgEWb-PeYAPI01w3AOZ0x\_d7oWpMTQpLBqv201qb8VtmFjB1SaK0nChsy7knCt\_EVQwlaioEPTtBZSUQLuLQa)
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-![Nach der Kennzeichnung der Zahlung als ungültig.](https://lh6.googleusercontent.com/ui2lGGDHK7Pp6KZQ34UHg4KERF9eGDgQKHg3YIr20B8J0oyObiCVic5hOuvpR5HOK16dvvR8aCx70LYnPE-kKN2AKBfPkz3nXvhAM17oYgdPLmDhJiApl7-w\_vfDKog2p8iFAKcY)
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-[Markieren Sie dann die Bestellung als "storniert",](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) indem Sie die folgenden Schritte ausführen.
+[Markieren Sie dann die Bestellung als "storniert",](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) indem Sie die nachfolgenden Schritte ausführen.
 {% endtab %}
 
 {% tab title="Stripe" %}
 Die Zahlung für die Bestellung wird automatisch bei der Erstellung eingezogen (außer bei [Abonnements](../subscriptions/)), so dass die Bestellung in der [Liste der Bestellungen](view-orders.md#auflistung-der-auftraege) als solche erscheint:
 
-![](https://lh6.googleusercontent.com/9\_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Gehen Sie zu [**Bestellungen -> Bearbeiten**](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie im rechten Menü "Zahlungen". Klicken Sie auf das "**X**" rechts neben der Zahlung, um sie zu stornieren.
 
@@ -71,31 +70,29 @@ Dadurch wird die Zahlung automatisch an die vom Kunden verwendete Kredit- oder D
 Beachten Sie, dass es 3 bis 5 Arbeitstage dauern kann, bis Stripe-Zahlungen auf dem Kontoauszug eines Kunden erscheinen.
 {% endhint %}
 
-Wenn Sie eine Rückerstattung vorgenommen haben, gehen Sie wie folgt vor, um die [Bestellung zu stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
+Wenn Sie eine Rückerstattung vorgenommen haben, gehen Sie wie nachfolgend beschrieben vor, um die [Bestellung zu stornieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
 {% endtab %}
 
 {% tab title="PayPal" %}
-Die Zahlung wird automatisch an der Kasse vom Kunden eingezogen, so dass die [Bestellung in der Auflistung](view-orders.md#auflistung-der-auftraege) Aufträge als angezeigt wird:
+Die Zahlung wird automatisch an der Kasse vom Kunden eingezogen, so dass die Bestellung als "bezahlt" angezeigt wird:
 
-![](https://lh6.googleusercontent.com/9\_eN8vGTnyWSL997ebeYQeasxhaiOGKlkwLFydvAHJGiXvUgCR1CmuPRl-fZ4DbwUw3tVNnSSEI7S8M7ZqnYrkGdPkvRHvBpPKmhK47wjFCXfDrF8VUanpBe8NdErg-3nl6b549y)
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Bestellungen, die über PayPal aufgegeben und bezahlt wurden, können nicht über die OFN-Plattform erstattet werden.**
 {% endhint %}
 
-![](../../.gitbook/assets/pp.jpg)
-
 Um dem Kunden das Geld zurückzuerstatten, müssen Sie sich in Ihr [PayPal-Konto ](https://www.paypal.com/)einloggen und das Geld über die Schnittstelle auf das Konto des Kunden zurücküberweisen.
 
-Danach können Sie die Bestellung mit den folgenden Schritten als [storniert markieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
+Danach können Sie die Bestellung mit den nachfolgenden Schritten als [storniert markieren](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
 {% endtab %}
 {% endtabs %}
 
 #### Einen Auftrag als storniert markieren
 
-Sobald Sie eine Erstattung vorgenommen haben, können Sie die Bestellung stornieren.[ Bearbeiten Sie die Bestellung](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie "Bestellung stornieren" unter "Aktionen" (blaue Schaltfläche oben rechts)
+Sobald Sie eine Erstattung vorgenommen haben, können Sie die Bestellung stornieren.[ Bearbeiten Sie die Bestellung](view-orders.md#einen-auftrag-bearbeiten) und wählen Sie "Bestellung stornieren" unter "Aktionen" (blaue Schaltfläche oben rechts).
 
-![](https://lh6.googleusercontent.com/V3A6girSx2xUYYW9Jp3VIp41YZrgSq7JaicQlLWUrcVqA1u6SzFjagJkg0KLIL05LgRBXErJyk\_iLVrBwt9metOp\_RqXmSKL8dRCxFtj6VqTEDjx7z\_NHERFNJPw-CdOlNGGmBYp)
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Der Kunde erhält eine E-Mail, in der er darüber informiert wird, dass seine Bestellung storniert wurde.
@@ -107,9 +104,11 @@ Beachten Sie, dass Sie eine Bestellung, die als 'Versendet' markiert wurde, nich
 
 ### Teilweise Erstattung
 
-Um eine Teilerstattung auszustellen, müssen Sie zunächst die Bestellung bearbeiten, um den geschuldeten Betrag zu ändern. Es gibt zwei Möglichkeiten, [eine Bestellung zu bearbeiten](view-orders.md#einen-auftrag-bearbeiten), wenn Sie eine Teilerstattung vornehmen möchten. Sie können die Artikelmengen anpassen oder eine Anpassung vornehmen:
+Um eine Teilerstattung vorzunehmen, müssen Sie zunächst die Bestellung bearbeiten, um den geschuldeten Betrag zu ändern. Es gibt zwei Möglichkeiten, [eine Bestellung zu bearbeiten](view-orders.md#einen-auftrag-bearbeiten), wenn Sie eine Teilerstattung vornehmen möchten. Sie können die Artikelmengen anpassen oder eine Anpassung vornehmen:
 
-**1.Bearbeiten, indem Sie einen Artikel**, der nicht vorrätig ist, entfernen oder die Menge eines Artikels ändern, indem Sie zu [Bestellungen -> Bestellung bearbeiten](view-orders.md#hinzufuegen-und-entfernen-von-produkten-aus-einer-bestellung) gehen und auf das Symbol "Bearbeiten" rechts neben dem betreffenden Artikel klicken, wie unten dargestellt:
+1. **Artikelmenge bearbeiten:** Bearbeiten Sie eine Bestellung, indem Sie einen Artikel, der nicht vorrätig ist, entfernen (grünes Rechteck) oder die Menge eines Artikels ändern (rotes Rechteck), indem Sie zu [Bestellungen -> Bestellung bearbeiten](view-orders.md#hinzufuegen-und-entfernen-von-produkten-aus-einer-bestellung) gehen und auf das Symbol "Bearbeiten" rechts neben dem betreffenden Artikel klicken, wie unten dargestellt:
+
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 Wählen Sie unten auf der Seite "Gebühren aktualisieren und neu berechnen".
 
@@ -117,18 +116,13 @@ Wählen Sie unten auf der Seite "Gebühren aktualisieren und neu berechnen".
 Wenn das [Produkt](../products-1/) vom Lieferanten aus seiner Hauptproduktliste gelöscht wurde, ist es nicht möglich, diese Seite zu bearbeiten. Verwenden Sie in diesem Fall die unten stehende Methode "Anpassungen".
 {% endhint %}
 
-**2. Ändern Sie die Gebühren** in der [Bestellung](view-orders.md#einen-auftrag-bearbeiten), indem Sie im Menü auf der rechten Seite Bestellungen -> Bearbeiten -> Anpassungen aufrufen.
+**2. Ändern Sie die Bestellung in dem Sie eine neue Anpassung vornehmen,** indem Sie im Menü auf der rechten Seite Bestellungen -> Bearbeiten -> Anpassungen aufrufen.
 
-![](https://lh3.googleusercontent.com/qu1o7\_GwVwvozkH-aSaxH7Pg9ZJ9mcd-jXM0VrNmUTGyMeOfKmdhf8WPa66FjVayQEryr1Bkv4Q\_2UfVSlhSCDvvQcSaZ-ARj-gJG01cWPTRh4ktAMy1ofk4gyUiWQ4ZoK2OfkjB)
-
-Daraufhin wird eine Liste der Unternehmensgebühren für jeden Artikel in der Bestellung sowie der Gebühren für Versand und Zahlungsmethode angezeigt. Sie können eine dieser Gebühren anpassen, indem Sie auf das Symbol "Bearbeiten" rechts neben dem betreffenden Artikel klicken.\
-
-
-**3. Bearbeiten Sie den Auftrag**, indem Sie eine neue Anpassung hinzufügen, indem Sie im rechten Menü **Aufträge -> Bearbeiten -> Anpassungen** aufrufen und **+Neue Anpassung** (die Schaltfläche oben rechts) wählen, um eine separate Anpassung vorzunehmen, die nichts mit den Gebühren zu tun hat.
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Fügen Sie die relevanten Details hinzu und denken Sie daran, dass der Wert für **eine Erstattung** eine **negative Zahl** sein muss. Wenn Sie fertig sind, klicken Sie auf "Weiter".
 
-![](https://lh3.googleusercontent.com/RfvWyS1G6v7NVNIDGWTlpfK9hfZj7Vy5\_Q6NxlEEyWYtAnebNEphT8XTCSPGvC2EaIGrxioqhcGfaBOIpgqjhjqtSiCwCMKcd4BLFV9M2YIWQ32XkpkAqz\_fV-8GWI7CpkLteRpl)
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Sie können "Anpassungen" verwenden, um einem Kunden einen Teil der Kosten für ein minderwertiges Produkt zu erstatten.
@@ -144,11 +138,11 @@ Wenn Sie eine Teilerstattung des geschuldeten Betrags vornehmen möchten, lesen 
 1. Veranlassen Sie, dass die Erstattung an den Kunden unabhängig von der Plattform erfolgt.&#x20;
 2. Erfassen Sie diese Aktion, indem Sie zu **Aufträge -> Bearbeiten** gehen und im rechten Menü "Zahlungen" und dann "**+ Neue Zahlung**" auswählen:
 
-![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC\_8lRzME6B9VGjJ2dB78rpPMeoIT\_KBKpzA9GMncfpCXPc)
+![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC_8lRzME6B9VGjJ2dB78rpPMeoIT_KBKpzA9GMncfpCXPc)
 
 
 
-![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5\_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c\_F2AhbHNJY0BsABUPMm6603\_ut7gqIpg)
+![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c_F2AhbHNJY0BsABUPMm6603_ut7gqIpg)
 
 Geben Sie in das Feld "Betrag" einen **negativen Wert** ein, um die Erstattung als erfolgt zu verbuchen.
 {% endtab %}
@@ -158,7 +152,7 @@ Mit der OFN-Plattform können Sie einem Kunden, der mit Stripe bezahlt hat, auto
 
 1.Gehen Sie zu **Aufträge -> Auftrag bearbeiten** und wählen Sie dann "Zahlungen" aus dem rechten Menü.
 
-![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB\_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
+![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
 
 2.Da Sie die Anpassung im vorherigen Schritt vorgenommen haben, wird auf dem Zahlungsbildschirm nun "**Guthaben**" mit dem von Ihnen angegebenen Betrag angezeigt. Wenn Sie auf das Häkchen neben der Zahlung klicken, wird das dem Kunden geschuldete Guthaben automatisch zurückerstattet.
 
@@ -180,7 +174,7 @@ Beachten Sie, dass es 3 bis 5 Arbeitstage dauern kann, bis Stripe-Zahlungen auf 
 3. Besuchen Sie **Aufträge - > Auftrag bearbeiten-> Zahlungen** (im rechten Menü).
 4. Wählen Sie **+Neue Zahlung** und wählen Sie 'Paypal-Erstattungen':
 
-![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe\_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
+![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
 
 Ein negativer Wert im Feld "Betrag" bedeutet, dass eine Erstattung erfasst wird.
 
@@ -198,14 +192,14 @@ Führen Sie die oben beschriebenen Schritte für [Teilerstattungen aus](refunds-
 
 Bestellungen werden jetzt mit dem Zahlungsstatus = "Restbetrag fällig" angezeigt:
 
-![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2\_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
+![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
 
 Um die Zahlung der zusätzlich fälligen Beträge zu erfassen, besuchen Sie [Aufträge -> Auftrag bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und dann "Zahlungen". Wählen Sie + Neue Zahlung (blaue Schaltfläche oben rechts)
 
 1. Wenn der Kunde Ihrem Unternehmen das geschuldete Geld in **bar oder als** BACS-Zahlung gegeben hat, erfassen Sie dies auf die gleiche Weise wie bei einer Rückerstattung, verwenden aber einen positiven Wert im Feld "Betrag".
 2. Wenn der Kunde anwesend ist oder am Telefon ist, können Sie die zusätzliche Zahlung über Stripe abwickeln. Hierfür benötigen Sie die Daten der Kredit-/Debitkarte des Kunden:
 
-![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ\_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd\_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
+![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
 
 {% hint style="danger" %}
 Beachten Sie, dass der Einzug der zusätzlichen Gelder durch PayPal über die Plattform derzeit nicht möglich ist.

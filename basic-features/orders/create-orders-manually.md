@@ -1,6 +1,6 @@
 # Aufträge manuell erstellen
 
-Es kann vorkommen, dass Sie einen Auftrag manuell in das System eingeben möchten. Dies kann im Namen eines Kunden geschehen oder damit Ihre Berichte eine Bestellung aus einem anderen Verkaufsstrom erfassen. Sie können eine Bestellung erstellen, indem Sie zu **Bestellungen** gehen und auf die Schaltfläche **+ Neue Bestellung** klicken.
+Es kann vorkommen, dass Sie einen Auftrag manuell in das System eingeben möchten. Dies kann im Namen eines Kunden geschehen oder dass Ihre Berichte eine Bestellung aus einem anderen Verkaufsstrom erfassen. Sie können eine Bestellung erstellen, indem Sie zu **Bestellungen** gehen und auf die Schaltfläche **+ Neue Bestellung** klicken.
 
 ![](../../.gitbook/assets/manorder1.jpg)
 
@@ -8,13 +8,13 @@ Dort werden Sie dann Schritt für Schritt durch den Bestellvorgang geführt:
 
 ![](../../.gitbook/assets/manorder2.jpg)
 
-Zunächst werden Sie aufgefordert, den Händler auszuwählen, bei dem die Bestellung aufgegeben werden soll.\
+Zunächst werden Sie aufgefordert, die Verteilstelle auszuwählen, bei dem die Bestellung aufgegeben werden soll.\
 Als nächstes müssen Sie den Bestellzyklus auswählen, in dem die Bestellung aufgegeben werden soll. Die Wahl des Bestellzyklus bestimmt, welche Produkte der Bestellung hinzugefügt werden können und welche Gebühren anfallen.\
 Sie werden dann auf die folgende Seite weitergeleitet, auf der Sie Produkte auswählen können. Sie müssen mindestens die ersten 3 Zeichen des Produkts eingeben, damit es als Option in der Auswahlliste erscheint:
 
 ![](../../.gitbook/assets/manorder3.jpg)
 
-Wenn Sie das gewünschte Produkt gefunden haben, geben Sie die Menge ein und klicken Sie auf die Schaltfläche + rechts neben dem Produkt, um es in den Warenkorb zu legen.
+Wenn Sie das gewünschte Produkt gefunden haben, geben Sie die Menge ein und klicken Sie auf die Schaltfläche "+" rechts neben dem Produkt, um es in den Warenkorb zu legen.
 
 ![](../../.gitbook/assets/manorder4.jpg)
 
@@ -28,14 +28,14 @@ Der nächste Schritt besteht darin, die Kundendaten einzugeben (rechtes Menü, z
 
 ![](../../.gitbook/assets/manorder6.jpg)
 
-Klicken Sie auf **Aktualisieren** und gehen Sie zurück zu den Auftragsdetails (oberste Option im rechten Menü). Sie können nun eine Versandart für den Kunden auswählen.
+Klicken Sie auf **Aktualisieren** und gehen Sie zurück zu den Auftragsdetails (oberste Option im rechten Menü). Sie können nun eine Lieferoption für den Kunden auswählen.
 
 ![](../../.gitbook/assets/manorder7.jpg)
 
 Kreuzen Sie an, um Änderungen zu aktualisieren, und kreuzen Sie an, um sie zu verwerfen.
 
 {% hint style="danger" %}
-Sie können keine Versandart auswählen, bevor Sie die Daten des Kunden hinzugefügt haben.
+Sie können keine Lieferoption auswählen, bevor Sie nicht die Daten des Kunden hinzugefügt haben.
 {% endhint %}
 
 Der letzte Schritt besteht darin, die Zahlungsmethode des Kunden hinzuzufügen. Diese finden Sie in der unteren Option des rechten Menüs:
