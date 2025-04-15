@@ -202,14 +202,12 @@ Wenn eine Zahlungsmethode mit einer Gebühr verbunden ist, wird diese Gebühr vo
 
 ## Behalten Sie den Überblick über die Zahlungssalden Ihrer Kunden
 
-Die fälligen Beträge (Guthaben) oder die fälligen Beträge (Lastschrift) für die einzelnen Aufträge können Sie auf der Verwaltungsseite Ihrer [Listingaufträge](view-orders.md) einsehen.
+Die fälligen Beträge (Guthaben) oder die fälligen Beträge (Lastschrift) für die einzelnen Aufträge können Sie auf der Verwaltungsseite Ihrer [Bestellungen](view-orders.md) einsehen.
 
 {% hint style="warning" %}
-Remember that only payments for integrated payment methods (PayPal and Stripe) are automatically captured by the platform. If a customer pays your business by cash or BACS (or similar) you will need to [capture this payment](view-orders.md#capturing-a-payment) manually to keep your records up to date.
-
 Denken Sie daran, dass nur Zahlungen für integrierte Zahlungsmethoden (PayPal und Stripe) automatisch von der Plattform erfasst werden. Wenn ein Kunde Ihr Unternehmen mit Bargeld oder BACS (oder ähnlichem) bezahlt, müssen Sie [diese Zahlung manuell erfassen](view-orders.md#payment-and-shipment-state), um Ihre Unterlagen auf dem neuesten Stand zu halten.
 {% endhint %}
 
-Vielleicht möchten Sie Ihren vertrauenswürdigen Kunden erlauben, einmal im Monat (per BACS) für alle ihre Bestellungen in diesem Zeitraum zu zahlen, oder denjenigen, die eine Woche Cashflow haben, etwas Spielraum bei ihren Zahlungen geben. Um die Salden der einzelnen Kunden Ihres Unternehmens zu verfolgen, besuchen Sie Ihre Kundenliste. Der fällige Kredit-/Lastschriftbetrag wird rechts neben dem Eintrag des jeweiligen Kunden angezeigt.
+Vielleicht möchten Sie Ihren vertrauenswürdigen Kunden erlauben, einmal im Monat (per BACS) für alle ihre Bestellungen in diesem Zeitraum zu bezahlen, oder denjenigen, die über einen Cashflow von einer Woche verfügen, ein wenig Spielraum bei ihren Zahlungen geben. Um die Salden der einzelnen Kunden Ihres Unternehmens zu verfolgen, besuchen Sie Ihre Kundenliste. Der fällige Kredit-/Lastschriftbetrag wird rechts neben dem Eintrag des jeweiligen Kunden angezeigt.
 
 ![](../../.gitbook/assets/customerbalance.jpg)

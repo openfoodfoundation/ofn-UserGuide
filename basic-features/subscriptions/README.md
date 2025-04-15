@@ -10,7 +10,7 @@ Abonnements befinden sich im Betastadium, d.h. es handelt sich um eine neue Funk
 
 ## Was sind Abonnements? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
-Abonnements sind wiederkehrende oder Daueraufträge, die für die Kunden jedes Unternehmens mit einem Schaufenster eingerichtet werden können. Einmal eingerichtet, werden diese Aufträge automatisch in bestimmten Abständen (z. B. wöchentlich, vierzehntägig, monatlich) bearbeitet.
+Abonnements sind wiederkehrende Bestellungen oder Daueraufträge, die für die Kunden jedes Unternehmens mit einem Schaufenster eingerichtet werden können. Einmal eingerichtet, werden diese Aufträge automatisch in bestimmten Abständen (z. B. wöchentlich, vierzehntägig, monatlich) bearbeitet.
 
 {% hint style="success" %}
 Abonnements sind für die Kunden bequem, da sie wissen, dass ihre Bestellung bearbeitet wird, ohne dass sie daran denken müssen, ihre Bestellung aufzugeben.
@@ -34,7 +34,7 @@ Abonnements sind auch eine gute Möglichkeit für ein Unternehmen, die Kundenbin
 * Stellen Sie sicher, dass Sie [Versand- und Zahlungsmethoden ](subscriptions-configuration.md#versand-und-zahlungsarten-fuer-abonnements)für Ihre Kunden eingerichtet haben.
 * [Sammeln Sie Informationen von Ihren Kunden](subscriptions-configuration.md#sammeln-sie-informationen-von-ihren-kunden), z. B. ihre Kontaktdaten, welche Artikel sie in ihrem Abonnement wünschen und welche Versand- und Zahlungsarten sie verwenden werden.
 * [Fügen Sie Ihre Abonnementkunden zu Ihrer Kundenliste hinzu](subscriptions-configuration.md#fuegen-sie-ihre-abonnenten-zu-ihrer-kundenliste-hinzu) und bitten Sie sie, sich bei OFN anzumelden.
-* Einrichten von [Zeitplänen](subscriptions-configuration.md#zeitplaene), die festlegen, wie häufig Abonnements bearbeitet werden.
+* Richten Sie [Zeitpläne](subscriptions-configuration.md#zeitplaene) ein, die festlegen, wie häufig Abonnements bearbeitet werden.
 
 [**Erstellen und Verwalten von Aufträgen:**](subscriptions-creating-and-managing-orders.md) **Auf dieser Seite werden die Schritte beschrieben, die mit der Erstellung eines neuen Abonnements und der anschließenden Bearbeitung des Auftrags verbunden sind.**
 

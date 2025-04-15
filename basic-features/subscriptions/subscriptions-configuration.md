@@ -2,7 +2,7 @@
 
 ## Aktivieren von Abonnements
 
-Um die Abonnementfunktion für Ihr Unternehmen zu aktivieren, gehen Sie zu Unternehmen-> Einstellungen-> [Shop-Einstellungen](../enterprise-profile/enterprise-settings.md#shop-einstellungen).
+Um die Abonnementfunktion für Ihr Unternehmen zu aktivieren, gehen Sie zu Unternehmen-> Einstellungen-> [Laden](../enterprise-profile/enterprise-settings.md#shop-einstellungen).
 
 Ändern Sie unten auf der Seite Abonnements auf "aktiviert".
 
@@ -10,7 +10,7 @@ Um die Abonnementfunktion für Ihr Unternehmen zu aktivieren, gehen Sie zu Unter
 
 **Gastbestellungen:** Für Unternehmen mit aktivierten Abonnements empfehlen wir, dass sich alle Kunden anmelden müssen, bevor sie bei Ihnen einkaufen können. Dadurch wird sichergestellt, dass jeder Kunde mit einem Abonnement sich anmeldet und seine bestehende Abonnementbestellung sieht und nicht versehentlich eine Doppelbestellung aufgibt.
 
-**Aufträge ändern:** Für Kunden mit einem regelmäßig wiederkehrenden Auftrag von Ihrem Unternehmen im Abonnement, dann gelten die folgenden Optionen:
+**Aufträge ändern:** Für Kunden mit einem Abonnement von Ihrem Unternehmen, wirken sich die Optionen für diese Einstellung wie folgt aus:
 
 * _Erteilte Aufträge können nicht geändert/storniert werden:_ Der Kunde muss sich mit Ihnen in Verbindung setzen, um seine reguläre Bestellung zu ändern (Änderung der Mengen der einzelnen gewünschten Produkte oder Stornierung der Bestellung).
 * _Kunden können Bestellungen ändern/stornieren, während der Bestellzyklus offen ist:_ Der Kunde kann die Menge der Produkte, die er in seinem Abonnement wünscht, ändern und/oder die gesamte Bestellung stornieren.
@@ -21,9 +21,9 @@ Wenn ein Kunde mit einer Abonnementbestellung ein Produkt kaufen möchte, das ni
 
 ## Versand- und Zahlungsarten für Abonnements
 
-Wenn Sie das Abonnement des Kunden erstellen, müssen Sie die Versandart und die Zahlungsmethode auswählen, mit der der Kunde bezahlt werden soll. Dies gilt dann für alle folgenden Bestellungen, die in ihrem Namen über die Abonnements aufgegeben werden
+Wenn Sie das Abonnement des Kunden erstellen, müssen Sie die Lieferoption und die Zahlungsart auswählen, mit der der Kunde bezahlt werden soll. Dies gilt dann für alle folgenden Abonnements-Bestellungen für den Kunden.
 
-### Versandmethoden
+### Lieferoptionen
 
 Sie können jede [Versand-/Liefermethode](subscriptions-configuration.md#versandmethoden) für ein Abonnement verwenden.
 
@@ -32,7 +32,7 @@ Sie können jede [Versand-/Liefermethode](subscriptions-configuration.md#versand
 Sie können Abonnements nur zwei Arten von [Zahlungsarten](../shopfront/payment-methods.md) zuordnen.
 
 1. **Manuelle Zahlungsarten:** Bargeld, Scheck, Banküberweisung (d. h. jede Methode, die keine automatische Online-Validierung durch die OFN-Plattform beinhaltet).
-2. Stripe: Stripe ist ein Zahlungs-Gateway, das Zahlungen mit Kreditkarten entgegennimmt. Einzelheiten darüber, wie Sie Stripe-Zahlungen für Ihr Unternehmen konfigurieren, finden Sie [hier](../shopfront/payment-methods.md#integrierte-zahlungsanbieter).
+2. **Stripe**: Stripe ist eine Zahlungs-Schnittstelle, die Zahlungen mit Kreditkarten entgegennimmt. Einzelheiten darüber, wie Sie Stripe-Zahlungen für Ihr Unternehmen konfigurieren, finden Sie [hier](../shopfront/payment-methods.md#integrierte-zahlungsanbieter).
 
 {% hint style="info" %}
 Bei jeder Bestellung, die automatisch durch ein Abonnement aufgegeben wird, wird die Bankkarte des Kunden für die Bestellung belastet (bei Abschluss des entsprechenden Bestellzyklus). Der belastete Betrag spiegelt alle Änderungen wider, die Sie oder der Kunde an der Bestellung vorgenommen haben.\
@@ -63,9 +63,9 @@ Um ein Abonnement für einen Kunden einzurichten, müssen Sie einige Information
 
 **Versand-/Zustellungsmethode:** Sie müssen der Abonnementbestellung eine Versand-/Liefer-/Abholmethode zuweisen. Wie möchten sie die Waren erhalten?
 
-Zahlungsmethode: Kunden können zwischen manuellen Zahlungsmethoden (z.B. Barzahlung, Banküberweisung) oder der Zahlung mit Kreditkarte über das Stripe-Konto Ihres Shops wählen. Wenn der Kunde seine Abonnementbestellungen über Stripe bezahlen möchte, muss er eine Standardzahlungskarte hinzufügen und eine Autorisierung erteilen. Siehe [hier](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren) für weitere Details.
+**Zahlungsmethode**: Kunden können zwischen manuellen Zahlungsmethoden (z.B. Barzahlung, Banküberweisung) oder der Zahlung mit Kreditkarte über das Stripe-Konto Ihres Shops wählen. Wenn der Kunde seine Abonnementbestellungen über Stripe bezahlen möchte, muss er eine Standardzahlungskarte hinzufügen und eine Autorisierung erteilen. Siehe [hier](subscriptions-the-customers-perspective.md#speichern-von-kreditkarten-und-autorisierung-von-gebuehren) für weitere Details.
 
-**Start- und Enddatum für ihre Abonnementaufträge:** Damit ein Abonnementauftrag für einen bestimmten Auftragszyklus erstellt werden kann, muss er ein Startdatum haben, das entweder vor oder nach dem Eröffnungsdatum des Auftragszyklus liegt, und das Enddatum des Abonnements muss nach dem Abschlussdatum des Auftragszyklus liegen.
+**Start- und Enddatum für ihre Abonnementaufträge:** Damit ein Abonnementauftrag für einen bestimmten Auftragszyklus erstellt werden kann, muss er ein Startdatum haben, das entweder vor oder nach dem Eröffnungsdatum des Bestellzyklus liegt, und das Enddatum des Abonnements muss nach dem Abschlussdatum des Bestellzyklus liegen.
 
 ## Fügen Sie Ihre Abonnenten zu Ihrer Kundenliste hinzu
 
@@ -90,14 +90,14 @@ Wir empfehlen daher das folgende Verfahren:
 ## Zeitpläne
 
 {% hint style="info" %}
-Wenn Sie neu bei OFN sind, empfehlen wir Ihnen, sich mit der Einrichtung von [Auftragszyklen](../shopfront/order-cycle/) vertraut zu machen, bevor Sie Zeitpläne und Abonnements einrichten.
+Wenn Sie neu bei OFN sind, empfehlen wir Ihnen, sich mit der Einrichtung von [Bestellzyklen](../shopfront/order-cycle/) vertraut zu machen, bevor Sie Zeitpläne und Abonnements einrichten.
 {% endhint %}
 
 ### Über Zeitpläne
 
 Abonnements sind so eingerichtet, dass jedes Mal, wenn ein Unternehmen einen Bestellzyklus öffnet, automatisch Bestellungen für Kunden generiert werden können, die ein Abonnement bei diesem Shop haben. Die Häufigkeit, mit der eine Abonnementbestellung für einen bestimmten Kunden aufgegeben wird (d. h. welcher Ihrer aktiven Bestellzyklen sein Abonnement auslöst), wird über eine Funktion namens "**Zeitpläne**" gesteuert.
 
-Zeitpläne sind Gruppen, denen Auftragszyklen zugeordnet werden können. Sobald ein Zeitplan erstellt wurde, werden Kundenabonnements auf den Zeitplan angewendet, so dass eine Bestellung für ihr Abonnement nur für neue Auftragszyklen in diesem Zeitplan generiert wird.
+Zeitpläne sind Gruppen, denen Bestellzyklen zugeordnet werden können. Sobald ein Zeitplan erstellt wurde, werden Kundenabonnements auf den Zeitplan angewendet, so dass eine Bestellung für ihr Abonnement nur für neue Bestellzyklen in diesem Zeitplan generiert wird.
 
 {% hint style="info" %}
 In diesem Fall würden Sie ihre Abonnements zu einem Zeitplan hinzufügen, der alle Ihre wöchentlichen Bestellzyklen umfasst. Für andere Kundengruppen, die nur vierzehntägige/monatliche Bestellungen wünschen, können Sie zusätzliche Zeitpläne erstellen, die nur abwechselnd/einmal pro Woche einen Ihrer wöchentlichen Bestellzyklen enthalten.
@@ -109,34 +109,34 @@ Dieses Arrangement ist sehr flexibel, so dass Sie ruhig experimentieren können,
 
 ### Einen Zeitplan erstellen
 
-Wenn Sie alle oben beschriebenen Schritte durchgeführt haben, erscheint die Schaltfläche **+Neuer Zeitplan** oben in Ihrem Menü Auftragszyklen:
+Wenn Sie alle oben beschriebenen Schritte durchgeführt haben, erscheint die Schaltfläche **+Neuer Zeitplan** oben in Ihrem Menü Bestellzyklen:
 
 ![](<../../.gitbook/assets/ordercycle1 (2) (2).jpg>)
 
 {% hint style="warning" %}
-Sie müssen mindestens einen offenen oder zu öffnenden Auftragszyklus haben, um einen neuen Zeitplan erstellen zu können.
+Sie müssen mindestens einen offenen oder zu öffnenden Bestellzyklus haben, um einen neuen Zeitplan erstellen zu können.
 {% endhint %}
 
 ![](../../.gitbook/assets/new-schedule.bin)
 
-**Name:** Geben Sie dem Zeitplan einen logischen Namen, der diese Gruppe von Auftragszyklen beschreibt. Z.B. 'wöchentlich', 'monatlich', 'Dienstagslieferungen', 'Großhandel' oder 'Einzelhandel'. Dieser Name ist für die Kunden nicht sichtbar.
+**Name:** Geben Sie dem Zeitplan einen logischen Namen, der diese Gruppe von Bestellzyklen beschreibt. Z.B. 'wöchentlich', 'monatlich', 'Dienstagslieferungen', 'Großhandel' oder 'Einzelhandel'. Dieser Name ist für die Kunden nicht sichtbar.
 
 {% hint style="info" %}
 Wenn Sie mehrere OFN-Unternehmen verwalten und die Abonnements in mehr als einem Unternehmen aktiviert sind, müssen Sie Ihre Zeitpläne eindeutig benennen, z. B. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.\
 Jedes Unternehmen benötigt einen anderen Zeitplan, aber wenn Sie ein Abonnement für einen Kunden erstellen, werden die Zeitpläne für alle Ihre Unternehmen angezeigt. Daher hilft Ihnen der beschreibende Name sicherzustellen, dass das Abonnement für das richtige Unternehmen für diesen bestimmten Kunden erstellt wird.
 {% endhint %}
 
-Sie können bestehende Auftragszyklen in den neuen Zeitplan einfügen und aus ihm herausnehmen, indem Sie auf die Schaltflächen < und > klicken.
+Sie können bestehende Bestellzyklen in den neuen Zeitplan einfügen und aus ihm herausnehmen, indem Sie auf die Schaltflächen "<" und ">" klicken.
 
 Klicken Sie auf Erstellen, wenn Sie fertig sind.
 
 ### Bearbeiten oder Löschen eines Zeitplans
 
-Um einen Zeitplan zu bearbeiten oder zu löschen, klicken Sie auf den Namen des Zeitplans neben dem entsprechenden Auftragszyklus in der Spalte "Zeitpläne". (Möglicherweise müssen Sie die Spalte "Zeitpläne" sichtbar machen, indem Sie sie im Dropdown-Spaltenmenü oben rechts anklicken).
+Um einen Zeitplan zu bearbeiten oder zu löschen, klicken Sie auf den Namen des Zeitplans neben dem entsprechenden Bestellzyklus in der Spalte "Zeitpläne". (Möglicherweise müssen Sie die Spalte "Zeitpläne" sichtbar machen, indem Sie sie im Dropdown-Spaltenmenü oben rechts anklicken).
 
 ![](../../.gitbook/assets/show-schedules.bin)
 
-Sie können den Namen des Zeitplans ändern, Auftragszyklen hinzufügen/entfernen oder den Zeitplan löschen.
+Sie können den Namen des Zeitplans ändern, Bestellzyklen hinzufügen/entfernen oder den Zeitplan löschen.
 
 ![](../../.gitbook/assets/delete-schedule.bin)
 
@@ -144,13 +144,13 @@ Sie können den Namen des Zeitplans ändern, Auftragszyklen hinzufügen/entferne
 Sie können einen Zeitplan nicht löschen, wenn er mit Abonnements verbunden ist.
 {% endhint %}
 
-### Hinzufügen oder Entfernen von Auftragszyklen aus Zeitplänen
+### Hinzufügen oder Entfernen von Bestellzyklen aus Zeitplänen
 
-Sie können Auftragszyklen aus Zeitplänen hinzufügen und entfernen, indem Sie entweder den Zeitplan bearbeiten (siehe [oben](subscriptions-configuration.md#bearbeiten-oder-loeschen-eines-zeitplans)) oder den Auftragszyklus bearbeiten und den Zeitplan im Feld "Zeitpläne" hinzufügen/entfernen:
+Sie können Bestellzyklen aus Zeitplänen hinzufügen und entfernen, indem Sie entweder den Zeitplan bearbeiten (siehe [oben](subscriptions-configuration.md#bearbeiten-oder-loeschen-eines-zeitplans)) oder den Bestellzyklus bearbeiten und den Zeitplan im Feld "Zeitpläne" hinzufügen/entfernen:
 
 ![](../../.gitbook/assets/ordercycle3.jpg)
 
 {% hint style="success" %}
-Auftragszyklen können in mehr als einem Zeitplan enthalten sein. Wenn Ihre Auftragszyklen beispielsweise wöchentlich sind, Sie aber drei Zeitpläne haben (wöchentlich, vierzehntägig-ungerade Wochen und vierzehntägig-gerade Wochen), dann kann ein Auftragszyklus sowohl mit dem "wöchentlichen" als auch mit dem "vierzehntägig-ungeraden" Wochenzeitplan verbunden sein.
+Bestellzyklen können in mehr als einem Zeitplan enthalten sein. Wenn Ihre Bestellzyklen beispielsweise wöchentlich sind, Sie aber drei Zeitpläne haben (wöchentlich, vierzehntägig-ungerade Wochen und vierzehntägig-gerade Wochen), dann kann ein Bestellzyklus sowohl mit dem "wöchentlichen" als auch mit dem "vierzehntägig-ungeraden" Wochenzeitplan verbunden sein.
 {% endhint %}
 
