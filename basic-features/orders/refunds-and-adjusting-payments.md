@@ -136,13 +136,11 @@ Wenn Sie eine Teilerstattung des geschuldeten Betrags vornehmen möchten, lesen 
 {% tabs %}
 {% tab title="Bargeld/BACS" %}
 1. Veranlassen Sie, dass die Erstattung an den Kunden unabhängig von der Plattform erfolgt.&#x20;
-2. Erfassen Sie diese Aktion, indem Sie zu **Aufträge -> Bearbeiten** gehen und im rechten Menü "Zahlungen" und dann "**+ Neue Zahlung**" auswählen:
+2. Erfassen Sie diese Aktion, indem Sie zu **Aufträge -> Bearbeiten** gehen und im rechten Menü **"Zahlungen"** und dann "**+ Neue Zahlung**" auswählen:
 
-![](https://lh5.googleusercontent.com/Zt7ppdgUXqxp178D72tj9A5asLzqKoaI8YrniuLDokcraOvNRBT6Hn2oEGxOtM8n7fLb54VrXRYDzyLj4rmki6rr6NC_8lRzME6B9VGjJ2dB78rpPMeoIT_KBKpzA9GMncfpCXPc)
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 
-
-![](https://lh3.googleusercontent.com/l7lOK1yuMFNLur3XJhDEWTmaKQcfXhmziy26qbxXgUF7vs8BkvTTj7NPivA1wqgkckp5_PNb3VtsNpOngDw7s9bszPMDMPvy5T7Ulu0c_F2AhbHNJY0BsABUPMm6603_ut7gqIpg)
 
 Geben Sie in das Feld "Betrag" einen **negativen Wert** ein, um die Erstattung als erfolgt zu verbuchen.
 {% endtab %}
@@ -150,11 +148,8 @@ Geben Sie in das Feld "Betrag" einen **negativen Wert** ein, um die Erstattung a
 {% tab title="Stripe" %}
 Mit der OFN-Plattform können Sie einem Kunden, der mit Stripe bezahlt hat, automatisch Geld zurückerstatten. Die Erstattung wird direkt auf die Kredit- oder Debitkarte des Kunden überwiesen.
 
-1.Gehen Sie zu **Aufträge -> Auftrag bearbeiten** und wählen Sie dann "Zahlungen" aus dem rechten Menü.
-
-![](https://lh6.googleusercontent.com/DEfR7g7tS3wpeX3d3425q0i5yMImnTnwtJEqP2GfHEB_nLp1SnqopkJUx8VHZ7jdZQLpYQdBwAtudkKp091KbNBBzB0jbRnd2jy5NBZH6g3WNfA18y8jSCVOPLabPe2tU-WRmfjy)
-
-2.Da Sie die Anpassung im vorherigen Schritt vorgenommen haben, wird auf dem Zahlungsbildschirm nun "**Guthaben**" mit dem von Ihnen angegebenen Betrag angezeigt. Wenn Sie auf das Häkchen neben der Zahlung klicken, wird das dem Kunden geschuldete Guthaben automatisch zurückerstattet.
+1. Gehen Sie zu **Aufträge -> Auftrag bearbeiten** und wählen Sie dann "Zahlungen" aus dem rechten Menü.
+2. Da Sie die Anpassung im vorherigen Schritt vorgenommen haben, wird auf dem Zahlungsbildschirm nun "**Guthaben**" mit dem von Ihnen angegebenen Betrag angezeigt. Wenn Sie auf das Häkchen neben der Zahlung klicken, wird das dem Kunden geschuldete Guthaben automatisch zurückerstattet.
 
 ![](../../.gitbook/assets/refundfeast2.jpg)
 
@@ -172,9 +167,7 @@ Beachten Sie, dass es 3 bis 5 Arbeitstage dauern kann, bis Stripe-Zahlungen auf 
    Anzeige = 'Nur Back Office'\
    Zahlungsanbieter = "bar/EFT/etc".
 3. Besuchen Sie **Aufträge - > Auftrag bearbeiten-> Zahlungen** (im rechten Menü).
-4. Wählen Sie **+Neue Zahlung** und wählen Sie 'Paypal-Erstattungen':
-
-![](https://lh4.googleusercontent.com/OxsAJGhZBmz7fZiuWo1Fp5l-hdfGvnFm2vIZRRAxYf5yc2z1q7pCz4-ef6wWb-T6QaKh5uxCFFAX-MG3PaXe_N3ry4fpZ8XEp59NpmGididpdfvzf4gXvGBhQyRbmYfqhtFWrg1s)
+4. Wählen Sie **+Neue Zahlung** und wählen Sie 'Paypal-Erstattungen'.
 
 Ein negativer Wert im Feld "Betrag" bedeutet, dass eine Erstattung erfasst wird.
 
@@ -182,24 +175,22 @@ Ein negativer Wert im Feld "Betrag" bedeutet, dass eine Erstattung erfasst wird.
 Wenn Sie sich dafür entscheiden, eine neue Zahlung mit dem Zahlungsmittelanbieter "Paypal" hinzuzufügen, ist dies nicht möglich:
 {% endhint %}
 
-![](<../../.gitbook/assets/paypalnewpayment (1) (1).jpg>)
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 ## Einziehung zusätzlicher Zahlungen
 
-Führen Sie die oben beschriebenen Schritte für [Teilerstattungen aus](refunds-and-adjusting-payments.md#teilweise-erstattung), um der Bestellung eines Kunden weitere Artikel hinzuzufügen oder Anpassungen über die Seite [Verwaltung von Großaufträgen](../products-1/group-buy-for-bulk-ordering.md#anpassung-von-auftraegen-zur-erstellung-vollstaendiger-chargen) vorzunehmen.
+Führen Sie die oben beschriebenen Schritte für [Teilerstattungen](refunds-and-adjusting-payments.md#teilweise-erstattung) aus, um der Bestellung eines Kunden weitere Artikel hinzuzufügen oder Anpassungen über die Seite [Verwaltung von Großaufträgen](../products-1/group-buy-for-bulk-ordering.md#anpassung-von-auftraegen-zur-erstellung-vollstaendiger-chargen) vorzunehmen.
 
-Bestellungen werden jetzt mit dem Zahlungsstatus = "Restbetrag fällig" angezeigt:
+Bestellungen werden jetzt mit dem Zahlungsstatus = "Offener Betrag" angezeigt:
 
-![](https://lh3.googleusercontent.com/0SIla3VUQfK-MqNQ0RTuLwndE2_EFmBmZhafSRbb3v0QkDFwXCfPNXyKupa3cwBjXAAoiH6cc-5fMru2xP7SvfraYDnwFrH5jucOVcVUSo1SMv5hiGWn3wgNr15Jz670O80pSZ39)
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 Um die Zahlung der zusätzlich fälligen Beträge zu erfassen, besuchen Sie [Aufträge -> Auftrag bearbeiten](view-orders.md#einen-auftrag-bearbeiten) und dann "Zahlungen". Wählen Sie + Neue Zahlung (blaue Schaltfläche oben rechts)
 
-1. Wenn der Kunde Ihrem Unternehmen das geschuldete Geld in **bar oder als** BACS-Zahlung gegeben hat, erfassen Sie dies auf die gleiche Weise wie bei einer Rückerstattung, verwenden aber einen positiven Wert im Feld "Betrag".
-2. Wenn der Kunde anwesend ist oder am Telefon ist, können Sie die zusätzliche Zahlung über Stripe abwickeln. Hierfür benötigen Sie die Daten der Kredit-/Debitkarte des Kunden:
-
-![](https://lh3.googleusercontent.com/xou54OA2WQDBKXWmRqHkT6em-7qkd8F6CNJ_hvGWRCvzYbEh2JRtrI54C1ywHeL0X6VR8cFRnV3FELd_pO-kufo2nPszNDq6d2VdO-PPHgnpw3TcgY6n8ysSq8AhaGim-alJYZNX)
+1. Wenn der Kunde Ihrem Unternehmen das geschuldete Geld in **bar oder als** **BACS-Zahlung** gegeben hat, erfassen Sie dies auf die gleiche Weise wie bei einer Rückerstattung, verwenden aber einen positiven Wert im Feld "Betrag".
+2. Wenn der Kunde anwesend oder am Telefon ist, können Sie die zusätzliche Zahlung über Stripe abwickeln. Hierfür benötigen Sie die Daten der Kredit-/Debitkarte des Kunden:
 
 {% hint style="danger" %}
 Beachten Sie, dass der Einzug der zusätzlichen Gelder durch PayPal über die Plattform derzeit nicht möglich ist.
