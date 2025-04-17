@@ -9,7 +9,7 @@ Hier finden Sie eine Liste der vordefinierten Datenexporte, die zur Ansicht und 
 
 ## Alle Berichte
 
-Wenn Sie einen [Auftragszyklus](../shopfront/order-cycle/) eröffnet haben, können Sie Berichte erstellen, die Sie bei der Verwaltung der **Verpackung, der Bearbeitung Ihrer Aufträge** und der Erstellung von **Finanzberichten** unterstützen.
+Wenn Sie einen [Bestellzyklus](../shopfront/order-cycle/) eröffnet haben, können Sie Berichte erstellen, die Sie bei der Verwaltung der **Verpackung, der Bearbeitung Ihrer Aufträge** und der Erstellung von **Finanzberichten** unterstützen.
 
 ![Reports available to view and download](../../.gitbook/assets/screen-shot-2019-12-04-at-2.28.38-pm.png)
 
@@ -18,14 +18,14 @@ Bei den meisten Berichten können Sie die Daten nach bestimmten Kriterien filter
 * Datumsbereich
 * Hub-Name
 * Herstellername
-* Name des Auftragszyklus
+* Name des Bestellzyklus
 
 {% hint style="info" %}
-Für Hubs und Geschäfte, die [ständig offene Auftragszyklen haben](../shopfront/order-cycle/), kann die Verwendung des Datumsfilters bei der Anzeige von Berichten nützlich sein.
+Für Hubs und Geschäfte, die [ständig offene Bestellzyklen haben](../shopfront/order-cycle/), kann die Verwendung des Datumsfilters bei der Anzeige von Berichten nützlich sein.
 {% endhint %}
 
 {% hint style="success" %}
-Das Filtern von Daten nach Hub- und Producer-Namen kann besonders nützlich sein, wenn Sie mehrere Unternehmen auf der Plattform verwalten.
+Das Filtern von Daten nach Hub- und Produzenten-Namen kann besonders nützlich sein, wenn Sie mehrere Unternehmen auf der Plattform verwalten.
 {% endhint %}
 
 ## Berichte für Zulieferer&#x20;
@@ -41,13 +41,13 @@ Hubs können diese Änderung in ihren [Unternehmenseinstellungen](../enterprise-
 {% hint style="info" %}
 HINWEISE:&#x20;
 
-1. Wenn Sie als Produzent mehr als ein Lebensmittelzentrum beliefern, können Sie bei der Anzeige der Berichte den Filter "Zentrum" verwenden, um festzustellen, welche Produkte Sie an jedes Zentrum liefern müssen.
-2. Als liefernder Produzent kennen Sie vielleicht nicht die Namen der aktuell offenen Auftragszyklen. Das Filtern von Aufträgen in Ihren Berichten nach Datumsbereich ist eine einfache Alternative.
+1. Wenn Sie als Produzent mehr als einen Hub beliefern, können Sie bei der Anzeige der Berichte den Filter "Hubs" verwenden, um festzustellen, welche Produkte Sie an jeden Hub liefern müssen.
+2. Als liefernder Produzent kennen Sie vielleicht nicht die Namen der aktuell offenen Bestellzyklen. Das Filtern von Aufträgen in Ihren Berichten nach Datumsbereich ist eine einfache Alternative.
 {% endhint %}
 
 ## Einige hilfreiche Berichte
 
-| Task                                                                                                              | Vorgeschlagene(r) Bericht(e)                                                                                                                                                                    |
+| Aufgabe                                                                                                           | Vorgeschlagene(r) Bericht(e)                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Verfügbarkeit der Produkte                                                                                        | [Bestellzyklus Lieferanten-Summen](order-reports.md#bestellzyklus-lieferanten-summen)                                                                                                           |
 | Überprüfung der gelagerten Produkte                                                                               | <p><a href="reports-for-hub-management.md#produktmanagement">Alle Produkte</a></p><p><a href="reports-for-hub-management.md#produktmanagement">Bestandsaufnahme</a></p>                         |
@@ -71,13 +71,3 @@ HINWEISE:&#x20;
 Eine Zusammenfassung der in den einzelnen Berichten enthaltenen Daten ist im folgenden Dokument zu finden:
 
 {% file src="../../.gitbook/assets/listing-of-all-the-reports-and-their-columns-listing-of-all-the-reports-and-their-columns.pdf" %}
-
-
-
-##
-
-
-
-##
-
-##
