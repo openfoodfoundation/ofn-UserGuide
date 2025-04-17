@@ -1,28 +1,26 @@
 # Abonnements - FAQs
 
-### Wenn ich einen Auftragszyklus aus einem Zeitplan entferne, an den bereits offene Abonnementaufträge angehängt sind, was geschieht dann mit diesen Aufträgen? Werden diese Abonnements dann gelöscht?
+### Wenn ich einen Bestellzyklus aus einem Zeitplan entferne, an den bereits offene Abonnementaufträge angehängt sind, was geschieht dann mit diesen Aufträgen? Werden diese Abonnements dann gelöscht?
 
-Diese Aufträge bleiben offen. Bei Abschluss des Auftragszyklus werden die Abonnementaufträge wie normale Abonnementaufträge bearbeitet. Wenn Sie alle Abonnementaufträge, die mit diesem Auftragszyklus verbunden waren, stornieren möchten, müssen Sie jeden [Abonnementauftrag einzeln löschen](subscriptions-creating-and-managing-orders.md#bearbeiten-sie-das-basisabonnement).
+Diese Aufträge bleiben offen. Bei Abschluss des Bestellzyklus werden die Abonnementaufträge wie normale Abonnementaufträge bearbeitet. Wenn Sie alle Abonnementaufträge, die mit diesem Bestellzyklus verbunden waren, stornieren möchten, müssen Sie jeden [Abonnementauftrag einzeln löschen](subscriptions-creating-and-managing-orders.md#bearbeiten-sie-das-basisabonnement).
 
-### Wenn ich ein neues Abonnement in der Mitte eines offenen Auftragszyklus hinzufüge, wird dann ein Abonnement für diesen Kunden erstellt?
+### Wenn ich ein neues Abonnement in der Mitte eines offenen Bestellzyklus hinzufüge, wird dann ein Abonnement für diesen Kunden erstellt?
 
-Ja, wenn Sie ein Abonnement erstellen, während ein Auftragszyklus in diesem Zeitplan offen ist, wird ein Auftrag für diesen Kunden erstellt. Wenn Sie nicht möchten, dass das Abonnement für den aktuellen offenen Auftragszyklus gilt, müssen Sie das Startdatum des Abonnements auf einen Zeitpunkt nach dem Ende dieses Auftragszyklus festlegen.
+Ja, wenn Sie ein Abonnement erstellen, während ein Bestellzyklus in diesem Zeitplan offen ist, wird ein Auftrag für diesen Kunden erstellt. Wenn Sie nicht möchten, dass das Abonnement für den aktuellen offenen Bestellzyklus gilt, müssen Sie das Startdatum des Abonnements auf einen Zeitpunkt nach dem Ende dieses Bestellzyklus festlegen.
 
 ### Was ist, wenn ein Teil des Bestands verfügbar ist, aber nicht der gesamte Bestand? Welche Kunden erhalten den begrenzten Vorrat?
 
-Wert eines Produkts nicht ausreicht, um alle Abonnementbestellungen zu erfüllen, wird der begrenzte Bestand nicht gleichmäßig auf die Kunden verteilt, sondern es werden die Kundenbestellungen mit dem verfügbaren Bestand erfüllt, bis dieser aufgebraucht ist. Einige Kunden erhalten ihre gesamte Bestellung, andere erhalten keine.
+Wenn der Bestand eines Produkts nicht ausreicht, um alle Abonnementbestellungen zu erfüllen, wird der begrenzte Bestand nicht gleichmäßig auf die Kunden verteilt, sondern es werden die Kundenbestellungen mit dem verfügbaren Bestand erfüllt, bis dieser aufgebraucht ist. Einige Kunden erhalten ihre gesamte Bestellung, andere erhalten keine.
 
 ### Was passiert, wenn ich das Abonnement ändere, während es "offen" ist?
 
-Es ist nicht möglich, **Artikel** zum Hauptabonnementauftrag **hinzuzufügen**, während ein Auftragszyklus des Abonnementplans offen ist. Alle zusätzlichen Produkte müssen hinzugefügt werden, wenn die Auftragszyklen geschlossen sind (d. h. bei wöchentlichen Abonnements, die dem Zeitplan "Wöchentlich" zugeordnet sind, in dem Zeitraum zwischen dem Schließen von Auftragszyklus A und dem Öffnen von Auftragszyklus B, wenn sowohl A als auch B zum Zeitplan "Wöchentlich" gehören).
+Es ist nicht möglich, **Artikel** zum Hauptabonnementauftrag **hinzuzufügen**, während ein Bestellzyklus des Abonnementplans offen ist. Alle zusätzlichen Produkte müssen hinzugefügt werden, wenn die Bestellzyklen geschlossen sind (d. h. bei wöchentlichen Abonnements, die dem Zeitplan "Wöchentlich" zugeordnet sind, in dem Zeitraum zwischen dem Schließen von Bestellzyklus A und dem Öffnen von Bestellzyklus B, wenn sowohl A als auch B zum Zeitplan "Wöchentlich" gehören).
 
 Wenn Sie das Hauptabonnement eines Kunden bearbeiten, um **Produkte zu entfernen**, während ein Bestellzyklus geöffnet ist, wirkt sich diese Änderung auf die im aktuellen Bestellzyklus aufgegebene Bestellung aus.
 
 ### Was ist, wenn der Vorrat begrenzt ist, aber ein Kunde seine Bestellung storniert? Wird dieser Vorrat dann automatisch anderen Abonnenten zugeteilt, die das Produkt haben wollten, es aber aufgrund des unzureichenden Vorrats nicht bekommen konnten?
 
-No, if a customer cancels their subscription order or removes a product from it, that stock will be returned to the products's In Stock? value. It won't automatically be allocated to other customers, but you could now add this stock to another customer's order manually by [editing their order](../orders/view-orders.md#editing-an-order).
-
-Nein, wenn ein Kunde seine Abonnementbestellung storniert oder ein Produkt aus der Bestellung entfernt, wird dieser Bestand wieder dem Wert In Stock? zugeordnet. Er wird nicht automatisch anderen Kunden zugewiesen, aber Sie können diesen Bestand jetzt manuell der Bestellung eines anderen Kunden hinzufügen, indem Sie [dessen Bestellung bearbeiten](../orders/view-orders.md#einen-auftrag-bearbeiten).
+Nein, wenn ein Kunde seine Abonnementbestellung storniert oder ein Produkt aus der Bestellung entfernt, wird dieser Bestand wieder dem Wert in "Verfügbar" zugeordnet. Er wird nicht automatisch anderen Kunden zugewiesen, aber Sie können diesen Bestand jetzt manuell der Bestellung eines anderen Kunden hinzufügen, indem Sie [dessen Bestellung bearbeiten](../orders/view-orders.md#einen-auftrag-bearbeiten).
 
 ### Kann ich oder der Kunde eine Bestellung bearbeiten, die über das Abonnement-System aufgegeben wurde?
 
