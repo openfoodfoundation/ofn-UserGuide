@@ -77,21 +77,21 @@ From here you will be able to access your API username, password and signature.
 
 **Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
 
-**Login:**Type the API Username.
+**Login:**&#x54;ype the API Username.
 
-**Password:**Type the API Password.
+**Password:**&#x54;ype the API Password.
 
-**Signature:**Type the API Signature in this field.
+**Signature:**&#x54;ype the API Signature in this field.
 
 ![](../../.gitbook/assets/paypal.jpg)
 
 **Solution:** Solution determines whether or not a user needs a PayPal account to check out.
 
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account (with credit card).
+Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account (with credit card) - this field is case sensitive.
 
 **Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
 
-Type “Login” to direct customer to the login form for PayPal (if you selected “Mark” above). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account (if you selected “Sole” above).
+Type “Login” to direct customer to the login form for PayPal (if you selected “Mark” above) or “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account (if you selected “Sole” above) - n.b. this field is case sensitive.
 {% endtab %}
 
 {% tab title="MIGS" %}
@@ -165,13 +165,13 @@ If you need to take additional payment from a customer because they have further
 {% tab title="Pin Payments" %}
 For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member ([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup))
 
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
+**API Key:**&#x45;nter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
 
 ![](../../.gitbook/assets/api-keys.png)
 
 ![](../../.gitbook/assets/api-2.png)
 
-**Server:**Type ‘live’ – this is case sensitive.
+**Server:**&#x54;ype ‘live’ – this is case sensitive.
 {% endtab %}
 {% endtabs %}
 
