@@ -1,10 +1,10 @@
-# Berichte verpacken
+# Kommissionierungs-Berichte
 
-## Berichte verpacken
+## Bestellungen verpacken
 
-Einige Unternehmen verwenden ihre Auftragsbestätigungs-E-Mails als Packzettel oder laden den Bericht Auftragszyklus-Kundensummen herunter und passen ihn an ihre spezifischen Anforderungen an. Die beiden Verpackungsberichte bieten zusätzliche Optionen für die Verwaltung des Verpackungsprozesses.
+Einige Unternehmen verwenden ihre Auftragsbestätigungs-E-Mails als Packzettel oder laden den Bericht Kundengesamtsummen herunter und passen ihn an ihre spezifischen Anforderungen an. Die beiden Verpackungsberichte Packliste nach Lieferanten und Packliste nach Produkten bieten zusätzliche Optionen für die Verwaltung des Verpackungsprozesses.
 
-### Verpackung nach Lieferant
+### Packliste nach Lieferanten
 
 In diesem Bericht sind alle Lieferanten und ihre Produkte aufgeführt. Neben jedem Produkt steht der Name des Kunden, der das Produkt bestellt hat, und die Menge, die er bestellt hat.
 
@@ -14,7 +14,7 @@ Dieser Bericht ist hilfreich, um die von den Lieferanten gelieferten Artikel zu 
 
 ![Pack by Supplier Report](../../.gitbook/assets/pack-by-supplier.jpg)
 
-### Packen nach Kunde&#x20;
+### Packliste nach Kunden&#x20;
 
 Dieser Bericht listet jeden Kunden auf, der eine Bestellung aufgegeben hat, und zeigt jeden Artikel, den der Kunde bestellt hat, einschließlich der Mengen der einzelnen Artikel.
 

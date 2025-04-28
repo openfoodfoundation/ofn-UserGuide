@@ -7,18 +7,18 @@ description: Zahlungsberichte, Steuerberichte, Xero
 ## Zahlungsberichte
 
 {% hint style="success" %}
-Die drei Zahlungsberichte sind gut geeignet, um den Überblick über die gesamten ein- und ausgehenden Einnahmen Ihres Lebensmittelzentrums innerhalb eines bestimmten Zeitraums zu behalten.
+Die drei Zahlungsberichte sind gut geeignet, um den Überblick über die gesamten ein- und ausgehenden Zahlungen Ihres Lebensmittelzentrums innerhalb eines bestimmten Zeitraums zu behalten.
 {% endhint %}
 
 ### Zahlung nach Art
 
-Der einfachste Zahlungsbericht. Dieser dokumentiert die Summe der gezahlten Beträge, den fälligen Saldo und das geschuldete Guthaben für die verschiedenen Zahlungsarten, die ein Hub verwenden kann (z. B. eine Summe für Stripe-Zahlungen, eine Summe für Bargeld/EFT-Zahlungen und eine für PayPal).
+Dies ist der einfachste Zahlungsbericht. Er dokumentiert die Summe der gezahlten Beträge, den fälligen Saldo und das geschuldete Guthaben für die verschiedenen Zahlungsarten, die ein Hub verwenden kann (z. B. eine Summe für Stripe-Zahlungen, eine Summe für Bargeld/EFT-Zahlungen und eine für PayPal).
 
 ![Payment by Type](../../.gitbook/assets/payment-by-type.jpg)
 
-### Einzelverbindungsnachweis Gesamtbetrag der Zahlungen
+### Aufgeschlüsselte Zahlungssummen
 
-Dieser Bericht ist nach Zahlungsstatus (bezahlt, fälliger Saldo, ausstehendes Guthaben) und nicht nach Zahlungsanbieter geordnet und enthält eine Aufschlüsselung der Einnahmen (Produktkosten, Versandgebühren) sowie der Gesamtsumme. Die Spalte Ausstehender Saldo ist 0,0 für den Zahlungsstatus "bezahlt".
+Dieser Bericht ist nach Zahlungsstatus (bezahlt, fälliger Saldo, ausstehendes Guthaben) und nicht nach Zahlungsanbieter geordnet und enthält eine Aufschlüsselung der Einnahmen (Produktkosten, Versandgebühren) sowie der Gesamtsumme. Die Spalte Offener Betrag ist 0,0 für den Zahlungsstatus "bezahlt".
 
 ![Itemised Payment Totals](../../.gitbook/assets/itemizedpayment.jpg)
 
@@ -30,11 +30,9 @@ Zusätzlich zu den Gesamtbeträgen der Einzelzahlungen werden in diesem Bericht 
 
 ## Verkaufssteuer
 
-Es gibt zwei Umsatzsteuermeldungen: Steuerarten und Steuersätze.
+Es gibt zwei Umsatzsteuerberichte: Steuerarten und Steuersätze.
 
-{% hint style="success" %}
 Der Bericht "**Steuerart**" ist nützlich, um die Gesamtsteuer pro Bestellung in ihre verschiedenen Bestandteile aufzuteilen: Steuer auf Produkte, Steuer auf Versandart und Steuer auf Zahlungsart.
-{% endhint %}
 
 ![Tax type report](../../.gitbook/assets/taxtype.jpg)
 
@@ -54,7 +52,7 @@ Dieser Bericht erstellt CSV-Dateien, die in das Buchhaltungspaket "Xero" importi
 
 **Berichtstyp:** Sie können einen "detaillierten" Bericht herunterladen, der einen Einzelposten für jeden Artikel enthält, den der Kunde gekauft hat, einschließlich aller Gebühren und Anpassungen an seiner Bestellung.
 
-**Hub und Auftragszyklus:** Sie können angeben, über welchen Hub und Auftragszyklus die Aufträge erteilt wurden.
+**Hub und Bestellzyklus:** Sie können angeben, über welchen Hub und Auftragszyklus die Aufträge erteilt wurden.
 
 **Erste Rechnungsnummer:** Um die Kompatibilität mit Ihrem Xero-Rechnungsnummerierungssystem zu gewährleisten, geben Sie die erste Rechnungsnummer ein, die neuen Rechnungen zugewiesen werden soll. Alle nachfolgenden Rechnungen werden ab diesem Punkt nummeriert.
 

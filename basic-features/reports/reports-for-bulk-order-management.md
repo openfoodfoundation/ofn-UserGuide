@@ -1,33 +1,33 @@
 # Berichte für die Verwaltung von Großaufträgen
 
-Die im Bereich Bulk Coop verfügbaren Berichte sind ideal für Unternehmen auf der OFN-Plattform, z. B. Einkaufsgemeinschaften, die die [Funktion Group Buy](../products-1/group-buy-for-bulk-ordering.md) nutzen.
+Die im Bereich Gruppenkäufe verfügbaren Berichte sind ideal für Unternehmen auf der OFN-Plattform, z. B. Einkaufsgemeinschaften, die die [Funktion Gruppenkauf](../products-1/group-buy-for-bulk-ordering.md) nutzen.
 
-Es gibt vier Berichte in diesem Abschnitt sind:
+Es gibt vier Berichte in diesem Abschnitt:
 
-|                    | Verwenden Sie                                                                                                                                                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lieferantenbericht | Produkte nach Anbieter auflisten. Ein guter Ort, um zu sehen, ob genug von einem Produkt bestellt wurde bestellt wurde, um die Größe des Lieferanten zu rechtfertigen Größe zu rechtfertigen.                                                      |
-| Zuteilung          | Listet die Produkte nach Kunden auf. Ein guter Ort, um zu prüfen sicherzustellen, dass Sie über/unter Artikel des Großeinkaufs den Kunden Kunden gleichmäßig verteilen (d.h. eine Person hat nicht zu wenig von allen Artikel in ihrer Bestellung) |
-| Packungsbeilage    | Umpacken der gelieferten Produkte einem Lieferanten in loser Schüttung für den Kunden Abholung                                                                                                                                                     |
-| Summen der Kunden  | Dokumente Erstattungen an/zusätzliche vom Kunden geforderte Zahlung nach Anpassung der Lagerbestände zur Zusammenstellung einer Großbestellung                                                                                                     |
+|                 | Funktion                                                                                                                                                                                                                    |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lieferanten     | Produkte nach Anbieter auflisten. Dies ist eine  gute Möglichkeit, um zu sehen, ob genug von einem Produkt bestellt wurde, um die Mindestbestellmenge des Lieferanten zu erreichen.                                         |
+| Zuteilung       | Listet die Produkte nach Kunden auf. Erlaubt sicherzustellen, dass Sie die Artikel des Großeinkaufs gleichmäßig auf die Kunden verteilen (d. h., dass eine Person nicht zu wenig/zu viele Artikel in ihrer Bestellung hat). |
+| Packlisten      | Umpacken von Produkten, die von einem Lieferanten in grosser Menge geliefert werden, zur Abholung durch den Kunden.                                                                                                         |
+| Kundenzahlungen | Dokumentiert die Rückerstattung an den Kunden bzw. die vom Kunden geforderte Nachzahlung nach der Anpassung der Lagerbestände an einen Großauftrag                                                                          |
 
 ## Daten
 
 Die Daten in jedem Bericht sind wie folgt:
 
-|                                               | Lieferantenbericht | Zuteilung | Verpacken | Kunde Summen |
-| --------------------------------------------- | ------------------ | --------- | --------- | ------------ |
-| Kunde                                         | N                  | J         | J         | J            |
-| Anbieter                                      | J                  | N         | N         | N            |
-| Name des Produkts                             | J                  | J         | J         | N            |
-| Details zur Variante                          | J                  | J         | J         | N            |
-| Schüttguteinheit                              | J                  | J         | N         | N            |
-| Gekaufte Menge                                | J                  | J         | J         | N            |
-| Erforderliche Einheiten                       | J                  | J         | N         | N            |
-| Nicht zugewiesene                             | J                  | J         | N         | N            |
-| Maximale Überschussmenge                      | J                  | J         | N         | N            |
-| Date of order                                 | N                  | N         | N         | J            |
-| Gezahlter, geschuldeter Betrag & Gesamtkosten | N                  | N         | N         | J            |
+|                                               | Lieferanten | Zuteilung | Packlisten | Kundenzahlungen |
+| --------------------------------------------- | ----------- | --------- | ---------- | --------------- |
+| Kunde                                         | N           | J         | J          | J               |
+| Anbieter                                      | J           | N         | N          | N               |
+| Name des Produkts                             | J           | J         | J          | N               |
+| Details zur Variante                          | J           | J         | J          | N               |
+| Schüttguteinheit                              | J           | J         | N          | N               |
+| Gekaufte Menge                                | J           | J         | J          | N               |
+| Erforderliche Einheiten                       | J           | J         | N          | N               |
+| Nicht zugewiesene                             | J           | J         | N          | N               |
+| Maximale Überschussmenge                      | J           | J         | N          | N               |
+| Date of order                                 | N           | N         | N          | J               |
+| Gezahlter, geschuldeter Betrag & Gesamtkosten | N           | N         | N          | J               |
 
 
 
@@ -35,21 +35,21 @@ Die Daten in jedem Bericht sind wie folgt:
 Produkte, die von einem Hub gelagert werden und bei denen der Großeinkauf nicht aktiviert ist, werden mit Bulk Unit = 0 angezeigt.
 {% endhint %}
 
-![Bulk Coop Supplier Report](../../.gitbook/assets/bulksuppliertot.jpg)
+![Lieferanten-Bericht](../../.gitbook/assets/bulksuppliertot.jpg)
 
-![Bulk Coop Allocation](../../.gitbook/assets/bulkallocation.jpg)
+![Zuteilungs-Bericht](../../.gitbook/assets/bulkallocation.jpg)
 
-![Bulk Coop Packing](../../.gitbook/assets/bulkpacking.jpg)
+![Packlisten-Bericht](../../.gitbook/assets/bulkpacking.jpg)
 
-![Bulk Coop Customer Totals](../../.gitbook/assets/bulkpayment.jpg)
+![Kundenzahlungen-Bericht](../../.gitbook/assets/bulkpayment.jpg)
 
-## Beispiel: Bulk Co-op Suppliers Bericht
+## Beispiel: Gruppenkauf Lieferanten-Bericht
 
 Dieser Bericht enthält die folgenden Informationen:
 
 * Haben die Kunden genug von einem Produkt bestellt, um die Bestellung der Großpackung beim Lieferanten zu rechtfertigen?
 * Wie viele zusätzliche Produkte sind die Kunden bereit zu kaufen, damit die Gruppe die Mengenschwelle erreicht (wenn [Gruppenkauf](../products-1/group-buy-for-bulk-ordering.md#aktivieren-des-gruppenkaufs-fuer-ein-produkt) aktiviert ist)
-* Wie viele Bulk-Größen werden benötigt, um die Kundennachfrage zu befriedigen?
+* Wie viele Grosspackungen werden benötigt, um die Kundennachfrage zu befriedigen?
 * Wenn die Großpackung bestellt wird, wie viel Bestand bleibt dann noch übrig?
 * Wie viele Kunden werden enttäuscht sein, wenn dieses Produkt nicht bestellt wird?
 
@@ -57,10 +57,10 @@ Das nachstehende Beispiel veranschaulicht, wie der Bericht "Bulk Co-op Totals by
 
 Beispiel 1: Wenn die Großbestellmenge erreicht ist:
 
-![Radishes](../../.gitbook/assets/radishess.png)
+![](../../.gitbook/assets/radishess.png)
 
 Beispiel 2: Die Menge der Großbestellung ist noch nicht erreicht:
 
-![Bok Choy](../../.gitbook/assets/bok-choy.png)
+![](../../.gitbook/assets/bok-choy.png)
 
-* Beachten Sie, dass der Bericht "Co-op-Großzuteilungen" eine ähnliche Funktion wie dieser Bericht hat, aber die Bestellungen jedes einzelnen Kunden anzeigt und nicht die kumulierte Summe aller Kunden.
+* Beachten Sie, dass der Bericht "Gruppenkauf Zuteilung" eine ähnliche Funktion wie dieser Bericht hat, aber die Bestellungen jedes einzelnen Kunden anzeigt und nicht die kumulierte Summe aller Kunden.

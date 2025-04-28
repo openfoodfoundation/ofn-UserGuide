@@ -71,16 +71,14 @@ Nachstehend finden Sie ein Beispiel für einen Kundenbericht:
 Unternehmen können [Unternehmensgebühren](../shopfront/enterprise-fees.md) einrichten, um die Zuweisung von Kosten/Preisen für verschiedene Zwecke zu ermitteln und zu kontrollieren. Diese Gebühren ermöglichen eine Preistransparenz für Kunden, wenn sie Ihr Geschäft besuchen.
 
 {% hint style="success" %}
-Der Bericht "Enterprise Fee Summary" gibt einen Überblick über die Höhe der Gebühren, die erhoben wurden, und an wen.
+Der Bericht "Unternehmensgebühren" gibt einen Überblick über die Höhe der Gebühren, die erhoben wurden, und an wen.
 {% endhint %}
 
-Der Bericht kann nach Schaufenster (**Hub**), **Produzent** und **Bestellzyklus** sowie nach Gebührennamen und Versand- und Zahlungsarten gefiltert werden.
+Der Bericht kann nach **Hub**, **Produzent** und **Bestellzyklus** sowie nach Gebührennamen und Versand- und Zahlungsarten gefiltert werden.
 
-![Enterprise Fee Summary Report](<../../.gitbook/assets/image (24) (1).png>)
+**Beispiel 1:** Ein Shop erhebt bei jeder Bestellung eine Gebühr von 2 % für die Mittelbeschaffung. Mit dem Bericht "Unternehmensgebühren" kann er die in einem bestimmten Bestellzyklus gesammelten Mittel ermitteln.
 
-**Beispiel 1:** Ein Shop erhebt bei jeder Bestellung eine Gebühr von 2 % für die Mittelbeschaffung. Mit dem Bericht "Unternehmensgebührenzusammenfassung" kann er die in einem bestimmten Bestellzyklus gesammelten Mittel ermitteln.
-
-**Beispiel 2:** Ein Hub erhebt eine Transportgebühr, die er einem Erzeuger dafür zahlt, dass er Produkte von anderen Landwirten abholt und sie zum Hub bringt. Diese Gebühr wird als Prozentsatz für jedes Produkt im Auftragszyklus berechnet. Mit dem Bericht "Enterprise Fee Summary" kann er berechnen, wie viel er dem Produzenten für den Transport in jedem Auftragszyklus zahlen muss.
+**Beispiel 2:** Ein Hub erhebt eine Transportgebühr, die er einem Erzeuger dafür zahlt, dass er Produkte von anderen Landwirten abholt und sie zum Hub bringt. Diese Gebühr wird als Prozentsatz für jedes Produkt im Bestellzyklus berechnet. Mit dem Bericht "Enterprise Fee Summary" kann er berechnen, wie viel er dem Produzenten für den Transport in jedem Auftragszyklus zahlen muss.
 
 **Beispiel 3:** Ein Hub enthält eine Gebühr, um den Kunden den Betrag anzuzeigen, den sie an Open Food Network für die Nutzung der Plattform zahlen. Diese Gebühr wird als Prozentsatz aller aufgegebenen Bestellungen berechnet. Der folgende Screenshot ist ein Beispiel für dieses Szenario:
 
@@ -92,7 +90,7 @@ Die Daten, die in einem zusammenfassenden Bericht über Unternehmensgebühren en
 
 * Gebührenart (Unternehmensgebührenarten sind Verwaltung, Verpackung, Transport, Fundraising, Verkauf), Name und Steuersatz der Gebühr.
 * Name des Kunden
-* An welcher Stelle des Auftragszyklus wird die Gebühr erhoben (eingehende/ausgehende Produkte oder Gebühr des Koordinators des Auftragszyklus)
+* An welcher Stelle des Bestellzyklus wird die Gebühr erhoben (eingehende/ausgehende Produkte oder Gebühr des Koordinators des Bestellzyklus)
 * Name des Unternehmens, das die Gebühr festgelegt hat ("Fee Calc on Transfer though")
 * Gesamtwert der für den Verkauf der Position erhobenen Unternehmensgebühr.
 

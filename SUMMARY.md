@@ -53,7 +53,7 @@
   * [Berichte](basic-features/reports/README.md)
     * [Bestellberichte](basic-features/reports/order-reports.md)
     * [Berichte für das Hub-Management](basic-features/reports/reports-for-hub-management.md)
-    * [Berichte verpacken](basic-features/reports/packing-reports.md)
+    * [Kommissionierungs-Berichte](basic-features/reports/packing-reports.md)
     * [Zahlungen und Steuerberichte](basic-features/reports/payment-and-tax-reports.md)
     * [Berichte für die Verwaltung von Großaufträgen](basic-features/reports/reports-for-bulk-order-management.md)
   * [Gruppen](basic-features/groups/README.md)
