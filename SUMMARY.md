@@ -51,7 +51,7 @@
     * [Abonnements - die Perspektive des Kunden](basic-features/subscriptions/subscriptions-the-customers-perspective.md)
     * [Abonnements - FAQs](basic-features/subscriptions/subscriptions-faqs.md)
   * [Berichte](basic-features/reports/README.md)
-    * [Berichte bestellen](basic-features/reports/order-reports.md)
+    * [Bestellberichte](basic-features/reports/order-reports.md)
     * [Berichte für das Hub-Management](basic-features/reports/reports-for-hub-management.md)
     * [Berichte verpacken](basic-features/reports/packing-reports.md)
     * [Zahlungen und Steuerberichte](basic-features/reports/payment-and-tax-reports.md)

@@ -4,43 +4,43 @@ description: Berichte zu Auftragszyklus, Produkt, Kunde und Unternehmensgebühre
 
 # Berichte für das Hub-Management
 
-## Verwaltung der Auftragszyklen
+Verwaltung der Bestellzyklen
 
-Im Bereich Auftragszyklusmanagement gibt es zwei Berichte: Zahlungsarten und Lieferbericht.
+Im Bereich Bestellzyklusverwaltung gibt es zwei Berichte: Zahlungsarten und Lieferungen.
 
 {% hint style="success" %}
-**Der Saldo eines Kunden** (d.h. die Summe der gezahlten und geschuldeten Beträge aller Bestellungen, die er bei Ihrem Lebensmittelunternehmen aufgegeben hat) wird sowohl in den Berichten zur Zahlungsweise als auch zur Lieferung aufgeführt. Hier können Sie auf einen Blick sehen, ob ein Kunde hohe Schulden hat.
+**Der Saldo eines Kunden** (d.h. die Summe der gezahlten und geschuldeten Beträge aller Bestellungen, die er bei Ihrem Lebensmittelunternehmen aufgegeben hat) wird sowohl in den Berichten zur Zahlungsart als auch zur Lieferung aufgeführt. Hier können Sie auf einen Blick sehen, ob ein Kunde hohe Schulden hat.
 {% endhint %}
 
 Die in diesen Berichten enthaltenen Daten lassen sich auf einen Blick zusammenfassen:
 
-|                            | Zahlungsmethode | Zustellungsbericht |
-| -------------------------- | --------------- | ------------------ |
-| Name des Kunden            | J               | J                  |
-| Telefon-Nr. des Kunden     | J               | J                  |
-| Kunden-E-Mail              | J               | N                  |
-| Hub                        | J               | J                  |
-| Versandart                 | J               | J                  |
-| Lieferadresse\*            | N               | J                  |
-| Versandkategorie\*\*       | N               | J                  |
-| Zahlungsmethode            | J               | J                  |
-| Anmerkungen zur Bestellung | N               | J                  |
-| Bestellung Gesamt          | J               | J                  |
-| Kundenbilanz               | J               | J                  |
+|                            | Zahlungsarten | Lieferungen |
+| -------------------------- | ------------- | ----------- |
+| Name des Kunden            | J             | J           |
+| Telefon-Nr. des Kunden     | J             | J           |
+| Kunden-E-Mail              | J             | N           |
+| Hub                        | J             | J           |
+| Versandart                 | J             | J           |
+| Lieferadresse\*            | N             | J           |
+| Versandkategorie\*\*       | N             | J           |
+| Zahlungsmethode            | J             | J           |
+| Anmerkungen zur Bestellung | N             | J           |
+| Bestellung Gesamt          | J             | J           |
+| Kundenbilanz               | J             | J           |
 
-\*Lieferadresse ist entweder die Adresse des Drehkreuzes/Vertriebspartners (bei Abholung) oder eine vom Kunden angegebene Adresse (bei Lieferung)
+\*Lieferadresse ist entweder die Adresse des Hubs/Vertriebspartners (bei Abholung) oder eine vom Kunden angegebene Adresse (bei Lieferung)
 
 \*\*Versandkategorie = Standard, gefroren, gekühlt
 
-![Payment Method report](../../.gitbook/assets/paymentmethods.jpg)
+![Zahlungsarten](../../.gitbook/assets/paymentmethods.jpg)
 
-![Delivery Methods](../../.gitbook/assets/delivery-methods.jpg)
+![Lieferungen](../../.gitbook/assets/delivery-methods.jpg)
 
 ## Produktmanagement
 
-Unter Produkte & Inventar finden Sie drei Berichte, die nützlich sind, wenn Sie die von Ihrem Hub gelagerten Artikel verschiedener Hersteller überprüfen möchten.
+Unter Produkte und Katalog finden Sie drei Berichte, die nützlich sind, wenn Sie die von Ihrem Hub gelagerten Artikel verschiedener Hersteller überprüfen möchten.
 
-Die Berichte "**Alle Produkte**" und "**Bestand**" unterscheiden sich nur dadurch, dass der letztere (Bestand) nur Daten für Produkte enthält, deren Lagerbestand größer als Null ist.
+Die Berichte "**Alle Produkte**" und "**Lagerbestand**" unterscheiden sich nur dadurch, dass der letztere (Lagerbestand) nur Daten für Produkte enthält, deren Lagerbestand größer als Null ist.
 
 Die Daten, die sie für jedes Produkt enthalten, sind:
 
@@ -50,29 +50,21 @@ Die Daten, die sie für jedes Produkt enthalten, sind:
 * Preis
 * Stückzahl des Gruppenkaufs (falls zutreffend)
 
-Nachfolgend sehen Sie ein Beispiel für den Bericht Alle Produkte:
+Nachfolgend sehen Sie ein Beispiel für den Bericht _Alle Produkte_:
 
-![All Products Report](../../.gitbook/assets/all-products.jpg)
+![Alle Produkte](../../.gitbook/assets/all-products.jpg)
 
-Der Bericht "**Salatanteil**" enthält weitere Einzelheiten zu jedem Produkt: Name, Variantenname (aufgeführt unter "Beschreibung"), Einheit (g, l, Artikelbezeichnung usw.), Packungsgröße (z. B. bei einem Produkt "500 g Tomaten" die Einheit = g, Packungsgröße = 500), Preis, in den Kosten enthaltene Steuer, Erzeugereigenschaften (nicht Produkteigenschaften) und Produktkategorie (Taxon).
+Der Bericht "**LettuceShare**" enthält weitere Einzelheiten zu jedem Produkt: Name, Variantenname (aufgeführt unter "Beschreibung"), Einheit (g, l, Artikelbezeichnung usw.), Packungsgröße (z. B. bei einem Produkt "500 g Tomaten" die Einheit = g, Packungsgröße = 500), Preis, in den Kosten enthaltene Steuer, Erzeugereigenschaften (nicht Produkteigenschaften) und Produktkategorie (Taxon).
 
-![Lettuce Share report](../../.gitbook/assets/lettuce-share.jpg)
+![LettuceShare Bericht](../../.gitbook/assets/lettuce-share.jpg)
 
-## Kundenmanagement
+## Kundenberichte
 
-### Verteilerliste&#x20;
+Der Kundenbericht zeigt die Namen und E-Mail-Adressen der Kunden, die in Ihrem Schaufenster Bestellungen aufgegeben haben, sowie deren Lieferoption. Dieser Bericht kann Ihnen helfen, Kunden zu kontaktieren, die Artikel in Ihrem Schaufenster gekauft haben. Sie müssen beispielsweise einen Kunden (oder eine Gruppe von Kunden) benachrichtigen, wenn ein von ihm gekauftes Produkt nicht verfügbar ist oder wenn Sie (z. B. aufgrund von Krankheit) nicht in der Lage sind, den von ihm gewünschten Liefertermin einzuhalten.
 
-Der Verteilerlistenbericht zeigt die Namen und E-Mail-Adressen der Kunden, die in Ihrem Schaufenster Bestellungen aufgegeben haben. Dieser Bericht kann Ihnen helfen, Kunden zu kontaktieren, die Artikel in Ihrem Schaufenster gekauft haben. Sie müssen beispielsweise einen Kunden (oder eine Gruppe von Kunden) benachrichtigen, wenn ein von ihm gekauftes Produkt nicht verfügbar ist oder wenn Sie (z. B. aufgrund von Krankheit) nicht in der Lage sind, den von ihm gewünschten Liefertermin einzuhalten.
+Nachstehend finden Sie ein Beispiel für einen Kundenbericht:
 
-Nachstehend finden Sie ein Beispiel für den Mailinglistenbericht:
-
-![](../../.gitbook/assets/mailing-list.jpg)
-
-### Adressen
-
-Der Bericht "Adressen" enthält die Kontaktdaten des Kunden, den Hub und die Versandart und kann nach Bestellzyklus, Schaufenster (**Händler**) und **Lieferant** gefiltert werden.
-
-![](../../.gitbook/assets/addresses.jpg)
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 ## Gebühren für Unternehmen
 
