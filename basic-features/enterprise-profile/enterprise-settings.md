@@ -200,11 +200,15 @@ C'est l'endroit idéal pour communiquer des informations importantes comme votre
 
 
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Dernières options des préférences boutiques</p></figcaption></figure>
 
 **Abonnements** : Vous pouvez permettre à vos acheteurs d’accéder à une [commande récurrente](https://ofn-user-guide.gitbook.io/guide-utilisateur-open-food-network/fonctionnalites-standards/subscriptions/creation-et-gestion-dune-commande-recurrente)
 
 **Affichage du nom des acheteurs :** Vous pouvez afficher ou non le nom de vos acheteurs depuis la vue producteur
+
+**Affichage des contacts clients :** Vous pouvez afficher ou non le mail et le téléphone de vos acheteurs depuis la vue producteur
+
+**Possibilité pour les producteurs de modifier les commandes** : Permettre à vos fournisseurs de visualiser les commandes comprenant leurs produits et de modifier la quantité et le poids de leurs produits seulement.
 
 {% hint style="warning" %}
 Ce menu n'est pas accessible si vous avez mis en place une boutique privée (paragraphe précédent)
