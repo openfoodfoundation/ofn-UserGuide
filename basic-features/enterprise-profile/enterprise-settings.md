@@ -208,7 +208,7 @@ C'est l'endroit idéal pour communiquer des informations importantes comme votre
 
 **Affichage des contacts clients :** Vous pouvez afficher ou non le mail et le téléphone de vos acheteurs depuis la vue producteur
 
-**Possibilité pour les producteurs de modifier les commandes** : Permettre à vos fournisseurs de visualiser les commandes comprenant leurs produits et de modifier la quantité et le poids de leurs produits seulement.
+**Possibilité pour les producteurs de modifier les commandes** : Permettre à vos fournisseurs de visualiser les commandes comprenant leurs produits et de modifier la quantité et le poids de leurs produits seulement. Attention cela ne fonctionne pour l’instant que si votre producteur ne vend pas ailleurs que dans votre hub.
 
 {% hint style="warning" %}
 Ce menu n'est pas accessible si vous avez mis en place une boutique privée (paragraphe précédent)
