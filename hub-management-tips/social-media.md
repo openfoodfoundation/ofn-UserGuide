@@ -1,6 +1,6 @@
 # Soziale Medien
 
-OFN UK bietet eine Reihe von Tipps und Ressourcen, wie Sie eine effektive Social-Media-Strategie für Ihr Lebensmittelunternehmen entwickeln können. Diese Ressourcen sind auch in der Facebook-[Gruppe Thriving Hubs](https://www.facebook.com/groups/thrivingfoodhub) zu finden - treten Sie der Gruppe bei, um Zugang zu den aktuellsten Informationen zu erhalten.
+OFN UK bietet eine Reihe von Tipps und Ressourcen, wie Sie eine effektive Social-Media-Strategie für ihr Lebensmittelunternehmen entwickeln können. Diese Ressourcen sind auch in der Facebook-[Gruppe Thriving Hubs](https://www.facebook.com/groups/thrivingfoodhub) zu finden - treten Sie der Gruppe bei, um Zugang zu den aktuellsten Informationen zu erhalten.
 
 Bei der Führung eines Lebensmittelunternehmens geht es um viel mehr als nur um den Verkauf von Lebensmitteln und die Dokumentation/Buchführung der Verkäufe. Die Vermarktung Ihres Unternehmens an Ihren Kundenstamm ist entscheidend. Neben dem [regelmäßigen Versand von E-Mails](marketing-tips.md#e-mail-marketing) und Newslettern können soziale Medien ein effektiver (und kostengünstiger) Weg sein, für Ihr Unternehmen zu werben.
 

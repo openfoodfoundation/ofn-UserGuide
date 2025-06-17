@@ -4,11 +4,11 @@ OFN UK bietet eine Reihe von Tipps und Ressourcen, wie Sie eine effektive Market
 
 ### Marketing-Strategie
 
-Hier sind einige hilfreiche Videos:
+Hier sind einige hilfreiche Videos (in Englisch):
 
-* Beherrschen Sie Ihr [Webinar](https://www.youtube.com/watch?v=jUMIIYG2nXY) zur Nachrichtenübermittlung.
+* [Webinar](https://www.youtube.com/watch?v=jUMIIYG2nXY) zu Kommunikation.
 * [Erstellen von Inhalten](https://www.youtube.com/watch?v=ofNizm5DjUg) für Marketing-Kampagnen.
-* [Wirksames saisonales Marketing.](https://www.youtube.com/watch?v=ppRnCOVXO\_Q)
+* [Wirksames saisonales Marketing.](https://www.youtube.com/watch?v=ppRnCOVXO_Q)
 
 {% file src="../.gitbook/assets/master-your-messaging-webinar-slides.pdf" %}
 Master your messaging slides
@@ -20,7 +20,7 @@ Core Values Exercise
 
 ### E-Mail-Marketing
 
-* [Mailchimp Meisterklasse](https://www.youtube.com/watch?v=lEc9i0h\_8xg)
+* [Mailchimp Meisterklasse](https://www.youtube.com/watch?v=lEc9i0h_8xg)
 * [E-Mail-Marketing für Anfänger](https://youtu.be/BqvQoqUCM14)
 
 {% file src="../.gitbook/assets/email-marketing-webinar-july.pdf" %}
