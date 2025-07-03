@@ -28,9 +28,9 @@ A stricter, but potentially more time consuming approach, is to let your OFN ent
 
 ![](<../../.gitbook/assets/visible to registered customers only.jpg>)
 
-Whilst your enterprise will be visible in a search of the OFN platform, your customers would need to log into their OFN account in order to view your shop front and the products on offer.  Other registered OFN shoppers, who are not on your customer list, will not be able to see your shop front once logged into their OFN accounts.
+Whilst your enterprise will be visible in a search of the OFN platform, **customers must first be added to your** [**Customers**](customer-management-and-conditional-displays-prices/customers.md) **list** and logged into their OFN account in order to access your shop front.  Other registered OFN shoppers, who are _not_ on your Customers list, will not be able to access your shop front once logged into their OFN accounts.
 
-You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add all new customers, before they can place their first order.
+You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add email addresses to grant shoppers access before they can place their first order.
 
 ![](<../../.gitbook/assets/customers (2).jpg>)
 
