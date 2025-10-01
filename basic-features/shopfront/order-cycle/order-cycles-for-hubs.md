@@ -82,7 +82,37 @@ Cette étape permet de définir les distributeurs qui vont vendre les produits d
 
 Cliquez sur "Sauvegarder" pour créer le cycle de vente.
 
+### Etape 4. Options de commande <a href="#options-commande" id="options-commande"></a>
 
+<figure><img src="../../../.gitbook/assets/Cycle de vente_fin.jpg" alt=""><figcaption></figcaption></figure>
+
+La dernière étape vous permet de sélectionner les méthodes de livraison ou de paiement qui doivent s'afficher lors du parcours d'achat du cycle de vente. Par défaut, toutes vos méthodes sont sélectionnées.
+
+## Notifier les producteurs des commandes / récapitulatif des produits à préparer <a href="#notifier-producteurs" id="notifier-producteurs"></a>
+
+Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoivent pas d'email avec la commande. Seul le hub reçoit cette information. Cela permet au hub de décider du moment où les producteurs seront notifiés, afin notamment de pouvoir modifier les commandes entre temps.&#x20;
+
+&#x20;Pour notifier les producteurs des commandes en cours, vous avez deux choix :
+
+:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition nommée "Informations générales", du cycle de vente :
+
+<figure><img src="../../../.gitbook/assets/Cycle de vente_notification immédiate_cadré.jpg" alt=""><figcaption></figcaption></figure>
+
+En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).
+
+:thumbsup:**Notification automatique à la fin du cycle de vente :**
+
+L'email sera envoyé automatiquement à la fin du cycle de vente (dernier jour de la prise de commandes). Cliquez sur "Paramètres avancés", puis cochez la case "Notifications automatiques", et cliquez sur "Sauvegarder" :
+
+<figure><img src="../../../.gitbook/assets/Cycle de vente_notification automatique_cadrés.jpg" alt=""><figcaption></figcaption></figure>
+
+Le mail envoyé ressemble à ceci :
+
+<figure><img src="../../../.gitbook/assets/Capture d’écran_2025-09-29_10-57-28.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Attention, si vous avez un cycle de vente continu, vous ne pourrez pas utiliser cette fonctionnalité, puisque la fin du cycle de vente sera très lointaine..
+{% endhint %}
 
 ## Tableau de bord des cycles de vente&#x20;
 
@@ -110,34 +140,3 @@ Les cycles de vente sont présentés en :
 A noter qu'un mois après sa fermeture, un cycle de vente n’apparaît plus directement dans cette liste : il faudra cliquer sur les boutons "Montrer +30 jours" ou "Montrer +90jours" pour le faire apparaître.
 {% endhint %}
 
-### Etape 4. Options de commande <a href="#options-commande" id="options-commande"></a>
-
-<figure><img src="../../../.gitbook/assets/Cycle de vente_fin.jpg" alt=""><figcaption></figcaption></figure>
-
-La dernière étape vous permet de sélectionner les méthodes de livraison ou de paiement qui doivent s'afficher lors du parcours d'achat du cycle de vente. Par défaut, toutes vos méthodes sont sélectionnées.
-
-## Notifier les producteurs des commandes / récapitulatif des produits à préparer <a href="#notifier-producteurs" id="notifier-producteurs"></a>
-
-Lorsque les commandes sont passées à travers un hub, les producteurs ne reçoivent pas d'email avec la commande. Seul le hub reçoit cette information. Cela permet au hub de décider du moment où les producteurs seront notifiés, afin notamment de pouvoir modifier les commandes entre temps.&#x20;
-
-&#x20;Pour notifier les producteurs des commandes en cours, vous avez deux choix :
-
-:thumbsup: **Notification immédiate** : pour envoyer immédiatement un email aux producteurs, cliquez sur le bouton "Notifier les producteurs" dans la page d'édition nommée "Informations générales", du cycle de vente :
-
-<figure><img src="../../../.gitbook/assets/Cycle de vente_notification immédiate_cadré.jpg" alt=""><figcaption></figcaption></figure>
-
-En utilisant ce bouton, tous les producteurs liés à ce cycle de vente recevront un email contenant une liste des produits commandés pour ce cycle de vente avec les instructions éventuelles de livraison si elles ont été renseignées dans le cycle de vente (produits entrants).
-
-:thumbsup:**Notification automatique à la fin du cycle de vente :**
-
-L'email sera envoyé automatiquement à la fin du cycle de vente (dernier jour de la prise de commandes). Cliquez sur "Paramètres avancés", puis cochez la case "Notifications automatiques", et cliquez sur "Sauvegarder" :
-
-<figure><img src="../../../.gitbook/assets/Cycle de vente_notification automatique_cadrés.jpg" alt=""><figcaption></figcaption></figure>
-
-Le mail envoyé ressemble à ceci :
-
-<figure><img src="../../../.gitbook/assets/Screen Shot 2022-10-28 at 17.01.54.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Attention, si vous avez un cycle de vente continu, vous ne pourrez pas utiliser cette fonctionnalité, puisque la fin du cycle de vente sera très lointaine..
-{% endhint %}
