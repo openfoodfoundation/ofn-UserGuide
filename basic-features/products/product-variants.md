@@ -16,8 +16,7 @@ Toujours sur votre interface d'administration, rendez-vous sur la page produits 
 
 <figure><img src="../../.gitbook/assets/Ajouter une variante-cadre.jpg" alt=""><figcaption></figcaption></figure>
 
-Cela ajoutera une nouvelle ligne vous permettant de saisir rapidement les informations concernant la seconde variante : \
-
+Cela ajoutera une nouvelle ligne vous permettant de saisir rapidement les informations concernant la seconde variante : <br>
 
 <figure><img src="../../.gitbook/assets/Rentrer infos_nouvelle variante_cadre.jpg" alt=""><figcaption></figcaption></figure>
 

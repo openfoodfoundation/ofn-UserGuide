@@ -4,8 +4,7 @@
 
 ## 1) Activez les commandes récurrentes <a href="#id-1-enable-subscriptions" id="id-1-enable-subscriptions"></a>
 
-Activez le module en vous rendant sur les paramètres de votre profil > **préférences boutique** : \
-
+Activez le module en vous rendant sur les paramètres de votre profil > **préférences boutique** : <br>
 
 <figure><img src="../../.gitbook/assets/Abonnement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +23,7 @@ Lorsque vous créez une commande récurrente pour un acheteur, il faut que vous 
 
 #### **Méthodes de livraison** <a href="#shipping-methods" id="shipping-methods"></a>
 
-Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ ](broken-reference)[cette page.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods#definir-une-methode-de-livraison)&#x20;
+Il n'y a pas de restriction sur les méthodes de livraison utilisées. Pour la configuration des méthodes de livraison consultez[ ](/broken/pages/-LAYPbix6nfbEsS8dDYG)[cette page.](https://guide.openfoodnetwork.org/v/fr/basic-features/shopfront/shipping-methods#definir-une-methode-de-livraison)&#x20;
 
 #### **Méthodes de paiement** <a href="#payment-methods" id="payment-methods"></a>
 
@@ -82,7 +81,7 @@ S'il s'agit de votre première utilisation d'Open Food Network, nous vous consei
 
 ### A propos <a href="#about-schedules" id="about-schedules"></a>
 
-Une commande récurrente consiste à la passation automatique par la plateforme d'une commande prédéfinie pour un acheteur donné à chaque nouveau cycle de vente d'un distributeur donné, selon une régularité convenue entre l'acheteur et le distributeur (dite "rythme d'abonnement"). La fonctionnalité offre beaucoup de flexibilité, permettant au distributeur de proposer des "abonnements" hebdomadaires, ou bimensuels par exemple pour proposer des offres correspondant au mieux aux besoins de leurs acheteurs. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](broken-reference), un pour les particuliers et un pour les pro, peut-être n'activerez-vous pas la possibilité de commandes récurrentes pour les professionnels. Ou alors, si vous avez des cycles de ventes hebdomadaires mais permettez la commande d'un "panier produits laitiers" hebdomadaire ou bimensuel, vous pourrez définir les semaines sur lesquels seront livrées les commandes récurrentes du rythme bimensuel (cycles des semaines paires, ou cycles des semaines impaires, par exemple).
+Une commande récurrente consiste à la passation automatique par la plateforme d'une commande prédéfinie pour un acheteur donné à chaque nouveau cycle de vente d'un distributeur donné, selon une régularité convenue entre l'acheteur et le distributeur (dite "rythme d'abonnement"). La fonctionnalité offre beaucoup de flexibilité, permettant au distributeur de proposer des "abonnements" hebdomadaires, ou bimensuels par exemple pour proposer des offres correspondant au mieux aux besoins de leurs acheteurs. Ainsi si vous disposez de plusieurs [cycles de ventes simultanés](/broken/pages/-LAYPbjQm3j78nIoC9i9), un pour les particuliers et un pour les pro, peut-être n'activerez-vous pas la possibilité de commandes récurrentes pour les professionnels. Ou alors, si vous avez des cycles de ventes hebdomadaires mais permettez la commande d'un "panier produits laitiers" hebdomadaire ou bimensuel, vous pourrez définir les semaines sur lesquels seront livrées les commandes récurrentes du rythme bimensuel (cycles des semaines paires, ou cycles des semaines impaires, par exemple).
 
 {% hint style="success" %}
 Lorsqu'un rythme d'abonnement a été créé et associé à des commandes récurrentes, ces commandes ne seront lancées que pour les nouveaux cycles de vente reliés à ce rythme d'abonnement.

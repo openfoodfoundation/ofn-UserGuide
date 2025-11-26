@@ -7,8 +7,7 @@ Les scénarios les plus courants sont les suivants :
 1\. Un **produit au poids variable** a été commandé, et au moment de la livraison, vous allez renseigner le poids exact pour ajuster le prix réel à régler\
 2\. Un produit **n'a pas été livré** par le producteur\
 3\. L'acheteur a souhaité sur place **ajouter des produits** dans la commande d'origine\
-4\. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**\
-
+4\. il y a un soucis sur la commande et vous voulez **accorder une ristourne sur cette commande**<br>
 
 Deux cas de figure principaux se présentent :\
 \
@@ -35,8 +34,7 @@ Vous allez vouloir soit saisir l'ajustement en édition de cette commande, c'est
 
 <figure><img src="../../.gitbook/assets/Gestion C_poids_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-**Après ajustement** \
-
+**Après ajustement** <br>
 
 <figure><img src="../../.gitbook/assets/Gestion C_poids2_edit.jpg" alt=""><figcaption></figcaption></figure>
 

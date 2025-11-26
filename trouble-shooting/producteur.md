@@ -28,19 +28,19 @@ Cela dépend du fournisseur local de la plateforme. Aujourd'hui l'utilisation d'
 
 **Je suis un producteur et je souhaite vendre en direct aux consommateurs via ma propre boutique**
 
-Rendez-vous sur [cette page](broken-reference).
+Rendez-vous sur [cette page](/broken/pages/-LBaXAZee1cfnRQKG5RC).
 
 **Je suis un producteur et je souhaite vendre mes produits via un "hub", une boutique partagée**
 
-Rendez-vous sur [cette page](broken-reference).
+Rendez-vous sur [cette page](/broken/pages/-LAYPbjMfOAZfKmUvDck).
 
 **Notre marché aimerait une boutique en ligne pour que les acheteurs puissent réaliser leurs commandes en dehors des jours de marché.**
 
-Rendez-vous sur [cette page.](broken-reference)
+Rendez-vous sur [cette page.](/broken/pages/-LAYPbip88arg-UAQotN)
 
 **Je vends déjà mes produits via une boutique en ligne. Comment puis-je m'intégrer à OFN ?**
 
-Vous pouvez créer [un profil simple](broken-reference) qui fera le lien avec votre boutique existante.
+Vous pouvez créer [un profil simple](/broken/pages/-LAYPbiiT_q7bp1zt0Wj) qui fera le lien avec votre boutique existante.
 
 **J'ai fréquemment un surplus (non anticipé) de produits que je souhaiterais vendre.**
 
@@ -48,13 +48,13 @@ Vous pouvez directement ajouter des produits qui seront ensuite disponible / ven
 
 **Je livre des paniers de produits hebdomadaires et gère actuellement les commandes par email.**
 
-Il est possible de vendre des paniers hebdomadaires sur Open Food Network via la fonctionnalité de [commande récurrente](broken-reference).&#x20;
+Il est possible de vendre des paniers hebdomadaires sur Open Food Network via la fonctionnalité de [commande récurrente](/broken/pages/-LL9vdmowq95Unb49Fk8).&#x20;
 
 ## Créer un profil producteur
 
 **Quel est la différence entre un profil producteur, une boutique producteur et un hub producteur ?**
 
-Rendez-vous sur [cette page](broken-reference).
+Rendez-vous sur [cette page](/broken/pages/-LAYPbidJjuE4GZWcoyh).
 
 ## Votre offre produit et votre boutique
 
@@ -72,7 +72,7 @@ Vérifiez les points suivants :
 
 **Je souhaite que seuls mes clients actuels puissent accéder à la boutique en ligne. Est-ce possible ?**
 
-Oui, rendez-vous sur [cette page.](broken-reference)
+Oui, rendez-vous sur [cette page.](/broken/pages/-LAYPbjHZPhgVrwj6QQ2)
 
 **Comment puis-je indiquer à mes acheteurs le fonctionnement de ma boutique ainsi que les conditions applicables ?**
 
@@ -80,25 +80,25 @@ Vous pouvez ajouter un message d'accueil à votre boutique.&#x20;
 
 **Je produis des œufs, pourtant mon profil ne s'affiche pas lorsque je regarde la liste des producteurs d'œufs sur la plateforme. Pourquoi ?**
 
-Si vous avez un profil uniquement, il faut créer des produits factices (et invisibles). Rendez-vous sur [cette page.](broken-reference)
+Si vous avez un profil uniquement, il faut créer des produits factices (et invisibles). Rendez-vous sur [cette page.](/broken/pages/-LAYPbjA6vfnz4E_dd-o)
 
 **Je vends de la viande et doit m’assurer de pré-commandes suffisantes avant d’envoyer l’animal à l’abattoir. Comment fixer une quantités minimale de produits commandés ?**
 
-Rendez-vous [sur cette page](broken-reference).
+Rendez-vous [sur cette page](/broken/pages/-LAYPbj8fvdBH_xN-cTz).
 
 **Peut-on intégrer la boutique dans un site internet existant ?**
 
-Oui tout à fait. Consultez [cette page](broken-reference) pour suivre les instructions.
+Oui tout à fait. Consultez [cette page](/broken/pages/-LAYPbjJyJLvrqEsOSI4) pour suivre les instructions.
 
 ## Livraison et paiement
 
 **Comment fonctionne le paiement ?**
 
-Rendez-vous sur [cette page](broken-reference).
+Rendez-vous sur [cette page](/broken/pages/-LAYPbiwvv5TocKwhVWV).
 
 **Est-ce que je peux fixer un prix minimal de commande sur ma boutique ?**
 
-La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](broken-reference).
+La plateforme ne dispose pas de cette fonctionnalité pour l'instant. En revanche vous pouvez ajouter une commission fixe qui assurera un montant minimal. Rendez-vous sur [cette page](/broken/pages/-LAYPbj0nzUOKcxIpSpo).
 
 **Est-ce que je peux avoir des statistiques sur les commandes et les montants dépensés ?**
 

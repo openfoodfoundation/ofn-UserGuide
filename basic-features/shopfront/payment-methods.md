@@ -158,4 +158,4 @@ Exemple :  Si la marge du premier est de 2€, celle de l'objet supplémentaire 
 
 ## Gestion des remboursements
 
-Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet](broken-reference).
+Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet](/broken/pages/-LZjpwl6ufULWgTSgIfC).

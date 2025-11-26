@@ -14,7 +14,7 @@ Des options de mises en forme sont disponibles sur tous les rapports de la même
 * **Afficher une ligne titre ou une ligne total** : la ligne titre permet de voir plus rapidement comment les données sont regroupées. La ligne total affiche en générale les totaux de commandes
 * **Colonnes à masquer** : vous pouvez choisir les colonnes que vous ne souhaitez pas afficher
 
-Les deux rapports les plus utilisés sont les rapports **Totaux cycle de vente par producteur** et **Totaux cycle de vente par acheteur**. Si en tant que hub vous organisez l'approvisionnement des produits en gros par le producteur puis la mise en panier sur site, le premier rapport vous permettra de gérer vos commandes aux producteurs, le second la préparation des paniers individuels. La **Liste de mails** et les **Adresses** vous serons utiles pour gérer votre communication avec vos acheteurs. Le rapport de **TVA par taux de taxe** vous permettra de gérer vos déclarations de TVA. Les **Rapports des paiements** vous permettent de savoir ce qui a été payé et comment, et ce qui est dû sur chaque méthode de paiement choisie. Le rapport **Achats groupés en vrac** peut aider les décisions d'allocations afférentes aux [achats groupés par lot](broken-reference).
+Les deux rapports les plus utilisés sont les rapports **Totaux cycle de vente par producteur** et **Totaux cycle de vente par acheteur**. Si en tant que hub vous organisez l'approvisionnement des produits en gros par le producteur puis la mise en panier sur site, le premier rapport vous permettra de gérer vos commandes aux producteurs, le second la préparation des paniers individuels. La **Liste de mails** et les **Adresses** vous serons utiles pour gérer votre communication avec vos acheteurs. Le rapport de **TVA par taux de taxe** vous permettra de gérer vos déclarations de TVA. Les **Rapports des paiements** vous permettent de savoir ce qui a été payé et comment, et ce qui est dû sur chaque méthode de paiement choisie. Le rapport **Achats groupés en vrac** peut aider les décisions d'allocations afférentes aux [achats groupés par lot](/broken/pages/-LAYPbj8fvdBH_xN-cTz).
 
 ## **Totaux cycle de vente par acheteur**
 
@@ -40,7 +40,7 @@ Les deux rapports "tous les produits" et "produits disponibles (stock positif)" 
 
 ## Résumé des marges et commissions
 
-Les entreprises peuvent paramétrer des [marges et commissions](broken-reference) pour spécifier sur quels types de dépenses sont utilisées les marges et commissions collectées.  Cela permet au vendeur/distributeur de communiquer avec transparence sur les marges pour que l'acheteur comprenne ce qui revient au producteur et pourquoi le distributeur prend un marge. Ce rapport permet d'avoir une vision agrégée et détaillée des marges et commissions collectées.  Il contient des filtres par dates, hub, producteur et cycle de vente, type de marges et commissions à inclure dans le rapport (selon leur nom), méthode de livraison et méthode de paiement.&#x20;
+Les entreprises peuvent paramétrer des [marges et commissions](/broken/pages/-LAYPbj0nzUOKcxIpSpo) pour spécifier sur quels types de dépenses sont utilisées les marges et commissions collectées.  Cela permet au vendeur/distributeur de communiquer avec transparence sur les marges pour que l'acheteur comprenne ce qui revient au producteur et pourquoi le distributeur prend un marge. Ce rapport permet d'avoir une vision agrégée et détaillée des marges et commissions collectées.  Il contient des filtres par dates, hub, producteur et cycle de vente, type de marges et commissions à inclure dans le rapport (selon leur nom), méthode de livraison et méthode de paiement.&#x20;
 
 _Exemple 1:_ une boutique collecte sur chaque commande une marge de 2% de type "Levée de fonds" pour soutenir l'installation de nouveaux producteurs. Elle peut utiliser ce rapport pour connaître facilement le total collecté sur un cycle de vente particulier.&#x20;
 
@@ -70,7 +70,7 @@ Le rapport le plus utilisé sera le rapport "TVA par taux de taxe" pour les déc
 
 ## Achats groupés en vrac
 
-Le rapport "achats groupés - totaux par producteur" indique au gestionnaire du hub si un ou plusieurs lots complets ont été atteints par la somme des commandes individuelles, et selon la réponse, combien il manque d'unités, ou de combien on a dépassé la limite, pour soutenir la décision du hub de commander ou pas le lot, voire plusieurs lots, et éventuellement gérer un peu de stock. Ce rapport n'est utile que pour les produits [paramétrés comme "vendus par lots"](broken-reference).
+Le rapport "achats groupés - totaux par producteur" indique au gestionnaire du hub si un ou plusieurs lots complets ont été atteints par la somme des commandes individuelles, et selon la réponse, combien il manque d'unités, ou de combien on a dépassé la limite, pour soutenir la décision du hub de commander ou pas le lot, voire plusieurs lots, et éventuellement gérer un peu de stock. Ce rapport n'est utile que pour les produits [paramétrés comme "vendus par lots"](/broken/pages/-LAYPbj8fvdBH_xN-cTz).
 
 Quand le cycle de vente ferme, ce rapport peut vous aider à répondre aux questions suivantes :&#x20;
 

@@ -28,8 +28,7 @@ Si vous utilisez par ailleurs un autre logiciel de vente en ligne pour vendre vo
 
 *   **Boutique producteur : vous souhaitez vendre uniquement vos produits**&#x20;
 
-    Ce choix vous permet de gérer une boutique pour vendre uniquement les produits de votre  catalogue. Pour plus d'informations, rendez-vous sur la page [boutique](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/producer-shop-quick-setup-guide).\
-
+    Ce choix vous permet de gérer une boutique pour vendre uniquement les produits de votre  catalogue. Pour plus d'informations, rendez-vous sur la page [boutique](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/producer-shop-quick-setup-guide).<br>
 *   **Boutique multi-producteurs : vous souhaitez vendre vos produits ainsi que ceux d'autres producteurs / fournisseurs**&#x20;
 
     Ce choix vous permet de gérer une boutique pour vendre vos produits mais aussi, d'avoir la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) d'autres producteurs pour accéder à leur catalogue et distribuer leurs produits dans votre boutique. Pour plus d'informations, rendez-vous sur la page [hub](https://guide.openfoodnetwork.org/v/fr/quick-start-guides/multi-producers-shop-hub-quick-setup-guide).

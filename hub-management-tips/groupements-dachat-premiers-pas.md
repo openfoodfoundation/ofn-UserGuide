@@ -70,8 +70,7 @@ Vos fournisseurs - producteurs, transformateurs, etc.- doivent d'abord avoir cr�
 Si besoin, vous pouvez le faire pour eux ! Depuis votre espace administration, dans l'onglet Entreprises, cliquez sur "Nouvelle entreprise". Choisissez le type "Profil".\
 Dans l'onglet "Produits", vous pouvez renseigner leurs produits. Notez qu'il est possible d'[importer des tableurs de produits ](https://guide.openfoodnetwork.org/v/fr/basic-features/products/product-and-inventory-import?q=import)pour gagner du temps. Nous pouvons aussi vous y aider, n'hésitez-pas à nous écrire par mail 😉
 
-Vous serez "Gestionnaire principal" de cette entreprise (dans Entreprises > Paramètres > Gestionnaires, vous verrez votre adresse mail dans "Gestionnaire principal"). Si vous souhaitez ensuite mettre les producteur·ice·s en co-gestionnaire, ou carrément en gestionnaire principal, il faudra ajouter leur adresse dans "Gestionnaires" (suivez [ce guide)](https://openfoodfrance1.od2.vtiger.com/shorturl.php?id=6352b3cc93df32.98448770\&fromcrm=1).\
-
+Vous serez "Gestionnaire principal" de cette entreprise (dans Entreprises > Paramètres > Gestionnaires, vous verrez votre adresse mail dans "Gestionnaire principal"). Si vous souhaitez ensuite mettre les producteur·ice·s en co-gestionnaire, ou carrément en gestionnaire principal, il faudra ajouter leur adresse dans "Gestionnaires" (suivez [ce guide)](https://openfoodfrance1.od2.vtiger.com/shorturl.php?id=6352b3cc93df32.98448770\&fromcrm=1).<br>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/schéma GA - fournisseurs.png" alt=""><figcaption></figcaption></figure>

@@ -1,8 +1,7 @@
 # Création de commande gestionnaire
 
 Parfois, vous souhaitez passer vous même une commande manuellement dans le système, pour le compte d'un acheteur ou pour que vos rapports incluent une commande issue d'une autre plateforme par exemple. Rendez-vous sur **Commandes** et cliquez sur le bouton **Nouvelle Commande** : \
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/nouvelle_commande_edit.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -34,8 +33,7 @@ Ensuite, cliquez sur **"Ajustements"** dans le menu de droite **puis sur l'ongle
 
 <figure><img src="../../.gitbook/assets/Commande_ajustement_edit.jpg" alt=""><figcaption></figcaption></figure>
 
-La dernière étape est le choix de la méthode de paiement. Cliquez sur **"Paiements"** dans le menu de droite **puis sur l'onglet "Nouveau paiement"** pour modifier la méthode de paiement. \
-
+La dernière étape est le choix de la méthode de paiement. Cliquez sur **"Paiements"** dans le menu de droite **puis sur l'onglet "Nouveau paiement"** pour modifier la méthode de paiement. <br>
 
 <figure><img src="../../.gitbook/assets/Commande_paiement_edit.jpg" alt=""><figcaption></figcaption></figure>
 

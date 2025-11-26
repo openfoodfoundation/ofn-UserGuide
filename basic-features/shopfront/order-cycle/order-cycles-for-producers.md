@@ -38,7 +38,7 @@ Choisissez votre boutique "coordinateur" puis cliquez sur "suivant". Vous allez 
 Attention, si vous ajouter des produits après la date de démarrage du cycle de vente, pensez-bien à les ajouter ici aussi pour qu'ils apparaissent en ligne !
 {% endhint %}
 
-**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies (voir page [Marges et commissions](broken-reference)).
+**Ajouter commission coordinateur :** Si vous souhaitez appliquer une marge ou commission sur tous les produits figurant dans ce cycle de vente, vous pouvez choisir ici la marge souhaitée parmi les marges et commission prédéfinies (voir page [Marges et commissions](/broken/pages/-LAYPbj0nzUOKcxIpSpo)).
 
 ### 2. Ouvrir la boutique
 

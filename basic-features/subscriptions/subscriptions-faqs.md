@@ -2,7 +2,7 @@
 
 ### **Si je supprime l'association d'un rythme d'abonnement à un cycle de vente déjà ouvert, que se passe-t-il pour les commandes automatiques déjà lancées à l'ouverture du cycle ? Sont-elles supprimées ?** &#x20;
 
-Les commandes resteront ouvertes et seront traitées de façon normale, donc à la fermeture du cycle de vente, l'acheteur recevra une confirmation que la commande a bien été passée. Si vous souhaitez supprimer toutes les commandes automatiques associées au cycle de vente en question, vous devrez [annuler chaque commande individuellement](broken-reference).&#x20;
+Les commandes resteront ouvertes et seront traitées de façon normale, donc à la fermeture du cycle de vente, l'acheteur recevra une confirmation que la commande a bien été passée. Si vous souhaitez supprimer toutes les commandes automatiques associées au cycle de vente en question, vous devrez [annuler chaque commande individuellement](/broken/pages/-LL9vLodzlrynPKcd48I#edit-one-specific-order).&#x20;
 
 ### **Si j'ajoute une commande récurrente associée à un rythme d'abonnement correspondant à un cycle de vente en cours, est-ce qu'une commande sera automatiquement passée pour l'acheteur pour le cycle de vente en cours ?**&#x20;
 
@@ -18,4 +18,4 @@ ASi vous modifiez le paramétrage de la commande récurrente alors qu'un cycle d
 
 ### **Que se passe-t-il si le stock d'un produit ne permet pas de satisfaire toutes les commandes récurrente pour un cycle de vente donnée, et qu'un acheteur qui s'est vu alloué le stock demandé pour ce produit annule sa commande. Est-ce que ce stock sera réalloué à une autre commande automatique qui n'avait pas pu être satisfaite ?**&#x20;
 
-Non. Si l'acheteur annule la commande ou retire le dit produit de sa commande, le stock du produit sera augmenté de la quantité correspondante, mais ne sera pas automatiquement réalloué à une autre commande automatique déjà passée. Vous pouvez cependant le faire manuellement en éditant une commande automatique spécifique [selon le process décrit ici](broken-reference).
+Non. Si l'acheteur annule la commande ou retire le dit produit de sa commande, le stock du produit sera augmenté de la quantité correspondante, mais ne sera pas automatiquement réalloué à une autre commande automatique déjà passée. Vous pouvez cependant le faire manuellement en éditant une commande automatique spécifique [selon le process décrit ici](/broken/pages/-LL9vLodzlrynPKcd48I#edit-one-specific-order).

@@ -64,7 +64,7 @@ Rendez-vous sur [cette page](https://guide.openfoodnetwork.org/v/fr/your-quick-s
 
 **Peut-on intégrer la boutique dans un site internet existant ?**
 
-Oui, pour cela rendez-vous sur [cette page](broken-reference).
+Oui, pour cela rendez-vous sur [cette page](/broken/pages/-LAYPbjJyJLvrqEsOSI4).
 
 ## Vos produits et votre boutique
 

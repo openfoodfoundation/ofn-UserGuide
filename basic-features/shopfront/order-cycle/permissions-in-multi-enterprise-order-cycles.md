@@ -43,8 +43,7 @@ Le fournisseur d'un cycle de vente va voir dans le menu "cycles de vente" les cy
 
 Aussi, dans le menu "rapports", le fournisseur pourra là aussi voir les commandes qu'il a reçu pour ce cycle de vente.
 
-Le gestionnaire du cycle de vente peut choisir de laisser le fournisseur du cycle de vente visualiser le nom des **acheteurs**. Ce choix se fait dans les préférences Boutiques.\
-
+Le gestionnaire du cycle de vente peut choisir de laisser le fournisseur du cycle de vente visualiser le nom des **acheteurs**. Ce choix se fait dans les préférences Boutiques.<br>
 
 <figure><img src="../../../.gitbook/assets/cycle_de_vente_nom_acheteur_annoté.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -79,6 +78,6 @@ Pour l'instant, seul le coordinateur du cycle de vente peut ajouter des fourniss
 
 Les droits qu'a un distributeur sur la gestion des produits dans la partie "produits sortants" dépendent de la [permission](https://guide.openfoodnetwork.org/v/fr/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) que lui a accordé le fournisseur.&#x20;
 
-* Le distributeur peut voir, ajouter, retirer des produits de sa liste de produits sortants uniquement pour les fournisseurs qui lui ont [donné l'autorisation](broken-reference) de vendre leurs produits.
+* Le distributeur peut voir, ajouter, retirer des produits de sa liste de produits sortants uniquement pour les fournisseurs qui lui ont [donné l'autorisation](/broken/pages/-LAYPbjMfOAZfKmUvDck) de vendre leurs produits.
 * Il peut modifier les dates de livraison/retrait et les précisions sur les modalités de livraison/retrait
 * Il peut modifier les marges et commissions appliquées

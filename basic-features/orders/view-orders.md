@@ -85,7 +85,7 @@ Vous pouvez ajouter un produit en sélectionnant la variante concernée (vous de
 * **Envoyer la facture :** Cette action entraîne l'envoi automatique par email de la facture correspondant à la commande, au format PDF
 
 {% hint style="danger" %}
-Attention : ce document appelé "facture" doit pour la Belgique être modifié pour respecter les obligations légales françaises concernant le numéro de facture. Ici, le numéro de facture est le numéro de commande. La réglementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
+Attention : ce document appelé "facture" ne respecge pas toutes les dispositions françaises concernant les factures. Ici, le numéro de facture est le numéro de commande. La réglementation française impose que les factures émises par une entreprises se suivent selon une numérotation ininterrompue.
 {% endhint %}
 
 * **Imprimer la facture** : Cette action entraîne la génération d'un PDF à imprimer
@@ -103,7 +103,7 @@ Les informations acheteur (email, adresses de facturation et livraison) sont acc
 
 Cliquez sur "ajustements" (cf capture ci-dessus). Sur cette page vous pouvez ajouter ou supprimer des montants selon votre guise en cliquant sur "nouvel ajustement". Cela vous permet par exemple d'accorder une remise sur une commande car les produits étaient abîmés, ou de prendre en compte un avoir accordé sur une commande précédente.
 
-Un ajustement peut aussi servir à capturer un remboursement effectué à un acheteur sur une commande. Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet.](broken-reference)
+Un ajustement peut aussi servir à capturer un remboursement effectué à un acheteur sur une commande. Selon la méthode de paiement choisie, la gestion des remboursements ne sera pas la même. [Consultez la page dédiée à ce sujet.](/broken/pages/-LZjpwl6ufULWgTSgIfC)
 
 #### Capturer un paiement partiel
 

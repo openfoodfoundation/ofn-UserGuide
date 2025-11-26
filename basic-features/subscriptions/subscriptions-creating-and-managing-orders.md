@@ -8,11 +8,11 @@ Rappel : dans la première version du module, seuls les gestionnaires de boutiqu
 
 **Rappel des choses à faire avant de passer aux étapes décrites ici :**
 
-* [Activez les commandes récurrentes dans les paramètres de l'entreprise](broken-reference)
-* Vérifiez ou mettez en place les [méthodes de paiement et de livraison](broken-reference) pour l'entreprise​
-* [Contactez vos acheteurs pour connaître leurs coordonnées et préférences (option de paiement choisie, produits à commander et rythme de commande, ](broken-reference)etc.) et leur rappeler [ce qu'ils doivent faire de leur côté (création d'un compte utilisateurs, enregistrement d'une carte de crédit le cas échéant, etc.)​](broken-reference)
-* [Ajoutez vos acheteurs à votre liste d'acheteurs](broken-reference)
-* Créez au moins un [rythme d'abonnement​](broken-reference)
+* [Activez les commandes récurrentes dans les paramètres de l'entreprise](/broken/pages/-LL9v3vM8pV9w2ypPr5n#1-enable-subscriptions)
+* Vérifiez ou mettez en place les [méthodes de paiement et de livraison](/broken/pages/-LL9v3vM8pV9w2ypPr5n#2-make-sure-you-have-shipping-and-payment-methods-setup) pour l'entreprise​
+* [Contactez vos acheteurs pour connaître leurs coordonnées et préférences (option de paiement choisie, produits à commander et rythme de commande, ](/broken/pages/-LL9v3vM8pV9w2ypPr5n#3-gather-information-from-your-customers)etc.) et leur rappeler [ce qu'ils doivent faire de leur côté (création d'un compte utilisateurs, enregistrement d'une carte de crédit le cas échéant, etc.)​](/broken/pages/-LL9vdmowq95Unb49Fk8)
+* [Ajoutez vos acheteurs à votre liste d'acheteurs](/broken/pages/-LL9v3vM8pV9w2ypPr5n#4-add-your-subscribers-to-your-customer-list)
+* Créez au moins un [rythme d'abonnement​](/broken/pages/-LL9v3vM8pV9w2ypPr5n#create-a-schedule)
 
 ## 6) Créer une commande récurrente <a href="#id-6-create-subscriptions" id="id-6-create-subscriptions"></a>
 
@@ -97,8 +97,7 @@ Dans la colonne "commandes", cliquez sur le numéro affiché (qui représente le
 Depuis la page **Abonnements**, cliquez sur la croix à côté de la commande récurrente. Cela supprimera définitivement la commande.
 
 Si vous supprimez une commande alors qu'un cycle de vente est toujours ouvert, un message vous avertira afin de vous laisser l'option de garder la commande liée ou de la supprimer également. \
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/abonnement_myriam2_edit.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +118,7 @@ Une fois une commande récurrente en place pour un acheteur donné, comment cett
 * Une commande est automatiquement générée pour tous les acheteurs qui ont une commande récurrente programmée pour ce rythme d'abonnement. Un email les notifiant qu'une nouvelle commande va être passée en leur nom leur est adressé.
 * Le stock des produits commandés diminue du nombre d'unités correspondant.
 * Un email résumant toutes les commandes passés automatiquement ainsi que celles qui on eu des problèmes (stock insuffisant par exemple) est envoyé au responsable de la boutique.
-* Les acheteurs peuvent modifier la commande automatique passée en leur nom jusqu'à la fin du cycle de vente si vous leur en avez laissé la possibilité dans vos [paramètres de boutique](broken-reference).
+* Les acheteurs peuvent modifier la commande automatique passée en leur nom jusqu'à la fin du cycle de vente si vous leur en avez laissé la possibilité dans vos [paramètres de boutique](/broken/pages/-LAYPbitAfu-rMmEbpED#preferences-boutique).
 
 {% hint style="info" %}
 N'oubliez pas que si vous créer une nouvelle commande récurrente pour un acheteur, et que la date de début correspond à un cycle de vente en cours, une commande automatique sera immédiatement générée pour cet acheteur.

@@ -39,8 +39,7 @@ Vous pouvez ajouter des labels à vos produits afin de renseigner l'acheteur fin
 * Mon choix Agriculteurs locaux vérifiés&#x20;
 * Coupon
 
-\
-
+<br>
 {% endtab %}
 {% endtabs %}
 
@@ -122,8 +121,7 @@ Ceci est utile si vous souhaitez modifier uniquement la description d'une étiqu
 
 En cliquant sur le profil d'un producteur, les labels entreprises s'affichent sur sa page :
 
-Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés : \
-
+Les clients peuvent également filtrer les produits d'une boutique en fonction de leurs propriétés : <br>
 
 ![](<../.gitbook/assets/image (57) (1) (1).png>)
 

@@ -6,7 +6,7 @@ Cette page décrit ce qui se passe pour l'acheteur qui a une commande récurrent
 
 Détenir un compte sur la plateforme est obligatoire pour bénéficier de la fonctionnalité : les commandes récurrentes en mode "invité" (sans se connecter) sont donc impossibles.
 
-Pour créer un compte en tant qu'acheteur, cliquez en haut à droite sur le bouton "se connecter" depuis la page d'accueil, selon le processus [décrit ici](broken-reference).​ Vous aurez juste besoin de saisir une adresse email valide et un mot de passe, un message de vérification de l'email avec un lien de confirmation sera envoyé à l'utilisateur, et une fois l'email confirmé, son compte sera créé et il pourra se connecter à la plateforme.
+Pour créer un compte en tant qu'acheteur, cliquez en haut à droite sur le bouton "se connecter" depuis la page d'accueil, selon le processus [décrit ici](/broken/pages/-LAYPbirdkuDkjurYPPv#creation-de-votre-compte-utilisateur).​ Vous aurez juste besoin de saisir une adresse email valide et un mot de passe, un message de vérification de l'email avec un lien de confirmation sera envoyé à l'utilisateur, et une fois l'email confirmé, son compte sera créé et il pourra se connecter à la plateforme.
 
 ## Enregistrer sa carte bancaire et autoriser les prélèvements automatiques <a href="#saving-credit-cards-and-authourising-charges" id="saving-credit-cards-and-authourising-charges"></a>
 
@@ -32,6 +32,6 @@ N. B. : Les cartes bancaires sauvegardées ici peuvent également être sélecti
 
 ### **b) Autoriser la boutique en ligne à réaliser des prélèvements automatiques** <a href="#b-authourising-a-shop-to-charge-their-default-card" id="b-authourising-a-shop-to-charge-their-default-card"></a>
 
-**Si vous ne voyez aucune boutique dans la section "Boutiques autorisées" (voir image ci-dessus), c'est que la boutique ne vous a pas ajouté à sa** [**liste d'acheteurs**](broken-reference)**. Contactez-là pour quelle le fasse !**
+**Si vous ne voyez aucune boutique dans la section "Boutiques autorisées" (voir image ci-dessus), c'est que la boutique ne vous a pas ajouté à sa** [**liste d'acheteurs**](/broken/pages/-Ll8bUCuPnzzEofgVXuq)**. Contactez-là pour quelle le fasse !**
 
 Sinon il vous suffit de cocher la case pour autoriser la boutique en question à prélever automatiquement sur votre carte par défaut les montants des commandes automatiques passées dans le cadre de votre commande récurrente.
