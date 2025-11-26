@@ -67,6 +67,6 @@ Des difficultés avec ce guide d'utilisation ? Des informations manquantes ? Ou 
 Ecrivez-nous aux adresses suivantes :
 
 {% hint style="info" %}
-* support@coopcircuits.fr pour la France
+* bonjour@coopcircuits.fr pour la France
 * support@openfoodnetwork.be pour la Belgique.
 {% endhint %}
