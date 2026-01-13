@@ -114,7 +114,7 @@ Bevor Sie eine Zahlungsmethode einrichten können, die Stripe verwendet, müss
 
 ![](../../.gitbook/assets/connect-with-stripe.png)
 
-Sie werden zu einem Formular weitergeleitet, in das Sie Ihre Daten eingeben können. Wenn Sie bereits ein Konto bei Stripe haben, können Sie sich anmelden. Wenn nicht, füllen Sie das Formular aus, um ein Stripe-Konto zu erstellen.
+Sie werden zur Webseite von Stripe weitergeleitet, wo Sie Ihre Daten eingeben können. Wenn Sie bereits ein Konto bei Stripe haben, können Sie sich anmelden. Wenn nicht, füllen Sie das Formular aus, um ein Stripe-Konto zu erstellen.
 
 Zu den Informationen, nach denen Sie gefragt werden, gehören: Land, eine Beschreibung Ihres Unternehmens, Adresse und ABN, Ihre persönlichen Daten und Ihr Bankkonto (auf das die eingehenden Zahlungen überwiesen werden).
 
@@ -157,7 +157,43 @@ Wenn Sie von einem Kunden eine zusätzliche Zahlung verlangen müssen, weil er
 ![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
 
-{% tab title="Twint (Nur für die Schweiz)" %}
+{% tab title="Twint (voll automatisch)" %}
+Um Twint Zahlungen zu ermöglichen, müssen Sie ihren OFN Laden mit Stripe verbinden. Das Vorgehen ist weitestgehend analog zu Kreditkarten Bezahlungen.
+
+#### Mit Stripe verbinden
+
+Bevor Sie eine Zahlungsmethode einrichten können, die Stripe verwendet, müssen Sie eine Verbindung mit Stripe herstellen. Klicken Sie dazu auf die Schaltfläche "Mit Stripe verbinden".
+
+![](../../.gitbook/assets/connect-with-stripe.png)
+
+Sie werden zu einem Formular weitergeleitet, in das Sie Ihre Daten eingeben können. Wenn Sie bereits ein Konto bei Stripe haben, können Sie sich anmelden. Wenn nicht, füllen Sie das Formular aus, um ein Stripe-Konto zu erstellen.
+
+Zu den Informationen, nach denen Sie gefragt werden, gehören: Land, eine Beschreibung Ihres Unternehmens, Adresse, Ihre persönlichen Daten und Ihr Bankkonto (auf das die eingehenden Zahlungen überwiesen werden). Geben Sie unter "Webseite" den Link zu ihrem OFN Laden ein.&#x20;
+
+#### Eine neue Zahlungsmethode erstellen
+
+Sobald Sie eine Verbindung mit Stripe hergestellt haben, können Sie eine Zahlungsmethode erstellen, die mit Ihrem verbundenen Konto funktioniert.
+
+Behandeln Sie die Felder **Name, Beschreibung, Aktiv** und **Tags** wie bei jeder anderen Zahlungsmethode.
+
+**Anbieter:** Wählen Sie Twint.
+
+Sobald Sie Stripe ausgewählt haben, wird "Anbietereinstellungen" angezeigt.
+
+#### Stripe-Kontoinhaber:
+
+Wählen Sie das Unternehmen aus, das ein Stripe-Konto angeschlossen hat.
+
+Wenn Sie ein Unternehmen auswählen, das nicht mit Stripe verbunden ist (siehe oben), erhalten Sie die unten abgebildete Fehlermeldung. Klicken Sie entweder auf "Verbinden" oder kehren Sie zu Ihrer Registerkarte "Zahlungsmethoden" zurück, um eine Verbindung mit Stripe herzustellen. Siehe Anweisungen oben.
+
+![](../../.gitbook/assets/stripe-connect.png)
+
+#### Anzeigen und Einlösen Ihrer Zahlungen über Stripe
+
+Wenn ein Kunde seine Bestellung mit Stripe bezahlt, wird das Geld (abzüglich der Gebühren von Stripe) auf Ihr Stripe-Konto überwiesen. Je nach Ihrer Einstellung in Stripe wird das Geld regelmässig automatisch überwiesen an das von Ihnen gewählte Bankkonto.
+{% endtab %}
+
+{% tab title="Twint (halbautomatisch)" %}
 
 
 Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration von Twint-Zahlungen in die Open Food Network-Plattform mit Raisenow. Twint ist eine weit verbreitete Zahlungslösung für Hofläden und bietet eine QR-Code-Zahlungsmethode. Diese Integration ermöglicht es Landwirten oder Hubs, Twint-Zahlungen nahtlos in ihren digitalen Workflow zu integrieren.
@@ -211,42 +247,6 @@ Dieser Leitfaden enthält eine Schritt-für-Schritt-Anleitung zur Integration vo
     Generieren Sie einen Twint-QR-Code auf der Twint-Plattform. Teilen Sie diesen QR-Code direkt mit Kunden über das E-Mail-Tool der Initiative (nicht über Open Food Network). Hinweis: Wenn Sie eine stärker integrierte Lösung wünschen, kontaktieren Sie uns, um alternative Optionen zu erkunden.
 
 Wählen Sie die Option, die am besten zu Ihrem Arbeitsablauf und Ihren Präferenzen passt. Die erste Option bietet eine nahtlose Integration über Raisenow's Paylink, während die zweite Option die direkte Weitergabe von QR-Codes per E-Mail beinhaltet. Wenn Sie weitere Unterstützung benötigen oder alternative Lösungen erkunden möchten, können Sie uns gerne kontaktieren.
-{% endtab %}
-
-{% tab title="Twint" %}
-Um Twint Zahlungen zu ermöglichen, müssen Sie ihren OFN Laden mit Stripe verbinden. Danach ist das Vorgehen analog zu Kreditkarten Bezahlungen.<br>
-
-#### Mit Stripe verbinden
-
-Bevor Sie eine Zahlungsmethode einrichten können, die Stripe verwendet, müssen Sie eine Verbindung mit Stripe herstellen. Klicken Sie dazu auf die Schaltfläche "Mit Stripe verbinden".
-
-![](../../.gitbook/assets/connect-with-stripe.png)
-
-Sie werden zu einem Formular weitergeleitet, in das Sie Ihre Daten eingeben können. Wenn Sie bereits ein Konto bei Stripe haben, können Sie sich anmelden. Wenn nicht, füllen Sie das Formular aus, um ein Stripe-Konto zu erstellen.
-
-Zu den Informationen, nach denen Sie gefragt werden, gehören: Land, eine Beschreibung Ihres Unternehmens, Adresse und ABN, Ihre persönlichen Daten und Ihr Bankkonto (auf das die eingehenden Zahlungen überwiesen werden).
-
-#### Eine neue Zahlungsmethode erstellen
-
-Sobald Sie eine Verbindung mit Stripe hergestellt haben, können Sie eine Zahlungsmethode erstellen, die mit Ihrem verbundenen Konto funktioniert.
-
-Behandeln Sie die Felder **Name, Beschreibung, Aktiv** und **Tags** wie bei jeder anderen Zahlungsmethode.
-
-**Anbieter:** Wählen Sie Twint.
-
-Sobald Sie Stripe ausgewählt haben, wird "Anbietereinstellungen" angezeigt.
-
-#### Stripe-Kontoinhaber:
-
-Wählen Sie das Unternehmen aus, das ein Stripe-Konto angeschlossen hat.
-
-Wenn Sie ein Unternehmen auswählen, das nicht mit Stripe verbunden ist (siehe oben), erhalten Sie die unten abgebildete Fehlermeldung. Klicken Sie entweder auf "Verbinden" oder kehren Sie zu Ihrer Registerkarte "Zahlungsmethoden" zurück, um eine Verbindung mit Stripe herzustellen. Siehe Anweisungen oben.
-
-![](../../.gitbook/assets/stripe-connect.png)
-
-#### Anzeigen und Einlösen Ihrer Zahlungen über Stripe
-
-Wenn ein Kunde seine Bestellung mit Stripe bezahlt, wird das Geld (abzüglich der Gebühren von Stripe) auf Ihr Stripe-Konto überwiesen. Je nach Ihrer Einstellung in Stripe wird das Geld regelmässig automatisch überwiesen an das von Ihnen gewählte Bankkonto.
 {% endtab %}
 {% endtabs %}
 
