@@ -8,7 +8,7 @@ You can also manually add a customer by the **+New Customer** button.&#x20;
 
 {% hint style="warning" %}
 Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.\
-_Hence if you have a_ [_private shop_](../private-shopfront.md) _front you will have to manually add all new customers and assign them the correct tag before they can shop._
+&#xNAN;_&#x48;ence if you have a_ [_private shop_](../private-shopfront.md) _front you will have to manually add all new customers and assign them the correct tag before they can shop._
 {% endhint %}
 
 ## Customer Billing and Shipping Address

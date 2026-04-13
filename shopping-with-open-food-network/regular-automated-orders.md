@@ -1,4 +1,4 @@
-# Regular Automated Orders
+# Subscription Orders
 
 ## **What are ‘Subscriptions’?**
 
@@ -53,7 +53,7 @@ The email will also inform you of the current price of each item.  Over time pri
 
 Some shops may allow customers to remove items from their orders or cancel them altogether, within a limited time frame.  In which case you will be sent two emails. The first will notify you that your automated order has been placed and give you a link to follow if you wish to change your order:
 
-![](https://lh3.googleusercontent.com/M1rkMedLCXm6w6ZRMQrT\_7nz9R9u6nsMBfVAj2CWAAd3D5JiSDz9\_0TwFE7gco0saGtWbibcjrdqRabfNpEQcQ9InI0-AbqOfbcsk2HOkmHES-e9eBAq0cPJZB-uCZm7IJS7mEh8)
+![](https://lh3.googleusercontent.com/M1rkMedLCXm6w6ZRMQrT_7nz9R9u6nsMBfVAj2CWAAd3D5JiSDz9_0TwFE7gco0saGtWbibcjrdqRabfNpEQcQ9InI0-AbqOfbcsk2HOkmHES-e9eBAq0cPJZB-uCZm7IJS7mEh8)
 
 {% hint style="warning" %}
 Adding to your basket by following this link will generate a second order and you will be directed to the checkout to pay for your additional items separately from those in your subscription.
@@ -84,7 +84,7 @@ From time to time, if you pay for your subscription by card, you may receive the
 ![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="info" %}
-You will be asked to periodically re-visit this page and re-check this box.  This is an extra security measure brought in by European banks called Strong Card Authentication (SCA). You can read more [here](https://en.wikipedia.org/wiki/Strong\_customer\_authentication).
+You will be asked to periodically re-visit this page and re-check this box.  This is an extra security measure brought in by European banks called Strong Card Authentication (SCA). You can read more [here](https://en.wikipedia.org/wiki/Strong_customer_authentication).
 {% endhint %}
 
 * Check that your card registered as 'Default' is in date.  Add a new card if necessary.
@@ -119,4 +119,4 @@ The beauty of locally grown and made produce is that it is seasonal.  If an item
 
 ### **Will the cost of my subscription remain the same forever?**
 
-No. The cost of your subscription will fluctuate based on the current price of the items within it.  This is to ensure small producers always receive a fair price for their products.  \
+No. The cost of your subscription will fluctuate based on the current price of the items within it.  This is to ensure small producers always receive a fair price for their products.  <br>

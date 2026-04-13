@@ -12,4 +12,4 @@ Short local supply chains build communities. You can purchase milk from the loca
 
 {% embed url="https://youtu.be/eA3IcMUnU14" %}
 
-The Open Food Network is a global software platform. The code base is open source, which means it is owned by everyone. No one person has the authority to remove access to or ask for payment for use of the code.  The Open Food Network platform is only a host for the local food enterprises who are registered on it.  When you purchase on the platform it is an interaction between yourself (as a customer) and a local food enterprise. The Open Food Network is a not for profit organisation.\
+The Open Food Network is a global software platform. The code base is open source, which means it is owned by everyone. No one person has the authority to remove access to or ask for payment for use of the code.  The Open Food Network platform is only a host for the local food enterprises who are registered on it.  When you purchase on the platform it is an interaction between yourself (as a customer) and a local food enterprise. The Open Food Network is a not for profit organisation.<br>

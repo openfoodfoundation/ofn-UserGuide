@@ -8,7 +8,7 @@ If you pay for your shopping by cash on collection or make a bank transfer payme
 
 If you visit the ‘Orders’ tab in your account it will appear as:
 
-![](https://lh6.googleusercontent.com/C4BapLoiGgfHJfFOt9vxpulhrPd6CMV3wJFV24H9XSy6qX8dgcF3KtDL-AK8\_iwbXkkJ3fHsLGVGh6y1vJPZQ37AsTu9Jp1TRgUTX6DafjE-8EbpF7UsbtRZ-4eEhHpAaxG8kRO2)
+![](https://lh6.googleusercontent.com/C4BapLoiGgfHJfFOt9vxpulhrPd6CMV3wJFV24H9XSy6qX8dgcF3KtDL-AK8_iwbXkkJ3fHsLGVGh6y1vJPZQ37AsTu9Jp1TRgUTX6DafjE-8EbpF7UsbtRZ-4eEhHpAaxG8kRO2)
 
 Clicking on ‘Edit’ next to the order in question will bring up a summary of the order.  Here you will be able to change the quantity of each item or delete an unwanted product altogether.
 
@@ -81,7 +81,7 @@ Some products may have the label ‘Bulk’ in the top right of the photo. This 
 
 You will be asked to enter a minimum and maximum quantity of the product you would like to buy. The ‘minimum’ is the amount you would like in an ideal world. By setting the ‘maximum’ higher than the minimum you are agreeing to purchase slightly more if it means that the shop is able to make up a bulk order and everyone get some of what they want.
 
-![](https://lh5.googleusercontent.com/VphJXvuWJHin1XWSDb0D2NZzCGo4E3rvmaL8UQJ\_0GO3EpuMcT\_IYdXjtoNbNACUjSoJug8hWWQjdt3KonkPjprPb\_NLUz0nTBKH-\_doEHdxFFkaCxLhsp7e0IcDBel6Xvgtx9nS)
+![](https://lh5.googleusercontent.com/VphJXvuWJHin1XWSDb0D2NZzCGo4E3rvmaL8UQJ_0GO3EpuMcT_IYdXjtoNbNACUjSoJug8hWWQjdt3KonkPjprPb_NLUz0nTBKH-_doEHdxFFkaCxLhsp7e0IcDBel6Xvgtx9nS)
 
 ‘Bulk’ buying is common for shop fronts of buying groups. [Contact](the-people-and-businesses-who-make-grow-your-food.md#contact) the business you would like to shop with for more information about how they operate this service and the benefits it can bring you and others in your community.
 
@@ -124,7 +124,7 @@ We will endeavour to help you make your order as quickly as possible. We know ho
 
 You might be recommended to visit a local shop on the OFN platform by a friend, but when you land on the page you see this notice:
 
-![](https://lh5.googleusercontent.com/VvN5hrJJy4Xry5t5eixMmRepORycF\_qmyl3I5vBZaUJ6nlTgxGYeAfy6QlfaMGgubknZXQsHWJl\_dkl8Jb-\_bPnSXeuUHxQIUeODQgyZTRrGLzshaAqwYj1m5fP3Y3MiSIfQ6WW9)
+![](https://lh5.googleusercontent.com/VvN5hrJJy4Xry5t5eixMmRepORycF_qmyl3I5vBZaUJ6nlTgxGYeAfy6QlfaMGgubknZXQsHWJl_dkl8Jb-_bPnSXeuUHxQIUeODQgyZTRrGLzshaAqwYj1m5fP3Y3MiSIfQ6WW9)
 
 Some shops opt to operate a ‘members only’ policy. For example a local buying group or collection of friends and neighbours may club together to purchase items in bulk at a discount from wholesalers.  Often these shops are more than willing to accept new members. They may ask for a small fee to cover admin costs of their business or ask if you are willing to help with deliveries/collections.
 
@@ -136,7 +136,6 @@ The beauty of buying from local small producers is that you know the food you or
 
 In order for your local bakers, farmers, butchers, florists… etc to prepare orders often a shop will close a day or two before collection. &#x20;
 
-You can contact the shop (details found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab) to find when they will be open again.\
+You can contact the shop (details found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab) to find when they will be open again.<br>
 
-
-![](https://lh4.googleusercontent.com/ZXkmTxxlLj6WoPIKI4PJniPY0NvrkUWJ4hehjPP5YnBswtsD9wZr5KG2CZbkpczSrlqhZvIUs-5gl2xmAYip74\_ire8ROpcyKDGd\_bHm7K1xQtU3xYimer0EM\_bdcmROq6balzFF)
+![](https://lh4.googleusercontent.com/ZXkmTxxlLj6WoPIKI4PJniPY0NvrkUWJ4hehjPP5YnBswtsD9wZr5KG2CZbkpczSrlqhZvIUs-5gl2xmAYip74_ire8ROpcyKDGd_bHm7K1xQtU3xYimer0EM_bdcmROq6balzFF)

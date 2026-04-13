@@ -25,7 +25,7 @@ If you would like to purchase as a guest but are required to login when you get 
 * Your [transaction](your-ofn-account.md#transactions) and [order](your-ofn-account.md#orders) history are saved. You will be able to see what you have purchased in the past. Useful if you really liked that jar of jam and can’t remember the exact brand or flavour.
 * When you log in you will be able to easily navigate to the shop you last visited and purchased from: Click on the ‘Shopping @ ‘ button in the right hand corner of the screen.
 
-![](https://lh6.googleusercontent.com/VvMP-IUXl3XVA1lD89c\_1gpxNqe4fVC6bPwOKF6yX\_Cia2U4ePjLlXHuTEB8Pdtm2Q2LFGDeCrdzj4jm7c6V-JYv5cbLJixPycT12BM\_XGCtbbnpWbC95TZyCeZjZp4QvC63nKkE)
+![](https://lh6.googleusercontent.com/VvMP-IUXl3XVA1lD89c_1gpxNqe4fVC6bPwOKF6yX_Cia2U4ePjLlXHuTEB8Pdtm2Q2LFGDeCrdzj4jm7c6V-JYv5cbLJixPycT12BM_XGCtbbnpWbC95TZyCeZjZp4QvC63nKkE)
 
 * Having an OFN account will enable the business you shop from to give you special privileges. For example some businesses will offer early ‘opening times’ for loyal customers, discounted delivery for groups who live close to one another, money off purchases for volunteers… etc. \
   To access any of these things (should they exist) you will need to have an OFN account.
@@ -50,7 +50,7 @@ Businesses are required to collect billing address information by law for the tr
 
 To view your OFN account, log in and then click on the orange person in the top right of the screen.  This will reveal a drop down menu from which you can navigate to your account.
 
-![](https://lh6.googleusercontent.com/7\_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl\_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU\_mZ2dOMTUaiLe8Fg9N5tYCNs\_FxYMMXO-35rl)
+![](https://lh6.googleusercontent.com/7_feuoGIRtZzTE3SNbIRQZMBFNnKP92azWewIy2oBEtLQyVOdCOy9mpJLRga-7JIl_R-ZVaIzfTLJv1Kez1KWCJAMChbD5oFwvU_mZ2dOMTUaiLe8Fg9N5tYCNs_FxYMMXO-35rl)
 
 ### **Orders**
 
@@ -58,7 +58,7 @@ Under this tab you will be able to see all the orders you have made in the past.
 
 In the UK the direct URL to view your past orders is [https://openfoodnetwork.org.uk/account#/orders](https://openfoodnetwork.org.uk/account#/orders)
 
-![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0\_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH\_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq\_K6I7iUQIx17AfUdc349wTQqbxQ)
+![](https://lh6.googleusercontent.com/K7DWc5EAImEMm6nsAUvP3rUs70Il1a3SAzm0_pL4RIVojEjNELiobojxAtT8s-eJw6pCy-sACAjjH_Y4MGN2TNiPf4HDKP5GtKo3a8qHinEhq_K6I7iUQIx17AfUdc349wTQqbxQ)
 
 ### **Credit cards**
 
@@ -90,11 +90,11 @@ Under this tab you will be able to see all the different businesses on the platf
 In the UK the direct URL to view your past transactions is:\
 [https://openfoodnetwork.org.uk/account#/transactions](https://openfoodnetwork.org.uk/account#/transactions)
 
-![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN\_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
+![](https://lh4.googleusercontent.com/ZlqKX9SWoS85f1fTaXPSJs4r1ZAzMji4ZytN_XIqcgfS6zwWC0cXrAA2L3B0xDV60ViFtRwz0usWxJHfrBygCk3gDEQ9y-6p9GxC9rT0IHNCByqCkG1FQ9YkRvpNWMVsJGy9N3SD)
 
 ### **Account Settings**
 
 This is where you can reset your password.
 
 In the UK, the direct URL to visit your account settings is:\
-[https://openfoodnetwork.org.uk/account#/settings](https://openfoodnetwork.org.uk/account#/settings)\
+[https://openfoodnetwork.org.uk/account#/settings](https://openfoodnetwork.org.uk/account#/settings)<br>

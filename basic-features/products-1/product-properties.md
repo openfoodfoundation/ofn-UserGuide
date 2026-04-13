@@ -50,8 +50,7 @@ This is a list of product and enterprise properties available in Australia:
 * Fgh
 * Free-range
 * My Pick Verified local farmer
-* Coupon\
-
+* Coupon<br>
 {% endtab %}
 
 {% tab title="UK" %}
@@ -167,7 +166,7 @@ Once editing the product you can add or change its properties by selecting 'Prod
 
 There are 2 fields when applying a product property:
 
-**Property Name:**You can select a pre-defined product property from the drop-down list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
+**Property Name:**&#x59;ou can select a pre-defined product property from the drop-down list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
 
 **Description:** You can add a small description to give more information about your label. For example you may wish to add a certificate number.
 
@@ -201,4 +200,4 @@ Customers can also filter products in a shop based on their properties:
 
 ![](<../../.gitbook/assets/searchfilter (1).jpg>)
 
-![](../../.gitbook/assets/screenshot\_20201027-152628.png)
+![](../../.gitbook/assets/screenshot_20201027-152628.png)

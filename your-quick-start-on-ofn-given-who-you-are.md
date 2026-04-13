@@ -47,7 +47,7 @@ _The Hub enterprise has the most flexibility of the three enterprise types in OF
 Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell **_**only**_** produce** that **you** make.
+Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell&#x20;**_**only**_**&#x20;produce** that **you** make.
 
 {% hint style="danger" %}
 If you wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.

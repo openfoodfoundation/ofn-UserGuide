@@ -152,8 +152,7 @@ When the Notify Producers button is selected there will be a confirmation prompt
 * Quantity ordered
 * Price per unit
 * Subtotal per product
-* Included Tax (if relevant)\
-
+* Included Tax (if relevant)<br>
 
 ### Setting up automatic producer notifications
 

@@ -112,7 +112,7 @@ These examples explore some common scenarios.
 
 In order for your products to be distributed by the buying groups you will have to add a minimum permission of 'add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would **_**also**_** like to manage stock levels and prices of my products.**
+> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront.  The hub would like to manage the stock levels and prices of my products.  I would&#x20;**_**also**_**&#x20;like to manage stock levels and prices of my products.**
 
 This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
 

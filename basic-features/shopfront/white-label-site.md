@@ -10,8 +10,7 @@ Access White Label functions through the Enterprise Settings menu in your Dashbo
 
 Check the ‘Hide OFN navigation’ box to remove the header links to other parts of the Open Food Network site on your shopfront.
 
-**OFN Navigation visible:**\
-
+**OFN Navigation visible:**<br>
 
 <figure><img src="../../.gitbook/assets/normal shop front.jpg" alt=""><figcaption></figcaption></figure>
 

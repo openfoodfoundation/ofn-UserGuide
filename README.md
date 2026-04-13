@@ -31,7 +31,7 @@ This short video will give you a brief introduction to how the Open Food Network
 Are you new to the Open Food Network? Take a look at our [quick start guides](quick-start-guides/) for step-by-step instructions on setting up your enterprise for the first time.
 
 {% hint style="info" %}
-Find out more about where your enterprise fits in the Open Food Network [here](your-quick-start-on-ofn-given-who-you-are.md)
+Find out more about where your enterprise fits in the Open Food Network [here](your-quick-start-on-ofn-given-who-you-are.md).
 {% endhint %}
 
 ### > Features to meet your needs
