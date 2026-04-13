@@ -18,10 +18,16 @@ To access Tag Rules go to Enterprises -> Settings -> Tag Rules
 ## By Default
 
 By default, _**all items** will be visible to **all customers**_ whether they are tagged or not. \
-You can change the default display rules by selecting **+add new default rule**. Int the example below, by default, all Order Cycles which are tagged 'wholesale' will be invisible.\
+You can change the default display rules by selecting **+add new default rule**.&#x20;
+
+In the example below, by default, all Order Cycles which are tagged 'wholesale' will be invisible.\
 (For this example, only those customers who are tagged with the label 'wholesalecustomer' can view (and hence purchase from) Order Cycles tagged 'wholesale'.)
 
 ![](../../../.gitbook/assets/tag2.jpg)
+
+{% hint style="warning" %}
+Note that only **lowercase** tags are supported at the moment.
+{% endhint %}
 
 ## Tag Rules
 
