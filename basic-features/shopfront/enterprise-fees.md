@@ -59,7 +59,7 @@ You will only be able to specify rates or values (in the 'calculator values' col
 
 **Flat Rate (per item) -** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume, hence there will be no associated enterprise fee charged to a customer who buys rice by the kg for example).
 
-**Price Sack -** This is a flexible shipping fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a shipping discount. If the shopper spends less than the ‘minimal amount’, you can set what shipping fee they pay. This feature can also be used to create a fee for **minimum spend** too, so if the customer spends below a certain amount they will be charged a fee to compensate for it.
+**Price Sack -** This is a flexible fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a discount, e.g. on a shipping method. If the shopper spends less than the ‘minimal amount’, you can set what fee they pay. This feature can also be used to create a fee for **minimum spend** too, so if the customer spends below a certain amount they will be charged a fee to compensate for it.
 
 * **Minimal Amount** - If the order total is below this amount, no discount is applied. If the order is above this amount, the discount will be applied at checkout.
 * **Normal Amount** - This is the shipping fee applied to sales below the 'Minimal Amount'.
