@@ -1,9 +1,9 @@
 # Groupements d'achat / groupement de producteurs : premiers pas
 
 Un groupement permet de mettre en lien des fournisseurs (producteur·ice·s, transformateur·ice·s, etc) avec des mangeurs et mangeuses (les client·e·s/adhérent·e·s/membres). Sur CoopCircuits, il y a trois types d'"**entreprise"** :\
-&#xNAN;**- une boutique simple** : un producteur qui vend ses propres produits\
-&#xNAN;**- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
-&#xNAN;**- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
+**- une boutique simple** : un producteur qui vend ses propres produits\
+**- une boutique multi-producteurs** : une boutique qui vend les produits de plusieurs producteurs/fournisseurs\
+**- un profil :** un producteur qui crée son catalogue produit mais n'a pas de boutique (pas de page spécifique), et qui distribue seulement à travers d'autres boutiques
 
 Un Groupement d'Achat (GA) ou un groupement de producteurs est une "entreprise" de type "boutique multi-producteur", qui va permettre d'agréger les catalogues produits des différents fournisseurs, et de les proposer à la vente.
 
