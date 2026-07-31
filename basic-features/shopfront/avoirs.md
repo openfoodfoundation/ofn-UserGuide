@@ -26,7 +26,7 @@ Astuce : utilisez le filtre « Statut du paiement » pour faciliter la sélectio
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Autre astuce : En allant sur l’onglet de vos acheteurs, vous pouvez consulter les avoirs disponibles pour chacun (vérifiez que la colonne est affichée dans la liste déroulante)
+Autre astuce : En allant sur l’onglet de vos [acheteurs](customer-management-and-conditional-displays-prices/customers.md#liste-des-acheteurs), vous pouvez consulter les avoirs disponibles pour chacun (vérifiez que la colonne est affichée dans la liste déroulante)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/avoirs_acheteurs.png" alt=""><figcaption></figcaption></figure>
@@ -43,7 +43,7 @@ A noter que si le client avait payé par CB, la création d’un avoir vous perm
 
 ### Utilisation des avoirs pour gérer des pré-paiements
 
-Certains circuits courts fonctionnent grâce à des pré-paiements des mangeurs (modèle proche de celui des AMAP). La fonctionnalité Avoirs peut être utilisée pour gérer les pré-paiements.\
+Certains circuits courts fonctionnent grâce à des pré-paiements des mangeurs (modèle proche de celui des AMAPs). La fonctionnalité Avoirs peut être utilisée pour gérer les pré-paiements.\
 A partir d’une commande réalisée, le gestionnaire enregistre un sur-paiement et ensuite il peut créer un avoir disponible dont seront déduits les achats ultérieurs.
 
 ### Utilisation d’un avoir par le client mangeur
