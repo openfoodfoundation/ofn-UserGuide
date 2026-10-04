@@ -70,6 +70,8 @@ The **Lettuce Share** report gives more details about each product: It's name, v
 
 You can use this report to view the number of orders placed by a customer per order cycle- particularly useful if someone orders more than once but wants to collect everything in one box.
 
+The report also includes **Balance Due** (the amount the customer still owes on their orders) and **Available Credit** (the credit balance in their account). See [Take orders on Credit](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit).
+
 <figure><img src="../../.gitbook/assets/customer report.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Enterprise Fees

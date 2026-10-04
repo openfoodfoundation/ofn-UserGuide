@@ -161,6 +161,10 @@ You can use ‘Adjustments’ to partially refund a customer for a substandard p
 
 Once the order has been amended to reflect either the missing/adjusted products or the new adjustment, the order will appear with the payment state of **‘Credit Owing’** for the amount the customer no longer needs to pay.
 
+{% hint style="info" %}
+Instead of refunding the customer, you can move the amount owed to their **Customer Credit** balance, to be used automatically on their next order. See [Take orders on Credit.](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit)
+{% endhint %}
+
 **Process the Partial Refund**\
 To process a partial refund of the amount that is now owed, see instructions by choosing the payment method from the following tabs:
 

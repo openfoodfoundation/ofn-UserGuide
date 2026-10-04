@@ -241,6 +241,10 @@ Payment portals often charge businesses a fixed amount per transaction plus a sm
 The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
 {% endhint %}
 
+## Customer Credit
+
+Customer Credit is built into OFN and is available to every shop automatically. It doesn't appear in your list of payment methods, and you don't need to add it to your order cycles. Credit is applied at checkout for any customer who has it. See [Take orders on Credit](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit).
+
 ## Refunds
 
 Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found[ here.](../orders/refunds-and-adjusting-payments.md)

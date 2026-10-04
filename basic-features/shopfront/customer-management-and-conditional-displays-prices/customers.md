@@ -8,7 +8,7 @@ You can also manually add a customer by the **+New Customer** button.&#x20;
 
 {% hint style="warning" %}
 Only people who are in your customer list can be assigned a Tag and hence be assigned to a category.\
-&#xNAN;_&#x48;ence if you have a_ [_private shop_](../private-shopfront.md) _front you will have to manually add all new customers and assign them the correct tag before they can shop._
+_&#x48;ence if you have a_ [_private shop_](../private-shopfront.md) _front you will have to manually add all new customers and assign them the correct tag before they can shop._
 {% endhint %}
 
 ## Customer Billing and Shipping Address
@@ -17,6 +17,10 @@ Each customer can have a default billing and shipping address.  If a customer ha
 Storing a default billing and shipping address can make online purchases quicker for the customer.
 
 ![](<../../../.gitbook/assets/customer address.jpg>)
+
+## Customer Credit
+
+The **Available Credit** column shows the credit balance each customer holds with your shop. Click an amount to see that customer's transaction history. If the column isn't visible, turn it on from the **Columns** dropdown. To learn how to add credit and how customers use it, see [Take orders on Credit.](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit)
 
 ## Tags (to group customers in to categories)
 
