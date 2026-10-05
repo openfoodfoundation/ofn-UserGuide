@@ -51,7 +51,7 @@ Le remboursement va mettre 5 à 10 jours pour apparaître sur le compte de votre
 {% endhint %}
 
 {% hint style="info" %}
-Les frais prélevés par Stripe (1,4% + 0,25 cts par transaction - voir les montants à jour sur le site de Stripe [ici](https://stripe.com/fr/pricing)) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande (fonctionnalité qui sera développée dans les mois à venir).
+Les frais prélevés par Stripe (1,4% + 0,25 cts par transaction - voir les montants à jour sur le site de Stripe [ici](https://stripe.com/fr/pricing)) ne sont pas remboursés bien entendu, et reste prélevés sur la base du montant payé à l'origine. Il peut être parfois plus avantageux de capturer un ajustement sur la commande suivante de l'acheteur, ou lui proposer d'utiliser ses crédits pour payer une future commande : voir page [avoirs.md](../shopfront/avoirs.md "mention").
 {% endhint %}
 
 Si une commande a été annulée et que vous voulez intégralement rembourser la commande, vous également pouvez le faire directement depuis l'interface Open Food Network :&#x20;
@@ -70,11 +70,7 @@ Si le paiement a été réalisé via un mode de paiement non automatique (hors S
 
 ## B- Comment permettre à  un acheteur de régler partiellement sa prochaine facture avec ses crédits ?
 
-Il vous est aussi possible de ne pas rembourser une commande, mais simplement de déduire le montant dû de la prochaine commande via un ajustement manuel sur cette prochaine commande.
-
-{% hint style="info" %}
-Nous avons le projet de permettre à un acheteur qui a des crédits disponible de les utiliser en priorité pour régler sa prochaine commande. Cette fonctionnalité n'a pas encore été développée mais [a été priorisée dans notre feuille de route](https://community.openfoodnetwork.org/t/enable-customers-to-pay-partially-or-fully-with-their-credits/1211). Si cette fonctionnalité répond aussi à votre besoin, n'hésitez pas à nous contacter pour que nous prenions en compte votre situation dans le design de la fonctionnalité.
-{% endhint %}
+Il vous est aussi possible de ne pas rembourser une commande, mais simplement de déduire le montant dû de la prochaine commande via un ajustement manuel sur cette prochaine commande. Pour cela, consultez la page [avoirs.md](../shopfront/avoirs.md "mention").
 
 ## C- Comment prélever le montant complémentaire ?
 
