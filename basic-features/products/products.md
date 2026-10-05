@@ -91,6 +91,22 @@ Si vous souhaitez créer un produit similaire, vous pouvez copier/ coller le pro
 
 <figure><img src="../../.gitbook/assets/Dupliquer et modifier un produit-cadres.jpg" alt=""><figcaption></figcaption></figure>
 
+Chaque variante d’un produit peut avoir une photo différente.
+
+Dans l’onglet produits, cliquer sur la case grisée à gauche de la description et ajouter la photo de la variante.
+
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
+Une légende qui apparaîtra dans le catalogue de la boutique peut être ajoutée à chaque variante. Cliquer sur modifier la variante puis cliquer sur la photo comme suit et ajouter la légende :
+
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+
+Depuis la boutique, toutes les photos apparaissent sous la forme d'un carroussel en cliquant sur la photo principale. La légende apparaît pour les identifier. Seules les photos des variantes disponibles dans le cycle de vente en cours sont affichées.
+
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
 ## Affiner les attributs des produits
 
 Vous pouvez ajouter des [**propriétés/labels**](https://guide.openfoodnetwork.org/v/fr/basic-features/products-1/product-properties) à vos produits par soucis de transparence pour l'acheteur, pour mettre en valeur les qualités de vos produits, et permettre les recherches basées sur ce critère.
