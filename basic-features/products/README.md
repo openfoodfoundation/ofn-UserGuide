@@ -95,7 +95,7 @@ Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le
 
 ## Créer des produits associés (nouveau)
 
-La fonctionnalité « Produits Associés » est une nouveauté dans Open Food Network qui offre une solution flexible et efficace pour la gestion des produits partagés entre producteurs et boutiques. Elle répond aux besoins des producteurs qui souhaitent partager leurs produits avec plusieurs boutiques tout en conservant le contrôle sur leurs informations et leur gestion. Vous trouverez plus d'informations à la page "Créer des produits associés".
+La fonctionnalité « Produits Associés » est une nouveauté dans Open Food Network qui offre une solution flexible et efficace pour la gestion des produits partagés entre producteurs et boutiques. Elle répond aux besoins des producteurs qui souhaitent partager leurs produits avec plusieurs boutiques tout en conservant le contrôle sur leurs informations et leur gestion. Vous trouverez plus d'informations à la page [creer-des-produits-associes.md](creer-des-produits-associes.md "mention")
 
 ## Affiner les attributs des produits
 
