@@ -2,10 +2,6 @@
 
 Voucher codes can be created to offer shopping discounts to new or existing customers. Voucher functionality is still relatively limited, please read through [this guide before implementing vouchers in your shop process](../../hub-management-tips/how-tos/vouchers-v.-tags.md). You can instead use customer credit for [gift vouchers](../../hub-management-tips/how-tos/how-to-create-gift-vouchers-1.md) or [taking orders on credit](../../hub-management-tips/how-tos/take-orders-on-credit.md) where you want to limit usage to a single customer or avoid manual deactivation.
 
-{% hint style="info" %}
-Vouchers is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
-{% endhint %}
-
 {% hint style="success" %}
 Visit these pages for a step-by-step guide to using the Vouchers feature to:
 
