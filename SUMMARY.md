@@ -20,6 +20,7 @@
   * [Catalogue produits](basic-features/products/README.md)
     * [Créer un produit](basic-features/products/products.md)
     * [Créer des variantes d'un produit](basic-features/products/product-variants.md)
+    * [Créer des produits associés](basic-features/products/creer-des-produits-associes.md)
     * [Modifier un produit / gérer les stocks](basic-features/products/modifier-un-produit-gerer-les-stocks.md)
     * [Importer un tableau de produits](basic-features/products/product-and-inventory-import.md)
     * [Gérer les produits au poids irrégulier](basic-features/products/pricing-irregular-items-kg.md)

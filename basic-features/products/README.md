@@ -6,7 +6,7 @@ Vous pouvez ajouter des produits à votre catalogue un par un (voir ci-dessous) 
 
 
 
-Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page "Import produits en lot" Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
+Cette fonctionnalité permet d'ajouter des produits un par un à votre catalogue. Pour un ajout de produit en masse par import de fichier, consultez la page [product-and-inventory-import.md](product-and-inventory-import.md "mention")  Une fois connecté sur l'interface d'administration, cliquez sur le menu **Produits**, puis sur le bouton **Nouveau Produit**.
 
 <figure><img src="../../.gitbook/assets/Ajouter nouveau produit.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -92,6 +92,10 @@ Si vous souhaitez créer un produit similaire, vous pouvez le copié / coller le
 <figure><img src="../../.gitbook/assets/Modifier un produit cadre.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Modifer produit 2 cadre.jpg" alt=""><figcaption></figcaption></figure>
+
+## Créer des produits associés (nouveau)
+
+La fonctionnalité « Produits Associés » est une nouveauté dans Open Food Network qui offre une solution flexible et efficace pour la gestion des produits partagés entre producteurs et boutiques. Elle répond aux besoins des producteurs qui souhaitent partager leurs produits avec plusieurs boutiques tout en conservant le contrôle sur leurs informations et leur gestion. Vous trouverez plus d'informations à la page "Créer des produits associés".
 
 ## Affiner les attributs des produits
 
