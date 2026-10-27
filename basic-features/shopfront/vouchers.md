@@ -1,6 +1,6 @@
 # Vouchers
 
-Voucher codes can be created to offer shopping discounts to new or existing customers. Voucher functionality is still relatively limited, please read through [this guide before implementing vouchers in your shop process](../../hub-management-tips/how-tos/vouchers-v.-tags.md).&#x20;
+Voucher codes can be created to offer shopping discounts to new or existing customers. Voucher functionality is still relatively limited, please read through [this guide before implementing vouchers in your shop process](../../hub-management-tips/how-tos/vouchers-v.-tags.md). You can instead use customer credit for [gift vouchers](../../hub-management-tips/how-tos/how-to-create-gift-vouchers-1.md) or [taking orders on credit](../../hub-management-tips/how-tos/take-orders-on-credit.md) where you want to limit usage to a single customer or avoid manual deactivation.
 
 {% hint style="info" %}
 Vouchers is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
@@ -10,7 +10,6 @@ Vouchers is in 'beta' mode, meaning it's a new feature that may still have some 
 Visit these pages for a step-by-step guide to using the Vouchers feature to:
 
 * offer a percentage discount via a[ social media campaign](../../hub-management-tips/how-tos/running-a-social-media-promotion.md)
-* [sell and manage gift vouchers](../../hub-management-tips/how-tos/how-to-create-gift-vouchers.md)
 {% endhint %}
 
 Set up and manage vouchers in the **Vouchers** tab in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md).
@@ -40,7 +39,7 @@ New vouchers will be created as active. If you do not want your voucher to be ac
 Vouchers can be turned off and on as needed by enterprise managers.&#x20;
 
 {% hint style="warning" %}
-Voucher codes will not automatically switch off after customer use
+Voucher codes will not automatically switch off after customer use.
 {% endhint %}
 
 In the **Vouchers** page in Enterprise Settings, use the checkbox against each voucher code to deactivate or reactive your vouchers.&#x20;
@@ -61,11 +60,7 @@ Only 1 voucher code can be applied per order
 
 After applying the code, continue through check out to finalise the order
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-21 103819.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Screenshot 2023-11-21 103819.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If the voucher brings the **order total cost to zero**, or below, the customer will not be prompted to enter payment method or details. _See screenshot below_
