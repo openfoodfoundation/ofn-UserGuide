@@ -123,8 +123,6 @@ Cancelling an order will **automatically** **update stock levels**. For example,
 Note that you cannot cancel an order which has been marked as ‘Shipped’
 {% endhint %}
 
-###
-
 ### Partial Refund
 
 To issue a partial refund, you must first edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can adjust item quantities, or make an adjustment:
@@ -161,8 +159,8 @@ You can use ‘Adjustments’ to partially refund a customer for a substandard p
 
 Once the order has been amended to reflect either the missing/adjusted products or the new adjustment, the order will appear with the payment state of **‘Credit Owing’** for the amount the customer no longer needs to pay.
 
-{% hint style="info" %}
-Instead of refunding the customer, you can move the amount owed to their **Customer Credit** balance, to be used automatically on their next order. See [Take orders on Credit.](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit)
+{% hint style="warning" %}
+Instead of refunding the customer, you can now move the amount owed to their **Customer Credit** balance, to be used automatically on their next order. See [Take orders on Credit.](https://guide.openfoodnetwork.org/hub-management-tips/how-tos/take-orders-on-credit)
 {% endhint %}
 
 **Process the Partial Refund**\
@@ -217,6 +215,14 @@ If you opt to add a new payment with the payment method provider ‘Paypal’ th
 {% endhint %}
 
 ![](<../../.gitbook/assets/paypal refund hack.jpg>)
+{% endtab %}
+
+{% tab title="Refund as Credit" %}
+You can now use the **Credit customer** button on a credit owed order to apply the amount owed to the customer as credit on their account.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-27 at 16.40.09.png" alt=""><figcaption></figcaption></figure>
+
+Clicking this button will credit the customer's account with the amount owed, which will be automatically deducted from their next order at checkout. [Read more](../../hub-management-tips/how-tos/take-orders-on-credit.md#from-a-credit-owed-order).
 {% endtab %}
 {% endtabs %}
 

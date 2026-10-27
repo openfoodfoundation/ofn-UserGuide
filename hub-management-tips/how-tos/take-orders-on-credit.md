@@ -18,10 +18,11 @@ Customer Credit is useful when:
 
 Each time credit is added or used, a **Customer Account Transaction** is recorded. This is an immutable ledger entry with an amount and a running balance. The running balance is never recalculated — new entries are appended, and the most recent entry represents the customer's current available credit.
 
-Credit can be added to a customer's account in three ways:
+Credit can be added to a customer's account in four ways:
 
 * **Bulk credit** from the Orders list (select orders → Actions → Credit orders)
 * **Credit customer button** on a "Credit Owed" order (Payments tab → Credit customer)
+* **Manually** via the [Customers](../../basic-features/customers.md#manually-adding-credit) page
 * **API** for integrations with external systems (POST /api/v1/customer\_account\_transaction)
 
 ## Adding credit to a customer's account
@@ -61,9 +62,13 @@ Crediting a customer from an order gives them the flexibility to use that credit
 
 <figure><img src="../../.gitbook/assets/customer-credit-credit-customer-button.png" alt="Payments tab of a Credit Owed order, showing the &#x27;Credit customer&#x27; button"><figcaption><p>Payments tab of a Credit Owed order, showing the 'Credit customer' button</p></figcaption></figure>
 
+### Manually from the Customers screen
+
+Credit can be manually added to a customer's account from the Customers screen. Click the amount in the Available Credit column next to a customer, and then the '+Add credit' button from the transaction history pop-up (further detail in the [Customers](../../basic-features/customers.md#manually-adding-credit) section).
+
 ### Using the API
 
-If your hub integrates with external systems (point-of-sale, accounting software), you can add credit via the Customer Account Transaction API:
+If your hub integrates with external systems (point-of-sale, accounting software), you can add credit via the [Customer Account Transaction API](https://ofn-user-guide.gitbook.io/ofn-api-handbook/ofn-api-v1/customer-account-transaction-customer-credit):
 
 1. Go to your OFN instance's API documentation at `/api-docs/`.
 2. Authorize using your API key (found in your user settings).
@@ -113,7 +118,7 @@ Earlier versions of this page described creating a manual "Pay by Credit" paymen
 
 ### Customers tab
 
-The **Customers** page (`/admin/customers`) has an **Available Credit** column. If it's not visible, use the **Columns** dropdown to enable it. Clicking any amount opens the transaction history for that customer.
+The **Customers** page (`/admin/customers`) has an **Available Credit** column. If it's not visible, use the **Columns** dropdown to enable it. Clicking any amount opens the transaction history for that customer.&#x20;
 
 <figure><img src="../../.gitbook/assets/customer-credit-customers-tab.png" alt="Customers page showing the Available Credit column"><figcaption><p>Customers page showing the Available Credit column</p></figcaption></figure>
 

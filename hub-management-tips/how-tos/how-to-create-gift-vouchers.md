@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Create Gift Vouchers
 
 {% hint style="info" %}
